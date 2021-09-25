@@ -3,10 +3,14 @@
 ## SpaCy setup
 
 `pip install -U pip setuptools wheel`
+
 `pip install -U spacy`
+
 `python -m spacy download it_core_news_sm`
 
 ## SpaCy utils
+
+https://spacy.io/api
 
 https://spacy.io/usage/linguistic-features
 

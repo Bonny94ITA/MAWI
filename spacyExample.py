@@ -24,5 +24,5 @@ for ent in doc.ents:
     print(ent.text, ent.start_char, ent.end_char,
           ent.label_, spacy.explain(ent.label_))
 
-# displacy.serve(doc, style="ent")
+displacy.serve(doc, style="ent")
 # displacy.serve(doc, style="dep")
