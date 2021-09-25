@@ -21,9 +21,10 @@ url_api = "https://en.wikipedia.org/w/api.php"
 
 params = {
     "action": "query",
+    "srlimit": "max",
     "format": "json",
     "list": "search",
-    "srsearch": searchpage,
+    "srsearch": "piazza carlo alberto",
 }
 
 response = session.get(url=url_api, params=params)
