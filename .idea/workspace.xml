@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4476a7b0-e57b-4132-b5ba-8261a4de7c31" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/definition.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/response/wikiPageContent/Turin.json" beforeDir="false" afterPath="$PROJECT_DIR$/response/wikiPageContent/Turin.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spacyExample.py" beforeDir="false" afterPath="$PROJECT_DIR$/spacyExample.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,5 +114,16 @@
       <updated>1630935621291</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

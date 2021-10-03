@@ -16,13 +16,21 @@ print("Initial sentence: ", sentences[0])
 doc = nlp(sentences[0])
 print("Tagged sentence: ", doc.text)
 
-# doc = nlp("In zona San Donato, oltre alla vistosissima Casa Fenoglio, in via Piffetti[N 15] vi sono due esempi databili 1908, opera di Giovanni Gribodo e poco distante vi sono altri esemplari di edifici liberty in via Durandi, via Cibrario e ancora in via Piffetti, al civico 35; mentre di Giovan Battista Benazzo sono Casa Tasca (1903), che ostenta decori floreali, motivi geometrici circolari e ricche decorazioni in ferro battuto per ringhiere e finestre.")
+text = ""
+with open('definition.txt') as f:
+    lines = f.readlines()
+
+for line in lines:
+    text += line
+
+doc = nlp(text)
+# doc = nlp("In zona San Donato, oltre alla vistosissima Casa Fenoglio, in via Piffetti vi sono due esempi databili 1908, opera di Giovanni Gribodo e poco distante vi sono altri esemplari di edifici liberty in via Durandi e via Cibrario e ancora in via Piffetti, al civico 35; mentre di Giovan Battista Benazzo sono Casa Tasca (1903), che ostenta decori floreali, motivi geometrici circolari e ricche decorazioni in ferro battuto per ringhiere e finestre.")
+
 # for token in doc:
-#     print(token.text, token.pos_, token.dep_)
+# print(token.text, token.pos_, token.dep_)
 
 for ent in doc.ents:
-    print(ent.text, ent.start_char, ent.end_char,
-          ent.label_, spacy.explain(ent.label_))
+    print(ent.text, ent.start_char, ent.end_char, ent.label_, spacy.explain(ent.label_))
 
-displacy.serve(doc, style="ent")
+displacy.serve(doc, style="ent", port=8080, host="localhost")
 # displacy.serve(doc, style="dep")
