@@ -34,3 +34,9 @@ QUANTITY:    Measurements, as of weight or distance.
 ORDINAL:     “first”, “second”, etc.
 CARDINAL:    Numerals that do not fall under another type.
 ```
+
+##
+
+Dataset Region/State
+
+https://data.world/dr5hn/country-state-city
