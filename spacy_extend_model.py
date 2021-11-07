@@ -2,11 +2,27 @@
 # Load a spacy model and chekc if it has ner
 from pathlib import Path
 from spacy.util import minibatch, compounding
+from spacy.lang.it.examples import sentences
+from spacy.pipeline.ner import DEFAULT_NER_MODEL
+from spacy import displacy
 import random
 import spacy
 from spacy.training import Example
+
 # nlp = spacy.load('it_core_news_sm')
 nlp = spacy.load('en_core_web_sm')
+
+# config = {
+#     "moves": None,
+#     "update_with_oracle_cut_size": 100,
+#     "model": DEFAULT_NER_MODEL,
+#     "incorrect_spans_key": "incorrect_spans",
+# }
+# nlp.add_pipe("ner", config=config)
+
+# print("Initial sentence: ", sentences[0])
+# doc = nlp(sentences[0])
+# print("Tagged sentence: ", doc.text)
 
 # ['tok2vec', 'morphologizer', 'tagger', 'parser', 'attribute_ruler', 'lemmatizer', 'ner']
 print(nlp.pipe_names)
@@ -55,7 +71,6 @@ print(unaffected_pipes)
 
 # TRAINING THE MODEL
 with nlp.disable_pipes(*unaffected_pipes):
-
     # Training for 30 iterations
     for iteration in range(60):
 

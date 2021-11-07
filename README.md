@@ -35,8 +35,6 @@ ORDINAL:     “first”, “second”, etc.
 CARDINAL:    Numerals that do not fall under another type.
 ```
 
-##
-
-Dataset Region/State
+## Dataset Region/State
 
 https://data.world/dr5hn/country-state-city

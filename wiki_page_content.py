@@ -9,13 +9,6 @@ if len(arguments) == 0:
 else:
     titles, *tail = sys.argv[1:]
 
-
-# indenta JSON
-def jprint(obj):
-    text = json.dumps(obj, sort_keys=True, indent=3)
-    print(text)
-
-
 session = req.Session()
 url_api = "https://en.wikipedia.org/w/api.php"
 

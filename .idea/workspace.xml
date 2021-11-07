@@ -5,14 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4476a7b0-e57b-4132-b5ba-8261a4de7c31" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/definition.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spacy_pipeline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spacyExample.py" beforeDir="false" afterPath="$PROJECT_DIR$/spacyExample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/definition.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assets/test_sentences.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beautifulSoupExample.py" beforeDir="false" afterPath="$PROJECT_DIR$/beautiful_soup_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spacyExample.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spacyExtendModel.py" beforeDir="false" afterPath="$PROJECT_DIR$/spacy_extend_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikiPageContent.py" beforeDir="false" afterPath="$PROJECT_DIR$/wiki_page_content.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikiSearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/wiki_search.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,8 +42,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/wikiPageContent.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.spacyExample">
-    <configuration name="spacyExample" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.spacy_pipeline">
+    <configuration name="spacy_pipeline" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PointOfInterest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -41,7 +55,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spacyExample.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\bonaz\Desktop\Progetti\PointOfInterest\spacy_pipeline.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -50,7 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wikiPageContent" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="wiki_page_content" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PointOfInterest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,7 +76,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wikiPageContent.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\bonaz\Desktop\Progetti\PointOfInterest\wiki_page_content.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wikiSearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="wiki_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PointOfInterest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,7 +97,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wikiSearch.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\bonaz\Desktop\Progetti\PointOfInterest\wiki_search.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,14 +107,14 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.wikiPageContent" />
-      <item itemvalue="Python.wikiSearch" />
-      <item itemvalue="Python.spacyExample" />
+      <item itemvalue="Python.spacy_pipeline" />
+      <item itemvalue="Python.wiki_page_content" />
+      <item itemvalue="Python.wiki_search" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.spacyExample" />
-        <item itemvalue="Python.wikiSearch" />
+        <item itemvalue="Python.spacy_pipeline" />
+        <item itemvalue="Python.wiki_search" />
       </list>
     </recent_temporary>
   </component>
@@ -125,5 +139,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
