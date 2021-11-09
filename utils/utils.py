@@ -58,11 +58,12 @@ def search_with_google(searchable_entities, context):
         # print(soup)
         address = soup.find(class_='LrzXr')
 
+        print('-' * 50)
+        print(URL)
         if address:
             address = address.get_text()
             address = address.strip()
-            print(search_item)
-            print(URL)
-            print(address)
+            print("Elemento di ricerca: ", search_item)
+            print("Indirizzo: ", address)
 
         print('-' * 50)
