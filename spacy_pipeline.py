@@ -10,7 +10,14 @@ doc = nlp(text)
 
 # Tokenization + POS tagging
 # for token in doc:
-#    print(token.text, token.pos_, token.dep_)
+#     # print(token.text, token.lemma_, token.pos_, token.tag_, token.dep_,
+#     #       token.shape_, token.is_alpha, token.is_stop, token.i, token.idx)
+
+#     print("*" * 30)
+#     print(f"Word: {token.text}")
+#     print(f"Word index: {token.i}")
+#     print(f"Word start character index: {token.idx}")
+#     print("*" * 30)
 
 # Opening JSON file
 f = open('./assets/italian_cities.json')

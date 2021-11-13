@@ -14,6 +14,12 @@ https://spacy.io/api
 
 https://spacy.io/usage/linguistic-features
 
+**Token attributes:**
+https://spacy.io/api/token#attributes
+
+**Entity attributes:**
+https://spacy.io/usage/linguistic-features#named-entities
+
 ```
 PERSON:      People, including fictional.
 NORP:        Nationalities or religious or political groups.

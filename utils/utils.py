@@ -37,6 +37,7 @@ def get_entities(nlp_text, counter):
     searchable_entities = []
     for ent in nlp_text.ents:
         if ent.text not in counter:
+            print(ent.text, ent.start_char, ent.end_char)
             searchable_entities.append(ent.text)
     return list(dict.fromkeys(searchable_entities))
 
