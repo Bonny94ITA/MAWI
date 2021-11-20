@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import urllib
 import json
+import os
 
 
 # JSON indent
@@ -42,7 +43,21 @@ def get_entities(nlp_text, counter):
     return list(dict.fromkeys(searchable_entities))
 
 
+def print_to_file(file_path, text_to_append):
+    with open(file_path, "a") as file:
+        file.write(text_to_append + "\n")
+
+
+def delete_file(file_path):
+    if os.path.exists(file_path):
+        os.remove(file_path)
+
+
 def search_with_google(searchable_entities, context):
+    response_file_path = f"response/spacy_pipeline/{context}.txt"
+
+    delete_file(response_file_path)
+
     for search_item in searchable_entities:
         text = urllib.parse.quote_plus(search_item + " " + context)
         URL = 'https://google.it/search?q=' + text + "&hl=it"
@@ -59,12 +74,40 @@ def search_with_google(searchable_entities, context):
         # print(soup)
         address = soup.find(class_='LrzXr')
 
-        print('-' * 50)
-        print(URL)
+        print_to_file(response_file_path, '-' * 50)
+        print_to_file(response_file_path, URL)
         if address:
             address = address.get_text()
             address = address.strip()
-            print("Elemento di ricerca: ", search_item)
-            print("Indirizzo: ", address)
+            print_to_file(
+                response_file_path,
+                f"Research term: {search_item}")
+            print_to_file(response_file_path, f"Address: {address}")
 
-        print('-' * 50)
+        print_to_file(response_file_path, '-' * 50)
+
+
+def wiki_content(argument):
+    titles = argument
+
+    session = requests.Session()
+    url_api = "https://en.wikipedia.org/w/api.php"
+
+    params = {
+        "action": "query",
+        "format": "json",
+        "prop": "extracts",
+        "titles": titles,
+        "formatversion": "2"
+    }
+
+    response = session.get(url=url_api, params=params)
+
+    data = response.json()
+
+    content = data['query']['pages'][0]['extract']
+
+    with open(f'response/wikiPageContent/{titles}.txt', 'w') as f:
+        json.dump(content, f)
+
+    return content

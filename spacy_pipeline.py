@@ -1,10 +1,12 @@
-from utils.utils import read_text_file, count_occurrences, get_entities, search_with_google
+from utils.utils import read_text_file, count_occurrences, get_entities, search_with_google, wiki_content
 import spacy
 import json
 
 nlp = spacy.load("it_core_news_sm")
 
-text = read_text_file('assets/test_sentences.txt')
+# Read wiki pages
+text = wiki_content("Turin")
+#text = read_text_file('assets/test_sentences.txt')
 
 doc = nlp(text)
 

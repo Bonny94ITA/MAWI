@@ -31,7 +31,6 @@ content = data['query']['pages'][0]['revisions'][0]['slots']['main']['content']
 
 with open(f'response/wikiPageContent/{titles}.json', 'w') as f:
     json.dump(data, f)
-    print("The result has been saved as a file inside the response folder")
 
 # Versione 2
 # params = {
