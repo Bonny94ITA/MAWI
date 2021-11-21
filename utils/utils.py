@@ -87,9 +87,7 @@ def search_with_google(searchable_entities, context):
         print_to_file(response_file_path, '-' * 50)
 
 
-def wiki_content(argument):
-    titles = argument
-
+def wiki_content(titles):
     session = requests.Session()
     url_api = "https://en.wikipedia.org/w/api.php"
 
@@ -102,9 +100,7 @@ def wiki_content(argument):
     }
 
     response = session.get(url=url_api, params=params)
-
     data = response.json()
-
     content = data['query']['pages'][0]['extract']
 
     with open(f'response/wikiPageContent/{titles}.txt', 'w') as f:
