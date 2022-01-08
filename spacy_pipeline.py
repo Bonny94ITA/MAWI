@@ -3,7 +3,7 @@ import spacy
 import json
 
 nlp = spacy.load("it_core_news_sm")
-cities = ["Turin"]
+cities = ["Torino"]
 
 for city in cities:
     # Read wiki pages
@@ -11,6 +11,9 @@ for city in cities:
     # text = read_text_file('assets/test_sentences.txt')
 
     doc = nlp(text)
+
+    sentence_list = list(doc.sents)
+    print(sentence_list[:12])
 
     # Tokenization + POS tagging
     # for token in doc:
@@ -29,11 +32,11 @@ for city in cities:
 
     # Count occurrences
     counter = count_occurrences(doc, italian_cities, "name")
-    print(counter)
+    # print(counter)
 
     # Max occurrence
     context = max(counter, key=counter.get)
-    print(context)
+    # print(context)
 
     # Get entities without duplicates
     searchable_entities = get_entities(doc, counter)
