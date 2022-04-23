@@ -8,7 +8,10 @@
 
 `python -m spacy download it_core_news_sm`
 
-## SpaCy utils
+`python -m spacy download en_core_web_sm`
+
+
+# SpaCy utils
 
 https://spacy.io/api
 
@@ -44,3 +47,10 @@ CARDINAL:    Numerals that do not fall under another type.
 ## Dataset Region/State
 
 https://data.world/dr5hn/country-state-city
+
+## BeautifulSoup setup and utils
+
+https://pypi.org/project/beautifulsoup4/
+
+`pip install beautifulsoup4`
+`pip install html5lib`
