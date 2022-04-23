@@ -1,5 +1,5 @@
 # https://www.machinelearningplus.com/nlp/training-custom-ner-model-in-spacy/
-# Load a spacy model and chekc if it has ner
+# Load a spacy model and check if it has ner
 from pathlib import Path
 from spacy.util import minibatch, compounding
 from spacy.lang.it.examples import sentences
@@ -35,26 +35,27 @@ TRAIN_DATA = [
     ("Walmart is a leading e-commerce company", {"entities": [(0, 7, "ORG")]}),
     ("I reached Chennai yesterday.", {
         "entities": [(10, 17, "GPE")]}),
-    ("I recently ordered a book from Amazon", {"entities": [(24, 32, "ORG")]}),
+    ("I recently ordered a book from Amazon", {"entities": [(31, 37, "ORG")]}),
     ("I was driving a BMW", {"entities": [(16, 19, "PRODUCT")]}),
     ("I ordered this from ShopClues", {"entities": [(20, 29, "ORG")]}),
     ("Fridge can be ordered in Amazon ", {"entities": [(0, 6, "PRODUCT")]}),
-    ("I bought a new Washer", {"entities": [(16, 22, "PRODUCT")]}),
-    ("I bought a old table", {"entities": [(16, 21, "PRODUCT")]}),
-    ("I bought a fancy dress", {"entities": [(18, 23, "PRODUCT")]}),
-    ("I rented a camera", {"entities": [(12, 18, "PRODUCT")]}),
-    ("I rented a tent for our trip", {"entities": [(12, 16, "PRODUCT")]}),
+    ("I bought a new Washer", {"entities": [(15, 21, "PRODUCT")]}),
+    ("I bought a old table", {"entities": [(15, 20, "PRODUCT")]}),
+    ("I bought a fancy dress", {"entities": [(17, 22, "PRODUCT")]}),
+    ("I rented a camera", {"entities": [(11, 17, "PRODUCT")]}),
+    ("I rented a tent for our trip", {"entities": [(11, 15, "PRODUCT")]}),
     ("I rented a screwdriver from our neighbour",
-     {"entities": [(12, 22, "PRODUCT")]}),
-    ("I repaired my computer", {"entities": [(15, 23, "PRODUCT")]}),
-    ("I got my clock fixed", {"entities": [(16, 21, "PRODUCT")]}),
-    ("I got my truck fixed", {"entities": [(16, 21, "PRODUCT")]}),
+     {"entities": [(11, 22, "PRODUCT")]}),
+    ("I repaired my computer", {"entities": [(14, 22, "PRODUCT")]}),
+    ("I got my clock fixed", {"entities": [(15, 20, "PRODUCT")]}),
+    ("I got my truck fixed", {"entities": [(15, 20, "PRODUCT")]}),
     ("Flipkart started it's journey from zero", {"entities": [(0, 8, "ORG")]}),
     ("I recently ordered from Max", {"entities": [(24, 27, "ORG")]}),
     ("Flipkart is recognized as leader in market",
      {"entities": [(0, 8, "ORG")]}),
-    ("I recently ordered from Swiggy", {"entities": [(24, 29, "ORG")]})
+    ("I recently ordered from Swiggy", {"entities": [(24, 30, "ORG")]})
 ]
+
 
 for text, annotations in TRAIN_DATA:
     tags = spacy.training.offsets_to_biluo_tags(
@@ -94,6 +95,6 @@ with nlp.disable_pipes(*unaffected_pipes):
         # print("Losses", losses)
 
 # Testing the model
-doc = nlp("I repaired my computer")
+doc = nlp("I need to go repair my computer")
 print(doc.ents)
 print("Entities", [(ent.text, ent.label_) for ent in doc.ents])
