@@ -121,7 +121,7 @@ def search_with_google(searchable_entities, context):
         text = urllib.parse.quote_plus(search_item + " " + context)
         URL = 'https://google.it/search?q=' + text + "&hl=it"
 
-        # print(URL)
+        print(URL)
 
         headers = {
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36',
@@ -130,8 +130,9 @@ def search_with_google(searchable_entities, context):
         s = requests.Session()
         page = s.get(URL, headers=headers)
         soup = BeautifulSoup(page.content, 'html5lib')
-        print(soup)
+        # print(soup)
         address = soup.find(class_='LrzXr')
+        print("Address: ", address)
 
         activity = soup.find(class_='zloOqf', string="€")
         print("Activity: ", activity)
