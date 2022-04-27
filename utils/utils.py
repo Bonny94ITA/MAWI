@@ -175,6 +175,16 @@ def wiki_content(titles):
     data = response.json()
     content = data['query']['pages'][0]['extract']
     soup = BeautifulSoup(content, features="lxml")
+
+    #Delete all the part which is not meaningful
+    Htag = soup.body
+    i = 0
+    find = False
+    while i < len(Htag.contents) and not find:
+        find = str(Htag.contents[i]) == '<h2><span id="Note">Note</span></h2>' 
+        i += 1
+    del Htag.contents[i-1:]
+
     cleaned_content = soup.get_text().replace('\n', '')
 
     with open(f'response/wikiPageContent/{titles}.txt', 'w', encoding='utf-8') as f:

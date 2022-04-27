@@ -45,5 +45,5 @@ data = response.json()
 
 #content = data['query']['pages'][0]['revisions'][0]['slots']['main']['content']
 
-with open(f'response/wikiPageContent/{titles}.json', 'w') as f:
+with open(f'response/wikiPageContent/{titles}.json', 'w', encoding='utf-8') as f:
     json.dump(data, f)
