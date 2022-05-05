@@ -22,10 +22,12 @@ for city in cities:
     
     # Max occurrence
     context = max(counter, key=counter.get) 
-    #print(context)
+    print(context)
 
     # Get entities without duplicates
     searchable_entities = get_entities(doc, counter)
+
+    print(searchable_entities)
     #print(searchable_entities)
 
     # Search addresses with Google

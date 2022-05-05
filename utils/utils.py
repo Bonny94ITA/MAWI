@@ -52,23 +52,25 @@ def count_occurrences(nlp_text, input_json, param_to_search):
                     counter[occurrence] += 1
     return counter
 
-
+"""
 def get_entities(nlp_text, counter):
-    """ Get the entities from the nlp_text which are not cities.
+    Get the entities from the nlp_text which are not cities and print snippet in which
+        they appears.
 
     Args:
         nlp_text: spacy text
         counter: dictionary with the entities (cities name) to search and their occurences
-    """
+    
     searchable_entities = []
-    sentence_dict = generate_sentences_dictionary(list(nlp_text.sents))
-    for ent in nlp_text.ents:
+    sents = list(nlp_text.sents)
+    sentence_dict = generate_sentences_dictionary(nlp_text)
+    for ent in nlp_text.ents: 
         if ent.text not in counter: #se l'entità non è nel counter quindi non è una città
-            #print("Text: ", ent.text,
-                 # ent.start_char,
-                  #ent.end_char, "\n",
-                  #"Sentence index: ", sentence_dict[ent.start_char], "\n",
-                  #"Sentence: ", list(nlp_text.sents)[sentence_dict[ent.start_char]])
+            print("Text: ", ent.text,
+                ent.start_char,
+                ent.end_char, "\n",
+                "Sentence index: ", sentence_dict[ent.start_char], "\n",
+                "Sentence: ", list(sents)[sentence_dict[ent.start_char][0]])
 
             searchable_entities.append(ent.text)
     print(list(dict.fromkeys(searchable_entities)))
@@ -76,7 +78,69 @@ def get_entities(nlp_text, counter):
 
 
 def generate_sentences_dictionary(sentence_list):
-    """ Generate a dictionary with the sentence index and the start char index.
+    Generate a dictionary with the snipet index and the start char index.
+    
+    Args:
+        sentence_list: list of sentences
+    Returns:
+        sentence_dict: dictionary with the index of the sentence and the index in the text
+    
+
+    sentences_dict = {}
+    first_char = 0
+    for idx, sentence in enumerate(sentence_list):
+        #last_char = first_char + len(sentence) # mi prenderà anche gli spazi!
+        for char in sentence.text:
+            if char != ' ':
+                sentences_dict[first_char] = [idx, first_char]
+                first_char += 1
+            else: 
+                print("SPAZIO VUOTO")
+
+    return sentences_dict
+"""
+
+def get_entities(nlp_text, counter):
+    """Get the entities from the nlp_text which are not cities and print snippet in which
+        they appears.
+
+    Args:
+        nlp_text: spacy text
+        counter: dictionary with the entities (cities name) to search and their occurences
+    """
+
+    searchable_entities = {}
+    sents = list(nlp_text.sents)
+    sentence_dict = generate_sentences_dictionary(sents) #DA AGGIUSTARE
+    for ent in nlp_text.ents: 
+        if ent.text not in counter: #entity is not an italian city
+            appears_in = search_dict(sentence_dict, ent)
+            """for (index, sentence) in appears_in:
+                print("Text: ", ent.text, "\n",
+                    "Sentence index: ", index, "\n",
+                    "Sentence: ", sentence, "\n")"""
+            searchable_entities[ent.text] = [sent for (_, sent) in appears_in] #ent associate to the list of sentences in which it appears
+
+    return list(dict.fromkeys(searchable_entities))
+
+def search_dict(dict, ent):
+    """Search in a dictionary dict the entity ent. 
+    Args:
+        dict: dictionary where to search
+        ent: entity to search
+
+    Returns:
+        list of the sentence index and sentence in which the entity appears
+    """
+    appears = []
+    for index, sentence in dict.items():
+        if ent.text in sentence.text:
+            appears.append((index, sentence))
+    
+    return appears
+
+def generate_sentences_dictionary(sentence_list):
+    """Generate a dictionary with the snipet index and the snippet itself.
     
     Args:
         sentence_list: list of sentences
@@ -84,16 +148,10 @@ def generate_sentences_dictionary(sentence_list):
         sentence_dict: dictionary with the index of the sentence and the index in the text
     """
     sentences_dict = {}
-    first_char = 0
-    for idx, sentence in enumerate(sentence_list):
-        last_char = first_char + len(sentence) - 1
-        
-        while first_char <= last_char:
-            sentences_dict[first_char] = idx
-            first_char += 1
+    for index, sentence in enumerate(sentence_list):
+        sentences_dict[index] = sentence
 
     return sentences_dict
-
 
 def print_to_file(file_path, text_to_append):
     with open(file_path, "a", encoding="utf-8") as file:
@@ -131,6 +189,7 @@ def search_with_google(searchable_entities, context):
         page = s.get(URL, headers=headers)
         soup = BeautifulSoup(page.content, 'html5lib')
         # print(soup)
+        
         address = soup.find(class_='LrzXr')
         print("Address: ", address)
 
@@ -183,9 +242,11 @@ def wiki_content(titles):
     while i < len(Htag.contents) and not find:
         find = str(Htag.contents[i]) == '<h2><span id="Note">Note</span></h2>' 
         i += 1
+    
     del Htag.contents[i-1:]
 
-    cleaned_content = soup.get_text().replace('\n', '')
+    #print(soup)
+    cleaned_content = soup.get_text().replace('\n', ' ')
 
     with open(f'response/wikiPageContent/{titles}.txt', 'w', encoding='utf-8') as f:
         json.dump(cleaned_content, f, ensure_ascii=False)
