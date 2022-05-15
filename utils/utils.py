@@ -5,6 +5,8 @@ import json
 import os
 import time
 
+entity_to_discard = ["PER"]
+
 
 # JSON indent
 def jprint(obj):
@@ -43,62 +45,15 @@ def count_occurrences(nlp_text, input_json, param_to_search):
     """
     counter = {}
     for ent in nlp_text.ents:
-        for elem in input_json: 
-            occurrence = elem[param_to_search] 
-            if occurrence == ent.text: 
-                if occurrence not in counter:
-                    counter[occurrence] = 1
-                else:
-                    counter[occurrence] += 1
+        if ent.label_ not in entity_to_discard:
+            for elem in input_json: 
+                occurrence = elem[param_to_search] 
+                if occurrence.__contains__(ent.text): # momentamente uso un contains -> NB: c'è Genova, Milano che non vengono riconosciute 
+                    if occurrence not in counter:
+                        counter[ent.text] = 1
+                    else:
+                        counter[ent.text] += 1
     return counter
-
-"""
-def get_entities(nlp_text, counter):
-    Get the entities from the nlp_text which are not cities and print snippet in which
-        they appears.
-
-    Args:
-        nlp_text: spacy text
-        counter: dictionary with the entities (cities name) to search and their occurences
-    
-    searchable_entities = []
-    sents = list(nlp_text.sents)
-    sentence_dict = generate_sentences_dictionary(nlp_text)
-    for ent in nlp_text.ents: 
-        if ent.text not in counter: #se l'entità non è nel counter quindi non è una città
-            print("Text: ", ent.text,
-                ent.start_char,
-                ent.end_char, "\n",
-                "Sentence index: ", sentence_dict[ent.start_char], "\n",
-                "Sentence: ", list(sents)[sentence_dict[ent.start_char][0]])
-
-            searchable_entities.append(ent.text)
-    print(list(dict.fromkeys(searchable_entities)))
-    return list(dict.fromkeys(searchable_entities))
-
-
-def generate_sentences_dictionary(sentence_list):
-    Generate a dictionary with the snipet index and the start char index.
-    
-    Args:
-        sentence_list: list of sentences
-    Returns:
-        sentence_dict: dictionary with the index of the sentence and the index in the text
-    
-
-    sentences_dict = {}
-    first_char = 0
-    for idx, sentence in enumerate(sentence_list):
-        #last_char = first_char + len(sentence) # mi prenderà anche gli spazi!
-        for char in sentence.text:
-            if char != ' ':
-                sentences_dict[first_char] = [idx, first_char]
-                first_char += 1
-            else: 
-                print("SPAZIO VUOTO")
-
-    return sentences_dict
-"""
 
 def get_entities(nlp_text, counter):
     """Get the entities from the nlp_text which are not cities and print snippet in which
@@ -121,7 +76,7 @@ def get_entities(nlp_text, counter):
                     "Sentence: ", sentence, "\n")"""
             searchable_entities[ent.text] = [sent for (_, sent) in appears_in] #ent associate to the list of sentences in which it appears
 
-    return list(dict.fromkeys(searchable_entities))
+    return list(searchable_entities)
 
 def search_dict(dict, ent):
     """Search in a dictionary dict the entity ent. 
@@ -148,7 +103,7 @@ def generate_sentences_dictionary(sentence_list):
         sentence_dict: dictionary with the index of the sentence and the index in the text
     """
     sentences_dict = {}
-    for index, sentence in enumerate(sentence_list):
+    for index, sentence in enumerate(sentence_list): #FORSE NON MI SERVE L'INDEX IN GENERALE?
         sentences_dict[index] = sentence
 
     return sentences_dict
@@ -163,7 +118,7 @@ def delete_file(file_path):
         os.remove(file_path)
 
 
-def search_with_google(searchable_entities, context):
+def search_with_google(searchable_entities, context): #TODO: fix!
     """ Search entities in Google.
     
     Args:
