@@ -5,7 +5,7 @@ import sys
 arguments = sys.argv[1:]
 
 if len(arguments) == 0:
-    searchpage = "Turin"
+    searchpage = "Torino"
 else:
     searchpage, *tail = sys.argv[1:]
 
@@ -27,7 +27,7 @@ if data['query']['search'][0]['title'] == searchpage:
     print("Your search page '" + searchpage + "' exists on English Wikipedia")
 
 with open(f'response/wikiSearch/{searchpage}.json', 'w') as f:
-    json.dump(data, f)
+    json.dump(data, f, indent=4)
     print("The result has been saved as a file inside the response folder")
 
 # jprint(data)

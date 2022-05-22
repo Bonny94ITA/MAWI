@@ -12,10 +12,10 @@ with open(f'assets/cities.json', 'r', encoding='utf-8') as f:
 
     for element in data:
         if element['country_code'] == 'IT':
-            if element['name'].__contains__("Provincia di"): 
-                element['name'] = element['name'].replace("Provincia di", '') 
-            elif element['name'].__contains__("Città metropolitana di"):
-                element['name'] = element['name'].replace("Città metropolitana di", '')
+            if element['name'].__contains__("Provincia di "): 
+                element['name'] = element['name'].replace("Provincia di ", '') 
+            elif element['name'].__contains__("Città metropolitana di "):
+                element['name'] = element['name'].replace("Città metropolitana di ", '')
             filtered_cities.append(element)
 
 with open(f'assets/italian_cities.json', 'w', encoding='utf-8') as f:
