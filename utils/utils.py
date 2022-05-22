@@ -45,14 +45,13 @@ def count_occurrences(nlp_text, input_json, param_to_search):
     """
     counter = {}
     for ent in nlp_text.ents:
-        if ent.label_ not in entity_to_discard:
-            for elem in input_json: 
-                occurrence = elem[param_to_search] 
-                if occurrence.__contains__(ent.text): # momentamente uso un contains -> NB: c'è Genova, Milano che non vengono riconosciute 
-                    if occurrence not in counter:
-                        counter[ent.text] = 1
-                    else:
-                        counter[ent.text] += 1
+        for elem in input_json: 
+            occurrence = elem[param_to_search] 
+            if occurrence == ent.text : #qui c'è stata la pulizia del json
+                if occurrence not in counter:
+                    counter[ent.text] = 1
+                else:
+                    counter[ent.text] += 1
     return counter
 
 def get_entities(nlp_text, counter):
@@ -66,9 +65,9 @@ def get_entities(nlp_text, counter):
 
     searchable_entities = {}
     sents = list(nlp_text.sents)
-    sentence_dict = generate_sentences_dictionary(sents) #DA AGGIUSTARE
+    sentence_dict = generate_sentences_dictionary(sents)
     for ent in nlp_text.ents: 
-        if ent.text not in counter: #entity is not an italian city
+        if ent.text not in counter and ent.label_ not in entity_to_discard: #entity is not an italian city
             appears_in = search_dict(sentence_dict, ent)
             """for (index, sentence) in appears_in:
                 print("Text: ", ent.text, "\n",
@@ -134,13 +133,24 @@ def search_with_google(searchable_entities, context): #TODO: fix!
         text = urllib.parse.quote_plus(search_item + " " + context)
         URL = 'https://google.it/search?q=' + text + "&hl=it"
 
+        URLLOC = 'https://geocode.maps.co/search?q={'+text+'}'
         print(URL)
-
+        print(URLLOC)
         headers = {
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36',
         }
 
         s = requests.Session()
+        
+        response = s.get(URLLOC)
+        addressAPI = response.json()
+
+        print("RESULT LOC: ", addressAPI)
+        if len(addressAPI) > 0:
+            addressAPI = addressAPI[0]['display_name']
+
+            print("DISPLAY NAME: ", addressAPI)
+
         page = s.get(URL, headers=headers)
         soup = BeautifulSoup(page.content, 'html5lib')
         # print(soup)
@@ -160,7 +170,8 @@ def search_with_google(searchable_entities, context): #TODO: fix!
                 response_file_path,
                 f"Research term: {search_item}")
             print_to_file(response_file_path, f"Address: {address}")
-
+        
+        print_to_file(response_file_path, f"Address API: {addressAPI}")
         print_to_file(response_file_path, '-' * 50)
 
         time.sleep(.600)
