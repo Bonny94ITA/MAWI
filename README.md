@@ -54,3 +54,13 @@ https://pypi.org/project/beautifulsoup4/
 
 `pip install beautifulsoup4`
 `pip install html5lib`
+
+## Geojson setup
+
+https://pypi.org/project/geojson/
+
+`pip install geojson`
+
+http://geojson.io
+
+https://geocode.maps.co

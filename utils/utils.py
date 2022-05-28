@@ -4,6 +4,8 @@ import urllib
 import json
 import os
 import time
+from geojson import Feature, Point, FeatureCollection
+import geojson
 
 entity_to_discard = ["PER"]
 
@@ -14,7 +16,7 @@ def jprint(obj):
     print(text)
 
 
-def read_text_file(path):
+def read_text_file(path: str):
     """Read a text file from a path.
 
     Args: 
@@ -31,7 +33,7 @@ def read_text_file(path):
     return text
 
 
-def count_occurrences(nlp_text, input_json, param_to_search):
+def count_occurrences(nlp_text, input_json: list, param_to_search: str):
     """Count occurences of the param to search of the input json in the
     nlp_text.
 
@@ -47,14 +49,14 @@ def count_occurrences(nlp_text, input_json, param_to_search):
     for ent in nlp_text.ents:
         for elem in input_json: 
             occurrence = elem[param_to_search] 
-            if occurrence == ent.text : #qui c'è stata la pulizia del json
+            if occurrence == ent.text: 
                 if occurrence not in counter:
                     counter[ent.text] = 1
                 else:
                     counter[ent.text] += 1
     return counter
 
-def get_entities(nlp_text, counter):
+def get_entities_snippet(nlp_text, counter: dict):
     """Get the entities from the nlp_text which are not cities and print snippet in which
         they appears.
 
@@ -75,9 +77,9 @@ def get_entities(nlp_text, counter):
                     "Sentence: ", sentence, "\n")"""
             searchable_entities[ent.text] = [sent for (_, sent) in appears_in] #ent associate to the list of sentences in which it appears
 
-    return list(searchable_entities)
+    return searchable_entities
 
-def search_dict(dict, ent):
+def search_dict(dict: dict, ent):
     """Search in a dictionary dict the entity ent. 
     Args:
         dict: dictionary where to search
@@ -89,11 +91,11 @@ def search_dict(dict, ent):
     appears = []
     for index, sentence in dict.items():
         if ent.text in sentence.text:
-            appears.append((index, sentence))
+            appears.append((index, sentence.text))
     
     return appears
 
-def generate_sentences_dictionary(sentence_list):
+def generate_sentences_dictionary(sentence_list: dict):
     """Generate a dictionary with the snipet index and the snippet itself.
     
     Args:
@@ -102,7 +104,7 @@ def generate_sentences_dictionary(sentence_list):
         sentence_dict: dictionary with the index of the sentence and the index in the text
     """
     sentences_dict = {}
-    for index, sentence in enumerate(sentence_list): #FORSE NON MI SERVE L'INDEX IN GENERALE?
+    for index, sentence in enumerate(sentence_list): #Can be useful if we like to have more snippet
         sentences_dict[index] = sentence
 
     return sentences_dict
@@ -117,8 +119,8 @@ def delete_file(file_path):
         os.remove(file_path)
 
 
-def search_with_google(searchable_entities, context): #TODO: fix!
-    """ Search entities in Google.
+def search_entities(searchable_entities: dict, context: str):
+    """ Search entities with API geocode.maps
     
     Args:
         searchable_entities: list of entities to search
@@ -126,55 +128,79 @@ def search_with_google(searchable_entities, context): #TODO: fix!
     """
 
     response_file_path = f"response/spacy_pipeline/{context}.txt"
+    response_geojson_file_path = f"response/spacy_pipeline/{context}_geojson.geojson"
 
     delete_file(response_file_path)
 
-    for search_item in searchable_entities:
-        text = urllib.parse.quote_plus(search_item + " " + context)
-        URL = 'https://google.it/search?q=' + text + "&hl=it"
+    list_features = []
+
+    for search_item in searchable_entities.keys():
+        text = urllib.parse.quote_plus(search_item+ " " + context)
+        #URL = 'https://google.it/search?q=' + text + "&hl=it"
 
         URLLOC = 'https://geocode.maps.co/search?q={'+text+'}'
-        print(URL)
+        URLGEOJSON = 'https://geocode.maps.co/search?q={'+text+'}&format=geojson'
+        #print(URL)
         print(URLLOC)
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36',
-        }
+        #headers = {
+        #    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36',
+        #}
 
         s = requests.Session()
         
         response = s.get(URLLOC)
+        responseGeoJson = s.get(URLGEOJSON)
         addressAPI = response.json()
-
+        resultGeoJson = responseGeoJson.json()
         print("RESULT LOC: ", addressAPI)
+
         if len(addressAPI) > 0:
             addressAPI = addressAPI[0]['display_name']
+            addressGeoJson = resultGeoJson['features'][0]
+
+            coordinates = resultGeoJson['features'][0]['geometry']['coordinates']
+            loc_point = Point((coordinates[0], coordinates[1]))
+            loc_feature = Feature(geometry=loc_point, properties={"entity": search_item, "name_location": addressAPI, "snippet": searchable_entities[search_item]})
+
+            list_features.append(loc_feature)    
 
             print("DISPLAY NAME: ", addressAPI)
+            print("RESULT GEOJSON: ", addressGeoJson)
+            print("OBJECT GEOJSON: ", loc_feature)
+        else: 
+            addressAPI = ""
 
-        page = s.get(URL, headers=headers)
-        soup = BeautifulSoup(page.content, 'html5lib')
+        #page = s.get(URL, headers=headers)
+        #soup = BeautifulSoup(page.content, 'html5lib')
         # print(soup)
         
-        address = soup.find(class_='LrzXr')
-        print("Address: ", address)
+        #address = soup.find(class_='LrzXr')
+        #print("Address: ", address)
 
-        activity = soup.find(class_='zloOqf', string="€")
-        print("Activity: ", activity)
+        #activity = soup.find(class_='zloOqf', string="€")
+        #print("Activity: ", activity)
 
         print_to_file(response_file_path, '-' * 50)
-        print_to_file(response_file_path, URL)
-        if address:
-            address = address.get_text()
-            address = address.strip()
+        print_to_file(response_file_path, URLLOC)
+        if addressAPI:
+            address = addressAPI.strip()
             print_to_file(
                 response_file_path,
                 f"Research term: {search_item}")
             print_to_file(response_file_path, f"Address: {address}")
+            print_to_file(response_file_path, f"Address GEOJSON: {addressGeoJson}")
         
-        print_to_file(response_file_path, f"Address API: {addressAPI}")
+        #print_to_file(response_file_path, f"Address API: {addressAPI}")
         print_to_file(response_file_path, '-' * 50)
 
         time.sleep(.600)
+    
+    geojson_object = FeatureCollection(list_features)
+    print(len(geojson_object["features"]))
+    with open(response_geojson_file_path, 'w', encoding='utf-8') as f:
+        geojson.dump(geojson_object, f, indent=4)
+        print("The result has been saved as a file inside the response folder")
+
 
 
 def wiki_content(titles):
