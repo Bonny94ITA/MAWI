@@ -2,19 +2,7 @@
 https://geocode.maps.co/search?q={AFI%3A+Torino}
 --------------------------------------------------
 --------------------------------------------------
-https://geocode.maps.co/search?q={Italia+Torino}
-Research term: Italia
-Address: Torino, Piemonte, Italia
-Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 288287335, 'osm_type': 'relation', 'osm_id': 43992, 'display_name': 'Torino, Piemonte, Italia', 'place_rank': 16, 'category': 'boundary', 'type': 'administrative', 'importance': 0.9268062387577691}, 'bbox': [7.5778348, 45.0067924, 7.7733388, 45.1402175], 'geometry': {'type': 'Point', 'coordinates': [7.6824892, 45.0677551]}}
---------------------------------------------------
---------------------------------------------------
 https://geocode.maps.co/search?q={UNESCO+Torino}
---------------------------------------------------
---------------------------------------------------
-https://geocode.maps.co/search?q={Piemonte+Torino}
-Research term: Piemonte
-Address: Torino, Piemonte, Italia
-Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 288287335, 'osm_type': 'relation', 'osm_id': 43992, 'display_name': 'Torino, Piemonte, Italia', 'place_rank': 16, 'category': 'boundary', 'type': 'administrative', 'importance': 0.9268062387577691}, 'bbox': [7.5778348, 45.0067924, 7.7733388, 45.1402175], 'geometry': {'type': 'Point', 'coordinates': [7.6824892, 45.0677551]}}
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Po+Torino}
@@ -344,18 +332,6 @@ Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 54522073, 'osm_t
 https://geocode.maps.co/search?q={guerra+di+successione+spagnola+Torino}
 --------------------------------------------------
 --------------------------------------------------
-https://geocode.maps.co/search?q={Sicilia+Torino}
-Research term: Sicilia
-Address: Sicilia, Corso Moncalieri, Pilonetto, Circoscrizione 8, Cavoretto, Torino, Piemonte, 10133, Italia
-Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 13127749, 'osm_type': 'node', 'osm_id': 1262209837, 'display_name': 'Sicilia, Corso Moncalieri, Pilonetto, Circoscrizione 8, Cavoretto, Torino, Piemonte, 10133, Italia', 'place_rank': 30, 'category': 'highway', 'type': 'bus_stop', 'importance': 0.22100000000000003}, 'bbox': [7.68471, 45.04321, 7.68481, 45.04331], 'geometry': {'type': 'Point', 'coordinates': [7.68476, 45.04326]}}
---------------------------------------------------
---------------------------------------------------
-https://geocode.maps.co/search?q={Sardegna+Torino}
-Research term: Sardegna
-Address: Torino, Via Trento, Otieri/Ozieri, Sassari, Sardigna/Sardegna, 07014, Italia
-Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 60014309, 'osm_type': 'node', 'osm_id': 5338029325, 'display_name': 'Torino, Via Trento, Otieri/Ozieri, Sassari, Sardigna/Sardegna, 07014, Italia', 'place_rank': 30, 'category': 'amenity', 'type': 'cafe', 'importance': 0.21100000000000002}, 'bbox': [9.0011109, 40.585284, 9.0012109, 40.585384], 'geometry': {'type': 'Point', 'coordinates': [9.0011609, 40.585334]}}
---------------------------------------------------
---------------------------------------------------
 https://geocode.maps.co/search?q={Casato+dei+Savoia+Torino}
 --------------------------------------------------
 --------------------------------------------------
@@ -369,9 +345,6 @@ https://geocode.maps.co/search?q={campagna+d%27Italia+Torino}
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Dupont+Torino}
-Research term: Dupont
-Address: DUPONT COTIA, Granja Viana II Gl. 1 e 2, Cotia, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 06714-050, Brasil
-Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 182038556, 'osm_type': 'way', 'osm_id': 334951931, 'display_name': 'DUPONT COTIA, Granja Viana II Gl. 1 e 2, Cotia, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 06714-050, Brasil', 'place_rank': 27, 'category': 'highway', 'type': 'service', 'importance': 0.17499999999999996}, 'bbox': [-46.868284, -23.5951324, -46.867547, -23.5939928], 'geometry': {'type': 'Point', 'coordinates': [-46.8678099, -23.5944205]}}
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Ministro+straordinario+francese+Torino}
@@ -405,12 +378,6 @@ https://geocode.maps.co/search?q={Bulletin+Torino}
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Congresso+di+Vienna+Torino}
---------------------------------------------------
---------------------------------------------------
-https://geocode.maps.co/search?q={Liguria+Torino}
-Research term: Liguria
-Address: Torino, Autostrada A6 La Verdemare, Montecala, Cosseria, Savona, Liguria, 17017, Italia
-Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 3653432, 'osm_type': 'node', 'osm_id': 455622912, 'display_name': 'Torino, Autostrada A6 La Verdemare, Montecala, Cosseria, Savona, Liguria, 17017, Italia', 'place_rank': 30, 'category': 'highway', 'type': 'motorway_junction', 'importance': 0.22100000000000003}, 'bbox': [8.2303486, 44.3578928, 8.2304486, 44.3579928], 'geometry': {'type': 'Point', 'coordinates': [8.2303986, 44.3579428]}}
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Unit%C3%A0+d%27Italia+Torino}
@@ -489,15 +456,6 @@ Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 12169929, 'osm_t
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Sud+Torino}
-Research term: Sud
-Address: Torino, Carlos Barbosa, Região Geográfica Imediata de Bento Gonçalves, Região Geográfica Intermediária de Caxias do Sul, Rio Grande do Sul, Região Sul, Brasil
-Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 288590168, 'osm_type': 'relation', 'osm_id': 8010066, 'display_name': 'Torino, Carlos Barbosa, Região Geográfica Imediata de Bento Gonçalves, Região Geográfica Intermediária de Caxias do Sul, Rio Grande do Sul, Região Sul, Brasil', 'place_rank': 20, 'category': 'boundary', 'type': 'administrative', 'importance': 0.36}, 'bbox': [-51.4823589, -29.3355609, -51.4750925, -29.3246542], 'geometry': {'type': 'Point', 'coordinates': [-51.4787696, -29.3299421]}}
---------------------------------------------------
---------------------------------------------------
-https://geocode.maps.co/search?q={Veneto+Torino}
-Research term: Veneto
-Address: Torino, Piazza Torino, Jesolo, Venezia, Veneto, 30017, Italia
-Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 15680577, 'osm_type': 'node', 'osm_id': 1562493039, 'display_name': 'Torino, Piazza Torino, Jesolo, Venezia, Veneto, 30017, Italia', 'place_rank': 30, 'category': 'amenity', 'type': 'cafe', 'importance': 0.22100000000000003}, 'bbox': [12.681721, 45.5177793, 12.681821, 45.5178793], 'geometry': {'type': 'Point', 'coordinates': [12.681771, 45.5178293]}}
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Simboli+Torino}
@@ -1061,12 +1019,6 @@ Address: Valdellatorre, Corso Potenza, Lucento, Torino, Piemonte, 10149, Italia
 Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 13196829, 'osm_type': 'node', 'osm_id': 1262202505, 'display_name': 'Valdellatorre, Corso Potenza, Lucento, Torino, Piemonte, 10149, Italia', 'place_rank': 30, 'category': 'highway', 'type': 'bus_stop', 'importance': 0.22100000000000003}, 'bbox': [7.6562702, 45.0946726, 7.6563702, 45.0947726], 'geometry': {'type': 'Point', 'coordinates': [7.6563202, 45.0947226]}}
 --------------------------------------------------
 --------------------------------------------------
-https://geocode.maps.co/search?q={Lombardia+Torino}
-Research term: Lombardia
-Address: Lombardia, Corso Toscana, Villaggio Santa Caterina, Lucento, Torino, Piemonte, 10149, Italia
-Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 8494457, 'osm_type': 'node', 'osm_id': 946742787, 'display_name': 'Lombardia, Corso Toscana, Villaggio Santa Caterina, Lucento, Torino, Piemonte, 10149, Italia', 'place_rank': 30, 'category': 'railway', 'type': 'tram_stop', 'importance': 0.22100000000000003}, 'bbox': [7.650041, 45.0989786, 7.650141, 45.0990786], 'geometry': {'type': 'Point', 'coordinates': [7.650091, 45.0990286]}}
---------------------------------------------------
---------------------------------------------------
 https://geocode.maps.co/search?q={Cimitero+di+Pozzo+Torino}
 Research term: Cimitero di Pozzo
 Address: Cimitero Comunale di Alpette, Pian dei Ronchi, Alpette, Torino, Piemonte, Italia
@@ -1113,9 +1065,6 @@ Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 178799576, 'osm_
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Regio+Torino}
-Research term: Regio
-Address: Torino, Carlos Barbosa, Região Geográfica Imediata de Bento Gonçalves, Região Geográfica Intermediária de Caxias do Sul, Rio Grande do Sul, Região Sul, Brasil
-Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 288590168, 'osm_type': 'relation', 'osm_id': 8010066, 'display_name': 'Torino, Carlos Barbosa, Região Geográfica Imediata de Bento Gonçalves, Região Geográfica Intermediária de Caxias do Sul, Rio Grande do Sul, Região Sul, Brasil', 'place_rank': 20, 'category': 'boundary', 'type': 'administrative', 'importance': 0.36}, 'bbox': [-51.4823589, -29.3355609, -51.4750925, -29.3246542], 'geometry': {'type': 'Point', 'coordinates': [-51.4787696, -29.3299421]}}
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={La+boh%C3%A8me+Torino}
@@ -1665,9 +1614,6 @@ Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 162142958, 'osm_
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={DL+38%2F2004+Torino}
-Research term: DL 38/2004
-Address: Torino, Santiago Ferrari, Nueva Aurora, Viña del Mar, Provincia de Valparaíso, Región de Valparaíso, 2580347, Chile
-Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 109351110, 'osm_type': 'way', 'osm_id': 28518211, 'display_name': 'Torino, Santiago Ferrari, Nueva Aurora, Viña del Mar, Provincia de Valparaíso, Región de Valparaíso, 2580347, Chile', 'place_rank': 26, 'category': 'highway', 'type': 'residential', 'importance': 0.21}, 'bbox': [-71.5628276, -33.0494928, -71.561359, -33.0488201], 'geometry': {'type': 'Point', 'coordinates': [-71.5622569, -33.049084]}}
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Istituto+elettrotecnico+nazionale+Galileo+Ferraris+Torino}
@@ -1749,9 +1695,6 @@ Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 42612518, 'osm_t
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Parigi+Torino}
-Research term: Parigi
-Address: Torino, Avenue Ledru-Rollin, Quartier des Quinze-Vingts, Paris 12e Arrondissement, Paris, Île-de-France, France métropolitaine, 75012, France
-Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 22558811, 'osm_type': 'node', 'osm_id': 2394871953, 'display_name': 'Torino, Avenue Ledru-Rollin, Quartier des Quinze-Vingts, Paris 12e Arrondissement, Paris, Île-de-France, France métropolitaine, 75012, France', 'place_rank': 30, 'category': 'amenity', 'type': 'restaurant', 'importance': 0.11100000000000002}, 'bbox': [2.3708276, 48.8474372, 2.3709276, 48.8475372], 'geometry': {'type': 'Point', 'coordinates': [2.3708776, 48.8474872]}}
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Universit%C3%A0+Torino}
@@ -1794,9 +1737,6 @@ Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 53186319, 'osm_t
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Berlino+Torino}
-Research term: Berlino
-Address: Torino, 103, Hauptstraße, Rosenthal, Pankow, Berlin, 13158, Deutschland
-Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 44460920, 'osm_type': 'node', 'osm_id': 3658581497, 'display_name': 'Torino, 103, Hauptstraße, Rosenthal, Pankow, Berlin, 13158, Deutschland', 'place_rank': 30, 'category': 'amenity', 'type': 'fast_food', 'importance': 0.11100000000000002}, 'bbox': [13.3751544, 52.5955944, 13.3752544, 52.5956944], 'geometry': {'type': 'Point', 'coordinates': [13.3752044, 52.5956444]}}
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Madrid+Torino}
@@ -1971,9 +1911,6 @@ https://geocode.maps.co/search?q={Museo+del+Cairo+Torino}
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={MAO+Torino}
-Research term: MAO
-Address: とりの, 国道170号, 錦織東二丁目, 富田林市, 大阪府, 584-0028, 日本
-Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 194819741, 'osm_type': 'way', 'osm_id': 387978523, 'display_name': 'とりの, 国道170号, 錦織東二丁目, 富田林市, 大阪府, 584-0028, 日本', 'place_rank': 30, 'category': 'amenity', 'type': 'restaurant', 'importance': 0.001}, 'bbox': [135.5972233, 34.5012168, 135.5973136, 34.5012941], 'geometry': {'type': 'Point', 'coordinates': [135.5972684486111, 34.501253399999996]}}
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Vicino+Torino}
@@ -1983,9 +1920,6 @@ Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 86127780, 'osm_t
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={India+Torino}
-Research term: India
-Address: Torino, South Avenue, Hiranandani Gardens, Powai, Zone 6, Mumbai, Mumbai Metropolitan Region, Mumbai Suburban, Maharashtra, 400076, India
-Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 187895405, 'osm_type': 'way', 'osm_id': 353173643, 'display_name': 'Torino, South Avenue, Hiranandani Gardens, Powai, Zone 6, Mumbai, Mumbai Metropolitan Region, Mumbai Suburban, Maharashtra, 400076, India', 'place_rank': 30, 'category': 'building', 'type': 'yes', 'importance': 0.22100000000000003}, 'bbox': [72.9104659, 19.1130287, 72.910899, 19.1134428], 'geometry': {'type': 'Point', 'coordinates': [72.91066519077816, 19.113235250000002]}}
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Cina+Torino}
@@ -1995,9 +1929,6 @@ Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 18423890, 'osm_t
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Giappone+Torino}
-Research term: Giappone
-Address: Torino, 軽子坂, 神楽河岸, 新宿区, 東京都, 162-0824, 日本
-Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 57480338, 'osm_type': 'node', 'osm_id': 5038827333, 'display_name': 'Torino, 軽子坂, 神楽河岸, 新宿区, 東京都, 162-0824, 日本', 'place_rank': 30, 'category': 'amenity', 'type': 'restaurant', 'importance': 0.11100000000000002}, 'bbox': [139.7430902, 35.7015308, 139.7431902, 35.7016308], 'geometry': {'type': 'Point', 'coordinates': [139.7431402, 35.7015808]}}
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Asia+Torino}
@@ -2103,9 +2034,6 @@ https://geocode.maps.co/search?q={Corriere+della+Sera+Torino}
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Metro+Torino}
-Research term: Metro
-Address: Torino, Barangay 175, Zone 15, Camarin, District 1, Caloocan, Northern Manila District, Metro Manila, 1400D, Pilipinas / Philippines
-Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 267070907, 'osm_type': 'way', 'osm_id': 856235750, 'display_name': 'Torino, Barangay 175, Zone 15, Camarin, District 1, Caloocan, Northern Manila District, Metro Manila, 1400D, Pilipinas / Philippines', 'place_rank': 26, 'category': 'highway', 'type': 'residential', 'importance': 0.31}, 'bbox': [121.0411851, 14.7659788, 121.04124, 14.7659818], 'geometry': {'type': 'Point', 'coordinates': [121.04124, 14.7659818]}}
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Per%C3%B2%2C+il+mensile+Torino}
@@ -2265,9 +2193,6 @@ https://geocode.maps.co/search?q={La+zingara+Torino}
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Budapest+Torino}
-Research term: Budapest
-Address: Caffé Torino, 2, Bródy Sándor utca, Palotanegyed, VIII. kerület, Budapest, XXI. kerület, Közép-Magyarország, 1088, Magyarország
-Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 38057513, 'osm_type': 'node', 'osm_id': 2980970663, 'display_name': 'Caffé Torino, 2, Bródy Sándor utca, Palotanegyed, VIII. kerület, Budapest, XXI. kerület, Közép-Magyarország, 1088, Magyarország', 'place_rank': 30, 'category': 'amenity', 'type': 'cafe', 'importance': 0.21100000000000002}, 'bbox': [19.0617713, 47.4919152, 19.0618713, 47.4920152], 'geometry': {'type': 'Point', 'coordinates': [19.0618213, 47.4919652]}}
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={MacGyver+Torino}
@@ -2685,9 +2610,6 @@ Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 31082941, 'osm_t
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={San+Francisco+Torino}
-Research term: San Francisco
-Address: Lavacar Torino, Vía 3, La Pancha, San Francisco, Cantón Heredia, Provincia Heredia, 40803, Costa Rica
-Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 192728216, 'osm_type': 'way', 'osm_id': 392813225, 'display_name': 'Lavacar Torino, Vía 3, La Pancha, San Francisco, Cantón Heredia, Provincia Heredia, 40803, Costa Rica', 'place_rank': 30, 'category': 'amenity', 'type': 'car_wash', 'importance': 0.30100000000000005}, 'bbox': [-84.1493571, 9.9996382, -84.1490737, 9.9999519], 'geometry': {'type': 'Point', 'coordinates': [-84.14921198714868, 9.99985135]}}
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Curia+Romana+Torino}
@@ -2895,9 +2817,6 @@ Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 76945542, 'osm_t
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Anversa+Torino}
-Research term: Anversa
-Address: Torino, Lange Beeldekensstraat, Seefhoek, Antwerpen, Vlaanderen, 2060, België / Belgique / Belgien
-Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 73006933, 'osm_type': 'node', 'osm_id': 6854727245, 'display_name': 'Torino, Lange Beeldekensstraat, Seefhoek, Antwerpen, Vlaanderen, 2060, België / Belgique / Belgien', 'place_rank': 30, 'category': 'shop', 'type': 'clothes', 'importance': 0.11100000000000002}, 'bbox': [4.4280482, 51.2212291, 4.4281482, 51.2213291], 'geometry': {'type': 'Point', 'coordinates': [4.4280982, 51.2212791]}}
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Montr%C3%A9al+Torino}
@@ -3303,9 +3222,6 @@ Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 80298730, 'osm_t
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Bavaria+Torino}
-Research term: Bavaria
-Address: Bar Milano-Torino, 1, Lueg ins Land, Graggenauerviertel, Graggenau, Altstadt-Lehel, München, Bayern, 80331, Deutschland
-Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 57857932, 'osm_type': 'node', 'osm_id': 5069556321, 'display_name': 'Bar Milano-Torino, 1, Lueg ins Land, Graggenauerviertel, Graggenau, Altstadt-Lehel, München, Bayern, 80331, Deutschland', 'place_rank': 30, 'category': 'amenity', 'type': 'restaurant', 'importance': 0.101}, 'bbox': [11.5818785, 48.1353943, 11.5819785, 48.1354943], 'geometry': {'type': 'Point', 'coordinates': [11.5819285, 48.1354443]}}
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Diageo+Torino}
@@ -3372,9 +3288,6 @@ https://geocode.maps.co/search?q={Ministero+dell%27Universit%C3%A0+e+della+Ricer
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={ICT+Torino}
-Research term: ICT
-Address: Torino, Barangay 175, Zone 15, Camarin, District 1, Caloocan, Northern Manila District, Metro Manila, 1400D, Pilipinas / Philippines
-Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 108679183, 'osm_type': 'way', 'osm_id': 28206703, 'display_name': 'Torino, Barangay 175, Zone 15, Camarin, District 1, Caloocan, Northern Manila District, Metro Manila, 1400D, Pilipinas / Philippines', 'place_rank': 26, 'category': 'highway', 'type': 'residential', 'importance': 0.31}, 'bbox': [121.0410632, 14.7659788, 121.0411851, 14.765984], 'geometry': {'type': 'Point', 'coordinates': [121.0410632, 14.765984]}}
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Torino+Nuova+Economia+Torino}
@@ -3468,9 +3381,6 @@ Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 19875408, 'osm_t
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={A4+Torino-Milano+Torino}
-Research term: A4 Torino-Milano
-Address: Alameda Torino, Residencial Villagio Milano, Residencial Terranova, Sorocaba, Região Imediata de Sorocaba, Região Metropolitana de Sorocaba, Região Geográfica Intermediária de Sorocaba, São Paulo, Região Sudeste, 18057-030, Brasil
-Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 181757206, 'osm_type': 'way', 'osm_id': 327404220, 'display_name': 'Alameda Torino, Residencial Villagio Milano, Residencial Terranova, Sorocaba, Região Imediata de Sorocaba, Região Metropolitana de Sorocaba, Região Geográfica Intermediária de Sorocaba, São Paulo, Região Sudeste, 18057-030, Brasil', 'place_rank': 26, 'category': 'highway', 'type': 'residential', 'importance': 0.4}, 'bbox': [-47.5156098, -23.482611, -47.5145938, -23.4816011], 'geometry': {'type': 'Point', 'coordinates': [-47.5149518, -23.4818274]}}
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={S.S.11+di+3%2C13%C2%A0km+Torino}
@@ -3495,9 +3405,6 @@ Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 12846219, 'osm_t
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Nord+Torino}
-Research term: Nord
-Address: Torino, 97, Hoher Heckenweg, Rumphorst, Mitte-Nordost, Münster-Mitte, Münster, Nordrhein-Westfalen, 48147, Deutschland
-Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 10395517, 'osm_type': 'node', 'osm_id': 1056609516, 'display_name': 'Torino, 97, Hoher Heckenweg, Rumphorst, Mitte-Nordost, Münster-Mitte, Münster, Nordrhein-Westfalen, 48147, Deutschland', 'place_rank': 30, 'category': 'amenity', 'type': 'fast_food', 'importance': 0.21100000000000002}, 'bbox': [7.6426428, 51.9778819, 7.6427428, 51.9779819], 'geometry': {'type': 'Point', 'coordinates': [7.6426928, 51.9779319]}}
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={via+Bardonecchia+Torino}
@@ -3576,9 +3483,6 @@ https://geocode.maps.co/search?q={servizio+ferroviario+regionale+del+Piemonte+To
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={AV+Torino}
-Research term: AV
-Address: Avenida Torino, Bandeirantes, Pampulha, Belo Horizonte, Região Geográfica Imediata de Belo Horizonte, Região Metropolitana de Belo Horizonte, Região Geográfica Intermediária de Belo Horizonte, Minas Gerais, Região Sudeste, 31365-450, Brasil
-Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 99950382, 'osm_type': 'way', 'osm_id': 8035643, 'display_name': 'Avenida Torino, Bandeirantes, Pampulha, Belo Horizonte, Região Geográfica Imediata de Belo Horizonte, Região Metropolitana de Belo Horizonte, Região Geográfica Intermediária de Belo Horizonte, Minas Gerais, Região Sudeste, 31365-450, Brasil', 'place_rank': 26, 'category': 'highway', 'type': 'residential', 'importance': 0.3}, 'bbox': [-43.9876836, -19.8602553, -43.9842607, -19.8538616], 'geometry': {'type': 'Point', 'coordinates': [-43.9861772, -19.8574336]}}
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={metropolitana+di+Torino+Torino}
@@ -3786,9 +3690,6 @@ Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 4436199, 'osm_ty
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Argentina+Torino}
-Research term: Argentina
-Address: Torino, Barrio Los Olivos Fontana, Villa Krause, Rawson, San Juan, J5425, Argentina
-Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 224737686, 'osm_type': 'way', 'osm_id': 595239493, 'display_name': 'Torino, Barrio Los Olivos Fontana, Villa Krause, Rawson, San Juan, J5425, Argentina', 'place_rank': 26, 'category': 'highway', 'type': 'residential', 'importance': 0.32}, 'bbox': [-68.5398451, -31.5835328, -68.5349029, -31.5820052], 'geometry': {'type': 'Point', 'coordinates': [-68.5374081, -31.5827523]}}
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Juventus+Women+Torino}
@@ -3843,9 +3744,6 @@ https://geocode.maps.co/search?q={Mondiali+Torino}
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Capitale+Torino}
-Research term: Capitale
-Address: Torino, Barangay 175, Zone 15, Camarin, District 1, Caloocan, Northern Manila District, Metro Manila, 1400D, Pilipinas / Philippines
-Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 267070907, 'osm_type': 'way', 'osm_id': 856235750, 'display_name': 'Torino, Barangay 175, Zone 15, Camarin, District 1, Caloocan, Northern Manila District, Metro Manila, 1400D, Pilipinas / Philippines', 'place_rank': 26, 'category': 'highway', 'type': 'residential', 'importance': 0.21}, 'bbox': [121.0411851, 14.7659788, 121.04124, 14.7659818], 'geometry': {'type': 'Point', 'coordinates': [121.04124, 14.7659818]}}
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={ACES+Europe+Torino}
@@ -3891,9 +3789,6 @@ Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 74267343, 'osm_t
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={USA+Torino}
-Research term: USA
-Address: Torino, North Laguna Hills, Laguna Hills, Orange County, California, 92653, United States
-Address GEOJSON: {'type': 'Feature', 'properties': {'place_id': 102287655, 'osm_type': 'way', 'osm_id': 13366963, 'display_name': 'Torino, North Laguna Hills, Laguna Hills, Orange County, California, 92653, United States', 'place_rank': 26, 'category': 'highway', 'type': 'residential', 'importance': 0.21}, 'bbox': [-117.7402195, 33.6206059, -117.7386867, 33.6208406], 'geometry': {'type': 'Point', 'coordinates': [-117.7391244, 33.6207204]}}
 --------------------------------------------------
 --------------------------------------------------
 https://geocode.maps.co/search?q={Starsky+%26+Hutch+Torino}

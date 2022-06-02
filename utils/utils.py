@@ -7,8 +7,10 @@ import time
 from geojson import Feature, Point, FeatureCollection
 import geojson
 
-entity_to_discard = ["PER"]
-
+lab_to_discard = ["PER"]
+italian_region = ["Piemonte", "Valle d'Aosta", "Liguria", "Lombardia", "Veneto", "Friuli-Venezia-Giulia", \
+    "Trentino-Alto Adige", "Emilia Romagna", "Toscana", "Abruzzo", "Umbria", "Puglia", "Molise", "Campania", \
+        "Lazio", "Basilicata", "Calabria", "Sardegna", "Sicilia"]
 
 # JSON indent
 def jprint(obj):
@@ -69,7 +71,7 @@ def get_entities_snippet(nlp_text, counter: dict):
     sents = list(nlp_text.sents)
     sentence_dict = generate_sentences_dictionary(sents)
     for ent in nlp_text.ents: 
-        if ent.text not in counter and ent.label_ not in entity_to_discard: #entity is not an italian city
+        if ent.text not in counter and ent.label_ not in lab_to_discard and ent.text not in italian_region and ent.text != "Italia": 
             appears_in = search_dict(sentence_dict, ent)
             """for (index, sentence) in appears_in:
                 print("Text: ", ent.text, "\n",
@@ -156,17 +158,20 @@ def search_entities(searchable_entities: dict, context: str):
 
         if len(addressAPI) > 0:
             addressAPI = addressAPI[0]['display_name']
-            addressGeoJson = resultGeoJson['features'][0]
+            if addressAPI.endswith("Italia"): 
+                addressGeoJson = resultGeoJson['features'][0]
 
-            coordinates = resultGeoJson['features'][0]['geometry']['coordinates']
-            loc_point = Point((coordinates[0], coordinates[1]))
-            loc_feature = Feature(geometry=loc_point, properties={"entity": search_item, "name_location": addressAPI, "snippet": searchable_entities[search_item]})
+                coordinates = resultGeoJson['features'][0]['geometry']['coordinates']
+                loc_point = Point((coordinates[0], coordinates[1]))
+                loc_feature = Feature(geometry=loc_point, properties={"entity": search_item, "name_location": addressAPI, "snippet": searchable_entities[search_item]})
 
-            list_features.append(loc_feature)    
+                list_features.append(loc_feature)    
 
-            print("DISPLAY NAME: ", addressAPI)
-            print("RESULT GEOJSON: ", addressGeoJson)
-            print("OBJECT GEOJSON: ", loc_feature)
+                print("DISPLAY NAME: ", addressAPI)
+                print("RESULT GEOJSON: ", addressGeoJson)
+                print("OBJECT GEOJSON: ", loc_feature)
+            else: 
+                addressAPI = ""    
         else: 
             addressAPI = ""
 
