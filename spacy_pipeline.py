@@ -1,4 +1,4 @@
-from utils.utils import count_occurrences, get_entities_snippet, search_entities, search_entities, wiki_content
+from utils.utils import count_occurrences, get_entities_snippet, search_entities, search_entities, wiki_content, read_text_file
 import spacy
 import json
 
@@ -9,7 +9,7 @@ cities = ["Torino"]
 for city in cities:
     # Read wiki pages
     text = wiki_content(city)
-    # text = read_text_file('assets/test_sentences.txt')
+    #text = read_text_file('assets/Extract_torino.txt')
     doc = nlp(text)
 
     sentence_list = list(doc.sents) 

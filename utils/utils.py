@@ -27,7 +27,7 @@ def read_text_file(path: str):
         text: text read from the file in string format
     """
     
-    with open(path) as f:
+    with open(path, encoding='utf-8') as f:
         lines = f.readlines()
     
     text = " ".join(str(line) for line in lines)
@@ -77,7 +77,7 @@ def get_entities_snippet(nlp_text, counter: dict):
                 print("Text: ", ent.text, "\n",
                     "Sentence index: ", index, "\n",
                     "Sentence: ", sentence, "\n")"""
-            searchable_entities[ent.text] = [sent for (_, sent) in appears_in] #ent associate to the list of sentences in which it appears
+            searchable_entities[ent.text] = [sent for sent in appears_in] #ent associate to the list of sentences in which it appears
 
     return searchable_entities
 
@@ -93,7 +93,14 @@ def search_dict(dict: dict, ent):
     appears = []
     for index, sentence in dict.items():
         if ent.text in sentence.text:
-            appears.append((index, sentence.text))
+            if index > 0:
+                bef = dict.get(index-1, "")
+                if not isinstance(bef, str):
+                    bef = bef.text
+                after = dict.get(index+1, "")
+                if not isinstance(after, str):
+                    after = after.text    
+                appears.append(bef + "|" + sentence.text  + "|" + after)
     
     return appears
 
@@ -194,6 +201,7 @@ def search_entities(searchable_entities: dict, context: str):
                 f"Research term: {search_item}")
             print_to_file(response_file_path, f"Address: {address}")
             print_to_file(response_file_path, f"Address GEOJSON: {addressGeoJson}")
+            print_to_file(response_file_path, f"GEOGSON: {loc_feature}")
         
         #print_to_file(response_file_path, f"Address API: {addressAPI}")
         print_to_file(response_file_path, '-' * 50)
@@ -203,7 +211,7 @@ def search_entities(searchable_entities: dict, context: str):
     geojson_object = FeatureCollection(list_features)
     print(len(geojson_object["features"]))
     with open(response_geojson_file_path, 'w', encoding='utf-8') as f:
-        geojson.dump(geojson_object, f, indent=4)
+        json.dump(geojson_object, f, ensure_ascii=False, indent=4)
         print("The result has been saved as a file inside the response folder")
 
 
@@ -246,6 +254,6 @@ def wiki_content(titles):
     cleaned_content = soup.get_text().replace('\n', ' ')
 
     with open(f'response/wikiPageContent/{titles}.txt', 'w', encoding='utf-8') as f:
-        json.dump(cleaned_content, f, ensure_ascii=False)
-
+        f.write(cleaned_content)
+    
     return cleaned_content
