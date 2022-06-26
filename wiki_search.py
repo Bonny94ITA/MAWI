@@ -10,7 +10,7 @@ else:
     searchpage, *tail = sys.argv[1:]
 
 session = req.Session()
-url_api = "https://en.wikipedia.org/w/api.php"
+url_api = "https://it.wikipedia.org/w/api.php"
 
 params = {
     "action": "query",

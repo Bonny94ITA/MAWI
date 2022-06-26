@@ -100,7 +100,7 @@ def search_dict(dict: dict, ent):
                 after = dict.get(index+1, "")
                 if not isinstance(after, str):
                     after = after.text    
-                appears.append(bef + "|" + sentence.text  + "|" + after)
+                appears.append(bef + " " + sentence.text + " " + after)
     
     return appears
 
@@ -145,65 +145,46 @@ def search_entities(searchable_entities: dict, context: str):
 
     for search_item in searchable_entities.keys():
         text = urllib.parse.quote_plus(search_item+ " " + context)
-        #URL = 'https://google.it/search?q=' + text + "&hl=it"
-
-        URLLOC = 'https://geocode.maps.co/search?q={'+text+'}'
+       
         URLGEOJSON = 'https://geocode.maps.co/search?q={'+text+'}&format=geojson'
-        #print(URL)
-        print(URLLOC)
-        #headers = {
-        #    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36',
-        #}
-
+        print(URLGEOJSON)
+        
         s = requests.Session()
         
-        response = s.get(URLLOC)
-        responseGeoJson = s.get(URLGEOJSON)
-        addressAPI = response.json()
-        resultGeoJson = responseGeoJson.json()
-        print("RESULT LOC: ", addressAPI)
+        response= s.get(URLGEOJSON)
+        result = response.json()
 
-        if len(addressAPI) > 0:
-            addressAPI = addressAPI[0]['display_name']
-            if addressAPI.endswith("Italia"): 
-                addressGeoJson = resultGeoJson['features'][0]
+        result = result['features']
 
-                coordinates = resultGeoJson['features'][0]['geometry']['coordinates']
+        print_to_file(response_file_path, '-' * 50)
+
+        if len(result) > 0:
+            location = result[0]
+            locationName = location['properties']['display_name'].strip()
+            if locationName.endswith("Italia") and locationName.__contains__(context): 
+                coordinates = location['geometry']['coordinates']
+
                 loc_point = Point((coordinates[0], coordinates[1]))
-                loc_feature = Feature(geometry=loc_point, properties={"entity": search_item, "name_location": addressAPI, "snippet": searchable_entities[search_item]})
+                loc_feature = Feature(geometry=loc_point, properties={"entity": search_item, 
+                                    "name_location": addressAPI, "snippet": searchable_entities[search_item]})
 
                 list_features.append(loc_feature)    
 
-                print("DISPLAY NAME: ", addressAPI)
-                print("RESULT GEOJSON: ", addressGeoJson)
+                print("DISPLAY NAME: ", locationName)
+                print("RESULT GEOJSON: ", location)
                 print("OBJECT GEOJSON: ", loc_feature)
+
+                print_to_file(response_file_path, f"Research term: {search_item}")
+                
+                print_to_file(response_file_path, URLGEOJSON)
+                print_to_file(response_file_path, f"Address: {locationName}")
+                print_to_file(response_file_path, f"Address GEOJSON: {location}")
+                print_to_file(response_file_path, f"GEOGSON: {loc_feature}")
             else: 
                 addressAPI = ""    
         else: 
             addressAPI = ""
-
-        #page = s.get(URL, headers=headers)
-        #soup = BeautifulSoup(page.content, 'html5lib')
-        # print(soup)
-        
-        #address = soup.find(class_='LrzXr')
-        #print("Address: ", address)
-
-        #activity = soup.find(class_='zloOqf', string="€")
-        #print("Activity: ", activity)
-
-        print_to_file(response_file_path, '-' * 50)
-        print_to_file(response_file_path, URLLOC)
-        if addressAPI:
-            address = addressAPI.strip()
-            print_to_file(
-                response_file_path,
-                f"Research term: {search_item}")
-            print_to_file(response_file_path, f"Address: {address}")
-            print_to_file(response_file_path, f"Address GEOJSON: {addressGeoJson}")
-            print_to_file(response_file_path, f"GEOGSON: {loc_feature}")
-        
-        #print_to_file(response_file_path, f"Address API: {addressAPI}")
+      
         print_to_file(response_file_path, '-' * 50)
 
         time.sleep(.600)
@@ -240,7 +221,7 @@ def wiki_content(titles):
     content = data['query']['pages'][0]['extract']
     soup = BeautifulSoup(content, features="lxml")
 
-    #Delete all the part which is not meaningful
+    #Delete all the parts that are not meaningful
     Htag = soup.body
     i = 0
     find = False
@@ -250,7 +231,6 @@ def wiki_content(titles):
     
     del Htag.contents[i-1:]
 
-    #print(soup)
     cleaned_content = soup.get_text().replace('\n', ' ')
 
     with open(f'response/wikiPageContent/{titles}.txt', 'w', encoding='utf-8') as f:
