@@ -5,13 +5,14 @@ import json
 import os
 import time
 from geojson import Feature, Point, FeatureCollection
-import geojson
+import csv 
 
-lab_to_discard = ["PER"]
+lab_to_discard = ["PER", "ORG", "MISC"]
 italian_region = ["Piemonte", "Valle d'Aosta", "Liguria", "Lombardia", "Veneto", "Friuli-Venezia-Giulia", \
-    "Trentino-Alto Adige", "Emilia Romagna", "Toscana", "Abruzzo", "Umbria", "Puglia", "Molise", "Campania", \
+    "Trentino-Alto Adige", "Emilia-Romagna", "Toscana", "Abruzzo", "Umbria", "Puglia", "Molise", "Campania", \
         "Lazio", "Basilicata", "Calabria", "Sardegna", "Sicilia"]
 
+continents = ['Europa', 'Asia', 'Africa', 'America', 'Oceania', 'Antartica']
 # JSON indent
 def jprint(obj):
     text = json.dumps(obj, sort_keys=True, indent=3)
@@ -70,16 +71,32 @@ def get_entities_snippet(nlp_text, counter: dict):
     searchable_entities = {}
     sents = list(nlp_text.sents)
     sentence_dict = generate_sentences_dictionary(sents)
-    for ent in nlp_text.ents: 
-        if ent.text not in counter and ent.label_ not in lab_to_discard and ent.text not in italian_region and ent.text != "Italia": 
+    entities = clean_entities(nlp_text)
+    for ent in entities: 
+        if ent.text not in counter: 
             appears_in = search_dict(sentence_dict, ent)
             """for (index, sentence) in appears_in:
                 print("Text: ", ent.text, "\n",
                     "Sentence index: ", index, "\n",
                     "Sentence: ", sentence, "\n")"""
-            searchable_entities[ent.text] = [sent for sent in appears_in] #ent associate to the list of sentences in which it appears
+            searchable_entities[ent] = [sent for sent in appears_in] #ent associate to the list of sentences in which it appears
 
     return searchable_entities
+
+def clean_entities(nlp_text): 
+    """Clean the entities from the nlp_text.
+
+    Args:
+        nlp_text: spacy text
+    Returns:
+        list_entities: list of the entities useful for the search
+    """
+    entities = []
+    for ent in nlp_text.ents:
+        if ent.label_ not in lab_to_discard and ent.text not in italian_region and ent.text != "Italia" and ent.text not in continents and ent not in entities: 
+            entities.append(ent)
+    return entities
+
 
 def search_dict(dict: dict, ent):
     """Search in a dictionary dict the entity ent. 
@@ -113,15 +130,20 @@ def generate_sentences_dictionary(sentence_list: dict):
         sentence_dict: dictionary with the index of the sentence and the index in the text
     """
     sentences_dict = {}
-    for index, sentence in enumerate(sentence_list): #Can be useful if we like to have more snippet
+    for index, sentence in enumerate(sentence_list): 
         sentences_dict[index] = sentence
 
     return sentences_dict
 
-def print_to_file(file_path, text_to_append):
-    with open(file_path, "a", encoding="utf-8") as file:
+def print_to_file(file_path: str, text_to_append):
+    with open(file_path, 'a', encoding='utf-8') as file:
         file.write(text_to_append + "\n")
 
+def print_to_csv(file_path: str, object_to_append):
+    text_to_append = [object_to_append['entity'], object_to_append['name_location'], object_to_append['snippet']]
+    with open(file_path, 'a', newline='', encoding='utf-8') as file:
+        writer = csv.writer(file)
+        writer.writerow(text_to_append)
 
 def delete_file(file_path):
     if os.path.exists(file_path):
@@ -138,13 +160,14 @@ def search_entities(searchable_entities: dict, context: str):
 
     response_file_path = f"response/spacy_pipeline/{context}.txt"
     response_geojson_file_path = f"response/spacy_pipeline/{context}_geojson.geojson"
+    response_file_excel = f"response/spacy_pipeline/{context}.csv"
 
     delete_file(response_file_path)
 
     list_features = []
 
     for search_item in searchable_entities.keys():
-        text = urllib.parse.quote_plus(search_item+ " " + context)
+        text = urllib.parse.quote_plus(search_item.text + " " + context)
        
         URLGEOJSON = 'https://geocode.maps.co/search?q={'+text+'}&format=geojson'
         print(URLGEOJSON)
@@ -152,42 +175,52 @@ def search_entities(searchable_entities: dict, context: str):
         s = requests.Session()
         
         response= s.get(URLGEOJSON)
-        result = response.json()
+        try: 
+            result = response.json()
+        except json.decoder.JSONDecodeError as jsonError: 
+            print("Error in the response of the API")
+            return
 
-        result = result['features']
+        if "features" in result: 
+            result = result['features']
 
-        print_to_file(response_file_path, '-' * 50)
+            if len(result) > 0:
+                location = result[0]
+                locationName = location['properties']['display_name'].strip()
+                locationNameList = locationName.split(", ")
+                city = ""
 
-        if len(result) > 0:
-            location = result[0]
-            locationName = location['properties']['display_name'].strip()
-            if locationName.endswith("Italia") and locationName.__contains__(context): 
-                coordinates = location['geometry']['coordinates']
+                if locationNameList[-2].isdigit(): 
+                    city = locationNameList[-4] 
+                else: 
+                    city = locationNameList[-3] 
+                    
+                if locationName.endswith("Italia") and city.__contains__(context): 
+                    coordinates = location['geometry']['coordinates']
 
-                loc_point = Point((coordinates[0], coordinates[1]))
-                loc_feature = Feature(geometry=loc_point, properties={"entity": search_item, 
-                                    "name_location": addressAPI, "snippet": searchable_entities[search_item]})
+                    loc_point = Point((coordinates[0], coordinates[1]))
+                    loc_feature = Feature(geometry=loc_point, properties={"entity": search_item.text, 
+                                        "name_location": locationName, "snippet": searchable_entities[search_item]})
+                    
+                    print_to_csv(response_file_excel, loc_feature)
 
-                list_features.append(loc_feature)    
+                    list_features.append(loc_feature)    
 
-                print("DISPLAY NAME: ", locationName)
-                print("RESULT GEOJSON: ", location)
-                print("OBJECT GEOJSON: ", loc_feature)
+                    print("DISPLAY NAME: ", locationName)
+                    print("RESULT GEOJSON: ", location)
+                    print("OBJECT GEOJSON: ", loc_feature)
 
-                print_to_file(response_file_path, f"Research term: {search_item}")
-                
-                print_to_file(response_file_path, URLGEOJSON)
-                print_to_file(response_file_path, f"Address: {locationName}")
-                print_to_file(response_file_path, f"Address GEOJSON: {location}")
-                print_to_file(response_file_path, f"GEOGSON: {loc_feature}")
-            else: 
-                addressAPI = ""    
-        else: 
-            addressAPI = ""
+                    print_to_file(response_file_path, '-' * 50)
+
+                    print_to_file(response_file_path, f"Research term: {search_item.text}")
+                    print_to_file(response_file_path, f"Research term NER: {search_item.label_}")
+                    print_to_file(response_file_path, URLGEOJSON)
+                    print_to_file(response_file_path, f"Address: {locationName}")
+                    print_to_file(response_file_path, f"GEOGSON: {loc_feature}")
       
-        print_to_file(response_file_path, '-' * 50)
+                    print_to_file(response_file_path, '-' * 50)
 
-        time.sleep(.600)
+        #time.sleep(.600)
     
     geojson_object = FeatureCollection(list_features)
     print(len(geojson_object["features"]))
