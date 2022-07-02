@@ -151,7 +151,7 @@ def delete_file(file_path):
         os.remove(file_path)
 
 
-def search_entities(searchable_entities: dict, context: str):
+def search_entities(searchable_entities: dict, context: str, title_page: str):
     """ Search entities with API geocode.maps
     
     Args:
@@ -159,9 +159,9 @@ def search_entities(searchable_entities: dict, context: str):
         context: context of the search (city, country, etc.)
     """
 
-    response_file_path = f"response/spacy_pipeline/{context}.txt"
-    response_geojson_file_path = f"response/spacy_pipeline/{context}_geojson.geojson"
-    response_file_excel = f"response/spacy_pipeline/{context}.csv"
+    response_file_path = f"response/spacy_pipeline/{title_page}.txt"
+    response_geojson_file_path = f"response/spacy_pipeline/{title_page}_geojson.geojson"
+    response_file_excel = f"response/spacy_pipeline/{title_page}.csv"
 
     delete_file(response_file_path)
 

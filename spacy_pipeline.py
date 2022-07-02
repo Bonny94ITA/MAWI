@@ -4,7 +4,7 @@ import json
 
 
 nlp = spacy.load("it_core_news_sm")
-cities = ["Liberty a Torino", "Barocco a Milano"]
+cities = ["Torino", "Roma", "Bologna", "Milano", "Liberty a Torino", "Barocco a Milano"]
 
 for city in cities:
     # Read wiki pages
@@ -31,4 +31,4 @@ for city in cities:
     print("number of entities: ", len(searchable_entities))
 
     # Search addresses with Google
-    search_entities(searchable_entities, context)
+    search_entities(searchable_entities, context, city)
