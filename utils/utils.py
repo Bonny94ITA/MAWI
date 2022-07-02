@@ -140,7 +140,8 @@ def print_to_file(file_path: str, text_to_append):
         file.write(text_to_append + "\n")
 
 def print_to_csv(file_path: str, object_to_append):
-    text_to_append = [object_to_append['entity'], object_to_append['name_location'], object_to_append['snippet']]
+    properties = object_to_append['properties']
+    text_to_append = [properties['entity'], properties['name_location'], properties['snippet']]
     with open(file_path, 'a', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
         writer.writerow(text_to_append)
