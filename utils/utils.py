@@ -141,10 +141,11 @@ def print_to_file(file_path: str, text_to_append):
 
 def print_to_csv(file_path: str, object_to_append):
     properties = object_to_append['properties']
-    text_to_append = [properties['entity'], properties['name_location'], properties['snippet']]
+    #text_to_append = [properties['entity'], properties['name_location'], properties['snippet']]
+    data = [[properties['entity'], properties['name_location'], sent] for sent in properties['snippet']]
     with open(file_path, 'a', newline='', encoding='utf-8') as file:
-        writer = csv.writer(file)
-        writer.writerow(text_to_append)
+        writer = csv.writer(file, dialect='excel')
+        writer.writerows(data)
 
 def delete_file(file_path):
     if os.path.exists(file_path):
