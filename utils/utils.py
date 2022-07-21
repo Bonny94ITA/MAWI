@@ -73,7 +73,7 @@ def get_entities_snippet(nlp_text, counter: dict):
     sentence_dict = generate_sentences_dictionary(sents)
     entities = clean_entities(nlp_text)
     for ent in entities: 
-        if ent.text not in counter: 
+        if ent not in counter: 
             appears_in = search_dict(sentence_dict, ent)
             """for (index, sentence) in appears_in:
                 print("Text: ", ent.text, "\n",
@@ -93,8 +93,8 @@ def clean_entities(nlp_text):
     """
     entities = []
     for ent in nlp_text.ents:
-        if ent.label_ not in lab_to_discard and ent.text not in italian_region and ent.text != "Italia" and ent.text not in continents and ent not in entities: 
-            entities.append(ent)
+        if ent.label_ not in lab_to_discard and ent.text not in italian_region and ent.text != "Italia" and ent.text not in continents and ent.text not in entities: 
+            entities.append(ent.text)
     return entities
 
 
@@ -109,19 +109,15 @@ def search_dict(dict: dict, ent):
     """
     appears = []
     for index, sentence in dict.items():
-        if ent.text in sentence.text:
+        if ent in sentence:
             if index > 0:
                 bef = dict.get(index-1, "")
-                if not isinstance(bef, str):
-                    bef = bef.text
-                after = dict.get(index+1, "")
-                if not isinstance(after, str):
-                    after = after.text    
-                appears.append(bef + " " + sentence.text + " " + after)
+                after = dict.get(index+1, "") 
+                appears.append(bef + " " + sentence + " " + after)
     
     return appears
 
-def generate_sentences_dictionary(sentence_list: dict):
+def generate_sentences_dictionary(sentence_list: list):
     """Generate a dictionary with the snipet index and the snippet itself.
     
     Args:
@@ -131,7 +127,7 @@ def generate_sentences_dictionary(sentence_list: dict):
     """
     sentences_dict = {}
     for index, sentence in enumerate(sentence_list): 
-        sentences_dict[index] = sentence
+        sentences_dict[index] = sentence.text
 
     return sentences_dict
 
@@ -169,7 +165,7 @@ def search_entities(searchable_entities: dict, context: str, title_page: str):
     list_features = []
 
     for search_item in searchable_entities.keys():
-        text = urllib.parse.quote_plus(search_item.text + " " + context)
+        text = urllib.parse.quote_plus(search_item + " " + context)
        
         URLGEOJSON = 'https://geocode.maps.co/search?q={'+text+'}&format=geojson'
         print(URLGEOJSON)
@@ -201,7 +197,7 @@ def search_entities(searchable_entities: dict, context: str, title_page: str):
                     coordinates = location['geometry']['coordinates']
 
                     loc_point = Point((coordinates[0], coordinates[1]))
-                    loc_feature = Feature(geometry=loc_point, properties={"entity": search_item.text, 
+                    loc_feature = Feature(geometry=loc_point, properties={"entity": search_item, 
                                         "name_location": locationName, "snippet": searchable_entities[search_item]})
                     
                     print_to_csv(response_file_excel, loc_feature)
@@ -214,8 +210,7 @@ def search_entities(searchable_entities: dict, context: str, title_page: str):
 
                     print_to_file(response_file_path, '-' * 50)
 
-                    print_to_file(response_file_path, f"Research term: {search_item.text}")
-                    print_to_file(response_file_path, f"Research term NER: {search_item.label_}")
+                    print_to_file(response_file_path, f"Research term: {search_item}")
                     print_to_file(response_file_path, URLGEOJSON)
                     print_to_file(response_file_path, f"Address: {locationName}")
                     print_to_file(response_file_path, f"GEOGSON: {loc_feature}")
