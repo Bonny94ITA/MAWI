@@ -83,6 +83,38 @@ def get_entities_snippet(nlp_text, counter: dict):
 
     return searchable_entities
 
+def get_entities_snippet2(nlp_text, counter: dict):
+    """Get the entities from the nlp_text which are not cities and print snippet in which
+        they appears.
+
+    Args:
+        nlp_text: spacy text
+        counter: dictionary with the entities (cities name) to search and their occurences
+    """
+
+    searchable_entities = {}
+    sents = list(nlp_text.sents)
+    sentence_dict = generate_sentences_dictionary(sents)
+    for (index, sentence) in sentence_dict.items():
+        entities = clean_entities(sentence)
+        for ent in entities:
+            if ent not in counter:
+                before = sentence_dict.get(index-1, "")
+                if not isinstance(before, str):
+                    before = before.text
+                after = sentence_dict.get(index+1, "")
+                if not isinstance(after, str):
+                    after = after.text
+                
+                sent = before + " " + sentence.text + " " + after
+                if ent in searchable_entities and sent not in searchable_entities[ent]:
+                    searchable_entities[ent].append(sent)
+                else:     
+                    searchable_entities[ent] = [sent]
+
+    return searchable_entities
+
+
 def clean_entities(nlp_text): 
     """Clean the entities from the nlp_text.
 
@@ -93,7 +125,7 @@ def clean_entities(nlp_text):
     """
     entities = []
     for ent in nlp_text.ents:
-        if ent.label_ not in lab_to_discard and ent.text not in italian_region and ent.text != "Italia" and ent.text not in continents and ent.text not in entities: 
+        if ent.label_ not in lab_to_discard and ent.text not in italian_region and ent.text != "Italia" and ent.text not in continents: 
             entities.append(ent.text)
     return entities
 
@@ -127,7 +159,7 @@ def generate_sentences_dictionary(sentence_list: list):
     """
     sentences_dict = {}
     for index, sentence in enumerate(sentence_list): 
-        sentences_dict[index] = sentence.text
+        sentences_dict[index] = sentence
 
     return sentences_dict
 
@@ -138,7 +170,7 @@ def print_to_file(file_path: str, text_to_append):
 def print_to_csv(file_path: str, object_to_append):
     properties = object_to_append['properties']
     #text_to_append = [properties['entity'], properties['name_location'], properties['snippet']]
-    data = [[properties['entity'], properties['name_location'], sent] for sent in properties['snippet']]
+    data = [[properties['entity'], properties['name_location'], properties['category'], properties['type'], properties['importance'], sent] for sent in properties['snippet']]
     with open(file_path, 'a', newline='', encoding='utf-8') as file:
         writer = csv.writer(file, dialect='excel')
         writer.writerows(data)
@@ -161,6 +193,8 @@ def search_entities(searchable_entities: dict, context: str, title_page: str):
     response_file_excel = f"response/spacy_pipeline/{title_page}.csv"
 
     delete_file(response_file_path)
+    delete_file(response_geojson_file_path)
+    delete_file(response_file_excel)
 
     list_features = []
 
@@ -195,10 +229,24 @@ def search_entities(searchable_entities: dict, context: str, title_page: str):
                     
                 if locationName.endswith("Italia") and city.__contains__(context): 
                     coordinates = location['geometry']['coordinates']
+                    category = ""
+                    type = ""
+                    importance = ""
+                    if 'category' in location['properties']:
+                        category = location['properties']['category']
+                    if 'type' in location['properties']:
+                        type = location['properties']['type']
+                    if 'importance' in location['properties']:    
+                        importance = location['properties']['importance']
 
                     loc_point = Point((coordinates[0], coordinates[1]))
-                    loc_feature = Feature(geometry=loc_point, properties={"entity": search_item, 
-                                        "name_location": locationName, "snippet": searchable_entities[search_item]})
+                    loc_feature = Feature(geometry=loc_point, properties={
+                                    "entity": search_item, 
+                                    "name_location": locationName,
+                                    "category": category,
+                                    "type": type,
+                                    "importance": importance,
+                                    "snippet": searchable_entities[search_item]})
                     
                     print_to_csv(response_file_excel, loc_feature)
 
