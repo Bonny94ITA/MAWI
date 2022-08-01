@@ -782,26 +782,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.978921,
-                    45.459259
-                ]
-            },
-            "properties": {
-                "entity": "Palazzo Poste",
-                "name_location": "Palazzo Canavese, Torino, Piemonte, Italia",
-                "category": "boundary",
-                "type": "administrative",
-                "importance": 0.7502073845249451,
-                "snippet": [
-                    "In questo settore dell'amministrazione locale emersero illustri esponenti tra cui dapprima l'ingegnere Daniele Donghi, già professore ordinario di Architettura tecnica a Milano e Padova, che per circa quindici anni fu a capo dell'Ufficio tecnico dei Lavori pubblici, carica che lasciò alla volta dell'analogo incarico presso il Comune di Padova, quello di Venezia, divenendo infine direttore della filiale milanese dell'Impresa Porcheddu di Torino. A Donghi subentrò l'ingegner Camillo Dolza che firmò i più importanti progetti di edilizia pubblica torinese dei primi decenni del Novecento, tra cui si contano l'imponente edificio dell'istituto superiore femminile magistrale \"V. Monti\" di corso Galileo Ferraris 11 (1900), i primi Bagni Municipali di via G. Saccarelli (1901), quelli di via O. Morgari (1905), quelli di borgo Vanchiglia (1910), il Palazzo Poste e Telegrafi di via Alfieri (1908) e la nuova scuola elementare \"Santorre di Santarosa\" di via Braccini (1920). Il neogotico e i detrattori del liberty Parallelamente al naturalismo talvolta esasperato del liberty, la corrente del neogotico continuò a essere lo stile prediletto della aristocrazia e della committenza di gusto più conservatore e tradizionalista;"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     7.577962,
                     45.066882
                 ]
@@ -854,26 +834,6 @@
                 "importance": 0.5519138440405379,
                 "snippet": [
                     "Oltre al ben noto Borgo Medievale del Parco del Valentino, gioiello frutto di un accurato studio delle vestigia medievali locali coordinato dall'architetto portoghese Alfredo d'Andrade, nell'elegante quartiere residenziale Cit Turin si possono notare degli ottimi esempi di architettura civile nelle opere commissionate da Carrera: la Casa della Vittoria (1918-20) di Gottardo Gussoni, insieme all'abitazione dello stesso Carrera, ne sono l'esempio di maggior rilevanza. Sempre nel medesimo quartiere è degno di nota anche l'operato dell'architetto Giuseppe Gallo, a cui si deve il progetto della chiesa dedicata a Gesù Nazareno affacciata su piazza Martini."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.674559,
-                    45.118631
-                ]
-            },
-            "properties": {
-                "entity": "piazza Martini",
-                "name_location": "Lago Martini, Barriera di Lanzo, Circoscrizione 5, Villaretto, Torino, Piemonte, Italia",
-                "category": "natural",
-                "type": "water",
-                "importance": 0.41,
-                "snippet": [
-                    "la Casa della Vittoria (1918-20) di Gottardo Gussoni, insieme all'abitazione dello stesso Carrera, ne sono l'esempio di maggior rilevanza. Sempre nel medesimo quartiere è degno di nota anche l'operato dell'architetto Giuseppe Gallo, a cui si deve il progetto della chiesa dedicata a Gesù Nazareno affacciata su piazza Martini. Ulteriori esempi di edifici civili in stile neogotico sono evidenziabili nel vicino quartiere San Donato con il gruppo di case di via Piffetti, famose per i ferri battuti, le caratteristiche sfingi e le decorazioni a coda di pavone."
                 ]
             }
         },
@@ -1173,26 +1133,6 @@
                 "category": "place",
                 "type": "suburb",
                 "importance": 0.49500000000000005,
-                "snippet": [
-                    "Gli edifici di maggiore interesse Mappa sinottica degli edifici in stile liberty a Torino.  Zona Centro Zona Crocetta San Donato Zona Parco del Valentino (San Salvario) Zona San Paolo Zona Santa Rita Zona Aurora Zona Nord (Barriera di Milano) Zona Nord Ovest (Campidoglio e Lucento) Zona collinare (Borgo Po) "
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.635109,
-                    45.0913
-                ]
-            },
-            "properties": {
-                "entity": "Zona",
-                "name_location": "Zona Umida (Stagno), Parella, Circoscrizione 4, Torino, Piemonte, Italia",
-                "category": "natural",
-                "type": "water",
-                "importance": 0.41,
                 "snippet": [
                     "Gli edifici di maggiore interesse Mappa sinottica degli edifici in stile liberty a Torino.  Zona Centro Zona Crocetta San Donato Zona Parco del Valentino (San Salvario) Zona San Paolo Zona Santa Rita Zona Aurora Zona Nord (Barriera di Milano) Zona Nord Ovest (Campidoglio e Lucento) Zona collinare (Borgo Po) "
                 ]

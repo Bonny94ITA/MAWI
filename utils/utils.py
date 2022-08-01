@@ -239,31 +239,38 @@ def search_entities(searchable_entities: dict, context: str, title_page: str):
                     if 'importance' in location['properties']:    
                         importance = location['properties']['importance']
 
-                    loc_point = Point((coordinates[0], coordinates[1]))
-                    loc_feature = Feature(geometry=loc_point, properties={
-                                    "entity": search_item, 
-                                    "name_location": locationName,
-                                    "category": category,
-                                    "type": type,
-                                    "importance": importance,
-                                    "snippet": searchable_entities[search_item]})
-                    
-                    print_to_csv(response_file_excel, loc_feature)
+                    if category != "": 
+                        if not ((category == "boundary" and type == "administrative") or 
+                            (category == "highway" and (type == "motorway" or type == "motorway_junction")) or
+                            category == "waterway" or (category == "amenity" and type == "bicycle_rental") or
+                            type == "unclassified" or (category == "natural" and type == "water") or 
+                            (category == "shop" and type != "gift")):
 
-                    list_features.append(loc_feature)    
+                            loc_point = Point((coordinates[0], coordinates[1]))
+                            loc_feature = Feature(geometry=loc_point, properties={
+                                            "entity": search_item, 
+                                            "name_location": locationName,
+                                            "category": category,
+                                            "type": type,
+                                            "importance": importance,
+                                            "snippet": searchable_entities[search_item]})
+                        
+                            print_to_csv(response_file_excel, loc_feature)
 
-                    print("DISPLAY NAME: ", locationName)
-                    print("RESULT GEOJSON: ", location)
-                    print("OBJECT GEOJSON: ", loc_feature)
+                            list_features.append(loc_feature)    
 
-                    print_to_file(response_file_path, '-' * 50)
+                            print("DISPLAY NAME: ", locationName)
+                            print("RESULT GEOJSON: ", location)
+                            print("OBJECT GEOJSON: ", loc_feature)
 
-                    print_to_file(response_file_path, f"Research term: {search_item}")
-                    print_to_file(response_file_path, URLGEOJSON)
-                    print_to_file(response_file_path, f"Address: {locationName}")
-                    print_to_file(response_file_path, f"GEOGSON: {loc_feature}")
-      
-                    print_to_file(response_file_path, '-' * 50)
+                            print_to_file(response_file_path, '-' * 50)
+
+                            print_to_file(response_file_path, f"Research term: {search_item}")
+                            print_to_file(response_file_path, URLGEOJSON)
+                            print_to_file(response_file_path, f"Address: {locationName}")
+                            print_to_file(response_file_path, f"GEOGSON: {loc_feature}")
+            
+                            print_to_file(response_file_path, '-' * 50)
 
         #time.sleep(.600)
     
