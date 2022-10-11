@@ -3,16 +3,12 @@ import requests
 import urllib
 import json
 import os
-import time
 from geojson import Feature, Point, FeatureCollection
 import csv 
+import haversine as hs
 
-lab_to_discard = ["PER", "ORG", "MISC"]
-italian_region = ["Piemonte", "Valle d'Aosta", "Liguria", "Lombardia", "Veneto", "Friuli-Venezia-Giulia", \
-    "Trentino-Alto Adige", "Emilia-Romagna", "Toscana", "Abruzzo", "Umbria", "Puglia", "Molise", "Campania", \
-        "Lazio", "Basilicata", "Calabria", "Sardegna", "Sicilia"]
+#lab_to_discard = ["PER", "ORG", "MISC"]
 
-continents = ['Europa', 'Asia', 'Africa', 'America', 'Oceania', 'Antartica']
 # JSON indent
 def jprint(obj):
     text = json.dumps(obj, sort_keys=True, indent=3)
@@ -35,6 +31,41 @@ def read_text_file(path: str):
 
     return text
 
+
+def get_context(nlp_text, input_json: list, param_to_search: str):
+    """Get the context of the entities in the nlp_text.
+    
+    Args:
+        nlp_text: spacy text
+        input_json: json file with the entities to search
+        param_to_search: parameter to search in the json file
+
+    Returns:
+        counter: dictionary with the entities (cities name) to search and their occurences
+        context: string with the context of the text
+        loc_context: coordinates of the context
+    """
+
+    counter = count_occurrences(nlp_text, input_json, param_to_search)
+    context = max(counter, key=counter.get)
+    loc_context = find_loc_context(context, input_json) 
+    return counter, context, loc_context
+
+def find_loc_context(context: str, input_json: list): 
+    """Find the object of the context.
+
+    Args:
+        context: context of the text
+        input_json: json file with the entities to search
+
+    Returns:
+        loc_context: coordinates of the context
+    """
+    loc_context = {}
+    for elem in input_json:
+        if elem["name"] == context:
+            loc_context = elem
+    return loc_context
 
 def count_occurrences(nlp_text, input_json: list, param_to_search: str):
     """Count occurences of the param to search of the input json in the
@@ -60,30 +91,6 @@ def count_occurrences(nlp_text, input_json: list, param_to_search: str):
     return counter
 
 def get_entities_snippet(nlp_text, counter: dict):
-    """Get the entities from the nlp_text which are not cities and print snippet in which
-        they appears.
-
-    Args:
-        nlp_text: spacy text
-        counter: dictionary with the entities (cities name) to search and their occurences
-    """
-
-    searchable_entities = {}
-    sents = list(nlp_text.sents)
-    sentence_dict = generate_sentences_dictionary(sents)
-    entities = clean_entities(nlp_text)
-    for ent in entities: 
-        if ent not in counter: 
-            appears_in = search_dict(sentence_dict, ent)
-            """for (index, sentence) in appears_in:
-                print("Text: ", ent.text, "\n",
-                    "Sentence index: ", index, "\n",
-                    "Sentence: ", sentence, "\n")"""
-            searchable_entities[ent] = [sent for sent in appears_in] #ent associate to the list of sentences in which it appears
-
-    return searchable_entities
-
-def get_entities_snippet2(nlp_text, counter: dict):
     """Get the entities from the nlp_text which are not cities and print snippet in which
         they appears.
 
@@ -125,7 +132,7 @@ def clean_entities(nlp_text):
     """
     entities = []
     for ent in nlp_text.ents:
-        if ent.label_ not in lab_to_discard and ent.text not in italian_region and ent.text != "Italia" and ent.text not in continents: 
+        if ent.label_ == "LOC":
             entities.append(ent.text)
     return entities
 
@@ -169,7 +176,6 @@ def print_to_file(file_path: str, text_to_append):
 
 def print_to_csv(file_path: str, object_to_append):
     properties = object_to_append['properties']
-    #text_to_append = [properties['entity'], properties['name_location'], properties['snippet']]
     data = [[properties['entity'], properties['name_location'], properties['category'], properties['type'], properties['importance'], sent] for sent in properties['snippet']]
     with open(file_path, 'a', newline='', encoding='utf-8') as file:
         writer = csv.writer(file, dialect='excel')
@@ -180,7 +186,7 @@ def delete_file(file_path):
         os.remove(file_path)
 
 
-def search_entities(searchable_entities: dict, context: str, title_page: str):
+def search_entities(searchable_entities: dict, loc_context: dict, title_page: str):
     """ Search entities with API geocode.maps
     
     Args:
@@ -199,8 +205,9 @@ def search_entities(searchable_entities: dict, context: str, title_page: str):
     list_features = []
 
     for search_item in searchable_entities.keys():
-        text = urllib.parse.quote_plus(search_item + " " + context)
-       
+        #text = urllib.parse.quote_plus(search_item + " " + context)
+        text = urllib.parse.quote_plus(search_item)
+
         URLGEOJSON = 'https://geocode.maps.co/search?q={'+text+'}&format=geojson'
         print(URLGEOJSON)
         
@@ -217,60 +224,54 @@ def search_entities(searchable_entities: dict, context: str, title_page: str):
             result = result['features']
 
             if len(result) > 0:
-                location = result[0]
+                #location = result[0]
+                location = most_close_location(result, loc_context) # ma se si usasse anche la similarità????
+                
                 locationName = location['properties']['display_name'].strip()
-                locationNameList = locationName.split(", ")
-                city = ""
+                
+                coordinates = location['geometry']['coordinates']
+                category = ""
+                type = ""
+                importance = ""
+                if 'category' in location['properties']:
+                    category = location['properties']['category']
+                if 'type' in location['properties']:
+                    type = location['properties']['type']
+                if 'importance' in location['properties']:    
+                    importance = location['properties']['importance']
 
-                if locationNameList[-2].isdigit(): 
-                    city = locationNameList[-4] 
-                else: 
-                    city = locationNameList[-3] 
-                    
-                if locationName.endswith("Italia") and city.__contains__(context): 
-                    coordinates = location['geometry']['coordinates']
-                    category = ""
-                    type = ""
-                    importance = ""
-                    if 'category' in location['properties']:
-                        category = location['properties']['category']
-                    if 'type' in location['properties']:
-                        type = location['properties']['type']
-                    if 'importance' in location['properties']:    
-                        importance = location['properties']['importance']
+                if category != "": 
+                    if not ((category == "boundary" and type == "administrative") or 
+                        (category == "highway" and (type == "motorway" or type == "motorway_junction")) or
+                        category == "waterway" or (category == "amenity" and type == "bicycle_rental") or
+                        type == "unclassified" or (category == "natural" and type == "water") or 
+                        (category == "shop" and type != "gift")):
 
-                    if category != "": 
-                        if not ((category == "boundary" and type == "administrative") or 
-                            (category == "highway" and (type == "motorway" or type == "motorway_junction")) or
-                            category == "waterway" or (category == "amenity" and type == "bicycle_rental") or
-                            type == "unclassified" or (category == "natural" and type == "water") or 
-                            (category == "shop" and type != "gift")):
-
-                            loc_point = Point((coordinates[0], coordinates[1]))
-                            loc_feature = Feature(geometry=loc_point, properties={
-                                            "entity": search_item, 
-                                            "name_location": locationName,
-                                            "category": category,
-                                            "type": type,
-                                            "importance": importance,
-                                            "snippet": searchable_entities[search_item]})
+                        loc_point = Point((coordinates[0], coordinates[1]))
+                        loc_feature = Feature(geometry=loc_point, properties={
+                                        "entity": search_item, 
+                                        "name_location": locationName,
+                                        "category": category,
+                                        "type": type,
+                                        "importance": importance,
+                                        "snippet": searchable_entities[search_item]})
                         
-                            print_to_csv(response_file_excel, loc_feature)
+                        print_to_csv(response_file_excel, loc_feature)
 
-                            list_features.append(loc_feature)    
+                        list_features.append(loc_feature)    
 
-                            print("DISPLAY NAME: ", locationName)
-                            print("RESULT GEOJSON: ", location)
-                            print("OBJECT GEOJSON: ", loc_feature)
+                        print("DISPLAY NAME: ", locationName)
+                        print("RESULT GEOJSON: ", location)
+                        print("OBJECT GEOJSON: ", loc_feature)
 
-                            print_to_file(response_file_path, '-' * 50)
+                        print_to_file(response_file_path, '-' * 50)
 
-                            print_to_file(response_file_path, f"Research term: {search_item}")
-                            print_to_file(response_file_path, URLGEOJSON)
-                            print_to_file(response_file_path, f"Address: {locationName}")
-                            print_to_file(response_file_path, f"GEOGSON: {loc_feature}")
-            
-                            print_to_file(response_file_path, '-' * 50)
+                        print_to_file(response_file_path, f"Research term: {search_item}")
+                        print_to_file(response_file_path, URLGEOJSON)
+                        print_to_file(response_file_path, f"Address: {locationName}")
+                        print_to_file(response_file_path, f"GEOGSON: {loc_feature}")
+        
+                        print_to_file(response_file_path, '-' * 50)
 
         #time.sleep(.600)
     
@@ -280,6 +281,31 @@ def search_entities(searchable_entities: dict, context: str, title_page: str):
         json.dump(geojson_object, f, ensure_ascii=False, indent=4)
         print("The result has been saved as a file inside the response folder")
 
+
+def most_close_location(results: list, context: dict):
+    """ Return the most close location from the list of results
+    
+    Args:
+        results: list of results
+        context: tuple of coordinates (lat, lon)
+    
+    Returns:
+        location: the most close location
+    """
+    location = results[0]
+    poi_loc = (location['geometry']['coordinates'][1], location['geometry']['coordinates'][0])
+    context_loc = (float(context['latitude']), float(context['longitude']))
+    distance = hs.haversine(context_loc, poi_loc)
+
+    for result in results:
+        current_loc = (result['geometry']['coordinates'][1], result['geometry']['coordinates'][0])
+        current_distance =  hs.haversine(context_loc, current_loc)
+        print("DISTANCE: ", current_distance)
+        if distance < current_distance: 
+            location = result
+            distance = current_distance
+
+    return location
 
 
 def wiki_content(titles):

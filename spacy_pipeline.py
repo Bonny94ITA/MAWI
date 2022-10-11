@@ -1,11 +1,13 @@
-from utils.utils import count_occurrences, get_entities_snippet2, search_entities, search_entities, wiki_content, read_text_file
+from utils.utils import count_occurrences, get_entities_snippet, search_entities, search_entities, wiki_content, get_context
 import spacy
 import json
 
 
 nlp = spacy.load("it_core_news_sm")
 
-cities = ["Torino", "Roma", "Bologna", "Milano", "Liberty a Torino", "Barocco a Milano"]
+#cities = ["Torino", "Roma", "Bologna", "Milano", "Liberty a Torino", "Barocco a Milano"]
+
+cities = ["Torino"]
 
 for city in cities:
     # Read wiki pages
@@ -18,16 +20,18 @@ for city in cities:
     f.close()
     
     # Count occurrences
-    counter = count_occurrences(doc, italian_cities, "name")  
+    #counter = count_occurrences(doc, italian_cities, "name")  
     
+    counter, context, loc_context = get_context(doc, italian_cities, "name")
+
     # Max occurrence
-    context = max(counter, key=counter.get) 
+    #context = max(counter, key=counter.get) 
     print(context)
 
     # Get entities without duplicates
-    searchable_entities = get_entities_snippet2(doc, counter)
+    searchable_entities = get_entities_snippet(doc, counter)
 
     print("number of entities: ", len(searchable_entities))
 
     # Search addresses with Google
-    search_entities(searchable_entities, context, city)
+    search_entities(searchable_entities, loc_context, city)
