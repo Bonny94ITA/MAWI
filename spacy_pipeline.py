@@ -1,4 +1,4 @@
-from utils.utils import count_occurrences, get_entities_snippet, search_entities, search_entities, wiki_content, get_context
+from utils.utils import get_entities_snippet, search_entities, search_entities, wiki_content, get_context
 import spacy
 import json
 
@@ -14,18 +14,12 @@ for city in cities:
     text = wiki_content(city)
     doc = nlp(text)
 
-    # Opening JSON file
-    f = open('./assets/italian_cities.json')
+    f = open('./assets/italian_cities_new.json')
     italian_cities = json.load(f)
     f.close()
     
-    # Count occurrences
-    #counter = count_occurrences(doc, italian_cities, "name")  
-    
-    counter, context, loc_context = get_context(doc, italian_cities, "name")
+    counter, context, loc_context = get_context(doc, italian_cities, "AccentCity")
 
-    # Max occurrence
-    #context = max(counter, key=counter.get) 
     print(context)
 
     # Get entities without duplicates

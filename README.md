@@ -46,7 +46,7 @@ CARDINAL:    Numerals that do not fall under another type.
 
 ## Dataset Region/State
 
-https://data.world/dr5hn/country-state-city
+https://www.kaggle.com/datasets/max-mind/world-cities-database
 
 ## BeautifulSoup setup and utils
 

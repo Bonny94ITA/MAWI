@@ -1,4 +1,5 @@
 import json
+import csv
 
 filtered_cities = []
 
@@ -20,3 +21,15 @@ with open(f'assets/cities.json', 'r', encoding='utf-8') as f:
 
 with open(f'assets/italian_cities.json', 'w', encoding='utf-8') as f:
     json.dump(filtered_cities, f, indent=4)
+
+
+with open(f'assets/worldcitiespop.csv', 'r', encoding='utf-8') as file:
+    reader = csv.DictReader(file)
+    italian_cities = []
+    for row in reader:
+        if row['Country'] == 'it':
+            italian_cities.append(row)
+
+
+with open(f'assets/italian_cities_new.json', 'w', encoding='utf-8') as f:
+    json.dump(italian_cities, f, indent=4)

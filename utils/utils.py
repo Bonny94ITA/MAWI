@@ -6,8 +6,8 @@ import os
 from geojson import Feature, Point, FeatureCollection
 import csv 
 import haversine as hs
-
-#lab_to_discard = ["PER", "ORG", "MISC"]
+import numpy as np
+from kneed import KneeLocator
 
 # JSON indent
 def jprint(obj):
@@ -48,10 +48,10 @@ def get_context(nlp_text, input_json: list, param_to_search: str):
 
     counter = count_occurrences(nlp_text, input_json, param_to_search)
     context = max(counter, key=counter.get)
-    loc_context = find_loc_context(context, input_json) 
+    loc_context = find_loc_context(context, input_json, param_to_search) 
     return counter, context, loc_context
 
-def find_loc_context(context: str, input_json: list): 
+def find_loc_context(context: str, input_json: list, param_to_search: str): 
     """Find the object of the context.
 
     Args:
@@ -63,7 +63,7 @@ def find_loc_context(context: str, input_json: list):
     """
     loc_context = {}
     for elem in input_json:
-        if elem["name"] == context:
+        if elem[param_to_search] == context:
             loc_context = elem
     return loc_context
 
@@ -224,7 +224,6 @@ def search_entities(searchable_entities: dict, loc_context: dict, title_page: st
             result = result['features']
 
             if len(result) > 0:
-                #location = result[0]
                 location = most_close_location(result, loc_context) # ma se si usasse anche la similarità????
                 
                 locationName = location['properties']['display_name'].strip()
@@ -281,6 +280,87 @@ def search_entities(searchable_entities: dict, loc_context: dict, title_page: st
         json.dump(geojson_object, f, ensure_ascii=False, indent=4)
         print("The result has been saved as a file inside the response folder")
 
+    data_cleaned, outliers = detection_outliers(list_features, loc_context)
+
+    geojson_object_cleaned = FeatureCollection(data_cleaned)
+    response_cleaned = f"response/spacy_pipeline/{title_page}_cleaned.geojson"
+    geojson_object_outliers = FeatureCollection(outliers)
+    response_outliers = f"response/spacy_pipeline/{title_page}_outliers.geojson"
+
+    with open(response_cleaned, 'w', encoding='utf-8') as f:
+        json.dump(geojson_object_cleaned, f, ensure_ascii=False, indent=4)
+        print("The result has been saved as a file inside the response folder")
+
+    with open(response_outliers, 'w', encoding='utf-8') as f:
+        json.dump(geojson_object_outliers, f, ensure_ascii=False, indent=4)
+        print("The result has been saved as a file inside the response folder")
+
+
+
+def detection_outliers(results: list, context: dict):
+    """ Detection of outliers in results.
+    
+    Args:
+        results: list of data to analyze
+        centroid: centroid of the results
+    Returns:
+        list of outliers
+    """
+
+    centroid = (float(context['Latitude']), float(context['Longitude']))
+    
+    data_analyzed, distance = analyze_data(results, centroid)
+
+
+    data_cleaned = [item[0] for item in data_analyzed if item[1] < distance]
+
+    outliers = [item[0] for item in data_analyzed if item[0] not in data_cleaned]
+
+    return data_cleaned, outliers
+
+def analyze_data(results: list, centroid: tuple):
+    """ Analyze the data to find the distance from the centroid that suits the cluster
+    
+    Args:
+        results: list of data to analyze
+        centroid: centroid of the results
+    
+    Returns:
+        distance from the centroid
+    """
+    
+    data_analyzed = [] # preprocessing dei dati per la clusterizzazione
+
+    for result in results:
+        data_analyzed.append((result, hs.haversine(centroid, (result['geometry']['coordinates'][1], result['geometry']['coordinates'][0]))))
+
+    data_analyzed.sort(key=lambda x: x[1])    
+
+    distances_mesaured = [item[1] for item in data_analyzed]
+
+    max_distance = max(distances_mesaured)
+
+    distances = np.arange(1, max_distance + 2, 2)
+    n_points = np.zeros(len(distances))
+
+    for i in range(len(distances)): 
+        n_points[i] = len([item for item in data_analyzed if item[1] < distances[i]])
+
+    # visualizzazione dei dati
+    kl = KneeLocator(distances, n_points, S=1, curve="concave", direction="increasing", interp_method="polynomial")
+    #kl.plot_knee()
+
+    import matplotlib.pyplot as plt
+    
+    plt.xlabel('distance from centroid')
+    plt.ylabel('number of points ')
+    plt.plot(distances, n_points, 'bx-')
+    plt.vlines(kl.elbow, plt.ylim()[0], plt.ylim()[1], linestyles='dashed')
+
+    plt.show()
+
+    print("KNEEE: ", kl.elbow)
+    return data_analyzed, kl.elbow
 
 def most_close_location(results: list, context: dict):
     """ Return the most close location from the list of results
@@ -294,7 +374,7 @@ def most_close_location(results: list, context: dict):
     """
     location = results[0]
     poi_loc = (location['geometry']['coordinates'][1], location['geometry']['coordinates'][0])
-    context_loc = (float(context['latitude']), float(context['longitude']))
+    context_loc = (float(context['Latitude']), float(context['Longitude']))
     distance = hs.haversine(context_loc, poi_loc)
 
     for result in results:
