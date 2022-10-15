@@ -8,29 +8,7 @@ import csv
 import haversine as hs
 import numpy as np
 from kneed import KneeLocator
-
-# JSON indent
-def jprint(obj):
-    text = json.dumps(obj, sort_keys=True, indent=3)
-    print(text)
-
-
-def read_text_file(path: str):
-    """Read a text file from a path.
-
-    Args: 
-        path: path to the file
-    Returns:
-        text: text read from the file in string format
-    """
-    
-    with open(path, encoding='utf-8') as f:
-        lines = f.readlines()
-    
-    text = " ".join(str(line) for line in lines)
-
-    return text
-
+import matplotlib.pyplot as plt
 
 def get_context(nlp_text, input_json: list, param_to_search: str):
     """Get the context of the entities in the nlp_text.
@@ -349,8 +327,6 @@ def analyze_data(results: list, centroid: tuple):
     # visualizzazione dei dati
     kl = KneeLocator(distances, n_points, S=1, curve="concave", direction="increasing", interp_method="polynomial")
     #kl.plot_knee()
-
-    import matplotlib.pyplot as plt
     
     plt.xlabel('distance from centroid')
     plt.ylabel('number of points ')
