@@ -11,21 +11,24 @@ cities = ["Torino"]
 
 for city in cities:
     # Read wiki pages
-    text = wiki_content(city)
+    text, location = wiki_content(city, True)
     doc = nlp(text)
 
     f = open('./assets/italian_cities_new.json')
-    italian_cities = json.load(f)
+    cities_json = json.load(f)
     f.close()
     
-    counter, context, loc_context = get_context(doc, italian_cities, "AccentCity")
+    cities = [city['AccentCity'] for city in cities_json]
 
-    print(context)
+    print(cities[:10])
+    #counter, context, loc_context = get_context(doc, italian_cities, "name")
+
+    print(location)
 
     # Get entities without duplicates
-    searchable_entities = get_entities_snippet(doc, counter)
+    searchable_entities = get_entities_snippet(doc, cities)
 
     print("number of entities: ", len(searchable_entities))
 
     # Search addresses with Google
-    search_entities(searchable_entities, loc_context, city)
+    search_entities(searchable_entities, location, city)

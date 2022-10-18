@@ -25,6 +25,7 @@ def get_context(nlp_text, input_json: list, param_to_search: str):
     """
 
     counter = count_occurrences(nlp_text, input_json, param_to_search)
+    print(counter)
     context = max(counter, key=counter.get)
     loc_context = find_loc_context(context, input_json, param_to_search) 
     return counter, context, loc_context
@@ -68,7 +69,7 @@ def count_occurrences(nlp_text, input_json: list, param_to_search: str):
                     counter[ent.text] += 1
     return counter
 
-def get_entities_snippet(nlp_text, counter: dict):
+def get_entities_snippet(nlp_text, cities: list):
     """Get the entities from the nlp_text which are not cities and print snippet in which
         they appears.
 
@@ -83,7 +84,8 @@ def get_entities_snippet(nlp_text, counter: dict):
     for (index, sentence) in sentence_dict.items():
         entities = clean_entities(sentence)
         for ent in entities:
-            if ent not in counter:
+            #if ent not in counter:
+            if ent not in cities:
                 before = sentence_dict.get(index-1, "")
                 if not isinstance(before, str):
                     before = before.text
@@ -181,7 +183,8 @@ def search_entities(searchable_entities: dict, loc_context: dict, title_page: st
     delete_file(response_file_excel)
 
     list_features = []
-
+    
+    context = loc_context['name']
     for search_item in searchable_entities.keys():
         #text = urllib.parse.quote_plus(search_item + " " + context)
         text = urllib.parse.quote_plus(search_item)
@@ -238,8 +241,8 @@ def search_entities(searchable_entities: dict, loc_context: dict, title_page: st
                         list_features.append(loc_feature)    
 
                         print("DISPLAY NAME: ", locationName)
-                        print("RESULT GEOJSON: ", location)
-                        print("OBJECT GEOJSON: ", loc_feature)
+                        #print("RESULT GEOJSON: ", location)
+                        #print("OBJECT GEOJSON: ", loc_feature)
 
                         print_to_file(response_file_path, '-' * 50)
 
@@ -253,7 +256,7 @@ def search_entities(searchable_entities: dict, loc_context: dict, title_page: st
         #time.sleep(.600)
     
     geojson_object = FeatureCollection(list_features)
-    print(len(geojson_object["features"]))
+    #print(len(geojson_object["features"]))
     with open(response_geojson_file_path, 'w', encoding='utf-8') as f:
         json.dump(geojson_object, f, ensure_ascii=False, indent=4)
         print("The result has been saved as a file inside the response folder")
@@ -273,6 +276,7 @@ def search_entities(searchable_entities: dict, loc_context: dict, title_page: st
         json.dump(geojson_object_outliers, f, ensure_ascii=False, indent=4)
         print("The result has been saved as a file inside the response folder")
 
+    print(loc_context)
 
 
 def detection_outliers(results: list, context: dict):
@@ -285,7 +289,7 @@ def detection_outliers(results: list, context: dict):
         list of outliers
     """
 
-    centroid = (float(context['Latitude']), float(context['Longitude']))
+    centroid = (float(context['latitude']), float(context['longitude']))
     
     data_analyzed, distance = analyze_data(results, centroid)
 
@@ -314,7 +318,7 @@ def analyze_data(results: list, centroid: tuple):
 
     data_analyzed.sort(key=lambda x: x[1])    
 
-    distances_mesaured = [item[1] for item in data_analyzed]
+    distances_mesaured = [item[1] for item in data_analyzed] 
 
     max_distance = max(distances_mesaured)
 
@@ -328,16 +332,18 @@ def analyze_data(results: list, centroid: tuple):
     kl = KneeLocator(distances, n_points, S=1, curve="concave", direction="increasing", interp_method="polynomial")
     #kl.plot_knee()
     
+    knee = kl.knee
+
     plt.xlabel('distance from centroid')
     plt.ylabel('number of points ')
     plt.plot(distances, n_points, 'bx-')
-    plt.vlines(kl.elbow, plt.ylim()[0], plt.ylim()[1], linestyles='dashed')
+    plt.vlines(knee, plt.ylim()[0], plt.ylim()[1], linestyles='dashed')
 
     plt.show()
 
-    print("KNEEE: ", kl.elbow)
-    return data_analyzed, kl.elbow
-
+    print("KNEEE: ", knee)
+    return data_analyzed, knee
+    
 def most_close_location(results: list, context: dict):
     """ Return the most close location from the list of results
     
@@ -350,21 +356,21 @@ def most_close_location(results: list, context: dict):
     """
     location = results[0]
     poi_loc = (location['geometry']['coordinates'][1], location['geometry']['coordinates'][0])
-    context_loc = (float(context['Latitude']), float(context['Longitude']))
+    context_loc = (float(context['latitude']), float(context['longitude']))
     distance = hs.haversine(context_loc, poi_loc)
 
     for result in results:
         current_loc = (result['geometry']['coordinates'][1], result['geometry']['coordinates'][0])
         current_distance =  hs.haversine(context_loc, current_loc)
-        print("DISTANCE: ", current_distance)
-        if distance < current_distance: 
+        #print("DISTANCE: ", current_distance)
+        if distance > current_distance: 
             location = result
             distance = current_distance
 
     return location
 
 
-def wiki_content(titles):
+def wiki_content(title, loc = False):
     """Search title page in wikipedia with MediaWiki API.
 
     Args: 
@@ -379,7 +385,7 @@ def wiki_content(titles):
         "action": "query",
         "format": "json",
         "prop": "extracts",
-        "titles": titles,
+        "titles": title,
         "formatversion": "2"
     }
 
@@ -400,7 +406,31 @@ def wiki_content(titles):
 
     cleaned_content = soup.get_text().replace('\n', ' ')
 
-    with open(f'response/wikiPageContent/{titles}.txt', 'w', encoding='utf-8') as f:
+    with open(f'response/wikiPageContent/{title}.txt', 'w', encoding='utf-8') as f:
         f.write(cleaned_content)
+
+    if loc: 
+        params_coord = {
+            "action": "query",
+            "prop": "coordinates",
+            "titles": title,
+            "formatversion": "2",
+            "format": "json"
+        }
+
+        response_coord = session.get(url=url_api, params=params_coord)
+
+        data_coord = response_coord.json()
+
+        print(data_coord)
+
+        coordinates = data_coord['query']['pages'][0]['coordinates']
+
+        location = {"name": title, 
+                    "latitude": coordinates[0]['lat'], 
+                    "longitude": coordinates[0]['lon']}
     
-    return cleaned_content
+        return cleaned_content, location
+    
+    else: 
+        return cleaned_content
