@@ -118,3 +118,21 @@ loc = (lat, lon)
 
 #soup = BeautifulSoup(r.content, 'html.parser')
 #print("CONTENT:", soup)
+
+params_vic = {
+    "action": "query",
+    "list": "geosearch",
+    "gsradius": 3000,
+    "gscoord": str(lat) + "|" + str(lon),
+    "gsprop": "type",
+    "type": "landmark",
+    "formatversion": "2",
+    "format": "json"
+}
+
+response_vic= session.get(url=url_api, params=params_vic)
+
+data_vic = response_vic.json()
+
+
+print("DATA VICINANZA:", data_vic)
