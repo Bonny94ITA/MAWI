@@ -123,16 +123,27 @@ params_vic = {
     "action": "query",
     "list": "geosearch",
     "gsradius": 3000,
-    "gscoord": str(lat) + "|" + str(lon),
-    "gsprop": "type",
-    "type": "landmark",
+    "gspage": titles, #"gscoord": str(lat) + "|" + str(lon),
+    "gsprop": "type", # su cui poi posso filtrare landmark!!
     "formatversion": "2",
     "format": "json"
 }
+
+"""
+DATA VICINANZA: {'batchcomplete': True, 'query': {'geosearch': [{'pageid': 3305528, 'ns': 0, 'title': 'Circondario di Torino', 'lat': 45.066667, 'lon': 7.7, 'dist': 0, 'primary': True, 'type': 'adm2nd'}, {'pageid': 9284, 'ns': 0, 'title': 'Provincia di Torino', 'lat': 45.066667, 'lon': 7.7, 'dist': 0, 'primary': True, 'type': 'adm2nd'}, {'pageid': 4921152, 'ns': 0, 'title': 'Città metropolitana di Torino', 'lat': 45.06666666666667, 'lon': 7.7, 'dist': 0, 'primary': True, 'type': 'adm2nd'}, {'pageid': 267198, 'ns': 0, 'title': 'Piemonte', 'lat': 45.06666666666667, 'lon': 7.7, 'dist': 0, 'primary': True, 'type': 'adm1st'}, {'pageid': 2588349, 'ns': 0, 'title': 'Torino', 'lat': 45.066667, 'lon': 7.7, 'dist': 0, 'primary': True, 'type': 'adm3rd'}, {'pageid': 1843770, 'ns': 0, 'title': 'Palazzo Birago di Borgaro', 'lat': 45.066637, 'lon': 7.697183, 'dist': 221.3, 'primary': True, 'type': 'landmark'}, {'pageid': 901246, 'ns': 0, 'title': 'Casa Scaccabarozzi', 'lat': 45.067826, 'lon': 7.696926, 'dist': 273.7, 'primary': True, 'type': 'landmark'}, {'pageid': 2886809, 'ns': 0, 'title': 'Chiesa di Santa Giulia (Torino)', 'lat': 
+45.06964, 'lon': 7.69945, 'dist': 333.4, 'primary': True, 'type': 'landmark'}, {'pageid': 393797, 'ns': 0, 'title': 'Taverna del Santopalato', 'lat': 45.065767, 'lon': 7.695875, 'dist': 339.1, 'primary': True, 'type': 'landmark'}, {'pageid': 3313841, 'ns': 0, 'title': 'Ponte Vittorio Emanuele I', 'lat': 45.0635, 'lon': 7.6984, 'dist': 373.9, 'primary': True, 'type': 'landmark'}]}}
+
+
+DATA VICINANZA: {'batchcomplete': True, 'query': {'geosearch': [{'pageid': 3305528, 'ns': 0, 'title': 'Circondario di Torino', 'lat': 45.066667, 'lon': 7.7, 'dist': 0, 'primary': True, 'type': 'adm2nd'}, {'pageid': 9284, 'ns': 0, 'title': 'Provincia di Torino', 'lat': 45.066667, 'lon': 7.7, 'dist': 0, 'primary': True, 'type': 'adm2nd'}, {'pageid': 4921152, 'ns': 0, 'title': 'Città metropolitana di Torino', 'lat': 45.06666666666667, 'lon': 7.7, 'dist': 0, 'primary': True, 'type': 'adm2nd'}, {'pageid': 267198, 'ns': 0, 'title': 'Piemonte', 'lat': 45.06666666666667, 'lon': 7.7, 'dist': 0, 'primary': True, 'type': 'adm1st'}, {'pageid': 1843770, 'ns': 0, 'title': 'Palazzo Birago di Borgaro', 'lat': 45.066637, 'lon': 7.697183, 'dist': 221.3, 'primary': True, 'type': 'landmark'}, {'pageid': 901246, 'ns': 0, 'title': 'Casa Scaccabarozzi', 'lat': 45.067826, 'lon': 7.696926, 'dist': 273.7, 'primary': True, 'type': 'landmark'}, {'pageid': 2886809, 'ns': 0, 'title': 'Chiesa di Santa Giulia (Torino)', 'lat': 45.06964, 'lon': 7.69945, 'dist': 333.4, 'primary': True, 'type': 'landmark'}, {'pageid': 393797, 'ns': 0, 'title': 'Taverna 
+del Santopalato', 'lat': 45.065767, 'lon': 7.695875, 'dist': 339.1, 'primary': True, 'type': 'landmark'}, {'pageid': 3313841, 'ns': 0, 'title': 'Ponte Vittorio Emanuele I', 'lat': 45.0635, 'lon': 7.6984, 'dist': 373.9, 'primary': True, 'type': 'landmark'}, {'pageid': 1324880, 'ns': 0, 'title': 'Piazza Vittorio Veneto (Torino)', 'lat': 45.064806, 'lon': 7.695417, 'dist': 415.2, 'primary': True, 'type': 'landmark'}]}}
+"""
 
 response_vic= session.get(url=url_api, params=params_vic)
 
 data_vic = response_vic.json()
 
+landmarks = [loc for loc in data_vic['query']['geosearch'] if loc['type'] == 'landmark']
 
 print("DATA VICINANZA:", data_vic)
+
+print("LANDMARKS: ", landmarks)

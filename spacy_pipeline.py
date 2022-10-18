@@ -1,4 +1,4 @@
-from utils.utils import get_entities_snippet, search_entities, search_entities, wiki_content, get_context
+from utils.utils import get_entities_snippet, search_entities, search_entities, wiki_content, get_context, get_nearby_pages
 import spacy
 import json
 
@@ -32,3 +32,19 @@ for city in cities:
 
     # Search addresses with Google
     search_entities(searchable_entities, location, city)
+
+    # nearby pages
+
+    nearby_pages = get_nearby_pages(city)
+
+    for page in nearby_pages:
+        text = wiki_content(page)
+
+        searchable_entities = get_entities_snippet(doc, cities)
+
+        search_entities(searchable_entities, location, city)
+
+        # vorrei poter sovrapporre i risultati!
+
+
+

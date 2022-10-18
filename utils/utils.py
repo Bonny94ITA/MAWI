@@ -434,3 +434,25 @@ def wiki_content(title, loc = False):
     
     else: 
         return cleaned_content
+
+
+def get_nearby_pages(page: str):
+    session = requests.Session()
+    url_api = "https://it.wikipedia.org/w/api.php"
+    params_vic = {
+        "action": "query",
+        "list": "geosearch",
+        "gsradius": 3000,
+        "gspage": page,
+        "gsprop": "type", # su cui poi posso filtrare landmark!!
+        "formatversion": "2",
+        "format": "json"
+    }
+
+    response_vic= session.get(url=url_api, params=params_vic)
+
+    data_vic = response_vic.json()
+
+    landmarks = [loc for loc in data_vic['query']['geosearch'] if loc['type'] == 'landmark']
+
+    return landmarks
