@@ -69,16 +69,16 @@ def count_occurrences(nlp_text, input_json: list, param_to_search: str):
                     counter[ent.text] += 1
     return counter
 
-def get_entities_snippet(nlp_text, cities: list):
+def get_entities_snippet(nlp_text, cities: list, searchable_entities = dict()):
     """Get the entities from the nlp_text which are not cities and print snippet in which
         they appears.
 
     Args:
         nlp_text: spacy text
-        counter: dictionary with the entities (cities name) to search and their occurences
+        cities: list with cities name to filter
     """
 
-    searchable_entities = {}
+    #searchable_entities = {}
     sents = list(nlp_text.sents)
     sentence_dict = generate_sentences_dictionary(sents)
     for (index, sentence) in sentence_dict.items():
@@ -94,7 +94,7 @@ def get_entities_snippet(nlp_text, cities: list):
                     after = after.text
                 
                 sent = before + " " + sentence.text + " " + after
-                if ent in searchable_entities and sent not in searchable_entities[ent]:
+                if ent in searchable_entities and sent not in searchable_entities[ent]: # o non è presente una frase simile
                     searchable_entities[ent].append(sent)
                 else:     
                     searchable_entities[ent] = [sent]
@@ -166,27 +166,26 @@ def delete_file(file_path):
         os.remove(file_path)
 
 
-def search_entities(searchable_entities: dict, loc_context: dict, title_page: str):
+def search_entities(searchable_entities: dict, context: dict, title_page: str, features = list()):
     """ Search entities with API geocode.maps
     
     Args:
         searchable_entities: list of entities to search
-        context: context of the search (city, country, etc.)
+        loc_context: dict with information about context (city) 
+        title_page: title of the page
+
+    Returns:
+        features: list with the results of the search (points and snippets)
     """
 
     response_file_path = f"response/spacy_pipeline/{title_page}.txt"
-    response_geojson_file_path = f"response/spacy_pipeline/{title_page}_geojson.geojson"
-    response_file_excel = f"response/spacy_pipeline/{title_page}.csv"
-
     delete_file(response_file_path)
-    delete_file(response_geojson_file_path)
+    response_file_excel = f"response/spacy_pipeline/{title_page}.csv"
     delete_file(response_file_excel)
 
-    list_features = []
-    
-    context = loc_context['name']
+    name_context = context['name']
     for search_item in searchable_entities.keys():
-        #text = urllib.parse.quote_plus(search_item + " " + context)
+        #text = urllib.parse.quote_plus(search_item + " " + name_context)
         text = urllib.parse.quote_plus(search_item)
 
         URLGEOJSON = 'https://geocode.maps.co/search?q={'+text+'}&format=geojson'
@@ -196,16 +195,16 @@ def search_entities(searchable_entities: dict, loc_context: dict, title_page: st
         
         response= s.get(URLGEOJSON)
         try: 
-            result = response.json()
-        except json.decoder.JSONDecodeError as jsonError: 
+            results = response.json()
+        except json.decoder.JSONDecodeError: 
             print("Error in the response of the API")
             return
 
-        if "features" in result: 
-            result = result['features']
+        if "features" in results: # there are locations
+            results = results['features']
 
-            if len(result) > 0:
-                location = most_close_location(result, loc_context) # ma se si usasse anche la similarità????
+            if len(results) > 0:
+                location = most_close_location(results, context) # ma se si usasse anche la similarità????
                 
                 locationName = location['properties']['display_name'].strip()
                 
@@ -237,8 +236,8 @@ def search_entities(searchable_entities: dict, loc_context: dict, title_page: st
                                         "snippet": searchable_entities[search_item]})
                         
                         print_to_csv(response_file_excel, loc_feature)
-
-                        list_features.append(loc_feature)    
+                        
+                        features.append(loc_feature)    
 
                         print("DISPLAY NAME: ", locationName)
                         #print("RESULT GEOJSON: ", location)
@@ -255,29 +254,8 @@ def search_entities(searchable_entities: dict, loc_context: dict, title_page: st
 
         #time.sleep(.600)
     
-    geojson_object = FeatureCollection(list_features)
-    #print(len(geojson_object["features"]))
-    with open(response_geojson_file_path, 'w', encoding='utf-8') as f:
-        json.dump(geojson_object, f, ensure_ascii=False, indent=4)
-        print("The result has been saved as a file inside the response folder")
-
-    data_cleaned, outliers = detection_outliers(list_features, loc_context)
-
-    geojson_object_cleaned = FeatureCollection(data_cleaned)
-    response_cleaned = f"response/spacy_pipeline/{title_page}_cleaned.geojson"
-    geojson_object_outliers = FeatureCollection(outliers)
-    response_outliers = f"response/spacy_pipeline/{title_page}_outliers.geojson"
-
-    with open(response_cleaned, 'w', encoding='utf-8') as f:
-        json.dump(geojson_object_cleaned, f, ensure_ascii=False, indent=4)
-        print("The result has been saved as a file inside the response folder")
-
-    with open(response_outliers, 'w', encoding='utf-8') as f:
-        json.dump(geojson_object_outliers, f, ensure_ascii=False, indent=4)
-        print("The result has been saved as a file inside the response folder")
-
-    print(loc_context)
-
+    print(context)
+    return features
 
 def detection_outliers(results: list, context: dict):
     """ Detection of outliers in results.
@@ -370,13 +348,53 @@ def most_close_location(results: list, context: dict):
     return location
 
 
-def wiki_content(title, loc = False):
+def save_results(features: list, context: dict): 
+    """ Save results of the search
+    
+    Args: 
+        features: list of feature to save
+        context: dict with information of context
+
+    """
+
+    name_context = context['name']
+
+    geojson = FeatureCollection(features)
+
+    results_path = f"response/spacy_pipeline/{name_context}.geojson"
+    results_cleaned_path = f"response/spacy_pipeline/{name_context}_cleaned.geojson"
+    results_outliers_path = f"response/spacy_pipeline/{name_context}_outliers.geojson"
+
+    delete_file(results_path)
+    delete_file(results_cleaned_path)
+    delete_file(results_outliers_path)
+
+    with open(results_path, 'w', encoding='utf-8') as f:
+        json.dump(geojson, f, ensure_ascii=False, indent=4)
+        print("The result complete has been saved as a file inside the response folder")
+
+    features_cleaned, outliers = detection_outliers(features, context)
+
+    geojson_cleaned = FeatureCollection(features_cleaned)
+    geojson_outliers = FeatureCollection(outliers)
+    
+    with open(results_cleaned_path, 'w', encoding='utf-8') as f:
+        json.dump(geojson_cleaned, f, ensure_ascii=False, indent=4)
+        print("The result cleaned has been saved as a file inside the response folder")
+
+    with open(results_outliers_path, 'w', encoding='utf-8') as f:
+        json.dump(geojson_outliers, f, ensure_ascii=False, indent=4)
+        print("The result outliers has been saved as a file inside the response folder")
+
+
+def wiki_content(title, context = False):
     """Search title page in wikipedia with MediaWiki API.
 
     Args: 
-        titles: Wikipedia page title
+        title: str Wikipedia page title
+        context: boolean if true is searched also the location of the context
     Returns:
-        Wikipedia page content cleaned 
+        Wikipedia page content cleaned  
     """
     session = requests.Session()
     url_api = "https://it.wikipedia.org/w/api.php"
@@ -409,7 +427,7 @@ def wiki_content(title, loc = False):
     with open(f'response/wikiPageContent/{title}.txt', 'w', encoding='utf-8') as f:
         f.write(cleaned_content)
 
-    if loc: 
+    if context: 
         params_coord = {
             "action": "query",
             "prop": "coordinates",
@@ -437,22 +455,30 @@ def wiki_content(title, loc = False):
 
 
 def get_nearby_pages(page: str):
+    """ Return pages near the page in argument.
+
+    Args: 
+        page (str): string with the page
+
+    Returns: 
+        list of pages near the page in argument
+    """
     session = requests.Session()
     url_api = "https://it.wikipedia.org/w/api.php"
-    params_vic = {
+    params = {
         "action": "query",
         "list": "geosearch",
         "gsradius": 3000,
         "gspage": page,
-        "gsprop": "type", # su cui poi posso filtrare landmark!!
+        "gsprop": "type", 
         "formatversion": "2",
         "format": "json"
     }
 
-    response_vic= session.get(url=url_api, params=params_vic)
+    response = session.get(url=url_api, params=params)
 
-    data_vic = response_vic.json()
+    nearby_pages = response.json()
 
-    landmarks = [loc for loc in data_vic['query']['geosearch'] if loc['type'] == 'landmark']
+    landmarks = [pages['title'] for pages in nearby_pages['query']['geosearch'] if pages['type'] == 'landmark']
 
     return landmarks
