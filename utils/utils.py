@@ -9,6 +9,8 @@ import haversine as hs
 import numpy as np
 from kneed import KneeLocator
 import matplotlib.pyplot as plt
+from sklearn.neighbors import NearestNeighbors
+import time
 
 def get_context(nlp_text, input_json: list, param_to_search: str):
     """Get the context of the entities in the nlp_text.
@@ -194,6 +196,7 @@ def search_entities(searchable_entities: dict, context: dict, title_page: str, f
         s = requests.Session()
         
         response= s.get(URLGEOJSON)
+            
         try: 
             results = response.json()
         except json.decoder.JSONDecodeError: 
@@ -252,7 +255,7 @@ def search_entities(searchable_entities: dict, context: dict, title_page: str, f
         
                         print_to_file(response_file_path, '-' * 50)
 
-        #time.sleep(.600)
+        time.sleep(.300)
     
     print(context)
     return features
@@ -269,14 +272,39 @@ def detection_outliers(results: list, context: dict):
 
     centroid = (float(context['latitude']), float(context['longitude']))
     
-    data_analyzed, distance = analyze_data(results, centroid)
+    distance_max = analyze_data(results, centroid)
+    
+    results_cleaned, outliers = compute_distances(results, distance_max, context)
 
+    return results_cleaned, outliers
 
-    data_cleaned = [item[0] for item in data_analyzed if item[1] < distance]
+def compute_distances(results: list, distance_max: float, context: dict):
+    """ Compute the distance between the centroid and the results.
+    
+    Args:
+        results: list of data to analyze
+        centroid: centroid of the results
+    Returns:
+        list of distances
+    """
 
-    outliers = [item[0] for item in data_analyzed if item[0] not in data_cleaned]
+    centroid = (float(context['latitude']), float(context['longitude']))
 
-    return data_cleaned, outliers
+    results_cleaned = []
+    results_outliers = []
+    for result in results:
+        coordinates = result['geometry']['coordinates']
+        point = (coordinates[0], coordinates[1])
+        distance = hs.haversine(centroid, point)
+        if distance < distance_max:
+            results_cleaned.append(result)
+        else: 
+            results_outliers.append(result)
+
+    return results_cleaned, results_outliers
+
+def metric_haversine(a, b):
+    return hs.haversine(a, b)
 
 def analyze_data(results: list, centroid: tuple):
     """ Analyze the data to find the distance from the centroid that suits the cluster
@@ -290,10 +318,29 @@ def analyze_data(results: list, centroid: tuple):
     """
     
     data_analyzed = [] # preprocessing dei dati per la clusterizzazione
+    results_prepared = []
 
     for result in results:
-        data_analyzed.append((result, hs.haversine(centroid, (result['geometry']['coordinates'][1], result['geometry']['coordinates'][0]))))
+        #data_analyzed.append((result, hs.haversine(centroid, (result['geometry']['coordinates'][1], result['geometry']['coordinates'][0]))))
+        results_prepared.append([result['geometry']['coordinates'][1], result['geometry']['coordinates'][0]])
 
+    data = np.asarray(results_prepared, dtype=np.float64)
+    nbrs = NearestNeighbors(n_neighbors=10, metric = metric_haversine).fit(data) #euclidean distance for dbscan and nearest neighbors AGGIUSTARE DISTANZA
+    distances = nbrs.kneighbors(data, n_neighbors=10)
+
+    distances_10th_nn = np.hsplit(distances[0], [9,10])[1].flatten() 
+    indices_10th_nn = np.hsplit(distances[1], [9,10])[1].flatten() 
+    comb = np.column_stack((distances_10th_nn, indices_10th_nn))
+    sorted_distances = comb[(comb[:,0]).argsort()]  #sort distances in asscending order
+    distances_sorted, indices_sorted = np.hsplit(sorted_distances, 2)
+
+    plt.title('Distance of 10th nearest neightbor')
+    plt.xlabel('Data points (sorted by distance)')
+    plt.ylabel('Distance of 10th nearest neighbor')
+    plt.plot(distances_sorted)
+    plt.show()
+
+    """
     data_analyzed.sort(key=lambda x: x[1])    
 
     distances_mesaured = [item[1] for item in data_analyzed] 
@@ -305,22 +352,23 @@ def analyze_data(results: list, centroid: tuple):
 
     for i in range(len(distances)): 
         n_points[i] = len([item for item in data_analyzed if item[1] < distances[i]])
-
+    """
     # visualizzazione dei dati
-    kl = KneeLocator(distances, n_points, S=1, curve="concave", direction="increasing", interp_method="polynomial")
+    kl = KneeLocator(np.arange(len(distances_sorted)), distances_sorted.flatten(), S=1, curve="convex", direction="increasing", interp_method="polynomial")
     #kl.plot_knee()
     
     knee = kl.knee
 
     plt.xlabel('distance from centroid')
     plt.ylabel('number of points ')
-    plt.plot(distances, n_points, 'bx-')
+    plt.plot(np.arange(len(distances_sorted)), distances_sorted.flatten(), 'bx-')
     plt.vlines(knee, plt.ylim()[0], plt.ylim()[1], linestyles='dashed')
 
     plt.show()
-
+    val = distances_sorted.flatten()[kl.elbow]
     print("KNEEE: ", knee)
-    return data_analyzed, knee
+    print("PRINT VALUE: ", val)
+    return data_analyzed, val
     
 def most_close_location(results: list, context: dict):
     """ Return the most close location from the list of results
