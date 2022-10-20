@@ -294,7 +294,7 @@ def compute_distances(results: list, distance_max: float, context: dict):
     results_outliers = []
     for result in results:
         coordinates = result['geometry']['coordinates']
-        point = (coordinates[0], coordinates[1])
+        point = (coordinates[1], coordinates[0])
         distance = hs.haversine(centroid, point)
         if distance < distance_max:
             results_cleaned.append(result)
@@ -325,8 +325,8 @@ def analyze_data(results: list, centroid: tuple):
         results_prepared.append([result['geometry']['coordinates'][1], result['geometry']['coordinates'][0]])
 
     data = np.asarray(results_prepared, dtype=np.float64)
-    nbrs = NearestNeighbors(n_neighbors=10, metric = metric_haversine).fit(data) #euclidean distance for dbscan and nearest neighbors AGGIUSTARE DISTANZA
-    distances = nbrs.kneighbors(data, n_neighbors=10)
+    nbrs = NearestNeighbors(n_neighbors=20, metric = metric_haversine).fit(data) #euclidean distance for dbscan and nearest neighbors AGGIUSTARE DISTANZA
+    distances = nbrs.kneighbors(data, n_neighbors=20)
 
     distances_10th_nn = np.hsplit(distances[0], [9,10])[1].flatten() 
     indices_10th_nn = np.hsplit(distances[1], [9,10])[1].flatten() 
@@ -368,7 +368,7 @@ def analyze_data(results: list, centroid: tuple):
     val = distances_sorted.flatten()[kl.elbow]
     print("KNEEE: ", knee)
     print("PRINT VALUE: ", val)
-    return data_analyzed, val
+    return val
     
 def most_close_location(results: list, context: dict):
     """ Return the most close location from the list of results
