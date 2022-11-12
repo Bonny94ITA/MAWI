@@ -6,11 +6,9 @@ import os
 from geojson import Feature, Point, FeatureCollection
 import csv 
 import haversine as hs
-import numpy as np
-from kneed import KneeLocator
-import matplotlib.pyplot as plt
-from sklearn.neighbors import NearestNeighbors
 import time
+from wikidata.client import Client
+from shapely.geometry import Point, Polygon
 
 def get_context(nlp_text, input_json: list, param_to_search: str):
     """Get the context of the entities in the nlp_text.
@@ -80,13 +78,11 @@ def get_entities_snippet(nlp_text, cities: list, searchable_entities = dict()):
         cities: list with cities name to filter
     """
 
-    #searchable_entities = {}
     sents = list(nlp_text.sents)
     sentence_dict = generate_sentences_dictionary(sents)
     for (index, sentence) in sentence_dict.items():
         entities = clean_entities(sentence)
         for ent in entities:
-            #if ent not in counter:
             if ent not in cities:
                 before = sentence_dict.get(index-1, "")
                 if not isinstance(before, str):
@@ -96,7 +92,7 @@ def get_entities_snippet(nlp_text, cities: list, searchable_entities = dict()):
                     after = after.text
                 
                 sent = before + " " + sentence.text + " " + after
-                if ent in searchable_entities and sent not in searchable_entities[ent]: # o non è presente una frase simile
+                if ent in searchable_entities and sent not in searchable_entities[ent]:
                     searchable_entities[ent].append(sent)
                 else:     
                     searchable_entities[ent] = [sent]
@@ -207,7 +203,7 @@ def search_entities(searchable_entities: dict, context: dict, title_page: str, f
             results = results['features']
 
             if len(results) > 0:
-                location = most_close_location(results, context) # ma se si usasse anche la similarità????
+                location = most_close_location(results, context)
                 
                 locationName = location['properties']['display_name'].strip()
                 
@@ -243,8 +239,6 @@ def search_entities(searchable_entities: dict, context: dict, title_page: str, f
                         features.append(loc_feature)    
 
                         print("DISPLAY NAME: ", locationName)
-                        #print("RESULT GEOJSON: ", location)
-                        #print("OBJECT GEOJSON: ", loc_feature)
 
                         print_to_file(response_file_path, '-' * 50)
 
@@ -255,7 +249,7 @@ def search_entities(searchable_entities: dict, context: dict, title_page: str, f
         
                         print_to_file(response_file_path, '-' * 50)
 
-        time.sleep(.300)
+        time.sleep(.600)
     
     print(context)
     return features
@@ -267,108 +261,61 @@ def detection_outliers(results: list, context: dict):
         results: list of data to analyze
         centroid: centroid of the results
     Returns:
+        list of results without outliers
         list of outliers
     """
 
-    centroid = (float(context['latitude']), float(context['longitude']))
-    
-    distance_max = analyze_data(results, centroid)
-    
-    results_cleaned, outliers = compute_distances(results, distance_max, context)
+    results_cleaned, outliers = compute_distances(results, context)
 
     return results_cleaned, outliers
 
-def compute_distances(results: list, distance_max: float, context: dict):
+def compute_distances(results: list, context: dict):
     """ Compute the distance between the centroid and the results.
     
     Args:
         results: list of data to analyze
         centroid: centroid of the results
     Returns:
-        list of distances
+        list of results cleaned
+        list of outliers
     """
 
-    centroid = (float(context['latitude']), float(context['longitude']))
-
+    city_polygon = context['polygon']['geometry']['coordinates'][0]
     results_cleaned = []
     results_outliers = []
     for result in results:
         coordinates = result['geometry']['coordinates']
-        point = (coordinates[1], coordinates[0])
-        distance = hs.haversine(centroid, point)
-        if distance < distance_max:
+        point = Point(coordinates[0], coordinates[1])
+        if point_in_polygon(point, city_polygon):
             results_cleaned.append(result)
         else: 
+            #importance = result['properties']['importance']
+            #if importance >= 0.4: 
+            #    results_cleaned.append(result)
+            #else: 
             results_outliers.append(result)
 
     return results_cleaned, results_outliers
 
-def metric_haversine(a, b):
-    return hs.haversine(a, b)
-
-def analyze_data(results: list, centroid: tuple):
-    """ Analyze the data to find the distance from the centroid that suits the cluster
+def point_in_polygon(point: Point, polygon: list):
+    """ Check if a point is inside a polygon.
     
     Args:
-        results: list of data to analyze
-        centroid: centroid of the results
+        point: point to check
+        polygon: polygon to check
     
     Returns:
-        distance from the centroid
+        True if the point is inside the polygon, False otherwise
     """
+    coords_poly = [(coord[0], coord[1]) for coord in polygon] 
+    poly = Polygon(coords_poly)
+
+    within = point.within(poly) 
+
+    return within
     
-    data_analyzed = [] # preprocessing dei dati per la clusterizzazione
-    results_prepared = []
-
-    for result in results:
-        #data_analyzed.append((result, hs.haversine(centroid, (result['geometry']['coordinates'][1], result['geometry']['coordinates'][0]))))
-        results_prepared.append([result['geometry']['coordinates'][1], result['geometry']['coordinates'][0]])
-
-    data = np.asarray(results_prepared, dtype=np.float64)
-    nbrs = NearestNeighbors(n_neighbors=20, metric = metric_haversine).fit(data) #euclidean distance for dbscan and nearest neighbors AGGIUSTARE DISTANZA
-    distances = nbrs.kneighbors(data, n_neighbors=20)
-
-    distances_10th_nn = np.hsplit(distances[0], [9,10])[1].flatten() 
-    indices_10th_nn = np.hsplit(distances[1], [9,10])[1].flatten() 
-    comb = np.column_stack((distances_10th_nn, indices_10th_nn))
-    sorted_distances = comb[(comb[:,0]).argsort()]  #sort distances in asscending order
-    distances_sorted, indices_sorted = np.hsplit(sorted_distances, 2)
-
-    plt.title('Distance of 10th nearest neightbor')
-    plt.xlabel('Data points (sorted by distance)')
-    plt.ylabel('Distance of 10th nearest neighbor')
-    plt.plot(distances_sorted)
-    plt.show()
-
-    """
-    data_analyzed.sort(key=lambda x: x[1])    
-
-    distances_mesaured = [item[1] for item in data_analyzed] 
-
-    max_distance = max(distances_mesaured)
-
-    distances = np.arange(1, max_distance + 2, 2)
-    n_points = np.zeros(len(distances))
-
-    for i in range(len(distances)): 
-        n_points[i] = len([item for item in data_analyzed if item[1] < distances[i]])
-    """
-    # visualizzazione dei dati
-    kl = KneeLocator(np.arange(len(distances_sorted)), distances_sorted.flatten(), S=1, curve="convex", direction="increasing", interp_method="polynomial")
-    #kl.plot_knee()
-    
-    knee = kl.knee
-
-    plt.xlabel('distance from centroid')
-    plt.ylabel('number of points ')
-    plt.plot(np.arange(len(distances_sorted)), distances_sorted.flatten(), 'bx-')
-    plt.vlines(knee, plt.ylim()[0], plt.ylim()[1], linestyles='dashed')
-
-    plt.show()
-    val = distances_sorted.flatten()[kl.elbow]
-    print("KNEEE: ", knee)
-    print("PRINT VALUE: ", val)
-    return val
+def metric_haversine(a, b):
+    return hs.haversine(a, b)
     
 def most_close_location(results: list, context: dict):
     """ Return the most close location from the list of results
@@ -422,6 +369,9 @@ def save_results(features: list, context: dict):
         print("The result complete has been saved as a file inside the response folder")
 
     features_cleaned, outliers = detection_outliers(features, context)
+
+    features_cleaned.append(context['polygon'])
+    outliers.append(context['polygon'])
 
     geojson_cleaned = FeatureCollection(features_cleaned)
     geojson_outliers = FeatureCollection(outliers)
@@ -485,21 +435,92 @@ def wiki_content(title, context = False):
         }
 
         response_coord = session.get(url=url_api, params=params_coord)
-
         data_coord = response_coord.json()
 
         print(data_coord)
 
         coordinates = data_coord['query']['pages'][0]['coordinates']
-
         location = {"name": title, 
                     "latitude": coordinates[0]['lat'], 
-                    "longitude": coordinates[0]['lon']}
+                    "longitude": coordinates[0]['lon'], 
+                    "polygon": get_polygon(title)}
     
         return cleaned_content, location
     
     else: 
         return cleaned_content
+
+
+def get_polygon(name):
+    """
+    Get the polygon of the location using wikidata API.
+
+    Args:
+        name: name of the location
+    
+    Returns:
+        polygon: polygon of the location
+    """
+
+    entity_id= get_entity_id(name)
+
+    client = Client()
+
+    client.request
+    entity = client.get(entity_id, load=True)
+
+    easternpoint_prop = client.get('P1334')
+    easternpoint = entity[easternpoint_prop]
+    e_coord = [easternpoint.longitude, easternpoint.latitude]
+
+    northernpoint_prop = client.get('P1332')
+    northernpoint = entity[northernpoint_prop]
+    n_coord = [northernpoint.longitude, northernpoint.latitude]
+
+    southernpoint_prop = client.get('P1333')
+    southernpoint = entity[southernpoint_prop] 
+    s_coord = [southernpoint.longitude, southernpoint.latitude]
+
+    westernpoint_prop = client.get('P1335')
+    westernpoint = entity[westernpoint_prop]
+    w_coord = [westernpoint.longitude, westernpoint.latitude]
+
+    city = {
+        "type": "Polygon", 
+        "coordinates": [
+                [e_coord, n_coord, w_coord, s_coord, e_coord]
+        ]
+    }
+
+    feature = Feature(geometry=city, properties={"name": "turin"})
+
+    return feature
+
+
+def get_entity_id(name):
+    """
+    Get the entity id of the location using wikidata API.
+    
+    Args:
+        name: name of the location
+    
+    Returns:
+        entity_id: entity id of the location
+    """
+    session = requests.Session()
+    url_api = "https://wikidata.org/w/api.php"
+    params = {
+        "action": "wbsearchentities",
+        "search": name,
+        "language": "it",
+        "format": "json"
+    }
+
+    response = session.get(url=url_api, params=params)
+    data = response.json()
+    entity_id = data['search'][0]['id']
+
+    return entity_id
 
 
 def get_nearby_pages(page: str):
