@@ -9,6 +9,7 @@ import haversine as hs
 import time
 from wikidata.client import Client
 from shapely.geometry import Point, Polygon
+import re
 
 def get_context(nlp_text, input_json: list, param_to_search: str):
     """Get the context of the entities in the nlp_text.
@@ -76,6 +77,10 @@ def get_entities_snippet(nlp_text, cities: list, searchable_entities = dict()):
     Args:
         nlp_text: spacy text
         cities: list with cities name to filter
+    
+    Returns:
+        searchable_entities: dictionary with the entities and the snippet in which they appear
+        sentence_dict: dictionary with  the index of the sentence in the text and the sentence itself
     """
 
     sents = list(nlp_text.sents)
@@ -86,18 +91,18 @@ def get_entities_snippet(nlp_text, cities: list, searchable_entities = dict()):
             if ent not in cities:
                 before = sentence_dict.get(index-1, "")
                 if not isinstance(before, str):
-                    before = before.text
+                    before = before.text.strip()
                 after = sentence_dict.get(index+1, "")
                 if not isinstance(after, str):
-                    after = after.text
+                    after = after.text.strip()
                 
-                sent = before + " " + sentence.text + " " + after
+                sent = before + " " + sentence.text.strip() + " " + after
                 if ent in searchable_entities and sent not in searchable_entities[ent]:
                     searchable_entities[ent].append(sent)
                 else:     
                     searchable_entities[ent] = [sent]
 
-    return searchable_entities
+    return searchable_entities, sentence_dict
 
 
 def clean_entities(nlp_text): 
@@ -418,9 +423,20 @@ def wiki_content(title, context = False):
         find = str(Htag.contents[i]) == '<h2><span id="Note">Note</span></h2>' 
         i += 1
     
-    del Htag.contents[i-1:]
+    tag = soup.find_all('span', id=True) # find all the titles of paragraphs in the text
 
-    cleaned_content = soup.get_text().replace('\n', ' ')
+    for t in tag:
+        t.decompose()
+
+    del Htag.contents[i-1:]
+    
+    text = soup.get_text(' ')
+
+    cleaned_content = re.sub(r"\n+", "\n", text)
+    #cleaned_content = soup.get_text().replace('\n', ' ')
+
+    with open(f'response/wikiPageContent/{title}_notcleaned.txt', 'w', encoding='utf-8') as f:
+        f.write(soup.prettify())
 
     with open(f'response/wikiPageContent/{title}.txt', 'w', encoding='utf-8') as f:
         f.write(cleaned_content)
