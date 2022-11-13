@@ -9,7 +9,9 @@ import haversine as hs
 import time
 from wikidata.client import Client
 from shapely.geometry import Point, Polygon
-import re
+from geopy.geocoders import Nominatim
+
+
 
 def get_context(nlp_text, input_json: list, param_to_search: str):
     """Get the context of the entities in the nlp_text.
@@ -86,26 +88,26 @@ def get_entities_snippet(nlp_text, cities: list, searchable_entities = dict()):
     sents = list(nlp_text.sents)
     sentence_dict = generate_sentences_dictionary(sents)
     for (index, sentence) in sentence_dict.items():
-        entities = clean_entities(sentence)
+        entities = clean_entities(sentence, cities)
         for ent in entities:
-            if ent not in cities:
-                before = sentence_dict.get(index-1, "")
-                if not isinstance(before, str):
-                    before = before.text.strip()
-                after = sentence_dict.get(index+1, "")
-                if not isinstance(after, str):
-                    after = after.text.strip()
-                
-                sent = before + " " + sentence.text.strip() + " " + after
-                if ent in searchable_entities and sent not in searchable_entities[ent]:
-                    searchable_entities[ent].append(sent)
-                else:     
-                    searchable_entities[ent] = [sent]
+            #if ent not in cities:
+            before = sentence_dict.get(index-1, "")
+            if not isinstance(before, str):
+                before = before.text.strip()
+            after = sentence_dict.get(index+1, "")
+            if not isinstance(after, str):
+                after = after.text.strip()
+            
+            sent = before + " " + sentence.text.strip() + " " + after
+            if ent in searchable_entities and sent not in searchable_entities[ent]:
+                searchable_entities[ent].append(sent)
+            else:     
+                searchable_entities[ent] = [sent]
 
     return searchable_entities, sentence_dict
 
 
-def clean_entities(nlp_text): 
+def clean_entities(nlp_text, cities: list): 
     """Clean the entities from the nlp_text.
 
     Args:
@@ -115,7 +117,7 @@ def clean_entities(nlp_text):
     """
     entities = []
     for ent in nlp_text.ents:
-        if ent.label_ == "LOC":
+        if ent.label_ == "LOC" and ent.text not in cities: #TODO: FIX! TROVO ANCORA AMSTERDAM!!!
             entities.append(ent.text)
     return entities
 
@@ -181,6 +183,9 @@ def search_entities(searchable_entities: dict, context: dict, title_page: str, f
         features: list with the results of the search (points and snippets)
     """
 
+    geolocator = Nominatim(user_agent="PoI_geocoder")
+
+    
     response_file_path = f"response/spacy_pipeline/{title_page}.txt"
     delete_file(response_file_path)
     response_file_excel = f"response/spacy_pipeline/{title_page}.csv"
@@ -430,9 +435,9 @@ def wiki_content(title, context = False):
 
     del Htag.contents[i-1:]
     
-    text = soup.get_text(' ')
+    cleaned_content = soup.get_text(' ', strip=True)
 
-    cleaned_content = re.sub(r"\n+", "\n", text)
+    #cleaned_content = re.sub(r"\n+", "\n", text)
     #cleaned_content = soup.get_text().replace('\n', ' ')
 
     with open(f'response/wikiPageContent/{title}_notcleaned.txt', 'w', encoding='utf-8') as f:

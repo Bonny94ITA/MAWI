@@ -12,24 +12,24 @@ with open(f'assets/cities.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
     for element in data:
-        if element['country_code'] == 'IT':
-            if element['name'].__contains__("Provincia di "): 
-                element['name'] = element['name'].replace("Provincia di ", '') 
-            elif element['name'].__contains__("Città metropolitana di "):
-                element['name'] = element['name'].replace("Città metropolitana di ", '')
-            filtered_cities.append(element)
+        #if element['country_code'] == 'IT':
+        if element['name'].__contains__("Provincia di "): 
+            element['name'] = element['name'].replace("Provincia di ", '') 
+        elif element['name'].__contains__("Città metropolitana di "):
+            element['name'] = element['name'].replace("Città metropolitana di ", '')
+        filtered_cities.append(element)
 
-with open(f'assets/italian_cities.json', 'w', encoding='utf-8') as f:
-    json.dump(filtered_cities, f, indent=4)
-
+with open(f'assets/cities1.json', 'w', encoding='utf-8') as f:
+    json.dump(filtered_cities, f, ensure_ascii=False, indent=4)
+        
 
 with open(f'assets/worldcitiespop.csv', 'r', encoding='utf-8') as file:
     reader = csv.DictReader(file)
-    italian_cities = []
+    filtered_cities = []
     for row in reader:
-        if row['Country'] == 'it':
-            italian_cities.append(row)
+        #if row['Country'] == 'it':
+        filtered_cities.append(row)
 
 
-with open(f'assets/italian_cities_new.json', 'w', encoding='utf-8') as f:
-    json.dump(italian_cities, f, indent=4)
+with open(f'assets/cities2.json', 'w', encoding='utf-8') as f:
+    json.dump(filtered_cities, f, ensure_ascii=False, indent=4)

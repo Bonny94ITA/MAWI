@@ -14,19 +14,20 @@ for city in cities:
     # Read wiki pages
     text, context = wiki_content(city, True)
 
-    """
     doc = nlp(text)
 
-    f = open('./assets/cities1.json')
-    cities_json = json.load(f)
-    f.close()
-
-    f2 = open('./assets/cities2.json')
-    cities_json2 = json.load(f2)
-    f2.close()
+    cities1_path = f'assets/cities1.json'
+    with open(cities1_path, 'r', encoding='utf-8') as f:
+        cities_json = json.load(f)
     
-    cities = [city['AccentCity'] for city in cities_json]
-    cities.extend([city['name'] for city in cities_json2 if city['name'] not in cities])
+    cities2_path = f'assets/cities2.json'
+    with open(cities2_path, 'r', encoding='utf-8') as f:
+        cities_json2 = json.load(f)
+    
+    cities = [city['name'] for city in cities_json]
+    cities.extend([city['AccentCity'] for city in cities_json2])
+
+    cities = list(set(cities))
     #counter, context, loc_context = get_context(doc, italian_cities, "name")
 
     print(context)
@@ -44,7 +45,7 @@ for city in cities:
     nearby_pages = get_nearby_pages(city)
 
     print(nearby_pages)
-    
+    """
     for page in nearby_pages:
         text = wiki_content(page)
         doc = nlp(text)
@@ -53,7 +54,7 @@ for city in cities:
 
         features = search_entities(searchable_entities, context, city, features)
     
-
-    save_results(features, context)"""
+    """
+    save_results(features, context)
 
 
