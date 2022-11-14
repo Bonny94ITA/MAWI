@@ -10,6 +10,7 @@ import time
 from wikidata.client import Client
 from shapely.geometry import Point, Polygon
 from geopy.geocoders import Nominatim
+from geopy import distance
 
 
 
@@ -183,7 +184,7 @@ def search_entities(searchable_entities: dict, context: dict, title_page: str, f
         features: list with the results of the search (points and snippets)
     """
 
-    geolocator = Nominatim(user_agent="PoI_geocoder")
+    geolocator = Nominatim(user_agent="PoI_geocoding")
 
     
     response_file_path = f"response/spacy_pipeline/{title_page}.txt"
@@ -192,41 +193,51 @@ def search_entities(searchable_entities: dict, context: dict, title_page: str, f
     delete_file(response_file_excel)
 
     name_context = context['name']
+    entities = []
     for search_item in searchable_entities.keys():
         #text = urllib.parse.quote_plus(search_item + " " + name_context)
-        text = urllib.parse.quote_plus(search_item)
+        #text = urllib.parse.quote_plus(search_item)
 
-        URLGEOJSON = 'https://geocode.maps.co/search?q={'+text+'}&format=geojson'
-        print(URLGEOJSON)
+        #URLGEOJSON = 'https://geocode.maps.co/search?q={'+text+'}&format=geojson'
+        #print(URLGEOJSON)
         
-        s = requests.Session()
+        #s = requests.Session()
         
-        response= s.get(URLGEOJSON)
+        #response= s.get(URLGEOJSON)
             
-        try: 
-            results = response.json()
-        except json.decoder.JSONDecodeError: 
-            print("Error in the response of the API")
-            return
+        #try: 
+        #    results = response.json()
+        #except json.decoder.JSONDecodeError: 
+        #    print("Error in the response of the API")
+        #    return
 
-        if "features" in results: # there are locations
-            results = results['features']
+        results = geolocator.geocode(search_item, exactly_one = False)
+
+        #if "features" in results: # there are locations
+        if results is not None:
+            results = [res.raw for res in results]
+
+            for result in results:
+                result['lat'] = float(result['lat'])
+                result['lon'] = float(result['lon'])
+            #results = results['features']
 
             if len(results) > 0:
                 location = most_close_location(results, context)
                 
-                locationName = location['properties']['display_name'].strip()
-                
-                coordinates = location['geometry']['coordinates']
+                #locationName = location['properties']['display_name'].strip()
+                locationName = location['display_name'].strip()
+
+                #coordinates = location['geojson']['coordinates']
                 category = ""
                 type = ""
                 importance = ""
-                if 'category' in location['properties']:
-                    category = location['properties']['category']
-                if 'type' in location['properties']:
-                    type = location['properties']['type']
-                if 'importance' in location['properties']:    
-                    importance = location['properties']['importance']
+                if 'class' in location:
+                    category = location['class']
+                if 'type' in location:
+                    type = location['type']
+                if 'importance' in location:    
+                    importance = location['importance']
 
                 if category != "": 
                     if not ((category == "boundary" and type == "administrative") or 
@@ -235,7 +246,7 @@ def search_entities(searchable_entities: dict, context: dict, title_page: str, f
                         type == "unclassified" or (category == "natural" and type == "water") or 
                         (category == "shop" and type != "gift")):
 
-                        loc_point = Point((coordinates[0], coordinates[1]))
+                        loc_point = Point((location['lon'], location['lat']))
                         loc_feature = Feature(geometry=loc_point, properties={
                                         "entity": search_item, 
                                         "name_location": locationName,
@@ -250,17 +261,23 @@ def search_entities(searchable_entities: dict, context: dict, title_page: str, f
 
                         print("DISPLAY NAME: ", locationName)
 
-                        print_to_file(response_file_path, '-' * 50)
+                        entities.append(search_item)
+                        # TODO: DELETE!!!!
+                        #print_to_file(response_file_path, '-' * 50)
 
-                        print_to_file(response_file_path, f"Research term: {search_item}")
-                        print_to_file(response_file_path, URLGEOJSON)
-                        print_to_file(response_file_path, f"Address: {locationName}")
-                        print_to_file(response_file_path, f"GEOGSON: {loc_feature}")
+                        #print_to_file(response_file_path, f"Research term: {search_item}")
+                        #print_to_file(response_file_path, URLGEOJSON)
+                        #print_to_file(response_file_path, f"Address: {locationName}")
+                        #print_to_file(response_file_path, f"GEOGSON: {loc_feature}")
         
-                        print_to_file(response_file_path, '-' * 50)
+                        #print_to_file(response_file_path, '-' * 50)
 
         time.sleep(.600)
     
+    entities.sort()
+    for entity in entities:
+        print_to_file(response_file_path, entity)
+    #print_to_file(response_file_path, f"Entities found: {entities}")
     print(context)
     return features
 
@@ -338,17 +355,21 @@ def most_close_location(results: list, context: dict):
         location: the most close location
     """
     location = results[0]
-    poi_loc = (location['geometry']['coordinates'][1], location['geometry']['coordinates'][0])
+    #poi_loc = (location['geometry']['coordinates'][1], location['geometry']['coordinates'][0])
+    poi_loc = (location['lat'], location['lon'])
     context_loc = (float(context['latitude']), float(context['longitude']))
-    distance = hs.haversine(context_loc, poi_loc)
+    #distance = hs.haversine(context_loc, poi_loc)
+    distance_min = distance.distance(context_loc, poi_loc).km
 
     for result in results:
-        current_loc = (result['geometry']['coordinates'][1], result['geometry']['coordinates'][0])
-        current_distance =  hs.haversine(context_loc, current_loc)
+        #current_loc = (result['geometry']['coordinates'][1], result['geometry']['coordinates'][0])
+        current_loc = (result['lat'], result['lon'])
+        current_distance = distance.distance(context_loc, current_loc).km
+        #current_distance =  hs.haversine(context_loc, current_loc)
         #print("DISTANCE: ", current_distance)
-        if distance > current_distance: 
+        if distance_min > current_distance: 
             location = result
-            distance = current_distance
+            distance_min = current_distance
 
     return location
 
