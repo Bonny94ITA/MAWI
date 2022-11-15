@@ -12,6 +12,11 @@ from shapely.geometry import Point, Polygon
 from geopy.geocoders import Nominatim
 from geopy import distance
 
+import pandas as pd 
+import geopandas as gpd
+import matplotlib.pyplot as plt
+from geopy.extra.rate_limiter import RateLimiter
+
 
 def get_context(nlp_text, input_json: list, param_to_search: str): # TODO: DELETE!
     """Get the context of the entities in the nlp_text.
@@ -90,7 +95,6 @@ def get_entities_snippet(nlp_text, cities: list, searchable_entities = dict()):
     for (index, sentence) in sentence_dict.items():
         entities = clean_entities(sentence, cities)
         for ent in entities:
-            #if ent not in cities:
             before = sentence_dict.get(index-1, "")
             if not isinstance(before, str):
                 before = before.text.strip()
@@ -117,7 +121,7 @@ def clean_entities(nlp_text, cities: list):
     """
     entities = []
     for ent in nlp_text.ents:
-        if ent.label_ == "LOC" and ent.text not in cities: #TODO: FIX! TROVO ANCORA AMSTERDAM!!!
+        if ent.label_ == "LOC" and ent.text not in cities:
             entities.append(ent.text)
     return entities
 
@@ -170,6 +174,62 @@ def delete_file(file_path):
     if os.path.exists(file_path):
         os.remove(file_path)
 
+def to_geojson(df: pd.DataFrame):
+    """Convert a dataframe to geojson.
+
+    Args:
+        df: dataframe to convert
+    Returns:
+        geojson: geojson file
+    """
+    geojson = {
+        "type": "FeatureCollection",
+        "features": []
+    }
+    for _, row in df.iterrows():
+        feature = {
+            "type": "Feature",
+            "properties": {
+                "entity": row["entity"],
+                "name_location": row["name_location"],
+                "category": row["category"],
+                "type": row["type"],
+                "importance": row["importance"],
+                "snippet": row["snippet"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [row["longitude"], row["latitude"]]
+            }
+        }
+        geojson["features"].append(feature)
+    
+    return geojson
+
+def search_entities_geopy(searchable_entities: dict, context: dict, title_page: str, features = list()): 
+    locator = Nominatim(user_agent="PoI_geocoding")
+    geocode = RateLimiter(locator.geocode, min_delay_seconds=1)
+    locations = []
+    for ent in searchable_entities.keys():
+        locations.extend([[ent, searchable_entities[ent]]])
+
+    df = pd.DataFrame(locations, columns=['Entity', 'Sentence'])
+    df.head()
+    df['address'] = df['Entity'].apply(geocode)
+
+    df['coordinates'] = df['address'].apply(lambda loc: tuple(loc.point) if loc else None)
+    df[['latitude', 'longitude', 'altitude']] = pd.DataFrame(df['coordinates'].tolist(), index=df.index)
+    df.latitude.isnull().sum()
+    df = df[pd.notnull(df['latitude'])]
+
+    df['name_location'] = df['address'].apply(lambda loc: loc.address if loc else None)
+
+    df[['class', 'type']] = df['address'].apply(lambda loc: pd.Series([loc.raw['class'], loc.raw['type']]) if loc else None)
+
+    print(df)
+    geojson_entities = to_geojson(df)
+
+    return geojson_entities
 
 def search_entities(searchable_entities: dict, context: dict, title_page: str, features = list()):
     """ Search entities with API geocode.maps

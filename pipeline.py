@@ -1,4 +1,4 @@
-from utils.utils import get_entities_snippet, search_entities, wiki_content, get_nearby_pages, save_results
+from utils.utils import get_entities_snippet, search_entities_geopy, wiki_content, get_nearby_pages, save_results
 import spacy
 import json
 
@@ -38,7 +38,7 @@ for city in cities:
     print("number of entities: ", len(searchable_entities))
 
     # Search addresses with Google
-    features = search_entities(searchable_entities, context, city)
+    features = search_entities_geopy(searchable_entities, context, city)
 
     # nearby pages
 
