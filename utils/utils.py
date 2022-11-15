@@ -13,8 +13,7 @@ from geopy.geocoders import Nominatim
 from geopy import distance
 
 
-
-def get_context(nlp_text, input_json: list, param_to_search: str):
+def get_context(nlp_text, input_json: list, param_to_search: str): # TODO: DELETE!
     """Get the context of the entities in the nlp_text.
     
     Args:
@@ -213,22 +212,18 @@ def search_entities(searchable_entities: dict, context: dict, title_page: str, f
 
         results = geolocator.geocode(search_item, exactly_one = False)
 
-        #if "features" in results: # there are locations
         if results is not None:
             results = [res.raw for res in results]
 
             for result in results:
                 result['lat'] = float(result['lat'])
                 result['lon'] = float(result['lon'])
-            #results = results['features']
 
             if len(results) > 0:
                 location = most_close_location(results, context)
                 
-                #locationName = location['properties']['display_name'].strip()
                 locationName = location['display_name'].strip()
 
-                #coordinates = location['geojson']['coordinates']
                 category = ""
                 type = ""
                 importance = ""
@@ -239,45 +234,30 @@ def search_entities(searchable_entities: dict, context: dict, title_page: str, f
                 if 'importance' in location:    
                     importance = location['importance']
 
-                if category != "": 
-                    if not ((category == "boundary" and type == "administrative") or 
-                        (category == "highway" and (type == "motorway" or type == "motorway_junction")) or
-                        category == "waterway" or (category == "amenity" and type == "bicycle_rental") or
-                        type == "unclassified" or (category == "natural" and type == "water") or 
-                        (category == "shop" and type != "gift")):
+                if category != "":
+                    loc_point = Point((location['lon'], location['lat']))
+                    loc_feature = Feature(geometry=loc_point, properties={
+                                    "entity": search_item, 
+                                    "name_location": locationName,
+                                    "category": category,
+                                    "type": type,
+                                    "importance": importance,
+                                    "snippet": searchable_entities[search_item]})
+                    
+                    print_to_csv(response_file_excel, loc_feature)
+                    
+                    features.append(loc_feature)    
 
-                        loc_point = Point((location['lon'], location['lat']))
-                        loc_feature = Feature(geometry=loc_point, properties={
-                                        "entity": search_item, 
-                                        "name_location": locationName,
-                                        "category": category,
-                                        "type": type,
-                                        "importance": importance,
-                                        "snippet": searchable_entities[search_item]})
-                        
-                        print_to_csv(response_file_excel, loc_feature)
-                        
-                        features.append(loc_feature)    
+                    print("DISPLAY NAME: ", locationName)
 
-                        print("DISPLAY NAME: ", locationName)
-
-                        entities.append(search_item)
-                        # TODO: DELETE!!!!
-                        #print_to_file(response_file_path, '-' * 50)
-
-                        #print_to_file(response_file_path, f"Research term: {search_item}")
-                        #print_to_file(response_file_path, URLGEOJSON)
-                        #print_to_file(response_file_path, f"Address: {locationName}")
-                        #print_to_file(response_file_path, f"GEOGSON: {loc_feature}")
-        
-                        #print_to_file(response_file_path, '-' * 50)
+                    entities.append(search_item)
 
         time.sleep(.600)
     
     entities.sort()
     for entity in entities:
         print_to_file(response_file_path, entity)
-    #print_to_file(response_file_path, f"Entities found: {entities}")
+
     print(context)
     return features
 
@@ -315,11 +295,7 @@ def compute_distances(results: list, context: dict):
         point = Point(coordinates[0], coordinates[1])
         if point_in_polygon(point, city_polygon):
             results_cleaned.append(result)
-        else: 
-            #importance = result['properties']['importance']
-            #if importance >= 0.4: 
-            #    results_cleaned.append(result)
-            #else: 
+        else:  
             results_outliers.append(result)
 
     return results_cleaned, results_outliers
@@ -355,18 +331,14 @@ def most_close_location(results: list, context: dict):
         location: the most close location
     """
     location = results[0]
-    #poi_loc = (location['geometry']['coordinates'][1], location['geometry']['coordinates'][0])
     poi_loc = (location['lat'], location['lon'])
     context_loc = (float(context['latitude']), float(context['longitude']))
-    #distance = hs.haversine(context_loc, poi_loc)
+    
     distance_min = distance.distance(context_loc, poi_loc).km
 
     for result in results:
-        #current_loc = (result['geometry']['coordinates'][1], result['geometry']['coordinates'][0])
         current_loc = (result['lat'], result['lon'])
         current_distance = distance.distance(context_loc, current_loc).km
-        #current_distance =  hs.haversine(context_loc, current_loc)
-        #print("DISTANCE: ", current_distance)
         if distance_min > current_distance: 
             location = result
             distance_min = current_distance

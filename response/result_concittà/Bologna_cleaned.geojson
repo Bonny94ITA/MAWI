@@ -1,0 +1,2943 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.337508,
+                    44.49035
+                ]
+            },
+            "properties": {
+                "entity": "Collegio di Spagna",
+                "name_location": "Collegio Di Spagna, Via Saragozza, Malpighi, Saragozza-Porto, Bologna, Emilia-Romagna, 40123, Italia",
+                "category": "highway",
+                "type": "bus_stop",
+                "importance": 0.30100000000000005,
+                "snippet": [
+                    "Sono poi presenti altre sedi di università straniere o programmi di studi, come ad esempio l'Alliance Française, il Bologna Consortial Studies Program (BCSP) dell'Indiana University, la Brown University, l'Eastern College Consortium (E.C.CO.) del Vassar College, l'Istituto di Cultura Germanica e la University of California. Il più longevo esempio di istituzione accademica straniera è il Collegio di Spagna, il più antico collegio al mondo aperto a studenti stranieri, erede del fenomeno delle nationes nella tradizione dell'Università medievale, ed è anche l'unico, di tale tipo, sopravvissuto nell'Europa continentale (altri esempi hanno resistito solo nel Regno Unito).Il capoluogo emiliano ospita anche alcune università private riconosciute, come la Libera Università delle Arti (L.UN.A.) o l'Università Primo Levi.  Accademie Nel Cinque-Seicento Bologna fu sede di numerose accademie, come quella letteraria degli Oziosi, quella artistica degli Incamminati fondata dai Carracci nel 1582, e quella musicale dei Floridi."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.343405,
+                    44.49205
+                ]
+            },
+            "properties": {
+                "entity": "Archiginnasio",
+                "name_location": "Biblioteca Comunale dell'Archiginnasio, 1, Piazza Galvani, Galvani, Santo Stefano, Bologna, Emilia-Romagna, 40124, Italia",
+                "category": "amenity",
+                "type": "library",
+                "importance": 0.34352463088163043,
+                "snippet": [
+                    "I Bentivoglio precedentemente furono tra le prime famiglie a costruirsi un loro palazzo che però fu distrutto e le macerie si trovano ai Giardini del Guasto dei Bentivoglio, dietro il Teatro Comunale. L'Archiginnasio di Bologna è uno dei palazzi più significativi della città: fu sede dell'antica Università, dal 1563 al 1803."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.343664,
+                    44.491964
+                ]
+            },
+            "properties": {
+                "entity": "Biblioteca Comunale dell'Archiginnasio",
+                "name_location": "Biblioteca comunale dell'Archiginnasio, Via Giovanni Massei, Galvani, Santo Stefano, Bologna, Emilia-Romagna, 40121-40141, Italia",
+                "category": "amenity",
+                "type": "library",
+                "importance": 0.6435246308816305,
+                "snippet": [
+                    "Biblioteche A Bologna si trovano più di cento biblioteche, fra cui 4 comunali, 11 di quartiere e più di 70 universitarie, dislocate in diverse zone della città. Fra le più note e frequentate vi sono la Biblioteca Comunale dell'Archiginnasio (ex sede dell'Università) e la Biblioteca Sala Borsa (inaugurata nel 2001). La più fornita, con oltre 1 300 000 volumi, è la Biblioteca universitaria di Bologna."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.343033,
+                    44.492736
+                ]
+            },
+            "properties": {
+                "entity": "Basilica di San Petronio",
+                "name_location": "Basilica di San Petronio, Piazza Galvani, Galvani, Santo Stefano, Bologna, Emilia-Romagna, 40124, Italia",
+                "category": "amenity",
+                "type": "place_of_worship",
+                "importance": 0.8092314791741042,
+                "snippet": [
+                    "Dopo un effimero periodo comunale, nel 1401 la signoria della città passò ai Bentivoglio, che la mantennero (fra alterne vicende) fino alla cacciata ad opera di papa Giulio II nel 1506.  Storia moderna Nel 1507 Bologna passò allo Stato Pontificio e nel 1530 nella Basilica di San Petronio venne celebrata l'incoronazione di Carlo V Imperatore per mano di Papa Clemente VII. La città rimase nello Stato Pontificio fino al 1796, quando con Napoleone arrivarono a Bologna le truppe francesi."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.343033,
+                    44.492736
+                ]
+            },
+            "properties": {
+                "entity": "basilica di San Petronio",
+                "name_location": "Basilica di San Petronio, Piazza Galvani, Galvani, Santo Stefano, Bologna, Emilia-Romagna, 40124, Italia",
+                "category": "amenity",
+                "type": "place_of_worship",
+                "importance": 0.8092314791741042,
+                "snippet": [
+                    " Architetture religiose Chiese  In piazza Maggiore si trova la gotica e imponente basilica di San Petronio costruita per volere del Comune fra il 1390 e il 1659. Presenta un portale decorato da bassorilievi di Jacopo della Quercia, mentre all'interno si trovano alcune cappelle notevolmente decorate."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.344091,
+                    44.493129
+                ]
+            },
+            "properties": {
+                "entity": "Musei  Bologna",
+                "name_location": "Via de' Musei, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40121-40141, Italia",
+                "category": "highway",
+                "type": "pedestrian",
+                "importance": 0.31,
+                "snippet": [
+                    "Nel luglio 2020 Bologna ha ottenuto il riconoscimento di \"Città che legge\" 2020-2021. Musei  Bologna possiede oltre quaranta musei nei quali, accanto alle collezioni permanenti, sono organizzate mostre temporanee.  I musei civici più importanti sono: le Collezioni comunali d'arte, il Museo civico archeologico, il Museo civico medievale, il Museo Morandi, il Museo civico d'arte industriale Davia Bargellini, il Museo del patrimonio industriale di Bologna, il MAMbo (Museo d'arte moderna di Bologna) e il Museo internazionale e biblioteca della musica."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.344615,
+                    44.493437
+                ]
+            },
+            "properties": {
+                "entity": "Santa Maria della Vita",
+                "name_location": "Santa Maria della Vita, Via Pescherie Vecchie, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40121-40141, Italia",
+                "category": "amenity",
+                "type": "place_of_worship",
+                "importance": 0.6332286868188655,
+                "snippet": [
+                    "la Basilica di Santa Maria dei Servi (eretta tra il XIV e il XVI secolo), con una Maestà di Cimabue e un suggestivo quadriportico; Santa Maria della Vita (la chiesa del primo ospedale di Bologna, fondato nel 1260), al cui interno si trovano le preziosissime terrecotte delle Marie Piangenti, note come Compianto sul Cristo morto e realizzate da Niccolò dell'Arca tra il 1463 e il 1490. Sul Colle della Guardia, a sud-ovest del centro storico, si trova il caratteristico santuario della Madonna di San Luca (1765), raggiungibile per una lunghissima e suggestiva via porticata del XVII e XVIII secolo (la più lunga al mondo, ben 3,796 km)."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.344348,
+                    44.49365
+                ]
+            },
+            "properties": {
+                "entity": "via Pescherie Vecchie",
+                "name_location": "Via Pescherie Vecchie, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40121-40141, Italia",
+                "category": "highway",
+                "type": "pedestrian",
+                "importance": 0.4,
+                "snippet": [
+                    "Separato da piazza Maggiore dal Palazzo dei Banchi, si trova ciò che resta dell'antico Mercato di Mezzo, dove le strade portano ancora i nomi degli artigiani che qui, nel Medioevo, avevano ubicato le loro botteghe: via degli Orefici, via Drapperie (sarti), via Pescherie Vecchie, via Clavature (fabbri), via Caprarie (macellai). Un altro storico mercato cittadino è il Mercato delle Erbe."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.342145,
+                    44.494687
+                ]
+            },
+            "properties": {
+                "entity": "Sala Borsa",
+                "name_location": "Sala Borsa, 3, Piazza del Nettuno, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40124, Italia",
+                "category": "amenity",
+                "type": "cafe",
+                "importance": 0.201,
+                "snippet": [
+                    "Voluta dal cardinale legato Carlo Borromeo, fu progettata da Tommaso Laureti ed è sormontata da una statua rappresentante il dio del mare Nettuno, opera del Giambologna. L'altra fontana cittadina degna di nota è la cosiddetta Fontana Vecchia, addossata al palazzo Comunale (oggi Sala Borsa) in via Ugo Bassi, opera dello stesso Tommaso Laureti che progettò la più famosa fontana del Nettuno nel XVI secolo. All'interno del Parco della Montagnola è situata la fontana costruita in occasione dell'Esposizione emiliana del 1888, con sculture che raffigurano animali, ad opera di Diego Sarti."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.346619,
+                    44.492589
+                ]
+            },
+            "properties": {
+                "entity": "Museo della Storia di Bologna",
+                "name_location": "Museo della Storia di Bologna, Via Castiglione, Galvani, Santo Stefano, Bologna, Emilia-Romagna, 40124, Italia",
+                "category": "tourism",
+                "type": "museum",
+                "importance": 0.705871082899258,
+                "snippet": [
+                    "La Pinacoteca Nazionale di Bologna, nata nel 1802 in seno all'Accademia di Belle Arti, è un museo statale dotato di autonomia gestionale. Ad essi si aggiungono i musei religiosi e quelli di fondazioni private come il Museo della Storia di Bologna e il MAST. Manifattura di Arti, Sperimentazione e Tecnologia."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.345278,
+                    44.493881
+                ]
+            },
+            "properties": {
+                "entity": "Strada del jazz",
+                "name_location": "Strada del Jazz, Vicolo Ranocchi, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40121-40141, Italia",
+                "category": "tourism",
+                "type": "attraction",
+                "importance": 0.39919352018435594,
+                "snippet": [
+                    "Numerosi locali continuano a proporre con successo questo genere, fra cui alcuni specializzati. Il 17 settembre 2011 è stata inaugurata a Bologna la Strada del jazz, costituita da via Caprarie e via degli Orefici, con una manifestazione pubblica che ha ospitato numerosi concerti. La prima stella dei miti del jazz è dedicata a Chet Baker ed è posta sul marciapiede di fronte al portone dove un tempo sorgeva il Musiclub di Alberto Alberti."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.317871,
+                    44.492078
+                ]
+            },
+            "properties": {
+                "entity": "Porto-Saragozza",
+                "name_location": "Saragozza, Saragozza-Porto, Bologna, Emilia-Romagna, 40134, Italia",
+                "category": "place",
+                "type": "suburb",
+                "importance": 0.4254981504372133,
+                "snippet": [
+                    " Suddivisioni amministrative Il comune è suddiviso amministrativamente in sei circoscrizioni di decentramento, a cui lo statuto attribuisce il nome di \"quartieri\": Borgo Panigale-Reno, San Donato-San Vitale, Savena, Navile, Porto-Saragozza, Santo Stefano.  Urbanistica Il centro storico di Bologna è uno dei più antichi e vasti d'Europa."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.344354,
+                    44.495212
+                ]
+            },
+            "properties": {
+                "entity": "Torre Azzoguidi",
+                "name_location": "Torre Azzoguidi, Via Altabella, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40121, Italia",
+                "category": "tourism",
+                "type": "viewpoint",
+                "importance": 0.201,
+                "snippet": [
+                    "Di esse, circa un centinaio in origine, ne sopravvivono oggi solamente diciassette. Fra le torri superstiti si possono citare la Torre Azzoguidi (61 metri di altezza), la Torre Prendiparte (59,50 metri), e le ben più note due torri: la Torre degli Asinelli e la Torre della Garisenda."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.342056,
+                    44.496275
+                ]
+            },
+            "properties": {
+                "entity": "Museo civico medievale",
+                "name_location": "Museo Civico Medievale, Via Alessandro Manzoni, Marconi, Saragozza-Porto, Bologna, Emilia-Romagna, 40121, Italia",
+                "category": "tourism",
+                "type": "museum",
+                "importance": 0.5446986168413893,
+                "snippet": [
+                    "Musei  Bologna possiede oltre quaranta musei nei quali, accanto alle collezioni permanenti, sono organizzate mostre temporanee.  I musei civici più importanti sono: le Collezioni comunali d'arte, il Museo civico archeologico, il Museo civico medievale, il Museo Morandi, il Museo civico d'arte industriale Davia Bargellini, il Museo del patrimonio industriale di Bologna, il MAMbo (Museo d'arte moderna di Bologna) e il Museo internazionale e biblioteca della musica. La Pinacoteca Nazionale di Bologna, nata nel 1802 in seno all'Accademia di Belle Arti, è un museo statale dotato di autonomia gestionale."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.346767,
+                    44.494199
+                ]
+            },
+            "properties": {
+                "entity": "Torre degli Asinelli",
+                "name_location": "Asinelli, Strada Maggiore, Galvani, Santo Stefano, Bologna, Emilia-Romagna, 40125, Italia",
+                "category": "tourism",
+                "type": "attraction",
+                "importance": 0.3760971516994237,
+                "snippet": [
+                    "Fra le torri superstiti si possono citare la Torre Azzoguidi (61 metri di altezza), la Torre Prendiparte (59,50 metri), e le ben più note due torri: la Torre degli Asinelli e la Torre della Garisenda. Le due torri sono i monumenti simbolo della città:",
+                    "Le due torri sono i monumenti simbolo della città: la Torre degli Asinelli (97,20 metri, la torre pendente più alta d'Italia) e la Torre della Garisenda (in origine alta 60 metri, ora 48) edificate per volere di nobili ghibellini nel XII secolo. La più pendente delle due, la Garisenda,"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.346779,
+                    44.494361
+                ]
+            },
+            "properties": {
+                "entity": "Torre della Garisenda",
+                "name_location": "Garisenda, Piazza di Porta Ravegnana, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40121, Italia",
+                "category": "tourism",
+                "type": "attraction",
+                "importance": 0.25778803910650133,
+                "snippet": [
+                    "Fra le torri superstiti si possono citare la Torre Azzoguidi (61 metri di altezza), la Torre Prendiparte (59,50 metri), e le ben più note due torri: la Torre degli Asinelli e la Torre della Garisenda. Le due torri sono i monumenti simbolo della città:",
+                    "Le due torri sono i monumenti simbolo della città: la Torre degli Asinelli (97,20 metri, la torre pendente più alta d'Italia) e la Torre della Garisenda (in origine alta 60 metri, ora 48) edificate per volere di nobili ghibellini nel XII secolo. La più pendente delle due, la Garisenda,"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.34474,
+                    44.495981
+                ]
+            },
+            "properties": {
+                "entity": "Torre Prendiparte",
+                "name_location": "Torre Prendiparte, 5, Piazzetta Prendiparte, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40126, Italia",
+                "category": "amenity",
+                "type": "restaurant",
+                "importance": 0.201,
+                "snippet": [
+                    "Di esse, circa un centinaio in origine, ne sopravvivono oggi solamente diciassette. Fra le torri superstiti si possono citare la Torre Azzoguidi (61 metri di altezza), la Torre Prendiparte (59,50 metri), e le ben più note due torri: la Torre degli Asinelli e la Torre della Garisenda."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.350255,
+                    44.492866
+                ]
+            },
+            "properties": {
+                "entity": "Museo internazionale della musica",
+                "name_location": "Museo internazionale e biblioteca della musica, 34, Strada Maggiore, Galvani, Santo Stefano, Bologna, Emilia-Romagna, 40125, Italia",
+                "category": "tourism",
+                "type": "museum",
+                "importance": 0.6502548452552094,
+                "snippet": [
+                    "Di notevole interesse, e di capitale importanza in ambito nazionale ed europeo, è anche la Cineteca di Bologna, istituzione comunale dedicata al cinema e alla filmografia. Vi sono inoltre diverse biblioteche tematiche come quella sulla storia del Novecento dell'Istituto storico Parri Emilia-Romagna, quella dell'Istituto Gramsci, la Biblioteca Italiana delle Donne, la biblioteca del Museo internazionale della musica, la biblioteca emeroteca del MAMbo e numerose altre. Nel luglio 2020 Bologna ha ottenuto il riconoscimento di \"Città che legge\" 2020-2021."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.350255,
+                    44.492866
+                ]
+            },
+            "properties": {
+                "entity": "Museo internazionale e biblioteca della musica",
+                "name_location": "Museo internazionale e biblioteca della musica, 34, Strada Maggiore, Galvani, Santo Stefano, Bologna, Emilia-Romagna, 40125, Italia",
+                "category": "tourism",
+                "type": "museum",
+                "importance": 0.8502548452552094,
+                "snippet": [
+                    "Musei  Bologna possiede oltre quaranta musei nei quali, accanto alle collezioni permanenti, sono organizzate mostre temporanee.  I musei civici più importanti sono: le Collezioni comunali d'arte, il Museo civico archeologico, il Museo civico medievale, il Museo Morandi, il Museo civico d'arte industriale Davia Bargellini, il Museo del patrimonio industriale di Bologna, il MAMbo (Museo d'arte moderna di Bologna) e il Museo internazionale e biblioteca della musica. La Pinacoteca Nazionale di Bologna, nata nel 1802 in seno all'Accademia di Belle Arti, è un museo statale dotato di autonomia gestionale.",
+                    "la difficile e rigida prova di esame su \"un'antifona di canto fermo\" dell'ancora giovane Mozart non fu particolarmente brillante. Esistono due versioni della prova di esame, entrambe conservate al Museo internazionale e biblioteca della musica di Bologna, una delle quali scorretta. Dato che entrambe sono autografate da Mozart, questa è l'evidenza che padre Martini passò una sua rielaborazione del testo di esame ad Amadeus, per favorirne la promozione."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.350255,
+                    44.492866
+                ]
+            },
+            "properties": {
+                "entity": "Museo Internazionale e Biblioteca della Musica",
+                "name_location": "Museo internazionale e biblioteca della musica, 34, Strada Maggiore, Galvani, Santo Stefano, Bologna, Emilia-Romagna, 40125, Italia",
+                "category": "tourism",
+                "type": "museum",
+                "importance": 0.8502548452552094,
+                "snippet": [
+                    " Musica Nel 2006 Bologna ha ottenuto il riconoscimento UNESCO di \"città creativa per la musica\".  Musica classica A Bologna sono presenti il Museo Internazionale e Biblioteca della Musica, il Conservatorio Giovanni Battista Martini, l'Accademia Filarmonica di Bologna e il Teatro Comunale di Bologna, sede dell'autorevole Orchestra della Fondazione Teatro Comunale di Bologna, attiva dal dopoguerra. Dal 1905 è attiva la casa musicale Bongiovanni, una delle più importanti nel campo dell'editoria e della discografia di musica classica."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.336745,
+                    44.498879
+                ]
+            },
+            "properties": {
+                "entity": "Cineteca di Bologna",
+                "name_location": "Cineteca di Bologna, Via Riva di Reno, Marconi, Saragozza-Porto, Bologna, Emilia-Romagna, 40122, Italia",
+                "category": "amenity",
+                "type": "cinema",
+                "importance": 0.6605019363834119,
+                "snippet": [
+                    "La più fornita, con oltre 1 300 000 volumi, è la Biblioteca universitaria di Bologna. Di notevole interesse, e di capitale importanza in ambito nazionale ed europeo, è anche la Cineteca di Bologna, istituzione comunale dedicata al cinema e alla filmografia. Vi sono inoltre diverse biblioteche tematiche come quella sulla storia del Novecento dell'Istituto storico Parri Emilia-Romagna, quella dell'Istituto Gramsci, la Biblioteca Italiana delle Donne, la biblioteca del Museo internazionale della musica, la biblioteca emeroteca del MAMbo e numerose altre."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.351935,
+                    44.492238
+                ]
+            },
+            "properties": {
+                "entity": "Museo civico d'arte industriale",
+                "name_location": "Museo civico d'arte industriale Davia Bargellini, 44, Strada Maggiore, Galvani, Santo Stefano, Bologna, Emilia-Romagna, 40125, Italia",
+                "category": "tourism",
+                "type": "museum",
+                "importance": 0.7075345213990273,
+                "snippet": [
+                    "Musei  Bologna possiede oltre quaranta musei nei quali, accanto alle collezioni permanenti, sono organizzate mostre temporanee.  I musei civici più importanti sono: le Collezioni comunali d'arte, il Museo civico archeologico, il Museo civico medievale, il Museo Morandi, il Museo civico d'arte industriale Davia Bargellini, il Museo del patrimonio industriale di Bologna, il MAMbo (Museo d'arte moderna di Bologna) e il Museo internazionale e biblioteca della musica. La Pinacoteca Nazionale di Bologna, nata nel 1802 in seno all'Accademia di Belle Arti, è un museo statale dotato di autonomia gestionale."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.355131,
+                    44.489271
+                ]
+            },
+            "properties": {
+                "entity": "Museo Morandi",
+                "name_location": "Museo Morandi, 36, Via Fondazza, Galvani, Santo Stefano, Bologna, Emilia-Romagna, 40125, Italia",
+                "category": "tourism",
+                "type": "museum",
+                "importance": 0.36690363151506783,
+                "snippet": [
+                    "Musei  Bologna possiede oltre quaranta musei nei quali, accanto alle collezioni permanenti, sono organizzate mostre temporanee.  I musei civici più importanti sono: le Collezioni comunali d'arte, il Museo civico archeologico, il Museo civico medievale, il Museo Morandi, il Museo civico d'arte industriale Davia Bargellini, il Museo del patrimonio industriale di Bologna, il MAMbo (Museo d'arte moderna di Bologna) e il Museo internazionale e biblioteca della musica. La Pinacoteca Nazionale di Bologna, nata nel 1802 in seno all'Accademia di Belle Arti, è un museo statale dotato di autonomia gestionale."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.332667,
+                    44.5002
+                ]
+            },
+            "properties": {
+                "entity": "Comune di Bologna",
+                "name_location": "MUBIT Museo del Basket Italiano, Via Luigi Calori, Saffi, Saragozza-Porto, Bologna, Emilia-Romagna, 40122, Italia",
+                "category": "tourism",
+                "type": "museum",
+                "importance": 0.11100000000000002,
+                "snippet": [
+                    "Una figura molto importante del teatro bolognese e italiano fu Alfredo Testoni, il commediografo autore de Il cardinale Lambertini, grande successo teatrale sin dal 1905, riproposto poi sullo schermo dall'attore bolognese Gino Cervi. Nel 1998 il Comune di Bologna ha dato vita al progetto \"Bologna dei Teatri\", un'associazione che riunisce le principali strutture teatrali della città. Si tratta di un circuito di teatri dall'offerta culturale variegata, che spazia dalla commedia dialettale bolognese alla danza contemporanea, ma con una strategia di comunicazione e promozione unitaria."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.343873,
+                    44.499336
+                ]
+            },
+            "properties": {
+                "entity": "Arena del Sole",
+                "name_location": "Arena Del Sole, Via dell'Indipendenza, Irnerio, Saragozza-Porto, Bologna, Emilia-Romagna, 40121, Italia",
+                "category": "highway",
+                "type": "bus_stop",
+                "importance": 0.30100000000000005,
+                "snippet": [
+                    "In concreto, gli spettacoli in cartellone nei vari teatri aderenti al progetto vengono pubblicizzati settimanalmente attraverso una locandina unica. I principali teatri di Bologna sono l'Arena del Sole e il Teatro Comunale.  Cinema A Bologna"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.35261,
+                    44.496964
+                ]
+            },
+            "properties": {
+                "entity": "Museo di Palazzo Poggi",
+                "name_location": "Museo di Palazzo Poggi, 33, Via Anteo Zamboni, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40126, Italia",
+                "category": "tourism",
+                "type": "museum",
+                "importance": 0.401,
+                "snippet": [
+                    "Anche l'Università ha propri musei, spesso legati ai singoli dipartimenti, tutti riuniti nel Sistema Museale d'Ateneo. Il principale dei musei universitari è il Museo di Palazzo Poggi che comprende numerose collezioni di storia naturale, anatomia e ostetricia, fisica e chimica, architettura militare, geografia e nautica, arte orientale.  Media Stampa Le principali redazioni dei quotidiani presenti a Bologna sono:"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.335168,
+                    44.502865
+                ]
+            },
+            "properties": {
+                "entity": "Cassero di Porta Saragozza",
+                "name_location": "Il Cassero, Mura di Porta Lame, Marconi, Saragozza-Porto, Bologna, Emilia-Romagna, 40122, Italia",
+                "category": "building",
+                "type": "yes",
+                "importance": 0.401,
+                "snippet": [
+                    "Il primo movimento gay, il \"Circolo di cultura omosessuale 28 giugno\", si è attivato in città già nel 1978 e nel 1982 ottenne spazi aggregativi dal Comune. L'Arcigay, la più grande associazione nazionale per la tutela dei diritti LGBT in Italia, si è costituita a Bologna nel 1985 con sede presso il Cassero di Porta Saragozza. Ha sede in città anche il MIT - Movimento Identità Trans, una onlus fondata nel 1982, di cui è stata presidente fino alla sua scomparsa Marcella Di Folco, prima associazione di questo tipo in Italia."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.352995,
+                    44.49711
+                ]
+            },
+            "properties": {
+                "entity": "Biblioteca universitaria di Bologna",
+                "name_location": "Biblioteca Universitaria, 33, Via Zamboni, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40126, Italia",
+                "category": "amenity",
+                "type": "library",
+                "importance": 0.5153717591619116,
+                "snippet": [
+                    "Fra le più note e frequentate vi sono la Biblioteca Comunale dell'Archiginnasio (ex sede dell'Università) e la Biblioteca Sala Borsa (inaugurata nel 2001). La più fornita, con oltre 1 300 000 volumi, è la Biblioteca universitaria di Bologna. Di notevole interesse, e di capitale importanza in ambito nazionale ed europeo, è anche la Cineteca di Bologna, istituzione comunale dedicata al cinema e alla filmografia."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.352978,
+                    44.497784
+                ]
+            },
+            "properties": {
+                "entity": "Accademia di Belle Arti di Bologna",
+                "name_location": "Accademia di Belle Arti, Via delle Belle Arti, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40126, Italia",
+                "category": "amenity",
+                "type": "university",
+                "importance": 0.611,
+                "snippet": [
+                    " Accademie Nel Cinque-Seicento Bologna fu sede di numerose accademie, come quella letteraria degli Oziosi, quella artistica degli Incamminati fondata dai Carracci nel 1582, e quella musicale dei Floridi. L'Accademia di Belle Arti di Bologna affonda le sue radici nell'Accademia Clementina fondata nel 1710. Importanti maestri hanno insegnato presso la scuola bolognese, fra i quali:"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.353621,
+                    44.49791
+                ]
+            },
+            "properties": {
+                "entity": "Pinacoteca Nazionale di Bologna",
+                "name_location": "Pinacoteca nazionale di Bologna, 56, Via delle Belle Arti, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40126, Italia",
+                "category": "tourism",
+                "type": "museum",
+                "importance": 0.4777101113307119,
+                "snippet": [
+                    " I musei civici più importanti sono: le Collezioni comunali d'arte, il Museo civico archeologico, il Museo civico medievale, il Museo Morandi, il Museo civico d'arte industriale Davia Bargellini, il Museo del patrimonio industriale di Bologna, il MAMbo (Museo d'arte moderna di Bologna) e il Museo internazionale e biblioteca della musica. La Pinacoteca Nazionale di Bologna, nata nel 1802 in seno all'Accademia di Belle Arti, è un museo statale dotato di autonomia gestionale. Ad essi si aggiungono i musei religiosi e quelli di fondazioni private come il Museo della Storia di Bologna e il MAST.",
+                    "Ma è fra la seconda metà del Cinquecento e l'inizio del Settecento (ovvero dal Manierismo al Barocco) che la scuola bolognese di pittura raggiunse il suo culmine con artisti del calibro del Domenichino, i Carracci (fondatori dell'Accademia degli Incamminati), Domenico Tibaldi, il Guercino, Guido Reni, Elisabetta Sirani, Prospero Fontana, Lavinia Fontana e moltissimi altri, mentre vi operarono anche il Parmigianino e Donato Creti. Le opere di questi artisti si possono ammirare nelle chiese e palazzi cittadini, nonché nella Pinacoteca Nazionale di Bologna. In epoca moderna e contemporanea, Bologna ha dato i natali a Luigi Serra, Giorgio Morandi (a cui è dedicato l'omonimo museo), Mario Bonazzi, Ilario Rossi, Aldo Borgonzoni, Carlo Gajani, Sergio Romiti, Vasco Bendini, Pirro Cuniberti, Sergio Vacchi, Vittorio Mascalchi, Valerio Adami, Pier Paolo Calzolari e Piero Manai, mentre vi operarono e operano artisti quali Giovanni Romagnoli, Germano Sartelli, Concetto Pozzati, Luciano De Vita e molti altri."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.343012,
+                    44.505606
+                ]
+            },
+            "properties": {
+                "entity": "stazione di Bologna Centrale",
+                "name_location": "Stazione Centrale, Marconi, Saragozza-Porto, Bologna, Emilia-Romagna, 40100, Italia",
+                "category": "amenity",
+                "type": "shelter",
+                "importance": 0.31100000000000005,
+                "snippet": [
+                    "La città è inoltre dotata di una linea ferroviaria di cintura. Le principale stazione ferroviaria è la stazione di Bologna Centrale, fra le più grandi stazioni italiane per traffico passeggeri (circa 58 milioni all'anno) e per numero di treni giornalieri in transito.  Servizio ferroviario metropolitano Il Servizio ferroviario metropolitano di Bologna è un servizio ferroviario suburbano ad elevata frequenza, che utilizza linee ferroviarie convergenti nella città di Bologna.",
+                    "Oltre alla sua funzione al servizio dell'intera zona produttiva emiliana e marchigiana, l'aumento delle rotte da parte di compagnie aeree low cost e la realizzazione della linea ad Alta Velocità per Firenze hanno portato ad un massiccio aumento dell'utenza turistica. L'aeroporto è collegato alla stazione di Bologna Centrale tramite il Marconi Express, un people mover sopraelevato.  Mobilità urbana  I trasporti pubblici urbani sono gestiti da TPER, che offre un servizio di autobus e filobus, con linee urbane, suburbane e interurbane."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.343459,
+                    44.506438
+                ]
+            },
+            "properties": {
+                "entity": "Bologna Centrale",
+                "name_location": "Bologna Centrale, Kiss & Ride, Bolognina, Navile, Bologna, Emilia-Romagna, 40100, Italia",
+                "category": "railway",
+                "type": "stop",
+                "importance": 0.6078493758844652,
+                "snippet": [
+                    "Le ferrovie offrono, oltre al servizio di collegamento regionale, nazionale e internazionale, anche servizi a livello metropolitano. Le linee ferroviarie di rilevanza nazionale che si attestano a Bologna Centrale sono:  la Bologna-Milano (che collega le città capoluogo emiliane, con l'eccezione di Ferrara, nonché Genova e Torino), a cui, da dicembre 2008, è stata affiancata la corrispondente linea ad alta velocità;",
+                    "la Bologna-Ancona-Bari (che dirigendosi verso la Romagna ne tocca tutti i capoluoghi ad eccezione di Ravenna, per poi seguire l'intera lunghezza della costa adriatica verso sud fino in Puglia); la Bologna-Firenze-Roma (detta \"Direttissima\"), affiancata dal dicembre 2009 dalla nuova linea ad alta velocità fra Bologna e Firenze, che prosegue per Napoli e la Calabria; la Bologna-Verona, che la collega anche al Trentino-Alto Adige e al Nord Europa; la Bologna-Venezia, che la collega anche al Friuli-Venezia Giulia e all'Est Europa;Le altre linee di importanza regionale che si attestano a Bologna Centrale sono:  la Bologna-Porretta Terme-Pistoia (detta \"Porrettana\"), realizzata nel 1864."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.357133,
+                    44.501513
+                ]
+            },
+            "properties": {
+                "entity": "Tangenziale delle biciclette",
+                "name_location": "Tangenziale delle Biciclette, Cirenaica, San Donato-San Vitale, Bologna, Emilia-Romagna, 14007, Italia",
+                "category": "highway",
+                "type": "cycleway",
+                "importance": 0.375,
+                "snippet": [
+                    "La rete ciclabile portante è identificata dai percorsi della Bicipolitana, la rete ciclabile della città metropolitana di Bologna. Dei 32 percorsi identificati dalla Bicipolitana, 10 sono percorsi radiali che partono dal centro di Bologna e altri 2 sono percorsi tangenziali che circondano la città di Bologna, tra cui la Tangenziale delle biciclette, inaugurata nel 2015, che segue il percorso dei viali di circonvallazione intorno al centro storico. La linea 2 della Bicipolitana comprende il tratto bolognese della Ciclovia del Sole, parte del corridoio ciclabile europeo EuroVelo 7, che percorre l'Europa da nord a sud."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.298547,
+                    44.47987
+                ]
+            },
+            "properties": {
+                "entity": "Madonna di San Luca",
+                "name_location": "Madonna di San Luca, Saragozza-Porto, Bologna, Emilia-Romagna, 40135, Italia",
+                "category": "place",
+                "type": "hamlet",
+                "importance": 0.65,
+                "snippet": [
+                    "Santa Maria della Vita (la chiesa del primo ospedale di Bologna, fondato nel 1260), al cui interno si trovano le preziosissime terrecotte delle Marie Piangenti, note come Compianto sul Cristo morto e realizzate da Niccolò dell'Arca tra il 1463 e il 1490. Sul Colle della Guardia, a sud-ovest del centro storico, si trova il caratteristico santuario della Madonna di San Luca (1765), raggiungibile per una lunghissima e suggestiva via porticata del XVII e XVIII secolo (la più lunga al mondo, ben 3,796 km).  Altri edifici di culto In via De' Gombruti n. 7 è presente una sinagoga del 1954 su progetto di Guido Muggia.",
+                    "fiera del cioccolato. Altri eventi Discesa della Madonna di San Luca (si svolge a maggio): ogni anno si celebra l'antica tradizione della \"discesa della Madonna di San Luca\", che avviene il 12 maggio tramite una processione dal Santuario della Madonna di San Luca fino al centro della città.",
+                    "Altri eventi Discesa della Madonna di San Luca (si svolge a maggio): ogni anno si celebra l'antica tradizione della \"discesa della Madonna di San Luca\", che avviene il 12 maggio tramite una processione dal Santuario della Madonna di San Luca fino al centro della città. Smell - Festival dell'Olfatto (si svolge a maggio):"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.359136,
+                    44.501342
+                ]
+            },
+            "properties": {
+                "entity": "Economia Bologna",
+                "name_location": "Università di Bologna Facoltà di Economia, Via Camillo Ranzani, Cirenaica, San Donato-San Vitale, Bologna, Emilia-Romagna, 14007, Italia",
+                "category": "amenity",
+                "type": "university",
+                "importance": 0.21100000000000002,
+                "snippet": [
+                    "Fra gli ultimi esempi di architettura contemporanea e interventi urbanistici (spesso oggetto di accese discussioni) troviamo la Porta Europa dell'architetto Ettore Masi in via Stalingrado, il complesso del nuovo palazzo comunale nella zona della Bolognina (Palazzo Bonaccorso e piazza Liber Paradisus) e la Torre Unipol, un grattacielo alto 127 metri sito nella periferia est della città.  Economia Bologna ospita un'importante rete di industrie meccaniche, elettroniche e alimentari e un gran numero di imprese di artigianato. La città metropolitana ospita, in proporzione, il maggior numero di imprese per abitanti in Italia."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.339985,
+                    44.509667
+                ]
+            },
+            "properties": {
+                "entity": "Liber Paradisus",
+                "name_location": "Piazza Liber Paradisus, Bolognina, Navile, Bologna, Emilia-Romagna, Italia",
+                "category": "highway",
+                "type": "pedestrian",
+                "importance": 0.3580839831692664,
+                "snippet": [
+                    "Nel 1249 i bolognesi riuscirono a catturare Re Enzo di Sardegna, figlio di Federico II di Svevia, il quale fu tenuto prigioniero fino alla sua morte (1272) nell'omonimo palazzo. Nel 1257, per la prima volta in Italia e forse nel mondo, il podestà Bonaccorso da Soresina promulgò il Liber Paradisus che aboliva la schiavitù e riscattava i servi della gleba, pagando gli ex proprietari con soldi pubblici e a prezzo di mercato. Fra la fine del XIII e l'inizio del XIV secolo le lotte interne indebolirono le istituzioni comunali e la città andò progressivamente assoggettandosi all'autorità papale."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.339985,
+                    44.509667
+                ]
+            },
+            "properties": {
+                "entity": "piazza Liber Paradisus",
+                "name_location": "Piazza Liber Paradisus, Bolognina, Navile, Bologna, Emilia-Romagna, Italia",
+                "category": "highway",
+                "type": "pedestrian",
+                "importance": 0.45808398316926646,
+                "snippet": [
+                    "Al centro del Fiera District fu progettata una zona pedonale, piazza della Costituzione, la cui costruzione fu affidata a Isamu Noguchi. Fra gli ultimi esempi di architettura contemporanea e interventi urbanistici (spesso oggetto di accese discussioni) troviamo la Porta Europa dell'architetto Ettore Masi in via Stalingrado, il complesso del nuovo palazzo comunale nella zona della Bolognina (Palazzo Bonaccorso e piazza Liber Paradisus) e la Torre Unipol, un grattacielo alto 127 metri sito nella periferia est della città.  Economia Bologna ospita un'importante rete di industrie meccaniche, elettroniche e alimentari e un gran numero di imprese di artigianato."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.339811,
+                    44.509943
+                ]
+            },
+            "properties": {
+                "entity": "Palazzo Bonaccorso",
+                "name_location": "Comune di Bologna - Palazzo Bonaccorso, Piazza Liber Paradisus, Bolognina, Navile, Bologna, Emilia-Romagna, 40129, Italia",
+                "category": "amenity",
+                "type": "townhall",
+                "importance": 0.201,
+                "snippet": [
+                    "Al centro del Fiera District fu progettata una zona pedonale, piazza della Costituzione, la cui costruzione fu affidata a Isamu Noguchi. Fra gli ultimi esempi di architettura contemporanea e interventi urbanistici (spesso oggetto di accese discussioni) troviamo la Porta Europa dell'architetto Ettore Masi in via Stalingrado, il complesso del nuovo palazzo comunale nella zona della Bolognina (Palazzo Bonaccorso e piazza Liber Paradisus) e la Torre Unipol, un grattacielo alto 127 metri sito nella periferia est della città.  Economia Bologna ospita un'importante rete di industrie meccaniche, elettroniche e alimentari e un gran numero di imprese di artigianato."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.365171,
+                    44.512255
+                ]
+            },
+            "properties": {
+                "entity": "Fiera di Bologna",
+                "name_location": "Fiera di Bologna, Via Tazio Nuvolari, San Donato, San Donato-San Vitale, Dozza, Bologna, Emilia-Romagna, 14007, Italia",
+                "category": "amenity",
+                "type": "exhibition_centre",
+                "importance": 0.5968347429646154,
+                "snippet": [
+                    "In ambito scultoreo, operarono a Bologna artisti come Arnolfo di Cambio, Nicola Pisano, Pierpaolo dalle Masegne, Niccolò dell'Arca, Jacopo della Quercia, Michelangelo, Giambologna, Alfonso Lombardi, Properzia de' Rossi e, più recentemente, Umberto Mastroianni, Quinto Ghermandi, Roberto Tirelli, Mario Ceroli, Nicola Zamboni e Luigi Mainolfi. Dal 1974 si tiene presso la Fiera di Bologna annualmente nel mese di gennaio Arte Fiera, una fiera d'arte moderna e contemporanea.  Dal 1977 al 1982 si è svolta annualmente la Settimana Internazionale della Performance curata da Renato Barilli, Francesca Alinovi e Roberto Daolio, un evento di alto valore culturale, coinvolgendo lo spazio pubblico della città.",
+                    " Sui colli bolognesi vi sono numerose aziende vinicole che producono varie tipologie di vino tipiche, fra cui il Pignoletto DOCG.  Eventi Oltre alle numerose fiere di respiro internazionale nell'area della Fiera di Bologna, la città ospita frequentemente importanti eventi, festival e rassegne. Nel 1911 si tenne a Bologna il IV Congresso internazionale di filosofia;",
+                    "In un'area destinata allo sviluppo della città, fra via Stalingrado e il quartiere San Donato, nel 1967 l'amministrazione comunale commissionò al noto architetto giapponese Kenzō Tange la progettazione del Centro direzionale nell'area della fiera, la cui costruzione iniziò nel 1975. Nacque così il Fiera District, destinato a diventare la sede della Regione Emilia-Romagna, del Palazzo degli Affari, della Fiera di Bologna e di altre importanti istituzioni economiche. Al centro del Fiera District fu progettata una zona pedonale, piazza della Costituzione, la cui costruzione fu affidata a Isamu Noguchi.",
+                    " Commercio L'area di Bologna è un polo commerciale di primaria importanza (con il Centergross nell'area metropolitana, che per un lungo periodo è stato dalla fondazione nel 1977 la più grande cittadella commerciale all'ingrosso d'Europa, e l'Interporto). È un importante centro fieristico che con la Fiera di Bologna ospita numerose fiere di caratura internazionale (Arte Fiera, Saie, EIMA, Cersaie, Cosmoprof, Sana, Fiera del Libro per Ragazzi, Music Italy Show, ecc.). In Italia, BolognaFiere è per fatturato il secondo grande nucleo fieristico dopo Milano."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.394331,
+                    44.468367
+                ]
+            },
+            "properties": {
+                "entity": "Parco Carlo Urbani",
+                "name_location": "Parco Carlo Urbani, Due Madonne, Savena, Bologna, Emilia-Romagna, Italia",
+                "category": "leisure",
+                "type": "park",
+                "importance": 0.45000000000000007,
+                "snippet": [
+                    "Orto botanico È il giardino botanico dell'Università di Bologna, fondato nel 1568 da Ulisse Aldrovandi e considerato uno dei più antichi d'Europa. Parco Carlo Urbani Il parco fluviale del Savena che si trova fra Bologna e San Lazzaro di Savena, ospita numerose specie animali e una ricca varietà di flora. Parco regionale dei Gessi Bolognesi e Calanchi dell'Abbadessa Ha una superficie di 3 123 ettari e si sviluppa sulle prime pendici della collina bolognese e comprende territori dei comuni di Bologna, San Lazzaro di Savena, Ozzano dell'Emilia e Pianoro, ad altitudini comprese fra 70 e 400 m s.l.m."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.314341,
+                    44.430371
+                ]
+            },
+            "properties": {
+                "entity": "Monte Sabbiuno",
+                "name_location": "Monte Sabbiuno, Bologna, Emilia-Romagna, 40067, Italia",
+                "category": "natural",
+                "type": "peak",
+                "importance": 0.29919352018435585,
+                "snippet": [
+                    "L'altimetria del territorio comunale spazia dai 29 m s.l.m. del quartiere di Corticella ai 54 del centro del capoluogo, fino ai circa 280 del Colle della Guardia che domina sull'area urbana, e ai circa 390 del Monte Sabbiuno ai confini meridionali del territorio comunale.  Clima Bologna presenta un clima temperato umido con estate molto calda e umida e inverni piuttosto freddi e umidi."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.237715,
+                    44.495439
+                ]
+            },
+            "properties": {
+                "entity": "Yoox",
+                "name_location": "YOOX NET-A-PORTER GROUP, 3, Via Nerio Nannetti, Zola Predosa, Unione dei comuni Valli del Reno, Lavino e Samoggia, Bologna, Emilia-Romagna, 40069, Italia",
+                "category": "building",
+                "type": "industrial",
+                "importance": 0.101,
+                "snippet": [
+                    "nel settore grafico e stampa la Poligrafici Editoriale; nell'e-commerce la Yoox Net-A-Porter Group. Nel capoluogo emiliano hanno sede importanti istituti finanziari nazionali e regionali, tra i quali l'Unipol, l'UnipolSai, la Carisbo, la Banca di Bologna, l'EmilBanca - Credito Cooperativo."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.367033,
+                    44.593288
+                ]
+            },
+            "properties": {
+                "entity": "Funo di Argelato",
+                "name_location": "Funo di Argelato, Argelato, Unione Reno Galliera, Bologna, Emilia-Romagna, 40013, Italia",
+                "category": "place",
+                "type": "village",
+                "importance": 0.42993111144954754,
+                "snippet": [
+                    "a Cereglio la Cerelia Acqua Minerale. Vi si trovano infine le sedi nazionali delle cooperative alimentari Conad e Sigma, mentre nell'adiacente comune di Casalecchio hanno sede la Coop e Despar, e a Funo di Argelato la SISA.  Commercio L'area di Bologna è un polo commerciale di primaria importanza (con il Centergross nell'area metropolitana, che per un lungo periodo è stato dalla fondazione nel 1977 la più grande cittadella commerciale all'ingrosso d'Europa, e l'Interporto)."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.48754,
+                    44.45078
+                ]
+            },
+            "properties": {
+                "entity": "Ozzano dell'Emilia",
+                "name_location": "Ozzano dell'Emilia, Sottopasso Stazione, Osteria Nuova, Ozzano dell'Emilia, Unione dei comuni Savena-Idice, Bologna, Emilia-Romagna, 40064, Italia",
+                "category": "railway",
+                "type": "station",
+                "importance": 0.4983870403687118,
+                "snippet": [
+                    "Parco Carlo Urbani Il parco fluviale del Savena che si trova fra Bologna e San Lazzaro di Savena, ospita numerose specie animali e una ricca varietà di flora. Parco regionale dei Gessi Bolognesi e Calanchi dell'Abbadessa Ha una superficie di 3 123 ettari e si sviluppa sulle prime pendici della collina bolognese e comprende territori dei comuni di Bologna, San Lazzaro di Savena, Ozzano dell'Emilia e Pianoro, ad altitudini comprese fra 70 e 400 m s.l.m. , intorno a importanti affioramenti gessosi che hanno dato vita a un complesso carsico di notevole interesse."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.677316,
+                    44.432272
+                ]
+            },
+            "properties": {
+                "entity": "Territorio Bologna",
+                "name_location": "Associazione Pro Loco Castel Guelfo di Bologna promozione Turismo e Territorio, 10, Via Antonio Gramsci, Castel Guelfo di Bologna, Nuovo Circondario Imolese, Bologna, Emilia-Romagna, 40023, Italia",
+                "category": "tourism",
+                "type": "information",
+                "importance": 0.21100000000000002,
+                "snippet": [
+                    "Nel 2000 è stata \"capitale europea della cultura\", nel 2021 i suoi portici sono stati riconosciuti patrimonio dell'umanità dall'UNESCO.  Geografia fisica Territorio Bologna è situata nelle propaggini meridionali della pianura Padana, a ridosso dei primi rilievi collinari dell'Appennino tosco-emiliano, fra lo sbocco delle valli del fiume Reno e del torrente Savena, che la bagnano longitudinalmente, rispettivamente a ovest e a est. L'altimetria del territorio comunale spazia dai 29 m s.l.m."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.592397,
+                    44.28038
+                ]
+            },
+            "properties": {
+                "entity": "Pallavolo Bologna",
+                "name_location": "Campo da pallavolo, Via John Fitzgerald Kennedy, Forbicina, Tossignano, Borgo Tossignano, Nuovo Circondario Imolese, Bologna, Emilia-Romagna, 40021, Italia",
+                "category": "leisure",
+                "type": "playground",
+                "importance": 0.21100000000000002,
+                "snippet": [
+                    " Pallavolo La Zinella Volley ha vinto il campionato italiano nel 1984/85, la Coppa Italia nel 1983/84, la Coppa delle Coppe nel 1986/87 e una Coppa di Lega nel 1985/86. In seguito viene acquisita dalla società Pallavolo San Lazzaro, che a sua volta, a inizio 2019, confluisce nella nuova Pallavolo Bologna insieme ad altre 6 società del territorio e nel campionato 2019-2020 milita in serie B.   "
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.682431,
+                    44.346039
+                ]
+            },
+            "properties": {
+                "entity": "Cinema A Bologna",
+                "name_location": "Cinema Teatro Pedagna, 70, Via Antonio Vivaldi, Pedagna Ovest, Pedagna, Imola, Nuovo Circondario Imolese, Bologna, Emilia-Romagna, 40026, Italia",
+                "category": "amenity",
+                "type": "cinema",
+                "importance": 0.31100000000000005,
+                "snippet": [
+                    "I principali teatri di Bologna sono l'Arena del Sole e il Teatro Comunale.  Cinema A Bologna ha sede la prestigiosa Cineteca, già presieduta dal regista Giuseppe Bertolucci, e successivamente da Carlo Mazzacurati e poi da Marco Bellocchio."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.711249,
+                    44.352947
+                ]
+            },
+            "properties": {
+                "entity": "Università di Bologna",
+                "name_location": "Università di Bologna, 24, Via Giuseppe Garibaldi, Centro, Imola, Nuovo Circondario Imolese, Bologna, Emilia-Romagna, 40026, Italia",
+                "category": "amenity",
+                "type": "university",
+                "importance": 0.31100000000000005,
+                "snippet": [
+                    "Giardino della Lunetta Gamberini Nel quartiere Santo Stefano, è un parco di 14,5 ettari inaugurato negli anni Settanta. Orto botanico È il giardino botanico dell'Università di Bologna, fondato nel 1568 da Ulisse Aldrovandi e considerato uno dei più antichi d'Europa. Parco Carlo Urbani Il parco fluviale del Savena che si trova fra Bologna e San Lazzaro di Savena, ospita numerose specie animali e una ricca varietà di flora.",
+                    "Molte istituzioni culturali e universitarie hanno sede alla Manifattura delle Arti, un'area recuperata negli spazi dell'ex Manifattura Tabacchi e dell'ex macello.  Istruzione Università L'Università di Bologna è considerata la più antica università del mondo occidentale. La data della sua fondazione è stata fissata convenzionalmente nell'anno 1088 da una commissione presieduta da Giosuè Carducci.",
+                    "Nell'anno accademico 2019/20 ha ospitato più di 87 000 studenti. Secondo la classifica mondiale delle università stilata da Quacquarelli Symonds, l'Università di Bologna è la seconda università italiana e la 160ª nel mondo. L'alto numero di studenti, provenienti da ogni parte d'Italia e del mondo, ha un notevole impatto sulla vita della città."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.716675,
+                    44.352501
+                ]
+            },
+            "properties": {
+                "entity": "Art City Bologna",
+                "name_location": "Tales of Art, 221, Via Emilia, Centro, Imola, Nuovo Circondario Imolese, Bologna, Emilia-Romagna, 40026, Italia",
+                "category": "tourism",
+                "type": "gallery",
+                "importance": 0.21100000000000002,
+                "snippet": [
+                    "festival internazionale giovani e cinema. Festival di arti visive Art City Bologna - È un insieme di iniziative culturali, mostre ed eventi che propongono una contaminazione fra l'arte contemporanea e i luoghi e il patrimonio artistico presenti sul territorio BilBOlBul - Festival Internazionale del Fumetto (si svolge a marzo): rassegna dedicata al fumetto, presenta opere di grandi artisti e di giovani sulla scena nazionale e internazionale, con uno sguardo sulla produzione più innovativa, mettendo anche in relazione il fumetto con gli altri linguaggi della cultura contemporanea."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.718358,
+                    44.34743
+                ]
+            },
+            "properties": {
+                "entity": "Istituto di Bologna",
+                "name_location": "Istituto Tecnico Luigi Paolini, Via Francesco Guicciardini, Centro, Imola, Nuovo Circondario Imolese, Bologna, Emilia-Romagna, 40026, Italia",
+                "category": "amenity",
+                "type": "school",
+                "importance": 0.3954406477123641,
+                "snippet": [
+                    "Fra i suoi studenti di rilievo, si annovera Gioachino Rossini. L'Accademia delle scienze dell'Istituto di Bologna è stata fondata nel 1714. L'istituzione continuava la precedente \"Accademia degli inquieti\" che era stata fondata intorno al 1690 da Eustachio Manfredi."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.841451,
+                    44.643186
+                ]
+            },
+            "properties": {
+                "entity": "Bologna-Milano",
+                "name_location": "Bologna-Milano, Stradello Giovanardi, Cittanova, San Faustino-Madonnina-Quattroville, Cittanova, Modena, Emilia-Romagna, 41123, Italia",
+                "category": "railway",
+                "type": "abandoned",
+                "importance": 0.201,
+                "snippet": [
+                    "Le linee ferroviarie di rilevanza nazionale che si attestano a Bologna Centrale sono:  la Bologna-Milano (che collega le città capoluogo emiliane, con l'eccezione di Ferrara, nonché Genova e Torino), a cui, da dicembre 2008, è stata affiancata la corrispondente linea ad alta velocità; la Bologna-Ancona-Bari (che dirigendosi verso la Romagna ne tocca tutti i capoluoghi ad eccezione di Ravenna, per poi seguire l'intera lunghezza della costa adriatica verso sud fino in Puglia);"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.795756,
+                    44.564205
+                ]
+            },
+            "properties": {
+                "entity": "Emilia-Romagna",
+                "name_location": "Emilia Romagna, Via Emilia Romagna, Madonna di Sotto-Quattro Ponti, Sassuolo, Unione dei comuni del Distretto Ceramico, Modena, Emilia-Romagna, 41049, Italia",
+                "category": "highway",
+                "type": "bus_stop",
+                "importance": 0.201,
+                "snippet": [
+                    "in dialetto bolognese Bulåggna, AFI: /buˈlʌɲ:ɐ/) è un comune italiano di 392 444 abitanti, capoluogo dell'omonima città metropolitana, a sua volta capoluogo dell'Emilia-Romagna, posta al centro di un'area metropolitana di oltre un milione di abitanti. Sede della più antica università del mondo occidentale, ospita numerosi studenti che ne animano la vita culturale e sociale.",
+                    "I processi successivi appurarono la matrice del terrorismo nero. Fra il 1987 e il 1994 imperversò in Emilia-Romagna, e in particolare nel territorio bolognese, la banda della Uno bianca. L'azione più sanguinosa della banda, nota come la strage del Pilastro, avvenne il 4 gennaio 1991, quando vennero uccisi in un agguato tre carabinieri.",
+                    "È allo studio, inoltre, la realizzazione del cosiddetto Passante Nord che, staccandosi dalla A14 nella zona di Castel San Pietro Terme, dovrebbe collegarsi alla A1 prima di Castelfranco Emilia, transitando, a nord della città, in modo da allontanare dall'agglomerato urbano il traffico di solo transito. Altre strade importanti che toccano la città sono la Strada statale 9 Via Emilia, che la collega con numerosi capoluoghi dell'Emilia-Romagna, oltre che con Lodi e Milano; l'ex Strada statale 253 San Vitale che la collega con Ravenna;"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.808156,
+                    44.702275
+                ]
+            },
+            "properties": {
+                "entity": "Bologna–Portomaggiore",
+                "name_location": "Via Bologna, Portomaggiore, Unione dei comuni Valli e Delizie, Ferrara, Emilia-Romagna, 44015, Italia",
+                "category": "highway",
+                "type": "residential",
+                "importance": 0.31,
+                "snippet": [
+                    "Fino alla costruzione nel 1934 della \"Direttissima\", era la linea principale di collegamento fra Nord e Sud Italia; la Bologna–Portomaggiore; la Bologna-Casalecchio-Vignola, che condivide l'infrastruttura della Bologna-Porretta da Bologna fino a Casalecchio. La città è inoltre dotata di una linea ferroviaria di cintura."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.631867,
+                    44.848489
+                ]
+            },
+            "properties": {
+                "entity": "Giardino della Montagnola",
+                "name_location": "Punta della Montagnola, Rampari di Belfiore, Centro cittadino, Borgo Punta, Malborghetto di Boara, Ferrara, Emilia-Romagna, 44123, Italia",
+                "category": "tourism",
+                "type": "attraction",
+                "importance": 0.201,
+                "snippet": [
+                    "In passato vi era un piccolo zoo, di cui rimane, riutilizzata per altri usi, la gabbia del leone. Giardino della Montagnola Il parco più centrale e uno dei più antichi, si trova nei pressi della stazione centrale e dell'autostazione. Ha due ingressi principali:"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.88024,
+                    44.665223
+                ]
+            },
+            "properties": {
+                "entity": "carreggiata",
+                "name_location": "Carreggiata, Strada Cavallarola, Portomaggiore, Unione dei comuni Valli e Delizie, Ferrara, Emilia-Romagna, 44015, Italia",
+                "category": "building",
+                "type": "yes",
+                "importance": 0.101,
+                "snippet": [
+                    "Piste ciclabili  Bologna dispone di una fitta rete di piste ciclabili. A giugno 2022, la rete ciclabile urbana misura circa 200 km, di cui 120 km in sede protetta, 50 km di percorsi ciclabili in carreggiata e 30 km di percorsi verdi (in aree verdi o fluviali). Entro il 2024 è già prevista e finanziata la realizzazione di 50 ulteriori km di piste ciclabili."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.11942,
+                    44.943731
+                ]
+            },
+            "properties": {
+                "entity": "pianura Padana",
+                "name_location": "Pianura Padana, Italia",
+                "category": "natural",
+                "type": "plain",
+                "importance": 0.7020833691768993,
+                "snippet": [
+                    "Nel 2000 è stata \"capitale europea della cultura\", nel 2021 i suoi portici sono stati riconosciuti patrimonio dell'umanità dall'UNESCO.  Geografia fisica Territorio Bologna è situata nelle propaggini meridionali della pianura Padana, a ridosso dei primi rilievi collinari dell'Appennino tosco-emiliano, fra lo sbocco delle valli del fiume Reno e del torrente Savena, che la bagnano longitudinalmente, rispettivamente a ovest e a est. L'altimetria del territorio comunale spazia dai 29 m s.l.m."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.11942,
+                    44.943731
+                ]
+            },
+            "properties": {
+                "entity": "Pianura Padana",
+                "name_location": "Pianura Padana, Italia",
+                "category": "natural",
+                "type": "plain",
+                "importance": 0.7020833691768993,
+                "snippet": [
+                    " Infrastrutture e trasporti La città e la sua area metropolitana sono poste al centro dei traffici dell'Italia produttiva. In linea generale si può affermare che questa funzione di crocevia è resa possibile dalla particolare posizione geografica che, pur collocandola al margine meridionale della Pianura Padana, la pone, quasi come punto di passaggio obbligato, al centro delle vie di comunicazione che collegano il Nord dell'Italia col Mezzogiorno, sia attraverso la direttrice \"adriatica\" da Torino, Milano, il Veneto fino alla Puglia, assai più rilevante per traffico di quella \"tirrenica\" da Genova a Roma, sia attraverso la cosiddetta \"dorsale appenninica\" per Firenze e Roma (che sfrutta, almeno nel primo tratto, la storica ed importante via di penetrazione appenninica rappresentata dalla valle del fiume Reno): infatti proprio queste due direttrici s'incontrano a Bologna."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.959115,
+                    44.056405
+                ]
+            },
+            "properties": {
+                "entity": "Strada statale 64 Porrettana",
+                "name_location": "Strada Statale 64 Porrettana, Stabiazzoni, Sambuca Pistoiese, Pistoia, Toscana, Italia",
+                "category": "highway",
+                "type": "primary",
+                "importance": 0.5,
+                "snippet": [
+                    "l'ex Strada statale 253 San Vitale che la collega con Ravenna; l'ex Strada statale 65 della Futa che la collega con Firenze e la Strada statale 64 Porrettana che proviene da Pistoia e prosegue per Ferrara.  Ferrovie  Bologna costituisce un nodo ferroviario di rilevanza nazionale, attraverso il quale si stima che transiti oltre l'85% del traffico nazionale fra Nord e Sud, escludendo i traffici via La Spezia (per Milano e la Francia) e quelli via Ravenna - Ferrara e via Ferrara - Suzzara - Parma."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.886845,
+                    44.121465
+                ]
+            },
+            "properties": {
+                "entity": "Incamminati",
+                "name_location": "Biblioteca comunale don Giovanni Verità e della Accademia degli Incamminati, 5, Via Giacomo Matteotti, Casone, Dovadola, Unione di Comuni della Romagna Forlivese, Forlì-Cesena, Emilia-Romagna, 47015, Italia",
+                "category": "amenity",
+                "type": "library",
+                "importance": 0.101,
+                "snippet": [
+                    "Il più longevo esempio di istituzione accademica straniera è il Collegio di Spagna, il più antico collegio al mondo aperto a studenti stranieri, erede del fenomeno delle nationes nella tradizione dell'Università medievale, ed è anche l'unico, di tale tipo, sopravvissuto nell'Europa continentale (altri esempi hanno resistito solo nel Regno Unito).Il capoluogo emiliano ospita anche alcune università private riconosciute, come la Libera Università delle Arti (L.UN.A.) o l'Università Primo Levi.  Accademie Nel Cinque-Seicento Bologna fu sede di numerose accademie, come quella letteraria degli Oziosi, quella artistica degli Incamminati fondata dai Carracci nel 1582, e quella musicale dei Floridi. L'Accademia di Belle Arti di Bologna affonda le sue radici nell'Accademia Clementina fondata nel 1710."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.629726,
+                    44.700058
+                ]
+            },
+            "properties": {
+                "entity": "Galleria Cavour",
+                "name_location": "Galleria Cavour, San Francesco-Giardini Pubblici, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia",
+                "category": "highway",
+                "type": "footway",
+                "importance": 0.27499999999999997,
+                "snippet": [
+                    "Un altro storico mercato cittadino è il Mercato delle Erbe. Sono presenti, inoltre, moltissime attività di abbigliamento, gioielli, artigianato, bistrot, oltre a numerose boutique di alta moda, concentrate in particolar modo fra Galleria Cavour, via Farini, il Pavaglione e via D'Azeglio. Ad esse si aggiunge Corte Isolani, una galleria medievale che collega piazza Santo Stefano a Strada Maggiore, sede di piccole boutique, caffè, ristoranti e un laboratorio di marionette."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.53705,
+                    44.55863
+                ]
+            },
+            "properties": {
+                "entity": "via Caprarie",
+                "name_location": "Via Caprari, Ca' Caprari, Montalto, La Vecchia, Vezzano sul Crostolo, Colline Matildiche, Reggio nell'Emilia, Emilia-Romagna, Italia",
+                "category": "highway",
+                "type": "residential",
+                "importance": 0.19999999999999998,
+                "snippet": [
+                    "Numerosi locali continuano a proporre con successo questo genere, fra cui alcuni specializzati. Il 17 settembre 2011 è stata inaugurata a Bologna la Strada del jazz, costituita da via Caprarie e via degli Orefici, con una manifestazione pubblica che ha ospitato numerosi concerti. La prima stella dei miti del jazz è dedicata a Chet Baker ed è posta sul marciapiede di fronte al portone dove un tempo sorgeva il Musiclub di Alberto Alberti.",
+                    "Separato da piazza Maggiore dal Palazzo dei Banchi, si trova ciò che resta dell'antico Mercato di Mezzo, dove le strade portano ancora i nomi degli artigiani che qui, nel Medioevo, avevano ubicato le loro botteghe: via degli Orefici, via Drapperie (sarti), via Pescherie Vecchie, via Clavature (fabbri), via Caprarie (macellai). Un altro storico mercato cittadino è il Mercato delle Erbe."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.201197,
+                    44.425494
+                ]
+            },
+            "properties": {
+                "entity": "Odoacre",
+                "name_location": "Via Odoacre, Ravenna, Emilia-Romagna, 48121, Italia",
+                "category": "highway",
+                "type": "residential",
+                "importance": 0.19999999999999998,
+                "snippet": [
+                    "Nel 189 a.C. questi ultimi fondarono sul sito una colonia di diritto latino a cui diedero il nome di Bononia.  Storia medievale Dopo la caduta dell'Impero, fu soggetta a Odoacre, a Teodorico il Grande (493-526), a Bisanzio e infine, nel 727, ai Longobardi, per i quali costituì principalmente un centro militare. Nel 774 la città capitolò davanti a Carlo Magno, che la consegnò al papa Adriano I."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.630999,
+                    44.905004
+                ]
+            },
+            "properties": {
+                "entity": "Palazzo Bentivoglio",
+                "name_location": "Palazzo Bentivoglio, Piazza Quattro Novembre, Gualtieri, Bassa Reggiana, Reggio nell'Emilia, Emilia-Romagna, 42044, Italia",
+                "category": "building",
+                "type": "yes",
+                "importance": 0.201,
+                "snippet": [
+                    "uno costituito dalla scalinata del Pincio, di fronte all'autostazione, e uno su via Irnerio. Giardino del Guasto Un piccolo giardino nella zona universitaria, costruito sulle macerie di un importante palazzo nobiliare, Palazzo Bentivoglio, distrutto nel 1507. Il giardino attuale, inaugurato nel 1975 su progetto dell'architetto Gennaro Filippini, risulta rialzato rispetto al livello stradale e si estende su una superficie di circa tremila metri quadri, di cui gran parte ricoperti di calcestruzzo."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.979289,
+                    44.979584
+                ]
+            },
+            "properties": {
+                "entity": "Repubblica Romana",
+                "name_location": "Repubblica, Piazza della Repubblica, Berra, Riva del Po, Unione Terre e Fiumi, Ferrara, Emilia-Romagna, 44033, Italia",
+                "category": "amenity",
+                "type": "parking",
+                "importance": 0.11100000000000002,
+                "snippet": [
+                    " Onorificenze La Città e gli abitanti di Bologna sono insigniti delle seguenti onorificenze:  il Popolo di Bologna è \"Benemerito della Repubblica Romana e d'Italia\" da parte dell'Assemblea Costituente Romana della Repubblica Romana. la decima tra le 27 città decorate di medaglia d'oro come \"benemerite del Risorgimento nazionale\" per le azioni altamente patriottiche compiute dalla città nel periodo del Risorgimento."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.342087,
+                    44.314939
+                ]
+            },
+            "properties": {
+                "entity": "Appennino tosco-emiliano",
+                "name_location": "Giardino della sede del Parco Nazionale dell'Appennino Tosco-Emiliano, Via E. Bagnoli, Ligonchio, Casalino, Ventasso, Appennino Reggiano, Reggio nell'Emilia, Emilia-Romagna, 42039, Italia",
+                "category": "leisure",
+                "type": "playground",
+                "importance": 0.30100000000000005,
+                "snippet": [
+                    "Nel 2000 è stata \"capitale europea della cultura\", nel 2021 i suoi portici sono stati riconosciuti patrimonio dell'umanità dall'UNESCO.  Geografia fisica Territorio Bologna è situata nelle propaggini meridionali della pianura Padana, a ridosso dei primi rilievi collinari dell'Appennino tosco-emiliano, fra lo sbocco delle valli del fiume Reno e del torrente Savena, che la bagnano longitudinalmente, rispettivamente a ovest e a est. L'altimetria del territorio comunale spazia dai 29 m s.l.m."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.790967,
+                    45.160344
+                ]
+            },
+            "properties": {
+                "entity": "Arte Fiera",
+                "name_location": "Studio fotografico Arte Foto, 44, Via Domenico Fernelli, Fiera-Catena, Mantova, Lombardia, 46100, Italia",
+                "category": "craft",
+                "type": "photographer",
+                "importance": 0.201,
+                "snippet": [
+                    "In ambito scultoreo, operarono a Bologna artisti come Arnolfo di Cambio, Nicola Pisano, Pierpaolo dalle Masegne, Niccolò dell'Arca, Jacopo della Quercia, Michelangelo, Giambologna, Alfonso Lombardi, Properzia de' Rossi e, più recentemente, Umberto Mastroianni, Quinto Ghermandi, Roberto Tirelli, Mario Ceroli, Nicola Zamboni e Luigi Mainolfi. Dal 1974 si tiene presso la Fiera di Bologna annualmente nel mese di gennaio Arte Fiera, una fiera d'arte moderna e contemporanea.  Dal 1977 al 1982 si è svolta annualmente la Settimana Internazionale della Performance curata da Renato Barilli, Francesca Alinovi e Roberto Daolio, un evento di alto valore culturale, coinvolgendo lo spazio pubblico della città."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.540242,
+                    44.064065
+                ]
+            },
+            "properties": {
+                "entity": "Strada statale 9 Via Emilia",
+                "name_location": "Via Circonvallazione Ovest, Rimini, Emilia-Romagna, 47923, Italia",
+                "category": "highway",
+                "type": "primary",
+                "importance": 0.4,
+                "snippet": [
+                    "È allo studio, inoltre, la realizzazione del cosiddetto Passante Nord che, staccandosi dalla A14 nella zona di Castel San Pietro Terme, dovrebbe collegarsi alla A1 prima di Castelfranco Emilia, transitando, a nord della città, in modo da allontanare dall'agglomerato urbano il traffico di solo transito. Altre strade importanti che toccano la città sono la Strada statale 9 Via Emilia, che la collega con numerosi capoluoghi dell'Emilia-Romagna, oltre che con Lodi e Milano; l'ex Strada statale 253 San Vitale che la collega con Ravenna;"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.370472,
+                    43.770865
+                ]
+            },
+            "properties": {
+                "entity": "Properzia de' Rossi",
+                "name_location": "Via Properzia de' Rossi, Piaggia, Arena Metato, San Giuliano Terme, Pisa, Toscana, 56019, Italia",
+                "category": "highway",
+                "type": "residential",
+                "importance": 0.4,
+                "snippet": [
+                    "In epoca moderna e contemporanea, Bologna ha dato i natali a Luigi Serra, Giorgio Morandi (a cui è dedicato l'omonimo museo), Mario Bonazzi, Ilario Rossi, Aldo Borgonzoni, Carlo Gajani, Sergio Romiti, Vasco Bendini, Pirro Cuniberti, Sergio Vacchi, Vittorio Mascalchi, Valerio Adami, Pier Paolo Calzolari e Piero Manai, mentre vi operarono e operano artisti quali Giovanni Romagnoli, Germano Sartelli, Concetto Pozzati, Luciano De Vita e molti altri. In ambito scultoreo, operarono a Bologna artisti come Arnolfo di Cambio, Nicola Pisano, Pierpaolo dalle Masegne, Niccolò dell'Arca, Jacopo della Quercia, Michelangelo, Giambologna, Alfonso Lombardi, Properzia de' Rossi e, più recentemente, Umberto Mastroianni, Quinto Ghermandi, Roberto Tirelli, Mario Ceroli, Nicola Zamboni e Luigi Mainolfi. Dal 1974 si tiene presso la Fiera di Bologna annualmente nel mese di gennaio Arte Fiera, una fiera d'arte moderna e contemporanea."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.644725,
+                    44.013072
+                ]
+            },
+            "properties": {
+                "entity": "Levante Emilia",
+                "name_location": "Levante, Viale Alessandro Manzoni, Alba, Riccione, Rimini, Emilia-Romagna, 47383, Italia",
+                "category": "tourism",
+                "type": "hotel",
+                "importance": 0.21100000000000002,
+                "snippet": [
+                    "L'espansione demografica dovuta alla forte immigrazione dalla provincia e dalle regioni del sud Italia ha portato, soprattutto negli anni sessanta e settanta del Novecento, a un’intensa urbanizzazione delle aree un tempo rurali all'esterno delle mura cittadine. Nacquero così popolosi quartieri periferici come la Barca (1962), il Pilastro (1966) o il Fossolo (1968), e si realizzarono grandi progetti di edilizia popolare, come ad esempio il grattacielo di San Vitale (1958-60), l'insediamento \"Levante Emilia\" in via Napoli (1961), il Treno (1957-62) e lo Steccone (1968) alla Barca, il Virgolone (1976) al Pilastro. In un'area destinata allo sviluppo della città, fra via Stalingrado e il quartiere San Donato, nel 1967 l'amministrazione comunale commissionò al noto architetto giapponese Kenzō Tange la progettazione del Centro direzionale nell'area della fiera, la cui costruzione iniziò nel 1975."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5001,
+                    43.349846
+                ]
+            },
+            "properties": {
+                "entity": "Felsina",
+                "name_location": "FELSINA, Via Vitaliano Porcellotti, Castelnuovo Berardenga, Siena, Toscana, 53019, Italia",
+                "category": "craft",
+                "type": "winery",
+                "importance": 0.101,
+                "snippet": [
+                    "In questo periodo, e fino al VI secolo a.C., la zona dove sorge oggi Bologna era occupata da nuclei insediativi dell'età del ferro appartenenti alla civiltà villanoviana. Nel VII-VI secolo a.C. abbiamo testimonianze di un'apertura ai modelli culturali e artistici dell'Etruria tirrenica, durante la quale la città fu chiamata Felsina (in etrusco Felzna o Felsna). Successivamente (V-IV secolo a.C.), con la discesa dei Galli nella penisola, gli Etruschi persero il controllo dell'area."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.253728,
+                    43.377268
+                ]
+            },
+            "properties": {
+                "entity": "Marzocchi",
+                "name_location": "Marzocchi, Cinquemiglia, Città di Castello, Perugia, Umbria, 06018, Italia",
+                "category": "place",
+                "type": "hamlet",
+                "importance": 0.36,
+                "snippet": [
+                    "Nel settore del packaging, sviluppatosi a partire dagli anni '20, spiccano il gruppo Coesia (G.D - A.C.M.A. Volpak - Cima - Sasib), e, nel territorio metropolitano, l'IMA (a Ozzano) e la Marchesini Group (a Pianoro). In ambito metalmeccanico vi si trova la Cesab, mentre nella zona metropolitana hanno sede la Malossi e la Minarelli (entrambe a Calderara di Reno), la Marzocchi e la Viro (a Zola Predosa), la Paioli (a Sant’Agata Bolognese). Nel più ampio settore delle produzioni industriali vi è il Gruppo Industriale Maccaferri."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.691271,
+                    45.048429
+                ]
+            },
+            "properties": {
+                "entity": "Regione Emilia-Romagna",
+                "name_location": "Regione emilia romagna, Via Santa Franca, Baia del Re, Piacenza, Emilia-Romagna, 29121, Italia",
+                "category": "office",
+                "type": "government",
+                "importance": 0.30100000000000005,
+                "snippet": [
+                    "In un'area destinata allo sviluppo della città, fra via Stalingrado e il quartiere San Donato, nel 1967 l'amministrazione comunale commissionò al noto architetto giapponese Kenzō Tange la progettazione del Centro direzionale nell'area della fiera, la cui costruzione iniziò nel 1975. Nacque così il Fiera District, destinato a diventare la sede della Regione Emilia-Romagna, del Palazzo degli Affari, della Fiera di Bologna e di altre importanti istituzioni economiche. Al centro del Fiera District fu progettata una zona pedonale, piazza della Costituzione, la cui costruzione fu affidata a Isamu Noguchi."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.248891,
+                    45.667774
+                ]
+            },
+            "properties": {
+                "entity": "via Ferrarese",
+                "name_location": "Via Ferrarese, Selvana, Treviso, Veneto, 31100, Italia",
+                "category": "highway",
+                "type": "residential",
+                "importance": 0.3,
+                "snippet": [
+                    "Etnie e minoranze straniere Secondo i dati ISTAT, al 31 dicembre 2020 i cittadini stranieri a Bologna risultavano 62 422 (15,9% tra tutti i residenti).Le prime dieci comunità sono quelle provenienti da:  Romania, 9 726 Bangladesh, 4 990 Filippine, 4 966 Cina, 4 547 Pakistan, 4 368 Ucraina, 3 815 Marocco, 3 439 Moldavia, 3 381 Albania, 2 657 Sri Lanka, 1 297A Bologna è nata una delle prime chinatown italiane, con i primi insediamenti di cittadini cinesi risalenti agli anni trenta, ampliatisi negli anni cinquanta e ottanta. L'area dove si concentrarono fin dall'inizio le comunità cinesi comprende le zone della Bolognina e di Corticella (soprattutto attorno a via Ferrarese). La Bolognina ed il Pilastro sono statisticamente i quartieri ove si concentra maggiormente la popolazione straniera di Bologna."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.623722,
+                    45.497076
+                ]
+            },
+            "properties": {
+                "entity": "mare Nettuno",
+                "name_location": "Nettuno, Via Bafile 23° Accesso Al Mare, Lido di Jesolo, Jesolo, Venezia, Veneto, 30016, Italia",
+                "category": "tourism",
+                "type": "hotel",
+                "importance": 0.21100000000000002,
+                "snippet": [
+                    "  Fontane Uno dei più noti simboli di Bologna è la fontana del Nettuno, sita nell'omonima piazza, adiacente a piazza Maggiore. Voluta dal cardinale legato Carlo Borromeo, fu progettata da Tommaso Laureti ed è sormontata da una statua rappresentante il dio del mare Nettuno, opera del Giambologna. L'altra fontana cittadina degna di nota è la cosiddetta Fontana Vecchia, addossata al palazzo Comunale (oggi Sala Borsa) in via Ugo Bassi, opera dello stesso Tommaso Laureti che progettò la più famosa fontana del Nettuno nel XVI secolo."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.302295,
+                    45.379597
+                ]
+            },
+            "properties": {
+                "entity": "via Emilia",
+                "name_location": "Via Emilia, Cascina Carlotta, Zivido, San Giuliano Milanese, Milano, Lombardia, 20098, Italia",
+                "category": "highway",
+                "type": "primary",
+                "importance": 0.6320066907057575,
+                "snippet": [
+                    "In alcune case si trovano ancora le fondazioni della città romana risalente al II secolo a.C., e in altre abitazioni pare addirittura che vi siano tracce datate all'età del ferro. La struttura del centro storico composta dalla sovrapposizione di due modelli planimetrici, quello romano ortogonale e quello medievale a raggiera, con piazza Maggiore posta in mezzo e i \"raggi\", a partire dalle due strade centrali della via Emilia - via Rizzoli e via Ugo Bassi - che si sviluppano fino alle varie porte che si aprono lungo i resti delle mura. Caratteristica principale delle abitazioni, ereditata dall'architettura del passato e riproposta anche in chiave moderna in quasi tutta la città, è quella di avere all'esterno i portici."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.514028,
+                    43.61849
+                ]
+            },
+            "properties": {
+                "entity": "Mercato delle Erbe",
+                "name_location": "Mercato delle Erbe, Piazza delle Erbe, Cardeto, Ancona, Marche, 60121, Italia",
+                "category": "tourism",
+                "type": "attraction",
+                "importance": 0.30100000000000005,
+                "snippet": [
+                    "via degli Orefici, via Drapperie (sarti), via Pescherie Vecchie, via Clavature (fabbri), via Caprarie (macellai). Un altro storico mercato cittadino è il Mercato delle Erbe. Sono presenti, inoltre, moltissime attività di abbigliamento, gioielli, artigianato, bistrot, oltre a numerose boutique di alta moda, concentrate in particolar modo fra Galleria Cavour, via Farini, il Pavaglione e via D'Azeglio."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.191763,
+                    45.482709
+                ]
+            },
+            "properties": {
+                "entity": "Torre Unipol",
+                "name_location": "Torre Unipol, Via Fratelli Castiglioni, GARIBALDI REPUBBLICA, Municipio 9, Milano, Lombardia, 20124, Italia",
+                "category": "building",
+                "type": "construction",
+                "importance": 0.201,
+                "snippet": [
+                    "Al centro del Fiera District fu progettata una zona pedonale, piazza della Costituzione, la cui costruzione fu affidata a Isamu Noguchi. Fra gli ultimi esempi di architettura contemporanea e interventi urbanistici (spesso oggetto di accese discussioni) troviamo la Porta Europa dell'architetto Ettore Masi in via Stalingrado, il complesso del nuovo palazzo comunale nella zona della Bolognina (Palazzo Bonaccorso e piazza Liber Paradisus) e la Torre Unipol, un grattacielo alto 127 metri sito nella periferia est della città.  Economia Bologna ospita un'importante rete di industrie meccaniche, elettroniche e alimentari e un gran numero di imprese di artigianato."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.289131,
+                    45.62487
+                ]
+            },
+            "properties": {
+                "entity": "Alta Velocità",
+                "name_location": "Autodromo nazionale di Monza - anello alta velocità, Parco, Monza, Monza e della Brianza, Lombardia, 20853, Italia",
+                "category": "historic",
+                "type": "ruins",
+                "importance": 0.201,
+                "snippet": [
+                    "L'importanza dell'aeroporto (il cui bacino d'utenza è stimato in almeno dieci milioni di persone) è dovuto prevalentemente alla posizione nel \"baricentro produttivo\" d'Italia. Oltre alla sua funzione al servizio dell'intera zona produttiva emiliana e marchigiana, l'aumento delle rotte da parte di compagnie aeree low cost e la realizzazione della linea ad Alta Velocità per Firenze hanno portato ad un massiccio aumento dell'utenza turistica. L'aeroporto è collegato alla stazione di Bologna Centrale tramite il Marconi Express, un people mover sopraelevato."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.037466,
+                    45.522726
+                ]
+            },
+            "properties": {
+                "entity": "Steccone",
+                "name_location": "Steccone, Via Alessandro Volta, Pasquè, Lucernate, Rho, Milano, Lombardia, 20017, Italia",
+                "category": "building",
+                "type": "yes",
+                "importance": 0.11100000000000002,
+                "snippet": [
+                    "L'espansione demografica dovuta alla forte immigrazione dalla provincia e dalle regioni del sud Italia ha portato, soprattutto negli anni sessanta e settanta del Novecento, a un’intensa urbanizzazione delle aree un tempo rurali all'esterno delle mura cittadine. Nacquero così popolosi quartieri periferici come la Barca (1962), il Pilastro (1966) o il Fossolo (1968), e si realizzarono grandi progetti di edilizia popolare, come ad esempio il grattacielo di San Vitale (1958-60), l'insediamento \"Levante Emilia\" in via Napoli (1961), il Treno (1957-62) e lo Steccone (1968) alla Barca, il Virgolone (1976) al Pilastro. In un'area destinata allo sviluppo della città, fra via Stalingrado e il quartiere San Donato, nel 1967 l'amministrazione comunale commissionò al noto architetto giapponese Kenzō Tange la progettazione del Centro direzionale nell'area della fiera, la cui costruzione iniziò nel 1975."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.026584,
+                    45.571432
+                ]
+            },
+            "properties": {
+                "entity": "Visconti di Milano",
+                "name_location": "Villa Visconti Borromeo Arese Litta, 12, Largo Vittorio Veneto, Lainate, Milano, Lombardia, 20045, Italia",
+                "category": "tourism",
+                "type": "museum",
+                "importance": 0.5083870403687119,
+                "snippet": [
+                    "Nel 1337 ebbe inizio la signoria dei Pepoli. Alla morte di Taddeo Pepoli il governo della città passò ai Visconti di Milano, poi nuovamente alla Chiesa. Dopo un effimero periodo comunale, nel 1401 la signoria della città passò ai Bentivoglio, che la mantennero (fra alterne vicende) fino alla cacciata ad opera di papa Giulio II nel 1506."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.226878,
+                    42.994895
+                ]
+            },
+            "properties": {
+                "entity": "Pepoli",
+                "name_location": "Villa di Mezzo, Villa da Capo, Bolognola, Macerata, Marche, Italia",
+                "category": "place",
+                "type": "neighbourhood",
+                "importance": 0.25,
+                "snippet": [
+                    "Nel 1327 il legato pontificio Bertrando del Poggetto prese la città, per poi essere cacciato a furor di popolo nel 1334. Nel 1337 ebbe inizio la signoria dei Pepoli. Alla morte di Taddeo Pepoli il governo della città passò ai Visconti di Milano, poi nuovamente alla Chiesa."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.419351,
+                    42.549782
+                ]
+            },
+            "properties": {
+                "entity": "Confederazione nazionale dell'artigianato",
+                "name_location": "Confederazione Nazionale dell'Artigianato, 64/M, Via Europa, Amelia, Terni, Umbria, 05022, Italia",
+                "category": "office",
+                "type": "association",
+                "importance": 0.401,
+                "snippet": [
+                    "La città metropolitana ospita, in proporzione, il maggior numero di imprese per abitanti in Italia. La CNA (Confederazione nazionale dell'artigianato e della piccola e media impresa), registra all'inizio del 2007, un numero di 16.500 imprese associate, quantità inferiore solo a quelle di Milano e Roma. Con un PIL pro capite a parità di potere d'acquisto di 36.941 euro (2013), Bologna risulta essere la 44ª città più ricca d'Europa e la seconda in Italia dopo Milano."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.203905,
+                    44.899573
+                ]
+            },
+            "properties": {
+                "entity": "Palazzo del Podestà",
+                "name_location": "Palazzo del Podestà, Via Stefano Incisa, Rione San Secondo, Asti, Piemonte, 14100, Italia",
+                "category": "building",
+                "type": "yes",
+                "importance": 0.4419138440405379,
+                "snippet": [
+                    "fu citata più volte da Dante Alighieri, nella Divina Commedia (Inferno, XXXI, 136-140) e nelle Rime, a riprova del suo soggiorno a Bologna.  Palazzi storici e ville Affacciati su piazza Maggiore sorgono il Palazzo Comunale (o d'Accursio) (XIII-XV secolo) e il Palazzo del Podestà (ampiamente rimaneggiato nel 1485), accanto al duecentesco Palazzo Re Enzo (il cui aspetto attuale si deve al restauro neogotico di Alfonso Rubbiani del 1905). La maggior parte dei palazzi di Bologna risale principalmente all'epoca in cui la città era inglobata nello Stato della Chiesa tra il XVI e il XVIII secolo e appartenevano alle famiglie senatorie che governavano Bologna a quei tempi.",
+                    " Teatro  Il teatro è stata una forma di intrattenimento molto diffusa a Bologna fino dal Cinquecento. Il primo teatro pubblico fu il Teatro della Sala, attivo a partire dal 1547 nel Palazzo del Podestà. Una figura molto importante del teatro bolognese e italiano fu Alfredo Testoni, il commediografo autore de Il cardinale Lambertini, grande successo teatrale sin dal 1905, riproposto poi sullo schermo dall'attore bolognese Gino Cervi."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.907488,
+                    42.493518
+                ]
+            },
+            "properties": {
+                "entity": "Stato Pontificio",
+                "name_location": "444 Cippo di Confine: Regno delle Due Sicilie - Stato Pontificio, Sentiero Monte Cerasa, Poggio Bustone, Rieti, Lazio, 02010, Italia",
+                "category": "historic",
+                "type": "boundary_stone",
+                "importance": 0.201,
+                "snippet": [
+                    "La città, i cui primi insediamenti risalirebbero almeno al I millennio a.C., fu un importante centro urbano dapprima sotto gli Etruschi e i Celti, poi sotto i Romani e, nel Medioevo, come libero comune. Capitale settentrionale dello Stato Pontificio a partire dal Cinquecento, ebbe un ruolo molto importante durante il Risorgimento e, durante la seconda guerra mondiale, fu uno dei fulcri della Resistenza. Nel secondo dopoguerra, come buona parte dell'Emilia, è stata governata quasi ininterrottamente da amministrazioni di sinistra.",
+                    "Dopo un effimero periodo comunale, nel 1401 la signoria della città passò ai Bentivoglio, che la mantennero (fra alterne vicende) fino alla cacciata ad opera di papa Giulio II nel 1506.  Storia moderna Nel 1507 Bologna passò allo Stato Pontificio e nel 1530 nella Basilica di San Petronio venne celebrata l'incoronazione di Carlo V Imperatore per mano di Papa Clemente VII. La città rimase nello Stato Pontificio fino al 1796, quando con Napoleone arrivarono a Bologna le truppe francesi.",
+                    " Storia moderna Nel 1507 Bologna passò allo Stato Pontificio e nel 1530 nella Basilica di San Petronio venne celebrata l'incoronazione di Carlo V Imperatore per mano di Papa Clemente VII. La città rimase nello Stato Pontificio fino al 1796, quando con Napoleone arrivarono a Bologna le truppe francesi. Tuttavia, dopo il Congresso di Vienna (1815) la città ritornò allo Stato Pontificio.",
+                    "La città rimase nello Stato Pontificio fino al 1796, quando con Napoleone arrivarono a Bologna le truppe francesi. Tuttavia, dopo il Congresso di Vienna (1815) la città ritornò allo Stato Pontificio. Vi si stabilirono gli austriaci, per essere poi annessa, con il plebiscito dell'11-12 marzo 1860, al Regno di Sardegna che diventerà Regno d'Italia esattamente dodici mesi dopo."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.338096,
+                    45.35489
+                ]
+            },
+            "properties": {
+                "entity": "Regno d'Italia",
+                "name_location": "Apartments Villa Sandra, Ljubljanska cesta, Mjesni odbor Kantrida, Grad Rijeka, Grad Opatija, Primorsko-goranska županija, 51211, Hrvatska",
+                "category": "building",
+                "type": "house",
+                "importance": 0.101,
+                "snippet": [
+                    "Tuttavia, dopo il Congresso di Vienna (1815) la città ritornò allo Stato Pontificio. Vi si stabilirono gli austriaci, per essere poi annessa, con il plebiscito dell'11-12 marzo 1860, al Regno di Sardegna che diventerà Regno d'Italia esattamente dodici mesi dopo.  Seconda guerra mondiale La città di Bologna fu esposta a numerose azioni di bombardamento durante la seconda guerra mondiale."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.860856,
+                    42.402831
+                ]
+            },
+            "properties": {
+                "entity": "Palazzo Comunale",
+                "name_location": "Palazzo Comunale, Via Pennina, Centro storico, Regina Pacis, Rieti, Lazio, 02100, Italia",
+                "category": "building",
+                "type": "yes",
+                "importance": 0.4053717591619116,
+                "snippet": [
+                    "fu citata più volte da Dante Alighieri, nella Divina Commedia (Inferno, XXXI, 136-140) e nelle Rime, a riprova del suo soggiorno a Bologna.  Palazzi storici e ville Affacciati su piazza Maggiore sorgono il Palazzo Comunale (o d'Accursio) (XIII-XV secolo) e il Palazzo del Podestà (ampiamente rimaneggiato nel 1485), accanto al duecentesco Palazzo Re Enzo (il cui aspetto attuale si deve al restauro neogotico di Alfonso Rubbiani del 1905). La maggior parte dei palazzi di Bologna risale principalmente all'epoca in cui la città era inglobata nello Stato della Chiesa tra il XVI e il XVIII secolo e appartenevano alle famiglie senatorie che governavano Bologna a quei tempi."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.860856,
+                    42.402831
+                ]
+            },
+            "properties": {
+                "entity": "palazzo Comunale",
+                "name_location": "Palazzo Comunale, Via Pennina, Centro storico, Regina Pacis, Rieti, Lazio, 02100, Italia",
+                "category": "building",
+                "type": "yes",
+                "importance": 0.4053717591619116,
+                "snippet": [
+                    "Voluta dal cardinale legato Carlo Borromeo, fu progettata da Tommaso Laureti ed è sormontata da una statua rappresentante il dio del mare Nettuno, opera del Giambologna. L'altra fontana cittadina degna di nota è la cosiddetta Fontana Vecchia, addossata al palazzo Comunale (oggi Sala Borsa) in via Ugo Bassi, opera dello stesso Tommaso Laureti che progettò la più famosa fontana del Nettuno nel XVI secolo. All'interno del Parco della Montagnola è situata la fontana costruita in occasione dell'Esposizione emiliana del 1888, con sculture che raffigurano animali, ad opera di Diego Sarti."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.829598,
+                    44.388536
+                ]
+            },
+            "properties": {
+                "entity": "piazza Maggiore",
+                "name_location": "Piazza Maggiore, Piazza, Mondovì, Cuneo, Piemonte, 12084, Italia",
+                "category": "highway",
+                "type": "residential",
+                "importance": 0.3,
+                "snippet": [
+                    "fu citata più volte da Dante Alighieri, nella Divina Commedia (Inferno, XXXI, 136-140) e nelle Rime, a riprova del suo soggiorno a Bologna.  Palazzi storici e ville Affacciati su piazza Maggiore sorgono il Palazzo Comunale (o d'Accursio) (XIII-XV secolo) e il Palazzo del Podestà (ampiamente rimaneggiato nel 1485), accanto al duecentesco Palazzo Re Enzo (il cui aspetto attuale si deve al restauro neogotico di Alfonso Rubbiani del 1905). La maggior parte dei palazzi di Bologna risale principalmente all'epoca in cui la città era inglobata nello Stato della Chiesa tra il XVI e il XVIII secolo e appartenevano alle famiglie senatorie che governavano Bologna a quei tempi.",
+                    "Alcuni notevoli esempi di questi edifici si possono trovare nei dintorni della città, sui colli circostanti oppure verso San Lazzaro.   Fontane Uno dei più noti simboli di Bologna è la fontana del Nettuno, sita nell'omonima piazza, adiacente a piazza Maggiore. Voluta dal cardinale legato Carlo Borromeo, fu progettata da Tommaso Laureti ed è sormontata da una statua rappresentante il dio del mare Nettuno, opera del Giambologna.",
+                    "uno dei più importanti concorsi di composizione musicale al mondo. Ogni anno la sera del 2 Agosto le opere vincitrici ed altre commissionate ad hoc vengono suonate in piazza Maggiore in un grande concerto gratuito.. Fra i numerosi esempi di formazioni musicali si ricordano il Coro Euridice, coro polifonico fondato nel 1880 e rimasto ininterrottamente attivo, e l'Orchestra Mozart, fondata nel 2004 da Carlo Maria Badini e diretta da Claudio Abbado fino alla sua morte.",
+                    "Future Film Festival, Biografilm Festival, Il cinema ritrovato, Immaginaria. Ogni estate in piazza Maggiore viene allestito un cinema all'aperto, con uno degli schermi cinematografici più grandi d'Europa, in cui si proiettano tutte le sere alcuni dei migliori restauri della Cineteca e altre pellicole fra le novità della stagione, in un cartellone di oltre cinquanta appuntamenti denominato Sotto le stelle del cinema. Film girati a Bologna  Cucina  La fama internazionale della cucina bolognese risale al Medioevo, quando le potenti famiglie signorili impiegavano presso le loro corti i cuochi più celebrati del tempo, mentre numerose erano già nel Trecento le osterie cittadine.",
+                    "In alcune case si trovano ancora le fondazioni della città romana risalente al II secolo a.C., e in altre abitazioni pare addirittura che vi siano tracce datate all'età del ferro. La struttura del centro storico composta dalla sovrapposizione di due modelli planimetrici, quello romano ortogonale e quello medievale a raggiera, con piazza Maggiore posta in mezzo e i \"raggi\", a partire dalle due strade centrali della via Emilia - via Rizzoli e via Ugo Bassi - che si sviluppano fino alle varie porte che si aprono lungo i resti delle mura. Caratteristica principale delle abitazioni, ereditata dall'architettura del passato e riproposta anche in chiave moderna in quasi tutta la città, è quella di avere all'esterno i portici.",
+                    "Grazie alla grande tradizione culinaria, a Bologna sono molto diffusi i negozi di prodotti alimentari. Separato da piazza Maggiore dal Palazzo dei Banchi, si trova ciò che resta dell'antico Mercato di Mezzo, dove le strade portano ancora i nomi degli artigiani che qui, nel Medioevo, avevano ubicato le loro botteghe: via degli Orefici, via Drapperie (sarti), via Pescherie Vecchie, via Clavature (fabbri), via Caprarie (macellai)."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.829598,
+                    44.388536
+                ]
+            },
+            "properties": {
+                "entity": "Piazza Maggiore",
+                "name_location": "Piazza Maggiore, Piazza, Mondovì, Cuneo, Piemonte, 12084, Italia",
+                "category": "highway",
+                "type": "residential",
+                "importance": 0.31,
+                "snippet": [
+                    "Nei primi anni ottanta Bologna è stata anche uno dei centri nevralgici dell'hardcore punk, grazie a band come RAF Punk, Nabat, Irha, Stalag 17, Anna Falkss, Bacteria, Sottocultura e Rip Off e ad etichette come la Attack Punk Records di Jumpy Velena. Celebre fu la contestazione organizzata dai punk bolognesi durante il concerto dei Clash in Piazza Maggiore nel 1980, evento identificato da molti come l'atto di nascita dell'intero movimento hardcore in Italia. Hip hop e musica elettronica A partire dalla fine degli anni ottanta, Bologna è stata una delle città più importanti per la cultura hip hop, ospitando artisti e gruppi quali Neffa, Sangue Misto, Joe Cassano, Deda, Inoki e grazie a luoghi presso la quale questa cultura veniva supportata e diffusa fin dai primi anni novanta, come il centro sociale Isola nel Kantiere."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.686443,
+                    45.065203
+                ]
+            },
+            "properties": {
+                "entity": "Palazzo degli Affari",
+                "name_location": "Palazzo degli Affari, Piazzale Valdo Fusi, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
+                "category": "building",
+                "type": "office",
+                "importance": 0.410430435186894,
+                "snippet": [
+                    "In un'area destinata allo sviluppo della città, fra via Stalingrado e il quartiere San Donato, nel 1967 l'amministrazione comunale commissionò al noto architetto giapponese Kenzō Tange la progettazione del Centro direzionale nell'area della fiera, la cui costruzione iniziò nel 1975. Nacque così il Fiera District, destinato a diventare la sede della Regione Emilia-Romagna, del Palazzo degli Affari, della Fiera di Bologna e di altre importanti istituzioni economiche. Al centro del Fiera District fu progettata una zona pedonale, piazza della Costituzione, la cui costruzione fu affidata a Isamu Noguchi."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.683025,
+                    45.078462
+                ]
+            },
+            "properties": {
+                "entity": "Arcigay",
+                "name_location": "Arcigay Torino, 3, Via Bernardino Lanino, Porta Palazzo, Circoscrizione 7, Torino, Piemonte, 10152, Italia",
+                "category": "office",
+                "type": "association",
+                "importance": 0.101,
+                "snippet": [
+                    "Il primo movimento gay, il \"Circolo di cultura omosessuale 28 giugno\", si è attivato in città già nel 1978 e nel 1982 ottenne spazi aggregativi dal Comune. L'Arcigay, la più grande associazione nazionale per la tutela dei diritti LGBT in Italia, si è costituita a Bologna nel 1985 con sede presso il Cassero di Porta Saragozza. Ha sede in città anche il MIT - Movimento Identità Trans, una onlus fondata nel 1982, di cui è stata presidente fino alla sua scomparsa Marcella Di Folco, prima associazione di questo tipo in Italia."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.618614,
+                    45.030436
+                ]
+            },
+            "properties": {
+                "entity": "Mobilità Sostenibile",
+                "name_location": "Cittadella del Design e della mobilità sostenibile, 178, Corso Luigi Settembrini, Mirafiori Sud, Circoscrizione 2, Torino, Piemonte, 10135, Italia",
+                "category": "amenity",
+                "type": "university",
+                "importance": 0.201,
+                "snippet": [
+                    "La linea 2 della Bicipolitana comprende il tratto bolognese della Ciclovia del Sole, parte del corridoio ciclabile europeo EuroVelo 7, che percorre l'Europa da nord a sud. Il Piano Urbano della Mobilità Sostenibile pone come obiettivo, per il 2030, che il 18% degli spostamenti interni al comune di Bologna avvenga in bicicletta. Amministrazione Per tutta la sua storia democratica, l'amministrazione cittadina si è distinta per il suo orientamento politico di sinistra."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.346996,
+                    46.178147
+                ]
+            },
+            "properties": {
+                "entity": "Santuario della Madonna di San Luca",
+                "name_location": "Santuario della Madonna di San Luca, Strada per Giovera di sopra, Montecrestese, Verbano-Cusio-Ossola, Piemonte, 28864, Italia",
+                "category": "amenity",
+                "type": "place_of_worship",
+                "importance": 0.6010000000000001,
+                "snippet": [
+                    "Altri eventi Discesa della Madonna di San Luca (si svolge a maggio): ogni anno si celebra l'antica tradizione della \"discesa della Madonna di San Luca\", che avviene il 12 maggio tramite una processione dal Santuario della Madonna di San Luca fino al centro della città. Smell - Festival dell'Olfatto (si svolge a maggio):"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.31334,
+                    46.156375
+                ]
+            },
+            "properties": {
+                "entity": "Strada statale 253 San Vitale",
+                "name_location": "Strada Statale 33 del Sempione, Borgata Fedeli, Fabbrica, Crevoladossola, Verbano-Cusio-Ossola, Piemonte, 28864, Italia",
+                "category": "highway",
+                "type": "trunk",
+                "importance": 0.3,
+                "snippet": [
+                    "Altre strade importanti che toccano la città sono la Strada statale 9 Via Emilia, che la collega con numerosi capoluoghi dell'Emilia-Romagna, oltre che con Lodi e Milano; l'ex Strada statale 253 San Vitale che la collega con Ravenna; l'ex Strada statale 65 della Futa che la collega con Firenze e la Strada statale 64 Porrettana che proviene da Pistoia e prosegue per Ferrara."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.43057,
+                    41.898354
+                ]
+            },
+            "properties": {
+                "entity": "Irnerio",
+                "name_location": "Irnerio, Via Baldo degli Ubaldi, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00167, Italia",
+                "category": "highway",
+                "type": "bus_stop",
+                "importance": 0.11100000000000002,
+                "snippet": [
+                    "Al 1088 è convenzionalmente fatta risalire la fondazione di quella che è riconosciuta come la prima università del mondo occidentale (lo Studium). Tra i primi maestri vi furono i giuristi Pepone, Accursio e Irnerio, che resero famosa in tutta Europa la scuola di giurisprudenza bolognese. Il comune partecipò alla lotta contro il Barbarossa, conclusasi con la pace di Costanza nel 1183, dopo la quale conobbe una forte espansione, anche edilizia (periodo delle case-torri):"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.362926,
+                    44.467283
+                ]
+            },
+            "properties": {
+                "entity": "Ottocento",
+                "name_location": "Ottocento, Via Giovanni Giolitti, Murassone, Dronero, Cuneo, Piemonte, Italia",
+                "category": "amenity",
+                "type": "restaurant",
+                "importance": 0.11100000000000002,
+                "snippet": [
+                    "Società Evoluzione demografica Bologna, anche per via della sua collocazione geografica, è da sempre un crocevia di correnti migratorie. In tempi moderni, un'esplosione demografica si è registrata a cavallo fra la fine dell'Ottocento e i primi anni Settanta, passando da circa 100 000 a quasi 500 000 abitanti. Il massiccio aumento demografico è stato in larga parte dovuto all'immigrazione, dapprima da parte delle aree rurali e montane circostanti, e poi - soprattutto nel secondo dopoguerra - da altre zone d'Italia, in particolare dal Mezzogiorno."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.326607,
+                    44.882833
+                ]
+            },
+            "properties": {
+                "entity": "Bicipolitana",
+                "name_location": "Bicipolitana Linea 1, Abbadia Alpina, Pinerolo, Torino, Piemonte, 10064, Italia",
+                "category": "highway",
+                "type": "cycleway",
+                "importance": 0.17499999999999996,
+                "snippet": [
+                    "Entro il 2024 è già prevista e finanziata la realizzazione di 50 ulteriori km di piste ciclabili. La rete ciclabile portante è identificata dai percorsi della Bicipolitana, la rete ciclabile della città metropolitana di Bologna. Dei 32 percorsi identificati dalla Bicipolitana, 10 sono percorsi radiali che partono dal centro di Bologna e altri 2 sono percorsi tangenziali che circondano la città di Bologna, tra cui la Tangenziale delle biciclette, inaugurata nel 2015, che segue il percorso dei viali di circonvallazione intorno al centro storico.",
+                    "La rete ciclabile portante è identificata dai percorsi della Bicipolitana, la rete ciclabile della città metropolitana di Bologna. Dei 32 percorsi identificati dalla Bicipolitana, 10 sono percorsi radiali che partono dal centro di Bologna e altri 2 sono percorsi tangenziali che circondano la città di Bologna, tra cui la Tangenziale delle biciclette, inaugurata nel 2015, che segue il percorso dei viali di circonvallazione intorno al centro storico. La linea 2 della Bicipolitana comprende il tratto bolognese della Ciclovia del Sole, parte del corridoio ciclabile europeo EuroVelo 7, che percorre l'Europa da nord a sud.",
+                    "Dei 32 percorsi identificati dalla Bicipolitana, 10 sono percorsi radiali che partono dal centro di Bologna e altri 2 sono percorsi tangenziali che circondano la città di Bologna, tra cui la Tangenziale delle biciclette, inaugurata nel 2015, che segue il percorso dei viali di circonvallazione intorno al centro storico. La linea 2 della Bicipolitana comprende il tratto bolognese della Ciclovia del Sole, parte del corridoio ciclabile europeo EuroVelo 7, che percorre l'Europa da nord a sud. Il Piano Urbano della Mobilità Sostenibile pone come obiettivo, per il 2030, che il 18% degli spostamenti interni al comune di Bologna avvenga in bicicletta."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.537786,
+                    42.237383
+                ]
+            },
+            "properties": {
+                "entity": "Ciclovia del Sole",
+                "name_location": "Darsena Marina del Sole, Ciclovia Adriatica, Porto di Fossacesia, Fossacesia, Chieti, Abruzzo, 66022, Italia",
+                "category": "leisure",
+                "type": "marina",
+                "importance": 0.30100000000000005,
+                "snippet": [
+                    "Dei 32 percorsi identificati dalla Bicipolitana, 10 sono percorsi radiali che partono dal centro di Bologna e altri 2 sono percorsi tangenziali che circondano la città di Bologna, tra cui la Tangenziale delle biciclette, inaugurata nel 2015, che segue il percorso dei viali di circonvallazione intorno al centro storico. La linea 2 della Bicipolitana comprende il tratto bolognese della Ciclovia del Sole, parte del corridoio ciclabile europeo EuroVelo 7, che percorre l'Europa da nord a sud. Il Piano Urbano della Mobilità Sostenibile pone come obiettivo, per il 2030, che il 18% degli spostamenti interni al comune di Bologna avvenga in bicicletta."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.239447,
+                    41.973755
+                ]
+            },
+            "properties": {
+                "entity": "Colle della Guardia",
+                "name_location": "Colle della Guardia, Montenerodomo, Chieti, Abruzzo, Italia",
+                "category": "natural",
+                "type": "peak",
+                "importance": 0.6000000000000001,
+                "snippet": [
+                    "L'altimetria del territorio comunale spazia dai 29 m s.l.m. del quartiere di Corticella ai 54 del centro del capoluogo, fino ai circa 280 del Colle della Guardia che domina sull'area urbana, e ai circa 390 del Monte Sabbiuno ai confini meridionali del territorio comunale.  Clima Bologna presenta un clima temperato umido con estate molto calda e umida e inverni piuttosto freddi e umidi.",
+                    "Santa Maria della Vita (la chiesa del primo ospedale di Bologna, fondato nel 1260), al cui interno si trovano le preziosissime terrecotte delle Marie Piangenti, note come Compianto sul Cristo morto e realizzate da Niccolò dell'Arca tra il 1463 e il 1490. Sul Colle della Guardia, a sud-ovest del centro storico, si trova il caratteristico santuario della Madonna di San Luca (1765), raggiungibile per una lunghissima e suggestiva via porticata del XVII e XVIII secolo (la più lunga al mondo, ben 3,796 km).  Altri edifici di culto In via De' Gombruti n. 7 è presente una sinagoga del 1954 su progetto di Guido Muggia."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.805824,
+                    41.494281
+                ]
+            },
+            "properties": {
+                "entity": "cimitero polacco",
+                "name_location": "Cimitero Polacco, Cassino, Frosinone, Lazio, Italia",
+                "category": "landuse",
+                "type": "cemetery",
+                "importance": 0.39999999999999997,
+                "snippet": [
+                    "Alle porte di Bologna, al confine con San Lazzaro di Savena, si trova un complesso militare della seconda guerra mondiale. Il cimitero maggiore è il cimitero polacco, il più grande dei quattro cimiteri militari dei polacchi caduti in Italia durante la seconda guerra mondiale.  Architetture civili Torri Le torri gentilizie di Bologna, di origine medioevale, sono uno dei tratti più caratteristici della città."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.663263,
+                    41.562272
+                ]
+            },
+            "properties": {
+                "entity": "Istituto storico",
+                "name_location": "ISTAT Ufficio Regionale Molise, 13/C, Via Luigi D'Amato, Centro Storico, Campobasso, Molise, 86100, Italia",
+                "category": "office",
+                "type": "research",
+                "importance": 0.8033236828671946,
+                "snippet": [
+                    "Di notevole interesse, e di capitale importanza in ambito nazionale ed europeo, è anche la Cineteca di Bologna, istituzione comunale dedicata al cinema e alla filmografia. Vi sono inoltre diverse biblioteche tematiche come quella sulla storia del Novecento dell'Istituto storico Parri Emilia-Romagna, quella dell'Istituto Gramsci, la Biblioteca Italiana delle Donne, la biblioteca del Museo internazionale della musica, la biblioteca emeroteca del MAMbo e numerose altre. Nel luglio 2020 Bologna ha ottenuto il riconoscimento di \"Città che legge\" 2020-2021."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.909666,
+                    41.069582
+                ]
+            },
+            "properties": {
+                "entity": "Masegne",
+                "name_location": "Viale Jacobello delle Masegne, Torre di Pescopagano, Castel Volturno, Caserta, Campania, 81034, Italia",
+                "category": "highway",
+                "type": "living_street",
+                "importance": 0.19999999999999998,
+                "snippet": [
+                    "In epoca moderna e contemporanea, Bologna ha dato i natali a Luigi Serra, Giorgio Morandi (a cui è dedicato l'omonimo museo), Mario Bonazzi, Ilario Rossi, Aldo Borgonzoni, Carlo Gajani, Sergio Romiti, Vasco Bendini, Pirro Cuniberti, Sergio Vacchi, Vittorio Mascalchi, Valerio Adami, Pier Paolo Calzolari e Piero Manai, mentre vi operarono e operano artisti quali Giovanni Romagnoli, Germano Sartelli, Concetto Pozzati, Luciano De Vita e molti altri. In ambito scultoreo, operarono a Bologna artisti come Arnolfo di Cambio, Nicola Pisano, Pierpaolo dalle Masegne, Niccolò dell'Arca, Jacopo della Quercia, Michelangelo, Giambologna, Alfonso Lombardi, Properzia de' Rossi e, più recentemente, Umberto Mastroianni, Quinto Ghermandi, Roberto Tirelli, Mario Ceroli, Nicola Zamboni e Luigi Mainolfi. Dal 1974 si tiene presso la Fiera di Bologna annualmente nel mese di gennaio Arte Fiera, una fiera d'arte moderna e contemporanea."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.226968,
+                    46.197515
+                ]
+            },
+            "properties": {
+                "entity": "Pincio",
+                "name_location": "Pincio, Rue du Jura, La Martinière, Ambilly, Saint-Julien-en-Genevois, Haute-Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 74100, France",
+                "category": "building",
+                "type": "service",
+                "importance": 0.11100000000000002,
+                "snippet": [
+                    "Ha due ingressi principali: uno costituito dalla scalinata del Pincio, di fronte all'autostazione, e uno su via Irnerio. Giardino del Guasto Un piccolo giardino nella zona universitaria, costruito sulle macerie di un importante palazzo nobiliare, Palazzo Bentivoglio, distrutto nel 1507."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.254546,
+                    40.845191
+                ]
+            },
+            "properties": {
+                "entity": "Palazzo dei Banchi",
+                "name_location": "Palazzo dei Duchi di Casamassima, Largo Banchi Nuovi, Porto, Municipalità 2, Napoli, Campania, 80133, Italia",
+                "category": "historic",
+                "type": "building",
+                "importance": 0.5609581430769718,
+                "snippet": [
+                    "Grazie alla grande tradizione culinaria, a Bologna sono molto diffusi i negozi di prodotti alimentari. Separato da piazza Maggiore dal Palazzo dei Banchi, si trova ciò che resta dell'antico Mercato di Mezzo, dove le strade portano ancora i nomi degli artigiani che qui, nel Medioevo, avevano ubicato le loro botteghe: via degli Orefici, via Drapperie (sarti), via Pescherie Vecchie, via Clavature (fabbri), via Caprarie (macellai)."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.663156,
+                    41.020295
+                ]
+            },
+            "properties": {
+                "entity": "Casa Savoia",
+                "name_location": "Casa Savoia, Via Roma, Casali, San Martino Valle Caudina, Avellino, Campania, 82016, Italia",
+                "category": "building",
+                "type": "residential",
+                "importance": 0.201,
+                "snippet": [
+                    "la decima tra le 27 città decorate di medaglia d'oro come \"benemerite del Risorgimento nazionale\" per le azioni altamente patriottiche compiute dalla città nel periodo del Risorgimento. Periodo, definito dalla Casa Savoia, compreso tra i moti insurrezionali del 1848 e la fine della prima Guerra Mondiale nel 1918. tra le città decorate al valor militare per la guerra di liberazione perché è stata insignita della Medaglia d'oro al valor militare il 24 novembre 1946 per i sacrifici delle sue popolazioni e per la sua attività nella lotta partigiana durante la seconda guerra mondiale."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.559728,
+                    40.72791
+                ]
+            },
+            "properties": {
+                "entity": "Palazzo Re Enzo",
+                "name_location": "Palazzo Re Enzo, Corso Vittorio Emanuele II, Cappuccini, Sassari, Sardigna/Sardegna, 07100, Italia",
+                "category": "tourism",
+                "type": "attraction",
+                "importance": 0.30100000000000005,
+                "snippet": [
+                    "fu citata più volte da Dante Alighieri, nella Divina Commedia (Inferno, XXXI, 136-140) e nelle Rime, a riprova del suo soggiorno a Bologna.  Palazzi storici e ville Affacciati su piazza Maggiore sorgono il Palazzo Comunale (o d'Accursio) (XIII-XV secolo) e il Palazzo del Podestà (ampiamente rimaneggiato nel 1485), accanto al duecentesco Palazzo Re Enzo (il cui aspetto attuale si deve al restauro neogotico di Alfonso Rubbiani del 1905). La maggior parte dei palazzi di Bologna risale principalmente all'epoca in cui la città era inglobata nello Stato della Chiesa tra il XVI e il XVIII secolo e appartenevano alle famiglie senatorie che governavano Bologna a quei tempi."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48003,
+                    40.719039
+                ]
+            },
+            "properties": {
+                "entity": "via Napoli",
+                "name_location": "Via Napoli, Annunziatella, Postiglione, Pioppaino, Castellammare di Stabia, Napoli, Campania, 80053, Italia",
+                "category": "highway",
+                "type": "tertiary",
+                "importance": 0.31,
+                "snippet": [
+                    "L'espansione demografica dovuta alla forte immigrazione dalla provincia e dalle regioni del sud Italia ha portato, soprattutto negli anni sessanta e settanta del Novecento, a un’intensa urbanizzazione delle aree un tempo rurali all'esterno delle mura cittadine. Nacquero così popolosi quartieri periferici come la Barca (1962), il Pilastro (1966) o il Fossolo (1968), e si realizzarono grandi progetti di edilizia popolare, come ad esempio il grattacielo di San Vitale (1958-60), l'insediamento \"Levante Emilia\" in via Napoli (1961), il Treno (1957-62) e lo Steccone (1968) alla Barca, il Virgolone (1976) al Pilastro. In un'area destinata allo sviluppo della città, fra via Stalingrado e il quartiere San Donato, nel 1967 l'amministrazione comunale commissionò al noto architetto giapponese Kenzō Tange la progettazione del Centro direzionale nell'area della fiera, la cui costruzione iniziò nel 1975."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.479787,
+                    40.691327
+                ]
+            },
+            "properties": {
+                "entity": "San Giacomo Maggiore",
+                "name_location": "San Giacomo Maggiore, Salita San Giacomo, Fratte, Castellammare di Stabia, Napoli, Campania, 80053, Italia",
+                "category": "amenity",
+                "type": "place_of_worship",
+                "importance": 0.5136016192809102,
+                "snippet": [
+                    "La cattedrale cittadina dedicata a San Pietro, sita in via Indipendenza, fu costruita nel XVII secolo sulle rovine dell'antico edificio paleocristiano. Altre rilevanti chiese cittadine sono San Giacomo Maggiore (1263), in stile gotico e con elegante portico rinascimentale; la Basilica di Santa Maria dei Servi (eretta tra il XIV e il XVI secolo), con una Maestà di Cimabue e un suggestivo quadriportico;"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.066924,
+                    41.302247
+                ]
+            },
+            "properties": {
+                "entity": "piazza della Costituzione",
+                "name_location": "Piazza della Costituzione, San Ferdinando di Puglia, Barletta-Andria-Trani, Puglia, Italia",
+                "category": "place",
+                "type": "square",
+                "importance": 0.42500000000000004,
+                "snippet": [
+                    "Nacque così il Fiera District, destinato a diventare la sede della Regione Emilia-Romagna, del Palazzo degli Affari, della Fiera di Bologna e di altre importanti istituzioni economiche. Al centro del Fiera District fu progettata una zona pedonale, piazza della Costituzione, la cui costruzione fu affidata a Isamu Noguchi. Fra gli ultimi esempi di architettura contemporanea e interventi urbanistici (spesso oggetto di accese discussioni) troviamo la Porta Europa dell'architetto Ettore Masi in via Stalingrado, il complesso del nuovo palazzo comunale nella zona della Bolognina (Palazzo Bonaccorso e piazza Liber Paradisus) e la Torre Unipol, un grattacielo alto 127 metri sito nella periferia est della città."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.061279,
+                    41.226338
+                ]
+            },
+            "properties": {
+                "entity": "Museo civico archeologico",
+                "name_location": "Museo civico archeologico, Via Ludovico Ariosto, Canosa di Puglia, Barletta-Andria-Trani, Puglia, Italia",
+                "category": "tourism",
+                "type": "museum",
+                "importance": 0.5572775033536224,
+                "snippet": [
+                    "Musei  Bologna possiede oltre quaranta musei nei quali, accanto alle collezioni permanenti, sono organizzate mostre temporanee.  I musei civici più importanti sono: le Collezioni comunali d'arte, il Museo civico archeologico, il Museo civico medievale, il Museo Morandi, il Museo civico d'arte industriale Davia Bargellini, il Museo del patrimonio industriale di Bologna, il MAMbo (Museo d'arte moderna di Bologna) e il Museo internazionale e biblioteca della musica. La Pinacoteca Nazionale di Bologna, nata nel 1802 in seno all'Accademia di Belle Arti, è un museo statale dotato di autonomia gestionale."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.946835,
+                    39.955105
+                ]
+            },
+            "properties": {
+                "entity": "Arte A Bologna",
+                "name_location": "MURATS - Museo Unico Regionale Arte Tessile Sarda, Via Bologna, Samugheo, Aristanis/Oristano, Sardigna/Sardegna, 09086, Italia",
+                "category": "tourism",
+                "type": "museum",
+                "importance": 0.5435246308816305,
+                "snippet": [
+                    "ma creò anche il Delia, utilizzato per gli elenchi telefonici. Arte A Bologna fiorì nel Trecento una vivace scuola di pittura, a cui facevano capo Vitale da Bologna, Dalmasio Scannabecchi e Simone dei Crocifissi, assieme agli allievi Jacopo di Paolo, Cristoforo da Bologna, Andrea de' Bartoli, \"Jacobus\", il cosiddetto Pseudo Jacopino di Francesco, Lippo di Dalmasio e altri. I toscani Cimabue e Giotto hanno inoltre lasciato poche ma importanti testimonianze in città."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.410431,
+                    41.154201
+                ]
+            },
+            "properties": {
+                "entity": "Parco della Montagnola",
+                "name_location": "Parco della Montagnola, Corato, Bari, Puglia, Italia",
+                "category": "leisure",
+                "type": "park",
+                "importance": 0.45000000000000007,
+                "snippet": [
+                    "L'altra fontana cittadina degna di nota è la cosiddetta Fontana Vecchia, addossata al palazzo Comunale (oggi Sala Borsa) in via Ugo Bassi, opera dello stesso Tommaso Laureti che progettò la più famosa fontana del Nettuno nel XVI secolo. All'interno del Parco della Montagnola è situata la fontana costruita in occasione dell'Esposizione emiliana del 1888, con sculture che raffigurano animali, ad opera di Diego Sarti.  Architetture militari Mura In epoca storica Bologna ebbe almeno tre cerchie di mura:"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.188454,
+                    39.294929
+                ]
+            },
+            "properties": {
+                "entity": "Regno di Sardegna",
+                "name_location": "JW.ORG, Via Antonio Pacinotti, Sètimu/Settimo San Pietro, Cagliari, Sardigna/Sardegna, 09060, Italia",
+                "category": "amenity",
+                "type": "place_of_worship",
+                "importance": 0.201,
+                "snippet": [
+                    "Tuttavia, dopo il Congresso di Vienna (1815) la città ritornò allo Stato Pontificio. Vi si stabilirono gli austriaci, per essere poi annessa, con il plebiscito dell'11-12 marzo 1860, al Regno di Sardegna che diventerà Regno d'Italia esattamente dodici mesi dopo.  Seconda guerra mondiale La città di Bologna fu esposta a numerose azioni di bombardamento durante la seconda guerra mondiale."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.593128,
+                    40.674788
+                ]
+            },
+            "properties": {
+                "entity": "Musiclub",
+                "name_location": "MusiClub, 7, Largo Alcide De Gasperi, Rione Spine Bianche, Matera, Basilicata, 75100, Italia",
+                "category": "amenity",
+                "type": "music_school",
+                "importance": 0.101,
+                "snippet": [
+                    "Il 17 settembre 2011 è stata inaugurata a Bologna la Strada del jazz, costituita da via Caprarie e via degli Orefici, con una manifestazione pubblica che ha ospitato numerosi concerti. La prima stella dei miti del jazz è dedicata a Chet Baker ed è posta sul marciapiede di fronte al portone dove un tempo sorgeva il Musiclub di Alberto Alberti.  Punk e New wave Alla fine degli anni settanta, ed in particolare nel contesto del Movimento del '77 e delle prime esperienze di radio libere come radio Alice, Bologna divenne un luogo chiave del punk rock e della new wave in Italia."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.610166,
+                    40.663035
+                ]
+            },
+            "properties": {
+                "entity": "Museo d'arte moderna di",
+                "name_location": "Museo Nazionale d'arte medievale e moderna della Basilicata, 1, Piazzetta Pascoli, Rione Pini, Rione Spine Bianche, Murgecchia, Matera, Basilicata, 75100, Italia",
+                "category": "tourism",
+                "type": "museum",
+                "importance": 0.7780150946188139,
+                "snippet": [
+                    "Musei  Bologna possiede oltre quaranta musei nei quali, accanto alle collezioni permanenti, sono organizzate mostre temporanee.  I musei civici più importanti sono: le Collezioni comunali d'arte, il Museo civico archeologico, il Museo civico medievale, il Museo Morandi, il Museo civico d'arte industriale Davia Bargellini, il Museo del patrimonio industriale di Bologna, il MAMbo (Museo d'arte moderna di Bologna) e il Museo internazionale e biblioteca della musica. La Pinacoteca Nazionale di Bologna, nata nel 1802 in seno all'Accademia di Belle Arti, è un museo statale dotato di autonomia gestionale."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.762245,
+                    43.625082
+                ]
+            },
+            "properties": {
+                "entity": "Reclus di Montpellier",
+                "name_location": "Chemin de Reclus, Saint-Georges-d'Orques, Montpellier, Hérault, Occitanie, France métropolitaine, 34680, France",
+                "category": "highway",
+                "type": "track",
+                "importance": 0.31,
+                "snippet": [
+                    "La città e la sua area metropolitana, parametrate anche su scala economica, culturale, commerciale, industriale, congressuale, fieristica, finanziaria e sociale, rivestono quindi un'importanza, in ambito nazionale ed europeo, assai superiore a quanto espresso dal semplice parametro demografico (men che meno a quello della popolazione ufficialmente residente nel ristretto ambito comunale). La conferma di questo arriva da uno studio condotto nel 1989 dal gruppo Reclus di Montpellier e commissionato della DATAR (Délégation à l'Amenagement du Territoire et à l'Action Régionale), nel quale si formula una classificazione per grado d'importanza delle città con più di duecentomila abitanti di quattordici Stati dell'Europa Occidentale e mediterranea: Bologna, con Firenze e Venezia, si situava in posizione più avanzata di città più popolose, quali Dublino, Leeds, Liverpool, Lilla, Norimberga, Essen, Dortmund, Brema, Hannover, Saragozza, Malaga, Bilbao, Salonicco, Palermo, ecc."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.972262,
+                    50.670973
+                ]
+            },
+            "properties": {
+                "entity": "Cesab",
+                "name_location": "Herolder Fördertechnik, 47, Annaberger Straße, Herold, Thum, Erzgebirgskreis, Sachsen, 09419, Deutschland",
+                "category": "building",
+                "type": "commercial",
+                "importance": 0.001,
+                "snippet": [
+                    "Nel settore del packaging, sviluppatosi a partire dagli anni '20, spiccano il gruppo Coesia (G.D - A.C.M.A. Volpak - Cima - Sasib), e, nel territorio metropolitano, l'IMA (a Ozzano) e la Marchesini Group (a Pianoro). In ambito metalmeccanico vi si trova la Cesab, mentre nella zona metropolitana hanno sede la Malossi e la Minarelli (entrambe a Calderara di Reno), la Marzocchi e la Viro (a Zola Predosa), la Paioli (a Sant’Agata Bolognese). Nel più ampio settore delle produzioni industriali vi è il Gruppo Industriale Maccaferri."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.719651,
+                    38.16922
+                ]
+            },
+            "properties": {
+                "entity": "parco giochi",
+                "name_location": "Parco Giochi, San Vito Lo Capo, Trapani, Sicilia, 91010, Italia",
+                "category": "natural",
+                "type": "cliff",
+                "importance": 0.39999999999999997,
+                "snippet": [
+                    "Manfredo Fanti, ministro della guerra del Regno di Sardegna a cui Bologna, con tutta la legazione delle Romagne, era appena stata annessa. Ne rimangono esempi esigui, talvolta solo nella toponomastica, come ad esempio il caso dell'area occupata dallo spazio pubblico adibito a parco giochi, oggi noto come giardino della Lunetta Gamberini.  Aree naturali Giardini Margherita Il principale parco pubblico di Bologna venne inaugurato nel 1879, grande circa 26 ettari, contiene un lago artificiale e varie specie faunistiche e floreali."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.394657,
+                    44.800953
+                ]
+            },
+            "properties": {
+                "entity": "Settanta",
+                "name_location": "Caffe Settanta, Јурија Гагарина, Савски кеј, Београд (Нови Београд), Градска општина Нови Београд, Београд, Град Београд, Централна Србија, 11000, Србија",
+                "category": "amenity",
+                "type": "restaurant",
+                "importance": 0.101,
+                "snippet": [
+                    "Il giardino attuale, inaugurato nel 1975 su progetto dell'architetto Gennaro Filippini, risulta rialzato rispetto al livello stradale e si estende su una superficie di circa tremila metri quadri, di cui gran parte ricoperti di calcestruzzo. Giardino della Lunetta Gamberini Nel quartiere Santo Stefano, è un parco di 14,5 ettari inaugurato negli anni Settanta. Orto botanico È il giardino botanico dell'Università di Bologna, fondato nel 1568 da Ulisse Aldrovandi e considerato uno dei più antichi d'Europa.",
+                    "Società Evoluzione demografica Bologna, anche per via della sua collocazione geografica, è da sempre un crocevia di correnti migratorie. In tempi moderni, un'esplosione demografica si è registrata a cavallo fra la fine dell'Ottocento e i primi anni Settanta, passando da circa 100 000 a quasi 500 000 abitanti. Il massiccio aumento demografico è stato in larga parte dovuto all'immigrazione, dapprima da parte delle aree rurali e montane circostanti, e poi - soprattutto nel secondo dopoguerra - da altre zone d'Italia, in particolare dal Mezzogiorno."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.167659,
+                    40.345912
+                ]
+            },
+            "properties": {
+                "entity": "Manifattura Tabacchi",
+                "name_location": "Manifattura Tabacchi, Via di Ussano, Lecce, Puglia, 73100, Italia",
+                "category": "man_made",
+                "type": "works",
+                "importance": 0.201,
+                "snippet": [
+                    "Nel 1988 a Bologna si è tenuta la Biennale dei giovani artisti dell'Europa e del Mediterraneo, considerata la più importante vetrina mediterranea della creatività giovanile. Molte istituzioni culturali e universitarie hanno sede alla Manifattura delle Arti, un'area recuperata negli spazi dell'ex Manifattura Tabacchi e dell'ex macello.  Istruzione Università L'Università di Bologna è considerata la più antica università del mondo occidentale."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.105898,
+                    39.073433
+                ]
+            },
+            "properties": {
+                "entity": "Pierpaolo",
+                "name_location": "Via Pierpaolo Pasolini, 48 alloggi, Vescovatello, Crotone, Calabria, 88900, Italia",
+                "category": "highway",
+                "type": "residential",
+                "importance": 0.19999999999999998,
+                "snippet": [
+                    "In epoca moderna e contemporanea, Bologna ha dato i natali a Luigi Serra, Giorgio Morandi (a cui è dedicato l'omonimo museo), Mario Bonazzi, Ilario Rossi, Aldo Borgonzoni, Carlo Gajani, Sergio Romiti, Vasco Bendini, Pirro Cuniberti, Sergio Vacchi, Vittorio Mascalchi, Valerio Adami, Pier Paolo Calzolari e Piero Manai, mentre vi operarono e operano artisti quali Giovanni Romagnoli, Germano Sartelli, Concetto Pozzati, Luciano De Vita e molti altri. In ambito scultoreo, operarono a Bologna artisti come Arnolfo di Cambio, Nicola Pisano, Pierpaolo dalle Masegne, Niccolò dell'Arca, Jacopo della Quercia, Michelangelo, Giambologna, Alfonso Lombardi, Properzia de' Rossi e, più recentemente, Umberto Mastroianni, Quinto Ghermandi, Roberto Tirelli, Mario Ceroli, Nicola Zamboni e Luigi Mainolfi. Dal 1974 si tiene presso la Fiera di Bologna annualmente nel mese di gennaio Arte Fiera, una fiera d'arte moderna e contemporanea."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.098007,
+                    38.539061
+                ]
+            },
+            "properties": {
+                "entity": "Discesa",
+                "name_location": "Discesa, Serrata, Reggio di Calabria, Calabria, 89833, Italia",
+                "category": "highway",
+                "type": "track",
+                "importance": 0.21,
+                "snippet": [
+                    "fiera del cioccolato. Altri eventi Discesa della Madonna di San Luca (si svolge a maggio): ogni anno si celebra l'antica tradizione della \"discesa della Madonna di San Luca\", che avviene il 12 maggio tramite una processione dal Santuario della Madonna di San Luca fino al centro della città."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.608017,
+                    38.260447
+                ]
+            },
+            "properties": {
+                "entity": "Etruschi",
+                "name_location": "Via degli Etruschi, Ganzirri, VI Circoscrizione, Sperone, Messina, Sicilia, 98166, Italia",
+                "category": "highway",
+                "type": "residential",
+                "importance": 0.19999999999999998,
+                "snippet": [
+                    "È nota per le sue torri, i suoi lunghi portici e un ben conservato centro storico, fra i più estesi d'Italia. La città, i cui primi insediamenti risalirebbero almeno al I millennio a.C., fu un importante centro urbano dapprima sotto gli Etruschi e i Celti, poi sotto i Romani e, nel Medioevo, come libero comune. Capitale settentrionale dello Stato Pontificio a partire dal Cinquecento, ebbe un ruolo molto importante durante il Risorgimento e, durante la seconda guerra mondiale, fu uno dei fulcri della Resistenza.",
+                    "Nel VII-VI secolo a.C. abbiamo testimonianze di un'apertura ai modelli culturali e artistici dell'Etruria tirrenica, durante la quale la città fu chiamata Felsina (in etrusco Felzna o Felsna). Successivamente (V-IV secolo a.C.), con la discesa dei Galli nella penisola, gli Etruschi persero il controllo dell'area. Il dominio gallico sulla zona durò fino al 196 a.C., anno in cui i Galli Boi furono soggiogati dai Romani."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.586226,
+                    37.309612
+                ]
+            },
+            "properties": {
+                "entity": "Biblioteca Comunale",
+                "name_location": "Biblioteca comunale (ex archivio notarile), 3, Piazzale Aldo Moro, Ragazzi del '99, Quadrivio Spinasanta, Agrigento, Sicilia, 92100, Italia",
+                "category": "amenity",
+                "type": "library",
+                "importance": 0.29919352018435585,
+                "snippet": [
+                    "Citiamo il complesso araldico murale (che si compone di più di 6 000 stemmi studenteschi), e il teatro anatomico (che risale al 1637, sala dedicata allo studio dell'anatomia a forma di anfiteatro, costruita in legno d'abete, soffitto a cassettoni, e decorata con statue di illustri medici del passato e di modelli anatomici dell'artista Lelli). Dal 1838 è sede della Biblioteca Comunale. Per quanto riguarda le ville, in alcuni casi si tratta di antichi conventi o luoghi di culto che, in età napoleonica, vennero venduti a privati e in qualche occasione trasformati appunto in ville."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.160808,
+                    37.559567
+                ]
+            },
+            "properties": {
+                "entity": "Città del Mondo",
+                "name_location": "Piazza Bambini del Mondo, Aci Trezza, Aci Castello, Catania, Sicilia, 95021, Italia",
+                "category": "place",
+                "type": "square",
+                "importance": 0.325,
+                "snippet": [
+                    "Bologna, con Firenze e Venezia, si situava in posizione più avanzata di città più popolose, quali Dublino, Leeds, Liverpool, Lilla, Norimberga, Essen, Dortmund, Brema, Hannover, Saragozza, Malaga, Bilbao, Salonicco, Palermo, ecc. Nonostante l'esigua popolazione comunale Bologna è stata anche inserita, dal gruppo di studio GaWC, tra le cento città globali (o Città del Mondo), in virtù della sua importanza culturale ed economica (invero in categoria D, cioè città globali in formazione, con bassa evidenza).  Suddivisioni amministrative Il comune è suddiviso amministrativamente in sei circoscrizioni di decentramento, a cui lo statuto attribuisce il nome di \"quartieri\":"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.083492,
+                    37.51548
+                ]
+            },
+            "properties": {
+                "entity": "Orto botanico È",
+                "name_location": "Orto Botanico, Borgo, Borgo-Sanzio, Catania, Sicilia, Italia",
+                "category": "leisure",
+                "type": "park",
+                "importance": 0.5539550660685244,
+                "snippet": [
+                    "Giardino della Lunetta Gamberini Nel quartiere Santo Stefano, è un parco di 14,5 ettari inaugurato negli anni Settanta. Orto botanico È il giardino botanico dell'Università di Bologna, fondato nel 1568 da Ulisse Aldrovandi e considerato uno dei più antichi d'Europa. Parco Carlo Urbani Il parco fluviale del Savena che si trova fra Bologna e San Lazzaro di Savena, ospita numerose specie animali e una ricca varietà di flora."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.353725,
+                    48.848506
+                ]
+            },
+            "properties": {
+                "entity": "Ottanta",
+                "name_location": "Ottanta, Rue du Cardinal Lemoine, Quartier Saint-Victor, Paris 5e Arrondissement, Paris, Île-de-France, France métropolitaine, 75005, France",
+                "category": "craft",
+                "type": "caterer",
+                "importance": 0.11100000000000002,
+                "snippet": [
+                    "Il massiccio aumento demografico è stato in larga parte dovuto all'immigrazione, dapprima da parte delle aree rurali e montane circostanti, e poi - soprattutto nel secondo dopoguerra - da altre zone d'Italia, in particolare dal Mezzogiorno. Il rapido aumento della popolazione immigrata ha influito enormemente sulle trasformazioni demografiche cittadine, arrivando a superare ampiamente in numero la popolazione nativa (già negli anni Ottanta, 2 residenti su 3 erano immigrati da altre parti d'Italia). L'esplosione demografica è stata anche la principale causa dell’intensa urbanizzazione delle periferie, verificatasi nella prima metà del '900 e proseguita negli anni '60 e '70.",
+                    "L'esplosione demografica è stata anche la principale causa dell’intensa urbanizzazione delle periferie, verificatasi nella prima metà del '900 e proseguita negli anni '60 e '70. Dopo una diminuzione di residenti avvenuta negli anni Ottanta - in genere a beneficio dei comuni della cosiddetta area metropolitana, alcuni dei quali hanno anche raddoppiato la loro popolazione - dalla fine degli anni Novanta si è assistito a una ripresa dei flussi migratori, questa volta con l'inclusione di flussi dall'estero. Questo, assieme a una ripresa delle nascite, ha fatto sì che nei primi anni duemila il saldo demografico tornasse positivo.",
+                    "Come già notava Dante Alighieri nel suo De Vulgari Eloquentia, esistevano un tempo differenze di parlata persino fra gli abitanti del centro, ovvero fra il borgo San Felice (corrispondente alla zona del Pratello) e quelli di Strada Maggiore (zona dove nell’VIII secolo si erano insediati i Longobardi).A partire dagli anni 1960 e 1970, con la modernizzazione della società e la progressiva messa in minoranza della popolazione nativa a causa dell'aumento dell'immigrazione da altre regioni italiane, l'uso del dialetto è andato via via scomparendo, sopravvivendo quasi esclusivamente nelle sue versioni ariose nei comuni della provincia. Un rinnovato interesse si ebbe negli anni Ottanta, con l'organizzazione, supportata dal Comune e da artisti quali Andrea Mingardi, di festival della canzone bolognese. Nonostante ciò non abbia invertito la tendenza verso una marginalizzazione del dialetto bolognese, ne è aumentato l'interesse - soprattutto accademico - con la pubblicazione di dizionari, grammatiche, studi e l'istituzione di corsi di dialetto bolognese da parte di associazioni locali."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.28949,
+                    37.069144
+                ]
+            },
+            "properties": {
+                "entity": "Bisanzio",
+                "name_location": "Condominio Bisanzio, Borgata Santa Lucia, Siracusa, Sicilia, Italia",
+                "category": "place",
+                "type": "city_block",
+                "importance": 0.225,
+                "snippet": [
+                    "Nel 189 a.C. questi ultimi fondarono sul sito una colonia di diritto latino a cui diedero il nome di Bononia.  Storia medievale Dopo la caduta dell'Impero, fu soggetta a Odoacre, a Teodorico il Grande (493-526), a Bisanzio e infine, nel 727, ai Longobardi, per i quali costituì principalmente un centro militare. Nel 774 la città capitolò davanti a Carlo Magno, che la consegnò al papa Adriano I."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.270289,
+                    37.061286
+                ]
+            },
+            "properties": {
+                "entity": "Mobilità",
+                "name_location": "Comune di Siracusa - Settore mobilità e trasporti, Via Elorina, Siracusa, Sicilia, Italia",
+                "category": "building",
+                "type": "public",
+                "importance": 0.101,
+                "snippet": [
+                    "L'aeroporto è collegato alla stazione di Bologna Centrale tramite il Marconi Express, un people mover sopraelevato.  Mobilità urbana  I trasporti pubblici urbani sono gestiti da TPER, che offre un servizio di autobus e filobus, con linee urbane, suburbane e interurbane. Sono presenti alcune linee notturne che percorrono la città a orario cadenzato durante tutta la notte e altre, denominate Night Bus, e attive nei fine settimana, che alla sera collegano alcuni paesi della provincia con il capoluogo."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.295025,
+                    37.058871
+                ]
+            },
+            "properties": {
+                "entity": "Teatro Comunale",
+                "name_location": "Teatro Comunale, Vicolo Sant'Anna, Ortigia, Siracusa, Sicilia, Italia",
+                "category": "amenity",
+                "type": "theatre",
+                "importance": 0.5277684953714004,
+                "snippet": [
+                    "Alcuni furono costruiti altri, già presenti, solo ammodernati. I Bentivoglio precedentemente furono tra le prime famiglie a costruirsi un loro palazzo che però fu distrutto e le macerie si trovano ai Giardini del Guasto dei Bentivoglio, dietro il Teatro Comunale. L'Archiginnasio di Bologna è uno dei palazzi più significativi della città:",
+                    "In concreto, gli spettacoli in cartellone nei vari teatri aderenti al progetto vengono pubblicizzati settimanalmente attraverso una locandina unica. I principali teatri di Bologna sono l'Arena del Sole e il Teatro Comunale.  Cinema A Bologna"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.295025,
+                    37.058871
+                ]
+            },
+            "properties": {
+                "entity": "Teatro Comunale di",
+                "name_location": "Teatro Comunale, Vicolo Sant'Anna, Ortigia, Siracusa, Sicilia, Italia",
+                "category": "amenity",
+                "type": "theatre",
+                "importance": 0.5277684953714004,
+                "snippet": [
+                    " Musica Nel 2006 Bologna ha ottenuto il riconoscimento UNESCO di \"città creativa per la musica\".  Musica classica A Bologna sono presenti il Museo Internazionale e Biblioteca della Musica, il Conservatorio Giovanni Battista Martini, l'Accademia Filarmonica di Bologna e il Teatro Comunale di Bologna, sede dell'autorevole Orchestra della Fondazione Teatro Comunale di Bologna, attiva dal dopoguerra. Dal 1905 è attiva la casa musicale Bongiovanni, una delle più importanti nel campo dell'editoria e della discografia di musica classica."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.760533,
+                    36.860051
+                ]
+            },
+            "properties": {
+                "entity": "Accursio",
+                "name_location": "Accursio, Via Clemente Grimaldi, Dente, Modica Alta, Modica, Ragusa, Sicilia, Italia",
+                "category": "amenity",
+                "type": "restaurant",
+                "importance": 0.11100000000000002,
+                "snippet": [
+                    "Al 1088 è convenzionalmente fatta risalire la fondazione di quella che è riconosciuta come la prima università del mondo occidentale (lo Studium). Tra i primi maestri vi furono i giuristi Pepone, Accursio e Irnerio, che resero famosa in tutta Europa la scuola di giurisprudenza bolognese. Il comune partecipò alla lotta contro il Barbarossa, conclusasi con la pace di Costanza nel 1183, dopo la quale conobbe una forte espansione, anche edilizia (periodo delle case-torri):",
+                    "fu citata più volte da Dante Alighieri, nella Divina Commedia (Inferno, XXXI, 136-140) e nelle Rime, a riprova del suo soggiorno a Bologna.  Palazzi storici e ville Affacciati su piazza Maggiore sorgono il Palazzo Comunale (o d'Accursio) (XIII-XV secolo) e il Palazzo del Podestà (ampiamente rimaneggiato nel 1485), accanto al duecentesco Palazzo Re Enzo (il cui aspetto attuale si deve al restauro neogotico di Alfonso Rubbiani del 1905). La maggior parte dei palazzi di Bologna risale principalmente all'epoca in cui la città era inglobata nello Stato della Chiesa tra il XVI e il XVIII secolo e appartenevano alle famiglie senatorie che governavano Bologna a quei tempi."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.435617,
+                    52.482485
+                ]
+            },
+            "properties": {
+                "entity": "Bolognina",
+                "name_location": "La Bolognina, 107, Donaustraße, Donaukiez, Neukölln, Berlin, 12043, Deutschland",
+                "category": "amenity",
+                "type": "restaurant",
+                "importance": 0.101,
+                "snippet": [
+                    "Etnie e minoranze straniere Secondo i dati ISTAT, al 31 dicembre 2020 i cittadini stranieri a Bologna risultavano 62 422 (15,9% tra tutti i residenti).Le prime dieci comunità sono quelle provenienti da:  Romania, 9 726 Bangladesh, 4 990 Filippine, 4 966 Cina, 4 547 Pakistan, 4 368 Ucraina, 3 815 Marocco, 3 439 Moldavia, 3 381 Albania, 2 657 Sri Lanka, 1 297A Bologna è nata una delle prime chinatown italiane, con i primi insediamenti di cittadini cinesi risalenti agli anni trenta, ampliatisi negli anni cinquanta e ottanta. L'area dove si concentrarono fin dall'inizio le comunità cinesi comprende le zone della Bolognina e di Corticella (soprattutto attorno a via Ferrarese). La Bolognina ed il Pilastro sono statisticamente i quartieri ove si concentra maggiormente la popolazione straniera di Bologna.",
+                    "L'area dove si concentrarono fin dall'inizio le comunità cinesi comprende le zone della Bolognina e di Corticella (soprattutto attorno a via Ferrarese). La Bolognina ed il Pilastro sono statisticamente i quartieri ove si concentra maggiormente la popolazione straniera di Bologna.  Lingue e dialetti In ambito cittadino, la parlata vernacolare tipica è il dialetto bolognese, varietà linguistica della lingua emiliana.",
+                    "Al centro del Fiera District fu progettata una zona pedonale, piazza della Costituzione, la cui costruzione fu affidata a Isamu Noguchi. Fra gli ultimi esempi di architettura contemporanea e interventi urbanistici (spesso oggetto di accese discussioni) troviamo la Porta Europa dell'architetto Ettore Masi in via Stalingrado, il complesso del nuovo palazzo comunale nella zona della Bolognina (Palazzo Bonaccorso e piazza Liber Paradisus) e la Torre Unipol, un grattacielo alto 127 metri sito nella periferia est della città.  Economia Bologna ospita un'importante rete di industrie meccaniche, elettroniche e alimentari e un gran numero di imprese di artigianato."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.604661,
+                    51.568476
+                ]
+            },
+            "properties": {
+                "entity": "Etnie",
+                "name_location": "Etten-Leur gemeentelijk industrieterrein, Oude Kerkstraat, Vosdonk, Etten-Leur, Noord-Brabant, Nederland, 4878AG, Nederland",
+                "category": "railway",
+                "type": "crossover",
+                "importance": 0.001,
+                "snippet": [
+                    "In costante diminuzione la popolazione residente dalla nascita (33%) mentre l'immigrazione dall'estero, anch'essa in aumento, si attesta all'11%.L'età media, in leggero ribasso dal 2008, si attesta sui 46,8 anni (2021). Etnie e minoranze straniere Secondo i dati ISTAT, al 31 dicembre 2020 i cittadini stranieri a Bologna risultavano 62 422 (15,9% tra tutti i residenti).Le prime dieci comunità sono quelle provenienti da:  Romania, 9 726 Bangladesh, 4 990 Filippine, 4 966 Cina, 4 547 Pakistan, 4 368 Ucraina, 3 815 Marocco, 3 439 Moldavia, 3 381 Albania, 2 657 Sri Lanka, 1 297A Bologna è nata una delle prime chinatown italiane, con i primi insediamenti di cittadini cinesi risalenti agli anni trenta, ampliatisi negli anni cinquanta e ottanta. L'area dove si concentrarono fin dall'inizio le comunità cinesi comprende le zone della Bolognina e di Corticella (soprattutto attorno a via Ferrarese)."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.442333,
+                    51.664824
+                ]
+            },
+            "properties": {
+                "entity": "Dortmund",
+                "name_location": "Dortmund, Stadsedijk, Stadse Dijk, Oudemolen, Moerdijk, Noord-Brabant, Nederland, 4796, Nederland",
+                "category": "highway",
+                "type": "bus_stop",
+                "importance": 0.11100000000000002,
+                "snippet": [
+                    "La conferma di questo arriva da uno studio condotto nel 1989 dal gruppo Reclus di Montpellier e commissionato della DATAR (Délégation à l'Amenagement du Territoire et à l'Action Régionale), nel quale si formula una classificazione per grado d'importanza delle città con più di duecentomila abitanti di quattordici Stati dell'Europa Occidentale e mediterranea: Bologna, con Firenze e Venezia, si situava in posizione più avanzata di città più popolose, quali Dublino, Leeds, Liverpool, Lilla, Norimberga, Essen, Dortmund, Brema, Hannover, Saragozza, Malaga, Bilbao, Salonicco, Palermo, ecc. Nonostante l'esigua popolazione comunale Bologna è stata anche inserita, dal gruppo di studio GaWC, tra le cento città globali (o Città del Mondo), in virtù della sua importanza culturale ed economica (invero in categoria D, cioè città globali in formazione, con bassa evidenza)."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.589133,
+                    46.770665
+                ]
+            },
+            "properties": {
+                "entity": "Ungheria",
+                "name_location": "Consulatul Ungariei, 23, Piața Unirii, Centru, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400113, România",
+                "category": "office",
+                "type": "diplomatic",
+                "importance": 0.001,
+                "snippet": [
+                    "Vi si trovano inoltre i seguenti consoli onorari: Austria, Bulgaria, Costa Rica, Francia, Grecia, Malta, Messico, Monaco, Montenegro, Norvegia, Paesi Bassi, Polonia, Portogallo, Regno Unito, Russia, San Marino, Spagna, Sudafrica, Svezia, Svizzera, Ungheria, Uruguay. Gemellaggi Bologna è gemellata con tredici città estere e tre comuni italiani:"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.935272,
+                    40.640317
+                ]
+            },
+            "properties": {
+                "entity": "Salonicco",
+                "name_location": "Θεσσαλονίκη, Δημοτική Ενότητα Θεσαλονίκης, Δήμος Θεσσαλονίκης, Περιφερειακή Ενότητα Θεσσαλονίκης, Περιφέρεια Κεντρικής Μακεδονίας, Αποκεντρωμένη Διοίκηση Μακεδονίας - Θράκης, 54626, Ελλάς",
+                "category": "place",
+                "type": "city",
+                "importance": 0.6405239688769828,
+                "snippet": [
+                    "La conferma di questo arriva da uno studio condotto nel 1989 dal gruppo Reclus di Montpellier e commissionato della DATAR (Délégation à l'Amenagement du Territoire et à l'Action Régionale), nel quale si formula una classificazione per grado d'importanza delle città con più di duecentomila abitanti di quattordici Stati dell'Europa Occidentale e mediterranea: Bologna, con Firenze e Venezia, si situava in posizione più avanzata di città più popolose, quali Dublino, Leeds, Liverpool, Lilla, Norimberga, Essen, Dortmund, Brema, Hannover, Saragozza, Malaga, Bilbao, Salonicco, Palermo, ecc. Nonostante l'esigua popolazione comunale Bologna è stata anche inserita, dal gruppo di studio GaWC, tra le cento città globali (o Città del Mondo), in virtù della sua importanza culturale ed economica (invero in categoria D, cioè città globali in formazione, con bassa evidenza)."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.290198,
+                    47.715544
+                ]
+            },
+            "properties": {
+                "entity": "Treno",
+                "name_location": "Treno, Saint-Gravé, Vannes, Morbihan, Bretagne, France métropolitaine, 56220, France",
+                "category": "landuse",
+                "type": "residential",
+                "importance": 0.30999999999999994,
+                "snippet": [
+                    "L'espansione demografica dovuta alla forte immigrazione dalla provincia e dalle regioni del sud Italia ha portato, soprattutto negli anni sessanta e settanta del Novecento, a un’intensa urbanizzazione delle aree un tempo rurali all'esterno delle mura cittadine. Nacquero così popolosi quartieri periferici come la Barca (1962), il Pilastro (1966) o il Fossolo (1968), e si realizzarono grandi progetti di edilizia popolare, come ad esempio il grattacielo di San Vitale (1958-60), l'insediamento \"Levante Emilia\" in via Napoli (1961), il Treno (1957-62) e lo Steccone (1968) alla Barca, il Virgolone (1976) al Pilastro. In un'area destinata allo sviluppo della città, fra via Stalingrado e il quartiere San Donato, nel 1967 l'amministrazione comunale commissionò al noto architetto giapponese Kenzō Tange la progettazione del Centro direzionale nell'area della fiera, la cui costruzione iniziò nel 1975."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.533482,
+                    43.128771
+                ]
+            },
+            "properties": {
+                "entity": "Angiò",
+                "name_location": "Angio, Elorrio, Bizkaia, Euskadi, 48230, España",
+                "category": "place",
+                "type": "hamlet",
+                "importance": 0.25,
+                "snippet": [
+                    "Nel 2021 viene eletto sindaco l'esponente del Partito Democratico Matteo Lepore.  Simboli  Lo Stemma di Bologna è costituito da uno scudo ovato diviso in quattro parti, due contenenti una croce rossa su sfondo bianco sovrastata da un capo d'Angiò e le altre due la scritta color oro LIBERTAS su sfondo azzurro, il tutto sovrastato da una testa di leone posta di fronte. La bandiera cittadina è una croce rossa in campo bianco, derivata dall'arma del comune, cioè dal primo e quarto quadrante dello stemma cittadino."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.793895,
+                    50.834886
+                ]
+            },
+            "properties": {
+                "entity": "via Ravenna",
+                "name_location": "Via Ravenna, Chichester, Apuldram, Chichester, West Sussex, South East England, England, PO19 3HB, United Kingdom",
+                "category": "highway",
+                "type": "primary",
+                "importance": 0.3,
+                "snippet": [
+                    "l'ex Strada statale 65 della Futa che la collega con Firenze e la Strada statale 64 Porrettana che proviene da Pistoia e prosegue per Ferrara.  Ferrovie  Bologna costituisce un nodo ferroviario di rilevanza nazionale, attraverso il quale si stima che transiti oltre l'85% del traffico nazionale fra Nord e Sud, escludendo i traffici via La Spezia (per Milano e la Francia) e quelli via Ravenna - Ferrara e via Ferrara - Suzzara - Parma. Le ferrovie offrono, oltre al servizio di collegamento regionale, nazionale e internazionale, anche servizi a livello metropolitano."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.075344,
+                    51.519924
+                ]
+            },
+            "properties": {
+                "entity": "Sud Italia",
+                "name_location": "Sud Italia, 16, Lamb Street, Spitalfields, Whitechapel, London, Greater London, England, E1 6EW, United Kingdom",
+                "category": "amenity",
+                "type": "restaurant",
+                "importance": 0.201,
+                "snippet": [
+                    " la Bologna-Porretta Terme-Pistoia (detta \"Porrettana\"), realizzata nel 1864. Fino alla costruzione nel 1934 della \"Direttissima\", era la linea principale di collegamento fra Nord e Sud Italia; la Bologna–Portomaggiore; la Bologna-Casalecchio-Vignola, che condivide l'infrastruttura della Bologna-Porretta da Bologna fino a Casalecchio."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.00982,
+                    47.789981
+                ]
+            },
+            "properties": {
+                "entity": "Pratello",
+                "name_location": "Pratello, Pluvigner, Lorient, Morbihan, Bretagne, France métropolitaine, 56330, France",
+                "category": "place",
+                "type": "isolated_dwelling",
+                "importance": 0.30999999999999994,
+                "snippet": [
+                    "Esso si distingue in dialetto bolognese cittadino (originario della zona intramuraria) e varianti cosiddette \"ariose\" della provincia. Come già notava Dante Alighieri nel suo De Vulgari Eloquentia, esistevano un tempo differenze di parlata persino fra gli abitanti del centro, ovvero fra il borgo San Felice (corrispondente alla zona del Pratello) e quelli di Strada Maggiore (zona dove nell’VIII secolo si erano insediati i Longobardi).A partire dagli anni 1960 e 1970, con la modernizzazione della società e la progressiva messa in minoranza della popolazione nativa a causa dell'aumento dell'immigrazione da altre regioni italiane, l'uso del dialetto è andato via via scomparendo, sopravvivendo quasi esclusivamente nelle sue versioni ariose nei comuni della provincia. Un rinnovato interesse si ebbe negli anni Ottanta, con l'organizzazione, supportata dal Comune e da artisti quali Andrea Mingardi, di festival della canzone bolognese."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.649045,
+                    54.350599
+                ]
+            },
+            "properties": {
+                "entity": "Accademia di Belle Arti",
+                "name_location": "Akademia Sztuk Pięknych, 6, Targ Węglowy, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-836, Polska",
+                "category": "amenity",
+                "type": "university",
+                "importance": 0.001,
+                "snippet": [
+                    " I musei civici più importanti sono: le Collezioni comunali d'arte, il Museo civico archeologico, il Museo civico medievale, il Museo Morandi, il Museo civico d'arte industriale Davia Bargellini, il Museo del patrimonio industriale di Bologna, il MAMbo (Museo d'arte moderna di Bologna) e il Museo internazionale e biblioteca della musica. La Pinacoteca Nazionale di Bologna, nata nel 1802 in seno all'Accademia di Belle Arti, è un museo statale dotato di autonomia gestionale. Ad essi si aggiungono i musei religiosi e quelli di fondazioni private come il Museo della Storia di Bologna e il MAST."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.162659,
+                    52.399683
+                ]
+            },
+            "properties": {
+                "entity": "A14",
+                "name_location": "A14, Lilbourne, West Northamptonshire, East Midlands, England, LE17 6BX, United Kingdom",
+                "category": "highway",
+                "type": "trunk",
+                "importance": 0.4649349340745128,
+                "snippet": [
+                    "la A1 \"Autostrada del Sole\" Milano-Firenze-Roma-Napoli; l'asse adriatico A14 Bologna-Ancona-Taranto; la A13 Bologna-Padova.",
+                    "all'inquinamento proprio del traffico di un'area urbana di un milione di abitanti si aggiunge quello di un traffico \"di transito\" che non ha eguali in Italia, specie in rapporto alla grandezza dell'agglomerato. Al fine di decongestionare il traffico e potenziare il raccordo autostradale e della tangenziale, è stata realizzata una terza corsia dinamica sulla A14 e i semafori all'innesto degli svincoli della tangenziale con strade urbane sostituiti con rotatorie. È allo studio, inoltre, la realizzazione del cosiddetto Passante Nord che, staccandosi dalla A14 nella zona di Castel San Pietro Terme, dovrebbe collegarsi alla A1 prima di Castelfranco Emilia, transitando, a nord della città, in modo da allontanare dall'agglomerato urbano il traffico di solo transito.",
+                    "Al fine di decongestionare il traffico e potenziare il raccordo autostradale e della tangenziale, è stata realizzata una terza corsia dinamica sulla A14 e i semafori all'innesto degli svincoli della tangenziale con strade urbane sostituiti con rotatorie. È allo studio, inoltre, la realizzazione del cosiddetto Passante Nord che, staccandosi dalla A14 nella zona di Castel San Pietro Terme, dovrebbe collegarsi alla A1 prima di Castelfranco Emilia, transitando, a nord della città, in modo da allontanare dall'agglomerato urbano il traffico di solo transito. Altre strade importanti che toccano la città sono la Strada statale 9 Via Emilia, che la collega con numerosi capoluoghi dell'Emilia-Romagna, oltre che con Lodi e Milano;"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.666026,
+                    40.965173
+                ]
+            },
+            "properties": {
+                "entity": "Garamond",
+                "name_location": "Garamond, Calle Prior, Centro, Salamanca, Castilla y León, 37002, España",
+                "category": "amenity",
+                "type": "nightclub",
+                "importance": 0.11100000000000002,
+                "snippet": [
+                    "Ai tempi di Aldo Manuzio, il tipografo bolognese Francesco Griffo inventò, proprio per il primo editore italiano, il corsivo (all'estero denominato anche italic). Nel 1958, il tipografo Francesco Simoncini realizzò una variante del carattere Garamond che divenne lo standard per le case editrici italiane, il Simoncini Garamond appunto; ma creò anche il Delia, utilizzato per gli elenchi telefonici."
+                ]
+            }
+        }
+    ]
+}
