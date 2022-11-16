@@ -33,7 +33,7 @@ for city in cities:
     print(context)
 
     # Get entities without duplicates
-    searchable_entities, sentence_dict = get_entities_snippet(doc, cities) # da sentence_dict posso fare analisi
+    searchable_entities, sentence_dict = get_entities_snippet(doc, cities)
 
     print("number of entities: ", len(searchable_entities))
 

@@ -11,6 +11,7 @@ from wikidata.client import Client
 from shapely.geometry import Point, Polygon
 from geopy.geocoders import Nominatim
 from geopy import distance
+import string
 
 import pandas as pd 
 import geopandas as gpd
@@ -77,7 +78,7 @@ def count_occurrences(nlp_text, input_json: list, param_to_search: str):
                     counter[ent.text] += 1
     return counter
 
-def get_entities_snippet(nlp_text, cities: list, searchable_entities = dict()):
+def get_entities_snippet(nlp_text, cities: list, entities_to_search = dict()):
     """Get the entities from the nlp_text which are not cities and print snippet in which
         they appears.
 
@@ -103,28 +104,113 @@ def get_entities_snippet(nlp_text, cities: list, searchable_entities = dict()):
                 after = after.text.strip()
             
             sent = before + " " + sentence.text.strip() + " " + after
-            if ent in searchable_entities and sent not in searchable_entities[ent]:
-                searchable_entities[ent].append(sent)
-            else:     
-                searchable_entities[ent] = [sent]
+            if ent in entities_to_search and sent not in entities_to_search[ent]:
+                entities_to_search[ent].append(sent)
+            elif ent not in entities_to_search:     
+                entities_to_search[ent] = [sent]
 
-    return searchable_entities, sentence_dict
+    entities_to_search = clean_entities_to_search(entities_to_search)
+
+    return entities_to_search, sentence_dict
+
+def clean_entities_to_search(entities_to_search: dict):
+    """Clean the entities to search from the dictionary.
+    
+    Args:
+        entities_to_search: dictionary with the entities to search
+    Returns:
+        entities_to_search: cleaned dictionary with the entities to search
+    """
+
+    keys_to_delete = []
+
+    for key in entities_to_search:
+        if exists_dupe(key, entities_to_search):
+            keys_to_delete.append(key)
+    
+    for key in keys_to_delete:
+        del entities_to_search[key]
+
+    return entities_to_search
 
 
-def clean_entities(nlp_text, cities: list): 
+def exists_dupe(entity: str, entities: dict): 
+    # TODO: l'idea sarebbe quella di vedere se per caso un'entità è stata individuata 
+    # in più situazioni ma in forma leggermente diversa in modo da riunire la stessa definizione 
+    # es. Regio - Teatro Regio  
+    """Check if the entity is contained in another entity in the entities dictionary.
+
+    Args:
+        entity: entity to check
+        entities: dictionary with the entities to search
+    
+    Returns:
+        True if the entity already exists, False otherwise
+    """
+
+    is_dupe = False
+    for key in entities:
+        if entity != key and entity in key:
+            is_dupe = is_dupe or check_context(entity, key, entities)
+
+    return is_dupe
+
+def check_context(entity: str, key: str, entities: dict):
+    """Check if the context of the two entities is the same.
+
+    Args:
+        entity: entity to check
+        key: entity to check
+        entities: dictionary with the entities to search
+    
+    Returns:
+        True if the context is the same, False otherwise
+    """
+
+    context_entity = entities[entity]
+    context_key = entities[key]
+
+    check = True
+    
+    for sent_entity in context_entity:
+        in_context_key = False
+        for sent_key in context_key:
+            in_context_key = in_context_key or (sent_entity == sent_key)
+        
+        check = check and in_context_key
+    
+    return check
+
+def ispunct(ch):
+    return ch in string.punctuation
+
+def clean_entities(sentence, cities: list): 
     """Clean the entities from the nlp_text.
 
     Args:
         nlp_text: spacy text
     Returns:
-        list_entities: list of the entities useful for the search
+        entities: list of the entities useful for the search
     """
     entities = []
-    for ent in nlp_text.ents:
+    for ent in sentence.ents:
         if ent.label_ == "LOC" and ent.text not in cities:
+            if ispunct(ent.text[-1]): # delete punctuation at the end of the entity
+                ent.text = ent.text[:-1]
+
+            words = ent.text.split(" ") # if the entity is composed by more words
+            if len(words) > 1:
+                word_tagged = search_tagged_sentence(words[-1], sentence)
+                if word_tagged.pos_ == "ADP": # delete the last word if it is an adposition
+                    ent.text = ' '.join(words[:-1]) 
             entities.append(ent.text)
+    
     return entities
 
+def search_tagged_sentence(word: str, sentence):
+    for token in sentence:
+        if token.text == word:
+            return token
 
 def search_dict(dict: dict, ent):
     """Search in a dictionary dict the entity ent. 
@@ -182,29 +268,25 @@ def to_geojson(df: pd.DataFrame):
     Returns:
         geojson: geojson file
     """
-    geojson = {
-        "type": "FeatureCollection",
-        "features": []
-    }
+    features = []
     for _, row in df.iterrows():
-        feature = {
-            "type": "Feature",
-            "properties": {
-                "entity": row["entity"],
-                "name_location": row["name_location"],
-                "category": row["category"],
-                "type": row["type"],
-                "importance": row["importance"],
-                "snippet": row["snippet"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [row["longitude"], row["latitude"]]
+        loc_point = row['coordinates']
+        loc_feature = Feature(
+            geometry=loc_point,
+            properties={
+                "entity": row['entity'],
+                "name_location": row['name_location'],
+                "class": row['class'],
+                "type": row['type'],
+                "snippet": row['snippet']
             }
-        }
-        geojson["features"].append(feature)
+        )
+        features.append(loc_feature)
+        
     
-    return geojson
+    #geojson = FeatureCollection(features)
+    
+    return features
 
 def search_entities_geopy(searchable_entities: dict, context: dict, title_page: str, features = list()): 
     locator = Nominatim(user_agent="PoI_geocoding")
@@ -213,21 +295,35 @@ def search_entities_geopy(searchable_entities: dict, context: dict, title_page: 
     for ent in searchable_entities.keys():
         locations.extend([[ent, searchable_entities[ent]]])
 
-    df = pd.DataFrame(locations, columns=['Entity', 'Sentence'])
+    df = pd.DataFrame(locations, columns=['entity', 'snippet'])
     df.head()
-    df['address'] = df['Entity'].apply(geocode)
+    df['address'] = df['entity'].apply(geocode)
 
-    df['coordinates'] = df['address'].apply(lambda loc: tuple(loc.point) if loc else None)
-    df[['latitude', 'longitude', 'altitude']] = pd.DataFrame(df['coordinates'].tolist(), index=df.index)
-    df.latitude.isnull().sum()
-    df = df[pd.notnull(df['latitude'])]
+    #df['raw'] = df['address'].apply(lambda loc: loc.raw if loc else None)
+    df = df[pd.notnull(df['address'])]
+    df['coordinates'] = df['address'].apply(lambda loc: Point((loc.longitude, loc.latitude)) if loc else None)
+    
 
+    #df[['latitude', 'longitude', 'altitude']] = pd.DataFrame(df['coordinates'].tolist(), index=df.index)
+    #df.latitude.isnull().sum()
+    
     df['name_location'] = df['address'].apply(lambda loc: loc.address if loc else None)
 
     df[['class', 'type']] = df['address'].apply(lambda loc: pd.Series([loc.raw['class'], loc.raw['type']]) if loc else None)
 
+    #df['snippet'] = df['Entity'].apply(lambda ent: search_dict(context, ent))
     print(df)
     geojson_entities = to_geojson(df)
+
+    response_file_path = f"response/spacy_pipeline/{title_page}.txt"
+
+    delete_file(response_file_path)
+
+    entities_final = df['entity'].to_list()
+
+    entities_final.sort()
+    for entity in entities_final:
+        print_to_file(response_file_path, entity)
 
     return geojson_entities
 
