@@ -25,8 +25,87 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.685267,
-                    45.070585
+                    7.682489,
+                    45.067755
+                ]
+            },
+            "properties": {
+                "entity": "Città",
+                "name_location": "Torino, Piemonte, Italia",
+                "class": "boundary",
+                "type": "administrative",
+                "snippet": [
+                    "alcuni palazzi e zone facenti parte del circuito di residenze sabaude in Piemonte (patrimonio dell'umanità) e l'area delle colline del Po (riserva della biosfera). Città dalla storia bimillenaria, fu fondata probabilmente nei pressi della posizione attuale, attorno al III secolo a.C., dai Taurini, quindi trasformata in colonia romana da Augusto col nome di Iulia Augusta Taurinorum nel I secolo a. C",
+                    "Dopo il dominio ostrogoto, fu capitale di un importante ducato longobardo, per poi passare, dopo essere divenuta capitale di marca carolingia, sotto la signoria nominale dei Savoia nell'XI secolo. Città dell'omonimo ducato, nel 1563 ne divenne capitale. Dal 1720 fu capitale del Regno di Sardegna (anche se solo de facto fino alla fusione perfetta del 1847, quando lo divenne anche formalmente), Stato che nel XIX secolo avrebbe portato all'unificazione italiana e che fece di Torino la prima capitale del Regno d'Italia (dal 1861 al 1865).",
+                    "Lo stemma della Città di Torino, approvato dallo Stato con decreto dell'11 agosto 1931, è costituito da uno scudo svizzero azzurro a cui è sovrapposto un toro rampante d'oro, con le corna d'argento e con la corona comitale a nove perle. La città di Torino è la quinta tra le ventisette Città decorate di medaglia d'oro come \"benemerite del Risorgimento nazionale\" per le azioni patriottiche che ebbero luogo nella città nel periodo del Risorgimento: Torino figura inoltre tra le Città decorate al valor militare per la guerra di liberazione, insignita della medaglia d'oro al valor militare per i sacrifici delle sue popolazioni e per la sua attività nella lotta partigiana durante la seconda guerra mondiale:",
+                    "La città di Torino è la quinta tra le ventisette Città decorate di medaglia d'oro come \"benemerite del Risorgimento nazionale\" per le azioni patriottiche che ebbero luogo nella città nel periodo del Risorgimento: Torino figura inoltre tra le Città decorate al valor militare per la guerra di liberazione, insignita della medaglia d'oro al valor militare per i sacrifici delle sue popolazioni e per la sua attività nella lotta partigiana durante la seconda guerra mondiale: A differenza della stragrande maggioranza delle città italiane, che hanno una struttura viaria concentrica, con uno sviluppo di arterie radiali culminanti nel centro cittadino, sede delle principali attività pubbliche, il reticolo viario della città di Torino disegna una pianta a scacchiera, le sue vie cioè si sviluppano in linea retta incrociandosi a 90° con un orientamento simile a quello del castrum romano:"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.694402,
+                    45.059499
+                ]
+            },
+            "properties": {
+                "entity": "fiume Po",
+                "name_location": "Amici del Fiume, 18, Corso Moncalieri, Borgo Po, Circoscrizione 8, Torino, Piemonte, 10131, Italia",
+                "class": "leisure",
+                "type": "sports_centre",
+                "snippet": [
+                    "oltre ai tre corsi d'acqua prima citati che ne incorniciano il territorio, abbiamo la Dora Riparia che taglia la città da ovest a est, scorrendo prossima al centro storico. Il fiume Po accentua la divisione tra la parte collinare e quella, quasi pianeggiante, della città, collocata tra i 220 e i 280 metri s.l.m.; il punto più elevato del territorio comunale è il Colle della Maddalena, a 715 m s.l.m."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.648686,
+                    45.032323
+                ]
+            },
+            "properties": {
+                "entity": "Monviso",
+                "name_location": "Monviso, 19, Corso Eusebio Giambone, Lingotto, Circoscrizione 8, Torino, Piemonte, 10134, Italia",
+                "class": "amenity",
+                "type": "pharmacy",
+                "snippet": [
+                    "La città è al centro di un anfiteatro montuoso che ingloba alcune delle più belle vette alpine: il Monviso, monte sul quale nasce il Po, il Rocciamelone, e i massicci del Gran Paradiso e del Monte Rosa, mentre il Cervino diventa visibile dalla zona sud-est dell'area urbana. Torino dista 57 km da Asti, 79 km da Vercelli, 84 km da Biella, 93 km da Alessandria, 96 km da Novara, 98 km da Cuneo, 155 km da Verbania."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.658099,
+                    45.092788
+                ]
+            },
+            "properties": {
+                "entity": "Gran Paradiso",
+                "name_location": "Gran Paradiso, Via Val della Torre, Madonna di Campagna, Circoscrizione 5, Torino, Piemonte, 10149, Italia",
+                "class": "building",
+                "type": "apartments",
+                "snippet": [
+                    "La città è al centro di un anfiteatro montuoso che ingloba alcune delle più belle vette alpine: il Monviso, monte sul quale nasce il Po, il Rocciamelone, e i massicci del Gran Paradiso e del Monte Rosa, mentre il Cervino diventa visibile dalla zona sud-est dell'area urbana. Torino dista 57 km da Asti, 79 km da Vercelli, 84 km da Biella, 93 km da Alessandria, 96 km da Novara, 98 km da Cuneo, 155 km da Verbania."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.687126,
+                    45.070863
                 ]
             },
             "properties": {
@@ -37,6 +116,26 @@
                 "snippet": [
                     "Torino dista 57 km da Asti, 79 km da Vercelli, 84 km da Biella, 93 km da Alessandria, 96 km da Novara, 98 km da Cuneo, 155 km da Verbania. Il confine francese dista circa 70 km nei pressi del Colle del Moncenisio, mentre sono 206 i chilometri che separano Piazza Castello da Chambery, 222 da Nizza, 250 da Ginevra e 314 da Lione. Il 19 marzo 2016 l'UNESCO ha riconosciuto il parco del Po e la collina torinese come riserva della biosfera, mentre nel 2020 la FAO e l'Arbor Day Foundation hanno conferito alla città di Torino il riconoscimento di Tree City of the World 2019 .",
                     "tratto delle mura romane nelle sale sotterranee del Palazzo dell'Accademia delle Scienze; vari resti di abitazioni di epoca imperiale, fra cui le tracce delle domus di via Bellezia, via Santa Chiara, via Bonelli, Piazza Castello, la necropoli nel sottosuolo di Piazza San Carlo e gli edifici pubblici di Piazza Emanuele Filiberto e Corso XI Febbraio."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.674621,
+                    45.051436
+                ]
+            },
+            "properties": {
+                "entity": "Nizza",
+                "name_location": "Nizza, Via Nizza, San Salvario, Circoscrizione 8, Torino, Piemonte, 10125, Italia",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "Torino dista 57 km da Asti, 79 km da Vercelli, 84 km da Biella, 93 km da Alessandria, 96 km da Novara, 98 km da Cuneo, 155 km da Verbania. Il confine francese dista circa 70 km nei pressi del Colle del Moncenisio, mentre sono 206 i chilometri che separano Piazza Castello da Chambery, 222 da Nizza, 250 da Ginevra e 314 da Lione. Il 19 marzo 2016 l'UNESCO ha riconosciuto il parco del Po e la collina torinese come riserva della biosfera, mentre nel 2020 la FAO e l'Arbor Day Foundation hanno conferito alla città di Torino il riconoscimento di Tree City of the World 2019 .",
+                    "Nel 1765 Benedetto Alfieri ebbe l'incarico di rifare i portici di piazza Palazzo di Città mentre nel corso del XIX secolo si aggiunsero quelli dell'attuale piazza Vittorio Veneto, piazza Carlo Felice e piazza Statuto. Le stazioni ferroviarie di Porta Nuova e Porta Susa vennero congiunte con un percorso porticato attraverso via Nizza, via Sacchi, Corso Vittorio Emanuele II, Corso Vinzaglio e via Cernaia. Il portico che unisce piazza Castello con Piazza Vittorio Veneto attraverso via Po sul lato sinistro fu progettato in modo tale da proseguire anche nell'attraversamento delle vie per permettere al re di giungere fino al Po senza bagnarsi in caso di pioggia."
                 ]
             }
         },
@@ -57,6 +156,84 @@
                 "snippet": [
                     "Molto diversa la situazione nelle numerose zone collinari e prealpine, spesso più calde delle pianure di parecchi gradi e quasi sempre prive di ristagni freddi. Prendendo in esame i dati rilevati dall'Ufficio Idrografico del Po (presso Porta Susa), nel il periodo 1961-1990, si evince che, in città, la temperatura media annua è stata di 12,3 °C , con la minima, a gennaio, di 0,9 °C . I periodi più piovosi sono il trimestre da aprile a giugno, e il mese di ottobre;",
                     "Nel 1765 Benedetto Alfieri ebbe l'incarico di rifare i portici di piazza Palazzo di Città mentre nel corso del XIX secolo si aggiunsero quelli dell'attuale piazza Vittorio Veneto, piazza Carlo Felice e piazza Statuto. Le stazioni ferroviarie di Porta Nuova e Porta Susa vennero congiunte con un percorso porticato attraverso via Nizza, via Sacchi, Corso Vittorio Emanuele II, Corso Vinzaglio e via Cernaia. Il portico che unisce piazza Castello con Piazza Vittorio Veneto attraverso via Po sul lato sinistro fu progettato in modo tale da proseguire anche nell'attraversamento delle vie per permettere al re di giungere fino al Po senza bagnarsi in caso di pioggia."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.68476,
+                    45.04326
+                ]
+            },
+            "properties": {
+                "entity": "Sicilia",
+                "name_location": "Sicilia, Corso Moncalieri, Pilonetto, Circoscrizione 8, Cavoretto, Torino, Piemonte, 10133, Italia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "La città e l'esercito sabaudo resistettero per centodiciassette giorni e respinsero così la violenta controffensiva francese. Nel 1713 i duchi di Savoia ottennero il titolo di re, prima di Sicilia e poi, in cambio della Sicilia, di Sardegna. In entrambi i casi tuttavia i due regni rimasero separati dal Ducato di Savoia, e quindi da Torino, trovandosi solamente in unione personale sotto il Casato dei Savoia."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.689917,
+                    45.072385
+                ]
+            },
+            "properties": {
+                "entity": "Partigiani",
+                "name_location": "Partigiani, Viale Primo Maggio, Centro, Circoscrizione 1, Torino, Piemonte, 10124, Italia",
+                "class": "railway",
+                "type": "tram_stop",
+                "snippet": [
+                    "Furono altresì attive in città le formazioni partigiane dei Gruppi (GAP) e delle Squadre di azione patriottica (SAP). Il 25 aprile 1945 il Comitato di Liberazione Nazionale, che aveva la propria sede regionale presso la conceria Fiorio, proclamò l'ordine di insurrezione generale e con esso i Partigiani presero il controllo della città ponendo fine all'occupazione nazifascista. Alcuni giorni dopo, il 3 maggio, giunsero anche le prime truppe alleate."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62374,
+                    45.074669
+                ]
+            },
+            "properties": {
+                "entity": "Corso Francia",
+                "name_location": "Corso Francia, Venchi Unica, Circoscrizione 3, Torino, Piemonte, 10146, Italia",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "I boulevard di Torino sono suddivisi in due o tre diverse carreggiate: di norma i più antichi, come Corso Vittorio Emanuele, Corso Francia e Corso Regina Margherita, presentano una carreggiata centrale con almeno due corsie per senso di marcia, divisa da alberate dalle altre due carreggiate laterali, dette controviali. I viali torinesi hanno una lunghezza complessiva di 320 km.",
+                    "Torino vanta anche cospicua presenza di edifici Liberty realizzati tra la fine del XIX e l'inizio del XX secolo. Le importanti testimonianze architettoniche di quest'epoca sono ancora percepibili in alcune zone centrali del capoluogo come i quartieri Centro, Crocetta, San Salvario e Borgo Po, ma con un'assoluta predominanza nell'area circostante il primo tratto di Corso Francia, comprendente i quartieri Cit Turin e San Donato. Sull'onda del crescente successo delle edizioni dell'Esposizione internazionale d'arte decorativa moderna (culminato con quella del 1902), Torino venne infatti considerata come una delle capitali del Liberty e vide il proliferare di questo nuovo stile in ambito prevalentemente architettonico, con contributi dei maggiori autori dell'epoca.",
+                    "Un poliziesco interamente girato a Torino. Sono numerosi i luoghi riconoscibili della città, come Piazza Statuto, Piazza Cavour e Corso Francia. American Gigolò ."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.684861,
+                    45.074495
+                ]
+            },
+            "properties": {
+                "entity": "parco archeologico",
+                "name_location": "Parco Archeologico delle Torri Palatine, Quadrilatero Romano, Circoscrizione 1, Torino, Piemonte, Italia",
+                "class": "leisure",
+                "type": "park",
+                "snippet": [
+                    "resti di piccolo villaggio celto-ligure databile fra il IV e il III secolo a.C. con emergenze archeologiche di un successivo insediamento tardo-antico e altomedievale; parco archeologico della Porta Palatina e delle mura romane; Porta Decumana, inglobata in Palazzo Madama, e relativi scavi archeologici;"
                 ]
             }
         },
@@ -100,6 +277,25 @@
                     "La città di Torino e i suoi dintorni sono abbelliti dalle numerose residenze sabaude, Patrimonio dell'umanità dell'UNESCO; nel comune di Torino si trovano il Palazzo Reale, il Palazzo Madama, la Villa della Regina e il Castello del Valentino. Torino vanta anche cospicua presenza di edifici Liberty realizzati tra la fine del XIX e l'inizio del XX secolo.",
                     "Per l'arte figurativa è da citare la Galleria Sabauda, una delle più importanti pinacoteche d'Italia oggi parte dei Musei Reali, che ospita dipinti per il periodo che va dal XII al XVIII secolo. Per l'arte moderna e contemporanea vi sono la Galleria civica d'arte moderna e contemporanea (il secondo museo di arte moderna in Italia, con 5.000 dipinti e 400 sculture), il Museo civico d'arte antica di Palazzo Madama, la Fondazione Sandretto Re Rebaudengo contenente esposizioni degli artisti contemporanei provenienti da tutto il mondo e la Pinacoteca Giovanni e Marella Agnelli e la Fondazione Merz. Considerando che la vicina Rivoli ospita nell'omonimo castello il Museo d'Arte Contemporanea, Torino può essere considerata come il più importante polo museale italiano per l'arte contemporanea.",
                     "Il museo Accorsi-Ometto è una ricca collezione privata, ora aperta al pubblico, di opere collezionistiche e di arte decorativa. Mostre temporanee di rilievo si tengono a Palazzo Bricherasio e a Palazzo Madama. Importanti sono poi dal punto di vista storico il Museo nazionale del Risorgimento italiano, presso Palazzo Carignano, e il Museo nazionale della montagna, presso il Monte dei Cappuccini, sulla riva destra del Po."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.685482,
+                    45.073986
+                ]
+            },
+            "properties": {
+                "entity": "teatro romano",
+                "name_location": "Teatro Romano, Piazza San Giovanni, Centro, Circoscrizione 1, Torino, Piemonte, 10122, Italia",
+                "class": "historic",
+                "type": "archaeological_site",
+                "snippet": [
+                    "Porta Decumana, inglobata in Palazzo Madama, e relativi scavi archeologici; resti del teatro romano; complesso archeologico del Duomo:"
                 ]
             }
         },
@@ -184,6 +380,25 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.668755,
+                    45.075212
+                ]
+            },
+            "properties": {
+                "entity": "Juvarra",
+                "name_location": "Via Filippo Juvarra, Centro, Circoscrizione 1, Torino, Piemonte, 10140, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "Palazzo Madama e Casaforte degli Acaja, il cui corpo centrale fu costruito fra i secoli XIII e XV in stile gotico ampliando e inglobando la struttura dell'originale Porta Decumana d'epoca romana e conferendo al palazzo l'aspetto di un castello, che verrà completato nei secoli successivi con la facciata settecentesca dello Juvarra; chiesa di San Domenico, situata nell'omonima via; fu edificata nel XIV secolo e rappresenta l'unico monumento completo autenticamente medioevale dell'intera città, pur se modificata in epoca barocca e riportata successivamente alle originali forme gotiche tramite restauri conservativi ottocenteschi;"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.68105,
                     45.07146
                 ]
@@ -254,6 +469,49 @@
                     "Mastio della Cittadella, unico edificio superstite del complesso sistema difensivo torinese, edificato a partire dal 1564 in uno stile a cavallo fra quello rinascimentale e quello barocco. Tra i monumenti di Torino più noti anche all'estero sono da citare l'ottocentesca Mole Antonelliana, simbolo incontrastato della città, che ospita il Museo nazionale del cinema (il principale d'Europa); il Palazzo Reale (antica dimora dei duchi ed in seguito dei re di Casa Savoia);",
                     "La vocazione cinematografica di Torino non cessò. Nel 1956 venne aperto il Museo nazionale del cinema, dapprima ospitato a Palazzo Chiablese e poi, dal 2000, nell'imponente sede della Mole Antonelliana. Negli anni ottanta un gruppo di professori universitari e critici cinematografici torinesi diede luogo, con il sostegno degli enti locali, alla rassegna cinematografica Festival Cinema Giovani che dal 1997 assunse la denominazione di Torino Film Festival, conquistandosi un punto di riferimento a livello internazionale specialmente per il cinema sperimentale, secondo in Italia soltanto allo storico Festival di Venezia.",
                     "Culla del cinema italiano, grazie all'associazione Torino Film Commission, la città è diventata un'apprezzata quinta per l'ambientazione e la produzione di film, pubblicità e video musicali. All'interno della Mole è ospitato il Museo nazionale del cinema. Nel capoluogo sabaudo è inoltre attivo il Cineporto, una struttura polifunzionale dedicata alle produzioni cinematografiche unica in Italia."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.686963,
+                    45.073053
+                ]
+            },
+            "properties": {
+                "entity": "Palazzo Reale",
+                "name_location": "Palazzo Reale, Piazza San Giovanni, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "Tra i monumenti di Torino più noti anche all'estero sono da citare l'ottocentesca Mole Antonelliana, simbolo incontrastato della città, che ospita il Museo nazionale del cinema (il principale d'Europa); il Palazzo Reale (antica dimora dei duchi ed in seguito dei re di Casa Savoia); la rinascimentale cattedrale di San Giovanni Battista del XV secolo (celebre in quanto vi è custodita la Sacra Sindone);",
+                    "La città di Torino e i suoi dintorni sono abbelliti dalle numerose residenze sabaude, Patrimonio dell'umanità dell'UNESCO; nel comune di Torino si trovano il Palazzo Reale, il Palazzo Madama, la Villa della Regina e il Castello del Valentino. Torino vanta anche cospicua presenza di edifici Liberty realizzati tra la fine del XIX e l'inizio del XX secolo.",
+                    "All'interno del perimetro cittadino figurano cinque siti iscritti nella lista del Patrimonio Mondiale dell'UNESCO: Palazzo Reale e la zona di comando (o musei reali) Palazzo Madama Palazzo Carignano Castello del Valentino Villa della Regina A questi si aggiunge la Basilica di Superga la quale, pur facendo parte del circuito delle residenze sabaude, non è compresa nella lista UNESCO. Carceri Nuove Cisternone Galleria Subalpina Lingotto Opera per Torino Grattacielo Intesa Sanpaolo Grattacielo della Regione Piemonte Cascina Giajone Cascina Roccafranca Numerosi sono gli edifici di culto presenti nella città di Torino.",
+                    "il Festival del Cinema Digitale organizzato da VIEW Conference, si svolge annualmente al Cinema Massimo. \"Cinema a Palazzo Reale\". Arena estiva dedicata ai classici del cinema che si svolge ogni anno, dal 2012, nel Cortile d'Onore di Palazzo Reale.",
+                    "\"Cinema a Palazzo Reale\". Arena estiva dedicata ai classici del cinema che si svolge ogni anno, dal 2012, nel Cortile d'Onore di Palazzo Reale. Ostensione della Sindone del 1998 per celebrare il centenario della prima fotografia della reliquia e il cinquecentenario del Duomo di Torino."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.684351,
+                    45.068435
+                ]
+            },
+            "properties": {
+                "entity": "Museo Egizio",
+                "name_location": "Museo Egizio, 6, Via Accademia delle Scienze, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "la rinascimentale cattedrale di San Giovanni Battista del XV secolo (celebre in quanto vi è custodita la Sacra Sindone); il Museo Egizio (il secondo più importante al mondo dopo quello de Il Cairo); la Galleria Sabauda (significativa raccolta di dipinti);",
+                    "Vi sono quattro musei nazionali (Museo del cinema, Museo dell'automobile, Museo della montagna, Museo del Risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio, l'Armeria Reale, ora ricompresa nei Musei Reali, il Museo d'Arte Orientale, il Museo dell'Astronomia e Planetario, il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport. Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il Museo del Cinema, il Museo Egizio e il Museo dell'Automobile) o sono in corso di rinnovamento: tra questi, il Museo di anatomia umana Luigi Rolando, il Museo di Antropologia ed Etnografia, ed il Museo di antropologia criminale Cesare Lombroso, che verranno unificati in un unico Museo dell'Uomo, all'interno del \"Palazzo degli Istituti Anatomici\" di corso Massimo d'Azeglio."
                 ]
             }
         },
@@ -372,6 +630,64 @@
                 "type": "square",
                 "snippet": [
                     "La prima testimonianza è l'ordinanza di Carlo Emanuele I di Savoia del 16 giugno 1606 in merito alla costruzione di piazza Castello secondo il progetto di Ascanio Vittozzi che comprendeva portici attorno a tutta la piazza. Anche nel progetto di piazza San Carlo di Amedeo di Castellamonte di qualche anno successivo erano previsti portici tutt'attorno. Negli stessi anni Filippo Juvarra costruì i portici di porta Palazzo."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.68038,
+                    45.073242
+                ]
+            },
+            "properties": {
+                "entity": "Palazzo di Città",
+                "name_location": "Palazzo di Città, Piazza Palazzo di Città, Quadrilatero Romano, Circoscrizione 1, Torino, Piemonte, 10122, Italia",
+                "class": "amenity",
+                "type": "townhall",
+                "snippet": [
+                    "Negli stessi anni Filippo Juvarra costruì i portici di porta Palazzo. Nel 1765 Benedetto Alfieri ebbe l'incarico di rifare i portici di piazza Palazzo di Città mentre nel corso del XIX secolo si aggiunsero quelli dell'attuale piazza Vittorio Veneto, piazza Carlo Felice e piazza Statuto. Le stazioni ferroviarie di Porta Nuova e Porta Susa vennero congiunte con un percorso porticato attraverso via Nizza, via Sacchi, Corso Vittorio Emanuele II, Corso Vinzaglio e via Cernaia.",
+                    "Vincere . Il film è stato girato in diverse location torinesi, tra cui via Palazzo di Città, Galleria San Federico, l’ex manicomio di Collegno e l’ex “Poveri Vecchi”. La solitudine dei numeri primi ."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.678963,
+                    45.062747
+                ]
+            },
+            "properties": {
+                "entity": "Porta Nuova",
+                "name_location": "Porta Nuova, Corso Vittorio Emanuele II, San Secondo, Circoscrizione 1, Torino, Piemonte, 10125, Italia",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "Nel 1765 Benedetto Alfieri ebbe l'incarico di rifare i portici di piazza Palazzo di Città mentre nel corso del XIX secolo si aggiunsero quelli dell'attuale piazza Vittorio Veneto, piazza Carlo Felice e piazza Statuto. Le stazioni ferroviarie di Porta Nuova e Porta Susa vennero congiunte con un percorso porticato attraverso via Nizza, via Sacchi, Corso Vittorio Emanuele II, Corso Vinzaglio e via Cernaia. Il portico che unisce piazza Castello con Piazza Vittorio Veneto attraverso via Po sul lato sinistro fu progettato in modo tale da proseguire anche nell'attraversamento delle vie per permettere al re di giungere fino al Po senza bagnarsi in caso di pioggia."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.678459,
+                    45.062018
+                ]
+            },
+            "properties": {
+                "entity": "Corso Vittorio",
+                "name_location": "Torino Porta Nuova, Corso Vittorio Emanuele II, Centro, Circoscrizione 1, Torino, Piemonte, 10125, Italia",
+                "class": "building",
+                "type": "train_station",
+                "snippet": [
+                    "Nel 1765 Benedetto Alfieri ebbe l'incarico di rifare i portici di piazza Palazzo di Città mentre nel corso del XIX secolo si aggiunsero quelli dell'attuale piazza Vittorio Veneto, piazza Carlo Felice e piazza Statuto. Le stazioni ferroviarie di Porta Nuova e Porta Susa vennero congiunte con un percorso porticato attraverso via Nizza, via Sacchi, Corso Vittorio Emanuele II, Corso Vinzaglio e via Cernaia. Il portico che unisce piazza Castello con Piazza Vittorio Veneto attraverso via Po sul lato sinistro fu progettato in modo tale da proseguire anche nell'attraversamento delle vie per permettere al re di giungere fino al Po senza bagnarsi in caso di pioggia."
                 ]
             }
         },
@@ -534,6 +850,25 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.676916,
+                    45.073034
+                ]
+            },
+            "properties": {
+                "entity": "Chiesa della Misericordia",
+                "name_location": "Chiesa della Misericordia, Via Giuseppe Barbaroux, Quadrilatero Romano, Circoscrizione 1, Torino, Piemonte, 10122, Italia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "Alla progettazione e realizzazione delle opere relative hanno contribuito architetti di chiara fama, fra i quali: Amedeo di Castellamonte (Cappella della Sacra Sindone, Basilica del Corpus Domini) Carlo di Castellamonte (Cappella della Sacra Sindone, Chiesa di Santa Cristina) Andrea Costaguta (Chiesa di San Francesco da Paola, Chiesa di Santa Teresa) Guarino Guarini (Cappella della Sacra Sindone, Santuario della Consolata, Chiesa di San Lorenzo) Filippo Juvarra (Basilica di Superga, Chiesa di San Filippo Neri, Santuario della Consolata, Chiesa di Santa Cristina, Chiesa della Madonna del Carmine) Filippo Giovanni Battista Nicolis di Robilant (Chiesa di Santa Pelagia, Chiesa della Misericordia) Bernardo Antonio Vittone (Chiesa della Santissima Annunziata, Chiesa di Santa Maria di Piazza, Chiesa di San Francesco d'Assisi, Chiesa di Santa Chiara, Cappella Anselmetti) Ascanio Vittozzi (Basilica del Corpus Domini, Chiesa della Santissima Trinità) Pietro Bonvicini (Chiesa di San Michele Arcangelo) Giuseppe e Bartolomeo Gallo (Chiesa di Gesù Nazareno, Chiesa di San Bernardino da Siena) Nicola Mosso (Chiesa del Gesù Redentore) Cimitero Monumentale (già Cimitero Generale): sito in Corso Novara, 135 (quartiere Regio Parco), è il primo cimitero di Torino per dimensioni;"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.678632,
                     45.072008
                 ]
@@ -541,6 +876,82 @@
             "properties": {
                 "entity": "Chiesa di Santa Maria di Piazza",
                 "name_location": "Chiesa di Santa Maria di Piazza, Vicolo Santa Maria, Quadrilatero Romano, Circoscrizione 1, Torino, Piemonte, 10122, Italia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "Alla progettazione e realizzazione delle opere relative hanno contribuito architetti di chiara fama, fra i quali: Amedeo di Castellamonte (Cappella della Sacra Sindone, Basilica del Corpus Domini) Carlo di Castellamonte (Cappella della Sacra Sindone, Chiesa di Santa Cristina) Andrea Costaguta (Chiesa di San Francesco da Paola, Chiesa di Santa Teresa) Guarino Guarini (Cappella della Sacra Sindone, Santuario della Consolata, Chiesa di San Lorenzo) Filippo Juvarra (Basilica di Superga, Chiesa di San Filippo Neri, Santuario della Consolata, Chiesa di Santa Cristina, Chiesa della Madonna del Carmine) Filippo Giovanni Battista Nicolis di Robilant (Chiesa di Santa Pelagia, Chiesa della Misericordia) Bernardo Antonio Vittone (Chiesa della Santissima Annunziata, Chiesa di Santa Maria di Piazza, Chiesa di San Francesco d'Assisi, Chiesa di Santa Chiara, Cappella Anselmetti) Ascanio Vittozzi (Basilica del Corpus Domini, Chiesa della Santissima Trinità) Pietro Bonvicini (Chiesa di San Michele Arcangelo) Giuseppe e Bartolomeo Gallo (Chiesa di Gesù Nazareno, Chiesa di San Bernardino da Siena) Nicola Mosso (Chiesa del Gesù Redentore) Cimitero Monumentale (già Cimitero Generale): sito in Corso Novara, 135 (quartiere Regio Parco), è il primo cimitero di Torino per dimensioni;"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.680631,
+                    45.071736
+                ]
+            },
+            "properties": {
+                "entity": "Chiesa di San Francesco d'Assisi",
+                "name_location": "Chiesa di San Francesco d'Assisi, Via San Francesco d'Assisi, Centro, Circoscrizione 1, Torino, Piemonte, 10122, Italia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "Alla progettazione e realizzazione delle opere relative hanno contribuito architetti di chiara fama, fra i quali: Amedeo di Castellamonte (Cappella della Sacra Sindone, Basilica del Corpus Domini) Carlo di Castellamonte (Cappella della Sacra Sindone, Chiesa di Santa Cristina) Andrea Costaguta (Chiesa di San Francesco da Paola, Chiesa di Santa Teresa) Guarino Guarini (Cappella della Sacra Sindone, Santuario della Consolata, Chiesa di San Lorenzo) Filippo Juvarra (Basilica di Superga, Chiesa di San Filippo Neri, Santuario della Consolata, Chiesa di Santa Cristina, Chiesa della Madonna del Carmine) Filippo Giovanni Battista Nicolis di Robilant (Chiesa di Santa Pelagia, Chiesa della Misericordia) Bernardo Antonio Vittone (Chiesa della Santissima Annunziata, Chiesa di Santa Maria di Piazza, Chiesa di San Francesco d'Assisi, Chiesa di Santa Chiara, Cappella Anselmetti) Ascanio Vittozzi (Basilica del Corpus Domini, Chiesa della Santissima Trinità) Pietro Bonvicini (Chiesa di San Michele Arcangelo) Giuseppe e Bartolomeo Gallo (Chiesa di Gesù Nazareno, Chiesa di San Bernardino da Siena) Nicola Mosso (Chiesa del Gesù Redentore) Cimitero Monumentale (già Cimitero Generale): sito in Corso Novara, 135 (quartiere Regio Parco), è il primo cimitero di Torino per dimensioni;"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.679288,
+                    45.075688
+                ]
+            },
+            "properties": {
+                "entity": "Chiesa di Santa Chiara",
+                "name_location": "Chiesa di Santa Chiara, Via Santa Chiara, Quadrilatero Romano, Circoscrizione 1, Torino, Piemonte, 10140, Italia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "Alla progettazione e realizzazione delle opere relative hanno contribuito architetti di chiara fama, fra i quali: Amedeo di Castellamonte (Cappella della Sacra Sindone, Basilica del Corpus Domini) Carlo di Castellamonte (Cappella della Sacra Sindone, Chiesa di Santa Cristina) Andrea Costaguta (Chiesa di San Francesco da Paola, Chiesa di Santa Teresa) Guarino Guarini (Cappella della Sacra Sindone, Santuario della Consolata, Chiesa di San Lorenzo) Filippo Juvarra (Basilica di Superga, Chiesa di San Filippo Neri, Santuario della Consolata, Chiesa di Santa Cristina, Chiesa della Madonna del Carmine) Filippo Giovanni Battista Nicolis di Robilant (Chiesa di Santa Pelagia, Chiesa della Misericordia) Bernardo Antonio Vittone (Chiesa della Santissima Annunziata, Chiesa di Santa Maria di Piazza, Chiesa di San Francesco d'Assisi, Chiesa di Santa Chiara, Cappella Anselmetti) Ascanio Vittozzi (Basilica del Corpus Domini, Chiesa della Santissima Trinità) Pietro Bonvicini (Chiesa di San Michele Arcangelo) Giuseppe e Bartolomeo Gallo (Chiesa di Gesù Nazareno, Chiesa di San Bernardino da Siena) Nicola Mosso (Chiesa del Gesù Redentore) Cimitero Monumentale (già Cimitero Generale): sito in Corso Novara, 135 (quartiere Regio Parco), è il primo cimitero di Torino per dimensioni;"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.683519,
+                    45.071953
+                ]
+            },
+            "properties": {
+                "entity": "Chiesa della Santissima Trinità",
+                "name_location": "Chiesa della Santissima Trinità, Via Venti Settembre, Centro, Circoscrizione 1, Torino, Piemonte, 10122, Italia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "Alla progettazione e realizzazione delle opere relative hanno contribuito architetti di chiara fama, fra i quali: Amedeo di Castellamonte (Cappella della Sacra Sindone, Basilica del Corpus Domini) Carlo di Castellamonte (Cappella della Sacra Sindone, Chiesa di Santa Cristina) Andrea Costaguta (Chiesa di San Francesco da Paola, Chiesa di Santa Teresa) Guarino Guarini (Cappella della Sacra Sindone, Santuario della Consolata, Chiesa di San Lorenzo) Filippo Juvarra (Basilica di Superga, Chiesa di San Filippo Neri, Santuario della Consolata, Chiesa di Santa Cristina, Chiesa della Madonna del Carmine) Filippo Giovanni Battista Nicolis di Robilant (Chiesa di Santa Pelagia, Chiesa della Misericordia) Bernardo Antonio Vittone (Chiesa della Santissima Annunziata, Chiesa di Santa Maria di Piazza, Chiesa di San Francesco d'Assisi, Chiesa di Santa Chiara, Cappella Anselmetti) Ascanio Vittozzi (Basilica del Corpus Domini, Chiesa della Santissima Trinità) Pietro Bonvicini (Chiesa di San Michele Arcangelo) Giuseppe e Bartolomeo Gallo (Chiesa di Gesù Nazareno, Chiesa di San Bernardino da Siena) Nicola Mosso (Chiesa del Gesù Redentore) Cimitero Monumentale (già Cimitero Generale): sito in Corso Novara, 135 (quartiere Regio Parco), è il primo cimitero di Torino per dimensioni;"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.690565,
+                    45.063862
+                ]
+            },
+            "properties": {
+                "entity": "Chiesa di San Michele Arcangelo",
+                "name_location": "Chiesa di San Michele Arcangelo, Via Giovanni Giolitti, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
                 "class": "amenity",
                 "type": "place_of_worship",
                 "snippet": [
@@ -564,6 +975,44 @@
                 "type": "place_of_worship",
                 "snippet": [
                     "Alla progettazione e realizzazione delle opere relative hanno contribuito architetti di chiara fama, fra i quali: Amedeo di Castellamonte (Cappella della Sacra Sindone, Basilica del Corpus Domini) Carlo di Castellamonte (Cappella della Sacra Sindone, Chiesa di Santa Cristina) Andrea Costaguta (Chiesa di San Francesco da Paola, Chiesa di Santa Teresa) Guarino Guarini (Cappella della Sacra Sindone, Santuario della Consolata, Chiesa di San Lorenzo) Filippo Juvarra (Basilica di Superga, Chiesa di San Filippo Neri, Santuario della Consolata, Chiesa di Santa Cristina, Chiesa della Madonna del Carmine) Filippo Giovanni Battista Nicolis di Robilant (Chiesa di Santa Pelagia, Chiesa della Misericordia) Bernardo Antonio Vittone (Chiesa della Santissima Annunziata, Chiesa di Santa Maria di Piazza, Chiesa di San Francesco d'Assisi, Chiesa di Santa Chiara, Cappella Anselmetti) Ascanio Vittozzi (Basilica del Corpus Domini, Chiesa della Santissima Trinità) Pietro Bonvicini (Chiesa di San Michele Arcangelo) Giuseppe e Bartolomeo Gallo (Chiesa di Gesù Nazareno, Chiesa di San Bernardino da Siena) Nicola Mosso (Chiesa del Gesù Redentore) Cimitero Monumentale (già Cimitero Generale): sito in Corso Novara, 135 (quartiere Regio Parco), è il primo cimitero di Torino per dimensioni;"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.708669,
+                    45.08038
+                ]
+            },
+            "properties": {
+                "entity": "Cimitero Monumentale",
+                "name_location": "Cimitero Monumentale, Circoscrizione 7, Sassi, Torino, Piemonte, Italia",
+                "class": "landuse",
+                "type": "cemetery",
+                "snippet": [
+                    "Alla progettazione e realizzazione delle opere relative hanno contribuito architetti di chiara fama, fra i quali: Amedeo di Castellamonte (Cappella della Sacra Sindone, Basilica del Corpus Domini) Carlo di Castellamonte (Cappella della Sacra Sindone, Chiesa di Santa Cristina) Andrea Costaguta (Chiesa di San Francesco da Paola, Chiesa di Santa Teresa) Guarino Guarini (Cappella della Sacra Sindone, Santuario della Consolata, Chiesa di San Lorenzo) Filippo Juvarra (Basilica di Superga, Chiesa di San Filippo Neri, Santuario della Consolata, Chiesa di Santa Cristina, Chiesa della Madonna del Carmine) Filippo Giovanni Battista Nicolis di Robilant (Chiesa di Santa Pelagia, Chiesa della Misericordia) Bernardo Antonio Vittone (Chiesa della Santissima Annunziata, Chiesa di Santa Maria di Piazza, Chiesa di San Francesco d'Assisi, Chiesa di Santa Chiara, Cappella Anselmetti) Ascanio Vittozzi (Basilica del Corpus Domini, Chiesa della Santissima Trinità) Pietro Bonvicini (Chiesa di San Michele Arcangelo) Giuseppe e Bartolomeo Gallo (Chiesa di Gesù Nazareno, Chiesa di San Bernardino da Siena) Nicola Mosso (Chiesa del Gesù Redentore) Cimitero Monumentale (già Cimitero Generale): sito in Corso Novara, 135 (quartiere Regio Parco), è il primo cimitero di Torino per dimensioni;"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.70337,
+                    45.076492
+                ]
+            },
+            "properties": {
+                "entity": "Corso Novara",
+                "name_location": "Corso Novara, Rossini, Circoscrizione 7, Torino, Piemonte, 10153, Italia",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "Amedeo di Castellamonte (Cappella della Sacra Sindone, Basilica del Corpus Domini) Carlo di Castellamonte (Cappella della Sacra Sindone, Chiesa di Santa Cristina) Andrea Costaguta (Chiesa di San Francesco da Paola, Chiesa di Santa Teresa) Guarino Guarini (Cappella della Sacra Sindone, Santuario della Consolata, Chiesa di San Lorenzo) Filippo Juvarra (Basilica di Superga, Chiesa di San Filippo Neri, Santuario della Consolata, Chiesa di Santa Cristina, Chiesa della Madonna del Carmine) Filippo Giovanni Battista Nicolis di Robilant (Chiesa di Santa Pelagia, Chiesa della Misericordia) Bernardo Antonio Vittone (Chiesa della Santissima Annunziata, Chiesa di Santa Maria di Piazza, Chiesa di San Francesco d'Assisi, Chiesa di Santa Chiara, Cappella Anselmetti) Ascanio Vittozzi (Basilica del Corpus Domini, Chiesa della Santissima Trinità) Pietro Bonvicini (Chiesa di San Michele Arcangelo) Giuseppe e Bartolomeo Gallo (Chiesa di Gesù Nazareno, Chiesa di San Bernardino da Siena) Nicola Mosso (Chiesa del Gesù Redentore) Cimitero Monumentale (già Cimitero Generale): sito in Corso Novara, 135 (quartiere Regio Parco), è il primo cimitero di Torino per dimensioni; contiene anche un Tempio Crematorio e un Cimitero giudaico;"
                 ]
             }
         },
@@ -629,17 +1078,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.726447,
-                    45.082982
+                    7.62848,
+                    45.0158
                 ]
             },
             "properties": {
-                "entity": "Torino Cimitero di Sassi",
-                "name_location": "Cimitero di Sassi, Borgata Rosa, Circoscrizione 7, Sassi, Torino, Piemonte, Italia",
-                "class": "landuse",
-                "type": "cemetery",
+                "entity": "Unione Sovietica",
+                "name_location": "Unione Sovietica, Via Arturo Farinelli, Borgata Mirafiori, Circoscrizione 2, Torino, Piemonte, 10135, Italia",
+                "class": "highway",
+                "type": "bus_stop",
                 "snippet": [
-                    "costruito nel 1972 nella zona all'estremo sud di Torino, è il secondo cimitero di Torino per dimensioni Cimitero di Mirafiori: piccolo cimitero sito in corso Unione Sovietica 650, nella zona Sud di Torino Cimitero di Sassi: sito nell'omonima strada al n. 24 Cimitero di Cavoretto:"
+                    "costruito nel 1972 nella zona all'estremo sud di Torino, è il secondo cimitero di Torino per dimensioni Cimitero di Mirafiori: piccolo cimitero sito in corso Unione Sovietica 650, nella zona Sud di Torino Cimitero di Sassi: sito nell'omonima strada al n. 24 Cimitero di Cavoretto:",
+                    "Cimitero del Lingotto: era sito in via Passo Buole, circa a metà strada fra le vie Pio VII e corso Unione Sovietica. Già inattivo da prima della seconda guerra mondiale, il terreno su cui sorgeva è oggi occupato dal parco Di Vittorio."
                 ]
             }
         },
@@ -659,6 +1109,25 @@
                 "type": "cemetery",
                 "snippet": [
                     "piccolo cimitero sito in corso Unione Sovietica 650, nella zona Sud di Torino Cimitero di Sassi: sito nell'omonima strada al n. 24 Cimitero di Cavoretto: sito nell'omonimo borgo collinare Cimitero di Abbadia di Stura:"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.652275,
+                    45.024664
+                ]
+            },
+            "properties": {
+                "entity": "Passo Buole",
+                "name_location": "Passo Buole, Via Pio VII, Lingotto, Circoscrizione 8, Torino, Piemonte, 10127, Italia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "Cimitero del Lingotto: era sito in via Passo Buole, circa a metà strada fra le vie Pio VII e corso Unione Sovietica. Già inattivo da prima della seconda guerra mondiale, il terreno su cui sorgeva è oggi occupato dal parco Di Vittorio."
                 ]
             }
         },
@@ -705,6 +1174,45 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.691557,
+                    45.069197
+                ]
+            },
+            "properties": {
+                "entity": "Teatro Stabile",
+                "name_location": "Teatro Stabile di Torino, Via Giuseppe Verdi, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10124, Italia",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "Torino può oggi vantare una grande varietà di teatri e sale di rappresentazione. La città è inoltre sede di diverse istituzioni teatrali, tra cui la principale è il Teatro Stabile di Torino, dichiarato Teatro Nazionale: fondato nel 1955, secondo in Italia dopo il Teatro Stabile di Milano, gestisce le produzioni stagionali del Carignano, del Gobetti e delle Fonderie Limone di Moncalieri.",
+                    "La città è inoltre sede di diverse istituzioni teatrali, tra cui la principale è il Teatro Stabile di Torino, dichiarato Teatro Nazionale: fondato nel 1955, secondo in Italia dopo il Teatro Stabile di Milano, gestisce le produzioni stagionali del Carignano, del Gobetti e delle Fonderie Limone di Moncalieri. Fra i teatri maggiori, con una capienza superiore a 400 posti, vi sono il teatro Regio, in cui si tenne la prima de La bohème di Puccini, il teatro Carignano, il teatro Alfieri e il teatro Colosseo; importante, poi, è il teatro Gobetti, sede principale del sopracitato teatro stabile cittadino."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.679472,
+                    45.052652
+                ]
+            },
+            "properties": {
+                "entity": "Colosseo",
+                "name_location": "Colosseo, 69, Via Madama Cristina, San Salvario, Circoscrizione 8, Torino, Piemonte, 10125, Italia",
+                "class": "shop",
+                "type": "confectionery",
+                "snippet": [
+                    "fondato nel 1955, secondo in Italia dopo il Teatro Stabile di Milano, gestisce le produzioni stagionali del Carignano, del Gobetti e delle Fonderie Limone di Moncalieri. Fra i teatri maggiori, con una capienza superiore a 400 posti, vi sono il teatro Regio, in cui si tenne la prima de La bohème di Puccini, il teatro Carignano, il teatro Alfieri e il teatro Colosseo; importante, poi, è il teatro Gobetti, sede principale del sopracitato teatro stabile cittadino. Altre sale teatrali minori comprendono Vi sono inoltre diversi auditorium:"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.691315,
                     45.070179
                 ]
@@ -716,6 +1224,44 @@
                 "type": "theatre",
                 "snippet": [
                     "Altre sale teatrali minori comprendono Vi sono inoltre diversi auditorium: Auditorium Rai \"Arturo Toscanini\", sede dell'Orchestra sinfonica nazionale della RAI Auditorium \"Gianni Agnelli\" del Lingotto Auditorium Intesa-Sanpaolo (interno dell'omonimo grattacielo) Auditorium \"Vivaldi\" (Biblioteca Nazionale) Educatorio della Provvidenza - Auditorium Orpheus Diversi edifici teatrali sono andati distrutti o caduti in disuso. Fra questi il teatro Balbo e il teatro di Torino, distrutti durante un bombardamento nel 1943, il teatro Rossini, bruciato in un incendio nel 1941, i teatri Adua, Gianduja, Gerbino e Arena torinese, smantellati, e, infine, il teatro Nazionale riconvertito a cinema;"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.687089,
+                    45.068361
+                ]
+            },
+            "properties": {
+                "entity": "Biblioteca Nazionale",
+                "name_location": "Biblioteca Nazionale, Piazza Carlo Alberto, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "Altre sale teatrali minori comprendono Vi sono inoltre diversi auditorium: Auditorium Rai \"Arturo Toscanini\", sede dell'Orchestra sinfonica nazionale della RAI Auditorium \"Gianni Agnelli\" del Lingotto Auditorium Intesa-Sanpaolo (interno dell'omonimo grattacielo) Auditorium \"Vivaldi\" (Biblioteca Nazionale) Educatorio della Provvidenza - Auditorium Orpheus Diversi edifici teatrali sono andati distrutti o caduti in disuso. Fra questi il teatro Balbo e il teatro di Torino, distrutti durante un bombardamento nel 1943, il teatro Rossini, bruciato in un incendio nel 1941, i teatri Adua, Gianduja, Gerbino e Arena torinese, smantellati, e, infine, il teatro Nazionale riconvertito a cinema;"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.691213,
+                    45.069273
+                ]
+            },
+            "properties": {
+                "entity": "teatro Rossini",
+                "name_location": "Teatro Gobetti, Via Gioachino Rossini, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10124, Italia",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "Auditorium Rai \"Arturo Toscanini\", sede dell'Orchestra sinfonica nazionale della RAI Auditorium \"Gianni Agnelli\" del Lingotto Auditorium Intesa-Sanpaolo (interno dell'omonimo grattacielo) Auditorium \"Vivaldi\" (Biblioteca Nazionale) Educatorio della Provvidenza - Auditorium Orpheus Diversi edifici teatrali sono andati distrutti o caduti in disuso. Fra questi il teatro Balbo e il teatro di Torino, distrutti durante un bombardamento nel 1943, il teatro Rossini, bruciato in un incendio nel 1941, i teatri Adua, Gianduja, Gerbino e Arena torinese, smantellati, e, infine, il teatro Nazionale riconvertito a cinema; inoltre v'è una sala teatrale, oggi in disuso, nell'edificio storico della Cavallerizza Reale."
                 ]
             }
         },
@@ -755,6 +1301,44 @@
                 "snippet": [
                     "Sebbene non sia la città che ne ospita il maggior numero, il record è tuttavia costituito dal fatto che sono fissi, aperti tutti i giorni e dislocati in tutti i quartieri. I più importanti per ampiezza e giro d'affari si svolgono in Piazza Benefica, in Corso Alcide De Gasperi, in via Onorato Vigliani, in corso Svizzera, in Corso Racconigi e in piazza Barcellona. Il mercato più famoso è Porta Palazzo ( Pòrta Pila in Lingua piemontese), che è il mercato all'aperto più grande d'Europa.",
                     "Ogni sabato nei pressi si tiene il Balon, un grande mercato all'aperto dell'usato, che la seconda domenica di ogni mese diventa Gran Balon , in cui si vendono anche oggetti di antiquariato. Nel 2011 il regista torinese Daniele Gaglianone ha realizzato il film documentario Uomini e mercati centrato sui mercati di Porta Palazzo, Piazza Benefica e Corso Spezia. In contrasto ad una prima impressione della zona centrale e ai vecchi pregiudizi sulla città grigia e industriale, Torino è una delle città italiane con più verde pubblico per abitante."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.656708,
+                    45.053745
+                ]
+            },
+            "properties": {
+                "entity": "Corso Alcide De Gasperi",
+                "name_location": "Corso Alcide De Gasperi, Crocetta, Circoscrizione 1, Torino, Piemonte, 10129, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "Sebbene non sia la città che ne ospita il maggior numero, il record è tuttavia costituito dal fatto che sono fissi, aperti tutti i giorni e dislocati in tutti i quartieri. I più importanti per ampiezza e giro d'affari si svolgono in Piazza Benefica, in Corso Alcide De Gasperi, in via Onorato Vigliani, in corso Svizzera, in Corso Racconigi e in piazza Barcellona. Il mercato più famoso è Porta Palazzo ( Pòrta Pila in Lingua piemontese), che è il mercato all'aperto più grande d'Europa."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.649055,
+                    45.076411
+                ]
+            },
+            "properties": {
+                "entity": "Svizzera",
+                "name_location": "Svizzera, Corso Svizzera, Campidoglio, Circoscrizione 4, Torino, Piemonte, 10143, Italia",
+                "class": "amenity",
+                "type": "bicycle_rental",
+                "snippet": [
+                    "Sebbene non sia la città che ne ospita il maggior numero, il record è tuttavia costituito dal fatto che sono fissi, aperti tutti i giorni e dislocati in tutti i quartieri. I più importanti per ampiezza e giro d'affari si svolgono in Piazza Benefica, in Corso Alcide De Gasperi, in via Onorato Vigliani, in corso Svizzera, in Corso Racconigi e in piazza Barcellona. Il mercato più famoso è Porta Palazzo ( Pòrta Pila in Lingua piemontese), che è il mercato all'aperto più grande d'Europa."
                 ]
             }
         },
@@ -814,6 +1398,25 @@
                 "type": "tertiary",
                 "snippet": [
                     "Ogni sabato nei pressi si tiene il Balon, un grande mercato all'aperto dell'usato, che la seconda domenica di ogni mese diventa Gran Balon , in cui si vendono anche oggetti di antiquariato. Nel 2011 il regista torinese Daniele Gaglianone ha realizzato il film documentario Uomini e mercati centrato sui mercati di Porta Palazzo, Piazza Benefica e Corso Spezia. In contrasto ad una prima impressione della zona centrale e ai vecchi pregiudizi sulla città grigia e industriale, Torino è una delle città italiane con più verde pubblico per abitante."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.678488,
+                    45.124774
+                ]
+            },
+            "properties": {
+                "entity": "Discarica",
+                "name_location": "ex discarica AMIAT Basse di Stura, Villaretto, Torino, Piemonte, Italia",
+                "class": "landuse",
+                "type": "landfill",
+                "snippet": [
+                    "È inoltre la prima città italiana, tra quelle con più di 500.000 abitanti, per quanto riguarda la quota di raccolta differenziata dei rifiuti, giunta nel 2014 al 42,2%. L'igiene urbana e la raccolta rifiuti sono gestiti dal 1969 da Amiat, società che si occupa anche del recupero ambientale della Discarica Basse di Stura, di cui la parte più vecchia - esaurita nel 1983 e con una superficie complessiva di 300.000 m² - è diventata parco fluviale, nota come Parco urbano della Marmorina. Torino dispone di 51 parchi nell'area urbana e quelli più grandi e frequentati sono:"
                 ]
             }
         },
@@ -938,6 +1541,25 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.68408,
+                    45.030314
+                ]
+            },
+            "properties": {
+                "entity": "Parco Europa",
+                "name_location": "Parco Europa, Circoscrizione 8, Cavoretto, Torino, Piemonte, Italia",
+                "class": "leisure",
+                "type": "park",
+                "snippet": [
+                    "il Parco del Valentino, il Parco della Pellerina, il Parco Colletta, il Parco Rignon e i più recenti Parco Ruffini e Parco Colonnetti. Attorno alla città, ad anello, vi sono il Parco della Mandria e il Parco della Palazzina di caccia di Stupinigi, antiche riserve di caccia dei Savoia, e quelli situati sulla collina torinese quali il Parco della Rimembranza o il Parco Europa. Nei vari quartieri della città sono presenti molti piccoli parchi, in cui sono presenti 240 aree gioco per bimbi."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.638445,
                     45.077403
                 ]
@@ -947,6 +1569,44 @@
                 "name_location": "Parco della Tesoriera, Circoscrizione 4, Torino, Piemonte, Italia",
                 "class": "leisure",
                 "type": "park",
+                "snippet": [
+                    "Torino ospita diversi grandi alberi. Dal grande platano del Parco della Tesoriera (660 cm di circonferenza del tronco, oltre due secoli di vita) ai platani del Parco del Valentino, dalle metasequoie del Giardino Roccioso inaugurato nel 1961 agli alberi più annosi dell'Orto Botanico fondato nel 1729, adiacente alle mura del Castello del Valentino. Torino ospita anche alberi esotici secolari come le sequoie costali ( Sequoia sempervirens ) dei parchi collinari di Villa Genero e Giacomo Leopardi, i numerosi esemplari di Noce del Caucaso ( Pterocarya fraxinifolia ) che costeggiano il Po e compaiono in parchi pubblici come i Giardini Cavour, il giardino Sambuy, i Giardini Reali Bassi (lungo Corso San Maurizio), il parco Millefonti."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.684333,
+                    45.050187
+                ]
+            },
+            "properties": {
+                "entity": "Giardino Roccioso",
+                "name_location": "Giardino roccioso, Viale Virgilio, San Salvario, Circoscrizione 8, Torino, Piemonte, 10125, Italia",
+                "class": "leisure",
+                "type": "garden",
+                "snippet": [
+                    "Torino ospita diversi grandi alberi. Dal grande platano del Parco della Tesoriera (660 cm di circonferenza del tronco, oltre due secoli di vita) ai platani del Parco del Valentino, dalle metasequoie del Giardino Roccioso inaugurato nel 1961 agli alberi più annosi dell'Orto Botanico fondato nel 1729, adiacente alle mura del Castello del Valentino. Torino ospita anche alberi esotici secolari come le sequoie costali ( Sequoia sempervirens ) dei parchi collinari di Villa Genero e Giacomo Leopardi, i numerosi esemplari di Noce del Caucaso ( Pterocarya fraxinifolia ) che costeggiano il Po e compaiono in parchi pubblici come i Giardini Cavour, il giardino Sambuy, i Giardini Reali Bassi (lungo Corso San Maurizio), il parco Millefonti."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.686056,
+                    45.05528
+                ]
+            },
+            "properties": {
+                "entity": "Orto Botanico",
+                "name_location": "Orto botanico, 25, Viale Pier Andrea Mattioli, San Salvario, Circoscrizione 8, Torino, Piemonte, 10125, Italia",
+                "class": "place",
+                "type": "house",
                 "snippet": [
                     "Torino ospita diversi grandi alberi. Dal grande platano del Parco della Tesoriera (660 cm di circonferenza del tronco, oltre due secoli di vita) ai platani del Parco del Valentino, dalle metasequoie del Giardino Roccioso inaugurato nel 1961 agli alberi più annosi dell'Orto Botanico fondato nel 1729, adiacente alle mura del Castello del Valentino. Torino ospita anche alberi esotici secolari come le sequoie costali ( Sequoia sempervirens ) dei parchi collinari di Villa Genero e Giacomo Leopardi, i numerosi esemplari di Noce del Caucaso ( Pterocarya fraxinifolia ) che costeggiano il Po e compaiono in parchi pubblici come i Giardini Cavour, il giardino Sambuy, i Giardini Reali Bassi (lungo Corso San Maurizio), il parco Millefonti."
                 ]
@@ -1025,6 +1685,45 @@
                 "type": "college",
                 "snippet": [
                     "il CIF-ILO (Centro Internazionale di Formazione dell'Organizzazione internazionale del lavoro), istituto di perfezionamento per i funzionari dell'agenzia ONU specializzata nella promozione della giustizia sociale e dei diritti del lavoro; lo United Nations System Staff College (UNSSC), la struttura incaricata della formazione dei funzionari delle Nazioni Unite; A Torino hanno inoltre sede la Fondazione europea per la formazione professionale (ETF), una delle agenzie dell'Unione europea, e l'Autorità di regolazione dei trasporti (ART), autorità indipendente italiana."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.666716,
+                    45.034422
+                ]
+            },
+            "properties": {
+                "entity": "Autorità",
+                "name_location": "Autorità di regolazione dei trasporti, Pista di Prova del Lingotto, Nizza Millefonti, Circoscrizione 8, Torino, Piemonte, 10126, Italia",
+                "class": "office",
+                "type": "government",
+                "snippet": [
+                    "lo United Nations System Staff College (UNSSC), la struttura incaricata della formazione dei funzionari delle Nazioni Unite; A Torino hanno inoltre sede la Fondazione europea per la formazione professionale (ETF), una delle agenzie dell'Unione europea, e l'Autorità di regolazione dei trasporti (ART), autorità indipendente italiana. Definita da Le Corbusier come «...la città con la più bella posizione naturale del mondo», celebrata da numerosi personaggi storici, tra cui Friedrich Nietzsche, Mark Twain e Jean-Jacques Rousseau, il quale descrisse il suo panorama dalla collina di Superga come «...il più bello spettacolo che possa colpire l'occhio umano», è una delle più importanti città barocche d'Europa ed è considerata, insieme a Milano e Palermo, la capitale italiana dell' Art Nouveau , di cui sono grande esempio, fra l'altro, i suoi innumerevoli e famosi caffè storici, fioriti soprattutto nel periodo risorgimentale e della Belle Époque ."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.661512,
+                    45.017949
+                ]
+            },
+            "properties": {
+                "entity": "Nord Italia",
+                "name_location": "Bengasi Nord, Via Nizza, Italia '61, Circoscrizione 8, Torino, Piemonte, 10127, Italia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "In totale, le presenze registrate in città durante l'anno solare sono state 4.800.000. Il sito internazionale di viaggi eDreams ha designato Torino come una delle mete turistiche più importanti a livello mondiale per il 2017 e come prima tappa turistica europea, definendola inoltre la capitale culturale del Nord Italia. La città ospita alcune importanti biblioteche:",
+                    "Nel 2014, dopo la pesante recessione che ha colpito la città, il Pil che dal 2007 al 2013 aveva subito una riduzione del 11,5%, si è stabilizzato alla quota di 36 miliardi, mentre il debito è sceso sotto i 3 miliardi di euro. Torino presenta un tasso di disoccupazione tra i più alti del Nord Italia, attestatosi nel 2014 al 12,9%, con un andamento che a partire dal 2008 ha seguito quello medio nazionale. Il tasso di disoccupazione nel 2019 si attesta all'8,3%."
                 ]
             }
         },
@@ -1148,6 +1847,45 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.699437,
+                    45.073382
+                ]
+            },
+            "properties": {
+                "entity": "Università degli Studi",
+                "name_location": "Università degli Studi di Torino, Corso Regina Margherita, Vanchiglia, Circoscrizione 7, Torino, Piemonte, 10124, Italia",
+                "class": "amenity",
+                "type": "university",
+                "snippet": [
+                    "A queste si aggiungono le biblioteche centrali e dipartimentali delle università: l'Università degli Studi ne dispone di 50, tra cui spicca la Biblioteca Interdipartimentale di Scienze Religiose Erik Peterson. Il Politecnico dispone di 17 biblioteche.",
+                    "Torino, secondo un'inchiesta di Skyscanner , fa parte delle dieci città universitarie più amate d'Italia. I principali istituti di studi superiori, oltre all'Università degli Studi e al Politecnico, sono: Accademia Albertina di belle arti Conservatorio Giuseppe Verdi Scuola di applicazione e Istituto di studi militari dell'Esercito Istituto europeo di design Istituto d'arte applicata e design International University College of Turin. A Torino ha inoltre sede uno dei cinque campus europei dell'ESCP Business School."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.688427,
+                    45.070953
+                ]
+            },
+            "properties": {
+                "entity": "Archivio di Stato",
+                "name_location": "Archivio di Stato di Torino - Sezione Corte, Piazzetta Carlo Mollino, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "Inoltre, i comuni di cintura dell'area urbana e metropolitana cittadina possiedono un sistema bibliotecario integrato denominato SBAM (Sistema Bibliotecario Area Metropolitana) composto di 65 biblioteche per un totale di circa 1.700.000 documenti. L'Archivio di Stato di Torino custodisce i documenti della corte e dell'amministrazione sabauda, sin dall'epoca medievale. A Torino hanno sede importanti istituti di ricerca scientifica, tecnologica e cinematografica che sono la testimonianza di una tradizione culturale improntata sulla sperimentazione e sull'innovazione."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.657527,
                     45.063697
                 ]
@@ -1161,6 +1899,123 @@
                     "qui Charles Babbage presentò per la prima volta in una conferenza scientifica il progetto della sua Macchina Analitica su invito dell'astronomo Giovanni Plana: circa un secolo dopo nacque il torinese Pier Giorgio Perotto, ideatore e progettista del primo \"personal computer\", la Programma 101, e fu anche docente del Politecnico di Torino. Nel 2016 Torino si è aggiudicato il secondo posto del prestigioso Premio Capitale Europea dell'Innovazione -",
                     "Considerata una delle capitali europee dell'automobile, a Torino e cintura sono presenti alcune delle più importanti aziende del settore: FIAT, Comau, Teksid, Magneti Marelli, Italdesign Giugiaro, Pininfarina, Iveco. Il forte radicamento del settore automobilistico nel territorio è favorito anche da un sistema universitario con percorsi di studio esclusivi a livello nazionale (il Politecnico di Torino è l'unico in Italia ad avere un corso di laurea in Ingegneria dell'autoveicolo) e la presenza di importanti università di design come l'IED e l'IAAD. In territorio torinese ci sono centri direzionali e stabilimenti produttivi di CNH Industrial, operante nel settore dei capital goods e tra i principali leader del settore e di Fiat Chrysler Automobiles dove Torino è diventata nodale per la crescita di Maserati:",
                     "Negli anni vi è stato un boom del settore informatico ed elettronico. Alla già preesistente attività di ricerca del Politecnico di Torino, dell'Istituto Mario Boella, dell'Istituto Galileo Ferraris e del Centro Ricerche Fiat, si è affiancata l'attività del distretto informatico Torino Wireless che appartiene alla rete dei distretti italiani riconosciuti dal Ministero dell'Università e della Ricerca. Nato per coordinare tutte le attività di ricerca e di produzione del settore ICT dell'area torinese, attualmente vi sono impegnate circa 6000 imprese."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.663065,
+                    45.062748
+                ]
+            },
+            "properties": {
+                "entity": "Politecnico",
+                "name_location": "Politecnico, Corso Duca degli Abruzzi, Crocetta, Circoscrizione 1, Torino, Piemonte, 10129, Italia",
+                "class": "railway",
+                "type": "tram_stop",
+                "snippet": [
+                    "Nei due più importanti atenei cittadini, l'Università di Torino e il Politecnico, risultavano iscritti nel 2006 quasi 100.000 studenti. Per l'anno 2020/2021 l'Università di Torino contava oltre 81.700 iscritti mentre il Politecnico 33.102, a cui vanno aggiunti gli iscritti ai corsi degli atenei minori. Torino, secondo un'inchiesta di Skyscanner , fa parte delle dieci città universitarie più amate d'Italia.",
+                    "Torino, secondo un'inchiesta di Skyscanner , fa parte delle dieci città universitarie più amate d'Italia. I principali istituti di studi superiori, oltre all'Università degli Studi e al Politecnico, sono: Accademia Albertina di belle arti Conservatorio Giuseppe Verdi Scuola di applicazione e Istituto di studi militari dell'Esercito Istituto europeo di design Istituto d'arte applicata e design International University College of Turin. A Torino ha inoltre sede uno dei cinque campus europei dell'ESCP Business School.",
+                    "Nato per coordinare tutte le attività di ricerca e di produzione del settore ICT dell'area torinese, attualmente vi sono impegnate circa 6000 imprese. Un'altra operazione importante è stata la riconversione di una parte della superficie occupata dalla fabbrica di Mirafiori, sostenuta dal progetto Torino Nuova Economia che, anche grazie alla collaborazione con il Politecnico, ospita il Centro del design . L'evento olimpico del 2006 ha contribuito a diminuire il ristagno economico."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.69297,
+                    45.069106
+                ]
+            },
+            "properties": {
+                "entity": "Museo del cinema",
+                "name_location": "Museo Nazionale del Cinema, 20, Via Montebello, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10124, Italia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "Torino possiede un sistema museale di livello internazionale, forte di oltre 50 musei presenti sul territorio cittadino e metropolitano, i quali hanno raggiunto nel 2017 la cifra complessiva di 5,3 milioni di visitatori. Vi sono quattro musei nazionali (Museo del cinema, Museo dell'automobile, Museo della montagna, Museo del Risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio, l'Armeria Reale, ora ricompresa nei Musei Reali, il Museo d'Arte Orientale, il Museo dell'Astronomia e Planetario, il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport. Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il Museo del Cinema, il Museo Egizio e il Museo dell'Automobile) o sono in corso di rinnovamento:"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.673455,
+                    45.031849
+                ]
+            },
+            "properties": {
+                "entity": "Museo dell'automobile",
+                "name_location": "MAUTO Museo Nazionale dell'Automobile, 40, Corso Unità d'Italia, Molinette, Circoscrizione 8, Cavoretto, Torino, Piemonte, 10126, Italia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "Torino possiede un sistema museale di livello internazionale, forte di oltre 50 musei presenti sul territorio cittadino e metropolitano, i quali hanno raggiunto nel 2017 la cifra complessiva di 5,3 milioni di visitatori. Vi sono quattro musei nazionali (Museo del cinema, Museo dell'automobile, Museo della montagna, Museo del Risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio, l'Armeria Reale, ora ricompresa nei Musei Reali, il Museo d'Arte Orientale, il Museo dell'Astronomia e Planetario, il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport. Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il Museo del Cinema, il Museo Egizio e il Museo dell'Automobile) o sono in corso di rinnovamento:"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.697004,
+                    45.05956
+                ]
+            },
+            "properties": {
+                "entity": "Museo della montagna",
+                "name_location": "Museo Nazionale della Montagna Duca degli Abruzzi, 7, Piazzale Monte dei Cappuccini, Borgo Po, Circoscrizione 8, Torino, Piemonte, 10131, Italia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "Torino possiede un sistema museale di livello internazionale, forte di oltre 50 musei presenti sul territorio cittadino e metropolitano, i quali hanno raggiunto nel 2017 la cifra complessiva di 5,3 milioni di visitatori. Vi sono quattro musei nazionali (Museo del cinema, Museo dell'automobile, Museo della montagna, Museo del Risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio, l'Armeria Reale, ora ricompresa nei Musei Reali, il Museo d'Arte Orientale, il Museo dell'Astronomia e Planetario, il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport. Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il Museo del Cinema, il Museo Egizio e il Museo dell'Automobile) o sono in corso di rinnovamento:"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.685886,
+                    45.068842
+                ]
+            },
+            "properties": {
+                "entity": "Museo del Risorgimento",
+                "name_location": "Museo nazionale del Risorgimento italiano, 5, Via Accademia delle Scienze, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "Torino possiede un sistema museale di livello internazionale, forte di oltre 50 musei presenti sul territorio cittadino e metropolitano, i quali hanno raggiunto nel 2017 la cifra complessiva di 5,3 milioni di visitatori. Vi sono quattro musei nazionali (Museo del cinema, Museo dell'automobile, Museo della montagna, Museo del Risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio, l'Armeria Reale, ora ricompresa nei Musei Reali, il Museo d'Arte Orientale, il Museo dell'Astronomia e Planetario, il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport. Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il Museo del Cinema, il Museo Egizio e il Museo dell'Automobile) o sono in corso di rinnovamento:"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.684351,
+                    45.068435
+                ]
+            },
+            "properties": {
+                "entity": "Museo egizio",
+                "name_location": "Museo Egizio, 6, Via Accademia delle Scienze, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "Torino possiede un sistema museale di livello internazionale, forte di oltre 50 musei presenti sul territorio cittadino e metropolitano, i quali hanno raggiunto nel 2017 la cifra complessiva di 5,3 milioni di visitatori. Vi sono quattro musei nazionali (Museo del cinema, Museo dell'automobile, Museo della montagna, Museo del Risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio, l'Armeria Reale, ora ricompresa nei Musei Reali, il Museo d'Arte Orientale, il Museo dell'Astronomia e Planetario, il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport. Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il Museo del Cinema, il Museo Egizio e il Museo dell'Automobile) o sono in corso di rinnovamento:",
+                    "Le collezioni di arte antica, la cui raccolta fu iniziata dal duca Emanuele Filiberto di Savoia nella seconda metà del Cinquecento, sono conservate nel Museo di antichità, che raccoglie anche le principali testimonianze archeologiche piemontesi dal Paleolitico al Tardo Medioevo. Dal Museo di Antichità furono separate, negli anni quaranta del Novecento, le collezioni egizie che costituirono il Museo egizio, il più importante d'Europa (nonché il più antico al mondo), in quanto custode della seconda collezione di arte egizia del mondo per vastità e importanza dopo quella del Museo del Cairo. Inoltre, l'apertura del MAO - Museo d'Arte Orientale nel dicembre 2008 ha permesso di ospitare ricche collezioni provenienti dal Vicino Oriente, dall'India, dalla Cina e dal Giappone, oltre che dall'Asia centrale."
                 ]
             }
         },
@@ -1200,6 +2055,82 @@
                 "snippet": [
                     "Torino possiede un sistema museale di livello internazionale, forte di oltre 50 musei presenti sul territorio cittadino e metropolitano, i quali hanno raggiunto nel 2017 la cifra complessiva di 5,3 milioni di visitatori. Vi sono quattro musei nazionali (Museo del cinema, Museo dell'automobile, Museo della montagna, Museo del Risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio, l'Armeria Reale, ora ricompresa nei Musei Reali, il Museo d'Arte Orientale, il Museo dell'Astronomia e Planetario, il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport. Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il Museo del Cinema, il Museo Egizio e il Museo dell'Automobile) o sono in corso di rinnovamento:",
                     "vi si trovano infatti opere di Leonardo da Vinci, Antonello da Messina, Beato Angelico, Andrea Mantegna, ma anche di Van Eyck, Rembrandt, Van Dyck. Per l'arte figurativa è da citare la Galleria Sabauda, una delle più importanti pinacoteche d'Italia oggi parte dei Musei Reali, che ospita dipinti per il periodo che va dal XII al XVIII secolo. Per l'arte moderna e contemporanea vi sono la Galleria civica d'arte moderna e contemporanea (il secondo museo di arte moderna in Italia, con 5.000 dipinti e 400 sculture), il Museo civico d'arte antica di Palazzo Madama, la Fondazione Sandretto Re Rebaudengo contenente esposizioni degli artisti contemporanei provenienti da tutto il mondo e la Pinacoteca Giovanni e Marella Agnelli e la Fondazione Merz."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.69297,
+                    45.069106
+                ]
+            },
+            "properties": {
+                "entity": "Museo del Cinema",
+                "name_location": "Museo Nazionale del Cinema, 20, Via Montebello, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10124, Italia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "Vi sono quattro musei nazionali (Museo del cinema, Museo dell'automobile, Museo della montagna, Museo del Risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio, l'Armeria Reale, ora ricompresa nei Musei Reali, il Museo d'Arte Orientale, il Museo dell'Astronomia e Planetario, il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport. Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il Museo del Cinema, il Museo Egizio e il Museo dell'Automobile) o sono in corso di rinnovamento: tra questi, il Museo di anatomia umana Luigi Rolando, il Museo di Antropologia ed Etnografia, ed il Museo di antropologia criminale Cesare Lombroso, che verranno unificati in un unico Museo dell'Uomo, all'interno del \"Palazzo degli Istituti Anatomici\" di corso Massimo d'Azeglio."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.673455,
+                    45.031849
+                ]
+            },
+            "properties": {
+                "entity": "Museo dell'Automobile",
+                "name_location": "MAUTO Museo Nazionale dell'Automobile, 40, Corso Unità d'Italia, Molinette, Circoscrizione 8, Cavoretto, Torino, Piemonte, 10126, Italia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "Vi sono quattro musei nazionali (Museo del cinema, Museo dell'automobile, Museo della montagna, Museo del Risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio, l'Armeria Reale, ora ricompresa nei Musei Reali, il Museo d'Arte Orientale, il Museo dell'Astronomia e Planetario, il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport. Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il Museo del Cinema, il Museo Egizio e il Museo dell'Automobile) o sono in corso di rinnovamento: tra questi, il Museo di anatomia umana Luigi Rolando, il Museo di Antropologia ed Etnografia, ed il Museo di antropologia criminale Cesare Lombroso, che verranno unificati in un unico Museo dell'Uomo, all'interno del \"Palazzo degli Istituti Anatomici\" di corso Massimo d'Azeglio."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.679763,
+                    45.049755
+                ]
+            },
+            "properties": {
+                "entity": "Museo di Antropologia",
+                "name_location": "Museo di antropologia criminale Lombroso, 15, Via Pietro Giuria, San Salvario, Circoscrizione 8, Torino, Piemonte, 10126, Italia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il Museo del Cinema, il Museo Egizio e il Museo dell'Automobile) o sono in corso di rinnovamento: tra questi, il Museo di anatomia umana Luigi Rolando, il Museo di Antropologia ed Etnografia, ed il Museo di antropologia criminale Cesare Lombroso, che verranno unificati in un unico Museo dell'Uomo, all'interno del \"Palazzo degli Istituti Anatomici\" di corso Massimo d'Azeglio. Molto importanti sono le collezioni artistiche della città:"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.679763,
+                    45.049755
+                ]
+            },
+            "properties": {
+                "entity": "Museo di antropologia",
+                "name_location": "Museo di antropologia criminale Lombroso, 15, Via Pietro Giuria, San Salvario, Circoscrizione 8, Torino, Piemonte, 10126, Italia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il Museo del Cinema, il Museo Egizio e il Museo dell'Automobile) o sono in corso di rinnovamento: tra questi, il Museo di anatomia umana Luigi Rolando, il Museo di Antropologia ed Etnografia, ed il Museo di antropologia criminale Cesare Lombroso, che verranno unificati in un unico Museo dell'Uomo, all'interno del \"Palazzo degli Istituti Anatomici\" di corso Massimo d'Azeglio. Molto importanti sono le collezioni artistiche della città:"
                 ]
             }
         },
@@ -1360,6 +2291,25 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.688691,
+                    45.064629
+                ]
+            },
+            "properties": {
+                "entity": "Museo Regionale di Scienze Naturali",
+                "name_location": "Museo Regionale di Scienze Naturali, 36, Via Giovanni Giolitti, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "Testimonianze della storia di Torino sono a disposizione presso l'Istituto Storico della Resistenza, che gestisce inoltre il Museo diffuso della Resistenza, della deportazione, della guerra, dei diritti e della libertà. Per quanto riguarda le scienze, è sicuramente da ricordare il Museo Regionale di Scienze Naturali, tra i maggiori in Italia dello specifico settore, e il Museo della Sindone, che illustra al visitatore le scoperte scientifiche sul telo sindonico. Da ricordare il Museo dell'astronomia e Planetario di Torino, che sorge accanto dell'Osservatorio astronomico di Torino a Pino Torinese, cittadina collinare nei pressi immediati del capoluogo piemontese."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.676579,
                     45.07614
                 ]
@@ -1371,6 +2321,63 @@
                 "type": "museum",
                 "snippet": [
                     "Testimonianze della storia di Torino sono a disposizione presso l'Istituto Storico della Resistenza, che gestisce inoltre il Museo diffuso della Resistenza, della deportazione, della guerra, dei diritti e della libertà. Per quanto riguarda le scienze, è sicuramente da ricordare il Museo Regionale di Scienze Naturali, tra i maggiori in Italia dello specifico settore, e il Museo della Sindone, che illustra al visitatore le scoperte scientifiche sul telo sindonico. Da ricordare il Museo dell'astronomia e Planetario di Torino, che sorge accanto dell'Osservatorio astronomico di Torino a Pino Torinese, cittadina collinare nei pressi immediati del capoluogo piemontese."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.685465,
+                    45.07087
+                ]
+            },
+            "properties": {
+                "entity": "Museo A",
+                "name_location": "Museo Civico d'Arte Antica, Piazza Castello, Centro, Circoscrizione 1, Torino, Piemonte, 10122, Italia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "Da ricordare il Museo dell'astronomia e Planetario di Torino, che sorge accanto dell'Osservatorio astronomico di Torino a Pino Torinese, cittadina collinare nei pressi immediati del capoluogo piemontese. Nel 2004 è stato inaugurato il Museo A come Ambiente, il primo in Europa interamente dedicato alle tematiche ambientali. Da segnalare, infine, che tutti i musei sopra indicati, più numerosi altri all'interno della Regione Piemonte per un totale di circa 200 siti, sono gratuitamente e illimitatamente accessibili tramite l'Abbonamento Musei regionale, che fin dagli anni '90 è stato sviluppato per permettere la fruizione dei luoghi museali sul territorio previo acquisto annuale forfettario, e che nel 2017 ha raggiunto l'importante obiettivo delle oltre 136.000 tessere vendute e i circa 900.000 ingressi nei siti convenzionati."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.691766,
+                    45.0685
+                ]
+            },
+            "properties": {
+                "entity": "Museo della Radio",
+                "name_location": "Museo della Radio e della Televisione, 16, Via Giuseppe Verdi, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10124, Italia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "Torino è tra le sedi principali del Centro di Produzione Televisiva Rai, come quelli di Roma, Milano e Napoli. Assieme a queste tre sedi, da quando ha iniziato i suoi programmi nel 1954, il centro di Torino (ospitante il Museo della Radio e della Televisione) è stato anche il primo dell'azienda televisiva. Torino, inoltre, prima che si trasformasse in RAI, già ospitava il centro di direzione dell'EIAR dal 1927."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.686896,
+                    45.070385
+                ]
+            },
+            "properties": {
+                "entity": "via Po",
+                "name_location": "Via Po, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "Torino è la città italiana in cui fu per prima stabilita l'industria cinematografica, in ragione della storica vicinanza geografica e culturale con la Francia dei fratelli Lumière. Proprio nel capoluogo piemontese, nel marzo 1896, gli inventori del cinematografo esibirono la prima proiezione di un film in Italia ed in via Po, a novembre, la prima davanti ad un pubblico pagante. I primi studi cinematografici italiani aprirono a Torino nel 1907."
                 ]
             }
         },
@@ -1476,6 +2483,25 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.689876,
+                    45.063687
+                ]
+            },
+            "properties": {
+                "entity": "Piazza Cavour",
+                "name_location": "Piazza Camillo Benso Conte di Cavour, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "Un poliziesco interamente girato a Torino. Sono numerosi i luoghi riconoscibili della città, come Piazza Statuto, Piazza Cavour e Corso Francia. American Gigolò ."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.687956,
                     45.070592
                 ]
@@ -1534,6 +2560,25 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.692235,
+                    45.075779
+                ]
+            },
+            "properties": {
+                "entity": "Ponte Rossini",
+                "name_location": "Ponte delle Benne, Rossini, Circoscrizione 7, Torino, Piemonte, 10124, Italia",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "Il divo . Le riprese sono state effettuate a Palazzo Saluzzo Paesana, a Palazzo Birago di Borgaro, a Palazzo dei Draghi, in via Carlo Alberto, nella Casa Circondariale “Lorusso e Cutugno”, al Palazzo Civico e al Ponte Rossini. Vincere ."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.683076,
                     45.0689
                 ]
@@ -1545,6 +2590,25 @@
                 "type": "footway",
                 "snippet": [
                     "Vincere . Il film è stato girato in diverse location torinesi, tra cui via Palazzo di Città, Galleria San Federico, l’ex manicomio di Collegno e l’ex “Poveri Vecchi”. La solitudine dei numeri primi ."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.692401,
+                    45.071178
+                ]
+            },
+            "properties": {
+                "entity": "Auditorium",
+                "name_location": "Auditorium, Via Gioachino Rossini, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10124, Italia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "Soap opera. Cuori rubati CentoVetrine (dal 2007 in numerosi cambi di scene si possono osservare i principali monumenti della città) Vivere Il bene e il male Elisa di Rivombrosa L'ente lirico di Torino è il Teatro Regio, mentre la principale orchestra sinfonica cittadina è l'Orchestra sinfonica nazionale della RAI, che si esibisce all'Auditorium della RAI. Nell'ambito della musica classica sono attive anche l'Orchestra Filarmonica di Torino, la Filarmonica del Regio e l'Accademia Musicale Stefano Tempia, specializzata nel repertorio barocco."
                 ]
             }
         },
@@ -1612,8 +2676,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.685267,
-                    45.070585
+                    7.687126,
+                    45.070863
                 ]
             },
             "properties": {
@@ -1623,6 +2687,63 @@
                 "type": "tertiary",
                 "snippet": [
                     "Da qualche tempo vi sono in città dei tour operator che organizzano anche visite guidate sui misteri di Torino. Per gli esoteristi la magia positiva di Torino nasce dal \"cuore bianco\" di piazza Castello, dal Duomo che custodisce la Sacra Sindone alla Gran Madre di Dio e fino alla Mole Antonelliana, che indica il cielo. Ai lati della scalinata che conduce all'ingresso della chiesa della Gran Madre di Dio troviamo le due statue raffiguranti la Fede e la Religione, tra le quali si troverebbe il nascondiglio del Graal."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.699251,
+                    45.062928
+                ]
+            },
+            "properties": {
+                "entity": "Gran Madre di Dio",
+                "name_location": "Gran Madre, 1, Piazza Gran Madre di Dio, Borgo Po, Circoscrizione 8, Torino, Piemonte, 10131, Italia",
+                "class": "amenity",
+                "type": "pharmacy",
+                "snippet": [
+                    "Da qualche tempo vi sono in città dei tour operator che organizzano anche visite guidate sui misteri di Torino. Per gli esoteristi la magia positiva di Torino nasce dal \"cuore bianco\" di piazza Castello, dal Duomo che custodisce la Sacra Sindone alla Gran Madre di Dio e fino alla Mole Antonelliana, che indica il cielo. Ai lati della scalinata che conduce all'ingresso della chiesa della Gran Madre di Dio troviamo le due statue raffiguranti la Fede e la Religione, tra le quali si troverebbe il nascondiglio del Graal."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.684351,
+                    45.068435
+                ]
+            },
+            "properties": {
+                "entity": "Museo di Scienze",
+                "name_location": "Museo Egizio, 6, Via Accademia delle Scienze, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "Share Festival : evento internazionale di arti e culture digitali che si tiene a novembre al Museo di Scienze Naturali. \"Festival internazionale Terra Madre\":"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.686193,
+                    45.064901
+                ]
+            },
+            "properties": {
+                "entity": "Centro Congressi",
+                "name_location": "Centro congressi \"Torino Incontra\", Via Nino Costa, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
+                "class": "amenity",
+                "type": "conference_centre",
+                "snippet": [
+                    "evento internazionale incentrato sulla computer grafica, le tecniche interattive, il cinema digitale, l'animazione 2D/3D, i videogiochi e gli effetti visivi. Si tiene ogni anno al Centro Congressi \"Torino Incontra\" durante la stagione autunnale. VIEWFest ."
                 ]
             }
         },
@@ -1708,15 +2829,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.665338,
-                    45.067942
+                    7.671149,
+                    45.062733
                 ]
             },
             "properties": {
                 "entity": "Centro - Crocetta Circoscrizione II",
-                "name_location": "NH Torino Centro, 104, Corso Vittorio Emanuele II, Crocetta, Circoscrizione 1, Torino, Piemonte, 10121, Italia",
-                "class": "tourism",
-                "type": "hotel",
+                "name_location": "Torino (Stati Uniti Cap.), Corso Stati Uniti, San Secondo, Circoscrizione 1, Torino, Piemonte, 10128, Italia",
+                "class": "highway",
+                "type": "bus_stop",
                 "snippet": [
                     "Circoscrizione I : Centro - Crocetta Circoscrizione II : Santa Rita - Mirafiori Nord - Mirafiori Sud Circoscrizione III :"
                 ]
@@ -1765,15 +2886,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.635255,
-                    45.067048
+                    7.643318,
+                    45.074859
                 ]
             },
             "properties": {
                 "entity": "Strada - Cit Turin",
-                "name_location": "Anni Azzurri Cit Turin, 19, Via Lorenzo Delleani, Pozzo Strada, Circoscrizione 3, Torino, Piemonte, 10141, Italia",
-                "class": "amenity",
-                "type": "nursing_home",
+                "name_location": "Findomestic centro Clienti TORINO RIVOLI, 7, Piazza Rivoli, Cenisia, Circoscrizione 3, Torino, Piemonte, 10139, Italia",
+                "class": "shop",
+                "type": "money_lender",
                 "snippet": [
                     "Santa Rita - Mirafiori Nord - Mirafiori Sud Circoscrizione III : Borgo San Paolo - Cenisia - Pozzo Strada - Cit Turin - Borgata Lesna Circoscrizione IV : San Donato - Campidoglio - Parella Circoscrizione V :"
                 ]
@@ -1860,17 +2981,188 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.676541,
-                    45.088612
+                    7.660559,
+                    45.062309
+                ]
+            },
+            "properties": {
+                "entity": "Ingegneria",
+                "name_location": "DISEG – Dipartimento di Ingegneria Strutturale, Edile e Geotecnica, Via Enrico D'Ovidio, Crocetta, Circoscrizione 1, Torino, Piemonte, 10129, Italia",
+                "class": "office",
+                "type": "educational_institution",
+                "snippet": [
+                    "Considerata una delle capitali europee dell'automobile, a Torino e cintura sono presenti alcune delle più importanti aziende del settore: FIAT, Comau, Teksid, Magneti Marelli, Italdesign Giugiaro, Pininfarina, Iveco. Il forte radicamento del settore automobilistico nel territorio è favorito anche da un sistema universitario con percorsi di studio esclusivi a livello nazionale (il Politecnico di Torino è l'unico in Italia ad avere un corso di laurea in Ingegneria dell'autoveicolo) e la presenza di importanti università di design come l'IED e l'IAAD. In territorio torinese ci sono centri direzionali e stabilimenti produttivi di CNH Industrial, operante nel settore dei capital goods e tra i principali leader del settore e di Fiat Chrysler Automobiles dove Torino è diventata nodale per la crescita di Maserati:"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.666805,
+                    45.051282
+                ]
+            },
+            "properties": {
+                "entity": "Unicredit",
+                "name_location": "Unicredit, Corso Filippo Turati, Crocetta, Circoscrizione 1, Torino, Piemonte, 10128, Italia",
+                "class": "amenity",
+                "type": "bank",
+                "snippet": [
+                    "Le fondazioni bancarie Compagnia di San Paolo e Fondazione CRT operano in campo sociale, culturale e filantropico e sono rispettivamente la seconda e la terza fondazione d'origine bancaria d'Italia per dimensione patrimoniale; la prima è la principale azionista del gruppo Intesa Sanpaolo, mentre la seconda fa parte della compagine azionaria di Unicredit. Anche le banche di private banking e d'investimento Fideuram e Banca Investis hanno sede a Torino, così come la più piccola Banca del Piemonte."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.725702,
+                    45.052532
+                ]
+            },
+            "properties": {
+                "entity": "Lavazza",
+                "name_location": "Lavazza, Via Luigi Lavazza, Circoscrizione 7, Reaglie, Torino, Piemonte, 10131, Italia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "Anche le banche di private banking e d'investimento Fideuram e Banca Investis hanno sede a Torino, così come la più piccola Banca del Piemonte. Altre aziende di rilievo in territorio torinese sono: Lavazza, Caffè Vergnano, Martini & Rossi, Alpitour, Reply, Avio Aero, Basic Net (Robe di Kappa), Carlo Pignatelli, De Fonseca, Sabelt, Sparco, Seven, Urmet, Kelémata e il Gruppo Armando Testa. A Torino o nella sua città metropolitana hanno sede legale anche diverse filiali italiane di società estere come Suzuki, Vodafone Italia, Bavaria, Diageo, Michelin, Kimberly-Clark, Petronas, Mizuno e SKF."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.666877,
+                    45.032636
+                ]
+            },
+            "properties": {
+                "entity": "Reply",
+                "name_location": "Reply, Pista di Prova del Lingotto, Nizza Millefonti, Circoscrizione 8, Torino, Piemonte, 10126, Italia",
+                "class": "office",
+                "type": "company",
+                "snippet": [
+                    "Anche le banche di private banking e d'investimento Fideuram e Banca Investis hanno sede a Torino, così come la più piccola Banca del Piemonte. Altre aziende di rilievo in territorio torinese sono: Lavazza, Caffè Vergnano, Martini & Rossi, Alpitour, Reply, Avio Aero, Basic Net (Robe di Kappa), Carlo Pignatelli, De Fonseca, Sabelt, Sparco, Seven, Urmet, Kelémata e il Gruppo Armando Testa. A Torino o nella sua città metropolitana hanno sede legale anche diverse filiali italiane di società estere come Suzuki, Vodafone Italia, Bavaria, Diageo, Michelin, Kimberly-Clark, Petronas, Mizuno e SKF."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.706451,
+                    45.086731
+                ]
+            },
+            "properties": {
+                "entity": "Urmet",
+                "name_location": "Urmet S.p.a, Circoscrizione 6, Torino, Piemonte, Italia",
+                "class": "landuse",
+                "type": "industrial",
+                "snippet": [
+                    "Anche le banche di private banking e d'investimento Fideuram e Banca Investis hanno sede a Torino, così come la più piccola Banca del Piemonte. Altre aziende di rilievo in territorio torinese sono: Lavazza, Caffè Vergnano, Martini & Rossi, Alpitour, Reply, Avio Aero, Basic Net (Robe di Kappa), Carlo Pignatelli, De Fonseca, Sabelt, Sparco, Seven, Urmet, Kelémata e il Gruppo Armando Testa. A Torino o nella sua città metropolitana hanno sede legale anche diverse filiali italiane di società estere come Suzuki, Vodafone Italia, Bavaria, Diageo, Michelin, Kimberly-Clark, Petronas, Mizuno e SKF."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.661352,
+                    45.018402
+                ]
+            },
+            "properties": {
+                "entity": "Vodafone Italia",
+                "name_location": "Vodafone, 37/A, Corso Piero Maroncelli, Italia '61, Circoscrizione 8, Torino, Piemonte, 10127, Italia",
+                "class": "shop",
+                "type": "mobile_phone",
+                "snippet": [
+                    "Altre aziende di rilievo in territorio torinese sono: Lavazza, Caffè Vergnano, Martini & Rossi, Alpitour, Reply, Avio Aero, Basic Net (Robe di Kappa), Carlo Pignatelli, De Fonseca, Sabelt, Sparco, Seven, Urmet, Kelémata e il Gruppo Armando Testa. A Torino o nella sua città metropolitana hanno sede legale anche diverse filiali italiane di società estere come Suzuki, Vodafone Italia, Bavaria, Diageo, Michelin, Kimberly-Clark, Petronas, Mizuno e SKF. Negli anni la città ha attraversato una lunga fase di riconversione industriale, sia per la crisi dell'industria metalmeccanica, sia per la tendenza delle aziende dei paesi avanzati a trasferire le loro produzioni manifatturiere nei paesi in via di sviluppo."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.679009,
+                    45.064273
+                ]
+            },
+            "properties": {
+                "entity": "Mizuno",
+                "name_location": "Mizuno, Piazza Pietro Paleocapa, Centro, Circoscrizione 1, Torino, Piemonte, 10121, Italia",
+                "class": "shop",
+                "type": "shoes",
+                "snippet": [
+                    "Altre aziende di rilievo in territorio torinese sono: Lavazza, Caffè Vergnano, Martini & Rossi, Alpitour, Reply, Avio Aero, Basic Net (Robe di Kappa), Carlo Pignatelli, De Fonseca, Sabelt, Sparco, Seven, Urmet, Kelémata e il Gruppo Armando Testa. A Torino o nella sua città metropolitana hanno sede legale anche diverse filiali italiane di società estere come Suzuki, Vodafone Italia, Bavaria, Diageo, Michelin, Kimberly-Clark, Petronas, Mizuno e SKF. Negli anni la città ha attraversato una lunga fase di riconversione industriale, sia per la crisi dell'industria metalmeccanica, sia per la tendenza delle aziende dei paesi avanzati a trasferire le loro produzioni manifatturiere nei paesi in via di sviluppo."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.682489,
+                    45.067755
+                ]
+            },
+            "properties": {
+                "entity": "Metropolitana",
+                "name_location": "Torino, Piemonte, Italia",
+                "class": "boundary",
+                "type": "administrative",
+                "snippet": [
+                    "L'evento olimpico del 2006 ha contribuito a diminuire il ristagno economico. Grandi opere pubbliche come quelle per il Passante Ferroviario, la Metropolitana e le Spine hanno ridisegnato e stanno ridisegnando il volto della città. Culla del cinema italiano, grazie all'associazione Torino Film Commission, la città è diventata un'apprezzata quinta per l'ambientazione e la produzione di film, pubblicità e video musicali."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.69351,
+                    45.07384
                 ]
             },
             "properties": {
                 "entity": "Torino Dora",
-                "name_location": "Dora, Corso Principe Oddone, Parco Dora (Spina 3), Circoscrizione 4, Torino, Piemonte, 10147, Italia",
-                "class": "railway",
-                "type": "construction",
+                "name_location": "Torino (Lungo Dora Siena/v. Rossini), Lungo Dora Siena, Rossini, Circoscrizione 7, Torino, Piemonte, 10124, Italia",
+                "class": "highway",
+                "type": "bus_stop",
                 "snippet": [
                     "è costituita principalmente da linee ferroviarie RFI ma anche da linee locali GTT. La tratta urbana di competenza del GTT è quella che parte da Torino Dora e che va sino alla periferia Nord al confine con il comune di Venaria Reale (direzione Caselle Torinese - Aeroporto Sandro Pertini - Ceres). Le linee ferroviarie principali che si dipartono da Torino sono quelle che vanno verso Genova (via Asti e Alessandria), verso Milano (via Novara e Vercelli) e verso la Francia (via Bardonecchia e il Traforo ferroviario del Frejus) e Ventimiglia (via Cuneo e il Traforo ferroviario del Colle di Tenda)."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.682489,
+                    45.067755
+                ]
+            },
+            "properties": {
+                "entity": "Città Metropolitana di Torino",
+                "name_location": "Torino, Piemonte, Italia",
+                "class": "boundary",
+                "type": "administrative",
+                "snippet": [
+                    "Ci sono poi linee minori verso Ivrea-Aosta, Mondovì-Savona, Pinerolo-Torre Pellice, Trofarello-Chieri, Cirié-Lanzo Torinese-Ceres e Rivarolo Canavese-Cuorgnè-Pont Canavese. Il servizio ferroviario metropolitano di Torino (SFM) è un sistema di trasporto pubblico locale della Città Metropolitana di Torino coordinato dall'Agenzia Mobilità Metropolitana ed interamente finanziato dalla Regione Piemonte. Il servizio è composto da 8 linee gestite da Trenitalia e dal Gruppo Torinese Trasporti, per un'estensione di circa 500 km, 365 collegamenti giornalieri e 93 stazioni collegate."
                 ]
             }
         },
@@ -1890,6 +3182,25 @@
                 "type": "administrative",
                 "snippet": [
                     "Il servizio è composto da 8 linee gestite da Trenitalia e dal Gruppo Torinese Trasporti, per un'estensione di circa 500 km, 365 collegamenti giornalieri e 93 stazioni collegate. Il SFM offre un collegamento fra le diverse zone del Torinese e delle contigue province di Cuneo e Asti, permettendo coincidenze cadenzate tra i treni del servizio ferroviario regionale del Piemonte, i treni a lunga percorrenza ed AV, la rete tranviaria di Torino e autobus urbani, con autobus extraurbani e la metropolitana di Torino. Attualmente la città di Torino dispone di uno scalo aereo internazionale:"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.691672,
+                    45.065262
+                ]
+            },
+            "properties": {
+                "entity": "ATM",
+                "name_location": "Chainblock ATM, 38, Via Maria Vittoria, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
+                "class": "amenity",
+                "type": "atm",
+                "snippet": [
+                    "LILT). La rete di trasporti di Torino è gestita dal GTT, acronimo di Gruppo Torinese Trasporti, nato nel 2003 dalla fusione di ATM e SATTI. Nel territorio comunale di Torino il sistema di mobilità metropolitana e ferroviaria urbana si sviluppa complessivamente per 29 km, articolati su 8 linee servite da 28 stazioni."
                 ]
             }
         },

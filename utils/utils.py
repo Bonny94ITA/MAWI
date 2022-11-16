@@ -199,7 +199,6 @@ def clean_entities(sentence, cities: list):
                 ent = ent[:-1]
 
             if ent[-1].pos_ == "ADP": # delete the last word if it is an adposition
-                print("ent da ripulire: ", ent)
                 ent = ent[:-1]
 
             entities.append(ent.text)
@@ -282,13 +281,14 @@ def to_geojson(df: pd.DataFrame):
 def search_entities_geopy(searchable_entities: dict, context: dict, title_page: str, features = list()): 
     locator = Nominatim(user_agent="PoI_geocoding")
     geocode = RateLimiter(locator.geocode, min_delay_seconds=1)
+    name_context = context['name']
     locations = []
     for ent in searchable_entities.keys():
-        locations.extend([[ent, searchable_entities[ent]]])
+        locations.extend([[ent, ent + " " + name_context, searchable_entities[ent]]])
 
-    df = pd.DataFrame(locations, columns=['entity', 'snippet'])
+    df = pd.DataFrame(locations, columns=['entity', 'to_search', 'snippet'])
     df.head()
-    df['address'] = df['entity'].apply(geocode)
+    df['address'] = df['to_search'].apply(geocode)
 
     df = df[pd.notnull(df['address'])]
     df['coordinates'] = df['address'].apply(lambda loc: Point((loc.longitude, loc.latitude)) if loc else None)
