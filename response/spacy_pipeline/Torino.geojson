@@ -704,15 +704,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.249118,
-                    45.961114
+                    17.275103,
+                    40.462076
                 ]
             },
             "properties": {
-                "entity": "parco archeologico della",
-                "name_location": "Parco Archeologico Asinino - Anvòia, Via Creelone, Creelone, Ossimo, Comunità montana della valle Camonica, Brescia, Lombardia, 25040, Italia",
-                "class": "historic",
-                "type": "archaeological_site",
+                "entity": "parco archeologico",
+                "name_location": "Parco Archeologico, Taranto, Puglia, 74121, Italia",
+                "class": "leisure",
+                "type": "park",
                 "snippet": [
                     "resti di piccolo villaggio celto-ligure databile fra il IV e il III secolo a.C. con emergenze archeologiche di un successivo insediamento tardo-antico e altomedievale; parco archeologico della Porta Palatina e delle mura romane; Porta Decumana, inglobata in Palazzo Madama, e relativi scavi archeologici;"
                 ]
@@ -1010,6 +1010,7 @@
                     "Tra i monumenti di Torino più noti anche all'estero sono da citare l'ottocentesca Mole Antonelliana, simbolo incontrastato della città, che ospita il Museo nazionale del cinema (il principale d'Europa); il Palazzo Reale (antica dimora dei duchi ed in seguito dei re di Casa Savoia); la rinascimentale cattedrale di San Giovanni Battista del XV secolo (celebre in quanto vi è custodita la Sacra Sindone);",
                     "La città di Torino e i suoi dintorni sono abbelliti dalle numerose residenze sabaude, Patrimonio dell'umanità dell'UNESCO; nel comune di Torino si trovano il Palazzo Reale, il Palazzo Madama, la Villa della Regina e il Castello del Valentino. Torino vanta anche cospicua presenza di edifici Liberty realizzati tra la fine del XIX e l'inizio del XX secolo.",
                     "All'interno del perimetro cittadino figurano cinque siti iscritti nella lista del Patrimonio Mondiale dell'UNESCO: Palazzo Reale e la zona di comando (o musei reali) Palazzo Madama Palazzo Carignano Castello del Valentino Villa della Regina A questi si aggiunge la Basilica di Superga la quale, pur facendo parte del circuito delle residenze sabaude, non è compresa nella lista UNESCO. Carceri Nuove Cisternone Galleria Subalpina Lingotto Opera per Torino Grattacielo Intesa Sanpaolo Grattacielo della Regione Piemonte Cascina Giajone Cascina Roccafranca Numerosi sono gli edifici di culto presenti nella città di Torino.",
+                    "il Festival del Cinema Digitale organizzato da VIEW Conference, si svolge annualmente al Cinema Massimo. \"Cinema a Palazzo Reale\". Arena estiva dedicata ai classici del cinema che si svolge ogni anno, dal 2012, nel Cortile d'Onore di Palazzo Reale.",
                     "\"Cinema a Palazzo Reale\". Arena estiva dedicata ai classici del cinema che si svolge ogni anno, dal 2012, nel Cortile d'Onore di Palazzo Reale. Ostensione della Sindone del 1998 per celebrare il centenario della prima fotografia della reliquia e il cinquecentenario del Duomo di Torino."
                 ]
             }
@@ -1360,25 +1361,6 @@
             "properties": {
                 "entity": "Basilica del Corpus Domini",
                 "name_location": "Basilica del Corpus Domini, Piazza Corpus Domini, Centro, Circoscrizione 1, Torino, Piemonte, 10122, Italia",
-                "class": "amenity",
-                "type": "place_of_worship",
-                "snippet": [
-                    "Alla progettazione e realizzazione delle opere relative hanno contribuito architetti di chiara fama, fra i quali: Amedeo di Castellamonte (Cappella della Sacra Sindone, Basilica del Corpus Domini) Carlo di Castellamonte (Cappella della Sacra Sindone, Chiesa di Santa Cristina) Andrea Costaguta (Chiesa di San Francesco da Paola, Chiesa di Santa Teresa) Guarino Guarini (Cappella della Sacra Sindone, Santuario della Consolata, Chiesa di San Lorenzo) Filippo Juvarra (Basilica di Superga, Chiesa di San Filippo Neri, Santuario della Consolata, Chiesa di Santa Cristina, Chiesa della Madonna del Carmine) Filippo Giovanni Battista Nicolis di Robilant (Chiesa di Santa Pelagia, Chiesa della Misericordia) Bernardo Antonio Vittone (Chiesa della Santissima Annunziata, Chiesa di Santa Maria di Piazza, Chiesa di San Francesco d'Assisi, Chiesa di Santa Chiara, Cappella Anselmetti) Ascanio Vittozzi (Basilica del Corpus Domini, Chiesa della Santissima Trinità) Pietro Bonvicini (Chiesa di San Michele Arcangelo) Giuseppe e Bartolomeo Gallo (Chiesa di Gesù Nazareno, Chiesa di San Bernardino da Siena) Nicola Mosso (Chiesa del Gesù Redentore) Cimitero Monumentale (già Cimitero Generale): sito in Corso Novara, 135 (quartiere Regio Parco), è il primo cimitero di Torino per dimensioni;"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.331079,
-                    44.800632
-                ]
-            },
-            "properties": {
-                "entity": "Chiesa di Santa Cristina",
-                "name_location": "Chiesa di Santa Cristina, Strada Ventidue Luglio, Parma Centro, Parma, Emilia-Romagna, 43121, Italia",
                 "class": "amenity",
                 "type": "place_of_worship",
                 "snippet": [
@@ -2121,7 +2103,7 @@
                 ]
             },
             "properties": {
-                "entity": "Auditorium \"Vivaldi\"",
+                "entity": "Auditorium \"Vivaldi",
                 "name_location": "Auditorium Vivaldi, 1, Via Monte Oro, Borgo Isola, San Giuseppe, Cassola, Vicenza, Veneto, 36022, Italia",
                 "class": "amenity",
                 "type": "theatre",
@@ -3214,7 +3196,7 @@
                 ]
             },
             "properties": {
-                "entity": "Archivio di Stato di",
+                "entity": "Archivio di Stato",
                 "name_location": "Archivio di Stato, Piazzetta Giustino Fortunato, Pendino, Municipalità 2, Napoli, Campania, 80138, Italia",
                 "class": "amenity",
                 "type": "library",
@@ -3370,12 +3352,13 @@
                 ]
             },
             "properties": {
-                "entity": "Museo egizio,",
+                "entity": "Museo egizio",
                 "name_location": "Museo Egizio, Piazza Castello, Brera, Municipio 1, Milano, Lombardia, 20121, Italia",
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
-                    "Torino possiede un sistema museale di livello internazionale, forte di oltre 50 musei presenti sul territorio cittadino e metropolitano, i quali hanno raggiunto nel 2017 la cifra complessiva di 5,3 milioni di visitatori. Vi sono quattro musei nazionali (Museo del cinema, Museo dell'automobile, Museo della montagna, Museo del Risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio, l'Armeria Reale, ora ricompresa nei Musei Reali, il Museo d'Arte Orientale, il Museo dell'Astronomia e Planetario, il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport. Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il Museo del Cinema, il Museo Egizio e il Museo dell'Automobile) o sono in corso di rinnovamento:"
+                    "Torino possiede un sistema museale di livello internazionale, forte di oltre 50 musei presenti sul territorio cittadino e metropolitano, i quali hanno raggiunto nel 2017 la cifra complessiva di 5,3 milioni di visitatori. Vi sono quattro musei nazionali (Museo del cinema, Museo dell'automobile, Museo della montagna, Museo del Risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio, l'Armeria Reale, ora ricompresa nei Musei Reali, il Museo d'Arte Orientale, il Museo dell'Astronomia e Planetario, il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport. Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il Museo del Cinema, il Museo Egizio e il Museo dell'Automobile) o sono in corso di rinnovamento:",
+                    "Le collezioni di arte antica, la cui raccolta fu iniziata dal duca Emanuele Filiberto di Savoia nella seconda metà del Cinquecento, sono conservate nel Museo di antichità, che raccoglie anche le principali testimonianze archeologiche piemontesi dal Paleolitico al Tardo Medioevo. Dal Museo di Antichità furono separate, negli anni quaranta del Novecento, le collezioni egizie che costituirono il Museo egizio, il più importante d'Europa (nonché il più antico al mondo), in quanto custode della seconda collezione di arte egizia del mondo per vastità e importanza dopo quella del Museo del Cairo. Inoltre, l'apertura del MAO - Museo d'Arte Orientale nel dicembre 2008 ha permesso di ospitare ricche collezioni provenienti dal Vicino Oriente, dall'India, dalla Cina e dal Giappone, oltre che dall'Asia centrale."
                 ]
             }
         },
@@ -3467,7 +3450,7 @@
                 ]
             },
             "properties": {
-                "entity": "Museo dello sport.",
+                "entity": "Museo dello sport",
                 "name_location": "Biblioteca Sportopolis - Amici Museo dello Sport, Via Casata Centuriona, Marassi, Bassa Val Bisagno, Genova, Liguria, 16139, Italia",
                 "class": "amenity",
                 "type": "library",
@@ -3581,7 +3564,7 @@
                 ]
             },
             "properties": {
-                "entity": "Museo civico d'arte antica di",
+                "entity": "Museo civico d'arte antica",
                 "name_location": "Museo Civico d'Arte Antica, Piazza Castello, Centro, Circoscrizione 1, Torino, Piemonte, 10122, Italia",
                 "class": "tourism",
                 "type": "museum",
@@ -3678,25 +3661,6 @@
             "properties": {
                 "entity": "Museo di Antichità",
                 "name_location": "Museo di Antichità, Corso Regina Margherita, Porta Palazzo, Circoscrizione 7, Torino, Piemonte, 10152, Italia",
-                "class": "tourism",
-                "type": "museum",
-                "snippet": [
-                    "Le collezioni di arte antica, la cui raccolta fu iniziata dal duca Emanuele Filiberto di Savoia nella seconda metà del Cinquecento, sono conservate nel Museo di antichità, che raccoglie anche le principali testimonianze archeologiche piemontesi dal Paleolitico al Tardo Medioevo. Dal Museo di Antichità furono separate, negli anni quaranta del Novecento, le collezioni egizie che costituirono il Museo egizio, il più importante d'Europa (nonché il più antico al mondo), in quanto custode della seconda collezione di arte egizia del mondo per vastità e importanza dopo quella del Museo del Cairo. Inoltre, l'apertura del MAO - Museo d'Arte Orientale nel dicembre 2008 ha permesso di ospitare ricche collezioni provenienti dal Vicino Oriente, dall'India, dalla Cina e dal Giappone, oltre che dall'Asia centrale."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.179429,
-                    45.471079
-                ]
-            },
-            "properties": {
-                "entity": "Museo egizio",
-                "name_location": "Museo Egizio, Piazza Castello, Brera, Municipio 1, Milano, Lombardia, 20121, Italia",
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
@@ -4500,7 +4464,7 @@
                 ]
             },
             "properties": {
-                "entity": "Parco Dora.",
+                "entity": "Parco Dora",
                 "name_location": "Parco Dora (Spina 3), Circoscrizione 4, Torino, Piemonte, 10144, Italia",
                 "class": "place",
                 "type": "neighbourhood",
@@ -4638,6 +4602,7 @@
                 "class": "natural",
                 "type": "spring",
                 "snippet": [
+                    "Ai lati della scalinata che conduce all'ingresso della chiesa della Gran Madre di Dio troviamo le due statue raffiguranti la Fede e la Religione, tra le quali si troverebbe il nascondiglio del Graal. La Fontana del Frejus di Piazza Statuto fu ideata dal conte Marcello Panissera per ricordare l'inaugurazione dell'omonimo traforo ed è indicata dagli esoteristi come il \"cuore nero\" della città, per due motivi: perché si trova ad occidente, e quindi in posizione infausta a causa del tramonto del sole, e perché qui vi era la vallis occisorum , luogo di uccisione e di sepoltura.",
                     "il rondò 'd la forca (Rotonda della forca). La tradizione racconta che l'angelo che sovrasta l'obelisco, e sul cui capo è posta una stella a cinque punte, sia Lucifero, in effetti l'angelo più bello, e che quindi in Piazza Statuto, sotto la Fontana del Frejus, si trovi la porta dell'inferno. Dal 1998 esistono tour notturni ispirati alle tradizioni letterarie che hanno fatto di Torino una città magica;"
                 ]
             }
@@ -4696,25 +4661,6 @@
                 "type": "cinema",
                 "snippet": [
                     ": il Festival del Cinema Digitale organizzato da VIEW Conference, si svolge annualmente al Cinema Massimo. \"Cinema a Palazzo Reale\"."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.190733,
-                    45.462909
-                ]
-            },
-            "properties": {
-                "entity": "Palazzo Reale\"",
-                "name_location": "Palazzo Reale, 12, Piazza del Duomo, Duomo, Municipio 1, Milano, Lombardia, 20122, Italia",
-                "class": "tourism",
-                "type": "museum",
-                "snippet": [
-                    "il Festival del Cinema Digitale organizzato da VIEW Conference, si svolge annualmente al Cinema Massimo. \"Cinema a Palazzo Reale\". Arena estiva dedicata ai classici del cinema che si svolge ogni anno, dal 2012, nel Cortile d'Onore di Palazzo Reale."
                 ]
             }
         },
@@ -5470,7 +5416,7 @@
                 ]
             },
             "properties": {
-                "entity": "Torino - Ivrea -",
+                "entity": "Torino - Ivrea",
                 "name_location": "Ivrea, Torino, Piemonte, Italia",
                 "class": "boundary",
                 "type": "administrative",
@@ -5508,7 +5454,7 @@
                 ]
             },
             "properties": {
-                "entity": "Alessandria - Piacenza -",
+                "entity": "Alessandria - Piacenza",
                 "name_location": "Via Piacenza in San Giorgio, San Giuliano Vecchio, Alessandria, Piemonte, Italia",
                 "class": "highway",
                 "type": "primary",

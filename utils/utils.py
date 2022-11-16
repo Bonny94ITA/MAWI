@@ -196,21 +196,15 @@ def clean_entities(sentence, cities: list):
     for ent in sentence.ents:
         if ent.label_ == "LOC" and ent.text not in cities:
             if ispunct(ent.text[-1]): # delete punctuation at the end of the entity
-                ent.text = ent.text[:-1]
+                ent = ent[:-1]
 
-            words = ent.text.split(" ") # if the entity is composed by more words
-            if len(words) > 1:
-                word_tagged = search_tagged_sentence(words[-1], sentence)
-                if word_tagged.pos_ == "ADP": # delete the last word if it is an adposition
-                    ent.text = ' '.join(words[:-1]) 
+            if ent[-1].pos_ == "ADP": # delete the last word if it is an adposition
+                print("ent da ripulire: ", ent)
+                ent = ent[:-1]
+
             entities.append(ent.text)
     
     return entities
-
-def search_tagged_sentence(word: str, sentence):
-    for token in sentence:
-        if token.text == word:
-            return token
 
 def search_dict(dict: dict, ent):
     """Search in a dictionary dict the entity ent. 
@@ -282,9 +276,6 @@ def to_geojson(df: pd.DataFrame):
             }
         )
         features.append(loc_feature)
-        
-    
-    #geojson = FeatureCollection(features)
     
     return features
 
@@ -299,21 +290,18 @@ def search_entities_geopy(searchable_entities: dict, context: dict, title_page: 
     df.head()
     df['address'] = df['entity'].apply(geocode)
 
-    #df['raw'] = df['address'].apply(lambda loc: loc.raw if loc else None)
     df = df[pd.notnull(df['address'])]
     df['coordinates'] = df['address'].apply(lambda loc: Point((loc.longitude, loc.latitude)) if loc else None)
-    
-
-    #df[['latitude', 'longitude', 'altitude']] = pd.DataFrame(df['coordinates'].tolist(), index=df.index)
-    #df.latitude.isnull().sum()
     
     df['name_location'] = df['address'].apply(lambda loc: loc.address if loc else None)
 
     df[['class', 'type']] = df['address'].apply(lambda loc: pd.Series([loc.raw['class'], loc.raw['type']]) if loc else None)
 
-    #df['snippet'] = df['Entity'].apply(lambda ent: search_dict(context, ent))
     print(df)
     geojson_entities = to_geojson(df)
+
+    features.extend(geojson_entities)
+    # save entities
 
     response_file_path = f"response/spacy_pipeline/{title_page}.txt"
 
@@ -322,12 +310,13 @@ def search_entities_geopy(searchable_entities: dict, context: dict, title_page: 
     entities_final = df['entity'].to_list()
 
     entities_final.sort()
+
     for entity in entities_final:
         print_to_file(response_file_path, entity)
 
-    return geojson_entities
+    return features
 
-def search_entities(searchable_entities: dict, context: dict, title_page: str, features = list()):
+def search_entities(searchable_entities: dict, context: dict, title_page: str, features = list()): # TODO: DELETE?
     """ Search entities with API geocode.maps
     
     Args:
