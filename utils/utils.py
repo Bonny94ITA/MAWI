@@ -55,7 +55,7 @@ def find_loc_context(context: str, input_json: list, param_to_search: str):
             loc_context = elem
     return loc_context
 
-def count_occurrences(nlp_text, input_json: list, param_to_search: str):
+def count_occurrences(nlp_text, input_json: list, param_to_search: str): # TODO: DELETE?
     """Count occurences of the param to search of the input json in the
     nlp_text.
 
@@ -78,6 +78,42 @@ def count_occurrences(nlp_text, input_json: list, param_to_search: str):
                     counter[ent.text] += 1
     return counter
 
+def sent_contains_ent(sentence, entity):
+    """Check if the sentence contains the entity.
+
+    Args:
+        sentence: sentence to check
+        entity: entity to check
+    Returns:
+        True if the sentence contains the entity, False otherwise
+    """
+
+    possible_begins = []
+
+    j = 0
+    while j < len(sentence): 
+        if entity[0].text.lower() == sentence[j].text.lower(): 
+            possible_begins.append(j)
+        j += 1
+    
+    contains = False
+    index = 0
+    while not contains and index < len(possible_begins):
+        contained_all = True
+        i = 0
+        j = possible_begins[index]
+        while contained_all and i < len(entity) and j < len(sentence): 
+            contained_all = (entity[i].text.lower() == sentence[j].text.lower())
+            i += 1
+            j += 1
+
+        if i == len(entity) and contained_all:
+            contains = True
+        index += 1
+    
+    return contains
+
+
 def get_entities_snippet(nlp_text, cities: list, entities_to_search_prev = dict()):
     """Get the entities from the nlp_text which are not cities and print snippet in which
         they appears.
@@ -99,8 +135,8 @@ def get_entities_snippet(nlp_text, cities: list, entities_to_search_prev = dict(
     sentence_dict = generate_sentences_dictionary(sents)
     for ent in ents:    
         if ent.text not in entities_to_search_prev: 
-            for (index, sentence) in sentence_dict.items(): # per ogni frase
-                if ent.text.lower() in sentence.text.lower(): # se l'entità è presente nella frase
+            for (index, sentence) in sentence_dict.items():
+                if sent_contains_ent(sentence, ent):
                     # Create snippet
                     before = sentence_dict.get(index-1, "")
                     if not isinstance(before, str):
@@ -110,15 +146,17 @@ def get_entities_snippet(nlp_text, cities: list, entities_to_search_prev = dict(
                         after = after.text.strip()
                     
                     sent = ""
-                    if ent in sentence.ents: 
-                        sent = "*" 
-                    sent = sent + before.capitalize() + " " + sentence.text.strip() + " " + after
-                    if ent.text in entities_to_search and sent not in entities_to_search[ent.text]:
+                    for entities in sentence.ents: 
+                        if entities.text == ent.text: 
+                            sent = "*"
+                            break
+                    sent = sent + sentence.text.strip().capitalize()
+                    if ent.text in entities_to_search and sent not in entities_to_search[ent.text] and "*"+sent not in entities_to_search[ent.text]:
                         entities_to_search[ent.text].append(sent)
                     elif ent not in entities_to_search:     
                         entities_to_search[ent.text] = [sent]
 
-    entities_to_search = clean_entities_to_search(entities_to_search) #IN PROGRESS
+    #entities_to_search = clean_entities_to_search(entities_to_search) #IN PROGRESS
 
     return entities_to_search, sentence_dict
 
@@ -191,7 +229,6 @@ def exists_dupe(entity: str, entities: dict):
     for key in entities:
         parts_key = key.split(" ")
         if entity != key and len(parts_key) > 1 and entity in parts_key:
-        #if entity != key and key.__contains__(entity): # TODO: rischio poi che Regione Piemonte include Regio che sono due entità diverse
             is_dupe = is_dupe or check_context(entity, key, entities)
 
     return is_dupe
@@ -221,7 +258,7 @@ def check_context(entity: str, key: str, entities: dict):
         check = check and in_context_key
     
     if check: 
-        print("DUPE: Entity:", entity, "Key: " + key) # qui stampo anche le frasi in cui sono anche individuate come entità
+        print("DUPE: Entity:", entity, "Key: " + key) 
         sentences_entity = entities[entity]
         sentences_key = entities[key]
         print("\t Sentences of: ", entity)
