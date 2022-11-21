@@ -78,40 +78,78 @@ def count_occurrences(nlp_text, input_json: list, param_to_search: str):
                     counter[ent.text] += 1
     return counter
 
-def get_entities_snippet(nlp_text, cities: list, entities_to_search = dict()):
+def get_entities_snippet(nlp_text, cities: list, entities_to_search_prev = dict()):
     """Get the entities from the nlp_text which are not cities and print snippet in which
         they appears.
 
     Args:
         nlp_text: spacy text
         cities: list with cities name to filter
+        entities_to_search_prev: dictionary with the entities to search of the previous text and do not search again
     
     Returns:
         searchable_entities: dictionary with the entities and the snippet in which they appear
         sentence_dict: dictionary with  the index of the sentence in the text and the sentence itself
     """
 
+    entities_to_search = dict()
     sents = list(nlp_text.sents)
+    ents = list(nlp_text.ents)
+    ents = clean_entities(ents, cities)
     sentence_dict = generate_sentences_dictionary(sents)
-    for (index, sentence) in sentence_dict.items():
-        entities = clean_entities(sentence, cities)
-        for ent in entities:
-            before = sentence_dict.get(index-1, "")
-            if not isinstance(before, str):
-                before = before.text.strip()
-            after = sentence_dict.get(index+1, "")
-            if not isinstance(after, str):
-                after = after.text.strip()
-            
-            sent = before + " " + sentence.text.strip() + " " + after
-            if ent in entities_to_search and sent not in entities_to_search[ent]:
-                entities_to_search[ent].append(sent)
-            elif ent not in entities_to_search:     
-                entities_to_search[ent] = [sent]
+    for ent in ents:    
+        if ent.text not in entities_to_search_prev: 
+            for (index, sentence) in sentence_dict.items(): # per ogni frase
+                if ent.text.lower() in sentence.text.lower(): # se l'entità è presente nella frase
+                    # Create snippet
+                    before = sentence_dict.get(index-1, "")
+                    if not isinstance(before, str):
+                        before = before.text.strip()
+                    after = sentence_dict.get(index+1, "")
+                    if not isinstance(after, str):
+                        after = after.text.strip()
+                    
+                    sent = ""
+                    if ent in sentence.ents: 
+                        sent = "*" 
+                    sent = sent + before.capitalize() + " " + sentence.text.strip() + " " + after
+                    if ent.text in entities_to_search and sent not in entities_to_search[ent.text]:
+                        entities_to_search[ent.text].append(sent)
+                    elif ent not in entities_to_search:     
+                        entities_to_search[ent.text] = [sent]
 
-    entities_to_search = clean_entities_to_search(entities_to_search)
+    entities_to_search = clean_entities_to_search(entities_to_search) #IN PROGRESS
 
     return entities_to_search, sentence_dict
+
+def add_context_to_entities(entities_to_search: dict, sentence_dict: dict): # TODO DELETE?
+    """Add the context to the entities to search.
+
+    Args:
+        entities_to_search: dictionary with the entities to search
+        sentence_dict: dictionary with  the index of the sentence in the text and the sentence itself
+    
+    Returns:
+        entities_to_search: dictionary with the entities to search and the context
+    """
+
+    for key in entities_to_search: # per ogni entità
+        # cercare le frasi in cui compare 
+        sentences = entities_to_search[key]
+        for (index, sentence) in sentence_dict: 
+            if key.text.lower() in sentence.text.lower() and sentence not in sentences: # non è sufficiente not in ma bisogna controllare per ogni stringa se contiene sentence
+                before = sentence_dict.get(index-1, "")
+                if not isinstance(before, str):
+                    before = before.text.strip()
+                after = sentence_dict.get(index+1, "")
+                if not isinstance(after, str):
+                    after = after.text.strip()
+                
+                sent_appear = before + " " + sentence.text.strip() + " " + after
+                sentences.append(sent_appear)
+
+        
+    return entities_to_search
 
 def clean_entities_to_search(entities_to_search: dict):
     """Clean the entities to search from the dictionary.
@@ -126,6 +164,7 @@ def clean_entities_to_search(entities_to_search: dict):
 
     for key in entities_to_search:
         if exists_dupe(key, entities_to_search):
+            #print("Exist dupe!", key)
             keys_to_delete.append(key)
     
     for key in keys_to_delete:
@@ -137,7 +176,7 @@ def clean_entities_to_search(entities_to_search: dict):
 def exists_dupe(entity: str, entities: dict): 
     # TODO: l'idea sarebbe quella di vedere se per caso un'entità è stata individuata 
     # in più situazioni ma in forma leggermente diversa in modo da riunire la stessa definizione 
-    # es. Regio - Teatro Regio  
+    # es. Regio - Teatro Regio  --> adesso ho un contesto vero e proprio, che relazione c'è tra i contesti??
     """Check if the entity is contained in another entity in the entities dictionary.
 
     Args:
@@ -150,7 +189,9 @@ def exists_dupe(entity: str, entities: dict):
 
     is_dupe = False
     for key in entities:
-        if entity != key and entity in key:
+        parts_key = key.split(" ")
+        if entity != key and len(parts_key) > 1 and entity in parts_key:
+        #if entity != key and key.__contains__(entity): # TODO: rischio poi che Regione Piemonte include Regio che sono due entità diverse
             is_dupe = is_dupe or check_context(entity, key, entities)
 
     return is_dupe
@@ -160,7 +201,7 @@ def check_context(entity: str, key: str, entities: dict):
 
     Args:
         entity: entity to check
-        key: entity to check
+        key: entity in the dictionary which can include entity 
         entities: dictionary with the entities to search
     
     Returns:
@@ -172,19 +213,56 @@ def check_context(entity: str, key: str, entities: dict):
 
     check = True
     
-    for sent_entity in context_entity:
+    for sent_key in context_key:
         in_context_key = False
-        for sent_key in context_key:
+        for sent_entity in context_entity:
             in_context_key = in_context_key or (sent_entity == sent_key)
         
         check = check and in_context_key
     
+    if check: 
+        print("DUPE: Entity:", entity, "Key: " + key) # qui stampo anche le frasi in cui sono anche individuate come entità
+        sentences_entity = entities[entity]
+        sentences_key = entities[key]
+        print("\t Sentences of: ", entity)
+        for sent in sentences_entity: 
+            if "*" in sent: 
+                print(sent)
+        
+        print("\t Sentences of: ", key)
+        for sent in sentences_key: 
+            if "*" in sent: 
+                print(sent)
+
     return check
 
 def ispunct(ch):
     return ch in string.punctuation
 
-def clean_entities(sentence, cities: list): 
+
+def clean_entities(entities: list, cities: list): 
+    """Clean the entities from the text.
+
+    Args:
+        entities: list of entities to clean
+    Returns:
+        entities: list of the entities useful for the search
+    """
+    entities_clean = []
+    for ent in entities:
+        if ent.label_ == "LOC" and ent.text not in cities:
+            if ispunct(ent.text[-1]): # delete punctuation at the end of the entity solo nel caso in cui non sono "" e c'è ne un'altra dentro
+                if ent.text[-1] != '"':
+                    ent = ent[:-1]
+
+            if ent[-1].pos_ == "ADP": # delete the last word if it is an adposition oppure conviene includere nell'entità anche la parola dopo?
+                ent = ent[:-1]
+
+            entities_clean.append(ent)
+    
+    return entities_clean
+
+def clean_entities2(sentence, cities: list): 
     """Clean the entities from the nlp_text.
 
     Args:
@@ -198,7 +276,7 @@ def clean_entities(sentence, cities: list):
             if ispunct(ent.text[-1]): # delete punctuation at the end of the entity
                 ent = ent[:-1]
 
-            if ent[-1].pos_ == "ADP": # delete the last word if it is an adposition
+            if ent[-1].pos_ == "ADP": # delete the last word if it is an adposition oppure conviene includere nell'entità anche la parola dopo?
                 ent = ent[:-1]
 
             entities.append(ent.text)
@@ -309,7 +387,7 @@ def search_entities_geopy(searchable_entities: dict, context: dict, title_page: 
 
     entities_final = df['entity'].to_list()
 
-    entities_final.sort()
+    entities_final.sort(key=str.lower)
 
     for entity in entities_final:
         print_to_file(response_file_path, entity)
@@ -572,11 +650,22 @@ def wiki_content(title, context = False):
         t.decompose()
 
     del Htag.contents[i-1:]
+
+    # add punct in bullets 
+    tag = soup.find_all('ul', class_=False)
+
+    not_punct = ['"',"'", '(', ')','[',']', ' ']
+    for t in tag:
+        sub_tag = t.find_all("li")
+        if len(sub_tag) > 1:
+            for s in sub_tag[:-1]: 
+                if not s.text[-1] in string.punctuation or s.text[-1] in not_punct:
+                    s.append(" ;")
+
+        if not sub_tag[-1].text[-1] in string.punctuation or sub_tag[-1].text[-1] in not_punct:
+            sub_tag[-1].append(" .")
     
     cleaned_content = soup.get_text(' ', strip=True)
-
-    #cleaned_content = re.sub(r"\n+", "\n", text)
-    #cleaned_content = soup.get_text().replace('\n', ' ')
 
     with open(f'response/wikiPageContent/{title}_notcleaned.txt', 'w', encoding='utf-8') as f:
         f.write(soup.prettify())
