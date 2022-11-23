@@ -6,6 +6,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.684832,
+                    45.071681
+                ]
+            },
+            "properties": {
+                "entity": "regione Piemonte",
+                "name_location": "Regione Piemonte, Via Palazzo di Città, Centro, Circoscrizione 1, Torino, Piemonte, 10122, Italia",
+                "class": "emergency",
+                "type": "defibrillator",
+                "snippet": [
+                    "*; turin in piemontese [tyˈriŋ] , ) è un comune italiano di 844 056 abitanti (al 31 agosto 2022), quarto comune italiano per popolazione e capoluogo della regione piemonte e dell'omonima città metropolitana.",
+                    "Grattacielo della regione piemonte ; cascina giajone ;",
+                    "Da segnalare, infine, che tutti i musei sopra indicati, più numerosi altri all'interno della regione piemonte per un totale di circa 200 siti, sono gratuitamente e illimitatamente accessibili tramite l'abbonamento musei regionale, che fin dagli anni '90 è stato sviluppato per permettere la fruizione dei luoghi museali sul territorio previo acquisto annuale forfettario, e che nel 2017 ha raggiunto l'importante obiettivo delle oltre 136.000 tessere vendute e i circa 900.000 ingressi nei siti convenzionati.",
+                    "Il servizio ferroviario metropolitano di torino (sfm) è un sistema di trasporto pubblico locale della città metropolitana di torino coordinato dall'agenzia mobilità metropolitana ed interamente finanziato dalla regione piemonte."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.682489,
                     45.067755
                 ]
@@ -234,8 +256,7 @@
                     "*Vari resti di abitazioni di epoca imperiale, fra cui le tracce delle domus di via bellezia, via santa chiara, via bonelli, piazza castello, la necropoli nel sottosuolo di piazza san carlo e gli edifici pubblici di piazza emanuele filiberto e corso xi",
                     "La prima testimonianza è l'ordinanza di carlo emanuele i di savoia del 16 giugno 1606 in merito alla costruzione di piazza castello secondo il progetto di ascanio vittozzi che comprendeva portici attorno a tutta la piazza.",
                     "Il portico che unisce piazza castello con piazza vittorio veneto attraverso via po sul lato sinistro fu progettato in modo tale da proseguire anche nell'attraversamento delle vie per permettere al re di giungere fino al po senza bagnarsi in caso di pioggia.",
-                    "Per gli esoteristi la magia positiva di torino nasce dal \"cuore bianco\" di piazza castello, dal duomo che custodisce la sacra sindone alla gran madre di dio e fino alla mole antonelliana, che indica il cielo.",
-                    "*Per gli esoteristi la magia positiva di torino nasce dal \"cuore bianco\" di piazza castello, dal duomo che custodisce la sacra sindone alla gran madre di dio e fino alla mole antonelliana, che indica il cielo."
+                    "Per gli esoteristi la magia positiva di torino nasce dal \"cuore bianco\" di piazza castello, dal duomo che custodisce la sacra sindone alla gran madre di dio e fino alla mole antonelliana, che indica il cielo."
                 ]
             }
         },
@@ -446,6 +467,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.679075,
+                    45.076749
+                ]
+            },
+            "properties": {
+                "entity": "santuario della Consolata",
+                "name_location": "Santuario della Consolata, Via della Consolata, Quadrilatero Romano, Circoscrizione 1, Torino, Piemonte, 10122, Italia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*Resti della torre angolare della cinta muraria nei pressi del santuario della consolata;",
+                    "Guarino guarini (cappella della sacra sindone, santuario della consolata, chiesa di san lorenzo) ;",
+                    "Filippo juvarra (basilica di superga, chiesa di san filippo neri, santuario della consolata, chiesa di santa cristina, chiesa della madonna del carmine) ; filippo giovanni battista nicolis di robilant (chiesa di santa pelagia, chiesa della misericordia) ;"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.684428,
                     45.068509
                 ]
@@ -477,8 +519,7 @@
                 "snippet": [
                     "*Vari resti di abitazioni di epoca imperiale, fra cui le tracce delle domus di via bellezia, via santa chiara, via bonelli, piazza castello, la necropoli nel sottosuolo di piazza san carlo e gli edifici pubblici di piazza emanuele filiberto e corso xi",
                     "Anche nel progetto di piazza san carlo di amedeo di castellamonte di qualche anno successivo erano previsti portici tutt'attorno.",
-                    "Nel film, quando il protagonista sta guardando le registrazioni di vecchi telegiornali, viene mostrata piazza san carlo.",
-                    "*Anche nel progetto di piazza san carlo di amedeo di castellamonte di qualche anno successivo erano previsti portici tutt'attorno."
+                    "Nel film, quando il protagonista sta guardando le registrazioni di vecchi telegiornali, viene mostrata piazza san carlo."
                 ]
             }
         },
@@ -643,8 +684,7 @@
                     "*Il museo egizio (il secondo più importante al mondo dopo quello de il cairo);",
                     "Vi sono quattro musei nazionali (museo del cinema, museo dell'automobile, museo della montagna, museo del risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il museo egizio, l'armeria reale, ora ricompresa nei musei reali, il museo d'arte orientale, il museo dell'astronomia e planetario, il j-museum a cui si aggiungeva, fino al 2015, il museo dello sport.",
                     "*Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il museo del cinema, il museo egizio e il museo dell'automobile) o sono in corso di rinnovamento:",
-                    "Dal museo di antichità furono separate, negli anni quaranta del novecento, le collezioni egizie che costituirono il museo egizio, il più importante d'europa (nonché il più antico al mondo), in quanto custode della seconda collezione di arte egizia del mondo per vastità e importanza dopo quella del museo del cairo.",
-                    "*Dal museo di antichità furono separate, negli anni quaranta del novecento, le collezioni egizie che costituirono il museo egizio, il più importante d'europa (nonché il più antico al mondo), in quanto custode della seconda collezione di arte egizia del mondo per vastità e importanza dopo quella del museo del cairo."
+                    "Dal museo di antichità furono separate, negli anni quaranta del novecento, le collezioni egizie che costituirono il museo egizio, il più importante d'europa (nonché il più antico al mondo), in quanto custode della seconda collezione di arte egizia del mondo per vastità e importanza dopo quella del museo del cairo."
                 ]
             }
         },
@@ -748,6 +788,27 @@
                     "*Le importanti testimonianze architettoniche di quest'epoca sono ancora percepibili in alcune zone centrali del capoluogo come i quartieri centro, crocetta, san salvario e borgo po, ma con un'assoluta predominanza nell'area circostante il primo tratto di corso francia, comprendente i quartieri cit turin e san donato.",
                     "*Nel quartiere san salvario, caratteristico è il condominio 25 verde, il cui principio è lo stesso del più imponente (perché grattacielo) bosco verticale di milano.",
                     "San salvario - cavoretto - borgo po - nizza millefonti - lingotto - filadelfia ."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.682719,
+                    45.067917
+                ]
+            },
+            "properties": {
+                "entity": "piazza San Carlo",
+                "name_location": "Piazza San Carlo, Centro, Circoscrizione 1, Torino, Piemonte, Italia",
+                "class": "place",
+                "type": "square",
+                "snippet": [
+                    "Vari resti di abitazioni di epoca imperiale, fra cui le tracce delle domus di via bellezia, via santa chiara, via bonelli, piazza castello, la necropoli nel sottosuolo di piazza san carlo e gli edifici pubblici di piazza emanuele filiberto e corso xi",
+                    "*Anche nel progetto di piazza san carlo di amedeo di castellamonte di qualche anno successivo erano previsti portici tutt'attorno.",
+                    "Nel film, quando il protagonista sta guardando le registrazioni di vecchi telegiornali, viene mostrata piazza san carlo."
                 ]
             }
         },
@@ -868,8 +929,7 @@
                     "; turin in piemontese [tyˈriŋ] , ) è un comune italiano di 844 056 abitanti (al 31 agosto 2022), quarto comune italiano per popolazione e capoluogo della regione piemonte e dell'omonima città metropolitana.",
                     "*Grattacielo della regione piemonte ; cascina giajone ;",
                     "*Da segnalare, infine, che tutti i musei sopra indicati, più numerosi altri all'interno della regione piemonte per un totale di circa 200 siti, sono gratuitamente e illimitatamente accessibili tramite l'abbonamento musei regionale, che fin dagli anni '90 è stato sviluppato per permettere la fruizione dei luoghi museali sul territorio previo acquisto annuale forfettario, e che nel 2017 ha raggiunto l'importante obiettivo delle oltre 136.000 tessere vendute e i circa 900.000 ingressi nei siti convenzionati.",
-                    "*Il servizio ferroviario metropolitano di torino (sfm) è un sistema di trasporto pubblico locale della città metropolitana di torino coordinato dall'agenzia mobilità metropolitana ed interamente finanziato dalla regione piemonte.",
-                    "*; turin in piemontese [tyˈriŋ] , ) è un comune italiano di 844 056 abitanti (al 31 agosto 2022), quarto comune italiano per popolazione e capoluogo della regione piemonte e dell'omonima città metropolitana."
+                    "*Il servizio ferroviario metropolitano di torino (sfm) è un sistema di trasporto pubblico locale della città metropolitana di torino coordinato dall'agenzia mobilità metropolitana ed interamente finanziato dalla regione piemonte."
                 ]
             }
         },
@@ -1006,8 +1066,7 @@
                 "snippet": [
                     "Resti della torre angolare della cinta muraria nei pressi del santuario della consolata;",
                     "*Guarino guarini (cappella della sacra sindone, santuario della consolata, chiesa di san lorenzo) ;",
-                    "*Filippo juvarra (basilica di superga, chiesa di san filippo neri, santuario della consolata, chiesa di santa cristina, chiesa della madonna del carmine) ; filippo giovanni battista nicolis di robilant (chiesa di santa pelagia, chiesa della misericordia) ;",
-                    "*Resti della torre angolare della cinta muraria nei pressi del santuario della consolata;"
+                    "*Filippo juvarra (basilica di superga, chiesa di san filippo neri, santuario della consolata, chiesa di santa cristina, chiesa della madonna del carmine) ; filippo giovanni battista nicolis di robilant (chiesa di santa pelagia, chiesa della misericordia) ;"
                 ]
             }
         },
@@ -2163,6 +2222,46 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.69297,
+                    45.069106
+                ]
+            },
+            "properties": {
+                "entity": "Museo del cinema",
+                "name_location": "Museo Nazionale del Cinema, 20, Via Montebello, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10124, Italia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*Vi sono quattro musei nazionali (museo del cinema, museo dell'automobile, museo della montagna, museo del risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il museo egizio, l'armeria reale, ora ricompresa nei musei reali, il museo d'arte orientale, il museo dell'astronomia e planetario, il j-museum a cui si aggiungeva, fino al 2015, il museo dello sport.",
+                    "Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il museo del cinema, il museo egizio e il museo dell'automobile) o sono in corso di rinnovamento:"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.673455,
+                    45.031849
+                ]
+            },
+            "properties": {
+                "entity": "Museo dell'automobile",
+                "name_location": "MAUTO Museo Nazionale dell'Automobile, 40, Corso Unità d'Italia, Molinette, Circoscrizione 8, Cavoretto, Torino, Piemonte, 10126, Italia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*Vi sono quattro musei nazionali (museo del cinema, museo dell'automobile, museo della montagna, museo del risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il museo egizio, l'armeria reale, ora ricompresa nei musei reali, il museo d'arte orientale, il museo dell'astronomia e planetario, il j-museum a cui si aggiungeva, fino al 2015, il museo dello sport.",
+                    "Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il museo del cinema, il museo egizio e il museo dell'automobile) o sono in corso di rinnovamento:"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.697004,
                     45.05956
                 ]
@@ -2193,6 +2292,28 @@
                 "type": "museum",
                 "snippet": [
                     "*Vi sono quattro musei nazionali (museo del cinema, museo dell'automobile, museo della montagna, museo del risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il museo egizio, l'armeria reale, ora ricompresa nei musei reali, il museo d'arte orientale, il museo dell'astronomia e planetario, il j-museum a cui si aggiungeva, fino al 2015, il museo dello sport."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.684351,
+                    45.068435
+                ]
+            },
+            "properties": {
+                "entity": "Museo egizio",
+                "name_location": "Museo Egizio, 6, Via Accademia delle Scienze, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "Il museo egizio (il secondo più importante al mondo dopo quello de il cairo);",
+                    "Vi sono quattro musei nazionali (museo del cinema, museo dell'automobile, museo della montagna, museo del risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il museo egizio, l'armeria reale, ora ricompresa nei musei reali, il museo d'arte orientale, il museo dell'astronomia e planetario, il j-museum a cui si aggiungeva, fino al 2015, il museo dello sport.",
+                    "Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il museo del cinema, il museo egizio e il museo dell'automobile) o sono in corso di rinnovamento:",
+                    "*Dal museo di antichità furono separate, negli anni quaranta del novecento, le collezioni egizie che costituirono il museo egizio, il più importante d'europa (nonché il più antico al mondo), in quanto custode della seconda collezione di arte egizia del mondo per vastità e importanza dopo quella del museo del cairo."
                 ]
             }
         },
@@ -2252,8 +2373,7 @@
                 "type": "museum",
                 "snippet": [
                     "Vi sono quattro musei nazionali (museo del cinema, museo dell'automobile, museo della montagna, museo del risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il museo egizio, l'armeria reale, ora ricompresa nei musei reali, il museo d'arte orientale, il museo dell'astronomia e planetario, il j-museum a cui si aggiungeva, fino al 2015, il museo dello sport.",
-                    "*Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il museo del cinema, il museo egizio e il museo dell'automobile) o sono in corso di rinnovamento:",
-                    "*Vi sono quattro musei nazionali (museo del cinema, museo dell'automobile, museo della montagna, museo del risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il museo egizio, l'armeria reale, ora ricompresa nei musei reali, il museo d'arte orientale, il museo dell'astronomia e planetario, il j-museum a cui si aggiungeva, fino al 2015, il museo dello sport."
+                    "*Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il museo del cinema, il museo egizio e il museo dell'automobile) o sono in corso di rinnovamento:"
                 ]
             }
         },
@@ -2273,8 +2393,7 @@
                 "type": "museum",
                 "snippet": [
                     "Vi sono quattro musei nazionali (museo del cinema, museo dell'automobile, museo della montagna, museo del risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il museo egizio, l'armeria reale, ora ricompresa nei musei reali, il museo d'arte orientale, il museo dell'astronomia e planetario, il j-museum a cui si aggiungeva, fino al 2015, il museo dello sport.",
-                    "*Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il museo del cinema, il museo egizio e il museo dell'automobile) o sono in corso di rinnovamento:",
-                    "*Vi sono quattro musei nazionali (museo del cinema, museo dell'automobile, museo della montagna, museo del risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il museo egizio, l'armeria reale, ora ricompresa nei musei reali, il museo d'arte orientale, il museo dell'astronomia e planetario, il j-museum a cui si aggiungeva, fino al 2015, il museo dello sport."
+                    "*Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il museo del cinema, il museo egizio e il museo dell'automobile) o sono in corso di rinnovamento:"
                 ]
             }
         },
@@ -2289,6 +2408,25 @@
             },
             "properties": {
                 "entity": "Museo di Antropologia",
+                "name_location": "Museo di antropologia criminale Lombroso, 15, Via Pietro Giuria, San Salvario, Circoscrizione 8, Torino, Piemonte, 10126, Italia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*Tra questi, il museo di anatomia umana luigi rolando, il museo di antropologia ed etnografia, ed il museo di antropologia criminale cesare lombroso, che verranno unificati in un unico museo dell'uomo, all'interno del \"palazzo degli istituti anatomici\" di corso massimo d'azeglio."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.679763,
+                    45.049755
+                ]
+            },
+            "properties": {
+                "entity": "Museo di antropologia",
                 "name_location": "Museo di antropologia criminale Lombroso, 15, Via Pietro Giuria, San Salvario, Circoscrizione 8, Torino, Piemonte, 10126, Italia",
                 "class": "tourism",
                 "type": "museum",
@@ -2326,14 +2464,33 @@
                 ]
             },
             "properties": {
+                "entity": "Museo di antichità",
+                "name_location": "Museo di Antichità, Corso Regina Margherita, Porta Palazzo, Circoscrizione 7, Torino, Piemonte, 10152, Italia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*Le collezioni di arte antica, la cui raccolta fu iniziata dal duca emanuele filiberto di savoia nella seconda metà del cinquecento, sono conservate nel museo di antichità, che raccoglie anche le principali testimonianze archeologiche piemontesi dal paleolitico al tardo medioevo.",
+                    "Dal museo di antichità furono separate, negli anni quaranta del novecento, le collezioni egizie che costituirono il museo egizio, il più importante d'europa (nonché il più antico al mondo), in quanto custode della seconda collezione di arte egizia del mondo per vastità e importanza dopo quella del museo del cairo."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.687929,
+                    45.074904
+                ]
+            },
+            "properties": {
                 "entity": "Museo di Antichità",
                 "name_location": "Museo di Antichità, Corso Regina Margherita, Porta Palazzo, Circoscrizione 7, Torino, Piemonte, 10152, Italia",
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
                     "Le collezioni di arte antica, la cui raccolta fu iniziata dal duca emanuele filiberto di savoia nella seconda metà del cinquecento, sono conservate nel museo di antichità, che raccoglie anche le principali testimonianze archeologiche piemontesi dal paleolitico al tardo medioevo.",
-                    "*Dal museo di antichità furono separate, negli anni quaranta del novecento, le collezioni egizie che costituirono il museo egizio, il più importante d'europa (nonché il più antico al mondo), in quanto custode della seconda collezione di arte egizia del mondo per vastità e importanza dopo quella del museo del cairo.",
-                    "*Le collezioni di arte antica, la cui raccolta fu iniziata dal duca emanuele filiberto di savoia nella seconda metà del cinquecento, sono conservate nel museo di antichità, che raccoglie anche le principali testimonianze archeologiche piemontesi dal paleolitico al tardo medioevo."
+                    "*Dal museo di antichità furono separate, negli anni quaranta del novecento, le collezioni egizie che costituirono il museo egizio, il più importante d'europa (nonché il più antico al mondo), in quanto custode della seconda collezione di arte egizia del mondo per vastità e importanza dopo quella del museo del cairo."
                 ]
             }
         },
@@ -2805,6 +2962,29 @@
                 "type": "cemetery",
                 "snippet": [
                     "*Simboli massonici sono presenti in molti palazzi e in alcune tombe del cimitero monumentale di torino."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.687126,
+                    45.070863
+                ]
+            },
+            "properties": {
+                "entity": "piazza Castello",
+                "name_location": "Piazza Castello, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "Il confine francese dista circa 70 km nei pressi del colle del moncenisio, mentre sono 206 i chilometri che separano piazza castello da chambery, 222 da nizza, 250 da ginevra e 314 da lione.",
+                    "Vari resti di abitazioni di epoca imperiale, fra cui le tracce delle domus di via bellezia, via santa chiara, via bonelli, piazza castello, la necropoli nel sottosuolo di piazza san carlo e gli edifici pubblici di piazza emanuele filiberto e corso xi",
+                    "La prima testimonianza è l'ordinanza di carlo emanuele i di savoia del 16 giugno 1606 in merito alla costruzione di piazza castello secondo il progetto di ascanio vittozzi che comprendeva portici attorno a tutta la piazza.",
+                    "Il portico che unisce piazza castello con piazza vittorio veneto attraverso via po sul lato sinistro fu progettato in modo tale da proseguire anche nell'attraversamento delle vie per permettere al re di giungere fino al po senza bagnarsi in caso di pioggia.",
+                    "*Per gli esoteristi la magia positiva di torino nasce dal \"cuore bianco\" di piazza castello, dal duomo che custodisce la sacra sindone alla gran madre di dio e fino alla mole antonelliana, che indica il cielo."
                 ]
             }
         },

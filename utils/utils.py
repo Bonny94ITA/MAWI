@@ -131,8 +131,9 @@ def get_entities_snippet(nlp_text, cities: list, entities_to_search_prev = dict(
     entities_to_search = dict()
     sents = list(nlp_text.sents)
     ents = list(nlp_text.ents)
-    ents = clean_entities(ents, cities)
     sentence_dict = generate_sentences_dictionary(sents)
+    ents = clean_entities(ents, cities, sentence_dict)
+    
     for ent in ents:    
         if ent.text not in entities_to_search_prev: 
             for (index, sentence) in sentence_dict.items():
@@ -145,6 +146,7 @@ def get_entities_snippet(nlp_text, cities: list, entities_to_search_prev = dict(
                     if not isinstance(after, str):
                         after = after.text.strip()
                     
+                    # forse si può usare ent.sent
                     sent = ""
                     for entities in sentence.ents: 
                         if entities.text == ent.text: 
@@ -156,7 +158,7 @@ def get_entities_snippet(nlp_text, cities: list, entities_to_search_prev = dict(
                     elif ent not in entities_to_search:     
                         entities_to_search[ent.text] = [sent]
 
-    #entities_to_search = clean_entities_to_search(entities_to_search) #IN PROGRESS
+    entities_to_search = clean_entities_to_search(entities_to_search) #IN PROGRESS
 
     return entities_to_search, sentence_dict
 
@@ -189,7 +191,36 @@ def add_context_to_entities(entities_to_search: dict, sentence_dict: dict): # TO
         
     return entities_to_search
 
-def clean_entities_to_search(entities_to_search: dict):
+def clean_entities_to_search(entities_to_search: dict): 
+
+    # unifico tutte le entitià uguali 
+    entities = list(entities_to_search.keys())
+    entities_to_delete = []
+    entities.sort(key= str.lower)
+    print("PRIMA: ", entities)
+
+    for i in range(len(entities)):
+        for j in range(i+1, len(entities)):
+            if entities[i].lower() == entities[j].lower():
+                if entities[i] > entities[j]:
+                    entities_to_delete.append((entities[i], entities[j]))
+                else: 
+                    entities_to_delete.append((entities[j], entities[i]))
+
+    print("DA ELIMINARE: ", entities_to_delete)
+    for (entity_w, entity_r) in entities_to_delete:
+        # prima unifico gli snippet
+        for snippet in entities_to_search[entity_w]:
+            if snippet not in entities_to_search[entity_r] and "*"+snippet not in entities_to_search[entity_r]:
+                entities_to_search[entity_r].append(snippet)
+        # poi rimuovo entity da entities_to_search
+        del entities_to_search[entity_w]
+
+    print("DOPO: ", entities)
+
+    return entities_to_search
+
+def clean_entities_to_search2(entities_to_search: dict):
     """Clean the entities to search from the dictionary.
     
     Args:
@@ -277,7 +308,7 @@ def ispunct(ch):
     return ch in string.punctuation
 
 
-def clean_entities(entities: list, cities: list): 
+def clean_entities(entities: list, cities: list, sentence_dict: dict): 
     """Clean the entities from the text.
 
     Args:
@@ -288,15 +319,38 @@ def clean_entities(entities: list, cities: list):
     entities_clean = []
     for ent in entities:
         if ent.label_ == "LOC" and ent.text not in cities:
-            if ispunct(ent.text[-1]): # delete punctuation at the end of the entity solo nel caso in cui non sono "" e c'è ne un'altra dentro
-                if ent.text[-1] != '"':
+            if ispunct(ent.text[-1]): # delete punctuation at the end of the entity 
+                if ent.text[-1] != '"': # TODO: nel preprocessing aggiungere uno spazio prima della punteggiatura delle virgolette???
                     ent = ent[:-1]
 
-            if ent[-1].pos_ == "ADP": # delete the last word if it is an adposition oppure conviene includere nell'entità anche la parola dopo?
-                ent = ent[:-1]
+            #if ent[-1].pos_ == "ADP": 
+            #    ent = ent[:-1] 
 
             entities_clean.append(ent)
     
+    """
+    entities_to_delete = []
+    entities_clean.sort(key= lambda x: x.text.lower())
+    print("PRIMA: ", entities_clean)
+
+    #entities_to_print = [entity.text for entity in entities_clean]
+    #entities_to_print.sort(key= str.lower)
+    #print("PRIMA: ", entities_to_print)
+
+    for i in range(len(entities_clean)):
+        for j in range(i+1, len(entities_clean)):
+            if entities[i].text.lower() == entities[j].text.lower():
+                if entities[i].text > entities[j].text:
+                    entities_to_delete.append(entities[i])
+                else: 
+                    entities_to_delete.append(entities[j])
+
+    print("DA ELIMINARE: ", entities_to_delete)
+    for entity in entities_to_delete:
+        entities_clean.remove(entity)
+
+    print("DOPO: ", entities_clean)
+    """
     return entities_clean
 
 def clean_entities2(sentence, cities: list): 
