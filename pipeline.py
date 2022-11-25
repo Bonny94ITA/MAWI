@@ -37,6 +37,15 @@ for city in cities:
 
     print("number of entities: ", len(searchable_entities))
 
+    entities_complete = list(searchable_entities.keys())
+    entities_complete.sort(key=str.lower)
+    name_context = context['name']
+    file_path_entities_complete = f'response/spacy_pipeline/{name_context}_entities.txt'
+
+    with open(file_path_entities_complete, 'w', encoding='utf-8') as f:
+        for entity in entities_complete:
+            f.write(entity + '\n')
+
     # Search addresses with Google
     features = search_entities_geopy(searchable_entities, context, city)
 

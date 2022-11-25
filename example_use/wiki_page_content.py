@@ -2,7 +2,8 @@ import json
 import requests as req
 import sys
 from bs4 import BeautifulSoup
-
+import time
+import string 
 
 arguments = sys.argv[1:]
 
@@ -15,29 +16,38 @@ session = req.Session()
 url_api = "https://it.wikipedia.org/w/api.php"
 
 # Versione 1
-# params = {
-#     "action": "query",
-#     "prop": "revisions",
-#     "titles": titles,
-#     "rvprop": "content",
-#     "rvslots": "main",
-#     "formatversion": "2",
-#     "format": "json"
+#params = {
+#    "action": "query",
+#    "prop": "revisions",
+#    "titles": titles,
+#    "rvprop": "content",
+#    "rvslots": "main",
+#    "formatversion": "2",
+#    "format": "json"
 # }
-#
-# response = session.get(url=url_api, params=params)
-# data = response.json()
 
+#response = session.get(url=url_api, params=params)
+#data = response.json()
+
+
+#content = data['query']['pages'][0]['revisions'][0]['slots']['main']['content']
+#soup = BeautifulSoup(content, features="lxml")    
+
+#print("body:", soup.body.text)
 # jprint(data)
 
+#content_body = soup.body.text
 
 # Versione 2
+#time.sleep(100)
+
+#session = req.Session()
 
 params = {
     "action": "parse",
-    "prop": "text",
     "page": titles,
     "formatversion": "2",
+    "prop": "text",
     "format": "json"
 }
 
@@ -66,14 +76,71 @@ with open(f'response/wikiPageContent/{titles}.json', 'w', encoding='utf-8') as f
 content = data['parse']['text']#[0]['extract']
 soup = BeautifulSoup(content, features="lxml")    
 
-cleaned_content = soup.get_text().replace('\n', ' ')
+references = soup.find_all('sup', class_='reference') 
 
-#print(cleaned_content)
+for ref in references:
+    ref.decompose() # tolto i riferimenti
 
-print("BODY: ", soup.find_all('p'))
+no_fonte = soup.find_all('sup', class_='noprint chiarimento-apice') 
+
+for ref in no_fonte:
+    ref.decompose() # tolto i riferimenti
+
+# togliere tutto ciò che è nelle figcaption
+figcaptions = soup.find_all('figcaption')
+for figcaption in figcaptions: 
+    figcaption.decompose() # tolto le descrizioni sotto le immagini
+
+figcaptions_div = soup.find_all('div', class_='thumbcaption')
+for figcaption in figcaptions_div:
+    figcaption.decompose() # tolto le descrizioni sotto le immagini nei div
+
+headings = soup.find_all('h2', id=True)
+for heading in headings:
+    heading.decompose() # tolto le intestazioni
+
+note = soup.find('span', id='Note')
+
+# prima vado al titolo padre 
+parent_tag = note.parent
+# elimino i fratelli 
+for sibling in parent_tag.find_next_siblings():
+    #print(sibling)
+    sibling.decompose()
+
+# svuoto tutti gli span
+
+for span in soup.find_all('span', title=False):
+    span.decompose()
+
+for table in soup.find_all('table'):
+    table.decompose()
+
+bullets_to_delete = soup.find_all(['ul', 'ol'], class_=True) # da aggiungere 
+for bullet in bullets_to_delete:
+    bullet.decompose()
+
+# add punct in bullets 
+tag = soup.find_all(['ul', 'ol'], class_=False)
+
+not_punct = ['"',"'", '(', ')','[',']', ' ']
+for t in tag:
+    sub_tag = t.find_all("li", class_=False) 
+    if len(sub_tag) > 1:
+        for s in sub_tag[:-1]: 
+            if not s.text[-1] in string.punctuation or s.text[-1] in not_punct:
+                s.append(" ;")
+
+        if not sub_tag[-1].text[-1] in string.punctuation or sub_tag[-1].text[-1] in not_punct:
+            sub_tag[-1].append(" .")
+
 
 with open(f'response/wikiPageContent/{titles}_soup.txt', 'w', encoding='utf-8') as f:
-    f.write(cleaned_content)
+    f.write(soup.prettify())
+
+with open(f'response/wikiPageContent/{titles}_text.txt', 'w', encoding='utf-8') as f:
+    f.write(soup.get_text(' ', strip=True))
+
 
 # tentativo per avere le coordinate geografiche di una pagina wiki
 

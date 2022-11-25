@@ -17,6 +17,7 @@ import pandas as pd
 import geopandas as gpd
 import matplotlib.pyplot as plt
 from geopy.extra.rate_limiter import RateLimiter
+from functools import partial
 
 
 def get_context(nlp_text, input_json: list, param_to_search: str): # TODO: DELETE!
@@ -193,7 +194,7 @@ def add_context_to_entities(entities_to_search: dict, sentence_dict: dict): # TO
 
 def clean_entities_to_search(entities_to_search: dict): 
 
-    # unifico tutte le entitià uguali 
+    # unifico tutte le entitià che fanno riferimento allo stesso luoco ma sono scritte diversamente in termini di maiuscole e minuscole
     entities = list(entities_to_search.keys())
     entities_to_delete = []
     entities.sort(key= str.lower)
@@ -320,37 +321,14 @@ def clean_entities(entities: list, cities: list, sentence_dict: dict):
     for ent in entities:
         if ent.label_ == "LOC" and ent.text not in cities:
             if ispunct(ent.text[-1]): # delete punctuation at the end of the entity 
-                if ent.text[-1] != '"': # TODO: nel preprocessing aggiungere uno spazio prima della punteggiatura delle virgolette???
-                    ent = ent[:-1]
+                #if ent.text[-1] != '"': 
+                ent = ent[:-1]
 
-            #if ent[-1].pos_ == "ADP": 
-            #    ent = ent[:-1] 
+            if ent[-1].pos_ == "ADP": 
+                ent = ent[:-1] 
 
             entities_clean.append(ent)
     
-    """
-    entities_to_delete = []
-    entities_clean.sort(key= lambda x: x.text.lower())
-    print("PRIMA: ", entities_clean)
-
-    #entities_to_print = [entity.text for entity in entities_clean]
-    #entities_to_print.sort(key= str.lower)
-    #print("PRIMA: ", entities_to_print)
-
-    for i in range(len(entities_clean)):
-        for j in range(i+1, len(entities_clean)):
-            if entities[i].text.lower() == entities[j].text.lower():
-                if entities[i].text > entities[j].text:
-                    entities_to_delete.append(entities[i])
-                else: 
-                    entities_to_delete.append(entities[j])
-
-    print("DA ELIMINARE: ", entities_to_delete)
-    for entity in entities_to_delete:
-        entities_clean.remove(entity)
-
-    print("DOPO: ", entities_clean)
-    """
     return entities_clean
 
 def clean_entities2(sentence, cities: list): 
@@ -374,7 +352,7 @@ def clean_entities2(sentence, cities: list):
     
     return entities
 
-def search_dict(dict: dict, ent):
+def search_dict(dict: dict, ent): # TODO: DELETE?
     """Search in a dictionary dict the entity ent. 
     Args:
         dict: dictionary where to search
@@ -457,9 +435,13 @@ def search_entities_geopy(searchable_entities: dict, context: dict, title_page: 
 
     df = pd.DataFrame(locations, columns=['entity', 'to_search', 'snippet'])
     df.head()
-    df['address'] = df['to_search'].apply(geocode)
+    df['address'] = df['to_search'].apply(partial(geocode, language='it', exactly_one=False))
 
     df = df[pd.notnull(df['address'])]
+
+    # scegliere la locazione più vicina al centro della città 
+    df['address'] = df['address'].apply(lambda list_loc: most_close_location(list_loc, context))
+
     df['coordinates'] = df['address'].apply(lambda loc: Point((loc.longitude, loc.latitude)) if loc else None)
     
     df['name_location'] = df['address'].apply(lambda loc: loc.address if loc else None)
@@ -467,6 +449,8 @@ def search_entities_geopy(searchable_entities: dict, context: dict, title_page: 
     df[['class', 'type']] = df['address'].apply(lambda loc: pd.Series([loc.raw['class'], loc.raw['type']]) if loc else None)
 
     print(df)
+    df.to_csv("response/dataframe.csv")
+    
     geojson_entities = to_geojson(df)
 
     features.extend(geojson_entities)
@@ -645,13 +629,17 @@ def most_close_location(results: list, context: dict):
         location: the most close location
     """
     location = results[0]
-    poi_loc = (location['lat'], location['lon'])
+    #poi_loc = (location['lat'], location['lon']) # adesso cambio
+
+    # df['coordinates'] = df['address'].apply(lambda loc: Point((loc.longitude, loc.latitude)) if loc else None)
+    poi_loc = (location.latitude, location.longitude)
     context_loc = (float(context['latitude']), float(context['longitude']))
     
     distance_min = distance.distance(context_loc, poi_loc).km
 
     for result in results:
-        current_loc = (result['lat'], result['lon'])
+        #current_loc = (result['lat'], result['lon'])
+        current_loc = (result.latitude, result.longitude)
         current_distance = distance.distance(context_loc, current_loc).km
         if distance_min > current_distance: 
             location = result
@@ -715,50 +703,87 @@ def wiki_content(title, context = False):
     url_api = "https://it.wikipedia.org/w/api.php"
 
     params = {
-        "action": "query",
+        "action": "parse",
+        "page": title,
         "format": "json",
-        "prop": "extracts",
-        "titles": title,
+        "prop": "text",
         "formatversion": "2"
     }
 
     response = session.get(url=url_api, params=params)
     data = response.json()
-    content = data['query']['pages'][0]['extract']
+    content = data['parse']['text']
     soup = BeautifulSoup(content, features="lxml")
+    
+    with open(f'response/wikiPageContent/{title}_htmlnotcleaned.txt', 'w', encoding='utf-8') as f:
+        f.write(soup.prettify())
+
 
     #Delete all the parts that are not meaningful
-    Htag = soup.body
-    i = 0
-    find = False
-    while i < len(Htag.contents) and not find:
-        find = str(Htag.contents[i]) == '<h2><span id="Note">Note</span></h2>' 
-        i += 1
-    
-    tag = soup.find_all('span', id=True) # find all the titles of paragraphs in the text
 
-    for t in tag:
-        t.decompose()
+    # References in the text 
 
-    del Htag.contents[i-1:]
+    references = soup.find_all('sup', class_='reference') 
+
+    for ref in references:
+        ref.decompose() 
+
+    no_fonte = soup.find_all('sup', class_='noprint chiarimento-apice') 
+
+    for ref in no_fonte:
+        ref.decompose() 
+
+    # Figcaption with text
+    figcaptions = soup.find_all('figcaption')
+    for figcaption in figcaptions: 
+        figcaption.decompose() 
+
+    figcaptions_div = soup.find_all('div', class_='thumbcaption')
+    for figcaption in figcaptions_div:
+        figcaption.decompose()
+
+    # Headings
+    headings = soup.find_all('h2', id=True)
+    for heading in headings:
+        heading.decompose() 
+
+    # From Note to the end of the page
+    note = soup.find('span', id='Note')
+
+    parent_tag = note.parent
+    for sibling in parent_tag.find_next_siblings():
+        sibling.decompose()
+
+    # Span
+    for span in soup.find_all('span'):
+        span.decompose()
+
+    # Table
+    for table in soup.find_all('table'):
+        table.decompose()
+
+    # bullets not meaningful
+    bullets_to_delete = soup.find_all(['ul', 'ol'], class_=True) 
+    for bullet in bullets_to_delete:
+        bullet.decompose()
 
     # add punct in bullets 
-    tag = soup.find_all('ul', class_=False)
+    tag = soup.find_all(['ul', 'ol'], class_=False)
 
     not_punct = ['"',"'", '(', ')','[',']', ' ']
     for t in tag:
-        sub_tag = t.find_all("li")
+        sub_tag = t.find_all("li", class_=False) 
         if len(sub_tag) > 1:
             for s in sub_tag[:-1]: 
                 if not s.text[-1] in string.punctuation or s.text[-1] in not_punct:
                     s.append(" ;")
 
-        if not sub_tag[-1].text[-1] in string.punctuation or sub_tag[-1].text[-1] in not_punct:
-            sub_tag[-1].append(" .")
-    
+            if not sub_tag[-1].text[-1] in string.punctuation or sub_tag[-1].text[-1] in not_punct:
+                sub_tag[-1].append(" .")
+
     cleaned_content = soup.get_text(' ', strip=True)
 
-    with open(f'response/wikiPageContent/{title}_notcleaned.txt', 'w', encoding='utf-8') as f:
+    with open(f'response/wikiPageContent/{title}_htmlcleaned.txt', 'w', encoding='utf-8') as f:
         f.write(soup.prettify())
 
     with open(f'response/wikiPageContent/{title}.txt', 'w', encoding='utf-8') as f:
