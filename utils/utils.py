@@ -1,12 +1,9 @@
 from bs4 import BeautifulSoup
 import requests
-import urllib
 import json
 import os
 from geojson import Feature, Point, FeatureCollection
 import csv 
-import haversine as hs
-import time
 from wikidata.client import Client
 from shapely.geometry import Point, Polygon
 from geopy.geocoders import Nominatim
@@ -19,26 +16,6 @@ import matplotlib.pyplot as plt
 from geopy.extra.rate_limiter import RateLimiter
 from functools import partial
 
-
-def get_context(nlp_text, input_json: list, param_to_search: str): # TODO: DELETE!
-    """Get the context of the entities in the nlp_text.
-    
-    Args:
-        nlp_text: spacy text
-        input_json: json file with the entities to search
-        param_to_search: parameter to search in the json file
-
-    Returns:
-        counter: dictionary with the entities (cities name) to search and their occurences
-        context: string with the context of the text
-        loc_context: coordinates of the context
-    """
-
-    counter = count_occurrences(nlp_text, input_json, param_to_search)
-    print(counter)
-    context = max(counter, key=counter.get)
-    loc_context = find_loc_context(context, input_json, param_to_search) 
-    return counter, context, loc_context
 
 def find_loc_context(context: str, input_json: list, param_to_search: str): 
     """Find the object of the context.
@@ -55,29 +32,6 @@ def find_loc_context(context: str, input_json: list, param_to_search: str):
         if elem[param_to_search] == context:
             loc_context = elem
     return loc_context
-
-def count_occurrences(nlp_text, input_json: list, param_to_search: str): # TODO: DELETE?
-    """Count occurences of the param to search of the input json in the
-    nlp_text.
-
-    Args:
-        nlp_text: spacy text
-        input_json: json file with the entities to search
-        param_to_search: parameter to search in the json file
-    
-    Returns:
-        counter: dictionary with the entities (cities name) to search and their occurences
-    """
-    counter = {}
-    for ent in nlp_text.ents:
-        for elem in input_json: 
-            occurrence = elem[param_to_search] 
-            if occurrence == ent.text: 
-                if occurrence not in counter:
-                    counter[ent.text] = 1
-                else:
-                    counter[ent.text] += 1
-    return counter
 
 def sent_contains_ent(sentence, entity):
     """Check if the sentence contains the entity.
@@ -159,42 +113,13 @@ def get_entities_snippet(nlp_text, cities: list, entities_to_search_prev = dict(
                     elif ent not in entities_to_search:     
                         entities_to_search[ent.text] = [sent]
 
-    entities_to_search = clean_entities_to_search(entities_to_search) #IN PROGRESS
+    entities_to_search = clean_entities_to_search(entities_to_search)
 
     return entities_to_search, sentence_dict
 
-def add_context_to_entities(entities_to_search: dict, sentence_dict: dict): # TODO DELETE?
-    """Add the context to the entities to search.
+def clean_entities_to_search(entities_to_search: dict): # TODO: DELETE?
 
-    Args:
-        entities_to_search: dictionary with the entities to search
-        sentence_dict: dictionary with  the index of the sentence in the text and the sentence itself
-    
-    Returns:
-        entities_to_search: dictionary with the entities to search and the context
-    """
-
-    for key in entities_to_search: # per ogni entità
-        # cercare le frasi in cui compare 
-        sentences = entities_to_search[key]
-        for (index, sentence) in sentence_dict: 
-            if key.text.lower() in sentence.text.lower() and sentence not in sentences: # non è sufficiente not in ma bisogna controllare per ogni stringa se contiene sentence
-                before = sentence_dict.get(index-1, "")
-                if not isinstance(before, str):
-                    before = before.text.strip()
-                after = sentence_dict.get(index+1, "")
-                if not isinstance(after, str):
-                    after = after.text.strip()
-                
-                sent_appear = before + " " + sentence.text.strip() + " " + after
-                sentences.append(sent_appear)
-
-        
-    return entities_to_search
-
-def clean_entities_to_search(entities_to_search: dict): 
-
-    # unifico tutte le entitià che fanno riferimento allo stesso luoco ma sono scritte diversamente in termini di maiuscole e minuscole
+    # unifico tutte le entitià che fanno riferimento allo stesso luogo ma sono scritte diversamente in termini di maiuscole e minuscole
     entities = list(entities_to_search.keys())
     entities_to_delete = []
     entities.sort(key= str.lower)
@@ -241,7 +166,6 @@ def clean_entities_to_search2(entities_to_search: dict):
         del entities_to_search[key]
 
     return entities_to_search
-
 
 def exists_dupe(entity: str, entities: dict): 
     # TODO: l'idea sarebbe quella di vedere se per caso un'entità è stata individuata 
@@ -314,6 +238,8 @@ def clean_entities(entities: list, cities: list, sentence_dict: dict):
 
     Args:
         entities: list of entities to clean
+        cities: list of cities eventually to filter
+        sentence_dict: dictionary with the index of the sentence in the text and the sentence itself
     Returns:
         entities: list of the entities useful for the search
     """
@@ -321,7 +247,6 @@ def clean_entities(entities: list, cities: list, sentence_dict: dict):
     for ent in entities:
         if ent.label_ == "LOC" and ent.text not in cities:
             if ispunct(ent.text[-1]): # delete punctuation at the end of the entity 
-                #if ent.text[-1] != '"': 
                 ent = ent[:-1]
 
             if ent[-1].pos_ == "ADP": 
@@ -330,27 +255,6 @@ def clean_entities(entities: list, cities: list, sentence_dict: dict):
             entities_clean.append(ent)
     
     return entities_clean
-
-def clean_entities2(sentence, cities: list): 
-    """Clean the entities from the nlp_text.
-
-    Args:
-        nlp_text: spacy text
-    Returns:
-        entities: list of the entities useful for the search
-    """
-    entities = []
-    for ent in sentence.ents:
-        if ent.label_ == "LOC" and ent.text not in cities:
-            if ispunct(ent.text[-1]): # delete punctuation at the end of the entity
-                ent = ent[:-1]
-
-            if ent[-1].pos_ == "ADP": # delete the last word if it is an adposition oppure conviene includere nell'entità anche la parola dopo?
-                ent = ent[:-1]
-
-            entities.append(ent.text)
-    
-    return entities
 
 def search_dict(dict: dict, ent): # TODO: DELETE?
     """Search in a dictionary dict the entity ent. 
@@ -439,7 +343,6 @@ def search_entities_geopy(searchable_entities: dict, context: dict, title_page: 
 
     df = df[pd.notnull(df['address'])]
 
-    # scegliere la locazione più vicina al centro della città 
     df['address'] = df['address'].apply(lambda list_loc: most_close_location(list_loc, context))
 
     df['coordinates'] = df['address'].apply(lambda loc: Point((loc.longitude, loc.latitude)) if loc else None)
@@ -467,96 +370,6 @@ def search_entities_geopy(searchable_entities: dict, context: dict, title_page: 
     for entity in entities_final:
         print_to_file(response_file_path, entity)
 
-    return features
-
-def search_entities(searchable_entities: dict, context: dict, title_page: str, features = list()): # TODO: DELETE?
-    """ Search entities with API geocode.maps
-    
-    Args:
-        searchable_entities: list of entities to search
-        loc_context: dict with information about context (city) 
-        title_page: title of the page
-
-    Returns:
-        features: list with the results of the search (points and snippets)
-    """
-
-    geolocator = Nominatim(user_agent="PoI_geocoding")
-
-    
-    response_file_path = f"response/spacy_pipeline/{title_page}.txt"
-    delete_file(response_file_path)
-    response_file_excel = f"response/spacy_pipeline/{title_page}.csv"
-    delete_file(response_file_excel)
-
-    name_context = context['name']
-    entities = []
-    for search_item in searchable_entities.keys():
-        #text = urllib.parse.quote_plus(search_item + " " + name_context)
-        #text = urllib.parse.quote_plus(search_item)
-
-        #URLGEOJSON = 'https://geocode.maps.co/search?q={'+text+'}&format=geojson'
-        #print(URLGEOJSON)
-        
-        #s = requests.Session()
-        
-        #response= s.get(URLGEOJSON)
-            
-        #try: 
-        #    results = response.json()
-        #except json.decoder.JSONDecodeError: 
-        #    print("Error in the response of the API")
-        #    return
-
-        results = geolocator.geocode(search_item, exactly_one = False)
-
-        if results is not None:
-            results = [res.raw for res in results]
-
-            for result in results:
-                result['lat'] = float(result['lat'])
-                result['lon'] = float(result['lon'])
-
-            if len(results) > 0:
-                location = most_close_location(results, context)
-                
-                locationName = location['display_name'].strip()
-
-                category = ""
-                type = ""
-                importance = ""
-                if 'class' in location:
-                    category = location['class']
-                if 'type' in location:
-                    type = location['type']
-                if 'importance' in location:    
-                    importance = location['importance']
-
-                if category != "":
-                    loc_point = Point((location['lon'], location['lat']))
-                    loc_feature = Feature(geometry=loc_point, properties={
-                                    "entity": search_item, 
-                                    "name_location": locationName,
-                                    "category": category,
-                                    "type": type,
-                                    "importance": importance,
-                                    "snippet": searchable_entities[search_item]})
-                    
-                    print_to_csv(response_file_excel, loc_feature)
-                    
-                    features.append(loc_feature)    
-
-                    print("DISPLAY NAME: ", locationName)
-
-                    entities.append(search_item)
-
-        time.sleep(.600)
-    
-    entities.sort()
-    for entity in entities:
-        print_to_file(response_file_path, entity)
-
-    print(context)
     return features
 
 def detection_outliers(results: list, context: dict):
@@ -615,9 +428,6 @@ def point_in_polygon(point: Point, polygon: list):
 
     return within
     
-def metric_haversine(a, b):
-    return hs.haversine(a, b)
-    
 def most_close_location(results: list, context: dict):
     """ Return the most close location from the list of results
     
@@ -629,16 +439,12 @@ def most_close_location(results: list, context: dict):
         location: the most close location
     """
     location = results[0]
-    #poi_loc = (location['lat'], location['lon']) # adesso cambio
-
-    # df['coordinates'] = df['address'].apply(lambda loc: Point((loc.longitude, loc.latitude)) if loc else None)
     poi_loc = (location.latitude, location.longitude)
     context_loc = (float(context['latitude']), float(context['longitude']))
     
     distance_min = distance.distance(context_loc, poi_loc).km
 
     for result in results:
-        #current_loc = (result['lat'], result['lon'])
         current_loc = (result.latitude, result.longitude)
         current_distance = distance.distance(context_loc, current_loc).km
         if distance_min > current_distance: 
