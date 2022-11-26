@@ -138,7 +138,6 @@ def get_entities_snippet(nlp_text, cities: list, entities_to_search_prev = dict(
     return entities_to_search, sentence_dict
 
 def clean_entities_to_search(entities_to_search: dict, entities_to_search_pos: dict): # IN PROGESS
-    #TODO: eliminare tutte le entità composte da una sola parola che sono etichettate nella pos come nome comune?  MI SERVE ENTS!
     #TODO: unificare le entità quando una contiene l'altra e cose di sto tipo
 
     # unify entities written with the same words
@@ -163,7 +162,7 @@ def clean_entities_to_search(entities_to_search: dict, entities_to_search_pos: d
         del entities_to_search[entity_w]
 
     entities_to_delete = []
-
+    # delete entities that are nouns or adjectives
     for entity in entities_to_search:
         if len(entities_to_search_pos[entity][0]) == 1: 
             is_noun = True
@@ -285,7 +284,28 @@ def clean_entities(entities: list, cities: list, sentence_dict: dict):
             if ent[-1].pos_ == "ADP": 
                 ent = ent[:-1] 
 
-            entities_clean.append(ent)
+            if ent.text.count("\"") == 1:
+                nbor = ent[-1].nbor()
+                doc = ent.doc 
+                
+                while nbor.text != "\"":
+                    nbor = nbor.nbor()
+                
+                nbor = nbor.nbor()
+                start_ent = ent.start
+                end_ent = nbor.i
+
+                span = doc[start_ent: end_ent]
+
+                new_ent = span.char_span(0, len(span.text), label="LOC")
+
+                # label = ent.label_
+                print("ENTITY COMPLETA: ", new_ent)
+                print("Con etichetta: ", new_ent.label_)
+                entities_clean.append(new_ent)
+
+            else:     
+                entities_clean.append(ent)
 
     return entities_clean
 
@@ -620,7 +640,7 @@ def wiki_content(title, context = False):
             if not sub_tag[-1].text[-1] in string.punctuation or sub_tag[-1].text[-1] in not_punct:
                 sub_tag[-1].append(" .")
 
-    cleaned_content = soup.get_text(' ', strip=True)
+    cleaned_content = soup.get_text(' ', strip=True).replace("“", "\"").replace("”", "\"")
 
     with open(f'response/wikiPageContent/{title}_htmlcleaned.txt', 'w', encoding='utf-8') as f:
         f.write(soup.prettify())

@@ -1054,7 +1054,7 @@
                 "type": "government",
                 "snippet": [
                     "*Nel 1765 Benedetto Alfieri ebbe l'incarico di rifare i portici di piazza Palazzo di Città mentre nel corso del XIX secolo si aggiunsero quelli dell'attuale piazza Vittorio Veneto , piazza Carlo Felice e piazza Statuto .",
-                    "*Il film è stato girato in diverse location torinesi, tra cui via Palazzo di Città, Galleria San Federico , l’ex manicomio di Collegno e l’ex “Poveri Vecchi”."
+                    "*Il film è stato girato in diverse location torinesi, tra cui via Palazzo di Città, Galleria San Federico , l’ex manicomio di Collegno e l’ex \"Poveri Vecchi\"."
                 ]
             }
         },
@@ -3765,7 +3765,7 @@
                 "class": "building",
                 "type": "yes",
                 "snippet": [
-                    "*Le riprese sono state effettuate a Palazzo Saluzzo Paesana , a Palazzo Birago di Borgaro , a Palazzo dei Draghi , in via Carlo Alberto, nella Casa Circondariale “Lorusso e Cutugno”, al Palazzo Civico e al Ponte Rossini."
+                    "*Le riprese sono state effettuate a Palazzo Saluzzo Paesana , a Palazzo Birago di Borgaro , a Palazzo dei Draghi , in via Carlo Alberto, nella Casa Circondariale \"Lorusso e Cutugno\", al Palazzo Civico e al Ponte Rossini."
                 ]
             }
         },
@@ -3784,7 +3784,7 @@
                 "class": "tourism",
                 "type": "information",
                 "snippet": [
-                    "*Le riprese sono state effettuate a Palazzo Saluzzo Paesana , a Palazzo Birago di Borgaro , a Palazzo dei Draghi , in via Carlo Alberto, nella Casa Circondariale “Lorusso e Cutugno”, al Palazzo Civico e al Ponte Rossini."
+                    "*Le riprese sono state effettuate a Palazzo Saluzzo Paesana , a Palazzo Birago di Borgaro , a Palazzo dei Draghi , in via Carlo Alberto, nella Casa Circondariale \"Lorusso e Cutugno\", al Palazzo Civico e al Ponte Rossini."
                 ]
             }
         },
@@ -3793,17 +3793,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.619471,
-                    45.101619
+                    7.618904,
+                    45.103432
                 ]
             },
             "properties": {
-                "entity": "Casa Circondariale “Lorusso",
-                "name_location": "Casa Circondariale di Torino \"Lorusso e Cotugno\", 35, Via Maria Adelaide Aglietta, Vallette, Circoscrizione 5, Torino, Piemonte, 10151, Italia",
-                "class": "place",
-                "type": "house",
+                "entity": "Casa Circondariale \"Lorusso e Cutugno\"",
+                "name_location": "Casa circondariale Lorusso e Cutugno (Le Vallette), Via Maria Adelaide Aglietta, Vallette, Circoscrizione 5, Torino, Piemonte, 10146, Italia",
+                "class": "amenity",
+                "type": "prison",
                 "snippet": [
-                    "*Le riprese sono state effettuate a Palazzo Saluzzo Paesana , a Palazzo Birago di Borgaro , a Palazzo dei Draghi , in via Carlo Alberto, nella Casa Circondariale “Lorusso e Cutugno”, al Palazzo Civico e al Ponte Rossini."
+                    "Le riprese sono state effettuate a Palazzo Saluzzo Paesana , a Palazzo Birago di Borgaro , a Palazzo dei Draghi , in via Carlo Alberto, nella Casa Circondariale \"Lorusso e Cutugno\", al Palazzo Civico e al Ponte Rossini."
                 ]
             }
         },
@@ -3822,7 +3822,7 @@
                 "class": "building",
                 "type": "civic",
                 "snippet": [
-                    "*Le riprese sono state effettuate a Palazzo Saluzzo Paesana , a Palazzo Birago di Borgaro , a Palazzo dei Draghi , in via Carlo Alberto, nella Casa Circondariale “Lorusso e Cutugno”, al Palazzo Civico e al Ponte Rossini."
+                    "*Le riprese sono state effettuate a Palazzo Saluzzo Paesana , a Palazzo Birago di Borgaro , a Palazzo dei Draghi , in via Carlo Alberto, nella Casa Circondariale \"Lorusso e Cutugno\", al Palazzo Civico e al Ponte Rossini."
                 ]
             }
         },
@@ -3841,7 +3841,7 @@
                 "class": "highway",
                 "type": "residential",
                 "snippet": [
-                    "*Le riprese sono state effettuate a Palazzo Saluzzo Paesana , a Palazzo Birago di Borgaro , a Palazzo dei Draghi , in via Carlo Alberto, nella Casa Circondariale “Lorusso e Cutugno”, al Palazzo Civico e al Ponte Rossini."
+                    "*Le riprese sono state effettuate a Palazzo Saluzzo Paesana , a Palazzo Birago di Borgaro , a Palazzo dei Draghi , in via Carlo Alberto, nella Casa Circondariale \"Lorusso e Cutugno\", al Palazzo Civico e al Ponte Rossini."
                 ]
             }
         },
@@ -3860,7 +3860,7 @@
                 "class": "highway",
                 "type": "footway",
                 "snippet": [
-                    "*Il film è stato girato in diverse location torinesi, tra cui via Palazzo di Città, Galleria San Federico , l’ex manicomio di Collegno e l’ex “Poveri Vecchi”."
+                    "*Il film è stato girato in diverse location torinesi, tra cui via Palazzo di Città, Galleria San Federico , l’ex manicomio di Collegno e l’ex \"Poveri Vecchi\"."
                 ]
             }
         },

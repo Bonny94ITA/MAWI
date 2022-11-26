@@ -811,17 +811,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.619471,
-                    45.101619
+                    7.618904,
+                    45.103432
                 ]
             },
             "properties": {
-                "entity": "Casa Circondariale “Lorusso",
-                "name_location": "Casa Circondariale di Torino \"Lorusso e Cotugno\", 35, Via Maria Adelaide Aglietta, Vallette, Circoscrizione 5, Torino, Piemonte, 10151, Italia",
-                "class": "place",
-                "type": "house",
+                "entity": "Casa Circondariale \"Lorusso e Cutugno\"",
+                "name_location": "Casa circondariale Lorusso e Cutugno (Le Vallette), Via Maria Adelaide Aglietta, Vallette, Circoscrizione 5, Torino, Piemonte, 10146, Italia",
+                "class": "amenity",
+                "type": "prison",
                 "snippet": [
-                    "*Le riprese sono state effettuate a Palazzo Saluzzo Paesana , a Palazzo Birago di Borgaro , a Palazzo dei Draghi , in via Carlo Alberto, nella Casa Circondariale “Lorusso e Cutugno”, al Palazzo Civico e al Ponte Rossini."
+                    "Le riprese sono state effettuate a Palazzo Saluzzo Paesana , a Palazzo Birago di Borgaro , a Palazzo dei Draghi , in via Carlo Alberto, nella Casa Circondariale \"Lorusso e Cutugno\", al Palazzo Civico e al Ponte Rossini."
                 ]
             }
         },
@@ -840,7 +840,7 @@
                 "class": "building",
                 "type": "civic",
                 "snippet": [
-                    "*Le riprese sono state effettuate a Palazzo Saluzzo Paesana , a Palazzo Birago di Borgaro , a Palazzo dei Draghi , in via Carlo Alberto, nella Casa Circondariale “Lorusso e Cutugno”, al Palazzo Civico e al Ponte Rossini."
+                    "*Le riprese sono state effettuate a Palazzo Saluzzo Paesana , a Palazzo Birago di Borgaro , a Palazzo dei Draghi , in via Carlo Alberto, nella Casa Circondariale \"Lorusso e Cutugno\", al Palazzo Civico e al Ponte Rossini."
                 ]
             }
         },
