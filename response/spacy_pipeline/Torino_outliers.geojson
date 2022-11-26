@@ -6,26 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.34855,
-                    45.097298
-                ]
-            },
-            "properties": {
-                "entity": "XI",
-                "name_location": "XI, Via alla Fontana, San Pietro, Sant'Ambrogio di Torino, Torino, Piemonte, 10057, Italia",
-                "class": "historic",
-                "type": "wayside_cross",
-                "snippet": [
-                    "*Dopo il dominio ostrogoto , fu capitale di un importante ducato longobardo , per poi passare, dopo essere divenuta capitale di marca carolingia , sotto la signoria nominale dei savoia nell' xi",
-                    "Vari resti di abitazioni di epoca imperiale, fra cui le tracce delle domus di via bellezia, via santa chiara, via bonelli , piazza castello , la necropoli nel sottosuolo di piazza san carlo e gli edifici pubblici di piazza emanuele filiberto e corso xi"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     7.565176,
                     45.212368
                 ]
@@ -36,7 +16,7 @@
                 "class": "waterway",
                 "type": "river",
                 "snippet": [
-                    "*Torino sorge nella pianura delimitata dai fiumi stura di lanzo , sangone e po (quest'ultimo attraversa la città da sud verso nord), di fronte allo sbocco di alcune vallate alpine:"
+                    "*Torino sorge nella pianura delimitata dai fiumi Stura di Lanzo , Sangone e Po (quest'ultimo attraversa la città da sud verso nord), di fronte allo sbocco di alcune vallate alpine:"
                 ]
             }
         },
@@ -55,8 +35,8 @@
                 "class": "highway",
                 "type": "bus_stop",
                 "snippet": [
-                    "*Torino sorge nella pianura delimitata dai fiumi stura di lanzo , sangone e po (quest'ultimo attraversa la città da sud verso nord), di fronte allo sbocco di alcune vallate alpine:",
-                    "Val di susa , che collega la città con la vicina francia attraverso il traforo del frejus, valli di lanzo , val sangone ."
+                    "*Torino sorge nella pianura delimitata dai fiumi Stura di Lanzo , Sangone e Po (quest'ultimo attraversa la città da sud verso nord), di fronte allo sbocco di alcune vallate alpine:",
+                    "Val di Susa , che collega la città con la vicina Francia attraverso il traforo del Frejus, Valli di Lanzo , Val Sangone ."
                 ]
             }
         },
@@ -75,7 +55,7 @@
                 "class": "natural",
                 "type": "valley",
                 "snippet": [
-                    "*Val di susa , che collega la città con la vicina francia attraverso il traforo del frejus, valli di lanzo , val sangone ."
+                    "*Val di Susa , che collega la città con la vicina Francia attraverso il traforo del Frejus, Valli di Lanzo , Val Sangone ."
                 ]
             }
         },
@@ -94,7 +74,7 @@
                 "class": "natural",
                 "type": "valley",
                 "snippet": [
-                    "*Val di susa , che collega la città con la vicina francia attraverso il traforo del frejus, valli di lanzo , val sangone ."
+                    "*Val di Susa , che collega la città con la vicina Francia attraverso il traforo del Frejus, Valli di Lanzo , Val Sangone ."
                 ]
             }
         },
@@ -113,7 +93,7 @@
                 "class": "highway",
                 "type": "bus_stop",
                 "snippet": [
-                    "*Oltre ai tre corsi d'acqua prima citati che ne incorniciano il territorio, abbiamo la dora riparia che taglia la città da ovest a est, scorrendo prossima al centro storico ."
+                    "*Oltre ai tre corsi d'acqua prima citati che ne incorniciano il territorio, abbiamo la Dora Riparia che taglia la città da ovest a est, scorrendo prossima al centro storico ."
                 ]
             }
         },
@@ -132,8 +112,8 @@
                 "class": "natural",
                 "type": "peak",
                 "snippet": [
-                    "*Il punto più elevato del territorio comunale è il colle della maddalena , a 715 m s.l.m.",
-                    "*Due spettacolari esemplari di carpino bianco ( carpinus betulus ) arricchiscono il grande parco della rimembranza che si dispiega lungo il colle della maddalena ."
+                    "*Il punto più elevato del territorio comunale è il Colle della Maddalena , a 715 m s.l.m.",
+                    "*Due spettacolari esemplari di carpino bianco ( Carpinus betulus ) arricchiscono il grande Parco della Rimembranza che si dispiega lungo il Colle della Maddalena ."
                 ]
             }
         },
@@ -152,7 +132,7 @@
                 "class": "man_made",
                 "type": "lighthouse",
                 "snippet": [
-                    "*, nei pressi del faro della vittoria ."
+                    "*, nei pressi del Faro della Vittoria ."
                 ]
             }
         },
@@ -171,7 +151,7 @@
                 "class": "place",
                 "type": "hamlet",
                 "snippet": [
-                    "*Il monviso , monte sul quale nasce il po, il rocciamelone , e i massicci del gran paradiso e del monte rosa , mentre il cervino diventa visibile dalla zona sud-est dell'area urbana."
+                    "*Il Monviso , monte sul quale nasce il Po, il Rocciamelone , e i massicci del Gran Paradiso e del Monte Rosa , mentre il Cervino diventa visibile dalla zona sud-est dell'area urbana."
                 ]
             }
         },
@@ -190,7 +170,7 @@
                 "class": "highway",
                 "type": "unclassified",
                 "snippet": [
-                    "*Nel 940 fu fondata la marca di torino , controllata dalla cosiddetta \"dinastia arduinica\" che, attraverso il matrimonio tra adelaide di susa e oddone, figlio di umberto i biancamano (fondatore della casa savoia ), portò la città sotto l'influenza della dinastia sabauda."
+                    "*Nel 940 fu fondata la Marca di Torino , controllata dalla cosiddetta \"dinastia arduinica\" che, attraverso il matrimonio tra Adelaide di Susa e Oddone, figlio di Umberto I Biancamano (fondatore della casa Savoia ), portò la città sotto l'influenza della dinastia sabauda."
                 ]
             }
         },
@@ -209,9 +189,9 @@
                 "class": "amenity",
                 "type": "cafe",
                 "snippet": [
-                    "Dal 1720 fu capitale del regno di sardegna (anche se solo de facto fino alla fusione perfetta del 1847 , quando lo divenne anche formalmente), stato che nel xix secolo avrebbe portato all' unificazione italiana e che fece di torino la prima capitale del regno d'italia (dal 1861 al 1865 ).",
-                    "*Nel 1713 i duchi di savoia ottennero il titolo di re, prima di sicilia e poi, in cambio della sicilia, di sardegna .",
-                    "*La parentesi siciliana durò effettivamente molto poco (sette anni), mentre l'unione con la sardegna rimase tale fino al 1847 , allorché carlo alberto di savoia concesse la cosiddetta fusione perfetta fra i suoi domini e quindi torino, anche formalmente, divenne la città capitale del regno di sardegna, anche se di fatto tutte le decisioni più importanti venivano già prese a torino, anche per quanto riguardava la sardegna."
+                    "Dal 1720 fu capitale del Regno di Sardegna (anche se solo de facto fino alla fusione perfetta del 1847 , quando lo divenne anche formalmente), Stato che nel XIX secolo avrebbe portato all' unificazione italiana e che fece di Torino la prima capitale del Regno d'Italia (dal 1861 al 1865 ).",
+                    "*Nel 1713 i duchi di Savoia ottennero il titolo di re, prima di Sicilia e poi, in cambio della Sicilia, di Sardegna .",
+                    "*La parentesi siciliana durò effettivamente molto poco (sette anni), mentre l'unione con la Sardegna rimase tale fino al 1847 , allorché Carlo Alberto di Savoia concesse la cosiddetta Fusione perfetta fra i suoi domini e quindi Torino, anche formalmente, divenne la città capitale del Regno di Sardegna, anche se di fatto tutte le decisioni più importanti venivano già prese a Torino, anche per quanto riguardava la Sardegna."
                 ]
             }
         },
@@ -230,7 +210,7 @@
                 "class": "highway",
                 "type": "motorway_junction",
                 "snippet": [
-                    "*Il congresso di vienna e la restaurazione diedero al piemonte il territorio della liguria (precedentemente repubbliche marinare di genova e noli ) gettando così, anche se involontariamente, le basi del processo che porterà in poco più di cinquant'anni all' unità d'italia ."
+                    "*Il Congresso di Vienna e la Restaurazione diedero al Piemonte il territorio della Liguria (precedentemente repubbliche marinare di Genova e Noli ) gettando così, anche se involontariamente, le basi del processo che porterà in poco più di cinquant'anni all' Unità d'Italia ."
                 ]
             }
         },
@@ -249,7 +229,7 @@
                 "class": "place",
                 "type": "hamlet",
                 "snippet": [
-                    "*Dopo l'8 settembre torino venne occupata dalle truppe naziste e repubblichine che si macchiarono di numerosi eccidi, come quello del pian del lot , esecuzioni e deportazioni."
+                    "*Dopo l'8 settembre Torino venne occupata dalle truppe naziste e repubblichine che si macchiarono di numerosi eccidi, come quello del Pian del Lot , esecuzioni e deportazioni."
                 ]
             }
         },
@@ -268,42 +248,23 @@
                 "class": "aeroway",
                 "type": "aerodrome",
                 "snippet": [
-                    "Il 19 marzo 2016 l' unesco ha riconosciuto il parco del po e la collina torinese come riserva della biosfera , mentre nel 2020 la fao e l'arbor day foundation hanno conferito alla città di torino il riconoscimento di tree city of the world 2019 .",
-                    "*Lo stemma della città di torino, approvato dallo stato con decreto dell'11 agosto 1931 , è costituito da uno scudo svizzero azzurro a cui è sovrapposto un toro rampante d'oro, con le corna d'argento e con la corona comitale a nove perle.",
-                    "La città di torino è la quinta tra le ventisette città decorate di medaglia d'oro come \"benemerite del risorgimento nazionale\" per le azioni patriottiche che ebbero luogo nella città nel periodo del risorgimento :",
-                    "A differenza della stragrande maggioranza delle città italiane, che hanno una struttura viaria concentrica, con uno sviluppo di arterie radiali culminanti nel centro cittadino , sede delle principali attività pubbliche, il reticolo viario della città di torino disegna una pianta a scacchiera , le sue vie cioè si sviluppano in linea retta incrociandosi a 90° con un orientamento simile a quello del castrum romano:",
-                    "La città di torino e i suoi dintorni sono abbelliti dalle numerose residenze sabaude , patrimonio dell'umanità dell' unesco ;",
-                    "Numerosi sono gli edifici di culto presenti nella città di torino.",
-                    "A quella del craveri fecero seguito altre guide come, ad esempio, quella di onorato derossi nuova guida per la città di torino , pubblicata nel, 1781.",
-                    "Nel 2017 la città di torino si colloca stabilmente fra le prime 10 in italia per arrivi e presenze turistici, rispettivamente 1.200.000 e 3.700.000.",
-                    "Per il 2016 il new york times ha consigliato la città di torino - l'unica in italia - come una delle 52 destinazioni del mondo da visitare nell'anno , mentre skyscanner le dedica l'apertura della rassegna tra le venti bellissime città d'arte in italia e i blogger la includono tra le sedici città italiane da visitare.",
-                    "Il gruppo turin brakes cita nel proprio nome la città di torino.",
-                    "*Il titolo, conferito a copenaghen dall' icsid (international council of societies of industrial design), è stato creato appositamente per la città di torino per riconosciuti meriti e competenze presenti sul territorio.",
-                    "*La città di torino ha ospitato l'eurofestival presso il palaolimpico (palaalpitour o palaisozaki), in seguito alla vittoria dei måneskin con zitti e buoni nell' edizione precedente ;",
-                    "La città di torino è suddivisa in 92 zone statistiche e relativi quartieri cittadini.",
-                    "Attualmente la città di torino dispone di uno scalo aereo internazionale:",
-                    "Per i suoi acquisti verdi la città di torino ha raggiunto il secondo posto dell' european gpp award del 2016 , alle spalle delle città di vienna e davanti alla città metropolitana di torino .",
-                    "La città di torino ha una lunga tradizione sportiva, sede di alcune fra le prime società sportive italiane, di club pluripremiati e luogo di eventi internazionali di massimo rilievo.",
-                    "Alla città di torino è stato dedicato l'asteroide 9523 torino , in riferimento all' omonima scala di pericolosità degli oggetti di tipo neo ( near-earth object )."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.722566,
-                    45.331418
-                ]
-            },
-            "properties": {
-                "entity": "Rinascimento",
-                "name_location": "Marilyn, Centro Commerciale San Francesco, Pasquaro, Rivarolo Canavese, Torino, Piemonte, 10086, Italia",
-                "class": "shop",
-                "type": "clothes",
-                "snippet": [
-                    "*La pianta a scacchiera si rifece non all'origina romana, ma ai principi di ordine del rinascimento ed era intesa a rappresentare il nuovo ordine e potere ducale di torino, nuova capitale dei duchi di savoia."
+                    "Il 19 marzo 2016 l' UNESCO ha riconosciuto il parco del Po e la collina torinese come riserva della biosfera , mentre nel 2020 la FAO e l'Arbor Day Foundation hanno conferito alla città di Torino il riconoscimento di Tree City of the World 2019 .",
+                    "*Lo stemma della Città di Torino, approvato dallo Stato con decreto dell'11 agosto 1931 , è costituito da uno scudo svizzero azzurro a cui è sovrapposto un toro rampante d'oro, con le corna d'argento e con la corona comitale a nove perle.",
+                    "La città di Torino è la quinta tra le ventisette Città decorate di medaglia d'oro come \"benemerite del Risorgimento nazionale\" per le azioni patriottiche che ebbero luogo nella città nel periodo del Risorgimento :",
+                    "A differenza della stragrande maggioranza delle città italiane, che hanno una struttura viaria concentrica, con uno sviluppo di arterie radiali culminanti nel centro cittadino , sede delle principali attività pubbliche, il reticolo viario della città di Torino disegna una pianta a scacchiera , le sue vie cioè si sviluppano in linea retta incrociandosi a 90° con un orientamento simile a quello del castrum romano:",
+                    "La città di Torino e i suoi dintorni sono abbelliti dalle numerose residenze sabaude , Patrimonio dell'umanità dell' UNESCO ;",
+                    "Numerosi sono gli edifici di culto presenti nella città di Torino.",
+                    "A quella del Craveri fecero seguito altre guide come, ad esempio, quella di Onorato Derossi Nuova guida per la città di Torino , pubblicata nel, 1781.",
+                    "Nel 2017 la città di Torino si colloca stabilmente fra le prime 10 in Italia per arrivi e presenze turistici, rispettivamente 1.200.000 e 3.700.000.",
+                    "Per il 2016 il New York Times ha consigliato la città di Torino - l'unica in Italia - come una delle 52 destinazioni del mondo da visitare nell'anno , mentre Skyscanner le dedica l'apertura della rassegna tra le venti bellissime città d'arte in Italia e i blogger la includono tra le sedici città italiane da visitare.",
+                    "Il gruppo Turin Brakes cita nel proprio nome la città di Torino.",
+                    "*Il titolo, conferito a Copenaghen dall' ICSID (International Council of Societies of Industrial Design), è stato creato appositamente per la Città di Torino per riconosciuti meriti e competenze presenti sul territorio.",
+                    "*La Città di Torino ha ospitato l'Eurofestival presso il PalaOlimpico (PalaAlpitour o PalaIsozaki), in seguito alla vittoria dei Måneskin con Zitti e buoni nell' edizione precedente ;",
+                    "La città di Torino è suddivisa in 92 zone statistiche e relativi quartieri cittadini.",
+                    "Attualmente la città di Torino dispone di uno scalo aereo internazionale:",
+                    "Per i suoi acquisti verdi la città di Torino ha raggiunto il secondo posto dell' European Gpp Award del 2016 , alle spalle delle città di Vienna e davanti alla città metropolitana di Torino .",
+                    "La città di Torino ha una lunga tradizione sportiva, sede di alcune fra le prime società sportive italiane, di club pluripremiati e luogo di eventi internazionali di massimo rilievo.",
+                    "Alla città di Torino è stato dedicato l'asteroide 9523 Torino , in riferimento all' omonima scala di pericolosità degli oggetti di tipo NEO ( near-Earth object )."
                 ]
             }
         },
@@ -322,8 +283,8 @@
                 "class": "highway",
                 "type": "residential",
                 "snippet": [
-                    "*Di norma i più antichi, come corso vittorio emanuele, corso francia e corso regina margherita , presentano una carreggiata centrale con almeno due corsie per senso di marcia, divisa da alberate dalle altre due carreggiate laterali, dette controviali.",
-                    "Le stazioni ferroviarie di porta nuova e porta susa vennero congiunte con un percorso porticato attraverso via nizza , via sacchi, corso vittorio emanuele ii , corso vinzaglio e via cernaia ."
+                    "*Di norma i più antichi, come Corso Vittorio Emanuele, Corso Francia e Corso Regina Margherita , presentano una carreggiata centrale con almeno due corsie per senso di marcia, divisa da alberate dalle altre due carreggiate laterali, dette controviali.",
+                    "Le stazioni ferroviarie di Porta Nuova e Porta Susa vennero congiunte con un percorso porticato attraverso via Nizza , via Sacchi, Corso Vittorio Emanuele II , Corso Vinzaglio e via Cernaia ."
                 ]
             }
         },
@@ -342,7 +303,7 @@
                 "class": "highway",
                 "type": "unclassified",
                 "snippet": [
-                    "*Vari resti di abitazioni di epoca imperiale, fra cui le tracce delle domus di via bellezia, via santa chiara, via bonelli , piazza castello , la necropoli nel sottosuolo di piazza san carlo e gli edifici pubblici di piazza emanuele filiberto e corso xi"
+                    "*Vari resti di abitazioni di epoca imperiale, fra cui le tracce delle domus di via Bellezia, via Santa Chiara, via Bonelli , Piazza Castello , la necropoli nel sottosuolo di Piazza San Carlo e gli edifici pubblici di Piazza Emanuele Filiberto e Corso XI"
                 ]
             }
         },
@@ -361,11 +322,11 @@
                 "class": "amenity",
                 "type": "place_of_worship",
                 "snippet": [
-                    "*La rinascimentale cattedrale di san giovanni battista del xv secolo (celebre in quanto vi è custodita la sacra sindone );",
-                    "Amedeo di castellamonte ( cappella della sacra sindone , basilica del corpus domini ) ;",
-                    "Carlo di castellamonte ( cappella della sacra sindone , chiesa di santa cristina ) ;",
-                    "Guarino guarini ( cappella della sacra sindone , santuario della consolata , chiesa di san lorenzo ) ;",
-                    "*Per gli esoteristi la magia positiva di torino nasce dal \"cuore bianco\" di piazza castello, dal duomo che custodisce la sacra sindone alla gran madre di dio e fino alla mole antonelliana , che indica il cielo."
+                    "*La rinascimentale cattedrale di San Giovanni Battista del XV secolo (celebre in quanto vi è custodita la Sacra Sindone );",
+                    "Amedeo di Castellamonte ( Cappella della Sacra Sindone , Basilica del Corpus Domini ) ;",
+                    "Carlo di Castellamonte ( Cappella della Sacra Sindone , Chiesa di Santa Cristina ) ;",
+                    "Guarino Guarini ( Cappella della Sacra Sindone , Santuario della Consolata , Chiesa di San Lorenzo ) ;",
+                    "*Per gli esoteristi la magia positiva di Torino nasce dal \"cuore bianco\" di piazza Castello, dal Duomo che custodisce la Sacra Sindone alla Gran Madre di Dio e fino alla Mole Antonelliana , che indica il cielo."
                 ]
             }
         },
@@ -384,29 +345,7 @@
                 "class": "amenity",
                 "type": "fast_food",
                 "snippet": [
-                    "*Il museo egizio (il secondo più importante al mondo dopo quello de il cairo );"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.333198,
-                    44.884355
-                ]
-            },
-            "properties": {
-                "entity": "Grattacielo",
-                "name_location": "grattacielo, Via Giuseppe Chiappero, Pinerolo, Torino, Piemonte, 10064, Italia",
-                "class": "building",
-                "type": "apartments",
-                "snippet": [
-                    "Grattacielo intesa sanpaolo ;",
-                    "*Grattacielo della regione piemonte ; cascina giajone ;",
-                    "Auditorium \"gianni agnelli\" del lingotto ; auditorium intesa-sanpaolo (interno dell' omonimo grattacielo ) ;",
-                    "Nel quartiere san salvario , caratteristico è il condominio 25 verde , il cui principio è lo stesso del più imponente (perché grattacielo ) bosco verticale di milano ."
+                    "*Il Museo Egizio (il secondo più importante al mondo dopo quello de Il Cairo );"
                 ]
             }
         },
@@ -425,9 +364,9 @@
                 "class": "amenity",
                 "type": "place_of_worship",
                 "snippet": [
-                    "*Amedeo di castellamonte ( cappella della sacra sindone , basilica del corpus domini ) ;",
-                    "*Carlo di castellamonte ( cappella della sacra sindone , chiesa di santa cristina ) ;",
-                    "*Guarino guarini ( cappella della sacra sindone , santuario della consolata , chiesa di san lorenzo ) ;"
+                    "*Amedeo di Castellamonte ( Cappella della Sacra Sindone , Basilica del Corpus Domini ) ;",
+                    "*Carlo di Castellamonte ( Cappella della Sacra Sindone , Chiesa di Santa Cristina ) ;",
+                    "*Guarino Guarini ( Cappella della Sacra Sindone , Santuario della Consolata , Chiesa di San Lorenzo ) ;"
                 ]
             }
         },
@@ -446,44 +385,7 @@
                 "class": "amenity",
                 "type": "place_of_worship",
                 "snippet": [
-                    "*Filippo juvarra ( basilica di superga , chiesa di san filippo neri , santuario della consolata , chiesa di santa cristina , chiesa della madonna del carmine ) ; filippo giovanni battista nicolis di robilant ( chiesa di santa pelagia , chiesa della misericordia ) ;"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.579421,
-                    45.087881
-                ]
-            },
-            "properties": {
-                "entity": "Cimitero",
-                "name_location": "Cimitero, Strada Comunale San Lorenzo, Villaggio Dora, Collegno, Torino, Piemonte, 10093, Italia",
-                "class": "highway",
-                "type": "bus_stop",
-                "snippet": [
-                    "*Cimitero monumentale (già cimitero generale):",
-                    "Sito in corso novara, 135 (quartiere regio parco ), è il primo cimitero di torino per dimensioni;",
-                    "*Contiene anche un tempio crematorio e un cimitero giudaico;",
-                    "Cimitero parco (detto anche \"cimitero del gerbido \"):",
-                    "Costruito nel 1972 nella zona all'estremo sud di torino, è il secondo cimitero di torino per dimensioni ;",
-                    "Cimitero di mirafiori :",
-                    "Piccolo cimitero sito in corso unione sovietica 650, nella zona sud di torino ;",
-                    "Cimitero di sassi :",
-                    "Cimitero di cavoretto:",
-                    "Sito nell' omonimo borgo collinare ; cimitero di abbadia di stura:",
-                    "Cimitero di san pietro in vincoli :",
-                    "Sito nell'omonima via del borgo aurora , fu il primo cimitero della città, costruito nel 1777 sui disegni dell'architetto francesco valeriano dellala di beinasco, a seguito del decreto del re vittorio amedeo iii , che vietava l'inumazione dei defunti nelle chiese.",
-                    "Dismesso presto a causa delle dimensioni troppo esigue, venne chiuso nel 1829 e utilizzato poi per breve tempo come cimitero dei giustiziati, essendo situato molto vicino all'antica piazza della forca.",
-                    "Cimitero del lingotto :",
-                    "Cimitero di madonna di campagna:",
-                    "Cimitero di lucento :",
-                    "Cimitero di pozzo strada :",
-                    "Cimitero della rocca o di san lazzaro:",
-                    "Simboli massonici sono presenti in molti palazzi e in alcune tombe del cimitero monumentale di torino."
+                    "*Filippo Juvarra ( Basilica di Superga , Chiesa di San Filippo Neri , Santuario della Consolata , Chiesa di Santa Cristina , Chiesa della Madonna del Carmine ) ; Filippo Giovanni Battista Nicolis di Robilant ( Chiesa di Santa Pelagia , Chiesa della Misericordia ) ;"
                 ]
             }
         },
@@ -502,7 +404,7 @@
                 "class": "landuse",
                 "type": "cemetery",
                 "snippet": [
-                    "*Cimitero di mirafiori :"
+                    "*Cimitero di Mirafiori :"
                 ]
             }
         },
@@ -521,16 +423,16 @@
                 "class": "amenity",
                 "type": "fast_food",
                 "snippet": [
-                    "Torino sorge nella pianura delimitata dai fiumi stura di lanzo , sangone e po (quest'ultimo attraversa la città da sud verso nord), di fronte allo sbocco di alcune vallate alpine:",
-                    "Il monviso , monte sul quale nasce il po, il rocciamelone , e i massicci del gran paradiso e del monte rosa , mentre il cervino diventa visibile dalla zona sud-est dell'area urbana.",
-                    "*Dopo il secondo dopoguerra torino fu il simbolo della crescita economica dell'italia , tanto che riuscì ad attirare centinaia di migliaia di emigranti dal sud dell'italia e dal veneto per via delle richieste di manodopera negli stabilimenti automobilistici (circa mezzo milione nel ventennio 1951-1971).",
+                    "Torino sorge nella pianura delimitata dai fiumi Stura di Lanzo , Sangone e Po (quest'ultimo attraversa la città da sud verso nord), di fronte allo sbocco di alcune vallate alpine:",
+                    "Il Monviso , monte sul quale nasce il Po, il Rocciamelone , e i massicci del Gran Paradiso e del Monte Rosa , mentre il Cervino diventa visibile dalla zona sud-est dell'area urbana.",
+                    "*Dopo il secondo dopoguerra Torino fu il simbolo della crescita economica dell'Italia , tanto che riuscì ad attirare centinaia di migliaia di emigranti dal Sud dell'Italia e dal Veneto per via delle richieste di manodopera negli stabilimenti automobilistici (circa mezzo milione nel ventennio 1951-1971).",
                     "Un cardo maximus (direzione nord-sud) ed un decumanus maximus (direzione est-ovest), incrociantisi al centro del castrum , e parallele alle quali dovevano svilupparsi tutte le altre vie interne al castrum .",
-                    "Costruito nel 1972 nella zona all'estremo sud di torino, è il secondo cimitero di torino per dimensioni ;",
-                    "Piccolo cimitero sito in corso unione sovietica 650, nella zona sud di torino ;",
-                    "La città è sede d'importanti centri dell' onu , ospitati in un unico campus nella zona sud di torino.",
-                    "*Un fedele ritratto della torino del boom economico e della forte immigrazione dal sud.",
-                    "Santa rita - mirafiori nord - mirafiori sud ;",
-                    "La tangenzale di torino è la a55 , divisa in tangenziale nord e tangenziale sud, va da nord est fino a sud est passando in maniera semicircolare da ovest."
+                    "Costruito nel 1972 nella zona all'estremo sud di Torino, è il secondo cimitero di Torino per dimensioni ;",
+                    "Piccolo cimitero sito in corso Unione Sovietica 650, nella zona Sud di Torino ;",
+                    "La città è sede d'importanti centri dell' ONU , ospitati in un unico campus nella zona sud di Torino.",
+                    "*Un fedele ritratto della Torino del boom economico e della forte immigrazione dal Sud.",
+                    "Santa Rita - Mirafiori Nord - Mirafiori Sud ;",
+                    "La tangenzale di Torino è la A55 , divisa in Tangenziale Nord e Tangenziale Sud, va da nord est fino a sud est passando in maniera semicircolare da ovest."
                 ]
             }
         },
@@ -549,32 +451,7 @@
                 "class": "highway",
                 "type": "trunk",
                 "snippet": [
-                    "*Sito in strada di settimo 307, nella zona nord ."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.428098,
-                    51.221279
-                ]
-            },
-            "properties": {
-                "entity": "Regio",
-                "name_location": "Torino, 138, Lange Beeldekensstraat, Seefhoek, Anversa, Vlaanderen, 2060, Belgio",
-                "class": "shop",
-                "type": "clothes",
-                "snippet": [
-                    "Sito in corso novara, 135 (quartiere regio parco ), è il primo cimitero di torino per dimensioni;",
-                    "*Fra i teatri maggiori, con una capienza superiore a 400 posti, vi sono il teatro regio , in cui si tenne la prima de la bohème di puccini , il teatro carignano , il teatro alfieri e il teatro colosseo ; importante, poi, è il teatro gobetti , sede principale del sopracitato teatro stabile cittadino.",
-                    "Le scene all’interno del teatro, però, sono state girate al teatro regio di torino .",
-                    "L'ente lirico di torino è il teatro regio , mentre la principale orchestra sinfonica cittadina è l' orchestra sinfonica nazionale della rai , che si esibisce all' auditorium della rai .",
-                    "Nell'ambito della musica classica sono attive anche l' orchestra filarmonica di torino , la filarmonica del regio e l'accademia musicale stefano tempia, specializzata nel repertorio barocco.",
-                    "Barriera di milano - regio parco - barca - bertolla - falchera - rebaudengo - villaretto ;",
-                    "Nel 1270 la città passò sotto il dominio di carlo i d'angiò e, con la cacciata del potestà, fu nominato un vicario regio, l' albese pietro di brayda ."
+                    "*Sito in Strada di Settimo 307, nella zona nord ."
                 ]
             }
         },
@@ -593,46 +470,7 @@
                 "class": "amenity",
                 "type": "cafe",
                 "snippet": [
-                    "*Fra questi il teatro balbo e il teatro di torino , distrutti durante un bombardamento nel 1943 , il teatro rossini , bruciato in un incendio nel 1941 , i teatri adua , gianduja , gerbino e arena torinese, smantellati, e, infine, il teatro nazionale riconvertito a cinema;"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.940522,
-                    45.007013
-                ]
-            },
-            "properties": {
-                "entity": "disuso",
-                "name_location": "Trampolini (in disuso), Clot della Soma, Soucheres Hautes, Pragelato, Torino, Piemonte, Italia",
-                "class": "aerialway",
-                "type": "chair_lift",
-                "snippet": [
-                    "Diversi edifici teatrali sono andati distrutti o caduti in disuso.",
-                    "*Inoltre v'è una sala teatrale, oggi in disuso, nell'edificio storico della cavallerizza reale ."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.794325,
-                    45.059055
-                ]
-            },
-            "properties": {
-                "entity": "anello",
-                "name_location": "Anello 44, Tetti Civera, Pino Torinese, Torino, Piemonte, 10025, Italia",
-                "class": "highway",
-                "type": "path",
-                "snippet": [
-                    "*Attorno alla città, ad anello, vi sono il parco della mandria e il parco della palazzina di caccia di stupinigi , antiche riserve di caccia dei savoia, e quelli situati sulla collina torinese quali il parco della rimembranza o il parco europa ."
+                    "*Fra questi il teatro Balbo e il teatro di Torino , distrutti durante un bombardamento nel 1943 , il teatro Rossini , bruciato in un incendio nel 1941 , i teatri Adua , Gianduja , Gerbino e Arena torinese, smantellati, e, infine, il teatro Nazionale riconvertito a cinema;"
                 ]
             }
         },
@@ -651,8 +489,8 @@
                 "class": "leisure",
                 "type": "park",
                 "snippet": [
-                    "*Attorno alla città, ad anello, vi sono il parco della mandria e il parco della palazzina di caccia di stupinigi , antiche riserve di caccia dei savoia, e quelli situati sulla collina torinese quali il parco della rimembranza o il parco europa .",
-                    "*Due spettacolari esemplari di carpino bianco ( carpinus betulus ) arricchiscono il grande parco della rimembranza che si dispiega lungo il colle della maddalena ."
+                    "*Attorno alla città, ad anello, vi sono il Parco della Mandria e il Parco della Palazzina di caccia di Stupinigi , antiche riserve di caccia dei Savoia, e quelli situati sulla collina torinese quali il Parco della Rimembranza o il Parco Europa .",
+                    "*Due spettacolari esemplari di carpino bianco ( Carpinus betulus ) arricchiscono il grande Parco della Rimembranza che si dispiega lungo il Colle della Maddalena ."
                 ]
             }
         },
@@ -671,7 +509,7 @@
                 "class": "natural",
                 "type": "tree",
                 "snippet": [
-                    "*Torino ospita anche alberi esotici secolari come le sequoie costali ( sequoia sempervirens ) dei parchi collinari di villa genero e giacomo leopardi, i numerosi esemplari di noce del caucaso ( pterocarya fraxinifolia ) che costeggiano il po e compaiono in parchi pubblici come i giardini cavour , il giardino sambuy , i giardini reali bassi (lungo corso san maurizio), il parco millefonti ."
+                    "*Torino ospita anche alberi esotici secolari come le sequoie costali ( Sequoia sempervirens ) dei parchi collinari di Villa Genero e Giacomo Leopardi, i numerosi esemplari di Noce del Caucaso ( Pterocarya fraxinifolia ) che costeggiano il Po e compaiono in parchi pubblici come i Giardini Cavour , il giardino Sambuy , i Giardini Reali Bassi (lungo Corso San Maurizio), il parco Millefonti ."
                 ]
             }
         },
@@ -690,7 +528,7 @@
                 "class": "highway",
                 "type": "track",
                 "snippet": [
-                    "*Per torino passa la via francigena , ramo del moncenisio ."
+                    "*Per Torino passa la Via Francigena , ramo del Moncenisio ."
                 ]
             }
         },
@@ -709,7 +547,7 @@
                 "class": "amenity",
                 "type": "place_of_worship",
                 "snippet": [
-                    "*L'itinerario, fra i preferiti nel medioevo, valicato lo spartiacque francia/italia al colle del moncenisio , giunge dalla valle di susa terra delle grandi abbazie come novalesa , sacra di san michele e sant'antonio di ranverso e passando per torino lungo il parco colletta tende a san mauro torinese e poi verso chivasso e successivamente a vercelli , dove si congiunge con l'altro ramo della francigena, quella proveniente dal colle del gran san bernardo ."
+                    "*L'itinerario, fra i preferiti nel Medioevo, valicato lo spartiacque Francia/Italia al Colle del Moncenisio , giunge dalla Valle di Susa terra delle grandi abbazie come Novalesa , Sacra di San Michele e Sant'Antonio di Ranverso e passando per Torino lungo il Parco Colletta tende a San Mauro Torinese e poi verso Chivasso e successivamente a Vercelli , dove si congiunge con l'altro ramo della Francigena, quella proveniente dal Colle del Gran San Bernardo ."
                 ]
             }
         },
@@ -728,28 +566,8 @@
                 "class": "highway",
                 "type": "track",
                 "snippet": [
-                    "Per torino passa la via francigena , ramo del moncenisio .",
-                    "*L'itinerario, fra i preferiti nel medioevo, valicato lo spartiacque francia/italia al colle del moncenisio , giunge dalla valle di susa terra delle grandi abbazie come novalesa , sacra di san michele e sant'antonio di ranverso e passando per torino lungo il parco colletta tende a san mauro torinese e poi verso chivasso e successivamente a vercelli , dove si congiunge con l'altro ramo della francigena, quella proveniente dal colle del gran san bernardo ."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.980234,
-                    44.961386
-                ]
-            },
-            "properties": {
-                "entity": "Mezzogiorno",
-                "name_location": "Bric di Mezzogiorno, Massello, Torino, Piemonte, Italia",
-                "class": "natural",
-                "type": "peak",
-                "snippet": [
-                    "*A partire dal secondo dopoguerra, in particolare nel decennio 1951-1961, la popolazione della città conobbe un'improvvisa e repentina espansione (306.000 abitanti in più nel 1961 rispetto al 1951 ), dovuta alla migrazione interna dal mezzogiorno , dal veneto e, seppur in misura minore, dalle vallate e dalle campagne di tutto il piemonte , da dove la gente si spostava in cerca di lavoro nelle fabbriche cittadine (segnatamente la fiat ).",
-                    "*Ciò non è dipeso soltanto dal ritorno di molti immigrati del mezzogiorno nelle loro regioni di origine, ma dagli spostamenti avvenuti da torino verso quella che poi divenne l' area metropolitana , determinando così l'espansione dei comuni della seconda ( vinovo , candiolo , orbassano , rivalta di torino , rivoli , alpignano , pianezza , druento , caselle torinese ) e della prima cintura ( moncalieri , nichelino , beinasco , grugliasco , collegno , venaria reale , borgaro torinese , settimo torinese , san mauro torinese )."
+                    "Per Torino passa la Via Francigena , ramo del Moncenisio .",
+                    "*L'itinerario, fra i preferiti nel Medioevo, valicato lo spartiacque Francia/Italia al Colle del Moncenisio , giunge dalla Valle di Susa terra delle grandi abbazie come Novalesa , Sacra di San Michele e Sant'Antonio di Ranverso e passando per Torino lungo il Parco Colletta tende a San Mauro Torinese e poi verso Chivasso e successivamente a Vercelli , dove si congiunge con l'altro ramo della Francigena, quella proveniente dal Colle del Gran San Bernardo ."
                 ]
             }
         },
@@ -768,9 +586,9 @@
                 "class": "highway",
                 "type": "residential",
                 "snippet": [
-                    "*Marocco , 15 427 ; cina , 8 195 ; perù , 7 120 ;",
-                    "*Ekaterinburg , russia , dal 1998 ; fès , marocco , dal 2010 ; haifa , israele , dal 2005 ;",
-                    "*Louga , senegal , dal 2007 ; lione , francia , dal 2012 ; ouagadougou , burkina faso , dal 2003 ; praia , capo verde , dal 2003 ; rabat , marocco , dal 2009 ; rosario , argentina , dal 2011 ;"
+                    "*Marocco , 15 427 ; Cina , 8 195 ; Perù , 7 120 ;",
+                    "*Ekaterinburg , Russia , dal 1998 ; Fès , Marocco , dal 2010 ; Haifa , Israele , dal 2005 ;",
+                    "*Louga , Senegal , dal 2007 ; Lione , Francia , dal 2012 ; Ouagadougou , Burkina Faso , dal 2003 ; Praia , Capo Verde , dal 2003 ; Rabat , Marocco , dal 2009 ; Rosario , Argentina , dal 2011 ;"
                 ]
             }
         },
@@ -789,7 +607,7 @@
                 "class": "amenity",
                 "type": "restaurant",
                 "snippet": [
-                    "*Marocco , 15 427 ; cina , 8 195 ; perù , 7 120 ;"
+                    "*Marocco , 15 427 ; Cina , 8 195 ; Perù , 7 120 ;"
                 ]
             }
         },
@@ -808,8 +626,8 @@
                 "class": "shop",
                 "type": "clothes",
                 "snippet": [
-                    "*Nigeria , 5 532 ; egitto , 5 405 ; albania , 5 061 ;",
-                    "Dopo alessandria d'egitto , madrid , nuova delhi , anversa e montréal , l' unesco ha conferito a torino, in collaborazione con roma , il titolo di capitale mondiale del libro per il periodo dal 23 aprile 2006 al 22 aprile 2007 ."
+                    "*Nigeria , 5 532 ; Egitto , 5 405 ; Albania , 5 061 ;",
+                    "Dopo Alessandria d'Egitto , Madrid , Nuova Delhi , Anversa e Montréal , l' UNESCO ha conferito a Torino, in collaborazione con Roma , il titolo di capitale mondiale del libro per il periodo dal 23 aprile 2006 al 22 aprile 2007 ."
                 ]
             }
         },
@@ -828,8 +646,8 @@
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
-                    "*Vi sono quattro musei nazionali ( museo del cinema , museo dell'automobile , museo della montagna , museo del risorgimento ) e numerosi altri musei di rilevanza nazionale ed internazionale come il museo egizio , l' armeria reale , ora ricompresa nei musei reali , il museo d'arte orientale , il museo dell'astronomia e planetario , il j-museum a cui si aggiungeva, fino al 2015, il museo dello sport .",
-                    "Da ricordare il museo dell'astronomia e planetario di torino , che sorge accanto dell' osservatorio astronomico di torino a pino torinese , cittadina collinare nei pressi immediati del capoluogo piemontese."
+                    "*Vi sono quattro musei nazionali ( Museo del cinema , Museo dell'automobile , Museo della montagna , Museo del Risorgimento ) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio , l' Armeria Reale , ora ricompresa nei Musei Reali , il Museo d'Arte Orientale , il Museo dell'Astronomia e Planetario , il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport .",
+                    "Da ricordare il Museo dell'astronomia e Planetario di Torino , che sorge accanto dell' Osservatorio astronomico di Torino a Pino Torinese , cittadina collinare nei pressi immediati del capoluogo piemontese."
                 ]
             }
         },
@@ -848,8 +666,8 @@
                 "class": "building",
                 "type": "yes",
                 "snippet": [
-                    "*Vi sono quattro musei nazionali ( museo del cinema , museo dell'automobile , museo della montagna , museo del risorgimento ) e numerosi altri musei di rilevanza nazionale ed internazionale come il museo egizio , l' armeria reale , ora ricompresa nei musei reali , il museo d'arte orientale , il museo dell'astronomia e planetario , il j-museum a cui si aggiungeva, fino al 2015, il museo dello sport .",
-                    "Da ricordare il museo dell'astronomia e planetario di torino , che sorge accanto dell' osservatorio astronomico di torino a pino torinese , cittadina collinare nei pressi immediati del capoluogo piemontese."
+                    "*Vi sono quattro musei nazionali ( Museo del cinema , Museo dell'automobile , Museo della montagna , Museo del Risorgimento ) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio , l' Armeria Reale , ora ricompresa nei Musei Reali , il Museo d'Arte Orientale , il Museo dell'Astronomia e Planetario , il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport .",
+                    "Da ricordare il Museo dell'astronomia e Planetario di Torino , che sorge accanto dell' Osservatorio astronomico di Torino a Pino Torinese , cittadina collinare nei pressi immediati del capoluogo piemontese."
                 ]
             }
         },
@@ -868,7 +686,7 @@
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
-                    "*Considerando che la vicina rivoli ospita nell'omonimo castello il museo d'arte contemporanea , torino può essere considerata come il più importante polo museale italiano per l' arte contemporanea ."
+                    "*Considerando che la vicina Rivoli ospita nell'omonimo castello il Museo d'Arte Contemporanea , Torino può essere considerata come il più importante polo museale italiano per l' arte contemporanea ."
                 ]
             }
         },
@@ -887,7 +705,7 @@
                 "class": "amenity",
                 "type": "restaurant",
                 "snippet": [
-                    "*Inoltre, l'apertura del mao - museo d'arte orientale nel dicembre 2008 ha permesso di ospitare ricche collezioni provenienti dal vicino oriente , dall' india , dalla cina e dal giappone , oltre che dall' asia centrale ."
+                    "*Inoltre, l'apertura del MAO - Museo d'Arte Orientale nel dicembre 2008 ha permesso di ospitare ricche collezioni provenienti dal Vicino Oriente , dall' India , dalla Cina e dal Giappone , oltre che dall' Asia centrale ."
                 ]
             }
         },
@@ -906,7 +724,7 @@
                 "class": "building",
                 "type": "yes",
                 "snippet": [
-                    "*Da ricordare il museo dell'astronomia e planetario di torino , che sorge accanto dell' osservatorio astronomico di torino a pino torinese , cittadina collinare nei pressi immediati del capoluogo piemontese."
+                    "*Da ricordare il Museo dell'astronomia e Planetario di Torino , che sorge accanto dell' Osservatorio astronomico di Torino a Pino Torinese , cittadina collinare nei pressi immediati del capoluogo piemontese."
                 ]
             }
         },
@@ -925,7 +743,7 @@
                 "class": "landuse",
                 "type": "observatory",
                 "snippet": [
-                    "*Da ricordare il museo dell'astronomia e planetario di torino , che sorge accanto dell' osservatorio astronomico di torino a pino torinese , cittadina collinare nei pressi immediati del capoluogo piemontese."
+                    "*Da ricordare il Museo dell'astronomia e Planetario di Torino , che sorge accanto dell' Osservatorio astronomico di Torino a Pino Torinese , cittadina collinare nei pressi immediati del capoluogo piemontese."
                 ]
             }
         },
@@ -944,26 +762,7 @@
                 "class": "shop",
                 "type": "books",
                 "snippet": [
-                    "*Rosenberg & sellier ; claudiana ; clut ; edt (editore) ;"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.393844,
-                    44.950772
-                ]
-            },
-            "properties": {
-                "entity": "Cabiria",
-                "name_location": "Cabiria, Strada Provinciale 589 dei Laghi di Avigliana, Cumiana, Torino, Piemonte, 10040, Italia",
-                "class": "amenity",
-                "type": "restaurant",
-                "snippet": [
-                    "*Cabiria del 1914 ."
+                    "*Rosenberg & Sellier ; Claudiana ; Clut ; EDT (editore) ;"
                 ]
             }
         },
@@ -982,7 +781,7 @@
                 "class": "amenity",
                 "type": "cinema",
                 "snippet": [
-                    "*Sono nati a torino il primo cinema d'essai italiano (il romano nella galleria subalpina , nel 1971 ), la principale associazione cinematografica nazionale (l' aiace torino ) e la prima multisala del paese (l'eliseo, nel 1983 )."
+                    "*Sono nati a Torino il primo cinema d'essai italiano (il Romano nella Galleria Subalpina , nel 1971 ), la principale associazione cinematografica nazionale (l' Aiace Torino ) e la prima multisala del Paese (l'Eliseo, nel 1983 )."
                 ]
             }
         },
@@ -1001,9 +800,9 @@
                 "class": "highway",
                 "type": "bus_stop",
                 "snippet": [
-                    "*Un gruppo di ladri inglesi arriva a torino a bordo di tre mini cooper per organizzare una rapina ai danni di un convoglio che trasporta i ricavi della fiat dall' aeroporto di torino-caselle fino alla città.",
-                    "A21 torino - alessandria - piacenza - brescia ; a32 torino - susa - bardonecchia - traforo stradale del frejus ; ra10 torino - caselle torinese - aeroporto di torino-caselle .",
-                    "*L' aeroporto di torino-caselle , un aeroporto di medie dimensioni (200-300 ettari, 1-5 milioni di passeggeri all'anno) inaugurato nel 1953 ."
+                    "*Un gruppo di ladri inglesi arriva a Torino a bordo di tre Mini Cooper per organizzare una rapina ai danni di un convoglio che trasporta i ricavi della FIAT dall' Aeroporto di Torino-Caselle fino alla città.",
+                    "A21 Torino - Alessandria - Piacenza - Brescia ; A32 Torino - Susa - Bardonecchia - Traforo stradale del Frejus ; RA10 Torino - Caselle Torinese - Aeroporto di Torino-Caselle .",
+                    "*L' Aeroporto di Torino-Caselle , un aeroporto di medie dimensioni (200-300 ettari, 1-5 milioni di passeggeri all'anno) inaugurato nel 1953 ."
                 ]
             }
         },
@@ -1022,7 +821,7 @@
                 "class": "place",
                 "type": "house",
                 "snippet": [
-                    "*Le riprese sono state effettuate a palazzo saluzzo paesana , a palazzo birago di borgaro , a palazzo dei draghi , in via carlo alberto, nella casa circondariale “lorusso e cutugno”, al palazzo civico e al ponte rossini."
+                    "*Le riprese sono state effettuate a Palazzo Saluzzo Paesana , a Palazzo Birago di Borgaro , a Palazzo dei Draghi , in via Carlo Alberto, nella Casa Circondariale “Lorusso e Cutugno”, al Palazzo Civico e al Ponte Rossini."
                 ]
             }
         },
@@ -1041,26 +840,7 @@
                 "class": "building",
                 "type": "civic",
                 "snippet": [
-                    "*Le riprese sono state effettuate a palazzo saluzzo paesana , a palazzo birago di borgaro , a palazzo dei draghi , in via carlo alberto, nella casa circondariale “lorusso e cutugno”, al palazzo civico e al ponte rossini."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.416565,
-                    45.31638
-                ]
-            },
-            "properties": {
-                "entity": "COVID-19",
-                "name_location": "Centro Tamponi Pit-Stop Covid 19, Via Guido Cavalcanti, Aravecchia, Vercelli, Piemonte, 13100, Italia",
-                "class": "healthcare",
-                "type": "sample_collection",
-                "snippet": [
-                    "*L'edizione 2020 è stata annullata a causa della pandemia del covid-19 ."
+                    "*Le riprese sono state effettuate a Palazzo Saluzzo Paesana , a Palazzo Birago di Borgaro , a Palazzo dei Draghi , in via Carlo Alberto, nella Casa Circondariale “Lorusso e Cutugno”, al Palazzo Civico e al Ponte Rossini."
                 ]
             }
         },
@@ -1079,7 +859,7 @@
                 "class": "highway",
                 "type": "bus_stop",
                 "snippet": [
-                    "*Per la precisione, il cantautore texano shawn phillips nel suo album del 1970 second contribution apre il lato a con un brano dal titolo lunghissimo, she was waitin' for her mother at the station in torino and you know i love you baby but it's getting too heavy to laugh (\"stava aspettando sua madre alla stazione di torino e tu sai che ti amo tesoro ma sta diventando troppo pesante per ridere\")."
+                    "*Per la precisione, il cantautore texano Shawn Phillips nel suo album del 1970 Second Contribution apre il lato A con un brano dal titolo lunghissimo, She was waitin' for her mother at the Station in Torino and you know I love you baby but it's getting too heavy to laugh (\"Stava aspettando sua madre alla stazione di Torino e tu sai che ti amo tesoro ma sta diventando troppo pesante per ridere\")."
                 ]
             }
         },
@@ -1117,7 +897,7 @@
                 "class": "highway",
                 "type": "service",
                 "snippet": [
-                    "*Contemporaneamente a tale occasione, dal 30 giugno al 2 luglio, al lingotto fiere si è svolto il \"xxiii congresso mondiale degli architetti\", accompagnato dalla mostra \"architetture sensibili\", inaugurata il 26 luglio nel castello di rivara ."
+                    "*Contemporaneamente a tale occasione, dal 30 giugno al 2 luglio, al Lingotto Fiere si è svolto il \"XXIII congresso mondiale degli architetti\", accompagnato dalla mostra \"Architetture sensibili\", inaugurata il 26 luglio nel Castello di Rivara ."
                 ]
             }
         },
@@ -1136,7 +916,7 @@
                 "class": "shop",
                 "type": "books",
                 "snippet": [
-                    "*\" esperienza italia 150 \": serie di eventi e di iniziative, svoltesi a torino per nove mesi a partire dal 17 marzo 2011 fino a fine anno, per commemorare i 150 anni dell'unità d'italia, attraverso mostre tematiche allestite alle officine grandi riparazioni e alla reggia di venaria reale ."
+                    "*\" Esperienza Italia 150 \": serie di eventi e di iniziative, svoltesi a Torino per nove mesi a partire dal 17 Marzo 2011 fino a fine anno, per commemorare i 150 anni dell'Unità d'Italia, attraverso mostre tematiche allestite alle Officine Grandi Riparazioni e alla Reggia di Venaria Reale ."
                 ]
             }
         },
@@ -1155,7 +935,7 @@
                 "class": "landuse",
                 "type": "industrial",
                 "snippet": [
-                    "*Considerata una delle capitali europee dell'automobile, a torino e cintura sono presenti alcune delle più importanti aziende del settore: fiat , comau , teksid , magneti marelli , italdesign giugiaro , pininfarina , iveco ."
+                    "*Considerata una delle capitali europee dell'automobile, a Torino e cintura sono presenti alcune delle più importanti aziende del settore: FIAT , Comau , Teksid , Magneti Marelli , Italdesign Giugiaro , Pininfarina , Iveco ."
                 ]
             }
         },
@@ -1174,7 +954,7 @@
                 "class": "landuse",
                 "type": "industrial",
                 "snippet": [
-                    "*Considerata una delle capitali europee dell'automobile, a torino e cintura sono presenti alcune delle più importanti aziende del settore: fiat , comau , teksid , magneti marelli , italdesign giugiaro , pininfarina , iveco ."
+                    "*Considerata una delle capitali europee dell'automobile, a Torino e cintura sono presenti alcune delle più importanti aziende del settore: FIAT , Comau , Teksid , Magneti Marelli , Italdesign Giugiaro , Pininfarina , Iveco ."
                 ]
             }
         },
@@ -1193,7 +973,7 @@
                 "class": "office",
                 "type": "company",
                 "snippet": [
-                    "*In territorio torinese ci sono centri direzionali e stabilimenti produttivi di cnh industrial , operante nel settore dei capital goods e tra i principali leader del settore e di fiat chrysler automobiles dove torino è diventata nodale per la crescita di maserati :"
+                    "*In territorio torinese ci sono centri direzionali e stabilimenti produttivi di CNH Industrial , operante nel settore dei capital goods e tra i principali leader del settore e di Fiat Chrysler Automobiles dove Torino è diventata nodale per la crescita di Maserati :"
                 ]
             }
         },
@@ -1212,8 +992,8 @@
                 "class": "building",
                 "type": "yes",
                 "snippet": [
-                    "*Considerata una delle capitali europee dell'automobile, a torino e cintura sono presenti alcune delle più importanti aziende del settore: fiat , comau , teksid , magneti marelli , italdesign giugiaro , pininfarina , iveco .",
-                    "*Importante anche il contributo dell'automazione industriale alla crescente internazionalizzazione dell'economia torinese, con la presenza di aziende come prima industrie e comau , con quest'ultima (tra le prime 4 in europa per fatturato ) che realizza in tutto il mondo robot per i principali gruppi automobilistici."
+                    "*Considerata una delle capitali europee dell'automobile, a Torino e cintura sono presenti alcune delle più importanti aziende del settore: FIAT , Comau , Teksid , Magneti Marelli , Italdesign Giugiaro , Pininfarina , Iveco .",
+                    "*Importante anche il contributo dell'automazione industriale alla crescente internazionalizzazione dell'economia torinese, con la presenza di aziende come Prima Industrie e Comau , con quest'ultima (tra le prime 4 in Europa per fatturato ) che realizza in tutto il mondo robot per i principali gruppi automobilistici."
                 ]
             }
         },
@@ -1232,7 +1012,7 @@
                 "class": "amenity",
                 "type": "bank",
                 "snippet": [
-                    "*Anche le banche di private banking e d'investimento fideuram e banca investis hanno sede a torino, così come la più piccola banca del piemonte ."
+                    "*Anche le banche di private banking e d'investimento Fideuram e Banca Investis hanno sede a Torino, così come la più piccola Banca del Piemonte ."
                 ]
             }
         },
@@ -1251,7 +1031,7 @@
                 "class": "amenity",
                 "type": "cafe",
                 "snippet": [
-                    "*Altre aziende di rilievo in territorio torinese sono: lavazza , caffè vergnano , martini & rossi , alpitour , reply , avio aero , basic net ( robe di kappa ), carlo pignatelli , de fonseca , sabelt , sparco , seven , urmet , kelémata e il gruppo armando testa ."
+                    "*Altre aziende di rilievo in territorio torinese sono: Lavazza , Caffè Vergnano , Martini & Rossi , Alpitour , Reply , Avio Aero , Basic Net ( Robe di Kappa ), Carlo Pignatelli , De Fonseca , Sabelt , Sparco , Seven , Urmet , Kelémata e il Gruppo Armando Testa ."
                 ]
             }
         },
@@ -1270,7 +1050,7 @@
                 "class": "landuse",
                 "type": "industrial",
                 "snippet": [
-                    "*A torino o nella sua città metropolitana hanno sede legale anche diverse filiali italiane di società estere come suzuki , vodafone italia , bavaria , diageo , michelin , kimberly-clark , petronas , mizuno e skf ."
+                    "*A Torino o nella sua città metropolitana hanno sede legale anche diverse filiali italiane di società estere come Suzuki , Vodafone Italia , Bavaria , Diageo , Michelin , Kimberly-Clark , Petronas , Mizuno e SKF ."
                 ]
             }
         },
@@ -1289,7 +1069,7 @@
                 "class": "highway",
                 "type": "unclassified",
                 "snippet": [
-                    "*Grandi opere pubbliche come quelle per il passante ferroviario , la metropolitana e le spine hanno ridisegnato e stanno ridisegnando il volto della città."
+                    "*Grandi opere pubbliche come quelle per il Passante Ferroviario , la Metropolitana e le Spine hanno ridisegnato e stanno ridisegnando il volto della città."
                 ]
             }
         },
@@ -1308,8 +1088,8 @@
                 "class": "highway",
                 "type": "motorway_junction",
                 "snippet": [
-                    "*A4 torino - milano - brescia - verona - venezia - trieste ;",
-                    "*Il sistema autostradale urbano di torino comprende inoltre il raccordo all' a4 torino-milano ed alla s.s.11 di 3,13 km."
+                    "*A4 Torino - Milano - Brescia - Verona - Venezia - Trieste ;",
+                    "*Il sistema autostradale urbano di Torino comprende inoltre il raccordo all' A4 Torino-Milano ed alla S.S.11 di 3,13 km."
                 ]
             }
         },
@@ -1328,7 +1108,7 @@
                 "class": "highway",
                 "type": "motorway",
                 "snippet": [
-                    "*A5 torino - ivrea - aosta - traforo del monte bianco ;"
+                    "*A5 Torino - Ivrea - Aosta - Traforo del Monte Bianco ;"
                 ]
             }
         },
@@ -1347,7 +1127,7 @@
                 "class": "highway",
                 "type": "tertiary",
                 "snippet": [
-                    "A5 torino - ivrea - aosta - traforo del monte bianco ;"
+                    "A5 Torino - Ivrea - Aosta - Traforo del Monte Bianco ;"
                 ]
             }
         },
@@ -1366,7 +1146,7 @@
                 "class": "highway",
                 "type": "motorway",
                 "snippet": [
-                    "*A21 torino - alessandria - piacenza - brescia ; a32 torino - susa - bardonecchia - traforo stradale del frejus ; ra10 torino - caselle torinese - aeroporto di torino-caselle ."
+                    "*A21 Torino - Alessandria - Piacenza - Brescia ; A32 Torino - Susa - Bardonecchia - Traforo stradale del Frejus ; RA10 Torino - Caselle Torinese - Aeroporto di Torino-Caselle ."
                 ]
             }
         },
@@ -1385,7 +1165,7 @@
                 "class": "highway",
                 "type": "motorway",
                 "snippet": [
-                    "*A21 torino - alessandria - piacenza - brescia ; a32 torino - susa - bardonecchia - traforo stradale del frejus ; ra10 torino - caselle torinese - aeroporto di torino-caselle ."
+                    "*A21 Torino - Alessandria - Piacenza - Brescia ; A32 Torino - Susa - Bardonecchia - Traforo stradale del Frejus ; RA10 Torino - Caselle Torinese - Aeroporto di Torino-Caselle ."
                 ]
             }
         },
@@ -1404,7 +1184,7 @@
                 "class": "highway",
                 "type": "trunk",
                 "snippet": [
-                    "*A21 torino - alessandria - piacenza - brescia ; a32 torino - susa - bardonecchia - traforo stradale del frejus ; ra10 torino - caselle torinese - aeroporto di torino-caselle ."
+                    "*A21 Torino - Alessandria - Piacenza - Brescia ; A32 Torino - Susa - Bardonecchia - Traforo stradale del Frejus ; RA10 Torino - Caselle Torinese - Aeroporto di Torino-Caselle ."
                 ]
             }
         },
@@ -1423,7 +1203,7 @@
                 "class": "highway",
                 "type": "motorway",
                 "snippet": [
-                    "*La tangenzale di torino è la a55 , divisa in tangenziale nord e tangenziale sud, va da nord est fino a sud est passando in maniera semicircolare da ovest."
+                    "*La tangenzale di Torino è la A55 , divisa in Tangenziale Nord e Tangenziale Sud, va da nord est fino a sud est passando in maniera semicircolare da ovest."
                 ]
             }
         },
@@ -1442,7 +1222,7 @@
                 "class": "highway",
                 "type": "motorway",
                 "snippet": [
-                    "*La tangenzale di torino è la a55 , divisa in tangenziale nord e tangenziale sud, va da nord est fino a sud est passando in maniera semicircolare da ovest."
+                    "*La tangenzale di Torino è la A55 , divisa in Tangenziale Nord e Tangenziale Sud, va da nord est fino a sud est passando in maniera semicircolare da ovest."
                 ]
             }
         },
@@ -1461,7 +1241,7 @@
                 "class": "highway",
                 "type": "motorway_junction",
                 "snippet": [
-                    "*La tratta che manca a est ( tangenziale est di torino ) è in fase di lavorazione."
+                    "*La tratta che manca a est ( Tangenziale Est di Torino ) è in fase di lavorazione."
                 ]
             }
         },
@@ -1480,7 +1260,7 @@
                 "class": "railway",
                 "type": "disused",
                 "snippet": [
-                    "*Ci sono poi linee minori verso ivrea - aosta , mondovì - savona , pinerolo - torre pellice , trofarello - chieri , cirié - lanzo torinese -ceres e rivarolo canavese - cuorgnè - pont canavese ."
+                    "*Ci sono poi linee minori verso Ivrea - Aosta , Mondovì - Savona , Pinerolo - Torre Pellice , Trofarello - Chieri , Cirié - Lanzo Torinese -Ceres e Rivarolo Canavese - Cuorgnè - Pont Canavese ."
                 ]
             }
         },
@@ -1499,7 +1279,7 @@
                 "class": "highway",
                 "type": "residential",
                 "snippet": [
-                    "*Ci sono poi linee minori verso ivrea - aosta , mondovì - savona , pinerolo - torre pellice , trofarello - chieri , cirié - lanzo torinese -ceres e rivarolo canavese - cuorgnè - pont canavese ."
+                    "*Ci sono poi linee minori verso Ivrea - Aosta , Mondovì - Savona , Pinerolo - Torre Pellice , Trofarello - Chieri , Cirié - Lanzo Torinese -Ceres e Rivarolo Canavese - Cuorgnè - Pont Canavese ."
                 ]
             }
         },
@@ -1518,34 +1298,34 @@
                 "class": "highway",
                 "type": "bus_stop",
                 "snippet": [
-                    "Il 19 marzo 2016 l' unesco ha riconosciuto il parco del po e la collina torinese come riserva della biosfera , mentre nel 2020 la fao e l'arbor day foundation hanno conferito alla città di torino il riconoscimento di tree city of the world 2019 .",
+                    "Il 19 marzo 2016 l' UNESCO ha riconosciuto il parco del Po e la collina torinese come riserva della biosfera , mentre nel 2020 la FAO e l'Arbor Day Foundation hanno conferito alla città di Torino il riconoscimento di Tree City of the World 2019 .",
                     "Dagli anni novanta in poi l'estate torinese ha subito un riscaldamento.",
-                    "Il 13 settembre 2008 l'osservatorio meteorologico di caselle torinese , 14 km a nord-ovest di torino, registrò una pioggia temporalesca di 220 mm in sei ore, quantitativo senza precedenti noti nella pianura torinese.",
-                    "Mastio della cittadella , unico edificio superstite del complesso sistema difensivo torinese, edificato a partire dal 1564 in uno stile a cavallo fra quello rinascimentale e quello barocco.",
-                    "Fra questi il teatro balbo e il teatro di torino , distrutti durante un bombardamento nel 1943 , il teatro rossini , bruciato in un incendio nel 1941 , i teatri adua , gianduja , gerbino e arena torinese, smantellati, e, infine, il teatro nazionale riconvertito a cinema;",
-                    "Nel 2011 il regista torinese daniele gaglianone ha realizzato il film documentario uomini e mercati centrato sui mercati di porta palazzo, piazza benefica e corso spezia .",
-                    "Attorno alla città, ad anello, vi sono il parco della mandria e il parco della palazzina di caccia di stupinigi , antiche riserve di caccia dei savoia, e quelli situati sulla collina torinese quali il parco della rimembranza o il parco europa .",
-                    "L'itinerario, fra i preferiti nel medioevo, valicato lo spartiacque francia/italia al colle del moncenisio , giunge dalla valle di susa terra delle grandi abbazie come novalesa , sacra di san michele e sant'antonio di ranverso e passando per torino lungo il parco colletta tende a san mauro torinese e poi verso chivasso e successivamente a vercelli , dove si congiunge con l'altro ramo della francigena, quella proveniente dal colle del gran san bernardo .",
+                    "Il 13 settembre 2008 l'Osservatorio Meteorologico di Caselle Torinese , 14 km a nord-ovest di Torino, registrò una pioggia temporalesca di 220 mm in sei ore, quantitativo senza precedenti noti nella pianura torinese.",
+                    "Mastio della Cittadella , unico edificio superstite del complesso sistema difensivo torinese, edificato a partire dal 1564 in uno stile a cavallo fra quello rinascimentale e quello barocco.",
+                    "Fra questi il teatro Balbo e il teatro di Torino , distrutti durante un bombardamento nel 1943 , il teatro Rossini , bruciato in un incendio nel 1941 , i teatri Adua , Gianduja , Gerbino e Arena torinese, smantellati, e, infine, il teatro Nazionale riconvertito a cinema;",
+                    "Nel 2011 il regista torinese Daniele Gaglianone ha realizzato il film documentario Uomini e mercati centrato sui mercati di Porta Palazzo, Piazza Benefica e Corso Spezia .",
+                    "Attorno alla città, ad anello, vi sono il Parco della Mandria e il Parco della Palazzina di caccia di Stupinigi , antiche riserve di caccia dei Savoia, e quelli situati sulla collina torinese quali il Parco della Rimembranza o il Parco Europa .",
+                    "L'itinerario, fra i preferiti nel Medioevo, valicato lo spartiacque Francia/Italia al Colle del Moncenisio , giunge dalla Valle di Susa terra delle grandi abbazie come Novalesa , Sacra di San Michele e Sant'Antonio di Ranverso e passando per Torino lungo il Parco Colletta tende a San Mauro Torinese e poi verso Chivasso e successivamente a Vercelli , dove si congiunge con l'altro ramo della Francigena, quella proveniente dal Colle del Gran San Bernardo .",
                     "Nel 1974 la popolazione torinese toccò il suo massimo con 1.202.846 abitanti.",
-                    "Ciò non è dipeso soltanto dal ritorno di molti immigrati del mezzogiorno nelle loro regioni di origine, ma dagli spostamenti avvenuti da torino verso quella che poi divenne l' area metropolitana , determinando così l'espansione dei comuni della seconda ( vinovo , candiolo , orbassano , rivalta di torino , rivoli , alpignano , pianezza , druento , caselle torinese ) e della prima cintura ( moncalieri , nichelino , beinasco , grugliasco , collegno , venaria reale , borgaro torinese , settimo torinese , san mauro torinese ).",
-                    "Circa un secolo dopo nacque il torinese pier giorgio perotto , ideatore e progettista del primo \" personal computer \", la programma 101 , e fu anche docente del politecnico di torino.",
-                    "Il polo universitario torinese è uno dei principali in italia.",
-                    "Da ricordare il museo dell'astronomia e planetario di torino , che sorge accanto dell' osservatorio astronomico di torino a pino torinese , cittadina collinare nei pressi immediati del capoluogo piemontese.",
-                    "Centro scientifico torinese .",
-                    "Cet casa editrice torinese ; isedi ;",
-                    "Ispirandosi sempre a questo film, nell'episodio la zingara di budapest della serie tv macgyver , fu riprodotto il famoso inseguimento nel traffico torinese, rifacendo alcune scene ed utilizzando anche scene della pellicola originale, come l'inseguimento sulla pista di collaudo automobilistico sita sul tetto dell'ex stabilimento fiat del lingotto .",
+                    "Ciò non è dipeso soltanto dal ritorno di molti immigrati del Mezzogiorno nelle loro regioni di origine, ma dagli spostamenti avvenuti da Torino verso quella che poi divenne l' area metropolitana , determinando così l'espansione dei comuni della seconda ( Vinovo , Candiolo , Orbassano , Rivalta di Torino , Rivoli , Alpignano , Pianezza , Druento , Caselle Torinese ) e della prima cintura ( Moncalieri , Nichelino , Beinasco , Grugliasco , Collegno , Venaria Reale , Borgaro Torinese , Settimo Torinese , San Mauro Torinese ).",
+                    "Circa un secolo dopo nacque il torinese Pier Giorgio Perotto , ideatore e progettista del primo \" personal computer \", la Programma 101 , e fu anche docente del Politecnico di Torino.",
+                    "Il polo universitario torinese è uno dei principali in Italia.",
+                    "Da ricordare il Museo dell'astronomia e Planetario di Torino , che sorge accanto dell' Osservatorio astronomico di Torino a Pino Torinese , cittadina collinare nei pressi immediati del capoluogo piemontese.",
+                    "Centro Scientifico Torinese .",
+                    "CET Casa Editrice Torinese ; ISEDI ;",
+                    "Ispirandosi sempre a questo film, nell'episodio La zingara di Budapest della serie TV MacGyver , fu riprodotto il famoso inseguimento nel traffico torinese, rifacendo alcune scene ed utilizzando anche scene della pellicola originale, come l'inseguimento sulla pista di collaudo automobilistico sita sul tetto dell'ex stabilimento FIAT del Lingotto .",
                     "La cucina tipica torinese è una cucina ricca ed elaborata.",
-                    "In territorio torinese ci sono centri direzionali e stabilimenti produttivi di cnh industrial , operante nel settore dei capital goods e tra i principali leader del settore e di fiat chrysler automobiles dove torino è diventata nodale per la crescita di maserati :",
-                    "Importante anche il contributo dell'automazione industriale alla crescente internazionalizzazione dell'economia torinese, con la presenza di aziende come prima industrie e comau , con quest'ultima (tra le prime 4 in europa per fatturato ) che realizza in tutto il mondo robot per i principali gruppi automobilistici.",
-                    "Altre aziende di rilievo in territorio torinese sono: lavazza , caffè vergnano , martini & rossi , alpitour , reply , avio aero , basic net ( robe di kappa ), carlo pignatelli , de fonseca , sabelt , sparco , seven , urmet , kelémata e il gruppo armando testa .",
-                    "Nato per coordinare tutte le attività di ricerca e di produzione del settore ict dell'area torinese, attualmente vi sono impegnate circa 6000 imprese.",
-                    "A21 torino - alessandria - piacenza - brescia ; a32 torino - susa - bardonecchia - traforo stradale del frejus ; ra10 torino - caselle torinese - aeroporto di torino-caselle .",
-                    "La tratta urbana di competenza del gtt è quella che parte da torino dora e che va sino alla periferia nord al confine con il comune di venaria reale (direzione caselle torinese - aeroporto sandro pertini - ceres ).",
-                    "Ci sono poi linee minori verso ivrea - aosta , mondovì - savona , pinerolo - torre pellice , trofarello - chieri , cirié - lanzo torinese -ceres e rivarolo canavese - cuorgnè - pont canavese .",
-                    "Il servizio è composto da 8 linee gestite da trenitalia e dal gruppo torinese trasporti, per un'estensione di circa 500 km, 365 collegamenti giornalieri e 93 stazioni collegate.",
-                    "*Il sfm offre un collegamento fra le diverse zone del torinese e delle contigue province di cuneo e asti, permettendo coincidenze cadenzate tra i treni del servizio ferroviario regionale del piemonte , i treni a lunga percorrenza ed av, la rete tranviaria di torino e autobus urbani, con autobus extraurbani e la metropolitana di torino .",
-                    "La rete di trasporti di torino è gestita dal gtt, acronimo di gruppo torinese trasporti , nato nel 2003 dalla fusione di atm e satti .",
-                    "Ad esclusione di definizioni poco chiare, il secondo documento in cui si può riconoscere la presenza di figure amministrative della città è un rogito ( breve recordationis de conventione facta inter taurinenses cives et ribaldum de ripalta ) redatto dal notaio torinese ogerio il 30 giugno 1149, in cui sono citati dei consoli torinesi ( taurinenses consules ):"
+                    "In territorio torinese ci sono centri direzionali e stabilimenti produttivi di CNH Industrial , operante nel settore dei capital goods e tra i principali leader del settore e di Fiat Chrysler Automobiles dove Torino è diventata nodale per la crescita di Maserati :",
+                    "Importante anche il contributo dell'automazione industriale alla crescente internazionalizzazione dell'economia torinese, con la presenza di aziende come Prima Industrie e Comau , con quest'ultima (tra le prime 4 in Europa per fatturato ) che realizza in tutto il mondo robot per i principali gruppi automobilistici.",
+                    "Altre aziende di rilievo in territorio torinese sono: Lavazza , Caffè Vergnano , Martini & Rossi , Alpitour , Reply , Avio Aero , Basic Net ( Robe di Kappa ), Carlo Pignatelli , De Fonseca , Sabelt , Sparco , Seven , Urmet , Kelémata e il Gruppo Armando Testa .",
+                    "Nato per coordinare tutte le attività di ricerca e di produzione del settore ICT dell'area torinese, attualmente vi sono impegnate circa 6000 imprese.",
+                    "A21 Torino - Alessandria - Piacenza - Brescia ; A32 Torino - Susa - Bardonecchia - Traforo stradale del Frejus ; RA10 Torino - Caselle Torinese - Aeroporto di Torino-Caselle .",
+                    "La tratta urbana di competenza del GTT è quella che parte da Torino Dora e che va sino alla periferia Nord al confine con il comune di Venaria Reale (direzione Caselle Torinese - Aeroporto Sandro Pertini - Ceres ).",
+                    "Ci sono poi linee minori verso Ivrea - Aosta , Mondovì - Savona , Pinerolo - Torre Pellice , Trofarello - Chieri , Cirié - Lanzo Torinese -Ceres e Rivarolo Canavese - Cuorgnè - Pont Canavese .",
+                    "Il servizio è composto da 8 linee gestite da Trenitalia e dal Gruppo Torinese Trasporti, per un'estensione di circa 500 km, 365 collegamenti giornalieri e 93 stazioni collegate.",
+                    "*Il SFM offre un collegamento fra le diverse zone del Torinese e delle contigue province di Cuneo e Asti, permettendo coincidenze cadenzate tra i treni del servizio ferroviario regionale del Piemonte , i treni a lunga percorrenza ed AV, la rete tranviaria di Torino e autobus urbani, con autobus extraurbani e la metropolitana di Torino .",
+                    "La rete di trasporti di Torino è gestita dal GTT, acronimo di Gruppo Torinese Trasporti , nato nel 2003 dalla fusione di ATM e SATTI .",
+                    "Ad esclusione di definizioni poco chiare, il secondo documento in cui si può riconoscere la presenza di figure amministrative della città è un rogito ( Breve recordationis de conventione facta inter Taurinenses cives et Ribaldum de Ripalta ) redatto dal notaio torinese Ogerio il 30 giugno 1149, in cui sono citati dei consoli torinesi ( Taurinenses consules ):"
                 ]
             }
         },
@@ -1564,7 +1344,7 @@
                 "class": "highway",
                 "type": "bus_stop",
                 "snippet": [
-                    "*È presente anche l' aeroporto di torino-cuneo , in provincia di cuneo, che fa riferimento al capoluogo piemontese come secondo aeroporto del piemonte."
+                    "*È presente anche l' Aeroporto di Torino-Cuneo , in provincia di Cuneo, che fa riferimento al capoluogo piemontese come secondo aeroporto del Piemonte."
                 ]
             }
         },
@@ -1583,7 +1363,7 @@
                 "class": "aeroway",
                 "type": "aerodrome",
                 "snippet": [
-                    "*Inoltre, è presente l' aeroporto di torino-aeritalia :"
+                    "*Inoltre, è presente l' aeroporto di Torino-Aeritalia :"
                 ]
             }
         },
@@ -1602,7 +1382,7 @@
                 "class": "highway",
                 "type": "bus_stop",
                 "snippet": [
-                    "*Inaugurato nel 1916 , dopo la costruzione dell'aeroporto di caselle è rimasto in uso come struttura di aviazione generale e da turismo, affiancato da una scuola di volo per aerei ed elicotteri e dalla sede dei velivoli di elisoccorso e protezione civile ."
+                    "*Inaugurato nel 1916 , dopo la costruzione dell'aeroporto di Caselle è rimasto in uso come struttura di aviazione generale e da turismo, affiancato da una scuola di volo per aerei ed elicotteri e dalla sede dei velivoli di elisoccorso e protezione civile ."
                 ]
             }
         },
@@ -1621,7 +1401,7 @@
                 "class": "highway",
                 "type": "tertiary",
                 "snippet": [
-                    "*Torino piossasco - aeroporto cerrina (codice icao :"
+                    "*Torino Piossasco - Aeroporto Cerrina (Codice ICAO :"
                 ]
             }
         },
@@ -1640,10 +1420,10 @@
                 "class": "boundary",
                 "type": "administrative",
                 "snippet": [
-                    "*Belo horizonte , brasile , dal 2006 ; breza , bosnia ed erzegovina , dal 1997 ;",
-                    "*Campo grande , brasile , dal 2002 ;",
-                    "*San pietroburgo , russia , dal 2012 ; salvador de bahia , brasile , dal 2003 ;",
-                    "*Santos , brasile , dal 2011 ; shenzhen , cina , dal 2007 ; skopje , repubblica di macedonia , dal 2012 ; várzea paulista , brasile , dal 2011 ;"
+                    "*Belo Horizonte , Brasile , dal 2006 ; Breza , Bosnia ed Erzegovina , dal 1997 ;",
+                    "*Campo Grande , Brasile , dal 2002 ;",
+                    "*San Pietroburgo , Russia , dal 2012 ; Salvador de Bahia , Brasile , dal 2003 ;",
+                    "*Santos , Brasile , dal 2011 ; Shenzhen , Cina , dal 2007 ; Skopje , Repubblica di Macedonia , dal 2012 ; Várzea Paulista , Brasile , dal 2011 ;"
                 ]
             }
         },
@@ -1662,8 +1442,8 @@
                 "class": "shop",
                 "type": "furniture",
                 "snippet": [
-                    "*Ekaterinburg , russia , dal 1998 ; fès , marocco , dal 2010 ; haifa , israele , dal 2005 ;",
-                    "*Harbin , cina , dal 2003 ; harhorin , mongolia , dal 2016 ; hebron , israele , dal 2013 ;"
+                    "*Ekaterinburg , Russia , dal 1998 ; Fès , Marocco , dal 2010 ; Haifa , Israele , dal 2005 ;",
+                    "*Harbin , Cina , dal 2003 ; Harhorin , Mongolia , dal 2016 ; Hebron , Israele , dal 2013 ;"
                 ]
             }
         },
@@ -1682,7 +1462,7 @@
                 "class": "amenity",
                 "type": "restaurant",
                 "snippet": [
-                    "*Volgograd , russia , dal 2011 ; yangon , birmania , dal 2015 ; zlín , repubblica ceca , dal 2004 ."
+                    "*Volgograd , Russia , dal 2011 ; Yangon , Birmania , dal 2015 ; Zlín , Repubblica Ceca , dal 2004 ."
                 ]
             }
         },
@@ -1701,7 +1481,7 @@
                 "class": "shop",
                 "type": "hairdresser",
                 "snippet": [
-                    "*Lisbona , portogallo , nel 2012 ; luoyang , cina , nel 2013 ;"
+                    "*Lisbona , Portogallo , nel 2012 ; Luoyang , Cina , nel 2013 ;"
                 ]
             }
         },
@@ -1720,7 +1500,7 @@
                 "class": "highway",
                 "type": "residential",
                 "snippet": [
-                    "*A torino è dedicata l'automobile ford torino , un modello coupé molto in voga negli usa durante gli anni settanta:"
+                    "*A Torino è dedicata l'automobile Ford Torino , un modello coupé molto in voga negli USA durante gli anni settanta:"
                 ]
             }
         },

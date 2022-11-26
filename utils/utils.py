@@ -68,6 +68,18 @@ def sent_contains_ent(sentence, entity):
     
     return contains
 
+def first_upper(sentence: str):
+    """Make the first letter of the sentence uppercase.
+
+    Args:
+        sentence: sentence to modify
+
+    Returns:
+        sentence: sentence with the first letter uppercase
+    """
+    if sentence != "":
+        sentence = sentence[0].upper() + sentence[1:]
+    return sentence
 
 def get_entities_snippet(nlp_text, cities: list, entities_to_search_prev = dict()):
     """Get the entities from the nlp_text which are not cities and print snippet in which
@@ -84,6 +96,7 @@ def get_entities_snippet(nlp_text, cities: list, entities_to_search_prev = dict(
     """
 
     entities_to_search = dict()
+    entities_to_search_pos = dict()
     sents = list(nlp_text.sents)
     ents = list(nlp_text.ents)
     sentence_dict = generate_sentences_dictionary(sents)
@@ -107,23 +120,31 @@ def get_entities_snippet(nlp_text, cities: list, entities_to_search_prev = dict(
                         if entities.text == ent.text: 
                             sent = "*"
                             break
-                    sent = sent + sentence.text.strip().capitalize()
+
+                    pos_ent = []
+                    for subent in ent:
+                        pos_ent.append(subent.pos_) 
+
+                    sent = sent + first_upper(sentence.text.strip())
                     if ent.text in entities_to_search and sent not in entities_to_search[ent.text] and "*"+sent not in entities_to_search[ent.text]:
                         entities_to_search[ent.text].append(sent)
+                        entities_to_search_pos[ent.text].append(pos_ent)
                     elif ent not in entities_to_search:     
                         entities_to_search[ent.text] = [sent]
+                        entities_to_search_pos[ent.text] = [pos_ent]                        
 
-    entities_to_search = clean_entities_to_search(entities_to_search)
+    entities_to_search = clean_entities_to_search(entities_to_search, entities_to_search_pos)
 
     return entities_to_search, sentence_dict
 
-def clean_entities_to_search(entities_to_search: dict): # TODO: DELETE?
+def clean_entities_to_search(entities_to_search: dict, entities_to_search_pos: dict): # IN PROGESS
+    #TODO: eliminare tutte le entità composte da una sola parola che sono etichettate nella pos come nome comune?  MI SERVE ENTS!
+    #TODO: unificare le entità quando una contiene l'altra e cose di sto tipo
 
-    # unifico tutte le entitià che fanno riferimento allo stesso luogo ma sono scritte diversamente in termini di maiuscole e minuscole
+    # unify entities written with the same words
     entities = list(entities_to_search.keys())
     entities_to_delete = []
     entities.sort(key= str.lower)
-    print("PRIMA: ", entities)
 
     for i in range(len(entities)):
         for j in range(i+1, len(entities)):
@@ -133,17 +154,29 @@ def clean_entities_to_search(entities_to_search: dict): # TODO: DELETE?
                 else: 
                     entities_to_delete.append((entities[j], entities[i]))
 
-    print("DA ELIMINARE: ", entities_to_delete)
     for (entity_w, entity_r) in entities_to_delete:
-        # prima unifico gli snippet
+        # merge snippet
         for snippet in entities_to_search[entity_w]:
             if snippet not in entities_to_search[entity_r] and "*"+snippet not in entities_to_search[entity_r]:
                 entities_to_search[entity_r].append(snippet)
-        # poi rimuovo entity da entities_to_search
+        # remove entity
         del entities_to_search[entity_w]
 
-    print("DOPO: ", entities)
+    entities_to_delete = []
 
+    for entity in entities_to_search:
+        if len(entities_to_search_pos[entity][0]) == 1: 
+            is_noun = True
+            for pos in entities_to_search_pos[entity]:
+                if pos[0] != "NOUN" and pos[0] != "ADJ":
+                    is_noun = False
+            if is_noun: 
+                entities_to_delete.append(entity)
+
+    print("DA ELIMINARE: ", entities_to_delete)
+    for entity in entities_to_delete:
+        del entities_to_search[entity]
+    
     return entities_to_search
 
 def clean_entities_to_search2(entities_to_search: dict):
@@ -253,7 +286,7 @@ def clean_entities(entities: list, cities: list, sentence_dict: dict):
                 ent = ent[:-1] 
 
             entities_clean.append(ent)
-    
+
     return entities_clean
 
 def search_dict(dict: dict, ent): # TODO: DELETE?
