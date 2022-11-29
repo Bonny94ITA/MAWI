@@ -47,7 +47,7 @@ for city in cities:
             f.write(entity + '\n')
 
     # Search addresses with Google
-    features = search_entities_geopy(searchable_entities, context, city)
+    #features = search_entities_geopy(searchable_entities, context, city)
 
     # nearby pages
 
@@ -64,7 +64,7 @@ for city in cities:
         features = search_entities(searchable_entities, context, city, features)
     
     """
-    save_results(features, context)
+    #save_results(features, context)
 
 
     

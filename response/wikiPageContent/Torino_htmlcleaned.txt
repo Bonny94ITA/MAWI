@@ -8831,50 +8831,50 @@ Anche le banche di
    </h2>
    <!-- 
 NewPP limit report
-Parsed by mw1373
-Cached time: 20221126094834
+Parsed by mw1332
+Cached time: 20221129153333
 Cache expiry: 1814400
 Reduced expiry: false
 Complications: [vary‐revision‐sha1, show‐toc]
-CPU time usage: 2.490 seconds
-Real time usage: 3.134 seconds
-Preprocessor visited node count: 38325/1000000
-Post‐expand include size: 501689/2097152 bytes
-Template argument size: 28614/2097152 bytes
+CPU time usage: 2.726 seconds
+Real time usage: 3.729 seconds
+Preprocessor visited node count: 38307/1000000
+Post‐expand include size: 501927/2097152 bytes
+Template argument size: 28512/2097152 bytes
 Highest expansion depth: 20/100
 Expensive parser function count: 28/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 179854/5000000 bytes
-Lua time usage: 1.096/10.000 seconds
-Lua memory usage: 15835895/52428800 bytes
+Lua time usage: 1.091/10.000 seconds
+Lua memory usage: 16343474/52428800 bytes
 Lua Profile:
-    ?                                                                240 ms       17.9%
-    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::getEntityStatements      160 ms       11.9%
-    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::getAllExpandedArguments      120 ms        9.0%
-    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::getEntity      100 ms        7.5%
+    ?                                                                260 ms       19.4%
+    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::getAllExpandedArguments      180 ms       13.4%
+    recursiveClone <mwInit.lua:41>                                   160 ms       11.9%
+    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::getEntity      140 ms       10.4%
+    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::getEntityStatements      100 ms        7.5%
     MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::codepoint      100 ms        7.5%
-    recursiveClone <mwInit.lua:41>                                    80 ms        6.0%
-    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::getExpandedArgument       80 ms        6.0%
-    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::sub       80 ms        6.0%
-    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::callParserFunction       60 ms        4.5%
-    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::find       40 ms        3.0%
-    [others]                                                         280 ms       20.9%
+    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::getExpandedArgument       60 ms        4.5%
+    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::plain       60 ms        4.5%
+    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::match       40 ms        3.0%
+    MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::callParserFunction       40 ms        3.0%
+    [others]                                                         200 ms       14.9%
 Number of Wikibase entities loaded: 12/400
 -->
    <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 2294.265      1 -total
- 19.73%  452.691      1 Template:Divisione_amministrativa
- 15.00%  344.036      3 Template:Infobox
- 13.68%  313.933    115 Template:Cita_web
-  8.44%  193.622     10 Template:Navbox
-  7.62%  174.918     87 Template:Bandiera
-  7.43%  170.495      1 Template:Collegamenti_esterni
-  6.67%  153.069     24 Template:Vedi_anche
-  5.62%  129.030     10 Template:Controllo_Wikidata
-  4.85%  111.358      1 Template:Demografia/Torino
+100.00% 2696.409      1 -total
+ 18.33%  494.282      1 Template:Divisione_amministrativa
+ 14.33%  386.431      3 Template:Infobox
+ 12.29%  331.523    115 Template:Cita_web
+ 11.67%  314.751      1 Template:Demografia/Torino
+ 11.59%  312.541      1 Template:Demografia
+  7.87%  212.275     87 Template:Bandiera
+  7.43%  200.419     10 Template:Navbox
+  6.88%  185.566     24 Template:Vedi_anche
+  6.12%  165.127      1 Template:Collegamenti_esterni
 -->
-   <!-- Saved in parser cache with key itwiki:pcache:idhash:2588349-0!canonical and timestamp 20221126094831 and revision id 130415226.
+   <!-- Saved in parser cache with key itwiki:pcache:idhash:2588349-0!canonical and timestamp 20221129153329 and revision id 130701024.
  -->
   </div>
  </body>

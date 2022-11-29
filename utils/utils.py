@@ -9,6 +9,8 @@ from shapely.geometry import Point, Polygon
 from geopy.geocoders import Nominatim
 from geopy import distance
 import string
+import spacy
+import re
 
 import pandas as pd 
 import geopandas as gpd
@@ -548,36 +550,49 @@ def save_results(features: list, context: dict):
         json.dump(geojson_outliers, f, ensure_ascii=False, indent=4)
         print("The result outliers has been saved as a file inside the response folder")
 
-
-def wiki_content(title, context = False):
-    """Search title page in wikipedia with MediaWiki API.
-
-    Args: 
-        title: str Wikipedia page title
-        context: boolean if true is searched also the location of the context
-    Returns:
-        Wikipedia page content cleaned  
-    """
-    session = requests.Session()
-    url_api = "https://it.wikipedia.org/w/api.php"
-
-    params = {
-        "action": "parse",
-        "page": title,
-        "format": "json",
-        "prop": "text",
-        "formatversion": "2"
-    }
-
-    response = session.get(url=url_api, params=params)
-    data = response.json()
-    content = data['parse']['text']
-    soup = BeautifulSoup(content, features="lxml")
+def create_whitelist(headlines: list):
+    """ Create a whitelist of words to search
     
-    with open(f'response/wikiPageContent/{title}_htmlnotcleaned.txt', 'w', encoding='utf-8') as f:
-        f.write(soup.prettify())
+    Create the whitelist of words to capitalize in the text. 
+    
+    Args:
+        headlines: list of headlines to analyze
 
+    Returns:
+        list of words to capitalize
+    """
+    nlp = spacy.load("it_core_news_sm")
 
+    whitelist = []
+
+    for headline in headlines:
+        words = headline.split(" ")
+
+        if len(words) == 1: 
+            doc = nlp(words[0])
+            lemma =  doc[0].lemma_
+            if lemma == "musei": 
+                lemma = "museo"
+            elif lemma == "parchi": 
+                lemma = "parco"
+            elif lemma == "teatri": 
+                lemma = "teatro"
+            whitelist.append(lemma)
+
+    whitelist.append("chiesa")
+
+    return whitelist
+
+def clean_html(soup: BeautifulSoup):
+    """ Clean html from soup
+    
+    Args:
+        soup: soup to clean
+    
+    Returns:
+        soup cleaned
+    """
+    
     #Delete all the parts that are not meaningful
 
     # References in the text 
@@ -613,9 +628,20 @@ def wiki_content(title, context = False):
     for sibling in parent_tag.find_next_siblings():
         sibling.decompose()
 
-    # Span
+    headlines = []
+    # Span HEADLINE!
+    for span in soup.find_all('span', class_ = 'mw-headline'):
+        headlines.append(span.string)
+
+    white_list = create_whitelist(headlines)
+
+    print("headlines: ", white_list)
+
+    # delete other spans
+
     for span in soup.find_all('span'):
-        span.decompose()
+        if span.class_ != 'mw-headline':
+            span.decompose()
 
     # Table
     for table in soup.find_all('table'):
@@ -626,7 +652,18 @@ def wiki_content(title, context = False):
     for bullet in bullets_to_delete:
         bullet.decompose()
 
-    # add punct in bullets 
+    return soup, white_list
+
+def add_punct_bullets(soup: BeautifulSoup): 
+    """ Add punctuation to the bullets
+    
+    Args:
+        soup: soup to clean
+    
+    Returns:
+        soup cleaned
+    """
+    
     tag = soup.find_all(['ul', 'ol'], class_=False)
 
     not_punct = ['"',"'", '(', ')','[',']', ' ']
@@ -640,7 +677,69 @@ def wiki_content(title, context = False):
             if not sub_tag[-1].text[-1] in string.punctuation or sub_tag[-1].text[-1] in not_punct:
                 sub_tag[-1].append(" .")
 
-    cleaned_content = soup.get_text(' ', strip=True).replace("“", "\"").replace("”", "\"")
+    return soup
+
+def substitute_whitelist(text: str, whitelist: list):
+    """
+        Substitute the whitelist in the text. 
+    
+    Args:
+        text: text to clean
+        whitelist: whitelist of words to substitute
+    
+    Returns:
+        text cleaned
+    """
+    repl_dict = {}
+    for word in whitelist:
+        repl_dict[word] = word.capitalize()
+
+    expr = rf"({'|'.join(repl_dict.keys())})"   # Becomes '(Foo|Bar) '
+
+    func = lambda mo: f"{repl_dict[mo.group(1)]}"
+
+    text = re.sub(expr, func, text)
+
+    #text = re.sub(rf"({'|'.join(whitelist)}) \n", r"\1.capitalize()", string, flags=re.I)
+    return text
+
+def wiki_content(title, context = False):
+    """Search title page in wikipedia with MediaWiki API.
+
+    Args: 
+        title: str Wikipedia page title
+        context: boolean if true is searched also the location of the context
+    Returns:
+        Wikipedia page content cleaned  
+    """
+    session = requests.Session()
+    url_api = "https://it.wikipedia.org/w/api.php"
+
+    params = {
+        "action": "parse",
+        "page": title,
+        "format": "json",
+        "prop": "text",
+        "formatversion": "2"
+    }
+
+    response = session.get(url=url_api, params=params)
+    data = response.json()
+    content = data['parse']['text']
+    soup = BeautifulSoup(content, features="lxml")
+    
+    with open(f'response/wikiPageContent/{title}_htmlnotcleaned.txt', 'w', encoding='utf-8') as f:
+        f.write(soup.prettify())
+
+    soup, white_list = clean_html(soup)
+
+    soup = add_punct_bullets(soup)
+
+    cleaned_content = soup.get_text(' ', strip=True)
+
+    cleaned_content = substitute_whitelist(cleaned_content, white_list)
+    
+    cleaned_content = cleaned_content.replace("“", "\"").replace("”", "\"")
 
     with open(f'response/wikiPageContent/{title}_htmlcleaned.txt', 'w', encoding='utf-8') as f:
         f.write(soup.prettify())
