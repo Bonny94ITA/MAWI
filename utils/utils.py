@@ -301,9 +301,7 @@ def clean_entities(entities: list, cities: list, sentence_dict: dict):
 
                 new_ent = span.char_span(0, len(span.text), label="LOC")
 
-                # label = ent.label_
                 print("ENTITY COMPLETA: ", new_ent)
-                print("Con etichetta: ", new_ent.label_)
                 entities_clean.append(new_ent)
 
             else:     
@@ -390,6 +388,9 @@ def search_entities_geopy(searchable_entities: dict, context: dict, title_page: 
     name_context = context['name']
     locations = []
     for ent in searchable_entities.keys():
+        to_search = ent
+        if not ent.__contains__(name_context): 
+            to_search = to_search + " " + name_context
         locations.extend([[ent, ent + " " + name_context, searchable_entities[ent]]])
 
     df = pd.DataFrame(locations, columns=['entity', 'to_search', 'snippet'])
@@ -690,17 +691,10 @@ def substitute_whitelist(text: str, whitelist: list):
     Returns:
         text cleaned
     """
-    repl_dict = {}
+    
     for word in whitelist:
-        repl_dict[word] = word.capitalize()
+        text = re.sub(r'\b{}\b'.format(word), word.capitalize(), text)
 
-    expr = rf"({'|'.join(repl_dict.keys())})"   # Becomes '(Foo|Bar) '
-
-    func = lambda mo: f"{repl_dict[mo.group(1)]}"
-
-    text = re.sub(expr, func, text)
-
-    #text = re.sub(rf"({'|'.join(whitelist)}) \n", r"\1.capitalize()", string, flags=re.I)
     return text
 
 def wiki_content(title, context = False):
