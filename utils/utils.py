@@ -578,7 +578,8 @@ def create_whitelist(headlines: list):
                 lemma = "parco"
             elif lemma == "teatri": 
                 lemma = "teatro"
-            whitelist.append(lemma)
+            if lemma != "storia" and lemma != "territorio" and lemma != "gemellaggio" and lemma != "cucina":
+                whitelist.append(lemma)
 
     whitelist.append("chiesa")
 
