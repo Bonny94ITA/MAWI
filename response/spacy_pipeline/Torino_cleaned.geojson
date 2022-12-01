@@ -113,12 +113,12 @@
                 ]
             },
             "properties": {
-                "entity": "parco del Po",
+                "entity": "Parco del Po",
                 "name_location": "Parco del Valentino, Viale Carlo Ceppi, San Salvario, Circoscrizione 8, Torino, Piemonte, 10125, Italia",
                 "class": "leisure",
                 "type": "pitch",
                 "snippet": [
-                    "*Il 19 marzo 2016 l' UNESCO ha riconosciuto il parco del Po e la collina torinese come riserva della biosfera , mentre nel 2020 la FAO e l'Arbor Day Foundation hanno conferito alla città di Torino il riconoscimento di Tree City of the World 2019 ."
+                    "*Il 19 marzo 2016 l' UNESCO ha riconosciuto il Parco del Po e la collina torinese come riserva della biosfera , mentre nel 2020 la FAO e l'Arbor Day Foundation hanno conferito alla città di Torino il riconoscimento di Tree City of the World 2019 ."
                 ]
             }
         },
@@ -137,7 +137,7 @@
                 "class": "highway",
                 "type": "bus_stop",
                 "snippet": [
-                    "*Prendendo in esame i dati rilevati dall' Ufficio Idrografico del Po (presso Porta Susa), nel il periodo 1961-1990, si evince che, in città, la temperatura media annua è stata di 12,3 °C , con la minima, a gennaio, di 0,9 °C .",
+                    "*Prendendo in esame i dati rilevati dall' Ufficio Idrografico del Po (presso Porta Susa), nel il periodo 1961-1990, si evince che, in città, la temperatura Media annua è stata di 12,3 °C , con la minima, a gennaio, di 0,9 °C .",
                     "*Le stazioni ferroviarie di Porta Nuova e Porta Susa vennero congiunte con un percorso porticato attraverso via Nizza , via Sacchi, Corso Vittorio Emanuele II , Corso Vinzaglio e via Cernaia ."
                 ]
             }
@@ -157,7 +157,7 @@
                 "class": "amenity",
                 "type": "fast_food",
                 "snippet": [
-                    "*Insediamenti riferibili a popolazioni di ceppo - Ligure , conosciute con il nome di Taurini , spesso confusi, già in età antica, con i Taurisci , che occupavano anche le vicine valli di Susa e di Lanzo .",
+                    "*Insediamenti riferibili a popolazioni di ceppo celto - Ligure , conosciute con il nome di Taurini , spesso confusi, già in età antica, con i Taurisci , che occupavano anche le vicine valli di Susa e di Lanzo .",
                     "Resti di piccolo villaggio celto-ligure databile fra il IV e il III secolo a.C. con emergenze archeologiche di un successivo insediamento tardo-antico e altomedievale;"
                 ]
             }
@@ -192,7 +192,7 @@
             },
             "properties": {
                 "entity": "Fiorio",
-                "name_location": "Fiorio, Via Giuseppe Garibaldi, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
+                "name_location": "Fiorio, Piazza Castello, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
                 "class": "amenity",
                 "type": "cafe",
                 "snippet": [
@@ -280,44 +280,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.684861,
-                    45.074495
-                ]
-            },
-            "properties": {
-                "entity": "parco archeologico",
-                "name_location": "Parco Archeologico delle Torri Palatine, Quadrilatero Romano, Circoscrizione 1, Torino, Piemonte, Italia",
-                "class": "leisure",
-                "type": "park",
-                "snippet": [
-                    "Parco archeologico della Porta Palatina e delle mura romane;"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.684037,
-                    45.073932
-                ]
-            },
-            "properties": {
-                "entity": "Porta Palatina",
-                "name_location": "Porta Palatina, Via Porta Palatina, Quadrilatero Romano, Circoscrizione 1, Torino, Piemonte, 10122, Italia",
-                "class": "amenity",
-                "type": "bicycle_rental",
-                "snippet": [
-                    "*Parco archeologico della Porta Palatina e delle mura romane;"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     7.685805,
                     45.070965
                 ]
@@ -333,8 +295,27 @@
                     "*Palazzo Carignano (progettato da Guarini e sede della prima Camera dei deputati del Parlamento italiano ) e l'imponente Palazzo Madama .",
                     "*Nel comune di Torino si trovano il Palazzo Reale , il Palazzo Madama , la Villa della Regina e il Castello del Valentino .",
                     "*Palazzo Madama ; Palazzo Carignano ;",
-                    "*Per l'arte moderna e contemporanea vi sono la Galleria civica d'arte moderna e contemporanea (il secondo museo di arte moderna in Italia, con 5.000 dipinti e 400 sculture), il Museo civico d'arte antica di Palazzo Madama , la Fondazione Sandretto Re Rebaudengo contenente esposizioni degli artisti contemporanei provenienti da tutto il mondo e la Pinacoteca Giovanni e Marella Agnelli e la Fondazione Merz .",
+                    "*, il Museo civico d'arte antica di Palazzo Madama , la Fondazione Sandretto Re Rebaudengo contenente esposizioni degli artisti contemporanei provenienti da tutto il mondo e la Pinacoteca Giovanni e Marella Agnelli e la Fondazione Merz .",
                     "*Mostre temporanee di rilievo si tengono a Palazzo Bricherasio e a Palazzo Madama ."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.685482,
+                    45.073986
+                ]
+            },
+            "properties": {
+                "entity": "Teatro romano",
+                "name_location": "Teatro Romano, Piazza San Giovanni, Centro, Circoscrizione 1, Torino, Piemonte, 10122, Italia",
+                "class": "historic",
+                "type": "archaeological_site",
+                "snippet": [
+                    "*Resti del Teatro romano ;"
                 ]
             }
         },
@@ -413,12 +394,50 @@
                 "class": "highway",
                 "type": "residential",
                 "snippet": [
-                    "*In stile gotico ampliando e inglobando la struttura dell'originale Porta Decumana d'epoca romana e conferendo al palazzo l'aspetto di un castello, che verrà completato nei secoli successivi con la facciata settecentesca dello Juvarra ; chiesa di San Domenico , situata nell'omonima via;",
-                    "*Campanili romanici della basilica della Consolata (risalente al X secolo), del Duomo (quattrocentesco, poi completato nel XVIII secolo dallo Juvarra) e della chiesa di Sant'Agostino (XV secolo);",
+                    "*In stile gotico ampliando e inglobando la struttura dell'originale Porta Decumana d'epoca romana e conferendo al palazzo l'aspetto di un castello, che verrà completato nei secoli successivi con la facciata settecentesca dello Juvarra ; Chiesa di San Domenico , situata nell'omonima via;",
+                    "*Campanili romanici della basilica della Consolata (risalente al X secolo), del Duomo (quattrocentesco, poi completato nel XVIII secolo dallo Juvarra) e della Chiesa di Sant'Agostino (XV secolo);",
                     "Fu rimaneggiato più volte, in particolare all'inizio del Settecento , quando venne dotato di una facciata ad opera di Filippo Juvarra .",
                     "Negli stessi anni Filippo Juvarra costruì i portici di porta Palazzo.",
                     "Filippo Juvarra ( Basilica di Superga , Chiesa di San Filippo Neri , Santuario della Consolata , Chiesa di Santa Cristina , Chiesa della Madonna del Carmine ) ; Filippo Giovanni Battista Nicolis di Robilant ( Chiesa di Santa Pelagia , Chiesa della Misericordia ) ;",
                     "Teatro Le Musichall (ex Teatro Juvarra) ;"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.681967,
+                    45.074604
+                ]
+            },
+            "properties": {
+                "entity": "Chiesa di San Domenico",
+                "name_location": "Chiesa di San Domenico, Via Milano, Quadrilatero Romano, Circoscrizione 1, Torino, Piemonte, 10122, Italia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*In stile gotico ampliando e inglobando la struttura dell'originale Porta Decumana d'epoca romana e conferendo al palazzo l'aspetto di un castello, che verrà completato nei secoli successivi con la facciata settecentesca dello Juvarra ; Chiesa di San Domenico , situata nell'omonima via;"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.680146,
+                    45.075502
+                ]
+            },
+            "properties": {
+                "entity": "Chiesa di Sant'Agostino",
+                "name_location": "Chiesa di Sant'Agostino, Via Santa Chiara, Quadrilatero Romano, Circoscrizione 1, Torino, Piemonte, 10122, Italia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*Campanili romanici della basilica della Consolata (risalente al X secolo), del Duomo (quattrocentesco, poi completato nel XVIII secolo dallo Juvarra) e della Chiesa di Sant'Agostino (XV secolo);"
                 ]
             }
         },
@@ -513,8 +532,8 @@
                 "class": "tourism",
                 "type": "viewpoint",
                 "snippet": [
-                    "*Tra i monumenti di Torino più noti anche all'estero sono da citare l'ottocentesca Mole Antonelliana , simbolo incontrastato della città, che ospita il Museo nazionale del cinema (il principale d'Europa );",
-                    "*Nel 1956 venne aperto il Museo nazionale del cinema , dapprima ospitato a Palazzo Chiablese e poi, dal 2000 , nell'imponente sede della Mole Antonelliana .",
+                    "*Tra i monumenti di Torino più noti anche all'estero sono da citare l'ottocentesca Mole Antonelliana , simbolo incontrastato della città, che ospita il Museo nazionale del Cinema (il principale d'Europa );",
+                    "*Nel 1956 venne aperto il Museo nazionale del Cinema , dapprima ospitato a Palazzo Chiablese e poi, dal 2000 , nell'imponente sede della Mole Antonelliana .",
                     "*Per gli esoteristi la magia positiva di Torino nasce dal \"cuore bianco\" di piazza Castello, dal Duomo che custodisce la Sacra Sindone alla Gran Madre di Dio e fino alla Mole Antonelliana , che indica il cielo."
                 ]
             }
@@ -529,14 +548,14 @@
                 ]
             },
             "properties": {
-                "entity": "Museo nazionale del cinema",
+                "entity": "Museo nazionale del Cinema",
                 "name_location": "Museo Nazionale del Cinema, 20, Via Montebello, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10124, Italia",
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
-                    "*Tra i monumenti di Torino più noti anche all'estero sono da citare l'ottocentesca Mole Antonelliana , simbolo incontrastato della città, che ospita il Museo nazionale del cinema (il principale d'Europa );",
-                    "*Nel 1956 venne aperto il Museo nazionale del cinema , dapprima ospitato a Palazzo Chiablese e poi, dal 2000 , nell'imponente sede della Mole Antonelliana .",
-                    "*All'interno della Mole è ospitato il Museo nazionale del cinema ."
+                    "*Tra i monumenti di Torino più noti anche all'estero sono da citare l'ottocentesca Mole Antonelliana , simbolo incontrastato della città, che ospita il Museo nazionale del Cinema (il principale d'Europa );",
+                    "*Nel 1956 venne aperto il Museo nazionale del Cinema , dapprima ospitato a Palazzo Chiablese e poi, dal 2000 , nell'imponente sede della Mole Antonelliana .",
+                    "*All'interno della Mole è ospitato il Museo nazionale del Cinema ."
                 ]
             }
         },
@@ -559,7 +578,7 @@
                     "*Nel comune di Torino si trovano il Palazzo Reale , il Palazzo Madama , la Villa della Regina e il Castello del Valentino .",
                     "*Palazzo Reale e la zona di comando (o musei reali) ;",
                     "\"Cinema a Palazzo Reale\".",
-                    "*Arena estiva dedicata ai classici del cinema che si svolge ogni anno, dal 2012, nel Cortile d'Onore di Palazzo Reale."
+                    "*Arena estiva dedicata ai classici del Cinema che si svolge ogni anno, dal 2012, nel Cortile d'Onore di Palazzo Reale."
                 ]
             }
         },
@@ -579,10 +598,10 @@
                 "type": "museum",
                 "snippet": [
                     "*Il Museo Egizio (il secondo più importante al mondo dopo quello de Il Cairo );",
-                    "Vi sono quattro musei nazionali ( Museo del cinema , Museo dell'automobile , Museo della montagna , Museo del Risorgimento ) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio , l' Armeria Reale , ora ricompresa nei Musei Reali , il Museo d'Arte Orientale , il Museo dell'Astronomia e Planetario , il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport .",
+                    "Vi sono quattro musei nazionali ( Museo del Cinema , Museo dell'automobile , Museo della montagna , Museo del Risorgimento ) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio , l' Armeria Reale , ora ricompresa nei Musei Reali , il Museo d'Arte Orientale , il Museo dell'Astronomia e Planetario , il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello Sport .",
                     "*Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il Museo del Cinema, il Museo Egizio e il Museo dell'Automobile) o sono in corso di rinnovamento:",
                     "Dal Museo di Antichità furono separate, negli anni quaranta del Novecento, le collezioni egizie che costituirono il Museo egizio , il più importante d'Europa (nonché il più antico al mondo), in quanto custode della seconda collezione di arte egizia del mondo per vastità e importanza dopo quella del Museo del Cairo .",
-                    "*Vi sono quattro musei nazionali ( Museo del cinema , Museo dell'automobile , Museo della montagna , Museo del Risorgimento ) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio , l' Armeria Reale , ora ricompresa nei Musei Reali , il Museo d'Arte Orientale , il Museo dell'Astronomia e Planetario , il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport .",
+                    "*Vi sono quattro musei nazionali ( Museo del Cinema , Museo dell'automobile , Museo della montagna , Museo del Risorgimento ) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio , l' Armeria Reale , ora ricompresa nei Musei Reali , il Museo d'Arte Orientale , il Museo dell'Astronomia e Planetario , il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello Sport .",
                     "*Dal Museo di Antichità furono separate, negli anni quaranta del Novecento, le collezioni egizie che costituirono il Museo egizio , il più importante d'Europa (nonché il più antico al mondo), in quanto custode della seconda collezione di arte egizia del mondo per vastità e importanza dopo quella del Museo del Cairo ."
                 ]
             }
@@ -823,7 +842,7 @@
                 "type": "footway",
                 "snippet": [
                     "*Carceri Nuove ; Cisternone ; Galleria Subalpina ; Lingotto ; Opera per Torino ;",
-                    "*Sono nati a Torino il primo cinema d'essai italiano (il Romano nella Galleria Subalpina , nel 1971 ), la principale associazione cinematografica nazionale (l' Aiace Torino ) e la prima multisala del Paese (l'Eliseo, nel 1983 )."
+                    "*Sono nati a Torino il primo Cinema d'essai italiano (il Romano nella Galleria Subalpina , nel 1971 ), la principale associazione cinematografica nazionale (l' Aiace Torino ) e la prima multisala del Paese (l'Eliseo, nel 1983 )."
                 ]
             }
         },
@@ -842,11 +861,11 @@
                 "class": "emergency",
                 "type": "defibrillator",
                 "snippet": [
-                    "Torino ( IPA : , ; Turin in piemontese , ) è un comune italiano di 844 056 abitanti (al 31 agosto 2022) , quarto comune italiano per popolazione e capoluogo della regione Piemonte e dell' omonima città metropolitana .",
+                    "Torino ( IPA : , ; Turin in piemontese , ) è un comune italiano di 844 056 abitanti (al 31 agosto 2022) , quarto comune italiano per popolazione e capoluogo della regione Piemonte e dell' omonima città Metropolitana .",
                     "*Grattacielo della Regione Piemonte ; Cascina Giajone ;",
                     "*Da segnalare, infine, che tutti i musei sopra indicati, più numerosi altri all'interno della Regione Piemonte per un totale di circa 200 siti, sono gratuitamente e illimitatamente accessibili tramite l'Abbonamento Musei regionale, che fin dagli anni '90 è stato sviluppato per permettere la fruizione dei luoghi museali sul territorio previo acquisto annuale forfettario, e che nel 2017 ha raggiunto l'importante obiettivo delle oltre 136.000 tessere vendute e i circa 900.000 ingressi nei siti convenzionati.",
                     "*Il servizio ferroviario metropolitano di Torino (SFM) è un sistema di trasporto pubblico locale della Città Metropolitana di Torino coordinato dall' Agenzia Mobilità Metropolitana ed interamente finanziato dalla Regione Piemonte .",
-                    "*Torino ( IPA : , ; Turin in piemontese , ) è un comune italiano di 844 056 abitanti (al 31 agosto 2022) , quarto comune italiano per popolazione e capoluogo della regione Piemonte e dell' omonima città metropolitana ."
+                    "*Torino ( IPA : , ; Turin in piemontese , ) è un comune italiano di 844 056 abitanti (al 31 agosto 2022) , quarto comune italiano per popolazione e capoluogo della regione Piemonte e dell' omonima città Metropolitana ."
                 ]
             }
         },
@@ -1213,7 +1232,7 @@
                 "class": "highway",
                 "type": "secondary",
                 "snippet": [
-                    "*Sito in Corso Novara, 135 (quartiere Regio Parco ), è il primo cimitero di Torino per dimensioni;"
+                    "*Sito in Corso Novara, 135 (quartiere Regio Parco ), è il primo Cimitero di Torino per dimensioni;"
                 ]
             }
         },
@@ -1232,7 +1251,7 @@
                 "class": "amenity",
                 "type": "bicycle_rental",
                 "snippet": [
-                    "*Sito in Corso Novara, 135 (quartiere Regio Parco ), è il primo cimitero di Torino per dimensioni;",
+                    "*Sito in Corso Novara, 135 (quartiere Regio Parco ), è il primo Cimitero di Torino per dimensioni;",
                     "Barriera di Milano - Regio Parco - Barca - Bertolla - Falchera - Rebaudengo - Villaretto ;"
                 ]
             }
@@ -1271,7 +1290,7 @@
                 "class": "landuse",
                 "type": "cemetery",
                 "snippet": [
-                    "*Cimitero Parco (detto anche \"cimitero del Gerbido \"):"
+                    "*Cimitero Parco (detto anche \"Cimitero del Gerbido \"):"
                 ]
             }
         },
@@ -1290,8 +1309,8 @@
                 "class": "highway",
                 "type": "bus_stop",
                 "snippet": [
-                    "*Piccolo cimitero sito in corso Unione Sovietica 650, nella zona Sud di Torino ;",
-                    "*Era sito in via Passo Buole, circa a metà strada fra le vie Pio VII e corso Unione Sovietica."
+                    "*Piccolo Cimitero sito in corso Unione Sovietica 650, nella zona Sud di Torino ;",
+                    "*Era sito in via Passo Buole, circa a metà Strada fra le vie Pio VII e corso Unione Sovietica."
                 ]
             }
         },
@@ -1348,7 +1367,7 @@
                 "class": "highway",
                 "type": "bus_stop",
                 "snippet": [
-                    "*Era sito in via Passo Buole, circa a metà strada fra le vie Pio VII e corso Unione Sovietica."
+                    "*Era sito in via Passo Buole, circa a metà Strada fra le vie Pio VII e corso Unione Sovietica."
                 ]
             }
         },
@@ -1362,12 +1381,12 @@
                 ]
             },
             "properties": {
-                "entity": "parco Di Vittorio",
+                "entity": "Parco Di Vittorio",
                 "name_location": "Parco Cavalieri di Vittorio Veneto, Circoscrizione 2, Torino, Piemonte, Italia",
                 "class": "leisure",
                 "type": "park",
                 "snippet": [
-                    "*Già inattivo da prima della seconda guerra mondiale , il terreno su cui sorgeva è oggi occupato dal parco Di Vittorio ."
+                    "*Già inattivo da prima della seconda guerra mondiale , il terreno su cui sorgeva è oggi occupato dal Parco Di Vittorio ."
                 ]
             }
         },
@@ -1407,7 +1426,7 @@
                 "snippet": [
                     "*La città è inoltre sede di diverse istituzioni teatrali, tra cui la principale è il Teatro Stabile di Torino , dichiarato Teatro Nazionale :",
                     "*Fondato nel 1955, secondo in Italia dopo il Teatro Stabile di Milano, gestisce le produzioni stagionali del Carignano, del Gobetti e delle Fonderie Limone di Moncalieri.",
-                    "Fra i teatri maggiori, con una capienza superiore a 400 posti, vi sono il teatro Regio , in cui si tenne la prima de La bohème di Puccini , il teatro Carignano , il teatro Alfieri e il teatro Colosseo ; importante, poi, è il teatro Gobetti , sede principale del sopracitato teatro stabile cittadino."
+                    "Fra i teatri maggiori, con una capienza superiore a 400 posti, vi sono il Teatro Regio , in cui si tenne la prima de La bohème di Puccini , il Teatro Carignano , il Teatro Alfieri e il Teatro Colosseo ; importante, poi, è il Teatro Gobetti , sede principale del sopracitato Teatro stabile cittadino."
                 ]
             }
         },
@@ -1416,17 +1435,145 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.679472,
-                    45.052652
+                    7.687956,
+                    45.070592
                 ]
             },
             "properties": {
-                "entity": "Colosseo",
-                "name_location": "Colosseo, 69, Via Madama Cristina, San Salvario, Circoscrizione 8, Torino, Piemonte, 10125, Italia",
-                "class": "shop",
-                "type": "confectionery",
+                "entity": "Teatro Regio",
+                "name_location": "Teatro Regio, Via Carlo Alberto, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
+                "class": "tourism",
+                "type": "attraction",
                 "snippet": [
-                    "*Fra i teatri maggiori, con una capienza superiore a 400 posti, vi sono il teatro Regio , in cui si tenne la prima de La bohème di Puccini , il teatro Carignano , il teatro Alfieri e il teatro Colosseo ; importante, poi, è il teatro Gobetti , sede principale del sopracitato teatro stabile cittadino."
+                    "*Fra i teatri maggiori, con una capienza superiore a 400 posti, vi sono il Teatro Regio , in cui si tenne la prima de La bohème di Puccini , il Teatro Carignano , il Teatro Alfieri e il Teatro Colosseo ; importante, poi, è il Teatro Gobetti , sede principale del sopracitato Teatro stabile cittadino.",
+                    "*Le scene all’interno del Teatro, però, sono state girate al Teatro Regio di Torino .",
+                    "*L'ente lirico di Torino è il Teatro Regio , mentre la principale orchestra sinfonica cittadina è l' Orchestra sinfonica nazionale della RAI , che si esibisce all' Auditorium della RAI ."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.68467,
+                    45.069302
+                ]
+            },
+            "properties": {
+                "entity": "Teatro Carignano",
+                "name_location": "Teatro Carignano, 6, Piazza Carignano, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*Fra i teatri maggiori, con una capienza superiore a 400 posti, vi sono il Teatro Regio , in cui si tenne la prima de La bohème di Puccini , il Teatro Carignano , il Teatro Alfieri e il Teatro Colosseo ; importante, poi, è il Teatro Gobetti , sede principale del sopracitato Teatro stabile cittadino."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.677408,
+                    45.069987
+                ]
+            },
+            "properties": {
+                "entity": "Teatro Alfieri",
+                "name_location": "Teatro Vittorio Alfieri, 4, Piazza Solferino, Centro, Circoscrizione 1, Torino, Piemonte, 10121, Italia",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*Fra i teatri maggiori, con una capienza superiore a 400 posti, vi sono il Teatro Regio , in cui si tenne la prima de La bohème di Puccini , il Teatro Carignano , il Teatro Alfieri e il Teatro Colosseo ; importante, poi, è il Teatro Gobetti , sede principale del sopracitato Teatro stabile cittadino."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.67932,
+                    45.052334
+                ]
+            },
+            "properties": {
+                "entity": "Teatro Colosseo",
+                "name_location": "Teatro Colosseo, 71, Via Madama Cristina, San Salvario, Circoscrizione 8, Torino, Piemonte, 10125, Italia",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*Fra i teatri maggiori, con una capienza superiore a 400 posti, vi sono il Teatro Regio , in cui si tenne la prima de La bohème di Puccini , il Teatro Carignano , il Teatro Alfieri e il Teatro Colosseo ; importante, poi, è il Teatro Gobetti , sede principale del sopracitato Teatro stabile cittadino."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.691213,
+                    45.069273
+                ]
+            },
+            "properties": {
+                "entity": "Teatro Gobetti",
+                "name_location": "Teatro Gobetti, Via Gioachino Rossini, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10124, Italia",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*Fra i teatri maggiori, con una capienza superiore a 400 posti, vi sono il Teatro Regio , in cui si tenne la prima de La bohème di Puccini , il Teatro Carignano , il Teatro Alfieri e il Teatro Colosseo ; importante, poi, è il Teatro Gobetti , sede principale del sopracitato Teatro stabile cittadino."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.692151,
+                    45.068585
+                ]
+            },
+            "properties": {
+                "entity": "Teatro",
+                "name_location": "Teatro di Torino, 16, Via Giuseppe Verdi, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10124, Italia",
+                "class": "building",
+                "type": "ruins",
+                "snippet": [
+                    "Resti del Teatro romano ;",
+                    "La città è inoltre sede di diverse istituzioni teatrali, tra cui la principale è il Teatro Stabile di Torino , dichiarato Teatro Nazionale :",
+                    "Fondato nel 1955, secondo in Italia dopo il Teatro Stabile di Milano, gestisce le produzioni stagionali del Carignano, del Gobetti e delle Fonderie Limone di Moncalieri.",
+                    "*Fra i teatri maggiori, con una capienza superiore a 400 posti, vi sono il Teatro Regio , in cui si tenne la prima de La bohème di Puccini , il Teatro Carignano , il Teatro Alfieri e il Teatro Colosseo ; importante, poi, è il Teatro Gobetti , sede principale del sopracitato Teatro stabile cittadino.",
+                    "Altre sale teatrali minori comprendono Alfa Teatro ; Teatro Erba",
+                    "; Teatro Gioiello ; Teatro Vittoria",
+                    "; Teatro Tangram ;",
+                    "Teatro Monterosa",
+                    "; Teatro Agnelli ;",
+                    "Teatro Astra ; Teatro Araldo",
+                    "; Teatro Cardinal Massaia ;",
+                    "Teatro Le Musichall (ex Teatro Juvarra) ;",
+                    "Teatro della Caduta ; Teatro Nuovo .",
+                    "; Teatro Marchesa",
+                    "; Teatro Ruggero Leoncavallo ;",
+                    "Teatro Principessa Isabella ;",
+                    "Teatro del Pilone ; Teatro Educatorio della Provvidenza",
+                    "Teatro Crocetta ; Teatro Giulia di Barolo ;",
+                    "Teatro Don Pollarolo (Officine Caos) ;",
+                    "Casa del Teatro Ragazzi e Giovani .",
+                    "Piccolo Teatro Comico ; Teatro San Giuseppe ;",
+                    "Cubo Teatro ;",
+                    "Piccolo Teatro Scalzo",
+                    "; Teatro Espace ; Café Müller ;",
+                    "Teatro Grande Valdocco ;",
+                    "; Teatro BellARTE ;",
+                    "Atelier Teatro Fisico .",
+                    "Fra questi il Teatro Balbo e il Teatro di Torino , distrutti durante un bombardamento nel 1943 , il Teatro Rossini , bruciato in un incendio nel 1941 , i teatri Adua , Gianduja , Gerbino e Arena torinese, smantellati, e, infine, il Teatro Nazionale riconvertito a Cinema;",
+                    "*Le scene all’interno del Teatro, però, sono state girate al Teatro Regio di Torino .",
+                    "L'ente lirico di Torino è il Teatro Regio , mentre la principale orchestra sinfonica cittadina è l' Orchestra sinfonica nazionale della RAI , che si esibisce all' Auditorium della RAI .",
+                    "*Festival di Teatro contemporaneo che si svolge a Torino dal 1996 impegnando fra luglio e agosto diversi spazi della città.",
+                    "Una menzione speciale, infine, merita lo stadio Filadelfia , Teatro del ciclo di vittorie del Grande Torino negli anni quaranta del XX secolo ."
                 ]
             }
         },
@@ -1693,7 +1840,26 @@
                 "type": "attraction",
                 "snippet": [
                     "*Auditorium \"Vivaldi\" ( Biblioteca Nazionale ) ;",
-                    "La Biblioteca nazionale di Torino e la Biblioteca Reale di proprietà dello Stato, la Biblioteca civica centrale e molte collezioni specializzate come la Biblioteca internazionale di cinema e fotografia Mario Gromo , la Biblioteca Nazionale del Club Alpino Italiano , la Biblioteca della Fondazione Luigi Einaudi , le biblioteche d'arte della Galleria civica d'arte moderna e contemporanea e dell' Accademia Albertina ."
+                    "La Biblioteca nazionale di Torino e la Biblioteca Reale di proprietà dello Stato, la Biblioteca civica centrale e molte collezioni specializzate come la Biblioteca internazionale di Cinema e fotografia Mario Gromo , la Biblioteca Nazionale del Club Alpino Italiano , la Biblioteca della Fondazione Luigi Einaudi , le biblioteche d'arte della Galleria civica d'arte moderna e contemporanea e dell' Accademia Albertina ."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.692151,
+                    45.068585
+                ]
+            },
+            "properties": {
+                "entity": "Teatro di Torino",
+                "name_location": "Teatro di Torino, 16, Via Giuseppe Verdi, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10124, Italia",
+                "class": "building",
+                "type": "ruins",
+                "snippet": [
+                    "*Fra questi il Teatro Balbo e il Teatro di Torino , distrutti durante un bombardamento nel 1943 , il Teatro Rossini , bruciato in un incendio nel 1941 , i teatri Adua , Gianduja , Gerbino e Arena torinese, smantellati, e, infine, il Teatro Nazionale riconvertito a Cinema;"
                 ]
             }
         },
@@ -1707,12 +1873,12 @@
                 ]
             },
             "properties": {
-                "entity": "teatro Rossini",
+                "entity": "Teatro Rossini",
                 "name_location": "Teatro della Caduta, 24, Via Michele Buniva, Vanchiglia, Circoscrizione 7, Torino, Piemonte, 10124, Italia",
                 "class": "amenity",
                 "type": "theatre",
                 "snippet": [
-                    "*Fra questi il teatro Balbo e il teatro di Torino , distrutti durante un bombardamento nel 1943 , il teatro Rossini , bruciato in un incendio nel 1941 , i teatri Adua , Gianduja , Gerbino e Arena torinese, smantellati, e, infine, il teatro Nazionale riconvertito a cinema;"
+                    "*Fra questi il Teatro Balbo e il Teatro di Torino , distrutti durante un bombardamento nel 1943 , il Teatro Rossini , bruciato in un incendio nel 1941 , i teatri Adua , Gianduja , Gerbino e Arena torinese, smantellati, e, infine, il Teatro Nazionale riconvertito a Cinema;"
                 ]
             }
         },
@@ -1817,26 +1983,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.664628,
-                    45.081679
-                ]
-            },
-            "properties": {
-                "entity": "Barcellona",
-                "name_location": "Piazza Barcellona, Basso San Donato, Circoscrizione 4, Torino, Piemonte, Italia",
-                "class": "highway",
-                "type": "residential",
-                "snippet": [
-                    "*I più importanti per ampiezza e giro d'affari si svolgono in Piazza Benefica , in Corso Alcide De Gasperi , in via Onorato Vigliani, in corso Svizzera, in Corso Racconigi e in piazza Barcellona.",
-                    "*; Barcellona , Spagna , dal 2005 ;"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     7.68444,
                     45.075996
                 ]
@@ -1848,7 +1994,7 @@
                 "type": "marketplace",
                 "snippet": [
                     "Negli stessi anni Filippo Juvarra costruì i portici di porta Palazzo.",
-                    "*Il mercato più famoso è Porta Palazzo ( Pòrta Pila in Lingua piemontese), che è il mercato all'aperto più grande d'Europa.",
+                    "*Il Mercato più famoso è Porta Palazzo ( Pòrta Pila in Lingua piemontese), che è il Mercato all'aperto più grande d'Europa.",
                     "*Nel 2011 il regista torinese Daniele Gaglianone ha realizzato il film documentario Uomini e mercati centrato sui mercati di Porta Palazzo, Piazza Benefica e Corso Spezia .",
                     "*Nelle ultime settimane la regista ha girato la città focalizzando le riprese tra Galleria Umberto I , Porta Palazzo e la periferia nord."
                 ]
@@ -1888,7 +2034,7 @@
                 "class": "highway",
                 "type": "residential",
                 "snippet": [
-                    "*L'igiene urbana e la raccolta rifiuti sono gestiti dal 1969 da Amiat , società che si occupa anche del recupero ambientale della Discarica Basse di Stura, di cui la parte più vecchia - esaurita nel 1983 e con una superficie complessiva di 300.000 m² - è diventata parco fluviale, nota come Parco urbano della Marmorina."
+                    "*L'igiene urbana e la raccolta rifiuti sono gestiti dal 1969 da Amiat , Società che si occupa anche del recupero ambientale della Discarica Basse di Stura, di cui la parte più vecchia - esaurita nel 1983 e con una superficie complessiva di 300.000 m² - è diventata Parco fluviale, Nota come Parco urbano della Marmorina."
                 ]
             }
         },
@@ -2080,7 +2226,7 @@
                 "class": "leisure",
                 "type": "park",
                 "snippet": [
-                    "*Torino ospita anche alberi esotici secolari come le sequoie costali ( Sequoia sempervirens ) dei parchi collinari di Villa Genero e Giacomo Leopardi, i numerosi esemplari di Noce del Caucaso ( Pterocarya fraxinifolia ) che costeggiano il Po e compaiono in parchi pubblici come i Giardini Cavour , il giardino Sambuy , i Giardini Reali Bassi (lungo Corso San Maurizio), il parco Millefonti ."
+                    "*Torino ospita anche alberi esotici secolari come le sequoie costali ( Sequoia sempervirens ) dei parchi collinari di Villa Genero e Giacomo Leopardi, i numerosi esemplari di Noce del Caucaso ( Pterocarya fraxinifolia ) che costeggiano il Po e compaiono in parchi pubblici come i Giardini Cavour , il giardino Sambuy , i Giardini Reali Bassi (lungo Corso San Maurizio), il Parco Millefonti ."
                 ]
             }
         },
@@ -2099,7 +2245,7 @@
                 "class": "highway",
                 "type": "residential",
                 "snippet": [
-                    "*Torino ospita anche alberi esotici secolari come le sequoie costali ( Sequoia sempervirens ) dei parchi collinari di Villa Genero e Giacomo Leopardi, i numerosi esemplari di Noce del Caucaso ( Pterocarya fraxinifolia ) che costeggiano il Po e compaiono in parchi pubblici come i Giardini Cavour , il giardino Sambuy , i Giardini Reali Bassi (lungo Corso San Maurizio), il parco Millefonti ."
+                    "*Torino ospita anche alberi esotici secolari come le sequoie costali ( Sequoia sempervirens ) dei parchi collinari di Villa Genero e Giacomo Leopardi, i numerosi esemplari di Noce del Caucaso ( Pterocarya fraxinifolia ) che costeggiano il Po e compaiono in parchi pubblici come i Giardini Cavour , il giardino Sambuy , i Giardini Reali Bassi (lungo Corso San Maurizio), il Parco Millefonti ."
                 ]
             }
         },
@@ -2113,12 +2259,12 @@
                 ]
             },
             "properties": {
-                "entity": "parco Millefonti",
+                "entity": "Parco Millefonti",
                 "name_location": "PAV Parco Arte Vivente, Via Giordano Bruno, Filadelfia, Circoscrizione 8, Torino, Piemonte, 10134, Italia",
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
-                    "*Torino ospita anche alberi esotici secolari come le sequoie costali ( Sequoia sempervirens ) dei parchi collinari di Villa Genero e Giacomo Leopardi, i numerosi esemplari di Noce del Caucaso ( Pterocarya fraxinifolia ) che costeggiano il Po e compaiono in parchi pubblici come i Giardini Cavour , il giardino Sambuy , i Giardini Reali Bassi (lungo Corso San Maurizio), il parco Millefonti ."
+                    "*Torino ospita anche alberi esotici secolari come le sequoie costali ( Sequoia sempervirens ) dei parchi collinari di Villa Genero e Giacomo Leopardi, i numerosi esemplari di Noce del Caucaso ( Pterocarya fraxinifolia ) che costeggiano il Po e compaiono in parchi pubblici come i Giardini Cavour , il giardino Sambuy , i Giardini Reali Bassi (lungo Corso San Maurizio), il Parco Millefonti ."
                 ]
             }
         },
@@ -2176,7 +2322,7 @@
                 "class": "tourism",
                 "type": "attraction",
                 "snippet": [
-                    "*La Biblioteca nazionale di Torino e la Biblioteca Reale di proprietà dello Stato, la Biblioteca civica centrale e molte collezioni specializzate come la Biblioteca internazionale di cinema e fotografia Mario Gromo , la Biblioteca Nazionale del Club Alpino Italiano , la Biblioteca della Fondazione Luigi Einaudi , le biblioteche d'arte della Galleria civica d'arte moderna e contemporanea e dell' Accademia Albertina ."
+                    "*La Biblioteca nazionale di Torino e la Biblioteca Reale di proprietà dello Stato, la Biblioteca civica centrale e molte collezioni specializzate come la Biblioteca internazionale di Cinema e fotografia Mario Gromo , la Biblioteca Nazionale del Club Alpino Italiano , la Biblioteca della Fondazione Luigi Einaudi , le biblioteche d'arte della Galleria civica d'arte moderna e contemporanea e dell' Accademia Albertina ."
                 ]
             }
         },
@@ -2195,7 +2341,7 @@
                 "class": "amenity",
                 "type": "library",
                 "snippet": [
-                    "*La Biblioteca nazionale di Torino e la Biblioteca Reale di proprietà dello Stato, la Biblioteca civica centrale e molte collezioni specializzate come la Biblioteca internazionale di cinema e fotografia Mario Gromo , la Biblioteca Nazionale del Club Alpino Italiano , la Biblioteca della Fondazione Luigi Einaudi , le biblioteche d'arte della Galleria civica d'arte moderna e contemporanea e dell' Accademia Albertina ."
+                    "*La Biblioteca nazionale di Torino e la Biblioteca Reale di proprietà dello Stato, la Biblioteca civica centrale e molte collezioni specializzate come la Biblioteca internazionale di Cinema e fotografia Mario Gromo , la Biblioteca Nazionale del Club Alpino Italiano , la Biblioteca della Fondazione Luigi Einaudi , le biblioteche d'arte della Galleria civica d'arte moderna e contemporanea e dell' Accademia Albertina ."
                 ]
             }
         },
@@ -2214,7 +2360,7 @@
                 "class": "amenity",
                 "type": "library",
                 "snippet": [
-                    "*La Biblioteca nazionale di Torino e la Biblioteca Reale di proprietà dello Stato, la Biblioteca civica centrale e molte collezioni specializzate come la Biblioteca internazionale di cinema e fotografia Mario Gromo , la Biblioteca Nazionale del Club Alpino Italiano , la Biblioteca della Fondazione Luigi Einaudi , le biblioteche d'arte della Galleria civica d'arte moderna e contemporanea e dell' Accademia Albertina ."
+                    "*La Biblioteca nazionale di Torino e la Biblioteca Reale di proprietà dello Stato, la Biblioteca civica centrale e molte collezioni specializzate come la Biblioteca internazionale di Cinema e fotografia Mario Gromo , la Biblioteca Nazionale del Club Alpino Italiano , la Biblioteca della Fondazione Luigi Einaudi , le biblioteche d'arte della Galleria civica d'arte moderna e contemporanea e dell' Accademia Albertina ."
                 ]
             }
         },
@@ -2233,7 +2379,7 @@
                 "class": "amenity",
                 "type": "library",
                 "snippet": [
-                    "*La Biblioteca nazionale di Torino e la Biblioteca Reale di proprietà dello Stato, la Biblioteca civica centrale e molte collezioni specializzate come la Biblioteca internazionale di cinema e fotografia Mario Gromo , la Biblioteca Nazionale del Club Alpino Italiano , la Biblioteca della Fondazione Luigi Einaudi , le biblioteche d'arte della Galleria civica d'arte moderna e contemporanea e dell' Accademia Albertina ."
+                    "*La Biblioteca nazionale di Torino e la Biblioteca Reale di proprietà dello Stato, la Biblioteca civica centrale e molte collezioni specializzate come la Biblioteca internazionale di Cinema e fotografia Mario Gromo , la Biblioteca Nazionale del Club Alpino Italiano , la Biblioteca della Fondazione Luigi Einaudi , le biblioteche d'arte della Galleria civica d'arte moderna e contemporanea e dell' Accademia Albertina ."
                 ]
             }
         },
@@ -2252,8 +2398,8 @@
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
-                    "*La Biblioteca nazionale di Torino e la Biblioteca Reale di proprietà dello Stato, la Biblioteca civica centrale e molte collezioni specializzate come la Biblioteca internazionale di cinema e fotografia Mario Gromo , la Biblioteca Nazionale del Club Alpino Italiano , la Biblioteca della Fondazione Luigi Einaudi , le biblioteche d'arte della Galleria civica d'arte moderna e contemporanea e dell' Accademia Albertina .",
-                    "*Per l'arte moderna e contemporanea vi sono la Galleria civica d'arte moderna e contemporanea (il secondo museo di arte moderna in Italia, con 5.000 dipinti e 400 sculture), il Museo civico d'arte antica di Palazzo Madama , la Fondazione Sandretto Re Rebaudengo contenente esposizioni degli artisti contemporanei provenienti da tutto il mondo e la Pinacoteca Giovanni e Marella Agnelli e la Fondazione Merz ."
+                    "*La Biblioteca nazionale di Torino e la Biblioteca Reale di proprietà dello Stato, la Biblioteca civica centrale e molte collezioni specializzate come la Biblioteca internazionale di Cinema e fotografia Mario Gromo , la Biblioteca Nazionale del Club Alpino Italiano , la Biblioteca della Fondazione Luigi Einaudi , le biblioteche d'arte della Galleria civica d'arte moderna e contemporanea e dell' Accademia Albertina .",
+                    "*Per l'arte moderna e contemporanea vi sono la Galleria civica d'arte moderna e contemporanea (il secondo Museo di arte moderna in Italia, con 5.000 dipinti e 400 sculture)"
                 ]
             }
         },
@@ -2311,7 +2457,7 @@
                 "class": "building",
                 "type": "yes",
                 "snippet": [
-                    "*L' Archivio di Stato di Torino custodisce i documenti della corte e dell'amministrazione sabauda, sin dall'epoca medievale."
+                    "*L' Archivio di Stato di Torino custodisce i documenti della corte e dell'Amministrazione sabauda, sin dall'epoca medievale."
                 ]
             }
         },
@@ -2331,7 +2477,7 @@
                 "type": "company",
                 "snippet": [
                     "*Circa un secolo dopo nacque il torinese Pier Giorgio Perotto , ideatore e progettista del primo \" personal computer \", la Programma 101 , e fu anche docente del Politecnico di Torino.",
-                    "*Il forte radicamento del settore automobilistico nel territorio è favorito anche da un sistema universitario con percorsi di studio esclusivi a livello nazionale (il Politecnico di Torino è l'unico in Italia ad avere un corso di laurea in Ingegneria dell'autoveicolo) e la presenza di importanti università di design come l' IED e l' IAAD .",
+                    "*Il forte radicamento del settore automobilistico nel territorio è favorito anche da un sistema universitario con percorsi di studio esclusivi a livello nazionale (il Politecnico di Torino è l'unico in Italia ad avere un corso di laurea in Ingegneria dell'autoveicolo) e la presenza di importanti Università di design come l' IED e l' IAAD .",
                     "*Alla già preesistente attività di ricerca del Politecnico di Torino , dell'Istituto Mario Boella, dell'Istituto Galileo Ferraris e del Centro Ricerche Fiat , si è affiancata l'attività del distretto informatico Torino Wireless che appartiene alla rete dei distretti italiani riconosciuti dal Ministero dell'Università e della Ricerca."
                 ]
             }
@@ -2356,9 +2502,29 @@
                     "*Nei due più importanti atenei cittadini, l' Università di Torino e il Politecnico , risultavano iscritti nel 2006 quasi 100.000 studenti.",
                     "*Per l'anno 2020/2021 l' Università di Torino contava oltre 81.700 iscritti mentre il Politecnico 33.102 , a cui vanno aggiunti gli iscritti ai corsi degli atenei minori.",
                     "*I principali istituti di studi superiori, oltre all'Università degli Studi e al Politecnico, sono: Accademia Albertina di belle arti ; Conservatorio Giuseppe Verdi ;",
-                    "Il forte radicamento del settore automobilistico nel territorio è favorito anche da un sistema universitario con percorsi di studio esclusivi a livello nazionale (il Politecnico di Torino è l'unico in Italia ad avere un corso di laurea in Ingegneria dell'autoveicolo) e la presenza di importanti università di design come l' IED e l' IAAD .",
+                    "Il forte radicamento del settore automobilistico nel territorio è favorito anche da un sistema universitario con percorsi di studio esclusivi a livello nazionale (il Politecnico di Torino è l'unico in Italia ad avere un corso di laurea in Ingegneria dell'autoveicolo) e la presenza di importanti Università di design come l' IED e l' IAAD .",
                     "Alla già preesistente attività di ricerca del Politecnico di Torino , dell'Istituto Mario Boella, dell'Istituto Galileo Ferraris e del Centro Ricerche Fiat , si è affiancata l'attività del distretto informatico Torino Wireless che appartiene alla rete dei distretti italiani riconosciuti dal Ministero dell'Università e della Ricerca.",
                     "*Un'altra operazione importante è stata la riconversione di una parte della superficie occupata dalla fabbrica di Mirafiori , sostenuta dal progetto Torino Nuova Economia che, anche grazie alla collaborazione con il Politecnico, ospita il Centro del design ."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.69297,
+                    45.069106
+                ]
+            },
+            "properties": {
+                "entity": "Museo del Cinema",
+                "name_location": "Museo Nazionale del Cinema, 20, Via Montebello, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10124, Italia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*Vi sono quattro musei nazionali ( Museo del Cinema , Museo dell'automobile , Museo della montagna , Museo del Risorgimento ) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio , l' Armeria Reale , ora ricompresa nei Musei Reali , il Museo d'Arte Orientale , il Museo dell'Astronomia e Planetario , il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello Sport .",
+                    "*Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il Museo del Cinema, il Museo Egizio e il Museo dell'Automobile) o sono in corso di rinnovamento:"
                 ]
             }
         },
@@ -2377,7 +2543,7 @@
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
-                    "*Vi sono quattro musei nazionali ( Museo del cinema , Museo dell'automobile , Museo della montagna , Museo del Risorgimento ) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio , l' Armeria Reale , ora ricompresa nei Musei Reali , il Museo d'Arte Orientale , il Museo dell'Astronomia e Planetario , il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport ."
+                    "*Vi sono quattro musei nazionali ( Museo del Cinema , Museo dell'automobile , Museo della montagna , Museo del Risorgimento ) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio , l' Armeria Reale , ora ricompresa nei Musei Reali , il Museo d'Arte Orientale , il Museo dell'Astronomia e Planetario , il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello Sport ."
                 ]
             }
         },
@@ -2396,7 +2562,7 @@
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
-                    "*Vi sono quattro musei nazionali ( Museo del cinema , Museo dell'automobile , Museo della montagna , Museo del Risorgimento ) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio , l' Armeria Reale , ora ricompresa nei Musei Reali , il Museo d'Arte Orientale , il Museo dell'Astronomia e Planetario , il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport ."
+                    "*Vi sono quattro musei nazionali ( Museo del Cinema , Museo dell'automobile , Museo della montagna , Museo del Risorgimento ) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio , l' Armeria Reale , ora ricompresa nei Musei Reali , il Museo d'Arte Orientale , il Museo dell'Astronomia e Planetario , il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello Sport ."
                 ]
             }
         },
@@ -2415,7 +2581,7 @@
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
-                    "*Vi sono quattro musei nazionali ( Museo del cinema , Museo dell'automobile , Museo della montagna , Museo del Risorgimento ) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio , l' Armeria Reale , ora ricompresa nei Musei Reali , il Museo d'Arte Orientale , il Museo dell'Astronomia e Planetario , il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport ."
+                    "*Vi sono quattro musei nazionali ( Museo del Cinema , Museo dell'automobile , Museo della montagna , Museo del Risorgimento ) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio , l' Armeria Reale , ora ricompresa nei Musei Reali , il Museo d'Arte Orientale , il Museo dell'Astronomia e Planetario , il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello Sport ."
                 ]
             }
         },
@@ -2435,7 +2601,7 @@
                 "type": "information",
                 "snippet": [
                     "Palazzo Reale e la zona di comando (o musei reali) ;",
-                    "*Vi sono quattro musei nazionali ( Museo del cinema , Museo dell'automobile , Museo della montagna , Museo del Risorgimento ) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio , l' Armeria Reale , ora ricompresa nei Musei Reali , il Museo d'Arte Orientale , il Museo dell'Astronomia e Planetario , il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport .",
+                    "*Vi sono quattro musei nazionali ( Museo del Cinema , Museo dell'automobile , Museo della montagna , Museo del Risorgimento ) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio , l' Armeria Reale , ora ricompresa nei Musei Reali , il Museo d'Arte Orientale , il Museo dell'Astronomia e Planetario , il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello Sport .",
                     "*Per l'arte figurativa è da citare la Galleria Sabauda , una delle più importanti pinacoteche d'Italia oggi parte dei Musei Reali , che ospita dipinti per il periodo che va dal XII al XVIII secolo."
                 ]
             }
@@ -2455,28 +2621,7 @@
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
-                    "*Vi sono quattro musei nazionali ( Museo del cinema , Museo dell'automobile , Museo della montagna , Museo del Risorgimento ) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio , l' Armeria Reale , ora ricompresa nei Musei Reali , il Museo d'Arte Orientale , il Museo dell'Astronomia e Planetario , il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport ."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.69297,
-                    45.069106
-                ]
-            },
-            "properties": {
-                "entity": "Museo del Cinema",
-                "name_location": "Museo Nazionale del Cinema, 20, Via Montebello, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10124, Italia",
-                "class": "tourism",
-                "type": "museum",
-                "snippet": [
-                    "Vi sono quattro musei nazionali ( Museo del cinema , Museo dell'automobile , Museo della montagna , Museo del Risorgimento ) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio , l' Armeria Reale , ora ricompresa nei Musei Reali , il Museo d'Arte Orientale , il Museo dell'Astronomia e Planetario , il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport .",
-                    "*Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il Museo del Cinema, il Museo Egizio e il Museo dell'Automobile) o sono in corso di rinnovamento:",
-                    "*Vi sono quattro musei nazionali ( Museo del cinema , Museo dell'automobile , Museo della montagna , Museo del Risorgimento ) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio , l' Armeria Reale , ora ricompresa nei Musei Reali , il Museo d'Arte Orientale , il Museo dell'Astronomia e Planetario , il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport ."
+                    "*Vi sono quattro musei nazionali ( Museo del Cinema , Museo dell'automobile , Museo della montagna , Museo del Risorgimento ) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio , l' Armeria Reale , ora ricompresa nei Musei Reali , il Museo d'Arte Orientale , il Museo dell'Astronomia e Planetario , il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello Sport ."
                 ]
             }
         },
@@ -2495,8 +2640,9 @@
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
-                    "Vi sono quattro musei nazionali ( Museo del cinema , Museo dell'automobile , Museo della montagna , Museo del Risorgimento ) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio , l' Armeria Reale , ora ricompresa nei Musei Reali , il Museo d'Arte Orientale , il Museo dell'Astronomia e Planetario , il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport .",
-                    "*Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il Museo del Cinema, il Museo Egizio e il Museo dell'Automobile) o sono in corso di rinnovamento:"
+                    "Vi sono quattro musei nazionali ( Museo del Cinema , Museo dell'automobile , Museo della montagna , Museo del Risorgimento ) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio , l' Armeria Reale , ora ricompresa nei Musei Reali , il Museo d'Arte Orientale , il Museo dell'Astronomia e Planetario , il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello Sport .",
+                    "*Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il Museo del Cinema, il Museo Egizio e il Museo dell'Automobile) o sono in corso di rinnovamento:",
+                    "*Vi sono quattro musei nazionali ( Museo del Cinema , Museo dell'automobile , Museo della montagna , Museo del Risorgimento ) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio , l' Armeria Reale , ora ricompresa nei Musei Reali , il Museo d'Arte Orientale , il Museo dell'Astronomia e Planetario , il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello Sport ."
                 ]
             }
         },
@@ -2553,7 +2699,7 @@
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
-                    "*Per l'arte moderna e contemporanea vi sono la Galleria civica d'arte moderna e contemporanea (il secondo museo di arte moderna in Italia, con 5.000 dipinti e 400 sculture), il Museo civico d'arte antica di Palazzo Madama , la Fondazione Sandretto Re Rebaudengo contenente esposizioni degli artisti contemporanei provenienti da tutto il mondo e la Pinacoteca Giovanni e Marella Agnelli e la Fondazione Merz ."
+                    "*, il Museo civico d'arte antica di Palazzo Madama , la Fondazione Sandretto Re Rebaudengo contenente esposizioni degli artisti contemporanei provenienti da tutto il mondo e la Pinacoteca Giovanni e Marella Agnelli e la Fondazione Merz ."
                 ]
             }
         },
@@ -2587,12 +2733,12 @@
                 ]
             },
             "properties": {
-                "entity": "museo Accorsi-Ometto",
+                "entity": "Museo Accorsi-Ometto",
                 "name_location": "Museo Accorsi Ometto, 55, Via Po, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10124, Italia",
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
-                    "*Il museo Accorsi-Ometto è una ricca collezione privata, ora aperta al pubblico, di opere collezionistiche e di arte decorativa."
+                    "*Il Museo Accorsi-Ometto è una ricca collezione privata, ora aperta al pubblico, di opere collezionistiche e di arte decorativa."
                 ]
             }
         },
@@ -2734,6 +2880,25 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.680481,
+                    45.064678
+                ]
+            },
+            "properties": {
+                "entity": "Media nazionale",
+                "name_location": "CNA Confederazione Nazionale dell'atigianato e della Piccola e Media Impresa (sede regionale), 366, Via Roma, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
+                "class": "office",
+                "type": "association",
+                "snippet": [
+                    "*La concentrazione di case editrici in città è superiore alla Media nazionale e tutt'oggi il 50% delle case editrici scolastiche e universitarie italiane ha sede a Torino, con un'incidenza del 30% del Mercato librario scolastico nazionale."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.662187,
                     45.063088
                 ]
@@ -2860,7 +3025,7 @@
                 "class": "historic",
                 "type": "manor",
                 "snippet": [
-                    "*Nel 1956 venne aperto il Museo nazionale del cinema , dapprima ospitato a Palazzo Chiablese e poi, dal 2000 , nell'imponente sede della Mole Antonelliana ."
+                    "*Nel 1956 venne aperto il Museo nazionale del Cinema , dapprima ospitato a Palazzo Chiablese e poi, dal 2000 , nell'imponente sede della Mole Antonelliana ."
                 ]
             }
         },
@@ -2901,7 +3066,8 @@
                     "Nel 1765 Benedetto Alfieri ebbe l'incarico di rifare i portici di piazza Palazzo di Città mentre nel corso del XIX secolo si aggiunsero quelli dell'attuale piazza Vittorio Veneto , piazza Carlo Felice e piazza Statuto .",
                     "*Sono numerosi i luoghi riconoscibili della città, come Piazza Statuto , Piazza Cavour e Corso Francia .",
                     "La Fontana del Frejus di Piazza Statuto fu ideata dal conte Marcello Panissera per ricordare l'inaugurazione dell'omonimo traforo ed è indicata dagli esoteristi come il \"cuore nero\" della città, per due motivi:",
-                    "Ospitava infatti il patibolo, che rimase per secoli in piazza Statuto e che venne poi spostato dai francesi all'incrocio tra corso Regina Margherita e Via Cigna:"
+                    "Ospitava infatti il patibolo, che rimase per secoli in piazza Statuto e che venne poi spostato dai francesi all'incrocio tra corso Regina Margherita e Via Cigna:",
+                    "*La tradizione racconta che l'angelo che sovrasta l'obelisco, e sul cui capo è posta una stella a cinque punte, sia Lucifero , in effetti l'angelo più bello, e che quindi in Piazza Statuto, sotto la Fontana del Frejus, si trovi la porta dell'inferno."
                 ]
             }
         },
@@ -2921,27 +3087,6 @@
                 "type": "residential",
                 "snippet": [
                     "*Sono numerosi i luoghi riconoscibili della città, come Piazza Statuto , Piazza Cavour e Corso Francia ."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.687956,
-                    45.070592
-                ]
-            },
-            "properties": {
-                "entity": "Teatro Regio",
-                "name_location": "Teatro Regio, Via Carlo Alberto, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
-                "class": "tourism",
-                "type": "attraction",
-                "snippet": [
-                    "Fra i teatri maggiori, con una capienza superiore a 400 posti, vi sono il teatro Regio , in cui si tenne la prima de La bohème di Puccini , il teatro Carignano , il teatro Alfieri e il teatro Colosseo ; importante, poi, è il teatro Gobetti , sede principale del sopracitato teatro stabile cittadino.",
-                    "*Le scene all’interno del teatro, però, sono state girate al Teatro Regio di Torino .",
-                    "*L'ente lirico di Torino è il Teatro Regio , mentre la principale orchestra sinfonica cittadina è l' Orchestra sinfonica nazionale della RAI , che si esibisce all' Auditorium della RAI ."
                 ]
             }
         },
@@ -2988,8 +3133,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.694123,
-                    45.073716
+                    7.694406,
+                    45.074109
                 ]
             },
             "properties": {
@@ -3057,7 +3202,7 @@
                 "class": "leisure",
                 "type": "park",
                 "snippet": [
-                    "*Nato come evento artistico nel 2009, è, dal 2012 , un festival di musica elettronica diurno che si svolge al Parco Dora ."
+                    "*Nato come Evento artistico nel 2009, è, dal 2012 , un festival di Musica elettronica diurno che si svolge al Parco Dora ."
                 ]
             }
         },
@@ -3096,7 +3241,7 @@
                 "type": "bus_stop",
                 "snippet": [
                     "*Per gli esoteristi la magia positiva di Torino nasce dal \"cuore bianco\" di piazza Castello, dal Duomo che custodisce la Sacra Sindone alla Gran Madre di Dio e fino alla Mole Antonelliana , che indica il cielo.",
-                    "Ai lati della scalinata che conduce all'ingresso della chiesa della Gran Madre di Dio troviamo le due statue raffiguranti la Fede e la Religione, tra le quali si troverebbe il nascondiglio del Graal ."
+                    "Ai lati della scalinata che conduce all'ingresso della Chiesa della Gran Madre di Dio troviamo le due statue raffiguranti la Fede e la Religione, tra le quali si troverebbe il nascondiglio del Graal ."
                 ]
             }
         },
@@ -3116,7 +3261,7 @@
                 "type": "bicycle_rental",
                 "snippet": [
                     "*Fiera dedicata a minerali, fossili, pietre preziose e bigiotteria, vero punto di riferimento per studiosi e appassionati di geologia , che si svolge a Torino da oltre cinquant'anni, solitamente il primo fine settimana di Ottobre, ospitata nel corso degli anni in varie sedi, dal vecchio \" Palazzo a Vela \", al Lingotto Fiere , fino al PalaAlpitour .",
-                    "Salone e mostra mercato del fumetto, nata nel 1994, che si svolge in primavera al Lingotto Fiere di Torino.",
+                    "Salone e mostra Mercato del fumetto, nata nel 1994, che si svolge in primavera al Lingotto Fiere di Torino.",
                     "*Contemporaneamente a tale occasione, dal 30 giugno al 2 luglio, al Lingotto Fiere si è svolto il \"XXIII congresso mondiale degli architetti\", accompagnato dalla mostra \"Architetture sensibili\", inaugurata il 26 luglio nel Castello di Rivara ."
                 ]
             }
@@ -3536,36 +3681,7 @@
                 "class": "shop",
                 "type": "shoes",
                 "snippet": [
-                    "*A Torino o nella sua città metropolitana hanno sede legale anche diverse filiali italiane di società estere come Suzuki , Vodafone Italia , Bavaria , Diageo , Michelin , Kimberly-Clark , Petronas , Mizuno e SKF ."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.689502,
-                    45.066435
-                ]
-            },
-            "properties": {
-                "entity": "Metropolitana",
-                "name_location": "Torino, Piazza Carlo Emanuele Secondo, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
-                "class": "tourism",
-                "type": "information",
-                "snippet": [
-                    "Torino ( IPA : , ; Turin in piemontese , ) è un comune italiano di 844 056 abitanti (al 31 agosto 2022) , quarto comune italiano per popolazione e capoluogo della regione Piemonte e dell' omonima città metropolitana .",
-                    "Cuore di un' area metropolitana che conta circa 1,7 milioni di abitanti , Torino è il terzo complesso economico - produttivo del Paese (insieme a Milano e Genova componeva il triangolo industriale negli anni del boom economico ) e costituisce uno dei maggiori poli universitari , artistici , turistici , scientifici e culturali d' Italia .",
-                    "Ciò non è dipeso soltanto dal ritorno di molti immigrati del Mezzogiorno nelle loro regioni di origine, ma dagli spostamenti avvenuti da Torino verso quella che poi divenne l' area metropolitana , determinando così l'espansione dei comuni della seconda ( Vinovo , Candiolo , Orbassano , Rivalta di Torino , Rivoli , Alpignano , Pianezza , Druento , Caselle Torinese ) e della prima cintura ( Moncalieri , Nichelino , Beinasco , Grugliasco , Collegno , Venaria Reale , Borgaro Torinese , Settimo Torinese , San Mauro Torinese ).",
-                    "Inoltre, i comuni di cintura dell'area urbana e metropolitana cittadina possiedono un sistema bibliotecario integrato denominato SBAM (Sistema Bibliotecario Area Metropolitana) composto di 65 biblioteche per un totale di circa 1.700.000 documenti.",
-                    "A Torino o nella sua città metropolitana hanno sede legale anche diverse filiali italiane di società estere come Suzuki , Vodafone Italia , Bavaria , Diageo , Michelin , Kimberly-Clark , Petronas , Mizuno e SKF .",
-                    "*Grandi opere pubbliche come quelle per il Passante Ferroviario , la Metropolitana e le Spine hanno ridisegnato e stanno ridisegnando il volto della città.",
-                    "Il servizio ferroviario metropolitano di Torino (SFM) è un sistema di trasporto pubblico locale della Città Metropolitana di Torino coordinato dall' Agenzia Mobilità Metropolitana ed interamente finanziato dalla Regione Piemonte .",
-                    "Il SFM offre un collegamento fra le diverse zone del Torinese e delle contigue province di Cuneo e Asti, permettendo coincidenze cadenzate tra i treni del servizio ferroviario regionale del Piemonte , i treni a lunga percorrenza ed AV, la rete tranviaria di Torino e autobus urbani, con autobus extraurbani e la metropolitana di Torino .",
-                    "Nel territorio comunale di Torino il sistema di mobilità metropolitana e ferroviaria urbana si sviluppa complessivamente per 29 km, articolati su 8 linee servite da 28 stazioni.",
-                    "Per i suoi acquisti verdi la città di Torino ha raggiunto il secondo posto dell' European Gpp Award del 2016 , alle spalle delle città di Vienna e davanti alla città metropolitana di Torino .",
-                    "A Torino è in funzione la prima metropolitana automatica d'Italia utilizzante veicoli leggeri, frequenti e senza conducente."
+                    "*A Torino o nella sua città Metropolitana hanno sede legale anche diverse filiali italiane di Società estere come Suzuki , Vodafone Italia , Bavaria , Diageo , Michelin , Kimberly-Clark , Petronas , Mizuno e SKF ."
                 ]
             }
         },
@@ -3669,18 +3785,66 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.689502,
-                    45.066435
+                    7.68529,
+                    45.06091
                 ]
             },
             "properties": {
                 "entity": "Città Metropolitana di Torino",
-                "name_location": "Torino, Piazza Carlo Emanuele Secondo, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
-                "class": "tourism",
-                "type": "information",
+                "name_location": "Torino (v. Accad. Albertina/C.so Vittorio), Via Accademia Albertina, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
+                "class": "highway",
+                "type": "bus_stop",
                 "snippet": [
                     "*Il servizio ferroviario metropolitano di Torino (SFM) è un sistema di trasporto pubblico locale della Città Metropolitana di Torino coordinato dall' Agenzia Mobilità Metropolitana ed interamente finanziato dalla Regione Piemonte .",
-                    "Per i suoi acquisti verdi la città di Torino ha raggiunto il secondo posto dell' European Gpp Award del 2016 , alle spalle delle città di Vienna e davanti alla città metropolitana di Torino ."
+                    "Per i suoi acquisti verdi la città di Torino ha raggiunto il secondo posto dell' European Gpp Award del 2016 , alle spalle delle città di Vienna e davanti alla città Metropolitana di Torino ."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.68529,
+                    45.06091
+                ]
+            },
+            "properties": {
+                "entity": "Metropolitana di Torino",
+                "name_location": "Torino (v. Accad. Albertina/C.so Vittorio), Via Accademia Albertina, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "Il servizio ferroviario metropolitano di Torino (SFM) è un sistema di trasporto pubblico locale della Città Metropolitana di Torino coordinato dall' Agenzia Mobilità Metropolitana ed interamente finanziato dalla Regione Piemonte .",
+                    "*Il SFM offre un collegamento fra le diverse zone del Torinese e delle contigue province di Cuneo e Asti, permettendo coincidenze cadenzate tra i treni del servizio ferroviario regionale del Piemonte , i treni a lunga percorrenza ed AV, la rete tranviaria di Torino e autobus urbani, con autobus extraurbani e la Metropolitana di Torino .",
+                    "*Per i suoi acquisti verdi la città di Torino ha raggiunto il secondo posto dell' European Gpp Award del 2016 , alle spalle delle città di Vienna e davanti alla città Metropolitana di Torino ."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.662185,
+                    45.115371
+                ]
+            },
+            "properties": {
+                "entity": "Aeroporto",
+                "name_location": "Strada dell'Aeroporto, Barriera di Lanzo, Circoscrizione 5, Torino, Piemonte, 10148, Italia",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "Un gruppo di ladri inglesi arriva a Torino a bordo di tre Mini Cooper per organizzare una rapina ai danni di un convoglio che trasporta i ricavi della FIAT dall' Aeroporto di Torino-Caselle fino alla città.",
+                    "A21 Torino - Alessandria - Piacenza - Brescia ; A32 Torino - Susa - Bardonecchia - Traforo stradale del Frejus ; RA10 Torino - Caselle Torinese - Aeroporto di Torino-Caselle .",
+                    "La tratta urbana di competenza del GTT è quella che parte da Torino Dora e che va sino alla periferia Nord al confine con il comune di Venaria Reale (direzione Caselle Torinese - Aeroporto Sandro Pertini - Ceres ).",
+                    "*L' Aeroporto di Torino-Caselle , un Aeroporto di medie dimensioni (200-300 ettari, 1-5 milioni di passeggeri all'anno) inaugurato nel 1953 .",
+                    "È presente anche l' Aeroporto di Torino-Cuneo , in provincia di Cuneo, che fa riferimento al capoluogo piemontese come secondo Aeroporto del Piemonte.",
+                    "Inoltre, è presente l' Aeroporto di Torino-Aeritalia :",
+                    "Inaugurato nel 1916 , dopo la costruzione dell'Aeroporto di Caselle è rimasto in uso come struttura di aviazione generale e da Turismo, affiancato da una scuola di volo per aerei ed elicotteri e dalla sede dei velivoli di elisoccorso e protezione civile .",
+                    "*L'Aeroporto, a causa dei forti danni strutturali subiti durante i bombardamenti della seconda guerra mondiale , venne dismesso nel 1947 e l'area venne data in gestione al CNR fino all'anno 1976 , quando venne convertita a Parco pubblico intitolato a Gustavo Colonnetti .",
+                    "Torino Piossasco - Aeroporto Cerrina (Codice ICAO :"
                 ]
             }
         },
@@ -3700,6 +3864,26 @@
                 "type": "atm",
                 "snippet": [
                     "*La rete di trasporti di Torino è gestita dal GTT, acronimo di Gruppo Torinese Trasporti , nato nel 2003 dalla fusione di ATM e SATTI ."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.664628,
+                    45.081679
+                ]
+            },
+            "properties": {
+                "entity": "Barcellona",
+                "name_location": "Piazza Barcellona, Basso San Donato, Circoscrizione 4, Torino, Piemonte, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "I più importanti per ampiezza e giro d'affari si svolgono in Piazza Benefica , in Corso Alcide De Gasperi , in via Onorato Vigliani, in corso Svizzera, in Corso Racconigi e in piazza Barcellona.",
+                    "*; Barcellona , Spagna , dal 2005 ;"
                 ]
             }
         },
@@ -3813,7 +3997,7 @@
                 "class": "leisure",
                 "type": "stadium",
                 "snippet": [
-                    "*Una menzione speciale, infine, merita lo stadio Filadelfia , teatro del ciclo di vittorie del Grande Torino negli anni quaranta del XX secolo ."
+                    "*Una menzione speciale, infine, merita lo stadio Filadelfia , Teatro del ciclo di vittorie del Grande Torino negli anni quaranta del XX secolo ."
                 ]
             }
         },

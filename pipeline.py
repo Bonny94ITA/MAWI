@@ -64,7 +64,7 @@ for city in cities:
         features = search_entities(searchable_entities, context, city, features)
     
     """
-    #save_results(features, context)
+    save_results(features, context)
 
 
     

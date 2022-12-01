@@ -102,6 +102,12 @@ def get_entities_snippet(nlp_text, cities: list, entities_to_search_prev = dict(
     sents = list(nlp_text.sents)
     ents = list(nlp_text.ents)
     sentence_dict = generate_sentences_dictionary(sents)
+
+    with open('Sentences.csv', 'w', encoding='utf-8') as csvfile:
+        writer = csv.writer(csvfile)
+        for index, sent in sentence_dict.items():
+            writer.writerow([index, sent])
+
     ents = clean_entities(ents, cities, sentence_dict)
     
     for ent in ents:    
@@ -585,6 +591,9 @@ def create_whitelist(headlines: list):
 
     return whitelist
 
+def not_headline_chiarimento(css_class): 
+    return css_class != "chiarimento"
+
 def clean_html(soup: BeautifulSoup):
     """ Clean html from soup
     
@@ -641,9 +650,9 @@ def clean_html(soup: BeautifulSoup):
 
     # delete other spans
 
-    for span in soup.find_all('span'):
-        if span.class_ != 'mw-headline':
-            span.decompose()
+    for span in soup.find_all('span', class_ = not_headline_chiarimento):
+        span.decompose()
+        
 
     # Table
     for table in soup.find_all('table'):

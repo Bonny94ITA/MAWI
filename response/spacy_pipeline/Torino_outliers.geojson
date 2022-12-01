@@ -160,6 +160,25 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.483975,
+                    45.115856
+                ]
+            },
+            "properties": {
+                "entity": "Strada romana",
+                "name_location": "Strada Romana, Caselette, Torino, Piemonte, 10091, Italia",
+                "class": "highway",
+                "type": "unclassified",
+                "snippet": [
+                    "*In epoca romana il territorio di Torino era il terminale di un'importante Strada romana , la via Gallica ."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.88452,
                     45.156374
                 ]
@@ -248,7 +267,7 @@
                 "class": "aeroway",
                 "type": "aerodrome",
                 "snippet": [
-                    "Il 19 marzo 2016 l' UNESCO ha riconosciuto il parco del Po e la collina torinese come riserva della biosfera , mentre nel 2020 la FAO e l'Arbor Day Foundation hanno conferito alla città di Torino il riconoscimento di Tree City of the World 2019 .",
+                    "Il 19 marzo 2016 l' UNESCO ha riconosciuto il Parco del Po e la collina torinese come riserva della biosfera , mentre nel 2020 la FAO e l'Arbor Day Foundation hanno conferito alla città di Torino il riconoscimento di Tree City of the World 2019 .",
                     "*Lo stemma della Città di Torino, approvato dallo Stato con decreto dell'11 agosto 1931 , è costituito da uno scudo svizzero azzurro a cui è sovrapposto un toro rampante d'oro, con le corna d'argento e con la corona comitale a nove perle.",
                     "La città di Torino è la quinta tra le ventisette Città decorate di medaglia d'oro come \"benemerite del Risorgimento nazionale\" per le azioni patriottiche che ebbero luogo nella città nel periodo del Risorgimento :",
                     "A differenza della stragrande maggioranza delle città italiane, che hanno una struttura viaria concentrica, con uno sviluppo di arterie radiali culminanti nel centro cittadino , sede delle principali attività pubbliche, il reticolo viario della città di Torino disegna una pianta a scacchiera , le sue vie cioè si sviluppano in linea retta incrociandosi a 90° con un orientamento simile a quello del castrum romano:",
@@ -262,8 +281,9 @@
                     "*La Città di Torino ha ospitato l'Eurofestival presso il PalaOlimpico (PalaAlpitour o PalaIsozaki), in seguito alla vittoria dei Måneskin con Zitti e buoni nell' edizione precedente ;",
                     "La città di Torino è suddivisa in 92 zone statistiche e relativi quartieri cittadini.",
                     "Attualmente la città di Torino dispone di uno scalo aereo internazionale:",
-                    "Per i suoi acquisti verdi la città di Torino ha raggiunto il secondo posto dell' European Gpp Award del 2016 , alle spalle delle città di Vienna e davanti alla città metropolitana di Torino .",
-                    "La città di Torino ha una lunga tradizione sportiva, sede di alcune fra le prime società sportive italiane, di club pluripremiati e luogo di eventi internazionali di massimo rilievo.",
+                    "Per i suoi acquisti verdi la città di Torino ha raggiunto il secondo posto dell' European Gpp Award del 2016 , alle spalle delle città di Vienna e davanti alla città Metropolitana di Torino .",
+                    "La città di Torino dispone di circa 1600 Taxi con servizio h24.",
+                    "La città di Torino ha una lunga tradizione sportiva, sede di alcune fra le prime Società sportive italiane, di club pluripremiati e luogo di eventi internazionali di massimo rilievo.",
                     "Alla città di Torino è stato dedicato l'asteroide 9523 Torino , in riferimento all' omonima scala di pericolosità degli oggetti di tipo NEO ( near-Earth object )."
                 ]
             }
@@ -394,6 +414,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.63809,
+                    45.12651
+                ]
+            },
+            "properties": {
+                "entity": "Cimitero di Torino",
+                "name_location": "Cimitero, Corso Giuseppe Garibaldi, Altessano, Venaria Reale, Torino, Piemonte, 10078, Italia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*Sito in Corso Novara, 135 (quartiere Regio Parco ), è il primo Cimitero di Torino per dimensioni;",
+                    "*Costruito nel 1972 nella zona all'estremo sud di Torino, è il secondo Cimitero di Torino per dimensioni ;"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.621391,
                     45.011527
                 ]
@@ -427,8 +467,8 @@
                     "Il Monviso , monte sul quale nasce il Po, il Rocciamelone , e i massicci del Gran Paradiso e del Monte Rosa , mentre il Cervino diventa visibile dalla zona sud-est dell'area urbana.",
                     "*Dopo il secondo dopoguerra Torino fu il simbolo della crescita economica dell'Italia , tanto che riuscì ad attirare centinaia di migliaia di emigranti dal Sud dell'Italia e dal Veneto per via delle richieste di manodopera negli stabilimenti automobilistici (circa mezzo milione nel ventennio 1951-1971).",
                     "Un cardo maximus (direzione nord-sud) ed un decumanus maximus (direzione est-ovest), incrociantisi al centro del castrum , e parallele alle quali dovevano svilupparsi tutte le altre vie interne al castrum .",
-                    "Costruito nel 1972 nella zona all'estremo sud di Torino, è il secondo cimitero di Torino per dimensioni ;",
-                    "Piccolo cimitero sito in corso Unione Sovietica 650, nella zona Sud di Torino ;",
+                    "Costruito nel 1972 nella zona all'estremo sud di Torino, è il secondo Cimitero di Torino per dimensioni ;",
+                    "Piccolo Cimitero sito in corso Unione Sovietica 650, nella zona Sud di Torino ;",
                     "La città è sede d'importanti centri dell' ONU , ospitati in un unico campus nella zona sud di Torino.",
                     "*Un fedele ritratto della Torino del boom economico e della forte immigrazione dal Sud.",
                     "Santa Rita - Mirafiori Nord - Mirafiori Sud ;",
@@ -470,7 +510,7 @@
                 "class": "amenity",
                 "type": "cafe",
                 "snippet": [
-                    "*Fra questi il teatro Balbo e il teatro di Torino , distrutti durante un bombardamento nel 1943 , il teatro Rossini , bruciato in un incendio nel 1941 , i teatri Adua , Gianduja , Gerbino e Arena torinese, smantellati, e, infine, il teatro Nazionale riconvertito a cinema;"
+                    "*Fra questi il Teatro Balbo e il Teatro di Torino , distrutti durante un bombardamento nel 1943 , il Teatro Rossini , bruciato in un incendio nel 1941 , i teatri Adua , Gianduja , Gerbino e Arena torinese, smantellati, e, infine, il Teatro Nazionale riconvertito a Cinema;"
                 ]
             }
         },
@@ -509,7 +549,7 @@
                 "class": "natural",
                 "type": "tree",
                 "snippet": [
-                    "*Torino ospita anche alberi esotici secolari come le sequoie costali ( Sequoia sempervirens ) dei parchi collinari di Villa Genero e Giacomo Leopardi, i numerosi esemplari di Noce del Caucaso ( Pterocarya fraxinifolia ) che costeggiano il Po e compaiono in parchi pubblici come i Giardini Cavour , il giardino Sambuy , i Giardini Reali Bassi (lungo Corso San Maurizio), il parco Millefonti ."
+                    "*Torino ospita anche alberi esotici secolari come le sequoie costali ( Sequoia sempervirens ) dei parchi collinari di Villa Genero e Giacomo Leopardi, i numerosi esemplari di Noce del Caucaso ( Pterocarya fraxinifolia ) che costeggiano il Po e compaiono in parchi pubblici come i Giardini Cavour , il giardino Sambuy , i Giardini Reali Bassi (lungo Corso San Maurizio), il Parco Millefonti ."
                 ]
             }
         },
@@ -646,7 +686,7 @@
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
-                    "*Vi sono quattro musei nazionali ( Museo del cinema , Museo dell'automobile , Museo della montagna , Museo del Risorgimento ) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio , l' Armeria Reale , ora ricompresa nei Musei Reali , il Museo d'Arte Orientale , il Museo dell'Astronomia e Planetario , il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport .",
+                    "*Vi sono quattro musei nazionali ( Museo del Cinema , Museo dell'automobile , Museo della montagna , Museo del Risorgimento ) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio , l' Armeria Reale , ora ricompresa nei Musei Reali , il Museo d'Arte Orientale , il Museo dell'Astronomia e Planetario , il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello Sport .",
                     "Da ricordare il Museo dell'astronomia e Planetario di Torino , che sorge accanto dell' Osservatorio astronomico di Torino a Pino Torinese , cittadina collinare nei pressi immediati del capoluogo piemontese."
                 ]
             }
@@ -666,7 +706,7 @@
                 "class": "building",
                 "type": "yes",
                 "snippet": [
-                    "*Vi sono quattro musei nazionali ( Museo del cinema , Museo dell'automobile , Museo della montagna , Museo del Risorgimento ) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio , l' Armeria Reale , ora ricompresa nei Musei Reali , il Museo d'Arte Orientale , il Museo dell'Astronomia e Planetario , il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport .",
+                    "*Vi sono quattro musei nazionali ( Museo del Cinema , Museo dell'automobile , Museo della montagna , Museo del Risorgimento ) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio , l' Armeria Reale , ora ricompresa nei Musei Reali , il Museo d'Arte Orientale , il Museo dell'Astronomia e Planetario , il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello Sport .",
                     "Da ricordare il Museo dell'astronomia e Planetario di Torino , che sorge accanto dell' Osservatorio astronomico di Torino a Pino Torinese , cittadina collinare nei pressi immediati del capoluogo piemontese."
                 ]
             }
@@ -781,7 +821,7 @@
                 "class": "amenity",
                 "type": "cinema",
                 "snippet": [
-                    "*Sono nati a Torino il primo cinema d'essai italiano (il Romano nella Galleria Subalpina , nel 1971 ), la principale associazione cinematografica nazionale (l' Aiace Torino ) e la prima multisala del Paese (l'Eliseo, nel 1983 )."
+                    "*Sono nati a Torino il primo Cinema d'essai italiano (il Romano nella Galleria Subalpina , nel 1971 ), la principale associazione cinematografica nazionale (l' Aiace Torino ) e la prima multisala del Paese (l'Eliseo, nel 1983 )."
                 ]
             }
         },
@@ -802,7 +842,7 @@
                 "snippet": [
                     "*Un gruppo di ladri inglesi arriva a Torino a bordo di tre Mini Cooper per organizzare una rapina ai danni di un convoglio che trasporta i ricavi della FIAT dall' Aeroporto di Torino-Caselle fino alla città.",
                     "A21 Torino - Alessandria - Piacenza - Brescia ; A32 Torino - Susa - Bardonecchia - Traforo stradale del Frejus ; RA10 Torino - Caselle Torinese - Aeroporto di Torino-Caselle .",
-                    "*L' Aeroporto di Torino-Caselle , un aeroporto di medie dimensioni (200-300 ettari, 1-5 milioni di passeggeri all'anno) inaugurato nel 1953 ."
+                    "*L' Aeroporto di Torino-Caselle , un Aeroporto di medie dimensioni (200-300 ettari, 1-5 milioni di passeggeri all'anno) inaugurato nel 1953 ."
                 ]
             }
         },
@@ -849,6 +889,25 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.620063,
+                    45.135826
+                ]
+            },
+            "properties": {
+                "entity": "Musica",
+                "name_location": "Boschetto della Musica, Venaria Reale, Torino, Piemonte, Italia",
+                "class": "natural",
+                "type": "wood",
+                "snippet": [
+                    "*Musica )."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.678898,
                     44.998647
                 ]
@@ -868,17 +927,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.620063,
-                    45.135826
+                    6.695031,
+                    45.12562
                 ]
             },
             "properties": {
-                "entity": "Musica",
-                "name_location": "Boschetto della Musica, Venaria Reale, Torino, Piemonte, Italia",
+                "entity": "Fontana del Frejus",
+                "name_location": "Funtan del Cantun, Traforo del Frejus, Grangia Gravière, Bardonecchia, Torino, Piemonte, 10052, Italia",
                 "class": "natural",
-                "type": "wood",
+                "type": "spring",
                 "snippet": [
-                    "*Musica )."
+                    "La Fontana del Frejus di Piazza Statuto fu ideata dal conte Marcello Panissera per ricordare l'inaugurazione dell'omonimo traforo ed è indicata dagli esoteristi come il \"cuore nero\" della città, per due motivi:",
+                    "*La tradizione racconta che l'angelo che sovrasta l'obelisco, e sul cui capo è posta una stella a cinque punte, sia Lucifero , in effetti l'angelo più bello, e che quindi in Piazza Statuto, sotto la Fontana del Frejus, si trovi la porta dell'inferno."
                 ]
             }
         },
@@ -993,7 +1053,7 @@
                 "type": "yes",
                 "snippet": [
                     "*Considerata una delle capitali europee dell'automobile, a Torino e cintura sono presenti alcune delle più importanti aziende del settore: FIAT , Comau , Teksid , Magneti Marelli , Italdesign Giugiaro , Pininfarina , Iveco .",
-                    "*Importante anche il contributo dell'automazione industriale alla crescente internazionalizzazione dell'economia torinese, con la presenza di aziende come Prima Industrie e Comau , con quest'ultima (tra le prime 4 in Europa per fatturato ) che realizza in tutto il mondo robot per i principali gruppi automobilistici."
+                    "*Importante anche il contributo dell'automazione industriale alla crescente internazionalizzazione dell'Economia torinese, con la presenza di aziende come Prima Industrie e Comau , con quest'ultima (tra le prime 4 in Europa per fatturato ) che realizza in tutto il mondo robot per i principali gruppi automobilistici."
                 ]
             }
         },
@@ -1050,7 +1110,7 @@
                 "class": "landuse",
                 "type": "industrial",
                 "snippet": [
-                    "*A Torino o nella sua città metropolitana hanno sede legale anche diverse filiali italiane di società estere come Suzuki , Vodafone Italia , Bavaria , Diageo , Michelin , Kimberly-Clark , Petronas , Mizuno e SKF ."
+                    "*A Torino o nella sua città Metropolitana hanno sede legale anche diverse filiali italiane di Società estere come Suzuki , Vodafone Italia , Bavaria , Diageo , Michelin , Kimberly-Clark , Petronas , Mizuno e SKF ."
                 ]
             }
         },
@@ -1298,16 +1358,16 @@
                 "class": "highway",
                 "type": "bus_stop",
                 "snippet": [
-                    "Il 19 marzo 2016 l' UNESCO ha riconosciuto il parco del Po e la collina torinese come riserva della biosfera , mentre nel 2020 la FAO e l'Arbor Day Foundation hanno conferito alla città di Torino il riconoscimento di Tree City of the World 2019 .",
+                    "Il 19 marzo 2016 l' UNESCO ha riconosciuto il Parco del Po e la collina torinese come riserva della biosfera , mentre nel 2020 la FAO e l'Arbor Day Foundation hanno conferito alla città di Torino il riconoscimento di Tree City of the World 2019 .",
                     "Dagli anni novanta in poi l'estate torinese ha subito un riscaldamento.",
                     "Il 13 settembre 2008 l'Osservatorio Meteorologico di Caselle Torinese , 14 km a nord-ovest di Torino, registrò una pioggia temporalesca di 220 mm in sei ore, quantitativo senza precedenti noti nella pianura torinese.",
                     "Mastio della Cittadella , unico edificio superstite del complesso sistema difensivo torinese, edificato a partire dal 1564 in uno stile a cavallo fra quello rinascimentale e quello barocco.",
-                    "Fra questi il teatro Balbo e il teatro di Torino , distrutti durante un bombardamento nel 1943 , il teatro Rossini , bruciato in un incendio nel 1941 , i teatri Adua , Gianduja , Gerbino e Arena torinese, smantellati, e, infine, il teatro Nazionale riconvertito a cinema;",
+                    "Fra questi il Teatro Balbo e il Teatro di Torino , distrutti durante un bombardamento nel 1943 , il Teatro Rossini , bruciato in un incendio nel 1941 , i teatri Adua , Gianduja , Gerbino e Arena torinese, smantellati, e, infine, il Teatro Nazionale riconvertito a Cinema;",
                     "Nel 2011 il regista torinese Daniele Gaglianone ha realizzato il film documentario Uomini e mercati centrato sui mercati di Porta Palazzo, Piazza Benefica e Corso Spezia .",
                     "Attorno alla città, ad anello, vi sono il Parco della Mandria e il Parco della Palazzina di caccia di Stupinigi , antiche riserve di caccia dei Savoia, e quelli situati sulla collina torinese quali il Parco della Rimembranza o il Parco Europa .",
                     "L'itinerario, fra i preferiti nel Medioevo, valicato lo spartiacque Francia/Italia al Colle del Moncenisio , giunge dalla Valle di Susa terra delle grandi abbazie come Novalesa , Sacra di San Michele e Sant'Antonio di Ranverso e passando per Torino lungo il Parco Colletta tende a San Mauro Torinese e poi verso Chivasso e successivamente a Vercelli , dove si congiunge con l'altro ramo della Francigena, quella proveniente dal Colle del Gran San Bernardo .",
                     "Nel 1974 la popolazione torinese toccò il suo massimo con 1.202.846 abitanti.",
-                    "Ciò non è dipeso soltanto dal ritorno di molti immigrati del Mezzogiorno nelle loro regioni di origine, ma dagli spostamenti avvenuti da Torino verso quella che poi divenne l' area metropolitana , determinando così l'espansione dei comuni della seconda ( Vinovo , Candiolo , Orbassano , Rivalta di Torino , Rivoli , Alpignano , Pianezza , Druento , Caselle Torinese ) e della prima cintura ( Moncalieri , Nichelino , Beinasco , Grugliasco , Collegno , Venaria Reale , Borgaro Torinese , Settimo Torinese , San Mauro Torinese ).",
+                    "Ciò non è dipeso soltanto dal ritorno di molti immigrati del Mezzogiorno nelle loro regioni di origine, ma dagli spostamenti avvenuti da Torino verso quella che poi divenne l' area Metropolitana , determinando così l'espansione dei comuni della seconda ( Vinovo , Candiolo , Orbassano , Rivalta di Torino , Rivoli , Alpignano , Pianezza , Druento , Caselle Torinese ) e della prima cintura ( Moncalieri , Nichelino , Beinasco , Grugliasco , Collegno , Venaria Reale , Borgaro Torinese , Settimo Torinese , San Mauro Torinese ).",
                     "Circa un secolo dopo nacque il torinese Pier Giorgio Perotto , ideatore e progettista del primo \" personal computer \", la Programma 101 , e fu anche docente del Politecnico di Torino.",
                     "Il polo universitario torinese è uno dei principali in Italia.",
                     "Da ricordare il Museo dell'astronomia e Planetario di Torino , che sorge accanto dell' Osservatorio astronomico di Torino a Pino Torinese , cittadina collinare nei pressi immediati del capoluogo piemontese.",
@@ -1316,14 +1376,14 @@
                     "Ispirandosi sempre a questo film, nell'episodio La zingara di Budapest della serie TV MacGyver , fu riprodotto il famoso inseguimento nel traffico torinese, rifacendo alcune scene ed utilizzando anche scene della pellicola originale, come l'inseguimento sulla pista di collaudo automobilistico sita sul tetto dell'ex stabilimento FIAT del Lingotto .",
                     "La cucina tipica torinese è una cucina ricca ed elaborata.",
                     "In territorio torinese ci sono centri direzionali e stabilimenti produttivi di CNH Industrial , operante nel settore dei capital goods e tra i principali leader del settore e di Fiat Chrysler Automobiles dove Torino è diventata nodale per la crescita di Maserati :",
-                    "Importante anche il contributo dell'automazione industriale alla crescente internazionalizzazione dell'economia torinese, con la presenza di aziende come Prima Industrie e Comau , con quest'ultima (tra le prime 4 in Europa per fatturato ) che realizza in tutto il mondo robot per i principali gruppi automobilistici.",
+                    "Importante anche il contributo dell'automazione industriale alla crescente internazionalizzazione dell'Economia torinese, con la presenza di aziende come Prima Industrie e Comau , con quest'ultima (tra le prime 4 in Europa per fatturato ) che realizza in tutto il mondo robot per i principali gruppi automobilistici.",
                     "Altre aziende di rilievo in territorio torinese sono: Lavazza , Caffè Vergnano , Martini & Rossi , Alpitour , Reply , Avio Aero , Basic Net ( Robe di Kappa ), Carlo Pignatelli , De Fonseca , Sabelt , Sparco , Seven , Urmet , Kelémata e il Gruppo Armando Testa .",
                     "Nato per coordinare tutte le attività di ricerca e di produzione del settore ICT dell'area torinese, attualmente vi sono impegnate circa 6000 imprese.",
                     "A21 Torino - Alessandria - Piacenza - Brescia ; A32 Torino - Susa - Bardonecchia - Traforo stradale del Frejus ; RA10 Torino - Caselle Torinese - Aeroporto di Torino-Caselle .",
                     "La tratta urbana di competenza del GTT è quella che parte da Torino Dora e che va sino alla periferia Nord al confine con il comune di Venaria Reale (direzione Caselle Torinese - Aeroporto Sandro Pertini - Ceres ).",
                     "Ci sono poi linee minori verso Ivrea - Aosta , Mondovì - Savona , Pinerolo - Torre Pellice , Trofarello - Chieri , Cirié - Lanzo Torinese -Ceres e Rivarolo Canavese - Cuorgnè - Pont Canavese .",
                     "Il servizio è composto da 8 linee gestite da Trenitalia e dal Gruppo Torinese Trasporti, per un'estensione di circa 500 km, 365 collegamenti giornalieri e 93 stazioni collegate.",
-                    "*Il SFM offre un collegamento fra le diverse zone del Torinese e delle contigue province di Cuneo e Asti, permettendo coincidenze cadenzate tra i treni del servizio ferroviario regionale del Piemonte , i treni a lunga percorrenza ed AV, la rete tranviaria di Torino e autobus urbani, con autobus extraurbani e la metropolitana di Torino .",
+                    "*Il SFM offre un collegamento fra le diverse zone del Torinese e delle contigue province di Cuneo e Asti, permettendo coincidenze cadenzate tra i treni del servizio ferroviario regionale del Piemonte , i treni a lunga percorrenza ed AV, la rete tranviaria di Torino e autobus urbani, con autobus extraurbani e la Metropolitana di Torino .",
                     "La rete di trasporti di Torino è gestita dal GTT, acronimo di Gruppo Torinese Trasporti , nato nel 2003 dalla fusione di ATM e SATTI .",
                     "Ad esclusione di definizioni poco chiare, il secondo documento in cui si può riconoscere la presenza di figure amministrative della città è un rogito ( Breve recordationis de conventione facta inter Taurinenses cives et Ribaldum de Ripalta ) redatto dal notaio torinese Ogerio il 30 giugno 1149, in cui sono citati dei consoli torinesi ( Taurinenses consules ):"
                 ]
@@ -1344,7 +1404,7 @@
                 "class": "highway",
                 "type": "bus_stop",
                 "snippet": [
-                    "*È presente anche l' Aeroporto di Torino-Cuneo , in provincia di Cuneo, che fa riferimento al capoluogo piemontese come secondo aeroporto del Piemonte."
+                    "*È presente anche l' Aeroporto di Torino-Cuneo , in provincia di Cuneo, che fa riferimento al capoluogo piemontese come secondo Aeroporto del Piemonte."
                 ]
             }
         },
@@ -1358,12 +1418,12 @@
                 ]
             },
             "properties": {
-                "entity": "aeroporto di Torino-Aeritalia",
+                "entity": "Aeroporto di Torino-Aeritalia",
                 "name_location": "Aeroporto di Torino-Aeritalia, Strada della Berlia, Borgata Paradiso, Collegno, Torino, Piemonte, 10993, Italia",
                 "class": "aeroway",
                 "type": "aerodrome",
                 "snippet": [
-                    "*Inoltre, è presente l' aeroporto di Torino-Aeritalia :"
+                    "*Inoltre, è presente l' Aeroporto di Torino-Aeritalia :"
                 ]
             }
         },
@@ -1377,12 +1437,12 @@
                 ]
             },
             "properties": {
-                "entity": "aeroporto di Caselle",
+                "entity": "Aeroporto di Caselle",
                 "name_location": "Caselle (str. Aeroporto 36), Strada Aeroporto, Caselle Torinese, Torino, Piemonte, 10072, Italia",
                 "class": "highway",
                 "type": "bus_stop",
                 "snippet": [
-                    "*Inaugurato nel 1916 , dopo la costruzione dell'aeroporto di Caselle è rimasto in uso come struttura di aviazione generale e da turismo, affiancato da una scuola di volo per aerei ed elicotteri e dalla sede dei velivoli di elisoccorso e protezione civile ."
+                    "*Inaugurato nel 1916 , dopo la costruzione dell'Aeroporto di Caselle è rimasto in uso come struttura di aviazione generale e da Turismo, affiancato da una scuola di volo per aerei ed elicotteri e dalla sede dei velivoli di elisoccorso e protezione civile ."
                 ]
             }
         },

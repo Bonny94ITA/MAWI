@@ -26829,13 +26829,13 @@ Anche le banche di
    </table>
    <!-- 
 NewPP limit report
-Parsed by mw1407
-Cached time: 20221130092521
+Parsed by mw1472
+Cached time: 20221130142147
 Cache expiry: 1814400
 Reduced expiry: false
 Complications: [vary‐revision‐sha1, show‐toc]
-CPU time usage: 2.138 seconds
-Real time usage: 2.902 seconds
+CPU time usage: 2.061 seconds
+Real time usage: 2.651 seconds
 Preprocessor visited node count: 38307/1000000
 Post‐expand include size: 501927/2097152 bytes
 Template argument size: 28512/2097152 bytes
@@ -26843,24 +26843,24 @@ Highest expansion depth: 20/100
 Expensive parser function count: 28/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 179854/5000000 bytes
-Lua time usage: 0.881/10.000 seconds
-Lua memory usage: 15943275/52428800 bytes
+Lua time usage: 0.874/10.000 seconds
+Lua memory usage: 16292132/52428800 bytes
 Number of Wikibase entities loaded: 12/400
 -->
    <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 2150.332      1 -total
- 19.53%  420.048      1 Template:Divisione_amministrativa
- 17.15%  368.725     87 Template:Bandiera
- 14.95%  321.464      3 Template:Infobox
- 12.57%  270.324    115 Template:Cita_web
- 10.04%  215.962      5 Template:Naz/ROU
-  8.26%  177.659     10 Template:Navbox
-  5.71%  122.864     24 Template:Vedi_anche
-  5.62%  120.935      1 Template:Collegamenti_esterni
-  5.27%  113.303     10 Template:Controllo_Wikidata
+100.00% 1918.670      1 -total
+ 21.28%  408.352      1 Template:Divisione_amministrativa
+ 16.18%  310.359      3 Template:Infobox
+ 14.13%  271.032    115 Template:Cita_web
+  7.95%  152.465     10 Template:Navbox
+  7.48%  143.568     87 Template:Bandiera
+  7.17%  137.503      1 Template:Collegamenti_esterni
+  5.97%  114.462     24 Template:Vedi_anche
+  5.92%  113.499     10 Template:Controllo_Wikidata
+  4.56%   87.523     12 Template:Legend
 -->
-   <!-- Saved in parser cache with key itwiki:pcache:idhash:2588349-0!canonical and timestamp 20221130092518 and revision id 130701024.
+   <!-- Saved in parser cache with key itwiki:pcache:idhash:2588349-0!canonical and timestamp 20221130142144 and revision id 130701024.
  -->
   </div>
  </body>
