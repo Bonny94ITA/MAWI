@@ -99,7 +99,8 @@ def get_entities_snippet(nlp_text, cities: list, entities_to_search_prev = dict(
 
     entities_to_search = dict()
     entities_to_search_pos = dict()
-    sents = list(nlp_text.sents)
+    sents = list(nlp_text.sents) 
+    # TODO: trovare un modo per vincolare la divisione in frasi per SpaCy
     ents = list(nlp_text.ents)
     sentence_dict = generate_sentences_dictionary(sents)
 
@@ -343,6 +344,8 @@ def generate_sentences_dictionary(sentence_list: list):
         sentence_dict: dictionary with the index of the sentence and the index in the text
     """
     sentences_dict = {}
+    # AGGIUNGERE UN CARATTERE PER IDENTIFICARE GLI ELENCHI PUNTATI come '-'
+    # quando si incontra un elenco puntato dividere la frase in maniera differente creando uno span ad hoc????
     for index, sentence in enumerate(sentence_list): 
         sentences_dict[index] = sentence
 
@@ -674,19 +677,23 @@ def add_punct_bullets(soup: BeautifulSoup):
     Returns:
         soup cleaned
     """
-    
     tag = soup.find_all(['ul', 'ol'], class_=False)
 
     not_punct = ['"',"'", '(', ')','[',']', ' ']
     for t in tag:
+        t.insert(0, " # ")
         sub_tag = t.find_all("li", class_=False) 
         if len(sub_tag) > 1:
             for s in sub_tag[:-1]: 
+                s.insert(0, " - ")
                 if not s.text[-1] in string.punctuation or s.text[-1] in not_punct:
                     s.append(" ;")
 
+            sub_tag[-1].insert(0, " - ") 
             if not sub_tag[-1].text[-1] in string.punctuation or sub_tag[-1].text[-1] in not_punct:
                 sub_tag[-1].append(" .")
+            
+            sub_tag[-1].insert_after(" ", " # ")
 
     return soup
 
