@@ -13,10 +13,9 @@ import spacy
 import re
 
 import pandas as pd 
-import geopandas as gpd
-import matplotlib.pyplot as plt
 from geopy.extra.rate_limiter import RateLimiter
 from functools import partial
+from spacy.tokens import Doc
 
 
 def find_loc_context(context: str, input_json: list, param_to_search: str): 
@@ -44,7 +43,6 @@ def sent_contains_ent(sentence, entity):
     Returns:
         True if the sentence contains the entity, False otherwise
     """
-
     possible_begins = []
 
     j = 0
@@ -100,9 +98,8 @@ def get_entities_snippet(nlp_text, cities: list, entities_to_search_prev = dict(
     entities_to_search = dict()
     entities_to_search_pos = dict()
     sents = list(nlp_text.sents) 
-    # TODO: trovare un modo per vincolare la divisione in frasi per SpaCy
     ents = list(nlp_text.ents)
-    sentence_dict = generate_sentences_dictionary(sents)
+    sentence_dict = generate_sentences_dictionary(sents, nlp_text)
 
     with open('Sentences.csv', 'w', encoding='utf-8') as csvfile:
         writer = csv.writer(csvfile)
@@ -115,13 +112,6 @@ def get_entities_snippet(nlp_text, cities: list, entities_to_search_prev = dict(
         if ent.text not in entities_to_search_prev: 
             for (index, sentence) in sentence_dict.items():
                 if sent_contains_ent(sentence, ent):
-                    # Create snippet
-                    before = sentence_dict.get(index-1, "")
-                    if not isinstance(before, str):
-                        before = before.text.strip()
-                    after = sentence_dict.get(index+1, "")
-                    if not isinstance(after, str):
-                        after = after.text.strip()
                     
                     # forse si può usare ent.sent
                     sent = ""
@@ -147,7 +137,15 @@ def get_entities_snippet(nlp_text, cities: list, entities_to_search_prev = dict(
     return entities_to_search, sentence_dict
 
 def clean_entities_to_search(entities_to_search: dict, entities_to_search_pos: dict): # IN PROGESS
-    #TODO: unificare le entità quando una contiene l'altra e cose di sto tipo
+    """Clean the entities to search.
+
+    Args:
+        entities_to_search: dictionary with the entities to search
+        entities_to_search_pos: dictionary with the entities to search and the pos of the words
+    
+    Returns:
+        entities_to_search: dictionary with the entities to search cleaned
+    """
 
     # unify entities written with the same words
     entities = list(entities_to_search.keys())
@@ -187,7 +185,7 @@ def clean_entities_to_search(entities_to_search: dict, entities_to_search_pos: d
     
     return entities_to_search
 
-def clean_entities_to_search2(entities_to_search: dict):
+def clean_entities_to_search2(entities_to_search: dict): # TODO: delete??
     """Clean the entities to search from the dictionary.
     
     Args:
@@ -289,30 +287,52 @@ def clean_entities(entities: list, cities: list, sentence_dict: dict):
         if ent.label_ == "LOC" and ent.text not in cities:
             if ispunct(ent.text[-1]): # delete punctuation at the end of the entity 
                 ent = ent[:-1]
-
-            if ent[-1].pos_ == "ADP": 
+            
+            if len(ent) > 0 and ent[-1].pos_ == "ADP": 
                 ent = ent[:-1] 
-
-            if ent.text.count("\"") == 1:
-                nbor = ent[-1].nbor()
-                doc = ent.doc 
+            
+            if len(ent) > 0 and ent.text.__contains__("#"): 
+                begin = ent.start
+                end = ent.end
+                if ent[-1].text == "#": 
+                    end = end - 1 
+                else: 
+                    begin = begin + 1 
                 
-                while nbor.text != "\"":
+                ent = ent.doc[begin: end]
+                #print("ENTITY CORRETTA: ", ent)
+
+            if len(ent) > 0 and ent.text.__contains__("^"):
+                begin = ent.start
+                end = ent.end
+                if ent[-1].text == "^": 
+                    end = end - 1 
+                else: 
+                    begin = begin + 1 
+                
+                ent = ent.doc[begin: end]
+                #print("ENTITY CORRETTA: ", ent)
+                
+
+            if len(ent) > 0: 
+                if ent.text.count("\"") == 1:
+                    nbor = ent[-1].nbor()
+                    doc = ent.doc 
+                    
+                    while nbor.text != "\"":
+                        nbor = nbor.nbor()
+                    
                     nbor = nbor.nbor()
-                
-                nbor = nbor.nbor()
-                start_ent = ent.start
-                end_ent = nbor.i
+                    start_ent = ent.start
+                    end_ent = nbor.i
 
-                span = doc[start_ent: end_ent]
+                    span = doc[start_ent: end_ent]
+                    new_ent = span.char_span(0, len(span.text), label="LOC")
+                    #print("ENTITY COMPLETA: ", new_ent)
+                    entities_clean.append(new_ent)
 
-                new_ent = span.char_span(0, len(span.text), label="LOC")
-
-                print("ENTITY COMPLETA: ", new_ent)
-                entities_clean.append(new_ent)
-
-            else:     
-                entities_clean.append(ent)
+                else:     
+                    entities_clean.append(ent)
 
     return entities_clean
 
@@ -335,7 +355,66 @@ def search_dict(dict: dict, ent): # TODO: DELETE?
     
     return appears
 
-def generate_sentences_dictionary(sentence_list: list):
+def find(s, ch):
+    return [i for i, ltr in enumerate(s) if ltr == ch]
+
+def find_indexes(doc: Doc, ch): 
+    """Find the index of the character ch in the doc.
+
+    Args:
+        doc: spacy doc where to search
+        ch: character to search
+    
+    Returns:
+        list of the indexes of the character ch
+    """
+
+    indexes = []
+    end = 0
+    for i, token in enumerate(doc):
+        if token.text == ch:
+            indexes.append(i)
+        end = i
+    indexes.append(end)
+    return indexes
+
+def correct_bulleted_split(doc: Doc): 
+    """Correct the bullet split in the sentences.
+
+    Args:
+        sentence_list: list of the sentences to correct
+    
+    Returns:
+        sentence_list: list of the sentences corrected
+    """
+
+    sentences_correct = []
+    begin = 0
+    indexes = find_indexes(doc, "#")
+    if len(indexes) > 0:
+        for elem in indexes:
+            section = doc[begin:elem].as_doc()
+            if len(section) > 0: 
+                #print("\n \n SEZIONE: ", section.text)
+                indexes_bullet = find_indexes(section, "^")
+                if len(indexes_bullet) > 1:
+                    j = 0
+                    for index_bullet in indexes_bullet:
+                        sentence = section[j: index_bullet]
+                        #print("frase elenco puntato: ", sentence)
+                        if len(sentence) > 0:
+                            sentences_correct.append(sentence)
+                        j = index_bullet + 1
+                else: 
+                    sentences_section = section.sents
+                    sentences_correct.extend(sentences_section)
+            
+            begin = elem + 1
+
+    return sentences_correct
+    
+
+def generate_sentences_dictionary(sentence_list: list, doc: Doc):
     """Generate a dictionary with the snipet index and the snippet itself.
     
     Args:
@@ -344,9 +423,8 @@ def generate_sentences_dictionary(sentence_list: list):
         sentence_dict: dictionary with the index of the sentence and the index in the text
     """
     sentences_dict = {}
-    # AGGIUNGERE UN CARATTERE PER IDENTIFICARE GLI ELENCHI PUNTATI come '-'
-    # quando si incontra un elenco puntato dividere la frase in maniera differente creando uno span ad hoc????
-    for index, sentence in enumerate(sentence_list): 
+    sentences = correct_bulleted_split(doc)
+    for index, sentence in enumerate(sentences): 
         sentences_dict[index] = sentence
 
     return sentences_dict
@@ -595,7 +673,7 @@ def create_whitelist(headlines: list):
     return whitelist
 
 def not_headline_chiarimento(css_class): 
-    return css_class != "chiarimento"
+    return css_class and css_class != "chiarimento"
 
 def clean_html(soup: BeautifulSoup):
     """ Clean html from soup
@@ -681,15 +759,15 @@ def add_punct_bullets(soup: BeautifulSoup):
 
     not_punct = ['"',"'", '(', ')','[',']', ' ']
     for t in tag:
-        t.insert(0, " # ")
         sub_tag = t.find_all("li", class_=False) 
         if len(sub_tag) > 1:
+            t.insert(0, " # ")
             for s in sub_tag[:-1]: 
-                s.insert(0, " - ")
+                s.insert(0, " ^ ")
                 if not s.text[-1] in string.punctuation or s.text[-1] in not_punct:
                     s.append(" ;")
 
-            sub_tag[-1].insert(0, " - ") 
+            sub_tag[-1].insert(0, " ^ ") 
             if not sub_tag[-1].text[-1] in string.punctuation or sub_tag[-1].text[-1] in not_punct:
                 sub_tag[-1].append(" .")
             
