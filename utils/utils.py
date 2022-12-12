@@ -16,9 +16,10 @@ import pandas as pd
 from geopy.extra.rate_limiter import RateLimiter
 from functools import partial
 from spacy.tokens import Doc
+from spacy.tokens import Span
 
 
-def find_loc_context(context: str, input_json: list, param_to_search: str): 
+def find_loc_context(context: str, input_json: list, param_to_search: str): # TODO DELETE?
     """Find the object of the context.
 
     Args:
@@ -34,7 +35,7 @@ def find_loc_context(context: str, input_json: list, param_to_search: str):
             loc_context = elem
     return loc_context
 
-def sent_contains_ent(sentence, entity):
+def sent_contains_ent(sentence: Span, entity: Span):
     """Check if the sentence contains the entity.
 
     Args:
@@ -81,7 +82,7 @@ def first_upper(sentence: str):
         sentence = sentence[0].upper() + sentence[1:]
     return sentence
 
-def get_entities_snippet(nlp_text, cities: list, entities_to_search_prev = dict()):
+def get_entities_snippet(document: Doc, cities: list, entities_to_search_prev = dict()):
     """Get the entities from the nlp_text which are not cities and print snippet in which
         they appears.
 
@@ -97,23 +98,22 @@ def get_entities_snippet(nlp_text, cities: list, entities_to_search_prev = dict(
 
     entities_to_search = dict()
     entities_to_search_pos = dict()
-    sents = list(nlp_text.sents) 
-    ents = list(nlp_text.ents)
-    sentence_dict = generate_sentences_dictionary(sents, nlp_text)
+    sents = list(document.sents) 
+    ents = list(document.ents)
+    sentence_dict = generate_sentences_dictionary(document)
 
     with open('Sentences.csv', 'w', encoding='utf-8') as csvfile:
         writer = csv.writer(csvfile)
         for index, sent in sentence_dict.items():
-            writer.writerow([index, sent])
+            writer.writerow([index, sent.text.strip(" \n")])
 
-    ents = clean_entities(ents, cities, sentence_dict)
+    ents = clean_entities(ents, cities)
     
     for ent in ents:    
         if ent.text not in entities_to_search_prev: 
             for (index, sentence) in sentence_dict.items():
                 if sent_contains_ent(sentence, ent):
                     
-                    # forse si può usare ent.sent
                     sent = ""
                     for entities in sentence.ents: 
                         if entities.text == ent.text: 
@@ -124,7 +124,7 @@ def get_entities_snippet(nlp_text, cities: list, entities_to_search_prev = dict(
                     for subent in ent:
                         pos_ent.append(subent.pos_) 
 
-                    sent = sent + first_upper(sentence.text.strip())
+                    sent = sent + first_upper(sentence.text.strip(" \n"))
                     if ent.text in entities_to_search and sent not in entities_to_search[ent.text] and "*"+sent not in entities_to_search[ent.text]:
                         entities_to_search[ent.text].append(sent)
                         entities_to_search_pos[ent.text].append(pos_ent)
@@ -272,13 +272,12 @@ def ispunct(ch):
     return ch in string.punctuation
 
 
-def clean_entities(entities: list, cities: list, sentence_dict: dict): 
+def clean_entities(entities: list, cities: list): 
     """Clean the entities from the text.
 
     Args:
         entities: list of entities to clean
         cities: list of cities eventually to filter
-        sentence_dict: dictionary with the index of the sentence in the text and the sentence itself
     Returns:
         entities: list of the entities useful for the search
     """
@@ -335,25 +334,6 @@ def clean_entities(entities: list, cities: list, sentence_dict: dict):
                     entities_clean.append(ent)
 
     return entities_clean
-
-def search_dict(dict: dict, ent): # TODO: DELETE?
-    """Search in a dictionary dict the entity ent. 
-    Args:
-        dict: dictionary where to search
-        ent: entity to search
-
-    Returns:
-        list of the sentence index and sentence in which the entity appears
-    """
-    appears = []
-    for index, sentence in dict.items():
-        if ent in sentence:
-            if index > 0:
-                bef = dict.get(index-1, "")
-                after = dict.get(index+1, "") 
-                appears.append(bef + " " + sentence + " " + after)
-    
-    return appears
 
 def find(s, ch):
     return [i for i, ltr in enumerate(s) if ltr == ch]
@@ -414,7 +394,7 @@ def correct_bulleted_split(doc: Doc):
     return sentences_correct
     
 
-def generate_sentences_dictionary(sentence_list: list, doc: Doc):
+def generate_sentences_dictionary(doc: Doc):
     """Generate a dictionary with the snipet index and the snippet itself.
     
     Args:
@@ -435,7 +415,8 @@ def print_to_file(file_path: str, text_to_append):
 
 def print_to_csv(file_path: str, object_to_append):
     properties = object_to_append['properties']
-    data = [[properties['entity'], properties['name_location'], properties['category'], properties['type'], properties['importance'], sent] for sent in properties['snippet']]
+    data = [[properties['entity'], properties['name_location'], properties['category'], properties['type'], \
+        properties['importance'], sent] for sent in properties['snippet']]
     with open(file_path, 'a', newline='', encoding='utf-8') as file:
         writer = csv.writer(file, dialect='excel')
         writer.writerows(data)
@@ -638,7 +619,7 @@ def save_results(features: list, context: dict):
         json.dump(geojson_outliers, f, ensure_ascii=False, indent=4)
         print("The result outliers has been saved as a file inside the response folder")
 
-def create_whitelist(headlines: list):
+def create_whitelist(headlines: list): # TODO: AGGIUSTARE QUESTA LISTA!
     """ Create a whitelist of words to search
     
     Create the whitelist of words to capitalize in the text. 
