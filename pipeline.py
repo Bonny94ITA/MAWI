@@ -3,8 +3,13 @@ import spacy
 import json
 
 
-nlp = spacy.load("it_core_news_sm")
+nlp = spacy.load("it_core_news_sm", exclude=["ner"])
 
+ner_nlp = spacy.load('it_nerIta_trf')
+
+nlp.add_pipe("transformer", name="trf_ita", source=ner_nlp, last=True)
+
+nlp.add_pipe("ner", name="ner_ita", source=ner_nlp, last=True)
 
 #cities = ["Torino", "Roma", "Bologna", "Milano", "Liberty a Torino", "Barocco a Milano"]
 

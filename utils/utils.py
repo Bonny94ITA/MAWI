@@ -87,7 +87,7 @@ def get_entities_snippet(document: Doc, cities: list, entities_to_search_prev = 
         they appears.
 
     Args:
-        nlp_text: spacy text
+        document: spacy text
         cities: list with cities name to filter
         entities_to_search_prev: dictionary with the entities to search of the previous text and do not search again
     
@@ -98,7 +98,6 @@ def get_entities_snippet(document: Doc, cities: list, entities_to_search_prev = 
 
     entities_to_search = dict()
     entities_to_search_pos = dict()
-    sents = list(document.sents) 
     ents = list(document.ents)
     sentence_dict = generate_sentences_dictionary(document)
 
@@ -136,7 +135,7 @@ def get_entities_snippet(document: Doc, cities: list, entities_to_search_prev = 
 
     return entities_to_search, sentence_dict
 
-def clean_entities_to_search(entities_to_search: dict, entities_to_search_pos: dict): # IN PROGESS
+def clean_entities_to_search(entities_to_search: dict, entities_to_search_pos: dict): # TODO: MODIFICHE PER CAMBIO NER 
     """Clean the entities to search.
 
     Args:
@@ -272,7 +271,7 @@ def ispunct(ch):
     return ch in string.punctuation
 
 
-def clean_entities(entities: list, cities: list): 
+def clean_entities(entities: list, cities: list): # TODO: MODIFICARE IL FILTRO SUL TIPO DI ENTITà IN BASE A QUELLE DISPONIBILI CON IL NUOVO NER
     """Clean the entities from the text.
 
     Args:
@@ -283,12 +282,27 @@ def clean_entities(entities: list, cities: list):
     """
     entities_clean = []
     for ent in entities:
-        if ent.label_ == "LOC" and ent.text not in cities:
-            if ispunct(ent.text[-1]): # delete punctuation at the end of the entity 
-                ent = ent[:-1]
+        if ent.label_ == "LOC" or ent.label_ == "FAC": 
+
+            if len(ent) > 0 and ent[0].pos_ == "DET": 
+                ent = ent[1:]
             
+            if len(ent) > 0 and ent[0].pos_ == "ADP":
+                ent = ent[1:]
+
             if len(ent) > 0 and ent[-1].pos_ == "ADP": 
                 ent = ent[:-1] 
+
+            if len(ent) > 0 and ispunct(ent.text[-1]): # delete punctuation at the end of the entity 
+                if ispunct(ent.text[0]) and ent.text[0] == ent.text[-1]: 
+                    print("prima: ", ent)
+                    ent = ent[1:-1]
+                    print("corretta: ", ent)
+                else: 
+                    if ent.text.count(ent.text[-1]) == 1:
+                        ent = ent[:-1]
+
+            
             
             if len(ent) > 0 and ent.text.__contains__("#"): 
                 begin = ent.start
@@ -459,7 +473,7 @@ def search_entities_geopy(searchable_entities: dict, context: dict, title_page: 
         to_search = ent
         if not ent.__contains__(name_context): 
             to_search = to_search + " " + name_context
-        locations.extend([[ent, ent + " " + name_context, searchable_entities[ent]]])
+        locations.extend([[ent, to_search, searchable_entities[ent]]])
 
     df = pd.DataFrame(locations, columns=['entity', 'to_search', 'snippet'])
     df.head()
@@ -650,6 +664,7 @@ def create_whitelist(headlines: list): # TODO: AGGIUSTARE QUESTA LISTA!
                 whitelist.append(lemma)
 
     whitelist.append("chiesa")
+    whitelist.append("giardino")
 
     return whitelist
 
@@ -805,7 +820,7 @@ def wiki_content(title, context = False):
 
     soup = add_punct_bullets(soup)
 
-    cleaned_content = soup.get_text(' ', strip=True)
+    cleaned_content = re.sub(r'\n+', '\n', soup.text.strip('\n')) #soup.get_text(' ',strip=True)
 
     cleaned_content = substitute_whitelist(cleaned_content, white_list)
     
