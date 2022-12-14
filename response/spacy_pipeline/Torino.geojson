@@ -6,35 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.682489,
-                    45.067755
-                ]
-            },
-            "properties": {
-                "entity": "Metropolitana",
-                "name_location": "Torino, Piemonte, Italia",
-                "class": "boundary",
-                "type": "administrative",
-                "snippet": [
-                    "*Turin in piemontese , ) è un comune italiano di 844 056 abitanti (al 31 agosto 2022), quarto comune italiano per popolazione e capoluogo della regione Piemonte e dell'omonima città Metropolitana.",
-                    "*Cuore di un'area Metropolitana che conta circa 1,7 milioni di abitanti, Torino è il terzo complesso economico-produttivo del Paese (insieme a Milano e Genova componeva il triangolo industriale negli anni del boom economico) e costituisce uno dei maggiori poli universitari, artistici, turistici, scientifici e culturali d'Italia.",
-                    "*Ciò non è dipeso soltanto dal ritorno di molti immigrati del Mezzogiorno nelle loro regioni di origine, ma dagli spostamenti avvenuti da Torino verso quella che poi divenne l'area Metropolitana, determinando così l'espansione dei comuni della seconda (Vinovo, Candiolo, Orbassano, Rivalta di Torino, Rivoli, Alpignano, Pianezza, Druento, Caselle Torinese) e della prima cintura (Moncalieri, Nichelino, Beinasco, Grugliasco, Collegno, Venaria Reale, Borgaro Torinese, Settimo Torinese, San Mauro Torinese).",
-                    "*Inoltre, i comuni di cintura dell'area urbana e Metropolitana cittadina possiedono un sistema bibliotecario integrato denominato SBAM (Sistema Bibliotecario Area Metropolitana) composto di 65 biblioteche per un totale di circa 1.700.000 documenti.",
-                    "*A Torino o nella sua città Metropolitana hanno sede legale anche diverse filiali italiane di Società estere come Suzuki, Vodafone Italia, Bavaria, Diageo, Michelin, Kimberly-Clark, Petronas, Mizuno e SKF.",
-                    "Grandi opere pubbliche come quelle per il Passante Ferroviario, la Metropolitana e le Spine hanno ridisegnato e stanno ridisegnando il volto della città.",
-                    "È un sistema di trasporto pubblico locale della Città Metropolitana di Torino coordinato dall'Agenzia Mobilità Metropolitana ed interamente finanziato dalla Regione Piemonte.",
-                    "Il SFM offre un collegamento fra le diverse zone del Torinese e delle contigue province di Cuneo e Asti, permettendo coincidenze cadenzate tra i treni del servizio ferroviario regionale del Piemonte, i treni a lunga percorrenza ed AV, la rete tranviaria di Torino e autobus urbani, con autobus extraurbani e la Metropolitana di Torino.",
-                    "Nel territorio comunale di Torino il sistema di mobilità Metropolitana e ferroviaria urbana si sviluppa complessivamente per 29 km, articolati su 8 linee servite da 28 stazioni.",
-                    "Per i suoi acquisti verdi la città di Torino ha raggiunto il secondo posto dell'European Gpp Award del 2016, alle spalle delle città di Vienna e davanti alla città Metropolitana di Torino.",
-                    "A Torino è in funzione la prima Metropolitana automatica d'Italia utilizzante veicoli leggeri, frequenti e senza conducente."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     7.690586,
                     45.068718
                 ]
@@ -50,14 +21,14 @@
                     "*Il fiume Po accentua la divisione tra la parte collinare e quella, quasi pianeggiante, della città, collocata tra i 220 e i 280 metri s.l.m.",
                     "*Il Monviso, monte sul quale nasce il Po, il Rocciamelone, e i massicci del Gran Paradiso e del Monte Rosa, mentre il Cervino diventa visibile dalla zona sud-est dell'area urbana.",
                     "Il 19 marzo 2016 l'UNESCO ha riconosciuto il Parco del Po e la collina torinese come riserva della biosfera, mentre nel 2020 la FAO e l'Arbor Day Foundation hanno conferito alla città di Torino il riconoscimento di Tree City of the World 2019.",
-                    "Prendendo in esame i dati rilevati dall'Ufficio Idrografico del Po (presso Porta Susa), nel il periodo 1961-1990, si evince che, in città, la temperatura Media annua è stata di 12,3 °C, con la minima, a gennaio, di 0,9 °C.",
-                    "Di seguito è riportata la Media trentennale di riferimento (1961-1990) rilevata dall'Ufficio Idrografico del Po.",
+                    "Prendendo in esame i dati rilevati dall'Ufficio Idrografico del Po (presso Porta Susa), nel il periodo 1961-1990, si evince che, in città, la temperatura media annua è stata di 12,3 °C, con la minima, a gennaio, di 0,9 °C.",
+                    "Di seguito è riportata la media trentennale di riferimento (1961-1990) rilevata dall'Ufficio Idrografico del Po.",
                     "*Il 19 aprile 1801 Jourdan soppresse tutte le istituzioni governative e divenne Amministratore generale del Piemonte, assistito da un Consiglio di sei membri piemontesi e infine, dopo l'abdicazione di Carlo Emanuele IV di Savoia, il 21 settembre 1802 i sei dipartimenti in cui era stato diviso il Piemonte (Torino apparteneva al dipartimento del Po e inoltre a essa faceva capo uno dei tre circondari in cui era diviso il dipartimento stesso) furono raggruppati in una regione francese denominata Au delà des Alpes, della quale Torino divenne il capoluogo e tale rimase fino alla Restaurazione.",
                     "Le importanti testimonianze architettoniche di quest'epoca sono ancora percepibili in alcune zone centrali del capoluogo come i quartieri Centro, Crocetta, San Salvario e Borgo Po, ma con un'assoluta predominanza nell'area circostante il primo tratto di Corso Francia, comprendente i quartieri Cit Turin e San Donato.",
                     "*Il portico che unisce piazza Castello con Piazza Vittorio Veneto attraverso via Po sul lato sinistro fu progettato in modo tale da proseguire anche nell'attraversamento delle vie per permettere al re di giungere fino al Po senza bagnarsi in caso di pioggia.",
-                    "Torino ospita anche alberi esotici secolari come le sequoie costali (Sequoia sempervirens) dei parchi collinari di Villa Genero e Giacomo Leopardi, i numerosi esemplari di Noce del Caucaso (Pterocarya fraxinifolia) che costeggiano il Po e compaiono in parchi pubblici come i Giardini Cavour, il Giardino Sambuy, i Giardini Reali Bassi (lungo Corso San Maurizio), il Parco Millefonti.",
+                    "*Torino ospita anche alberi esotici secolari come le sequoie costali (Sequoia sempervirens) dei parchi collinari di Villa Genero e Giacomo Leopardi, i numerosi esemplari di Noce del Caucaso (Pterocarya fraxinifolia) che costeggiano il Po e compaiono in parchi pubblici come i Giardini Cavour, il Giardino Sambuy, i Giardini Reali Bassi (lungo Corso San Maurizio), il Parco Millefonti.",
                     "*Importanti sono poi dal punto di vista storico il Museo nazionale del Risorgimento italiano, presso Palazzo Carignano, e il Museo nazionale della montagna, presso il Monte dei Cappuccini, sulla riva destra del Po.",
-                    "*Anche se nel gioco la città è ben diversa dalla realtà, sono comunque presenti il Tram numero 13, il Po e molti edifici storici realmente esistenti.",
+                    "*Anche se nel gioco la città è ben diversa dalla realtà, sono comunque presenti il tram numero 13, il Po e molti edifici storici realmente esistenti.",
                     "Proprio nel capoluogo piemontese, nel marzo 1896, gli inventori del cinematografo esibirono la prima proiezione di un film in Italia ed in via Po, a novembre, la prima davanti ad un pubblico pagante.",
                     "Circoscrizione VIII: San Salvario - Cavoretto - Borgo Po - Nizza Millefonti - Lingotto - Filadelfia ."
                 ]
@@ -250,7 +221,7 @@
                 "class": "building",
                 "type": "apartments",
                 "snippet": [
-                    "Il Monviso, monte sul quale nasce il Po, il Rocciamelone, e i massicci del Gran Paradiso e del Monte Rosa, mentre il Cervino diventa visibile dalla zona sud-est dell'area urbana."
+                    "*Il Monviso, monte sul quale nasce il Po, il Rocciamelone, e i massicci del Gran Paradiso e del Monte Rosa, mentre il Cervino diventa visibile dalla zona sud-est dell'area urbana."
                 ]
             }
         },
@@ -350,7 +321,7 @@
                 "class": "highway",
                 "type": "bus_stop",
                 "snippet": [
-                    "*Prendendo in esame i dati rilevati dall'Ufficio Idrografico del Po (presso Porta Susa), nel il periodo 1961-1990, si evince che, in città, la temperatura Media annua è stata di 12,3 °C, con la minima, a gennaio, di 0,9 °C.",
+                    "*Prendendo in esame i dati rilevati dall'Ufficio Idrografico del Po (presso Porta Susa), nel il periodo 1961-1990, si evince che, in città, la temperatura media annua è stata di 12,3 °C, con la minima, a gennaio, di 0,9 °C.",
                     "*Le stazioni ferroviarie di Porta Nuova e Porta Susa vennero congiunte con un percorso porticato attraverso via Nizza, via Sacchi, Corso Vittorio Emanuele II, Corso Vinzaglio e via Cernaia."
                 ]
             }
@@ -371,7 +342,7 @@
                 "type": "bus_stop",
                 "snippet": [
                     "Val di Susa, che collega la città con la vicina Francia attraverso il traforo del Frejus, Valli di Lanzo, Val Sangone.",
-                    "Prendendo in esame i dati rilevati dall'Ufficio Idrografico del Po (presso Porta Susa), nel il periodo 1961-1990, si evince che, in città, la temperatura Media annua è stata di 12,3 °C, con la minima, a gennaio, di 0,9 °C.",
+                    "Prendendo in esame i dati rilevati dall'Ufficio Idrografico del Po (presso Porta Susa), nel il periodo 1961-1990, si evince che, in città, la temperatura media annua è stata di 12,3 °C, con la minima, a gennaio, di 0,9 °C.",
                     "*Insediamenti riferibili a popolazioni di ceppo celto-Ligure, conosciute con il nome di Taurini, spesso confusi, già in età antica, con i Taurisci, che occupavano anche le vicine valli di Susa e di Lanzo.",
                     "Nel 940 fu fondata la Marca di Torino, controllata dalla cosiddetta \"dinastia arduinica\" che, attraverso il matrimonio tra Adelaide di Susa e Oddone, figlio di Umberto I Biancamano (fondatore della casa Savoia), portò la città sotto l'influenza della dinastia sabauda.",
                     "Le stazioni ferroviarie di Porta Nuova e Porta Susa vennero congiunte con un percorso porticato attraverso via Nizza, via Sacchi, Corso Vittorio Emanuele II, Corso Vinzaglio e via Cernaia.",
@@ -590,28 +561,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.67804,
-                    45.075765
-                ]
-            },
-            "properties": {
-                "entity": "Consolata",
-                "name_location": "Consolata, Via della Consolata, Quadrilatero Romano, Circoscrizione 1, Torino, Piemonte, 10122, Italia",
-                "class": "amenity",
-                "type": "bicycle_rental",
-                "snippet": [
-                    "Resti della torre angolare della cinta muraria nei pressi del santuario della Consolata;",
-                    "Campanili romanici della basilica della Consolata (risalente al X secolo), del Duomo (quattrocentesco, poi completato nel XVIII secolo dallo Juvarra) e della Chiesa di Sant'Agostino (XV secolo);",
-                    "Guarino Guarini (Cappella della Sacra Sindone, Santuario della Consolata, Chiesa di San Lorenzo) ;",
-                    "Filippo Juvarra (Basilica di Superga, Chiesa di San Filippo Neri, Santuario della Consolata, Chiesa di Santa Cristina, Chiesa della Madonna del Carmine) ;"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     7.684428,
                     45.068509
                 ]
@@ -701,7 +650,6 @@
                     "*Vari resti di abitazioni di epoca imperiale, fra cui le tracce delle domus di via Bellezia, via Santa Chiara, via Bonelli, Piazza Castello, la necropoli nel sottosuolo di Piazza San Carlo e gli edifici pubblici di Piazza Emanuele Filiberto e Corso XI Febbraio.",
                     "Anche nel progetto di piazza San Carlo di Amedeo di Castellamonte di qualche anno successivo erano previsti portici tutt'attorno.",
                     "Io sono leggenda. Nel film, quando il protagonista sta guardando le registrazioni di vecchi telegiornali, viene mostrata piazza San Carlo. Quella utilizzata nel film è infatti la reale registrazione di un collegamento avvenuto durante i XX Giochi olimpici invernali del 2006.",
-                    "*Anche nel progetto di piazza San Carlo di Amedeo di Castellamonte di qualche anno successivo erano previsti portici tutt'attorno.",
                     "*Io sono leggenda. Nel film, quando il protagonista sta guardando le registrazioni di vecchi telegiornali, viene mostrata piazza San Carlo. Quella utilizzata nel film è infatti la reale registrazione di un collegamento avvenuto durante i XX Giochi olimpici invernali del 2006."
                 ]
             }
@@ -955,7 +903,7 @@
                 "type": "viewpoint",
                 "snippet": [
                     "*Tra i monumenti di Torino più noti anche all'estero sono da citare l'ottocentesca Mole Antonelliana, simbolo incontrastato della città, che ospita il Museo nazionale del Cinema (il principale d'Europa);",
-                    "*Nel 1956 venne aperto il Museo nazionale del Cinema, dapprima ospitato a Palazzo Chiablese e poi, dal 2000, nell'imponente sede della Mole Antonelliana."
+                    "Nel 1956 venne aperto il Museo nazionale del Cinema, dapprima ospitato a Palazzo Chiablese e poi, dal 2000, nell'imponente sede della Mole Antonelliana."
                 ]
             }
         },
@@ -1001,9 +949,9 @@
                     "*Definita da Le Corbusier come «...la città con la più bella posizione naturale del mondo», celebrata da numerosi personaggi storici, tra cui Friedrich Nietzsche, Mark Twain e Jean-Jacques Rousseau, il quale descrisse il suo panorama dalla collina di Superga come «...il più bello spettacolo che possa colpire l'occhio umano», è una delle più importanti città barocche d'Europa ed è considerata, insieme a Milano e Palermo, la capitale italiana dell'Art Nouveau, di cui sono grande esempio, fra l'altro, i suoi innumerevoli e famosi caffè storici, fioriti soprattutto nel periodo risorgimentale e della Belle Époque.",
                     "*Dal Museo di Antichità furono separate, negli anni quaranta del Novecento, le collezioni egizie che costituirono il Museo egizio, il più importante d'Europa (nonché il più antico al mondo), in quanto custode della seconda collezione di arte egizia del mondo per vastità e importanza dopo quella del Museo del Cairo.",
                     "*Nel 2004 è stato inaugurato il Museo A come Ambiente, il primo in Europa interamente dedicato alle tematiche ambientali.",
-                    "Club to Club: festival internazionale di Musica e arti elettroniche che dal 2006 coinvolge, con la sezione \"Club Europa\", un'importante città europea, con scambio di pubblico, artisti, iniziative;",
+                    "Club to Club: festival internazionale di musica e arti elettroniche che dal 2006 coinvolge, con la sezione \"Club Europa\", un'importante città europea, con scambio di pubblico, artisti, iniziative;",
                     "Finale della UEFA Europa League 2013-2014 disputatasi allo Juventus Stadium il 14 Maggio 2014 tra il Sevilla Fútbol Club e il Benfica.",
-                    "*Importante anche il contributo dell'automazione industriale alla crescente internazionalizzazione dell'Economia torinese, con la presenza di aziende come Prima Industrie e Comau, con quest'ultima (tra le prime 4 in Europa per fatturato) che realizza in tutto il mondo robot per i principali gruppi automobilistici.",
+                    "*Importante anche il contributo dell'automazione industriale alla crescente internazionalizzazione dell'economia torinese, con la presenza di aziende come Prima Industrie e Comau, con quest'ultima (tra le prime 4 in Europa per fatturato) che realizza in tutto il mondo robot per i principali gruppi automobilistici.",
                     "Il 14 maggio 2014 la città ha ospitato la finale di UEFA Europa League tra il Sevilla Fútbol Club e il Benfica."
                 ]
             }
@@ -1026,7 +974,7 @@
                     "Il Palazzo Reale (antica dimora dei duchi ed in seguito dei re di Casa Savoia);",
                     "Nel comune di Torino si trovano il Palazzo Reale, il Palazzo Madama, la Villa della Regina e il Castello del Valentino.",
                     "*Palazzo Reale e la zona di comando (o musei reali) ;",
-                    "\"Cinema a Palazzo Reale\". Arena estiva dedicata ai classici del Cinema che si svolge ogni anno, dal 2012, nel Cortile d'Onore di Palazzo Reale."
+                    "*\"Cinema a Palazzo Reale\". Arena estiva dedicata ai classici del Cinema che si svolge ogni anno, dal 2012, nel Cortile d'Onore di Palazzo Reale."
                 ]
             }
         },
@@ -1065,7 +1013,7 @@
                 "type": "museum",
                 "snippet": [
                     "Il Museo Egizio (il secondo più importante al mondo dopo quello de Il Cairo);",
-                    "Vi sono quattro musei nazionali (Museo del Cinema, Museo dell'automobile, Museo della montagna, Museo del Risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio, l'Armeria Reale, ora ricompresa nei Musei Reali, il Museo d'Arte Orientale, il Museo dell'Astronomia e Planetario, il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello Sport.",
+                    "Vi sono quattro musei nazionali (Museo del Cinema, Museo dell'automobile, Museo della montagna, Museo del Risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio, l'Armeria Reale, ora ricompresa nei Musei Reali, il Museo d'Arte Orientale, il Museo dell'Astronomia e Planetario, il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport.",
                     "Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il Museo del Cinema, il Museo Egizio e il Museo dell'Automobile) o sono in corso di rinnovamento:",
                     "Dal Museo di Antichità furono separate, negli anni quaranta del Novecento, le collezioni egizie che costituirono il Museo egizio, il più importante d'Europa (nonché il più antico al mondo), in quanto custode della seconda collezione di arte egizia del mondo per vastità e importanza dopo quella del Museo del Cairo."
                 ]
@@ -1168,7 +1116,7 @@
                 "class": "place",
                 "type": "suburb",
                 "snippet": [
-                    "Sede nel 1911 dell'Expo, nel 2006 dei XX Giochi olimpici invernali, dal 2021 (fino ad almeno il 2025) delle ATP Finals e nel 2022 della 66ª edizione dell'Eurovision Song Contest, città natale di alcuni fra i maggiori Simboli del Made in Italy nel mondo, tra cui il vermut, i giandujotti, i grissini e il caffè espresso, è il fulcro dell'industria automobilistica italiana, nonché importante centro dell'editoria, del sistema bancario e assicurativo, delle tecnologie dell'informazione, del Cinema, dell'enogastronomia, del settore aerospaziale, del disegno industriale, dello Sport, della moda e dell'intelligenza artificiale.",
+                    "Sede nel 1911 dell'Expo, nel 2006 dei XX Giochi olimpici invernali, dal 2021 (fino ad almeno il 2025) delle ATP Finals e nel 2022 della 66ª edizione dell'Eurovision Song Contest, città natale di alcuni fra i maggiori simboli del Made in Italy nel mondo, tra cui il vermut, i giandujotti, i grissini e il caffè espresso, è il fulcro dell'industria automobilistica italiana, nonché importante centro dell'editoria, del sistema bancario e assicurativo, delle tecnologie dell'informazione, del Cinema, dell'enogastronomia, del settore aerospaziale, del disegno industriale, dello sport, della moda e dell'intelligenza artificiale.",
                     "Oltre ai tre corsi d'acqua prima citati che ne incorniciano il territorio, abbiamo la Dora Riparia che taglia la città da ovest a est, scorrendo prossima al centro storico.",
                     "La città è al centro di un anfiteatro montuoso che ingloba alcune delle più belle vette alpine:",
                     "A differenza della stragrande maggioranza delle città italiane, che hanno una struttura viaria concentrica, con uno sviluppo di arterie radiali culminanti nel centro cittadino, sede delle principali attività pubbliche, il reticolo viario della città di Torino disegna una pianta a scacchiera, le sue vie cioè si sviluppano in linea retta incrociandosi a 90° con un orientamento simile a quello del castrum romano:",
@@ -1184,8 +1132,8 @@
                     "Torino è tra le sedi principali del Centro di Produzione Televisiva Rai, come quelli di Roma, Milano e Napoli.",
                     "Assieme a queste tre sedi, da quando ha iniziato i suoi programmi nel 1954, il centro di Torino (ospitante il Museo della Radio e della Televisione) è stato anche il primo dell'azienda televisiva.",
                     "Torino, inoltre, prima che si trasformasse in RAI, già ospitava il centro di direzione dell'EIAR dal 1927.",
-                    "A San Giusto Canavese è presente un importante centro di produzione cine-televisiva i Telecittà Studios, mentre a Torino c'è il Cineporto una struttura riservata alle Società di produzioni cinematografiche che vengono in città a girare film.",
-                    "\"VIEW Conference\": Evento internazionale incentrato sulla computer grafica, le tecniche interattive, il Cinema digitale, l'animazione 2D/3D, i videogiochi e gli effetti visivi. Si tiene ogni anno al Centro Congressi \"Torino Incontra\" durante la stagione autunnale.",
+                    "A San Giusto Canavese è presente un importante centro di produzione cine-televisiva i Telecittà Studios, mentre a Torino c'è il Cineporto una struttura riservata alle società di produzioni cinematografiche che vengono in città a girare film.",
+                    "\"VIEW Conference\": evento internazionale incentrato sulla computer grafica, le tecniche interattive, il Cinema digitale, l'animazione 2D/3D, i videogiochi e gli effetti visivi. Si tiene ogni anno al Centro Congressi \"Torino Incontra\" durante la stagione autunnale.",
                     "*Circoscrizione I: Centro - Crocetta ;",
                     "Alla già preesistente attività di ricerca del Politecnico di Torino, dell'Istituto Mario Boella, dell'Istituto Galileo Ferraris e del Centro Ricerche Fiat, si è affiancata l'attività del distretto informatico Torino Wireless che appartiene alla rete dei distretti italiani riconosciuti dal Ministero dell'Università e della Ricerca.",
                     "Un'altra operazione importante è stata la riconversione di una parte della superficie occupata dalla fabbrica di Mirafiori, sostenuta dal progetto Torino Nuova Economia che, anche grazie alla collaborazione con il Politecnico, ospita il Centro del design."
@@ -1896,26 +1844,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.63809,
-                    45.12651
-                ]
-            },
-            "properties": {
-                "entity": "Cimitero di Torino",
-                "name_location": "Cimitero, Corso Giuseppe Garibaldi, Altessano, Venaria Reale, Torino, Piemonte, 10078, Italia",
-                "class": "highway",
-                "type": "bus_stop",
-                "snippet": [
-                    "*Cimitero Monumentale (già Cimitero Generale): sito in Corso Novara, 135 (quartiere Regio Parco), è il primo Cimitero di Torino per dimensioni; contiene anche un Tempio Crematorio e un Cimitero giudaico; vi sono numerosi monumenti funebri di personaggi famosi e di pregevole fattura ;",
-                    "*Cimitero Parco (detto anche \"Cimitero del Gerbido\"): costruito nel 1972 nella zona all'estremo sud di Torino, è il secondo Cimitero di Torino per dimensioni ;"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     7.703516,
                     45.077022
                 ]
@@ -1945,6 +1873,26 @@
                 "class": "landuse",
                 "type": "cemetery",
                 "snippet": [
+                    "*Cimitero Parco (detto anche \"Cimitero del Gerbido\"): costruito nel 1972 nella zona all'estremo sud di Torino, è il secondo Cimitero di Torino per dimensioni ;"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.63809,
+                    45.12651
+                ]
+            },
+            "properties": {
+                "entity": "Cimitero di Torino",
+                "name_location": "Cimitero, Corso Giuseppe Garibaldi, Altessano, Venaria Reale, Torino, Piemonte, 10078, Italia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "Cimitero Monumentale (già Cimitero Generale): sito in Corso Novara, 135 (quartiere Regio Parco), è il primo Cimitero di Torino per dimensioni; contiene anche un Tempio Crematorio e un Cimitero giudaico; vi sono numerosi monumenti funebri di personaggi famosi e di pregevole fattura ;",
                     "*Cimitero Parco (detto anche \"Cimitero del Gerbido\"): costruito nel 1972 nella zona all'estremo sud di Torino, è il secondo Cimitero di Torino per dimensioni ;"
                 ]
             }
@@ -1992,26 +1940,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    17.481866,
-                    46.715609
+                    20.779299,
+                    40.621695
                 ]
             },
             "properties": {
-                "entity": "Sud",
-                "name_location": "Torino, Balatonpart utca, Bocskaitelep, Balatonfenyves, Fonyódi járás, Somogy megye, Dél-Dunántúl, Transdanubio, 8646, Ungheria",
-                "class": "amenity",
-                "type": "fast_food",
+                "entity": "Sud di Torino",
+                "name_location": "Torino, Rruga Gjon e Ndreci Pendavinji, Coriza, Bashkia Korçë, Prefettura di Coriza, Shqipëria Jugore, 7001, Albania",
+                "class": "shop",
+                "type": "optician",
                 "snippet": [
-                    "Torino sorge nella pianura delimitata dai fiumi Stura di Lanzo, Sangone e Po (quest'ultimo attraversa la città da sud verso nord), di fronte allo sbocco di alcune vallate alpine:",
-                    "Il Monviso, monte sul quale nasce il Po, il Rocciamelone, e i massicci del Gran Paradiso e del Monte Rosa, mentre il Cervino diventa visibile dalla zona sud-est dell'area urbana.",
-                    "Dopo il secondo dopoguerra Torino fu il simbolo della crescita economica dell'Italia, tanto che riuscì ad attirare centinaia di migliaia di emigranti dal Sud dell'Italia e dal Veneto per via delle richieste di manodopera negli stabilimenti automobilistici (circa mezzo milione nel ventennio 1951-1971).",
-                    "Un cardo maximus (direzione nord-sud) ed un decumanus maximus (direzione est-ovest), incrociantisi al centro del castrum, e parallele alle quali dovevano svilupparsi tutte le altre vie interne al castrum.",
                     "Cimitero Parco (detto anche \"Cimitero del Gerbido\"): costruito nel 1972 nella zona all'estremo sud di Torino, è il secondo Cimitero di Torino per dimensioni ;",
-                    "Cimitero di Mirafiori: piccolo Cimitero sito in corso Unione Sovietica 650, nella zona Sud di Torino ;",
-                    "La città è sede d'importanti centri dell'ONU, ospitati in un unico campus nella zona sud di Torino.",
-                    "*Così ridevano. Un fedele ritratto della Torino del boom economico e della forte immigrazione dal Sud.",
-                    "Circoscrizione II: Santa Rita - Mirafiori Nord - Mirafiori Sud ;",
-                    "La tangenzale di Torino è la A55, divisa in Tangenziale Nord e Tangenziale Sud, va da nord est fino a sud est passando in maniera semicircolare da ovest."
+                    "*Cimitero di Mirafiori: piccolo Cimitero sito in corso Unione Sovietica 650, nella zona Sud di Torino ;",
+                    "La città è sede d'importanti centri dell'ONU, ospitati in un unico campus nella zona sud di Torino."
                 ]
             }
         },
@@ -2301,6 +2242,25 @@
                     "La città è inoltre sede di diverse istituzioni teatrali, tra cui la principale è il Teatro Stabile di Torino, dichiarato Teatro Nazionale:",
                     "Fondato nel 1955, secondo in Italia dopo il Teatro Stabile di Milano, gestisce le produzioni stagionali del Carignano, del Gobetti e delle Fonderie Limone di Moncalieri.",
                     "Importante, poi, è il Teatro Gobetti, sede principale del sopracitato Teatro stabile cittadino."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.666241,
+                    45.005213
+                ]
+            },
+            "properties": {
+                "entity": "Fonderie Limone di Moncalieri",
+                "name_location": "Fonderie Limone Moncalieri, 88, Via Pastrengo, Moncalieri, Torino, Piemonte, 10024, Italia",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "Fondato nel 1955, secondo in Italia dopo il Teatro Stabile di Milano, gestisce le produzioni stagionali del Carignano, del Gobetti e delle Fonderie Limone di Moncalieri."
                 ]
             }
         },
@@ -2615,6 +2575,25 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -0.20708,
+                    51.490081
+                ]
+            },
+            "properties": {
+                "entity": "Café",
+                "name_location": "Cafe Torino, Baron's Court Road, West Kensington, Hammersmith e Fulham, Londra, Greater London, Inghilterra, W14 9DP, Regno Unito",
+                "class": "amenity",
+                "type": "cafe",
+                "snippet": [
+                    "*Café Müller ;"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.619419,
                     45.060835
                 ]
@@ -2758,12 +2737,12 @@
                 "class": "tourism",
                 "type": "apartment",
                 "snippet": [
-                    "Sede nel 1911 dell'Expo, nel 2006 dei XX Giochi olimpici invernali, dal 2021 (fino ad almeno il 2025) delle ATP Finals e nel 2022 della 66ª edizione dell'Eurovision Song Contest, città natale di alcuni fra i maggiori Simboli del Made in Italy nel mondo, tra cui il vermut, i giandujotti, i grissini e il caffè espresso, è il fulcro dell'industria automobilistica italiana, nonché importante centro dell'editoria, del sistema bancario e assicurativo, delle tecnologie dell'informazione, del Cinema, dell'enogastronomia, del settore aerospaziale, del disegno industriale, dello Sport, della moda e dell'intelligenza artificiale.",
+                    "Sede nel 1911 dell'Expo, nel 2006 dei XX Giochi olimpici invernali, dal 2021 (fino ad almeno il 2025) delle ATP Finals e nel 2022 della 66ª edizione dell'Eurovision Song Contest, città natale di alcuni fra i maggiori simboli del Made in Italy nel mondo, tra cui il vermut, i giandujotti, i grissini e il caffè espresso, è il fulcro dell'industria automobilistica italiana, nonché importante centro dell'editoria, del sistema bancario e assicurativo, delle tecnologie dell'informazione, del Cinema, dell'enogastronomia, del settore aerospaziale, del disegno industriale, dello sport, della moda e dell'intelligenza artificiale.",
                     "Tra i monumenti di Torino più noti anche all'estero sono da citare l'ottocentesca Mole Antonelliana, simbolo incontrastato della città, che ospita il Museo nazionale del Cinema (il principale d'Europa);",
                     "*Fra questi il Teatro Balbo e il Teatro di Torino, distrutti durante un bombardamento nel 1943, il Teatro Rossini, bruciato in un incendio nel 1941, i teatri Adua, Gianduja, Gerbino e Arena torinese, smantellati, e, infine, il Teatro Nazionale riconvertito a Cinema;",
                     "La Biblioteca nazionale di Torino e la Biblioteca Reale di proprietà dello Stato, la Biblioteca civica centrale e molte collezioni specializzate come la Biblioteca internazionale di Cinema e fotografia Mario Gromo, la Biblioteca Nazionale del Club Alpino Italiano, la Biblioteca della Fondazione Luigi Einaudi, le biblioteche d'arte della Galleria civica d'arte moderna e contemporanea e dell'Accademia Albertina.",
                     "Il Centro sperimentale cinematografico appartenente alla Scuola nazionale di Cinema .",
-                    "Vi sono quattro musei nazionali (Museo del Cinema, Museo dell'automobile, Museo della montagna, Museo del Risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio, l'Armeria Reale, ora ricompresa nei Musei Reali, il Museo d'Arte Orientale, il Museo dell'Astronomia e Planetario, il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello Sport.",
+                    "Vi sono quattro musei nazionali (Museo del Cinema, Museo dell'automobile, Museo della montagna, Museo del Risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio, l'Armeria Reale, ora ricompresa nei Musei Reali, il Museo d'Arte Orientale, il Museo dell'Astronomia e Planetario, il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport.",
                     "Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il Museo del Cinema, il Museo Egizio e il Museo dell'Automobile) o sono in corso di rinnovamento:",
                     "Giovanni Pastrone vi girò uno dei primi colossal della storia del Cinema:",
                     "Nel 1956 venne aperto il Museo nazionale del Cinema, dapprima ospitato a Palazzo Chiablese e poi, dal 2000, nell'imponente sede della Mole Antonelliana.",
@@ -2771,7 +2750,7 @@
                     "A Torino si svolgono il Torino Gay & Lesbian Film Festival, il Festival Internazionale Cinema delle Donne, il Sottodiciotto Filmfestival legato ai temi dell'adolescenza, CinemAmbiente, la VIEW Conference (in precedenza Virtuality, manifestazione interamente dedicata alla realtà virtuale) e il Piemonte Movie-gLocal Film Festival, dedicato alla cinematografia regionale.",
                     "Sono nati a Torino il primo Cinema d'essai italiano (il Romano nella Galleria Subalpina, nel 1971), la principale associazione cinematografica nazionale (l'Aiace Torino) e la prima multisala del Paese (l'Eliseo, nel 1983).",
                     "Nel 2007 è stata fondata a Torino la casa di distribuzione cinematografica italiana Movies Inspired, con sede legale (dal 2014) nello storico Cinema Classico (già Impero - Vittorio Veneto - Empire).",
-                    "\"VIEW Conference\": Evento internazionale incentrato sulla computer grafica, le tecniche interattive, il Cinema digitale, l'animazione 2D/3D, i videogiochi e gli effetti visivi. Si tiene ogni anno al Centro Congressi \"Torino Incontra\" durante la stagione autunnale.",
+                    "\"VIEW Conference\": evento internazionale incentrato sulla computer grafica, le tecniche interattive, il Cinema digitale, l'animazione 2D/3D, i videogiochi e gli effetti visivi. Si tiene ogni anno al Centro Congressi \"Torino Incontra\" durante la stagione autunnale.",
                     "VIEWFest.: il Festival del Cinema Digitale organizzato da VIEW Conference, si svolge annualmente al Cinema Massimo.",
                     "\"Cinema a Palazzo Reale\". Arena estiva dedicata ai classici del Cinema che si svolge ogni anno, dal 2012, nel Cortile d'Onore di Palazzo Reale.",
                     "Culla del Cinema italiano, grazie all'associazione Torino Film Commission, la città è diventata un'apprezzata quinta per l'ambientazione e la produzione di film, pubblicità e video musicali.",
@@ -2794,7 +2773,7 @@
                 "class": "tourism",
                 "type": "attraction",
                 "snippet": [
-                    "*Inoltre v'è una sala teatrale, oggi in disuso, nell'edificio storico della Cavallerizza Reale."
+                    "Inoltre v'è una sala teatrale, oggi in disuso, nell'edificio storico della Cavallerizza Reale."
                 ]
             }
         },
@@ -2943,7 +2922,7 @@
             },
             "properties": {
                 "entity": "Porta Palazzo",
-                "name_location": "Porta Palazzo, Piazza della Repubblica, Porta Palazzo, Circoscrizione 7, Torino, Piemonte, 10152, Italia",
+                "name_location": "Porta Palazzo, Piazza della Repubblica, Quadrilatero Romano, Circoscrizione 1, Torino, Piemonte, 10122, Italia",
                 "class": "amenity",
                 "type": "marketplace",
                 "snippet": [
@@ -2989,7 +2968,7 @@
                 "class": "landuse",
                 "type": "landfill",
                 "snippet": [
-                    "*L'igiene urbana e la raccolta rifiuti sono gestiti dal 1969 da Amiat, Società che si occupa anche del recupero ambientale della Discarica Basse di Stura, di cui la parte più vecchia - esaurita nel 1983 e con una superficie complessiva di 300.000 m² - è diventata Parco fluviale, Nota come Parco urbano della Marmorina."
+                    "*L'igiene urbana e la raccolta rifiuti sono gestiti dal 1969 da Amiat, società che si occupa anche del recupero ambientale della Discarica Basse di Stura, di cui la parte più vecchia - esaurita nel 1983 e con una superficie complessiva di 300.000 m² - è diventata Parco fluviale, nota come Parco urbano della Marmorina."
                 ]
             }
         },
@@ -3008,7 +2987,7 @@
                 "class": "leisure",
                 "type": "park",
                 "snippet": [
-                    "*L'igiene urbana e la raccolta rifiuti sono gestiti dal 1969 da Amiat, Società che si occupa anche del recupero ambientale della Discarica Basse di Stura, di cui la parte più vecchia - esaurita nel 1983 e con una superficie complessiva di 300.000 m² - è diventata Parco fluviale, Nota come Parco urbano della Marmorina."
+                    "*L'igiene urbana e la raccolta rifiuti sono gestiti dal 1969 da Amiat, società che si occupa anche del recupero ambientale della Discarica Basse di Stura, di cui la parte più vecchia - esaurita nel 1983 e con una superficie complessiva di 300.000 m² - è diventata Parco fluviale, nota come Parco urbano della Marmorina."
                 ]
             }
         },
@@ -3402,6 +3381,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.653074,
+                    45.082417
+                ]
+            },
+            "properties": {
+                "entity": "Moncenisio",
+                "name_location": "Moncenisio, Via Luigi Cibrario, Martinetto, Circoscrizione 4, Torino, Piemonte, 10143, Italia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "Il confine francese dista circa 70 km nei pressi del Colle del Moncenisio, mentre sono 206 i chilometri che separano Piazza Castello da Chambery, 222 da Nizza, 250 da Ginevra e 314 da Lione.",
+                    "*Per Torino passa la Via Francigena, ramo del Moncenisio.",
+                    "L'itinerario, fra i preferiti nel Medioevo, valicato lo spartiacque Francia/Italia al Colle del Moncenisio, giunge dalla Valle di Susa terra delle grandi abbazie come Novalesa, Sacra di San Michele e Sant'Antonio di Ranverso e passando per Torino lungo il Parco Colletta tende a San Mauro Torinese e poi verso Chivasso e successivamente a Vercelli, dove si congiunge con l'altro ramo della Francigena, quella proveniente dal Colle del Gran San Bernardo."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.343098,
                     45.097948
                 ]
@@ -3460,6 +3460,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.767099,
+                    45.080515
+                ]
+            },
+            "properties": {
+                "entity": "Superga",
+                "name_location": "Superga, Torino, Piemonte, 10099, Italia",
+                "class": "natural",
+                "type": "peak",
+                "snippet": [
+                    "A questi si aggiunge la Basilica di Superga la quale, pur facendo parte del circuito delle residenze sabaude, non è compresa nella lista UNESCO.",
+                    "Filippo Juvarra (Basilica di Superga, Chiesa di San Filippo Neri, Santuario della Consolata, Chiesa di Santa Cristina, Chiesa della Madonna del Carmine) ;",
+                    "*Definita da Le Corbusier come «...la città con la più bella posizione naturale del mondo», celebrata da numerosi personaggi storici, tra cui Friedrich Nietzsche, Mark Twain e Jean-Jacques Rousseau, il quale descrisse il suo panorama dalla collina di Superga come «...il più bello spettacolo che possa colpire l'occhio umano», è una delle più importanti città barocche d'Europa ed è considerata, insieme a Milano e Palermo, la capitale italiana dell'Art Nouveau, di cui sono grande esempio, fra l'altro, i suoi innumerevoli e famosi caffè storici, fioriti soprattutto nel periodo risorgimentale e della Belle Époque."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.661512,
                     45.017949
                 ]
@@ -3509,27 +3530,8 @@
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
-                    "Vi sono quattro musei nazionali (Museo del Cinema, Museo dell'automobile, Museo della montagna, Museo del Risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio, l'Armeria Reale, ora ricompresa nei Musei Reali, il Museo d'Arte Orientale, il Museo dell'Astronomia e Planetario, il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello Sport.",
+                    "Vi sono quattro musei nazionali (Museo del Cinema, Museo dell'automobile, Museo della montagna, Museo del Risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio, l'Armeria Reale, ora ricompresa nei Musei Reali, il Museo d'Arte Orientale, il Museo dell'Astronomia e Planetario, il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport.",
                     "Da ricordare il Museo dell'astronomia e Planetario di Torino, che sorge accanto dell'Osservatorio astronomico di Torino a Pino Torinese, cittadina collinare nei pressi immediati del capoluogo piemontese."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.679763,
-                    45.049755
-                ]
-            },
-            "properties": {
-                "entity": "Museo di antropologia criminale",
-                "name_location": "Museo di antropologia criminale Lombroso, 15, Via Pietro Giuria, San Salvario, Circoscrizione 8, Torino, Piemonte, 10126, Italia",
-                "class": "tourism",
-                "type": "museum",
-                "snippet": [
-                    "Tra questi, il Museo di anatomia umana Luigi Rolando, il Museo di Antropologia ed Etnografia, ed il Museo di antropologia criminale Cesare Lombroso, che verranno unificati in un unico Museo dell'Uomo, all'interno del \"Palazzo degli Istituti Anatomici\" di corso Massimo d'Azeglio."
                 ]
             }
         },
@@ -3587,7 +3589,7 @@
                 "type": "information",
                 "snippet": [
                     "Palazzo Reale e la zona di comando (o musei reali) ;",
-                    "*Vi sono quattro musei nazionali (Museo del Cinema, Museo dell'automobile, Museo della montagna, Museo del Risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio, l'Armeria Reale, ora ricompresa nei Musei Reali, il Museo d'Arte Orientale, il Museo dell'Astronomia e Planetario, il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello Sport.",
+                    "*Vi sono quattro musei nazionali (Museo del Cinema, Museo dell'automobile, Museo della montagna, Museo del Risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio, l'Armeria Reale, ora ricompresa nei Musei Reali, il Museo d'Arte Orientale, il Museo dell'Astronomia e Planetario, il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport.",
                     "Per l'arte figurativa è da citare la Galleria Sabauda, una delle più importanti pinacoteche d'Italia oggi parte dei Musei Reali, che ospita dipinti per il periodo che va dal XII al XVIII secolo."
                 ]
             }
@@ -3626,25 +3628,6 @@
                 "name_location": "Fondazione Sandretto Re Rebaudengo, 16, Via Modane, Polo Nord, Circoscrizione 3, Torino, Piemonte, 10141, Italia",
                 "class": "amenity",
                 "type": "arts_centre",
-                "snippet": [
-                    ", il Museo civico d'arte antica di Palazzo Madama, la Fondazione Sandretto Re Rebaudengo contenente esposizioni degli artisti contemporanei provenienti da tutto il mondo e la Pinacoteca Giovanni e Marella Agnelli e la Fondazione Merz."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.642805,
-                    45.062092
-                ]
-            },
-            "properties": {
-                "entity": "Fondazione Merz",
-                "name_location": "Fondazione Merz, 24, Via Limone, Borgo San Paolo, Circoscrizione 3, Torino, Piemonte, 10141, Italia",
-                "class": "tourism",
-                "type": "museum",
                 "snippet": [
                     ", il Museo civico d'arte antica di Palazzo Madama, la Fondazione Sandretto Re Rebaudengo contenente esposizioni degli artisti contemporanei provenienti da tutto il mondo e la Pinacoteca Giovanni e Marella Agnelli e la Fondazione Merz."
                 ]
@@ -3903,6 +3886,25 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.67894,
+                    44.910862
+                ]
+            },
+            "properties": {
+                "entity": "Ospedale",
+                "name_location": "Ospedale, Corso Torino, Carignano, Torino, Piemonte, 10041, Italia",
+                "class": "amenity",
+                "type": "hospital",
+                "snippet": [
+                    "Una delle più importanti produzioni ambientate a Torino è la soap opera CentoVetrine che utilizza la gran parte delle location esterne per le case dei protagonisti, il commissariato Franco Balbis, il carcere, l'Ospedale e le principali piazze."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.685054,
                     45.072926
                 ]
@@ -4083,6 +4085,34 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    17.481866,
+                    46.715609
+                ]
+            },
+            "properties": {
+                "entity": "Sud",
+                "name_location": "Torino, Balatonpart utca, Bocskaitelep, Balatonfenyves, Fonyódi járás, Somogy megye, Dél-Dunántúl, Transdanubio, 8646, Ungheria",
+                "class": "amenity",
+                "type": "fast_food",
+                "snippet": [
+                    "Torino sorge nella pianura delimitata dai fiumi Stura di Lanzo, Sangone e Po (quest'ultimo attraversa la città da sud verso nord), di fronte allo sbocco di alcune vallate alpine:",
+                    "Il Monviso, monte sul quale nasce il Po, il Rocciamelone, e i massicci del Gran Paradiso e del Monte Rosa, mentre il Cervino diventa visibile dalla zona sud-est dell'area urbana.",
+                    "Dopo il secondo dopoguerra Torino fu il simbolo della crescita economica dell'Italia, tanto che riuscì ad attirare centinaia di migliaia di emigranti dal Sud dell'Italia e dal Veneto per via delle richieste di manodopera negli stabilimenti automobilistici (circa mezzo milione nel ventennio 1951-1971).",
+                    "Un cardo maximus (direzione nord-sud) ed un decumanus maximus (direzione est-ovest), incrociantisi al centro del castrum, e parallele alle quali dovevano svilupparsi tutte le altre vie interne al castrum.",
+                    "Cimitero Parco (detto anche \"Cimitero del Gerbido\"): costruito nel 1972 nella zona all'estremo sud di Torino, è il secondo Cimitero di Torino per dimensioni ;",
+                    "Cimitero di Mirafiori: piccolo Cimitero sito in corso Unione Sovietica 650, nella zona Sud di Torino ;",
+                    "La città è sede d'importanti centri dell'ONU, ospitati in un unico campus nella zona sud di Torino.",
+                    "*Così ridevano. Un fedele ritratto della Torino del boom economico e della forte immigrazione dal Sud.",
+                    "Circoscrizione II: Santa Rita - Mirafiori Nord - Mirafiori Sud ;",
+                    "La tangenzale di Torino è la A55, divisa in Tangenziale Nord e Tangenziale Sud, va da nord est fino a sud est passando in maniera semicircolare da ovest."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.306693,
                     45.089271
                 ]
@@ -4135,26 +4165,6 @@
                 "type": "information",
                 "snippet": [
                     "*Il divo. Le riprese sono state effettuate a Palazzo Saluzzo Paesana, a Palazzo Birago di Borgaro, a Palazzo dei Draghi, in via Carlo Alberto, nella Casa Circondariale \"Lorusso e Cutugno\", al Palazzo Civico e al Ponte Rossini."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.66541,
-                    45.127115
-                ]
-            },
-            "properties": {
-                "entity": "Borgaro",
-                "name_location": "Borgaro, Tangenziale Nord, Circoscrizione 6, Villaretto, Torino, Piemonte, 10148, Italia",
-                "class": "highway",
-                "type": "motorway_junction",
-                "snippet": [
-                    "Ciò non è dipeso soltanto dal ritorno di molti immigrati del Mezzogiorno nelle loro regioni di origine, ma dagli spostamenti avvenuti da Torino verso quella che poi divenne l'area Metropolitana, determinando così l'espansione dei comuni della seconda (Vinovo, Candiolo, Orbassano, Rivalta di Torino, Rivoli, Alpignano, Pianezza, Druento, Caselle Torinese) e della prima cintura (Moncalieri, Nichelino, Beinasco, Grugliasco, Collegno, Venaria Reale, Borgaro Torinese, Settimo Torinese, San Mauro Torinese).",
-                    "Il divo. Le riprese sono state effettuate a Palazzo Saluzzo Paesana, a Palazzo Birago di Borgaro, a Palazzo dei Draghi, in via Carlo Alberto, nella Casa Circondariale \"Lorusso e Cutugno\", al Palazzo Civico e al Ponte Rossini."
                 ]
             }
         },
@@ -4417,6 +4427,25 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    6.877498,
+                    44.9587
+                ]
+            },
+            "properties": {
+                "entity": "Club Europa",
+                "name_location": "Sci club Sestriere, Via Europa, Sestriere, Torino, Piemonte, 10058, Italia",
+                "class": "club",
+                "type": "sport",
+                "snippet": [
+                    "Club to Club: festival internazionale di musica e arti elettroniche che dal 2006 coinvolge, con la sezione \"Club Europa\", un'importante città europea, con scambio di pubblico, artisti, iniziative;"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.673323,
                     45.088623
                 ]
@@ -4427,7 +4456,26 @@
                 "class": "leisure",
                 "type": "park",
                 "snippet": [
-                    "*Kappa FuturFestival: nato come Evento artistico nel 2009, è, dal 2012, un festival di Musica elettronica diurno che si svolge al Parco Dora."
+                    "*Kappa FuturFestival: nato come evento artistico nel 2009, è, dal 2012, un festival di musica elettronica diurno che si svolge al Parco Dora."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.702657,
+                    45.077302
+                ]
+            },
+            "properties": {
+                "entity": "Cimitero monumentale di Torino",
+                "name_location": "Cimitero Monumentale, Corso Novara, Rossini, Circoscrizione 7, Torino, Piemonte, 10153, Italia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*Simboli massonici sono presenti in molti palazzi e in alcune tombe del Cimitero monumentale di Torino."
                 ]
             }
         },
@@ -4493,45 +4541,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.241786,
-                    44.167396
-                ]
-            },
-            "properties": {
-                "entity": "Rotonda",
-                "name_location": "Rotonda Torino, Quartiere Ravennate, Martorano, Cesena, Unione dei comuni Valle del Savio, Forlì-Cesena, Emilia-Romagna, Italia",
-                "class": "highway",
-                "type": "secondary",
-                "snippet": [
-                    "*Il rondò 'd la forca (Rotonda della forca)."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.676433,
-                    45.078838
-                ]
-            },
-            "properties": {
-                "entity": "forca",
-                "name_location": "Rondò della Forca, Quadrilatero Romano, Circoscrizione 1, Torino, Piemonte, 10122, Italia",
-                "class": "highway",
-                "type": "primary",
-                "snippet": [
-                    "Cimitero di San Pietro in Vincoli: sito nell'omonima via del borgo Aurora, fu il primo Cimitero della città, costruito nel 1777 sui disegni dell'architetto Francesco Valeriano Dellala di Beinasco, a seguito del decreto del re Vittorio Amedeo III, che vietava l'inumazione dei defunti nelle chiese. Dismesso presto a causa delle dimensioni troppo esigue, venne chiuso nel 1829 e utilizzato poi per breve tempo come Cimitero dei giustiziati, essendo situato molto vicino all'antica piazza della forca. Oggi è utilizzato come sede per eventi artistici e culturali.",
-                    "Il rondò 'd la forca (Rotonda della forca)."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     7.669176,
                     45.023395
                 ]
@@ -4572,6 +4581,37 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.666883,
+                    45.031404
+                ]
+            },
+            "properties": {
+                "entity": "Lingotto",
+                "name_location": "Lingotto, Via Nizza, Nizza Millefonti, Circoscrizione 8, Torino, Piemonte, 10126, Italia",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*Lingotto ;",
+                    "Cimitero del Lingotto: era sito in via Passo Buole, circa a metà Strada fra le vie Pio VII e corso Unione Sovietica. Già inattivo da prima della seconda guerra mondiale, il terreno su cui sorgeva è oggi occupato dal Parco Di Vittorio.",
+                    "*Auditorium \"Gianni Agnelli\" del Lingotto ;",
+                    "*Ispirandosi sempre a questo film, nell'episodio La zingara di Budapest della serie TV MacGyver, fu riprodotto il famoso inseguimento nel traffico torinese, rifacendo alcune scene ed utilizzando anche scene della pellicola originale, come l'inseguimento sulla pista di collaudo automobilistico sita sul tetto dell'ex stabilimento FIAT del Lingotto.",
+                    "Inoltre, notevole rilevanza è rivestita dalle stagioni annuali dell'Unione Musicale e di Lingotto Musica, che vantano numerose collaborazioni con prestigiosi solisti e orchestre internazionali.",
+                    "\"EUROMINERALEXPO\": fiera dedicata a minerali, fossili, pietre preziose e bigiotteria, vero punto di riferimento per studiosi e appassionati di geologia, che si svolge a Torino da oltre cinquant'anni, solitamente il primo fine settimana di Ottobre, ospitata nel corso degli anni in varie sedi, dal vecchio \"Palazzo a Vela\", al Lingotto Fiere, fino al PalaAlpitour.",
+                    "*\"ARTissima\": fiera dedicata all'arte contemporanea che si tiene al Lingotto verso novembre.",
+                    "*\"Salone internazionale del libro\": fiera dell'editoria in Italia, che si tiene ogni maggio al Lingotto.",
+                    "*\"Festival internazionale Terra Madre\": festival biennale fondato nel 2004 da Slow Food presso l'Oval Lingotto sui temi dei modelli di produzione agro-alimentare sostenibili e della salvaguardia della biodiversità, della qualità organolettica ma anche del rispetto dell'ambiente e delle persone. Al Lingotto, in contemporanea, si svolgono il \"Salone internazionale del gusto\" e il \"Salone del vino\".",
+                    "\"Torino Comics\": salone e mostra Mercato del fumetto, nata nel 1994, che si svolge in primavera al Lingotto Fiere di Torino.",
+                    "Campionato mondiale di scherma 2006 svoltosi dal 30 settembre al 7 ottobre 2006 all'interno dell'Oval Lingotto.",
+                    "Torino 2008 World Design Capital: la città nel 2008 è stata la prima \"capitale mondiale del design\". Il titolo, conferito a Copenaghen dall'ICSID (International Council of Societies of Industrial Design), è stato creato appositamente per la Città di Torino per riconosciuti meriti e competenze presenti sul territorio. Contemporaneamente a tale occasione, dal 30 giugno al 2 luglio, al Lingotto Fiere si è svolto il \"XXIII congresso mondiale degli architetti\", accompagnato dalla mostra \"Architetture sensibili\", inaugurata il 26 luglio nel Castello di Rivara.",
+                    "Circoscrizione VIII: San Salvario - Cavoretto - Borgo Po - Nizza Millefonti - Lingotto - Filadelfia ."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.688691,
                     45.064629
                 ]
@@ -4582,7 +4622,7 @@
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
-                    "*Share Festival: Evento internazionale di arti e culture digitali che si tiene a novembre al Museo di Scienze Naturali."
+                    "*Share Festival: evento internazionale di arti e culture digitali che si tiene a novembre al Museo di Scienze Naturali."
                 ]
             }
         },
@@ -4601,7 +4641,7 @@
                 "class": "place",
                 "type": "house",
                 "snippet": [
-                    "*\"VIEW Conference\": Evento internazionale incentrato sulla computer grafica, le tecniche interattive, il Cinema digitale, l'animazione 2D/3D, i videogiochi e gli effetti visivi. Si tiene ogni anno al Centro Congressi \"Torino Incontra\" durante la stagione autunnale."
+                    "*\"VIEW Conference\": evento internazionale incentrato sulla computer grafica, le tecniche interattive, il Cinema digitale, l'animazione 2D/3D, i videogiochi e gli effetti visivi. Si tiene ogni anno al Centro Congressi \"Torino Incontra\" durante la stagione autunnale."
                 ]
             }
         },
@@ -4736,7 +4776,7 @@
                 "class": "shop",
                 "type": "books",
                 "snippet": [
-                    "*\"Esperienza Italia 150\": serie di eventi e di iniziative, svoltesi a Torino per nove mesi a partire dal 17 Marzo 2011 fino a fine anno, per commemorare i 150 anni dell'Unità d'Italia, attraverso mostre tematiche allestite alle Officine Grandi Riparazioni e alla Reggia di Venaria Reale."
+                    "\"Esperienza Italia 150\": serie di eventi e di iniziative, svoltesi a Torino per nove mesi a partire dal 17 Marzo 2011 fino a fine anno, per commemorare i 150 anni dell'Unità d'Italia, attraverso mostre tematiche allestite alle Officine Grandi Riparazioni e alla Reggia di Venaria Reale."
                 ]
             }
         },
@@ -4819,6 +4859,35 @@
                     "*A Grugliasco vengono prodotte Ghibli e Quattroporte, mentre nello stabilimento di Mirafiori viene prodotta, dall'inizio del 2016, la nuova Maserati Levante.",
                     "*Un'altra operazione importante è stata la riconversione di una parte della superficie occupata dalla fabbrica di Mirafiori, sostenuta dal progetto Torino Nuova Economia che, anche grazie alla collaborazione con il Politecnico, ospita il Centro del design.",
                     "*Torino Mirafiori - Il primo scalo aereo della città fu quello di Mirafiori, costruito per scopi militari e inaugurato nel 1911. L'Aeroporto, a causa dei forti danni strutturali subiti durante i bombardamenti della seconda guerra mondiale, venne dismesso nel 1947 e l'area venne data in gestione al CNR fino all'anno 1976, quando venne convertita a Parco pubblico intitolato a Gustavo Colonnetti."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.682489,
+                    45.067755
+                ]
+            },
+            "properties": {
+                "entity": "Metropolitana",
+                "name_location": "Torino, Piemonte, Italia",
+                "class": "boundary",
+                "type": "administrative",
+                "snippet": [
+                    "Torino (IPA: , ; Turin in piemontese , ) è un comune italiano di 844 056 abitanti (al 31 agosto 2022), quarto comune italiano per popolazione e capoluogo della regione Piemonte e dell'omonima città metropolitana.",
+                    "Cuore di un'area metropolitana che conta circa 1,7 milioni di abitanti, Torino è il terzo complesso economico-produttivo del Paese (insieme a Milano e Genova componeva il triangolo industriale negli anni del boom economico) e costituisce uno dei maggiori poli universitari, artistici, turistici, scientifici e culturali d'Italia.",
+                    "Ciò non è dipeso soltanto dal ritorno di molti immigrati del Mezzogiorno nelle loro regioni di origine, ma dagli spostamenti avvenuti da Torino verso quella che poi divenne l'area metropolitana, determinando così l'espansione dei comuni della seconda (Vinovo, Candiolo, Orbassano, Rivalta di Torino, Rivoli, Alpignano, Pianezza, Druento, Caselle Torinese) e della prima cintura (Moncalieri, Nichelino, Beinasco, Grugliasco, Collegno, Venaria Reale, Borgaro Torinese, Settimo Torinese, San Mauro Torinese).",
+                    "Inoltre, i comuni di cintura dell'area urbana e metropolitana cittadina possiedono un sistema bibliotecario integrato denominato SBAM (Sistema Bibliotecario Area Metropolitana) composto di 65 biblioteche per un totale di circa 1.700.000 documenti.",
+                    "A Torino o nella sua città metropolitana hanno sede legale anche diverse filiali italiane di società estere come Suzuki, Vodafone Italia, Bavaria, Diageo, Michelin, Kimberly-Clark, Petronas, Mizuno e SKF.",
+                    "Grandi opere pubbliche come quelle per il Passante Ferroviario, la Metropolitana e le Spine hanno ridisegnato e stanno ridisegnando il volto della città.",
+                    "Il servizio ferroviario metropolitano di Torino (SFM) è un sistema di trasporto pubblico locale della Città Metropolitana di Torino coordinato dall'Agenzia Mobilità Metropolitana ed interamente finanziato dalla Regione Piemonte.",
+                    "Il SFM offre un collegamento fra le diverse zone del Torinese e delle contigue province di Cuneo e Asti, permettendo coincidenze cadenzate tra i treni del servizio ferroviario regionale del Piemonte, i treni a lunga percorrenza ed AV, la rete tranviaria di Torino e autobus urbani, con autobus extraurbani e la metropolitana di Torino.",
+                    "Nel territorio comunale di Torino il sistema di mobilità metropolitana e ferroviaria urbana si sviluppa complessivamente per 29 km, articolati su 8 linee servite da 28 stazioni.",
+                    "Per i suoi acquisti verdi la città di Torino ha raggiunto il secondo posto dell'European Gpp Award del 2016, alle spalle delle città di Vienna e davanti alla città metropolitana di Torino.",
+                    "A Torino è in funzione la prima metropolitana automatica d'Italia utilizzante veicoli leggeri, frequenti e senza conducente."
                 ]
             }
         },
@@ -5026,28 +5095,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.644503,
-                    45.176083
-                ]
-            },
-            "properties": {
-                "entity": "Caselle Torinese",
-                "name_location": "Caselle Torinese, Via Circonvallazione, Caselle Torinese, Torino, Piemonte, 10072, Italia",
-                "class": "railway",
-                "type": "station",
-                "snippet": [
-                    "Il 13 settembre 2008 l'Osservatorio Meteorologico di Caselle Torinese, 14 km a nord-ovest di Torino, registrò una pioggia temporalesca di 220 mm in sei ore, quantitativo senza precedenti noti nella pianura torinese.",
-                    "*Ciò non è dipeso soltanto dal ritorno di molti immigrati del Mezzogiorno nelle loro regioni di origine, ma dagli spostamenti avvenuti da Torino verso quella che poi divenne l'area Metropolitana, determinando così l'espansione dei comuni della seconda (Vinovo, Candiolo, Orbassano, Rivalta di Torino, Rivoli, Alpignano, Pianezza, Druento, Caselle Torinese) e della prima cintura (Moncalieri, Nichelino, Beinasco, Grugliasco, Collegno, Venaria Reale, Borgaro Torinese, Settimo Torinese, San Mauro Torinese).",
-                    "RA10 Torino - Caselle Torinese - Aeroporto di Torino-Caselle .",
-                    "*La tratta urbana di competenza del GTT è quella che parte da Torino Dora e che va sino alla periferia Nord al confine con il comune di Venaria Reale (direzione Caselle Torinese - Aeroporto Sandro Pertini - Ceres)."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     7.706043,
                     45.062907
                 ]
@@ -5143,27 +5190,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.682489,
-                    45.067755
-                ]
-            },
-            "properties": {
-                "entity": "Metropolitana di Torino",
-                "name_location": "Torino, Piemonte, Italia",
-                "class": "boundary",
-                "type": "administrative",
-                "snippet": [
-                    "È un sistema di trasporto pubblico locale della Città Metropolitana di Torino coordinato dall'Agenzia Mobilità Metropolitana ed interamente finanziato dalla Regione Piemonte.",
-                    "Il SFM offre un collegamento fra le diverse zone del Torinese e delle contigue province di Cuneo e Asti, permettendo coincidenze cadenzate tra i treni del servizio ferroviario regionale del Piemonte, i treni a lunga percorrenza ed AV, la rete tranviaria di Torino e autobus urbani, con autobus extraurbani e la Metropolitana di Torino.",
-                    "*Per i suoi acquisti verdi la città di Torino ha raggiunto il secondo posto dell'European Gpp Award del 2016, alle spalle delle città di Vienna e davanti alla città Metropolitana di Torino."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     7.662185,
                     45.115371
                 ]
@@ -5180,7 +5206,7 @@
                     "*L'Aeroporto di Torino-Caselle, un Aeroporto di medie dimensioni (200-300 ettari, 1-5 milioni di passeggeri all'anno) inaugurato nel 1953.",
                     "È presente anche l'Aeroporto di Torino-Cuneo, in provincia di Cuneo, che fa riferimento al capoluogo piemontese come secondo Aeroporto del Piemonte.",
                     "In corso Marche, inoltre, è presente l'Aeroporto di Torino-Aeritalia:",
-                    "Inaugurato nel 1916, dopo la costruzione dell'Aeroporto di Caselle è rimasto in uso come struttura di aviazione generale e da Turismo, affiancato da una scuola di volo per aerei ed elicotteri e dalla sede dei velivoli di elisoccorso e protezione civile.",
+                    "Inaugurato nel 1916, dopo la costruzione dell'Aeroporto di Caselle è rimasto in uso come struttura di aviazione generale e da turismo, affiancato da una scuola di volo per aerei ed elicotteri e dalla sede dei velivoli di elisoccorso e protezione civile.",
                     "*Torino Mirafiori - Il primo scalo aereo della città fu quello di Mirafiori, costruito per scopi militari e inaugurato nel 1911. L'Aeroporto, a causa dei forti danni strutturali subiti durante i bombardamenti della seconda guerra mondiale, venne dismesso nel 1947 e l'area venne data in gestione al CNR fino all'anno 1976, quando venne convertita a Parco pubblico intitolato a Gustavo Colonnetti.",
                     "Torino Piossasco - Aeroporto Cerrina (Codice ICAO: LILT)."
                 ]
@@ -5239,7 +5265,7 @@
                 "class": "highway",
                 "type": "bus_stop",
                 "snippet": [
-                    "*Inaugurato nel 1916, dopo la costruzione dell'Aeroporto di Caselle è rimasto in uso come struttura di aviazione generale e da Turismo, affiancato da una scuola di volo per aerei ed elicotteri e dalla sede dei velivoli di elisoccorso e protezione civile."
+                    "*Inaugurato nel 1916, dopo la costruzione dell'Aeroporto di Caselle è rimasto in uso come struttura di aviazione generale e da turismo, affiancato da una scuola di volo per aerei ed elicotteri e dalla sede dei velivoli di elisoccorso e protezione civile."
                 ]
             }
         },
@@ -5278,25 +5304,6 @@
                 "type": "park",
                 "snippet": [
                     "*Torino Mirafiori - Il primo scalo aereo della città fu quello di Mirafiori, costruito per scopi militari e inaugurato nel 1911. L'Aeroporto, a causa dei forti danni strutturali subiti durante i bombardamenti della seconda guerra mondiale, venne dismesso nel 1947 e l'area venne data in gestione al CNR fino all'anno 1976, quando venne convertita a Parco pubblico intitolato a Gustavo Colonnetti."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -46.863197,
-                    -23.587424
-                ]
-            },
-            "properties": {
-                "entity": "Campo Grande",
-                "name_location": "Rua Campo das Princesas, Granja Viana II Gl. 1 e 2, Cotia, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, San Paolo, Regione Sudest, 06810-180, Brasile",
-                "class": "highway",
-                "type": "service",
-                "snippet": [
-                    "*Campo Grande, Brasile, dal 2002 ;"
                 ]
             }
         },

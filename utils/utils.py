@@ -11,6 +11,7 @@ from geopy import distance
 import string
 import spacy
 import re
+import urllib.parse
 
 import pandas as pd 
 from geopy.extra.rate_limiter import RateLimiter
@@ -146,7 +147,6 @@ def clean_entities_to_search(entities_to_search: dict, entities_to_search_pos: d
         for snippet in entities_to_search[entity_w]:
             if snippet not in entities_to_search[entity_r] and "*"+snippet not in entities_to_search[entity_r]:
                 entities_to_search[entity_r].append(snippet)
-        # remove entity
         del entities_to_search[entity_w]
 
     entities_to_delete = []
@@ -292,7 +292,6 @@ def clean_entities(entities: list):
                     begin = begin + 1 
                 
                 ent = ent.doc[begin: end]
-                #print("ENTITY CORRETTA: ", ent)
 
             if len(ent) > 0 and ent.text.__contains__("^"):
                 begin = ent.start
@@ -303,7 +302,6 @@ def clean_entities(entities: list):
                     begin = begin + 1 
                 
                 ent = ent.doc[begin: end]
-                #print("ENTITY CORRETTA: ", ent)
                 
             if len(ent) > 0: 
                 if ent.text.count("\"") == 1:
@@ -319,7 +317,6 @@ def clean_entities(entities: list):
 
                     span = doc[start_ent: end_ent]
                     new_ent = span.char_span(0, len(span.text), label="LOC")
-                    #print("ENTITY COMPLETA: ", new_ent)
                     entities_clean.append(new_ent)
                 else:     
                     entities_clean.append(ent)
@@ -375,18 +372,16 @@ def correct_bulleted_split(doc: Doc):
         for elem in indexes:
             section = doc[begin:elem].as_doc()
             if len(section) > 0: 
-                #print("\n \n SEZIONE: ", section.text)
                 indexes_bullet = find_indexes(section, "^")
                 if len(indexes_bullet) > 1:
                     j = 0
                     for index_bullet in indexes_bullet:
                         sentence = section[j: index_bullet]
-                        #print("frase elenco puntato: ", sentence)
                         if len(sentence) > 0:
                             sentences_correct.append(sentence)
                         j = index_bullet + 1
                 else: 
-                    sentences_section = section.sents
+                    sentences_section = [sent for sent in section.sents if sent.text != " "]
                     sentences_correct.extend(sentences_section)
             
             begin = elem + 1
@@ -406,7 +401,8 @@ def generate_sentences_dictionary(doc: Doc):
     sentences_dict = {}
     sentences = correct_bulleted_split(doc)
     for index, sentence in enumerate(sentences): 
-        sentences_dict[index] = sentence
+        if sentence.text != " " and sentence.text != "\n" and len(sentence) > 0:
+            sentences_dict[index] = sentence
 
     return sentences_dict
 
@@ -618,7 +614,7 @@ def save_results(features: list, context: dict):
         json.dump(geojson_outliers, f, ensure_ascii=False, indent=4)
         print("The result outliers has been saved as a file inside the response folder")
 
-def create_whitelist(headlines: list): # TODO: AGGIUSTARE QUESTA LISTA!
+def create_whitelist(headlines: list): 
     """ Create the whitelist of words to capitalize in the text. 
     
     Args:
@@ -627,7 +623,9 @@ def create_whitelist(headlines: list): # TODO: AGGIUSTARE QUESTA LISTA!
     Returns:
         whitelist: list of words to capitalize
     """
+    whitelist = ['strada', 'cimitero', 'teatro', 'mercato', 'parco', 'università', 'museo', 'cinema', 'aeroporto', 'chiesa', 'giardino', 'ospedale']
 
+    """
     nlp = spacy.load("it_core_news_sm")
 
     whitelist = []
@@ -649,6 +647,7 @@ def create_whitelist(headlines: list): # TODO: AGGIUSTARE QUESTA LISTA!
 
     whitelist.append("chiesa")
     whitelist.append("giardino")
+    """
 
     return whitelist
 
@@ -803,7 +802,7 @@ def wiki_content(title: str, context = False):
 
     soup = add_punct_bullets(soup)
 
-    cleaned_content = re.sub(r'\n+', '\n', soup.text.strip('\n')) #soup.get_text(' ',strip=True)
+    cleaned_content = "\n".join([string for string in soup.text.split('\n') if string != '' and string != ' '])
 
     cleaned_content = substitute_whitelist(cleaned_content, white_list)
     
@@ -939,3 +938,62 @@ def get_nearby_pages(page: str):
     landmarks = [pages['title'] for pages in nearby_pages['query']['geosearch'] if pages['type'] == 'landmark']
 
     return landmarks
+
+
+def get_further_information(entities: list): 
+
+    informations = dict()
+    for ent in entities: 
+        session = requests.Session()
+
+        url = "https://it.wikipedia.org/w/api.php"
+
+        searchent = urllib.parse.quote(ent)
+        params = {
+            "action": "query",
+            "format": "json",
+            "list": "search",
+            "srsearch": searchent, 
+            "srwhat": "text"
+        }
+
+        response = session.get(url=url, params=params)
+        result = response.json()
+
+        if result['query']['search'][0]['title'] == ent:
+            print("Your search page '" + ent + "' exists on Italian Wikipedia")
+        
+        result_search = result['query']['search'][0]
+
+        informations[ent] = (result_search['title'], result_search['snippet'])
+
+    return informations
+
+
+def get_categories_ent(entities: list): 
+    
+    categories_ents = dict()
+    for ent in entities: 
+        
+        session = requests.Session()
+
+        url = "https://it.wikipedia.org/w/api.php"
+
+        searchent = urllib.parse.quote(ent)
+        params = {
+            "action": "query",
+            "format": "json",
+            "prop": "categories",
+            "titles": searchent
+        }
+
+        response = session.get(url=url, params=params)
+        result = response.json()
+        
+        result_search = result['query']['pages']
+
+        for k, v in PAGES.items():
+            for cat in v['categories']:
+                categories_ents[ent] = cat['title']
+
+    return categories_ents

@@ -309,9 +309,9 @@
                     "*Definita da Le Corbusier come «...la città con la più bella posizione naturale del mondo», celebrata da numerosi personaggi storici, tra cui Friedrich Nietzsche, Mark Twain e Jean-Jacques Rousseau, il quale descrisse il suo panorama dalla collina di Superga come «...il più bello spettacolo che possa colpire l'occhio umano», è una delle più importanti città barocche d'Europa ed è considerata, insieme a Milano e Palermo, la capitale italiana dell'Art Nouveau, di cui sono grande esempio, fra l'altro, i suoi innumerevoli e famosi caffè storici, fioriti soprattutto nel periodo risorgimentale e della Belle Époque.",
                     "*Dal Museo di Antichità furono separate, negli anni quaranta del Novecento, le collezioni egizie che costituirono il Museo egizio, il più importante d'Europa (nonché il più antico al mondo), in quanto custode della seconda collezione di arte egizia del mondo per vastità e importanza dopo quella del Museo del Cairo.",
                     "*Nel 2004 è stato inaugurato il Museo A come Ambiente, il primo in Europa interamente dedicato alle tematiche ambientali.",
-                    "Club to Club: festival internazionale di Musica e arti elettroniche che dal 2006 coinvolge, con la sezione \"Club Europa\", un'importante città europea, con scambio di pubblico, artisti, iniziative;",
+                    "Club to Club: festival internazionale di musica e arti elettroniche che dal 2006 coinvolge, con la sezione \"Club Europa\", un'importante città europea, con scambio di pubblico, artisti, iniziative;",
                     "Finale della UEFA Europa League 2013-2014 disputatasi allo Juventus Stadium il 14 Maggio 2014 tra il Sevilla Fútbol Club e il Benfica.",
-                    "*Importante anche il contributo dell'automazione industriale alla crescente internazionalizzazione dell'Economia torinese, con la presenza di aziende come Prima Industrie e Comau, con quest'ultima (tra le prime 4 in Europa per fatturato) che realizza in tutto il mondo robot per i principali gruppi automobilistici.",
+                    "*Importante anche il contributo dell'automazione industriale alla crescente internazionalizzazione dell'economia torinese, con la presenza di aziende come Prima Industrie e Comau, con quest'ultima (tra le prime 4 in Europa per fatturato) che realizza in tutto il mondo robot per i principali gruppi automobilistici.",
                     "Il 14 maggio 2014 la città ha ospitato la finale di UEFA Europa League tra il Sevilla Fútbol Club e il Benfica."
                 ]
             }
@@ -371,7 +371,7 @@
                 "class": "highway",
                 "type": "bus_stop",
                 "snippet": [
-                    "*Cimitero Monumentale (già Cimitero Generale): sito in Corso Novara, 135 (quartiere Regio Parco), è il primo Cimitero di Torino per dimensioni; contiene anche un Tempio Crematorio e un Cimitero giudaico; vi sono numerosi monumenti funebri di personaggi famosi e di pregevole fattura ;",
+                    "Cimitero Monumentale (già Cimitero Generale): sito in Corso Novara, 135 (quartiere Regio Parco), è il primo Cimitero di Torino per dimensioni; contiene anche un Tempio Crematorio e un Cimitero giudaico; vi sono numerosi monumenti funebri di personaggi famosi e di pregevole fattura ;",
                     "*Cimitero Parco (detto anche \"Cimitero del Gerbido\"): costruito nel 1972 nella zona all'estremo sud di Torino, è il secondo Cimitero di Torino per dimensioni ;"
                 ]
             }
@@ -419,26 +419,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    17.481866,
-                    46.715609
+                    20.779299,
+                    40.621695
                 ]
             },
             "properties": {
-                "entity": "Sud",
-                "name_location": "Torino, Balatonpart utca, Bocskaitelep, Balatonfenyves, Fonyódi járás, Somogy megye, Dél-Dunántúl, Transdanubio, 8646, Ungheria",
-                "class": "amenity",
-                "type": "fast_food",
+                "entity": "Sud di Torino",
+                "name_location": "Torino, Rruga Gjon e Ndreci Pendavinji, Coriza, Bashkia Korçë, Prefettura di Coriza, Shqipëria Jugore, 7001, Albania",
+                "class": "shop",
+                "type": "optician",
                 "snippet": [
-                    "Torino sorge nella pianura delimitata dai fiumi Stura di Lanzo, Sangone e Po (quest'ultimo attraversa la città da sud verso nord), di fronte allo sbocco di alcune vallate alpine:",
-                    "Il Monviso, monte sul quale nasce il Po, il Rocciamelone, e i massicci del Gran Paradiso e del Monte Rosa, mentre il Cervino diventa visibile dalla zona sud-est dell'area urbana.",
-                    "Dopo il secondo dopoguerra Torino fu il simbolo della crescita economica dell'Italia, tanto che riuscì ad attirare centinaia di migliaia di emigranti dal Sud dell'Italia e dal Veneto per via delle richieste di manodopera negli stabilimenti automobilistici (circa mezzo milione nel ventennio 1951-1971).",
-                    "Un cardo maximus (direzione nord-sud) ed un decumanus maximus (direzione est-ovest), incrociantisi al centro del castrum, e parallele alle quali dovevano svilupparsi tutte le altre vie interne al castrum.",
                     "Cimitero Parco (detto anche \"Cimitero del Gerbido\"): costruito nel 1972 nella zona all'estremo sud di Torino, è il secondo Cimitero di Torino per dimensioni ;",
-                    "Cimitero di Mirafiori: piccolo Cimitero sito in corso Unione Sovietica 650, nella zona Sud di Torino ;",
-                    "La città è sede d'importanti centri dell'ONU, ospitati in un unico campus nella zona sud di Torino.",
-                    "*Così ridevano. Un fedele ritratto della Torino del boom economico e della forte immigrazione dal Sud.",
-                    "Circoscrizione II: Santa Rita - Mirafiori Nord - Mirafiori Sud ;",
-                    "La tangenzale di Torino è la A55, divisa in Tangenziale Nord e Tangenziale Sud, va da nord est fino a sud est passando in maniera semicircolare da ovest."
+                    "*Cimitero di Mirafiori: piccolo Cimitero sito in corso Unione Sovietica 650, nella zona Sud di Torino ;",
+                    "La città è sede d'importanti centri dell'ONU, ospitati in un unico campus nella zona sud di Torino."
                 ]
             }
         },
@@ -504,6 +497,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.666241,
+                    45.005213
+                ]
+            },
+            "properties": {
+                "entity": "Fonderie Limone di Moncalieri",
+                "name_location": "Fonderie Limone Moncalieri, 88, Via Pastrengo, Moncalieri, Torino, Piemonte, 10024, Italia",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "Fondato nel 1955, secondo in Italia dopo il Teatro Stabile di Milano, gestisce le produzioni stagionali del Carignano, del Gobetti e delle Fonderie Limone di Moncalieri."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.20708,
+                    51.490081
+                ]
+            },
+            "properties": {
+                "entity": "Café",
+                "name_location": "Cafe Torino, Baron's Court Road, West Kensington, Hammersmith e Fulham, Londra, Greater London, Inghilterra, W14 9DP, Regno Unito",
+                "class": "amenity",
+                "type": "cafe",
+                "snippet": [
+                    "*Café Müller ;"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.631156,
                     45.21849
                 ]
@@ -533,7 +564,7 @@
                 "class": "leisure",
                 "type": "park",
                 "snippet": [
-                    "*L'igiene urbana e la raccolta rifiuti sono gestiti dal 1969 da Amiat, Società che si occupa anche del recupero ambientale della Discarica Basse di Stura, di cui la parte più vecchia - esaurita nel 1983 e con una superficie complessiva di 300.000 m² - è diventata Parco fluviale, Nota come Parco urbano della Marmorina."
+                    "*L'igiene urbana e la raccolta rifiuti sono gestiti dal 1969 da Amiat, società che si occupa anche del recupero ambientale della Discarica Basse di Stura, di cui la parte più vecchia - esaurita nel 1983 e con una superficie complessiva di 300.000 m² - è diventata Parco fluviale, nota come Parco urbano della Marmorina."
                 ]
             }
         },
@@ -668,7 +699,7 @@
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
-                    "Vi sono quattro musei nazionali (Museo del Cinema, Museo dell'automobile, Museo della montagna, Museo del Risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio, l'Armeria Reale, ora ricompresa nei Musei Reali, il Museo d'Arte Orientale, il Museo dell'Astronomia e Planetario, il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello Sport.",
+                    "Vi sono quattro musei nazionali (Museo del Cinema, Museo dell'automobile, Museo della montagna, Museo del Risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio, l'Armeria Reale, ora ricompresa nei Musei Reali, il Museo d'Arte Orientale, il Museo dell'Astronomia e Planetario, il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport.",
                     "Da ricordare il Museo dell'astronomia e Planetario di Torino, che sorge accanto dell'Osservatorio astronomico di Torino a Pino Torinese, cittadina collinare nei pressi immediati del capoluogo piemontese."
                 ]
             }
@@ -735,6 +766,25 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.67894,
+                    44.910862
+                ]
+            },
+            "properties": {
+                "entity": "Ospedale",
+                "name_location": "Ospedale, Corso Torino, Carignano, Torino, Piemonte, 10041, Italia",
+                "class": "amenity",
+                "type": "hospital",
+                "snippet": [
+                    "Una delle più importanti produzioni ambientate a Torino è la soap opera CentoVetrine che utilizza la gran parte delle location esterne per le case dei protagonisti, il commissariato Franco Balbis, il carcere, l'Ospedale e le principali piazze."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     9.18252,
                     45.460844
                 ]
@@ -767,6 +817,34 @@
                     "*Un colpo all'italiana. Un gruppo di ladri inglesi arriva a Torino a bordo di tre Mini Cooper per organizzare una rapina ai danni di un convoglio che trasporta i ricavi della FIAT dall'Aeroporto di Torino-Caselle fino alla città.",
                     "RA10 Torino - Caselle Torinese - Aeroporto di Torino-Caselle .",
                     "L'Aeroporto di Torino-Caselle, un Aeroporto di medie dimensioni (200-300 ettari, 1-5 milioni di passeggeri all'anno) inaugurato nel 1953."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.481866,
+                    46.715609
+                ]
+            },
+            "properties": {
+                "entity": "Sud",
+                "name_location": "Torino, Balatonpart utca, Bocskaitelep, Balatonfenyves, Fonyódi járás, Somogy megye, Dél-Dunántúl, Transdanubio, 8646, Ungheria",
+                "class": "amenity",
+                "type": "fast_food",
+                "snippet": [
+                    "Torino sorge nella pianura delimitata dai fiumi Stura di Lanzo, Sangone e Po (quest'ultimo attraversa la città da sud verso nord), di fronte allo sbocco di alcune vallate alpine:",
+                    "Il Monviso, monte sul quale nasce il Po, il Rocciamelone, e i massicci del Gran Paradiso e del Monte Rosa, mentre il Cervino diventa visibile dalla zona sud-est dell'area urbana.",
+                    "Dopo il secondo dopoguerra Torino fu il simbolo della crescita economica dell'Italia, tanto che riuscì ad attirare centinaia di migliaia di emigranti dal Sud dell'Italia e dal Veneto per via delle richieste di manodopera negli stabilimenti automobilistici (circa mezzo milione nel ventennio 1951-1971).",
+                    "Un cardo maximus (direzione nord-sud) ed un decumanus maximus (direzione est-ovest), incrociantisi al centro del castrum, e parallele alle quali dovevano svilupparsi tutte le altre vie interne al castrum.",
+                    "Cimitero Parco (detto anche \"Cimitero del Gerbido\"): costruito nel 1972 nella zona all'estremo sud di Torino, è il secondo Cimitero di Torino per dimensioni ;",
+                    "Cimitero di Mirafiori: piccolo Cimitero sito in corso Unione Sovietica 650, nella zona Sud di Torino ;",
+                    "La città è sede d'importanti centri dell'ONU, ospitati in un unico campus nella zona sud di Torino.",
+                    "*Così ridevano. Un fedele ritratto della Torino del boom economico e della forte immigrazione dal Sud.",
+                    "Circoscrizione II: Santa Rita - Mirafiori Nord - Mirafiori Sud ;",
+                    "La tangenzale di Torino è la A55, divisa in Tangenziale Nord e Tangenziale Sud, va da nord est fino a sud est passando in maniera semicircolare da ovest."
                 ]
             }
         },
@@ -873,6 +951,25 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    6.877498,
+                    44.9587
+                ]
+            },
+            "properties": {
+                "entity": "Club Europa",
+                "name_location": "Sci club Sestriere, Via Europa, Sestriere, Torino, Piemonte, 10058, Italia",
+                "class": "club",
+                "type": "sport",
+                "snippet": [
+                    "Club to Club: festival internazionale di musica e arti elettroniche che dal 2006 coinvolge, con la sezione \"Club Europa\", un'importante città europea, con scambio di pubblico, artisti, iniziative;"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     6.695031,
                     45.12562
                 ]
@@ -884,25 +981,6 @@
                 "type": "spring",
                 "snippet": [
                     "La Fontana del Frejus di Piazza Statuto fu ideata dal conte Marcello Panissera per ricordare l'inaugurazione dell'omonimo traforo ed è indicata dagli esoteristi come il \"cuore nero\" della città, per due motivi:"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.241786,
-                    44.167396
-                ]
-            },
-            "properties": {
-                "entity": "Rotonda",
-                "name_location": "Rotonda Torino, Quartiere Ravennate, Martorano, Cesena, Unione dei comuni Valle del Savio, Forlì-Cesena, Emilia-Romagna, Italia",
-                "class": "highway",
-                "type": "secondary",
-                "snippet": [
-                    "*Il rondò 'd la forca (Rotonda della forca)."
                 ]
             }
         },
@@ -940,7 +1018,7 @@
                 "class": "shop",
                 "type": "books",
                 "snippet": [
-                    "*\"Esperienza Italia 150\": serie di eventi e di iniziative, svoltesi a Torino per nove mesi a partire dal 17 Marzo 2011 fino a fine anno, per commemorare i 150 anni dell'Unità d'Italia, attraverso mostre tematiche allestite alle Officine Grandi Riparazioni e alla Reggia di Venaria Reale."
+                    "\"Esperienza Italia 150\": serie di eventi e di iniziative, svoltesi a Torino per nove mesi a partire dal 17 Marzo 2011 fino a fine anno, per commemorare i 150 anni dell'Unità d'Italia, attraverso mostre tematiche allestite alle Officine Grandi Riparazioni e alla Reggia di Venaria Reale."
                 ]
             }
         },
@@ -1134,28 +1212,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.644503,
-                    45.176083
-                ]
-            },
-            "properties": {
-                "entity": "Caselle Torinese",
-                "name_location": "Caselle Torinese, Via Circonvallazione, Caselle Torinese, Torino, Piemonte, 10072, Italia",
-                "class": "railway",
-                "type": "station",
-                "snippet": [
-                    "Il 13 settembre 2008 l'Osservatorio Meteorologico di Caselle Torinese, 14 km a nord-ovest di Torino, registrò una pioggia temporalesca di 220 mm in sei ore, quantitativo senza precedenti noti nella pianura torinese.",
-                    "*Ciò non è dipeso soltanto dal ritorno di molti immigrati del Mezzogiorno nelle loro regioni di origine, ma dagli spostamenti avvenuti da Torino verso quella che poi divenne l'area Metropolitana, determinando così l'espansione dei comuni della seconda (Vinovo, Candiolo, Orbassano, Rivalta di Torino, Rivoli, Alpignano, Pianezza, Druento, Caselle Torinese) e della prima cintura (Moncalieri, Nichelino, Beinasco, Grugliasco, Collegno, Venaria Reale, Borgaro Torinese, Settimo Torinese, San Mauro Torinese).",
-                    "RA10 Torino - Caselle Torinese - Aeroporto di Torino-Caselle .",
-                    "*La tratta urbana di competenza del GTT è quella che parte da Torino Dora e che va sino alla periferia Nord al confine con il comune di Venaria Reale (direzione Caselle Torinese - Aeroporto Sandro Pertini - Ceres)."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     7.656085,
                     45.005625
                 ]
@@ -1223,7 +1279,7 @@
                 "class": "highway",
                 "type": "bus_stop",
                 "snippet": [
-                    "*Inaugurato nel 1916, dopo la costruzione dell'Aeroporto di Caselle è rimasto in uso come struttura di aviazione generale e da Turismo, affiancato da una scuola di volo per aerei ed elicotteri e dalla sede dei velivoli di elisoccorso e protezione civile."
+                    "*Inaugurato nel 1916, dopo la costruzione dell'Aeroporto di Caselle è rimasto in uso come struttura di aviazione generale e da turismo, affiancato da una scuola di volo per aerei ed elicotteri e dalla sede dei velivoli di elisoccorso e protezione civile."
                 ]
             }
         },
@@ -1262,25 +1318,6 @@
                 "type": "park",
                 "snippet": [
                     "*Torino Mirafiori - Il primo scalo aereo della città fu quello di Mirafiori, costruito per scopi militari e inaugurato nel 1911. L'Aeroporto, a causa dei forti danni strutturali subiti durante i bombardamenti della seconda guerra mondiale, venne dismesso nel 1947 e l'area venne data in gestione al CNR fino all'anno 1976, quando venne convertita a Parco pubblico intitolato a Gustavo Colonnetti."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -46.863197,
-                    -23.587424
-                ]
-            },
-            "properties": {
-                "entity": "Campo Grande",
-                "name_location": "Rua Campo das Princesas, Granja Viana II Gl. 1 e 2, Cotia, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, San Paolo, Regione Sudest, 06810-180, Brasile",
-                "class": "highway",
-                "type": "service",
-                "snippet": [
-                    "*Campo Grande, Brasile, dal 2002 ;"
                 ]
             }
         },

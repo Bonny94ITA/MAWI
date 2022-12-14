@@ -1,0 +1,1 @@
+# qua tutte le funzioni per cercare le location e le coordinate
