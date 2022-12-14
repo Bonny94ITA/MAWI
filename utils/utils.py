@@ -18,25 +18,8 @@ from functools import partial
 from spacy.tokens import Doc
 from spacy.tokens import Span
 
-
-def find_loc_context(context: str, input_json: list, param_to_search: str): # TODO DELETE?
-    """Find the object of the context.
-
-    Args:
-        context: context of the text
-        input_json: json file with the entities to search
-
-    Returns:
-        loc_context: coordinates of the context
-    """
-    loc_context = {}
-    for elem in input_json:
-        if elem[param_to_search] == context:
-            loc_context = elem
-    return loc_context
-
 def sent_contains_ent(sentence: Span, entity: Span):
-    """Check if the sentence contains the entity.
+    """ Check if the sentence contains the entity.
 
     Args:
         sentence: sentence to check
@@ -70,7 +53,7 @@ def sent_contains_ent(sentence: Span, entity: Span):
     return contains
 
 def first_upper(sentence: str):
-    """Make the first letter of the sentence uppercase.
+    """ Make the first letter of the sentence uppercase.
 
     Args:
         sentence: sentence to modify
@@ -82,18 +65,17 @@ def first_upper(sentence: str):
         sentence = sentence[0].upper() + sentence[1:]
     return sentence
 
-def get_entities_snippet(document: Doc, cities: list, entities_to_search_prev = dict()):
-    """Get the entities from the nlp_text which are not cities and print snippet in which
+def get_entities_snippet(document: Doc, entities_to_search_prev = dict()):
+    """ Get the entities from the nlp_text which are not cities and print snippet in which
         they appears.
 
     Args:
         document: spacy text
-        cities: list with cities name to filter
         entities_to_search_prev: dictionary with the entities to search of the previous text and do not search again
     
     Returns:
-        searchable_entities: dictionary with the entities and the snippet in which they appear
-        sentence_dict: dictionary with  the index of the sentence in the text and the sentence itself
+        entities_to_search: dictionary with the entities and the snippet in which they appear
+        sentence_dict: dictionary with the index of the sentence in the text and the sentence itself
     """
 
     entities_to_search = dict()
@@ -106,7 +88,7 @@ def get_entities_snippet(document: Doc, cities: list, entities_to_search_prev = 
         for index, sent in sentence_dict.items():
             writer.writerow([index, sent.text.strip(" \n")])
 
-    ents = clean_entities(ents, cities)
+    ents = clean_entities(ents)
     
     for ent in ents:    
         if ent.text not in entities_to_search_prev: 
@@ -135,8 +117,8 @@ def get_entities_snippet(document: Doc, cities: list, entities_to_search_prev = 
 
     return entities_to_search, sentence_dict
 
-def clean_entities_to_search(entities_to_search: dict, entities_to_search_pos: dict): # TODO: MODIFICHE PER CAMBIO NER 
-    """Clean the entities to search.
+def clean_entities_to_search(entities_to_search: dict, entities_to_search_pos: dict):
+    """ Clean the entities to search.
 
     Args:
         entities_to_search: dictionary with the entities to search
@@ -270,16 +252,15 @@ def check_context(entity: str, key: str, entities: dict):
 def ispunct(ch):
     return ch in string.punctuation
 
-
-def clean_entities(entities: list, cities: list): # TODO: MODIFICARE IL FILTRO SUL TIPO DI ENTITà IN BASE A QUELLE DISPONIBILI CON IL NUOVO NER
-    """Clean the entities from the text.
+def clean_entities(entities: list):
+    """ Clean the entities from the text with only entities useful.
 
     Args:
         entities: list of entities to clean
-        cities: list of cities eventually to filter
     Returns:
-        entities: list of the entities useful for the search
+        entities_clean: list of the entities useful for the search
     """
+
     entities_clean = []
     for ent in entities:
         if ent.label_ == "LOC" or ent.label_ == "FAC": 
@@ -301,8 +282,6 @@ def clean_entities(entities: list, cities: list): # TODO: MODIFICARE IL FILTRO S
                 else: 
                     if ent.text.count(ent.text[-1]) == 1:
                         ent = ent[:-1]
-
-            
             
             if len(ent) > 0 and ent.text.__contains__("#"): 
                 begin = ent.start
@@ -326,7 +305,6 @@ def clean_entities(entities: list, cities: list): # TODO: MODIFICARE IL FILTRO S
                 ent = ent.doc[begin: end]
                 #print("ENTITY CORRETTA: ", ent)
                 
-
             if len(ent) > 0: 
                 if ent.text.count("\"") == 1:
                     nbor = ent[-1].nbor()
@@ -343,17 +321,25 @@ def clean_entities(entities: list, cities: list): # TODO: MODIFICARE IL FILTRO S
                     new_ent = span.char_span(0, len(span.text), label="LOC")
                     #print("ENTITY COMPLETA: ", new_ent)
                     entities_clean.append(new_ent)
-
                 else:     
                     entities_clean.append(ent)
 
     return entities_clean
 
 def find(s, ch):
+    """ Find all the indexes of the character ch in the string s.
+
+    Args:
+        s: string where to search
+        ch: character to search
+    
+    Returns:
+        list of the indexes of the character ch
+    """
     return [i for i, ltr in enumerate(s) if ltr == ch]
 
 def find_indexes(doc: Doc, ch): 
-    """Find the index of the character ch in the doc.
+    """ Find the index of the character ch in the doc.
 
     Args:
         doc: spacy doc where to search
@@ -373,7 +359,7 @@ def find_indexes(doc: Doc, ch):
     return indexes
 
 def correct_bulleted_split(doc: Doc): 
-    """Correct the bullet split in the sentences.
+    """ Correct the bullet split in the sentences.
 
     Args:
         sentence_list: list of the sentences to correct
@@ -409,13 +395,14 @@ def correct_bulleted_split(doc: Doc):
     
 
 def generate_sentences_dictionary(doc: Doc):
-    """Generate a dictionary with the snipet index and the snippet itself.
+    """ Generate a dictionary with the snippet index and the snippet itself.
     
     Args:
-        sentence_list: list of sentences
+        doc: document to generate the dictionary
     Returns:
         sentence_dict: dictionary with the index of the sentence and the index in the text
     """
+
     sentences_dict = {}
     sentences = correct_bulleted_split(doc)
     for index, sentence in enumerate(sentences): 
@@ -440,13 +427,14 @@ def delete_file(file_path):
         os.remove(file_path)
 
 def to_geojson(df: pd.DataFrame):
-    """Convert a dataframe to geojson.
+    """ Convert a dataframe to geojson.
 
     Args:
         df: dataframe to convert
     Returns:
-        geojson: geojson file
+        features: list of features geojson
     """
+
     features = []
     for _, row in df.iterrows():
         loc_point = row['coordinates']
@@ -465,6 +453,18 @@ def to_geojson(df: pd.DataFrame):
     return features
 
 def search_entities_geopy(searchable_entities: dict, context: dict, title_page: str, features = list()): 
+    """ Search the entities in the searchable_entities dictionary with GeoPy library
+        and return the corrispondent features geojson.
+
+    Args:
+        searchable_entities: dictionary with the entities to search
+        context: dictionary with the context of the text in which the entities are searched
+        title_page: title of the page
+        features: list of features geojson
+    
+    Returns:
+        features: list of features geojson
+    """
     locator = Nominatim(user_agent="PoI_geocoding")
     geocode = RateLimiter(locator.geocode, min_delay_seconds=1)
     name_context = context['name']
@@ -515,25 +515,10 @@ def detection_outliers(results: list, context: dict):
     
     Args:
         results: list of data to analyze
-        centroid: centroid of the results
+        context: context of the results
     Returns:
-        list of results without outliers
-        list of outliers
-    """
-
-    results_cleaned, outliers = compute_distances(results, context)
-
-    return results_cleaned, outliers
-
-def compute_distances(results: list, context: dict):
-    """ Compute the distance between the centroid and the results.
-    
-    Args:
-        results: list of data to analyze
-        centroid: centroid of the results
-    Returns:
-        list of results cleaned
-        list of outliers
+        results_cleaned: list of results without outliers
+        outlier: list of outliers
     """
 
     city_polygon = context['polygon']['geometry']['coordinates'][0]
@@ -634,16 +619,15 @@ def save_results(features: list, context: dict):
         print("The result outliers has been saved as a file inside the response folder")
 
 def create_whitelist(headlines: list): # TODO: AGGIUSTARE QUESTA LISTA!
-    """ Create a whitelist of words to search
-    
-    Create the whitelist of words to capitalize in the text. 
+    """ Create the whitelist of words to capitalize in the text. 
     
     Args:
         headlines: list of headlines to analyze
 
     Returns:
-        list of words to capitalize
+        whitelist: list of words to capitalize
     """
+
     nlp = spacy.load("it_core_news_sm")
 
     whitelist = []
@@ -772,8 +756,7 @@ def add_punct_bullets(soup: BeautifulSoup):
     return soup
 
 def substitute_whitelist(text: str, whitelist: list):
-    """
-        Substitute the whitelist in the text. 
+    """ Substitute the whitelist in the text. 
     
     Args:
         text: text to clean
@@ -788,8 +771,8 @@ def substitute_whitelist(text: str, whitelist: list):
 
     return text
 
-def wiki_content(title, context = False):
-    """Search title page in wikipedia with MediaWiki API.
+def wiki_content(title: str, context = False):
+    """ Search title page in wikipedia with MediaWiki API.
 
     Args: 
         title: str Wikipedia page title
@@ -858,9 +841,8 @@ def wiki_content(title, context = False):
         return cleaned_content
 
 
-def get_polygon(name):
-    """
-    Get the polygon of the location using wikidata API.
+def get_polygon(name: str):
+    """ Get the polygon of the location using wikidata API.
 
     Args:
         name: name of the location
@@ -904,9 +886,8 @@ def get_polygon(name):
     return feature
 
 
-def get_entity_id(name):
-    """
-    Get the entity id of the location using wikidata API.
+def get_entity_id(name: str):
+    """ Get the entity id of the location using wikidata API.
     
     Args:
         name: name of the location

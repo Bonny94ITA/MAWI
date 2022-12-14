@@ -21,24 +21,24 @@ for city in cities:
 
     doc = nlp(text)
 
-    cities1_path = f'assets/cities1.json'
-    with open(cities1_path, 'r', encoding='utf-8') as f:
-        cities_json = json.load(f)
+    #cities1_path = f'assets/cities1.json'
+    #with open(cities1_path, 'r', encoding='utf-8') as f:
+    #    cities_json = json.load(f)
     
-    cities2_path = f'assets/cities2.json'
-    with open(cities2_path, 'r', encoding='utf-8') as f:
-        cities_json2 = json.load(f)
+    #cities2_path = f'assets/cities2.json'
+    #with open(cities2_path, 'r', encoding='utf-8') as f:
+    #    cities_json2 = json.load(f)
     
-    cities = [city['name'] for city in cities_json]
-    cities.extend([city['AccentCity'] for city in cities_json2])
+    #cities = [city['name'] for city in cities_json]
+    #cities.extend([city['AccentCity'] for city in cities_json2])
 
-    cities = list(set(cities))
+    #cities = list(set(cities))
     #counter, context, loc_context = get_context(doc, italian_cities, "name")
 
     print(context)
 
     # Get entities without duplicates
-    searchable_entities, sentence_dict = get_entities_snippet(doc, cities)
+    searchable_entities, sentence_dict = get_entities_snippet(doc)
 
     print("number of entities: ", len(searchable_entities))
 
@@ -64,7 +64,7 @@ for city in cities:
         text = wiki_content(page)
         doc = nlp(text)
 
-        searchable_entities = get_entities_snippet(doc, cities, searchable_entities)
+        searchable_entities = get_entities_snippet(doc, searchable_entities)
 
         features = search_entities(searchable_entities, context, city, features)
     
