@@ -4,8 +4,7 @@ import string
 from spacy.tokens import Doc 
 from spacy.tokens import Span
 
-from src.sentences import first_upper, sent_contains_ent
-from utils_2 import find_indexes
+from src.sentences import first_upper, sent_contains_ent, generate_sentences_dictionary
 
 def get_entities_snippet(document: Doc, entities_to_search_prev = dict()):
     """ Get the entities from the nlp_text which are not cities and print snippet in which
@@ -223,52 +222,3 @@ def clean_entities_to_search(entities_to_search: dict, entities_to_search_pos: d
     
     return entities_to_search
 
-def generate_sentences_dictionary(doc: Doc):
-    """ Generate a dictionary with the snippet index and the snippet itself.
-    
-    Args:
-        doc: document to generate the dictionary
-    Returns:
-        sentence_dict: dictionary with the index of the sentence and the index in the text
-    """
-
-    sentences_dict = {}
-    sentences = correct_bulleted_split(doc)
-    for index, sentence in enumerate(sentences): 
-        if sentence.text != " " and sentence.text != "\n":
-            sentences_dict[index] = sentence
-
-    return sentences_dict
-
-def correct_bulleted_split(doc: Doc): 
-    """ Correct the bullet split in the sentences.
-
-    Args:
-        sentence_list: list of the sentences to correct
-    
-    Returns:
-        sentence_list: list of the sentences corrected
-    """
-
-    sentences_correct = []
-    begin = 0
-    indexes = find_indexes(doc, "#")
-    if len(indexes) > 0:
-        for elem in indexes:
-            section = doc[begin:elem].as_doc()
-            if len(section) > 0: 
-                indexes_bullet = find_indexes(section, "^")
-                if len(indexes_bullet) > 1:
-                    j = 0
-                    for index_bullet in indexes_bullet:
-                        sentence = section[j: index_bullet]
-                        if len(sentence) > 0:
-                            sentences_correct.append(sentence)
-                        j = index_bullet + 1
-                else: 
-                    sentences_section = [sent for sent in section.sents if sent.text != " "]
-                    sentences_correct.extend(sentences_section)
-            
-            begin = elem + 1
-
-    return sentences_correct

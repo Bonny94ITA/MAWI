@@ -1,4 +1,5 @@
-from spacy.tokens import Span
+from spacy.tokens import Span, Doc
+from utils_2 import find_indexes
 
 def sent_contains_ent(sentence: Span, entity: Span):
     """ Check if the sentence contains the entity.
@@ -46,3 +47,53 @@ def first_upper(sentence: str):
     if sentence != "":
         sentence = sentence[0].upper() + sentence[1:]
     return sentence
+
+def generate_sentences_dictionary(doc: Doc):
+    """ Generate a dictionary with the snippet index and the snippet itself.
+    
+    Args:
+        doc: document to generate the dictionary
+    Returns:
+        sentence_dict: dictionary with the index of the sentence and the index in the text
+    """
+
+    sentences_dict = {}
+    sentences = correct_bulleted_split(doc)
+    for index, sentence in enumerate(sentences): 
+        if sentence.text != " " and sentence.text != "\n":
+            sentences_dict[index] = sentence
+
+    return sentences_dict
+
+def correct_bulleted_split(doc: Doc): 
+    """ Correct the bullet split in the sentences.
+
+    Args:
+        sentence_list: list of the sentences to correct
+    
+    Returns:
+        sentence_list: list of the sentences corrected
+    """
+
+    sentences_correct = []
+    begin = 0
+    indexes = find_indexes(doc, "#")
+    if len(indexes) > 0:
+        for elem in indexes:
+            section = doc[begin:elem].as_doc()
+            if len(section) > 0: 
+                indexes_bullet = find_indexes(section, "^")
+                if len(indexes_bullet) > 1:
+                    j = 0
+                    for index_bullet in indexes_bullet:
+                        sentence = section[j: index_bullet]
+                        if len(sentence) > 0:
+                            sentences_correct.append(sentence)
+                        j = index_bullet + 1
+                else: 
+                    sentences_section = [sent for sent in section.sents if sent.text != " "]
+                    sentences_correct.extend(sentences_section)
+            
+            begin = elem + 1
+
+    return sentences_correct

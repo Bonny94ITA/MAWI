@@ -9,9 +9,8 @@ from shapely.geometry import Point, Polygon
 from geopy.geocoders import Nominatim
 from geopy import distance
 import string
-import spacy
 import re
-import urllib.parse
+import wikipedia
 
 import pandas as pd 
 from geopy.extra.rate_limiter import RateLimiter
@@ -322,18 +321,6 @@ def clean_entities(entities: list):
                     entities_clean.append(ent)
 
     return entities_clean
-
-def find(s, ch):
-    """ Find all the indexes of the character ch in the string s.
-
-    Args:
-        s: string where to search
-        ch: character to search
-    
-    Returns:
-        list of the indexes of the character ch
-    """
-    return [i for i, ltr in enumerate(s) if ltr == ch]
 
 def find_indexes(doc: Doc, ch): 
     """ Find the index of the character ch in the doc.
@@ -940,73 +927,22 @@ def get_nearby_pages(page: str):
     return landmarks
 
 
-def get_further_information(entities: list): 
+def get_further_information(entities: list, city = "Torino"): 
 
     informations = dict()
+    wikipedia.set_lang("it")
     for ent in entities: 
-        session = requests.Session()
-
-        url = "https://it.wikipedia.org/w/api.php"
-
-        #searchent = urllib.parse.quote(ent)
-        params = {
-            "action": "query",
-            "format": "json",
-            "list": "search",
-            "srsearch": ent, 
-            "srwhat": "text"
-        }
-
-        response = session.get(url=url, params=params)
-        result = response.json()
-
-        if result['query']['search'][0]['title'] == ent:
-            print("Your search page '" + ent + "' exists on Italian Wikipedia")
-        
-        result_search = result['query']['search'][0]
-
-        informations[ent] = (result_search['title'], result_search['snippet'])
+        try:
+            page_ent = wikipedia.page(ent+" ("+city+")", redirect=True, preload=False)
+            informations[ent] = page_ent.summary
+        except wikipedia.DisambiguationError as e:
+            title = e.options[0]
+            page_ent = wikipedia.page(title, redirect=True, preload=False)
+            informations[ent] = page_ent.summary
+        except wikipedia.PageError as e:
+            informations[ent] = None
 
     return informations
 
 
-def get_categories_ent(entities: list): 
-    
-    categories_ents = dict()
-    for ent in entities: 
-        
-        session = requests.Session()
 
-        url = "https://it.wikipedia.org/w/api.php"
-
-        #searchent = urllib.parse.quote(ent)
-        params = {
-            "action": "query",
-            "format": "json",
-            "prop": "categories",
-            "titles": ent
-        }
-
-        response = session.get(url=url, params=params)
-        result = response.json()
-
-        print(result)
-        
-        result_search = result['query']['pages']
-
-        number_page = list(result_search.keys())[0]
-
-        if number_page != "-1": 
-            result_keys = list(result_search[number_page].keys())
-            if 'categories' in result_keys:
-                cats = result_search[number_page]['categories']
-                for cat in cats:
-                    categories_ents[ent] = cat['title']
-
-                
-            else: 
-                categories_ents[ent] = "No categories"
-        else: 
-            categories_ents[ent] = "No page found"
-
-    return categories_ents

@@ -1,6 +1,5 @@
-from utils.utils import get_entities_snippet, search_entities_geopy, wiki_content, get_nearby_pages, save_results, get_categories_ent, get_further_information
+from utils.utils import get_entities_snippet, search_entities_geopy, wiki_content, get_nearby_pages, save_results, get_further_information
 import spacy
-import json
 
 
 nlp = spacy.load("it_core_news_sm", exclude=["ner"])
@@ -20,20 +19,6 @@ for city in cities:
     text, context = wiki_content(city, True)
 
     doc = nlp(text)
-
-    #cities1_path = f'assets/cities1.json'
-    #with open(cities1_path, 'r', encoding='utf-8') as f:
-    #    cities_json = json.load(f)
-    
-    #cities2_path = f'assets/cities2.json'
-    #with open(cities2_path, 'r', encoding='utf-8') as f:
-    #    cities_json2 = json.load(f)
-    
-    #cities = [city['name'] for city in cities_json]
-    #cities.extend([city['AccentCity'] for city in cities_json2])
-
-    #cities = list(set(cities))
-    #counter, context, loc_context = get_context(doc, italian_cities, "name")
 
     print(context)
 
@@ -73,24 +58,15 @@ for city in cities:
 
     ## Further analysis
 
-    # Get categories se hanno una pagina wiki associata
-    
-    categories_ent = get_categories_ent(entities_final)
-
-    file_path_categories_ent = f'response/spacy_pipeline/Categories_entities.txt'
-    with open(file_path_categories_ent, 'w', encoding='utf-8') as f:
-        for key, categories in categories_ent.items():
-            f.write(key + '\n')
-            f.write(str(categories) + '\n')
-
-    # Get other snippets
-
     snippet_ent = get_further_information(entities_final)
-
 
     file_path_snippet_ent = f'response/spacy_pipeline/Snippet_entities.txt'
 
     with open(file_path_snippet_ent, 'w', encoding='utf-8') as f:
         for key, snippet in snippet_ent.items():
-            f.write(key + '\n')
-            f.write(str(snippet) + '\n')
+            f.write(key +'\n')
+            if snippet is None: 
+                f.write('No snippet available' + '\n')
+            else: 
+                f.write(snippet + '\n')
+
