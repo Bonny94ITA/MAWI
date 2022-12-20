@@ -5,7 +5,7 @@ from spacy.tokens import Doc
 from spacy.tokens import Span
 
 from src.sentences import first_upper, sent_contains_ent
-from src.utils import find_indexes
+from utils_2 import find_indexes
 
 def get_entities_snippet(document: Doc, entities_to_search_prev = dict()):
     """ Get the entities from the nlp_text which are not cities and print snippet in which

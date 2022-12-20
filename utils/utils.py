@@ -504,7 +504,7 @@ def search_entities_geopy(searchable_entities: dict, context: dict, title_page: 
     for entity in entities_final:
         print_to_file(response_file_path, entity)
 
-    return features
+    return features, entities_final
 
 def detection_outliers(results: list, context: dict):
     """ Detection of outliers in results.
@@ -948,12 +948,12 @@ def get_further_information(entities: list):
 
         url = "https://it.wikipedia.org/w/api.php"
 
-        searchent = urllib.parse.quote(ent)
+        #searchent = urllib.parse.quote(ent)
         params = {
             "action": "query",
             "format": "json",
             "list": "search",
-            "srsearch": searchent, 
+            "srsearch": ent, 
             "srwhat": "text"
         }
 
@@ -979,21 +979,34 @@ def get_categories_ent(entities: list):
 
         url = "https://it.wikipedia.org/w/api.php"
 
-        searchent = urllib.parse.quote(ent)
+        #searchent = urllib.parse.quote(ent)
         params = {
             "action": "query",
             "format": "json",
             "prop": "categories",
-            "titles": searchent
+            "titles": ent
         }
 
         response = session.get(url=url, params=params)
         result = response.json()
+
+        print(result)
         
         result_search = result['query']['pages']
 
-        for k, v in PAGES.items():
-            for cat in v['categories']:
-                categories_ents[ent] = cat['title']
+        number_page = list(result_search.keys())[0]
+
+        if number_page != "-1": 
+            result_keys = list(result_search[number_page].keys())
+            if 'categories' in result_keys:
+                cats = result_search[number_page]['categories']
+                for cat in cats:
+                    categories_ents[ent] = cat['title']
+
+                
+            else: 
+                categories_ents[ent] = "No categories"
+        else: 
+            categories_ents[ent] = "No page found"
 
     return categories_ents

@@ -1,4 +1,4 @@
-from utils.utils import get_entities_snippet, search_entities_geopy, wiki_content, get_nearby_pages, save_results
+from utils.utils import get_entities_snippet, search_entities_geopy, wiki_content, get_nearby_pages, save_results, get_categories_ent, get_further_information
 import spacy
 import json
 
@@ -52,7 +52,7 @@ for city in cities:
             f.write(entity + '\n')
 
     # Search addresses with Google
-    features = search_entities_geopy(searchable_entities, context, city)
+    features, entities_final = search_entities_geopy(searchable_entities, context, city)
 
     # nearby pages
 
@@ -71,3 +71,26 @@ for city in cities:
     """
     save_results(features, context)
 
+    ## Further analysis
+
+    # Get categories se hanno una pagina wiki associata
+    
+    categories_ent = get_categories_ent(entities_final)
+
+    file_path_categories_ent = f'response/spacy_pipeline/Categories_entities.txt'
+    with open(file_path_categories_ent, 'w', encoding='utf-8') as f:
+        for key, categories in categories_ent.items():
+            f.write(key + '\n')
+            f.write(str(categories) + '\n')
+
+    # Get other snippets
+
+    snippet_ent = get_further_information(entities_final)
+
+
+    file_path_snippet_ent = f'response/spacy_pipeline/Snippet_entities.txt'
+
+    with open(file_path_snippet_ent, 'w', encoding='utf-8') as f:
+        for key, snippet in snippet_ent.items():
+            f.write(key + '\n')
+            f.write(str(snippet) + '\n')
