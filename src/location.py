@@ -1,14 +1,13 @@
 import pandas as pd
 from functools import partial
 
-from geojson import Feature, Point, FeatureCollection, Polygon
+from geojson import Feature, Point
 
 from geopy.extra.rate_limiter import RateLimiter
 from geopy.geocoders import Nominatim
 from geopy import distance
 
-from src.utils_2 import delete_file, print_to_file
-
+from src.utils import delete_file, print_to_file
 
 def to_geojson(df: pd.DataFrame):
     """ Convert a dataframe to geojson.
@@ -118,44 +117,3 @@ def most_close_location(results: list, context: dict):
             distance_min = current_distance
 
     return location
-
-def detection_outliers(results: list, context: dict):
-    """ Detection of outliers in results.
-    
-    Args:
-        results: list of data to analyze
-        context: context of the results
-    Returns:
-        results_cleaned: list of results without outliers
-        outlier: list of outliers
-    """
-
-    city_polygon = context['polygon']['geometry']['coordinates'][0]
-    results_cleaned = []
-    results_outliers = []
-    for result in results:
-        coordinates = result['geometry']['coordinates']
-        point = Point(coordinates[0], coordinates[1])
-        if point_in_polygon(point, city_polygon):
-            results_cleaned.append(result)
-        else:  
-            results_outliers.append(result)
-
-    return results_cleaned, results_outliers
-
-def point_in_polygon(point: Point, polygon: list):
-    """ Check if a point is inside a polygon.
-    
-    Args:
-        point: point to check
-        polygon: polygon to check
-    
-    Returns:
-        True if the point is inside the polygon, False otherwise
-    """
-    coords_poly = [(coord[0], coord[1]) for coord in polygon] 
-    poly = Polygon(coords_poly)
-
-    within = point.within(poly) 
-
-    return within

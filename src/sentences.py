@@ -1,5 +1,5 @@
 from spacy.tokens import Span, Doc
-from utils_2 import find_indexes
+from src.utils import find_indexes
 
 def sent_contains_ent(sentence: Span, entity: Span):
     """ Check if the sentence contains the entity.

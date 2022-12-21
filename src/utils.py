@@ -3,10 +3,12 @@ import csv
 import os
 import json
 from wikidata.client import Client
-from geojson import FeatureCollection, Feature
 import requests
+import wikipedia
+from geojson import FeatureCollection, Feature, Point
 
-from src.location import detection_outliers
+from shapely.geometry import Point, Polygon
+
 
 def find_indexes(doc: Doc, ch): 
     """ Find the index of the character ch in the doc.
@@ -198,3 +200,44 @@ def get_further_information(entities: list, city = "Torino"):
             informations[ent] = None
 
     return informations
+
+def detection_outliers(results: list, context: dict):
+    """ Detection of outliers in results.
+    
+    Args:
+        results: list of data to analyze
+        context: context of the results
+    Returns:
+        results_cleaned: list of results without outliers
+        outlier: list of outliers
+    """
+
+    city_polygon = context['polygon']['geometry']['coordinates'][0]
+    results_cleaned = []
+    results_outliers = []
+    for result in results:
+        coordinates = result['geometry']['coordinates']
+        point = Point(coordinates[0], coordinates[1])
+        if point_in_polygon(point, city_polygon):
+            results_cleaned.append(result)
+        else:  
+            results_outliers.append(result)
+
+    return results_cleaned, results_outliers
+
+def point_in_polygon(point: Point, polygon: list):
+    """ Check if a point is inside a polygon.
+    
+    Args:
+        point: point to check
+        polygon: polygon to check
+    
+    Returns:
+        True if the point is inside the polygon, False otherwise
+    """
+    coords_poly = [(coord[0], coord[1]) for coord in polygon] 
+    poly = Polygon(coords_poly)
+
+    within = point.within(poly) 
+
+    return within

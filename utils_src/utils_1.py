@@ -527,7 +527,7 @@ def point_in_polygon(point: Point, polygon: list):
     Returns:
         True if the point is inside the polygon, False otherwise
     """
-    coords_poly = [(coord[0], coord[1]) for coord in polygon] 
+    coords_poly = [[coord[0], coord[1]] for coord in polygon] 
     poly = Polygon(coords_poly)
 
     within = point.within(poly) 

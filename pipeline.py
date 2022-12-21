@@ -1,18 +1,13 @@
-from utils.utils import get_entities_snippet, search_entities_geopy, wiki_content, get_nearby_pages, save_results, get_further_information
-import spacy
-
-
-nlp = spacy.load("it_core_news_sm", exclude=["ner"])
-
-ner_nlp = spacy.load('it_nerIta_trf')
-
-nlp.add_pipe("transformer", name="trf_ita", source=ner_nlp, last=True)
-
-nlp.add_pipe("ner", name="ner_ita", source=ner_nlp, last=True)
+from src.model import create_model
+from src.preprocessing import wiki_content
+from src.entities import get_entities_snippet
+from src.location import search_entities_geopy
+from src.utils import get_nearby_pages, save_results, get_further_information
 
 #cities = ["Torino", "Roma", "Bologna", "Milano", "Liberty a Torino", "Barocco a Milano"]
 
 cities = ["Torino"]
+nlp = create_model()
 
 for city in cities:
     # Read wiki pages

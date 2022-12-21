@@ -3,7 +3,7 @@ import re
 import string
 import requests
 
-from src.utils_2 import get_polygon
+from src.utils import get_polygon
 
 
 def create_whitelist(headlines: list): 
