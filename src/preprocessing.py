@@ -6,7 +6,7 @@ import requests
 from src.utils import get_polygon
 
 
-def create_whitelist(headlines: list): 
+def create_whitelist(): 
     """ Create the whitelist of words to capitalize in the text. 
     
     Args:
@@ -72,9 +72,7 @@ def clean_html(soup: BeautifulSoup):
     for span in soup.find_all('span', class_ = 'mw-headline'):
         headlines.append(span.string)
 
-    white_list = create_whitelist(headlines)
-
-    print("headlines: ", white_list)
+    white_list = create_whitelist()
 
     # delete other spans
 
@@ -163,8 +161,8 @@ def wiki_content(title: str, context = False):
     content = data['parse']['text']
     soup = BeautifulSoup(content, features="lxml")
     
-    with open(f'response/wikiPageContent/{title}_htmlnotcleaned.txt', 'w', encoding='utf-8') as f:
-        f.write(soup.prettify())
+    #with open(f'response/wikiPageContent/{title}_htmlnotcleaned.txt', 'w', encoding='utf-8') as f:
+    #    f.write(soup.prettify())
 
     soup, white_list = clean_html(soup)
 
@@ -176,8 +174,8 @@ def wiki_content(title: str, context = False):
     
     cleaned_content = cleaned_content.replace("“", "\"").replace("”", "\"")
 
-    with open(f'response/wikiPageContent/{title}_htmlcleaned.txt', 'w', encoding='utf-8') as f:
-        f.write(soup.prettify())
+    #with open(f'response/wikiPageContent/{title}_htmlcleaned.txt', 'w', encoding='utf-8') as f:
+    #    f.write(soup.prettify())
 
     with open(f'response/wikiPageContent/{title}.txt', 'w', encoding='utf-8') as f:
         f.write(cleaned_content)
