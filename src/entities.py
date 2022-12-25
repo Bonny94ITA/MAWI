@@ -132,6 +132,7 @@ def check_well_formed(ent: Span):
 
     if len(ent) > 0: 
         if ent.text.count("\"") == 1:
+            print("prima: ", ent)
             nbor = ent[-1].nbor()
             doc = ent.doc 
             
@@ -143,7 +144,23 @@ def check_well_formed(ent: Span):
             end_ent = nbor.i
 
             span = doc[start_ent: end_ent]
-            new_ent = span.char_span(0, len(span.text), label="LOC")
+            new_ent = span.char_span(0, len(span.text), label=ent.label_)
+            print("dopo: ", new_ent)
+            return new_ent
+        elif ent.text.count("(") == 1 and ent.text.count(")") == 0: 
+            print("prima: ", ent)
+            nbor = ent[0].nbor()
+            doc = ent.doc 
+            
+            while nbor.text != "(":
+                nbor = nbor.nbor()
+            
+            start_ent = ent.start
+            end_ent = nbor.i
+
+            span = doc[start_ent: end_ent]
+            new_ent = span.char_span(0, len(span.text), label=ent.label_)
+            print("dopo: ", new_ent)
             return new_ent
     
     return ent

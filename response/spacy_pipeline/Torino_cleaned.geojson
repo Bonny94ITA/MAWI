@@ -224,8 +224,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.70405,
-                    45.069952
+                    7.699289,
+                    45.071532
                 ]
             },
             "properties": {
@@ -1681,13 +1681,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.656917,
-                    45.087465
+                    7.656547,
+                    45.088765
                 ]
             },
             "properties": {
                 "entity": "via Pianezza",
-                "name_location": "Via Pianezza, Martinetto, Circoscrizione 4, Torino, Piemonte, 10143, Italia",
+                "name_location": "Via Pianezza, Borgata Ceronda, Circoscrizione 4, Torino, Piemonte, 10143, Italia",
                 "class": "highway",
                 "type": "tertiary",
                 "snippet": [
@@ -2349,25 +2349,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.683339,
-                    45.079324
-                ]
-            },
-            "properties": {
-                "entity": "Balon",
-                "name_location": "Bar del Balon, 12/F, Via Borgo Dora, Porta Palazzo, Circoscrizione 7, Torino, Piemonte, 10152, Italia",
-                "class": "amenity",
-                "type": "cafe",
-                "snippet": [
-                    "*Ogni sabato nei pressi si tiene il Balon, un grande Mercato all'aperto dell'usato, che la seconda domenica di ogni mese diventa Gran Balon, in cui si vendono anche oggetti di antiquariato."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     7.68444,
                     45.075996
                 ]
@@ -2383,6 +2364,25 @@
                     "*Nel 2011 il regista torinese Daniele Gaglianone ha realizzato il film documentario Uomini e mercati centrato sui mercati di Porta Palazzo, Piazza Benefica e Corso Spezia.",
                     "*Lazzaro felice. Nelle ultime settimane la regista ha girato la città focalizzando le riprese tra Galleria Umberto I, Porta Palazzo e la periferia nord.",
                     "*Negli stessi anni Filippo Juvarra costruì i portici di porta Palazzo."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.683339,
+                    45.079324
+                ]
+            },
+            "properties": {
+                "entity": "Balon",
+                "name_location": "Bar del Balon, 12/F, Via Borgo Dora, Porta Palazzo, Circoscrizione 7, Torino, Piemonte, 10152, Italia",
+                "class": "amenity",
+                "type": "cafe",
+                "snippet": [
+                    "*Ogni sabato nei pressi si tiene il Balon, un grande Mercato all'aperto dell'usato, che la seconda domenica di ogni mese diventa Gran Balon, in cui si vendono anche oggetti di antiquariato."
                 ]
             }
         },
@@ -3832,7 +3832,7 @@
                 "class": "boundary",
                 "type": "administrative",
                 "snippet": [
-                    "Torino (IPA: , ; Turin in piemontese , ) è un comune italiano di 844 056 abitanti (al 31 agosto 2022), quarto comune italiano per popolazione e capoluogo della regione Piemonte e dell'omonima città metropolitana.",
+                    "Torino (IPA: , ; Turin in piemontese , ) è un comune italiano di 842 754 abitanti (al 30 settembre 2022), quarto comune italiano per popolazione e capoluogo della regione Piemonte e dell'omonima città metropolitana.",
                     "Cuore di un'area metropolitana che conta circa 1,7 milioni di abitanti, Torino è il terzo complesso economico-produttivo del Paese (insieme a Milano e Genova componeva il triangolo industriale negli anni del boom economico) e costituisce uno dei maggiori poli universitari, artistici, turistici, scientifici e culturali d'Italia.",
                     "Ciò non è dipeso soltanto dal ritorno di molti immigrati del Mezzogiorno nelle loro regioni di origine, ma dagli spostamenti avvenuti da Torino verso quella che poi divenne l'area metropolitana, determinando così l'espansione dei comuni della seconda (Vinovo, Candiolo, Orbassano, Rivalta di Torino, Rivoli, Alpignano, Pianezza, Druento, Caselle Torinese) e della prima cintura (Moncalieri, Nichelino, Beinasco, Grugliasco, Collegno, Venaria Reale, Borgaro Torinese, Settimo Torinese, San Mauro Torinese).",
                     "Inoltre, i comuni di cintura dell'area urbana e metropolitana cittadina possiedono un sistema bibliotecario integrato denominato SBAM (Sistema Bibliotecario Area Metropolitana) composto di 65 biblioteche per un totale di circa 1.700.000 documenti.",
