@@ -189,12 +189,15 @@ def get_further_information(entities: list, city = "Torino"):
     informations = dict()
     wikipedia.set_lang("it")
     for ent in entities: 
+        to_search = ent
+        if not ent.__contains__(city):
+            to_search = ent+" ("+city+")"
         try:
-            page_ent = wikipedia.page(ent+" ("+city+")", redirect=True, preload=False)
+            page_ent = wikipedia.page(to_search, preload=False)
             informations[ent] = page_ent.summary
         except wikipedia.DisambiguationError as e:
             title = e.options[0]
-            page_ent = wikipedia.page(title, redirect=True, preload=False)
+            page_ent = wikipedia.page(title, redirect=False, preload=False)
             informations[ent] = page_ent.summary
         except wikipedia.PageError as e:
             informations[ent] = None
