@@ -46,7 +46,7 @@ def get_entities_snippet(document: Doc, entities_to_search_prev = dict()):
                     for subent in ent:
                         pos_ent.append(subent.pos_) 
 
-                    sent = sent + first_upper(sentence.text.strip(" \n"))
+                    sent = sent + "..." + first_upper(sentence.text.strip(" \n")) + "..."
                     if ent.text in entities_to_search and sent not in entities_to_search[ent.text] and "*"+sent not in entities_to_search[ent.text]:
                         entities_to_search[ent.text].append(sent)
                         entities_to_search_pos[ent.text].append(pos_ent)

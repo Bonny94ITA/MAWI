@@ -2,7 +2,7 @@ from src.model import create_model
 from src.preprocessing import wiki_content
 from src.entities import get_entities_snippet
 from src.location import search_entities_geopy
-from src.utils import get_nearby_pages, save_results, get_further_information
+from src.utils import get_nearby_pages, save_results, get_further_information2, get_further_information
 
 #cities = ["Torino", "Roma", "Bologna", "Milano", "Liberty a Torino", "Barocco a Milano"]
 
@@ -19,6 +19,8 @@ for city in cities:
 
     # Get entities without duplicates
     searchable_entities, sentence_dict = get_entities_snippet(doc)
+
+    searchable_entities = get_further_information(searchable_entities, city)
 
     print("number of entities: ", len(searchable_entities))
 
@@ -53,7 +55,7 @@ for city in cities:
 
     ## Further analysis
 
-    snippet_ent = get_further_information(entities_final)
+    snippet_ent = get_further_information2(entities_final)
 
     file_path_snippet_ent = f'response/spacy_pipeline/Snippet_entities.txt'
 

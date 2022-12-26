@@ -184,7 +184,7 @@ def get_nearby_pages(page: str):
 
     return landmarks
 
-def get_further_information(entities: list, city = "Torino"): 
+def get_further_information2(entities: list, city = "Torino"): 
 
     informations = dict()
     wikipedia.set_lang("it")
@@ -203,6 +203,35 @@ def get_further_information(entities: list, city = "Torino"):
             informations[ent] = None
 
     return informations
+
+def get_further_information(entities: dict, city = "Torino"):
+    """ Get the summary of the entities using wikipedia API.
+
+    Args:
+        entities: dictionary with the entities
+        city: name of the city
+    
+    Returns:
+        entities: dictionary with the summary of the entities
+    """
+
+    wikipedia.set_lang("it")
+    for ent in entities: 
+        to_search = ent
+        if not ent.__contains__(city):
+            to_search = ent+" ("+city+")"
+        try:
+            page_ent = wikipedia.page(to_search, preload=False)
+            entities[ent].append(page_ent.summary)
+        except wikipedia.DisambiguationError as e:
+            title = e.options[0]
+            page_ent = wikipedia.page(title, redirect=False, preload=False)
+            entities[ent].append(page_ent.summary)
+        except wikipedia.PageError as e:
+            pass
+
+    return entities
+
 
 def detection_outliers(results: list, context: dict):
     """ Detection of outliers in results.
