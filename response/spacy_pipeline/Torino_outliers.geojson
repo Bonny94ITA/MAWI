@@ -12,7 +12,7 @@
             },
             "properties": {
                 "entity": "Stura di Lanzo",
-                "name_location": "Stura di Lanzo, Torino, Piemonte, 10074, Italia",
+                "name_location": "Stura di Lanzo, Torino, Piemonte, Italia",
                 "class": "waterway",
                 "type": "river",
                 "snippet": [
@@ -32,11 +32,11 @@
             },
             "properties": {
                 "entity": "Val di Susa",
-                "name_location": "Val di Susa, Torino, Piemonte, 10050, Italia",
+                "name_location": "Val di Susa, Torino, Piemonte, Italia",
                 "class": "natural",
                 "type": "valley",
                 "snippet": [
-                    "*...Val di Susa, che collega la città con la vicina Francia attraverso il traforo del Frejus, Valli di Lanzo, Val Sangone....",
+                    "*...Val di Susa, che collega la città con la vicina Francia attraverso i trafori del Frejus (ferroviario e stradale) , Valli di Lanzo, Val Sangone....",
                     "La Val di Susa (Valsusa in piemontese) è una valle alpina situata nella parte occidentale del Piemonte, a ponente di Torino, confinante con la Francia a ovest: nonostante sia interamente appartenente al bacino idrografico del Po, e dunque alla regione geografica italiana, porzioni di alcune sue alte vallate laterali fanno politicamente parte della Repubblica francese in seguito ai trattati di pace del 1947 (circondario e colle del Moncenisio nel Dipartimento della Savoia; Valle Stretta, versante padano dei valichi della Scala e del Monginevro, vetta del monte Chaberton nel Dipartimento delle Alte Alpi).\nLunga 80 km e con oltre 90 000 abitanti, è la più estesa e popolata valle del Piemonte. Prende il nome dall'antica città di Susa, situata in posizione baricentrica, anche se il suo centro più grande oggi è Avigliana; si pronuncia Valsusa in piemontese, Val Susa in occitano, Vâl Susa in arpitano, Vallée de Suse in francese.\nNell'alta valle si trova il punto più occidentale d'Italia (vetta della Rocca Bernauda, nel comune di Bardonecchia, 45°06′15″N 6°37′32″E)."
                 ]
             }
@@ -56,7 +56,7 @@
                 "class": "amenity",
                 "type": "restaurant",
                 "snippet": [
-                    "*...Val di Susa, che collega la città con la vicina Francia attraverso il traforo del Frejus, Valli di Lanzo, Val Sangone....",
+                    "*...Val di Susa, che collega la città con la vicina Francia attraverso i trafori del Frejus (ferroviario e stradale) , Valli di Lanzo, Val Sangone....",
                     "Le Valli di Lanzo (Valade 'd Lans in piemontese, Valàdes at Lans in francoprovenzale) sono tre valli delle Alpi Graie piemontesi, comprese tra la Valle dell'Orco a settentrione e la Val di Susa a meridione. Solcate da vari torrenti (in ogni valle chiamati Stura), che confluiscono nel fiume Stura di Lanzo, prendono il nome dalla cittadina di Lanzo Torinese, posta su un'antica morena glaciale al termine delle valli."
                 ]
             }
@@ -72,11 +72,11 @@
             },
             "properties": {
                 "entity": "Val Sangone",
-                "name_location": "Val Sangone, Coazze, Torino, Piemonte, 10094, Italia",
+                "name_location": "Val Sangone, Coazze, Torino, Piemonte, Italia",
                 "class": "natural",
                 "type": "valley",
                 "snippet": [
-                    "*...Val di Susa, che collega la città con la vicina Francia attraverso il traforo del Frejus, Valli di Lanzo, Val Sangone....",
+                    "*...Val di Susa, che collega la città con la vicina Francia attraverso i trafori del Frejus (ferroviario e stradale) , Valli di Lanzo, Val Sangone....",
                     "La Val Sangone è una valle alpina della parte occidentale del Piemonte, in Provincia di Torino, tracciata dal percorso del torrente Sangone. Si estende per circa 25 km attraversando i comuni di Coazze, Valgioie, Giaveno, Trana, Reano, Sangano, Bruino e Rivalta; questi comuni (ad esclusione degli ultimi due) fanno parte della Comunità Montana Valle Susa e Val Sangone.\n\n"
                 ]
             }
@@ -86,8 +86,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.571124,
-                    45.089097
+                    7.570888,
+                    45.089228
                 ]
             },
             "properties": {
@@ -133,12 +133,12 @@
             },
             "properties": {
                 "entity": "Faro della Vittoria",
-                "name_location": "Faro della Vittoria, Strada esterna della Vetta della Maddalena, Circoscrizione 8, Revigliasco, Torino, Piemonte, 10024, Italia",
+                "name_location": "Faro della Vittoria, Viale Monfalcone, Circoscrizione 8, Torino, Piemonte, 10131, Italia",
                 "class": "man_made",
                 "type": "lighthouse",
                 "snippet": [
                     "*..., nei pressi del Faro della Vittoria....",
-                    "Il Faro della Vittoria, anche noto come Faro della Maddalena, è un monumento colossale dedicato alla Vittoria Alata, posto sulla sommità del parco della Rimembranza presso il Colle della Maddalena. L'ottica del faro è alloggiata nella fiaccola sorretta tra le mani dell'imponente statua in bronzo, opera dello scultore torinese Edoardo Rubino."
+                    "Il Faro della Vittoria, anche noto come Faro della Maddalena, è un monumento colossale dedicato alla Vittoria Alata, posto sulla sommità del parco della Rimembranza presso il Colle della Maddalena. L'ottica del faro è alloggiata nella fiaccola sorretta tra le mani dell'imponente statua in bronzo, opera dello scultore torinese Edoardo Rubino.\n\n"
                 ]
             }
         },
@@ -167,8 +167,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.775432,
-                    44.955227
+                    7.775424,
+                    44.95475
                 ]
             },
             "properties": {
@@ -199,6 +199,26 @@
                 "snippet": [
                     "*...In epoca romana il territorio di Torino era il terminale di un'importante Strada romana, la via Gallica....",
                     "Gli antichi Romani costruirono lunghe strade per collegare le più lontane province con la capitale dell'impero. Realizzate il più possibile rettilinee per minimizzare le distanze, queste infrastrutture erano essenziali per la crescita dell'impero, in quanto consentivano di muovere rapidamente l'esercito, ma oltre che per scopi militari esse erano utilizzate anche per scopi politici, amministrativi e commerciali.\nLa viabilità romana costituì il più efficiente e duraturo sistema stradale dell'antichità, che consentì di portare la civiltà romana in contatto con le genti più diverse che popolavano il mondo allora conosciuto. Nessun altro popolo in quell'epoca storica seppe eguagliare la loro capacità di scelta dei tracciati, le tecniche di costruzione e l'organizzazione di assistenza ai viaggiatori."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.88452,
+                    45.156374
+                ]
+            },
+            "properties": {
+                "entity": "Marca di Torino",
+                "name_location": "Strada della Marca - sentiero 107, Mezzavilla, Castagneto Po, Torino, Piemonte, 10034, Italia",
+                "class": "highway",
+                "type": "unclassified",
+                "snippet": [
+                    "...Nel 940 fu fondata la Marca di Torino, controllata dalla cosiddetta \"dinastia arduinica\" che, attraverso il matrimonio tra Adelaide di Susa e Oddone, figlio di Umberto I Biancamano (fondatore della casa Savoia), portò la città sotto l'influenza della dinastia sabauda....",
+                    "La Marca di Torino (detta anche Marca di Susa o Marca Arduinica) fu un circoscrizione territoriale del Regno d'Italia e del Sacro Romano Impero, creata per gestire il vuoto di potere sorto con la fine della dominazione Anscarica insieme alle altre marche orbertenga ed aleramica."
                 ]
             }
         },
@@ -247,15 +267,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.87062,
-                    45.036492
+                    7.870482,
+                    45.036526
                 ]
             },
             "properties": {
                 "entity": "Corso Vittorio Emanuele",
                 "name_location": "Corso Vittorio Emanuele, Andezeno, Torino, Piemonte, 10020, Italia",
                 "class": "highway",
-                "type": "service",
+                "type": "secondary",
                 "snippet": [
                     "*...Di norma i più antichi, come Corso Vittorio Emanuele, Corso Francia e Corso Regina Margherita, presentano una carreggiata centrale con almeno due corsie per senso di marcia, divisa da alberate dalle altre due carreggiate laterali, dette controviali....",
                     "...Le stazioni ferroviarie di Porta Nuova e Porta Susa vennero congiunte con un percorso porticato attraverso via Nizza, via Sacchi, Corso Vittorio Emanuele II, Corso Vinzaglio e via Cernaia....",
@@ -279,7 +299,7 @@
                 "type": "unclassified",
                 "snippet": [
                     "*...Vari resti di abitazioni di epoca imperiale, fra cui le tracce delle domus di via Bellezia, via Santa Chiara, via Bonelli, Piazza Castello, la necropoli nel sottosuolo di Piazza San Carlo e gli edifici pubblici di Piazza Emanuele Filiberto e Corso XI Febbraio....",
-                    "Torino (IPA: /toˈrino/, ; Turin in piemontese [tyˈriŋ], ) è un comune italiano di 842 754 abitanti (al 30 settembre 2022), quarto comune italiano per popolazione e capoluogo della regione Piemonte e dell'omonima città metropolitana. Cuore di un'area metropolitana che conta circa 1,7 milioni di abitanti, Torino è il terzo complesso economico-produttivo del Paese (insieme a Milano e Genova componeva il triangolo industriale negli anni del boom economico) e costituisce uno dei maggiori poli universitari, artistici, turistici, scientifici e culturali d'Italia. Nel suo territorio sono inoltre presenti aree ed edifici inclusi in due beni protetti dall'UNESCO: alcuni palazzi e zone facenti parte del circuito di residenze sabaude in Piemonte (patrimonio dell'umanità) e l'area delle colline del Po (riserva della biosfera).\nCittà dalla storia bimillenaria, fu fondata probabilmente nei pressi della posizione attuale, attorno al III secolo a.C., dai Taurini, quindi trasformata in colonia romana da Augusto col nome di Iulia Augusta Taurinorum nel I secolo a.C.. Dopo il dominio ostrogoto, fu capitale di un importante ducato longobardo, per poi passare, dopo essere divenuta capitale di marca carolingia, sotto la signoria nominale dei Savoia nell'XI secolo. Città dell'omonimo ducato, nel 1563 ne divenne capitale. Dal 1720 fu capitale del Regno di Sardegna (anche se solo de facto fino alla fusione perfetta del 1847, quando lo divenne anche formalmente), Stato che nel XIX secolo avrebbe portato all'unificazione italiana e che fece di Torino la prima capitale del Regno d'Italia (dal 1861 al 1865).\nSede nel 1911 dell'Expo, nel 2006 dei XX Giochi olimpici invernali, dal 2021 (fino ad almeno il 2025) delle ATP Finals e nel 2022 della 66ª edizione dell'Eurovision Song Contest, città natale di alcuni fra i maggiori simboli del Made in Italy nel mondo, tra cui il vermut, i giandujotti, i grissini e il caffè espresso, è il fulcro dell'industria automobilistica italiana, nonché importante centro dell'editoria, del sistema bancario e assicurativo, delle tecnologie dell'informazione, del cinema, dell'enogastronomia, del settore aerospaziale, del disegno industriale, dello sport, della moda e dell'intelligenza artificiale.La costante crescita d'importanza a livello internazionale ha fatto raggiungere a Torino il rango di città globale (terza città italiana dopo Milano e Roma) nella categoria Gamma."
+                    "Torino (IPA: /toˈrino/, ; Turin in piemontese [tyˈriŋ], ) è un comune italiano di 841 971 abitanti (al 31 ottobre 2022), quarto comune italiano per popolazione e capoluogo della regione Piemonte e dell'omonima città metropolitana. Cuore di un'area metropolitana che conta circa 1,7 milioni di abitanti, Torino è il terzo complesso economico-produttivo del Paese (insieme a Milano e Genova componeva il triangolo industriale negli anni del boom economico) e costituisce uno dei maggiori poli universitari, artistici, turistici, scientifici e culturali d'Italia. Nel suo territorio sono inoltre presenti aree ed edifici inclusi in due beni protetti dall'UNESCO: alcuni palazzi e zone facenti parte del circuito di residenze sabaude in Piemonte (patrimonio dell'umanità) e l'area delle colline del Po (riserva della biosfera).\nCittà dalla storia bimillenaria, fu fondata probabilmente nei pressi della posizione attuale, attorno al III secolo a.C., dai Taurini, quindi trasformata in colonia romana da Augusto col nome di Iulia Augusta Taurinorum nel I secolo a.C.. Dopo il dominio ostrogoto, fu capitale di un importante ducato longobardo, per poi passare, dopo essere divenuta capitale di marca carolingia, sotto la signoria nominale dei Savoia nell'XI secolo. Città dell'omonimo ducato, nel 1563 ne divenne capitale. Dal 1720 fu capitale del Regno di Sardegna (anche se solo de facto fino alla fusione perfetta del 1847, quando lo divenne anche formalmente), Stato che nel XIX secolo avrebbe portato all'unificazione italiana e che fece di Torino la prima capitale del Regno d'Italia (dal 1861 al 1865).\nSede nel 1911 dell'Expo, nel 2006 dei XX Giochi olimpici invernali, dal 2021 (fino ad almeno il 2025) delle ATP Finals e nel 2022 della 66ª edizione dell'Eurovision Song Contest, città natale di alcuni fra i maggiori simboli del Made in Italy nel mondo, tra cui il vermut, i giandujotti, i grissini e il caffè espresso, è il fulcro dell'industria automobilistica italiana, nonché importante centro dell'editoria, del sistema bancario e assicurativo, delle tecnologie dell'informazione, del cinema, dell'enogastronomia, del settore aerospaziale, del disegno industriale, dello sport, della moda e dell'intelligenza artificiale.La costante crescita d'importanza a livello internazionale ha fatto raggiungere a Torino il rango di città globale (terza città italiana dopo Milano e Roma) nella categoria Gamma."
                 ]
             }
         },
@@ -299,7 +319,7 @@
                 "type": "shoes",
                 "snippet": [
                     "*...Casa dei Romagnano, resti medievali in via dei Mercanti 9;...",
-                    "Torino (IPA: /toˈrino/, ; Turin in piemontese [tyˈriŋ], ) è un comune italiano di 842 754 abitanti (al 30 settembre 2022), quarto comune italiano per popolazione e capoluogo della regione Piemonte e dell'omonima città metropolitana. Cuore di un'area metropolitana che conta circa 1,7 milioni di abitanti, Torino è il terzo complesso economico-produttivo del Paese (insieme a Milano e Genova componeva il triangolo industriale negli anni del boom economico) e costituisce uno dei maggiori poli universitari, artistici, turistici, scientifici e culturali d'Italia. Nel suo territorio sono inoltre presenti aree ed edifici inclusi in due beni protetti dall'UNESCO: alcuni palazzi e zone facenti parte del circuito di residenze sabaude in Piemonte (patrimonio dell'umanità) e l'area delle colline del Po (riserva della biosfera).\nCittà dalla storia bimillenaria, fu fondata probabilmente nei pressi della posizione attuale, attorno al III secolo a.C., dai Taurini, quindi trasformata in colonia romana da Augusto col nome di Iulia Augusta Taurinorum nel I secolo a.C.. Dopo il dominio ostrogoto, fu capitale di un importante ducato longobardo, per poi passare, dopo essere divenuta capitale di marca carolingia, sotto la signoria nominale dei Savoia nell'XI secolo. Città dell'omonimo ducato, nel 1563 ne divenne capitale. Dal 1720 fu capitale del Regno di Sardegna (anche se solo de facto fino alla fusione perfetta del 1847, quando lo divenne anche formalmente), Stato che nel XIX secolo avrebbe portato all'unificazione italiana e che fece di Torino la prima capitale del Regno d'Italia (dal 1861 al 1865).\nSede nel 1911 dell'Expo, nel 2006 dei XX Giochi olimpici invernali, dal 2021 (fino ad almeno il 2025) delle ATP Finals e nel 2022 della 66ª edizione dell'Eurovision Song Contest, città natale di alcuni fra i maggiori simboli del Made in Italy nel mondo, tra cui il vermut, i giandujotti, i grissini e il caffè espresso, è il fulcro dell'industria automobilistica italiana, nonché importante centro dell'editoria, del sistema bancario e assicurativo, delle tecnologie dell'informazione, del cinema, dell'enogastronomia, del settore aerospaziale, del disegno industriale, dello sport, della moda e dell'intelligenza artificiale.La costante crescita d'importanza a livello internazionale ha fatto raggiungere a Torino il rango di città globale (terza città italiana dopo Milano e Roma) nella categoria Gamma."
+                    "Torino (IPA: /toˈrino/, ; Turin in piemontese [tyˈriŋ], ) è un comune italiano di 841 971 abitanti (al 31 ottobre 2022), quarto comune italiano per popolazione e capoluogo della regione Piemonte e dell'omonima città metropolitana. Cuore di un'area metropolitana che conta circa 1,7 milioni di abitanti, Torino è il terzo complesso economico-produttivo del Paese (insieme a Milano e Genova componeva il triangolo industriale negli anni del boom economico) e costituisce uno dei maggiori poli universitari, artistici, turistici, scientifici e culturali d'Italia. Nel suo territorio sono inoltre presenti aree ed edifici inclusi in due beni protetti dall'UNESCO: alcuni palazzi e zone facenti parte del circuito di residenze sabaude in Piemonte (patrimonio dell'umanità) e l'area delle colline del Po (riserva della biosfera).\nCittà dalla storia bimillenaria, fu fondata probabilmente nei pressi della posizione attuale, attorno al III secolo a.C., dai Taurini, quindi trasformata in colonia romana da Augusto col nome di Iulia Augusta Taurinorum nel I secolo a.C.. Dopo il dominio ostrogoto, fu capitale di un importante ducato longobardo, per poi passare, dopo essere divenuta capitale di marca carolingia, sotto la signoria nominale dei Savoia nell'XI secolo. Città dell'omonimo ducato, nel 1563 ne divenne capitale. Dal 1720 fu capitale del Regno di Sardegna (anche se solo de facto fino alla fusione perfetta del 1847, quando lo divenne anche formalmente), Stato che nel XIX secolo avrebbe portato all'unificazione italiana e che fece di Torino la prima capitale del Regno d'Italia (dal 1861 al 1865).\nSede nel 1911 dell'Expo, nel 2006 dei XX Giochi olimpici invernali, dal 2021 (fino ad almeno il 2025) delle ATP Finals e nel 2022 della 66ª edizione dell'Eurovision Song Contest, città natale di alcuni fra i maggiori simboli del Made in Italy nel mondo, tra cui il vermut, i giandujotti, i grissini e il caffè espresso, è il fulcro dell'industria automobilistica italiana, nonché importante centro dell'editoria, del sistema bancario e assicurativo, delle tecnologie dell'informazione, del cinema, dell'enogastronomia, del settore aerospaziale, del disegno industriale, dello sport, della moda e dell'intelligenza artificiale.La costante crescita d'importanza a livello internazionale ha fatto raggiungere a Torino il rango di città globale (terza città italiana dopo Milano e Roma) nella categoria Gamma."
                 ]
             }
         },
@@ -328,7 +348,7 @@
                     "...Finale della UEFA Europa League 2013-2014 disputatasi allo Juventus Stadium il 14 Maggio 2014 tra il Sevilla Fútbol Club e il Benfica....",
                     "*...Importante anche il contributo dell'automazione industriale alla crescente internazionalizzazione dell'economia torinese, con la presenza di aziende come Prima Industrie e Comau, con quest'ultima (tra le prime 4 in Europa per fatturato) che realizza in tutto il mondo robot per i principali gruppi automobilistici....",
                     "...Il 14 maggio 2014 la città ha ospitato la finale di UEFA Europa League tra il Sevilla Fútbol Club e il Benfica....",
-                    "Il Torino Football Club, meglio conosciuto come Torino, è una società calcistica italiana con sede nella città di Torino. Milita in Serie A, la massima divisione del campionato italiano.\nIl club odierno, rifondato nel 2005, è la continuazione dello storico sodalizio sorto nel 1906 dalla fusione tra il Torinese e i soci dissidenti del Foot-Ball Club Juventus, denominato Foot Ball Club Torino sino al 1936, Associazione Calcio Torino fino al 1943, dal 1945 al 1958 e ancora dal 1959 al 1977, Torino FIAT nel 1944, Associazione Calcio Talmone Torino nel 1958-59 e Torino Calcio dal 1977 al 2005.Il Toro, com'è colloquialmente abbreviato, è tra i club più blasonati d'Italia. Vanta la conquista di 7 campionati italiani compresa una striscia di 5 titoli consecutivi all'epoca del Grande Torino, quest'ultima riconosciuta tra le squadre più forti degli anni 40 del XX secolo. Nel suo palmarès nazionale figurano, altresì, 5 Coppe Italia, mentre in ambito internazionale si segnala la vittoria della Coppa Mitropa nel 1991; la finale di Coppa UEFA persa contro l'Ajax nell'edizione 1991-92, inoltre, è il migliore risultato raggiunto in una competizione UEFA dalla società.Prima squadra italiana riuscita a centrare un double nazionale nella stagione 1942-43, al 2021 il Torino occupa il 99º posto nel ranking UEFA, l'8º nella classifica perpetua della Serie A e il 7º nella tradizione sportiva italiana."
+                    "Il Torino Football Club, meglio conosciuto come Torino, è una società calcistica italiana con sede nella città di Torino. Milita in Serie A, la massima divisione del campionato italiano.\nIl club odierno, rifondato nel 2005, è la continuazione dello storico sodalizio sorto nel 1906 dalla fusione tra il Torinese e i soci dissidenti del Foot-Ball Club Juventus, denominato Foot Ball Club Torino sino al 1936, Associazione Calcio Torino fino al 1943, dal 1945 al 1958 e ancora dal 1959 al 1977, Torino FIAT nel 1944, Associazione Calcio Talmone Torino nel 1958-59 e Torino Calcio dal 1977 al 2005.Il Toro, com'è colloquialmente abbreviato, è tra i club più blasonati d'Italia. Vanta la conquista di 7 campionati italiani compresa una striscia di 5 titoli consecutivi all'epoca del Grande Torino, quest'ultima riconosciuta tra le squadre più forti degli anni 40 del XX secolo. Nel suo palmarès nazionale figurano, altresì, 5 Coppe Italia, mentre in ambito internazionale si segnala la vittoria della Coppa Mitropa nel 1991; la finale di Coppa UEFA persa contro l'Ajax nell'edizione 1991-92, inoltre, è il migliore risultato raggiunto in una competizione UEFA dalla società.Prima squadra italiana riuscita a centrare un double nazionale nella stagione 1942-43, al 2021 il Torino occupa il 99º posto nel ranking UEFA, l'8º nella classifica perpetua della Serie A e il 7º nella tradizione sportiva italiana.\n\n"
                 ]
             }
         },
@@ -370,7 +390,7 @@
                 "type": "place_of_worship",
                 "snippet": [
                     "*...Filippo Juvarra (Basilica di Superga, Chiesa di San Filippo Neri, Santuario della Consolata, Chiesa di Santa Cristina, Chiesa della Madonna del Carmine) ;...",
-                    "La chiesa di San Filippo Neri è un luogo di culto cattolico di Torino. Con i suoi 69 m di lunghezza e 37 di larghezza è l'edificio di culto più grande della città e sorge al centro di una zona di particolare interesse storico-artistico, sull'area già occupata dalla precedente chiesa di Sant'Eusebio. Posta all'incrocio di via Maria Vittoria con via Accademia delle Scienze, dista pochi passi dal \"Collegio dei Nobili\" (attuale sede del Museo Egizio), dal vicino Palazzo Carignano posto nell'omonima piazza, dalla centralissima via Roma e da piazza Castello."
+                    "La chiesa di San Filippo Neri è un luogo di culto cattolico di Torino. Con i suoi 69 m di lunghezza e 37 di larghezza è l'edificio di culto più grande della città e sorge al centro di una zona di particolare interesse storico-artistico, sull'area già occupata dalla precedente chiesa di Sant'Eusebio. Posta all'incrocio di via Maria Vittoria con via Accademia delle Scienze, dista pochi passi dal \"Collegio dei Nobili\" (attuale sede del Museo Egizio), dal vicino Palazzo Carignano posto nell'omonima piazza, dalla centralissima via Roma e da piazza Castello.\n\n"
                 ]
             }
         },
@@ -389,9 +409,9 @@
                 "class": "highway",
                 "type": "bus_stop",
                 "snippet": [
-                    "...Cimitero Monumentale (già Cimitero Generale): sito in Corso Novara, 135 (quartiere Regio Parco), è il primo Cimitero di Torino per dimensioni; contiene anche un Tempio Crematorio e un Cimitero giudaico; vi sono numerosi monumenti funebri di personaggi famosi e di pregevole fattura ;...",
+                    "*...Cimitero Monumentale (già Cimitero Generale): sito in Corso Novara, 135 (quartiere Regio Parco), è il primo Cimitero di Torino per dimensioni; contiene anche un Tempio Crematorio e un Cimitero giudaico; vi sono numerosi monumenti funebri di personaggi famosi e di pregevole fattura ;...",
                     "*...Cimitero Parco (detto anche \"Cimitero del Gerbido\"): costruito nel 1972 nella zona all'estremo sud di Torino, è il secondo Cimitero di Torino per dimensioni ;...",
-                    "Il cimitero monumentale di Torino - precedentemente conosciuto come cimitero generale - è il più grande cimitero della città di Torino, tra i primi in Italia per numero di defunti (oltre 400.000). \nSituato a Regio Parco (a nord-est rispetto al centro storico), è posto a ridosso del parco Colletta, poco a monte della confluenza della Dora Riparia nel Po.\nLa parte antica del cimitero si sviluppa a partire dall'ingresso principale di corso Novara ed è di forma ottagonale. Essa contiene numerose tombe storiche e 12 km di porticati, arricchiti da sculture di pregio artistico, da cui il nome di \"cimitero monumentale\". \nNel corso degli anni vi sono stati successivi ampliamenti del corpo storico centrale in direzione del parco Colletta. Al cimitero è annesso un tempio crematorio edificato nel 1882, il secondo in Italia dopo quello di Milano (1876)."
+                    "Il cimitero monumentale di Torino - precedentemente conosciuto come cimitero generale - è il più grande cimitero della città di Torino, tra i primi in Italia per numero di defunti (oltre 400.000). \nSituato a Regio Parco (a nord-est rispetto al centro storico), è posto a ridosso del parco Colletta, poco a monte della confluenza della Dora Riparia nel Po.\nLa parte antica del cimitero si sviluppa a partire dall'ingresso principale di corso Novara ed è di forma ottagonale. Essa contiene numerose tombe storiche e 12 km di porticati, arricchiti da sculture di pregio artistico, da cui il nome di \"cimitero monumentale\". \nNel corso degli anni vi sono stati successivi ampliamenti del corpo storico centrale in direzione del parco Colletta. Al cimitero è annesso un tempio crematorio edificato nel 1882, il secondo in Italia dopo quello di Milano (1876).\n\n"
                 ]
             }
         },
@@ -411,48 +431,7 @@
                 "type": "cemetery",
                 "snippet": [
                     "*...Cimitero di Mirafiori: piccolo Cimitero sito in corso Unione Sovietica 650, nella zona Sud di Torino ;...",
-                    "Mirafiori Sud (Mirafior Sud in piemontese) è un quartiere di Torino, con una vasta superficie che comprende gran parte della periferia sud-ovest del capoluogo piemontese. Costituiva la Circoscrizione 10 della città, dal 2016 accorpata con la Circoscrizione 2 (Reg. comunale di decentramento n. 374/2016).\nPrende il nome dal territorio di Mirafiori, il quale a sua volta lo deve a un antico castello sabaudo, detto appunto Miraflores, fatto costruire da Carlo Emanuele I alle porte meridionali di Torino nel 1585, come regalo alla moglie spagnola Caterina Michela d'Asburgo, ed andato successivamente distrutto.Il quartiere è noto alla storia del XX secolo soprattutto per l'omonimo impianto industriale automobilistico della FIAT torinese, in passato grande polo produttivo, tanto che rese questa zona una delle più popolose della città.\n\n"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.621874,
-                    45.011276
-                ]
-            },
-            "properties": {
-                "entity": "corso Unione Sovietica 650",
-                "name_location": "650, Corso Unione Sovietica, Borgata Mirafiori, Circoscrizione 2, Torino, Piemonte, 10135, Italia",
-                "class": "place",
-                "type": "house",
-                "snippet": [
-                    "*...Cimitero di Mirafiori: piccolo Cimitero sito in corso Unione Sovietica 650, nella zona Sud di Torino ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    20.779299,
-                    40.621695
-                ]
-            },
-            "properties": {
-                "entity": "Sud di Torino",
-                "name_location": "Torino, Rruga Gjon e Ndreci Pendavinji, Coriza, Bashkia Korçë, Prefettura di Coriza, Shqipëria Jugore, 7001, Albania",
-                "class": "shop",
-                "type": "optician",
-                "snippet": [
-                    "...Cimitero Parco (detto anche \"Cimitero del Gerbido\"): costruito nel 1972 nella zona all'estremo sud di Torino, è il secondo Cimitero di Torino per dimensioni ;...",
-                    "*...Cimitero di Mirafiori: piccolo Cimitero sito in corso Unione Sovietica 650, nella zona Sud di Torino ;...",
-                    "...La città è sede d'importanti centri dell'ONU, ospitati in un unico campus nella zona sud di Torino....",
-                    "Torino (IPA: /toˈrino/, ; Turin in piemontese [tyˈriŋ], ) è un comune italiano di 842 754 abitanti (al 30 settembre 2022), quarto comune italiano per popolazione e capoluogo della regione Piemonte e dell'omonima città metropolitana. Cuore di un'area metropolitana che conta circa 1,7 milioni di abitanti, Torino è il terzo complesso economico-produttivo del Paese (insieme a Milano e Genova componeva il triangolo industriale negli anni del boom economico) e costituisce uno dei maggiori poli universitari, artistici, turistici, scientifici e culturali d'Italia. Nel suo territorio sono inoltre presenti aree ed edifici inclusi in due beni protetti dall'UNESCO: alcuni palazzi e zone facenti parte del circuito di residenze sabaude in Piemonte (patrimonio dell'umanità) e l'area delle colline del Po (riserva della biosfera).\nCittà dalla storia bimillenaria, fu fondata probabilmente nei pressi della posizione attuale, attorno al III secolo a.C., dai Taurini, quindi trasformata in colonia romana da Augusto col nome di Iulia Augusta Taurinorum nel I secolo a.C.. Dopo il dominio ostrogoto, fu capitale di un importante ducato longobardo, per poi passare, dopo essere divenuta capitale di marca carolingia, sotto la signoria nominale dei Savoia nell'XI secolo. Città dell'omonimo ducato, nel 1563 ne divenne capitale. Dal 1720 fu capitale del Regno di Sardegna (anche se solo de facto fino alla fusione perfetta del 1847, quando lo divenne anche formalmente), Stato che nel XIX secolo avrebbe portato all'unificazione italiana e che fece di Torino la prima capitale del Regno d'Italia (dal 1861 al 1865).\nSede nel 1911 dell'Expo, nel 2006 dei XX Giochi olimpici invernali, dal 2021 (fino ad almeno il 2025) delle ATP Finals e nel 2022 della 66ª edizione dell'Eurovision Song Contest, città natale di alcuni fra i maggiori simboli del Made in Italy nel mondo, tra cui il vermut, i giandujotti, i grissini e il caffè espresso, è il fulcro dell'industria automobilistica italiana, nonché importante centro dell'editoria, del sistema bancario e assicurativo, delle tecnologie dell'informazione, del cinema, dell'enogastronomia, del settore aerospaziale, del disegno industriale, dello sport, della moda e dell'intelligenza artificiale.La costante crescita d'importanza a livello internazionale ha fatto raggiungere a Torino il rango di città globale (terza città italiana dopo Milano e Roma) nella categoria Gamma."
+                    "Mirafiori Sud (Mirafior Sud in piemontese) è una zona di Torino, con una vasta superficie che comprende gran parte della periferia sud-ovest del capoluogo piemontese. Era la denominazione della Circoscrizione 10 della città, dal 2016 accorpata con la Circoscrizione 2 (Reg. comunale di decentramento n. 374/2016) \nIl territorio di Mirafiori,  deve il suo nome a un antico castello sabaudo, detto appunto Miraflores, fatto costruire da Carlo Emanuele I alle porte meridionali di Torino nel 1585, come regalo alla moglie spagnola Caterina Michela d'Asburgo, ed andato successivamente distrutto.La zona è nota alla storia del XX secolo soprattutto per l'omonimo impianto industriale automobilistico della FIAT torinese, in passato grande polo produttivo, tanto che la rese una delle più popolose della città.\n\n"
                 ]
             }
         },
@@ -492,7 +471,7 @@
                 "type": "bus_stop",
                 "snippet": [
                     "*...Cimitero di San Pietro in Vincoli: sito nell'omonima via del borgo Aurora, fu il primo Cimitero della città, costruito nel 1777 sui disegni dell'architetto Francesco Valeriano Dellala di Beinasco, a seguito del decreto del re Vittorio Amedeo III, che vietava l'inumazione dei defunti nelle chiese. Dismesso presto a causa delle dimensioni troppo esigue, venne chiuso nel 1829 e utilizzato poi per breve tempo come Cimitero dei giustiziati, essendo situato molto vicino all'antica piazza della forca. Oggi è utilizzato come sede per eventi artistici e culturali....",
-                    "Il cimitero monumentale di Torino - precedentemente conosciuto come cimitero generale - è il più grande cimitero della città di Torino, tra i primi in Italia per numero di defunti (oltre 400.000). \nSituato a Regio Parco (a nord-est rispetto al centro storico), è posto a ridosso del parco Colletta, poco a monte della confluenza della Dora Riparia nel Po.\nLa parte antica del cimitero si sviluppa a partire dall'ingresso principale di corso Novara ed è di forma ottagonale. Essa contiene numerose tombe storiche e 12 km di porticati, arricchiti da sculture di pregio artistico, da cui il nome di \"cimitero monumentale\". \nNel corso degli anni vi sono stati successivi ampliamenti del corpo storico centrale in direzione del parco Colletta. Al cimitero è annesso un tempio crematorio edificato nel 1882, il secondo in Italia dopo quello di Milano (1876)."
+                    "Il cimitero monumentale di Torino - precedentemente conosciuto come cimitero generale - è il più grande cimitero della città di Torino, tra i primi in Italia per numero di defunti (oltre 400.000). \nSituato a Regio Parco (a nord-est rispetto al centro storico), è posto a ridosso del parco Colletta, poco a monte della confluenza della Dora Riparia nel Po.\nLa parte antica del cimitero si sviluppa a partire dall'ingresso principale di corso Novara ed è di forma ottagonale. Essa contiene numerose tombe storiche e 12 km di porticati, arricchiti da sculture di pregio artistico, da cui il nome di \"cimitero monumentale\". \nNel corso degli anni vi sono stati successivi ampliamenti del corpo storico centrale in direzione del parco Colletta. Al cimitero è annesso un tempio crematorio edificato nel 1882, il secondo in Italia dopo quello di Milano (1876).\n\n"
                 ]
             }
         },
@@ -521,38 +500,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.666241,
-                    45.005213
+                    7.630191,
+                    45.10352
                 ]
             },
             "properties": {
-                "entity": "Fonderie Limone di Moncalieri",
-                "name_location": "Fonderie Limone Moncalieri, 88, Via Pastrengo, Moncalieri, Torino, Piemonte, 10024, Italia",
+                "entity": "Officine Caos",
+                "name_location": "Officine CAOS - Stalker Teatro, 18, Piazza Eugenio Montale, Vallette, Circoscrizione 5, Torino, Piemonte, 10151, Italia",
                 "class": "amenity",
                 "type": "theatre",
                 "snippet": [
-                    "...Fondato nel 1955, secondo in Italia dopo il Teatro Stabile di Milano, gestisce le produzioni stagionali del Carignano, del Gobetti e delle Fonderie Limone di Moncalieri....",
-                    "Moncalieri (Moncalé in piemontese, Mons Calerius o anche Mons Calerii in latino) è un comune italiano di 56 257 abitanti della città metropolitana di Torino in Piemonte, conurbato nell'area metropolitana di Torino.\nÈ considerato un comune d'interesse storico-culturale, sia per la presenza del Castello sabaudo, sia per l'antico appellativo di \"Città del Proclama\" dal nome del celebre documento che fu episodio del Risorgimento italiano."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.20708,
-                    51.490081
-                ]
-            },
-            "properties": {
-                "entity": "Café",
-                "name_location": "Cafe Torino, Baron's Court Road, West Kensington, Hammersmith e Fulham, Londra, Greater London, Inghilterra, W14 9DP, Regno Unito",
-                "class": "amenity",
-                "type": "cafe",
-                "snippet": [
-                    "*...Café Müller ;...",
-                    "Torino (IPA: /toˈrino/, ; Turin in piemontese [tyˈriŋ], ) è un comune italiano di 842 754 abitanti (al 30 settembre 2022), quarto comune italiano per popolazione e capoluogo della regione Piemonte e dell'omonima città metropolitana. Cuore di un'area metropolitana che conta circa 1,7 milioni di abitanti, Torino è il terzo complesso economico-produttivo del Paese (insieme a Milano e Genova componeva il triangolo industriale negli anni del boom economico) e costituisce uno dei maggiori poli universitari, artistici, turistici, scientifici e culturali d'Italia. Nel suo territorio sono inoltre presenti aree ed edifici inclusi in due beni protetti dall'UNESCO: alcuni palazzi e zone facenti parte del circuito di residenze sabaude in Piemonte (patrimonio dell'umanità) e l'area delle colline del Po (riserva della biosfera).\nCittà dalla storia bimillenaria, fu fondata probabilmente nei pressi della posizione attuale, attorno al III secolo a.C., dai Taurini, quindi trasformata in colonia romana da Augusto col nome di Iulia Augusta Taurinorum nel I secolo a.C.. Dopo il dominio ostrogoto, fu capitale di un importante ducato longobardo, per poi passare, dopo essere divenuta capitale di marca carolingia, sotto la signoria nominale dei Savoia nell'XI secolo. Città dell'omonimo ducato, nel 1563 ne divenne capitale. Dal 1720 fu capitale del Regno di Sardegna (anche se solo de facto fino alla fusione perfetta del 1847, quando lo divenne anche formalmente), Stato che nel XIX secolo avrebbe portato all'unificazione italiana e che fece di Torino la prima capitale del Regno d'Italia (dal 1861 al 1865).\nSede nel 1911 dell'Expo, nel 2006 dei XX Giochi olimpici invernali, dal 2021 (fino ad almeno il 2025) delle ATP Finals e nel 2022 della 66ª edizione dell'Eurovision Song Contest, città natale di alcuni fra i maggiori simboli del Made in Italy nel mondo, tra cui il vermut, i giandujotti, i grissini e il caffè espresso, è il fulcro dell'industria automobilistica italiana, nonché importante centro dell'editoria, del sistema bancario e assicurativo, delle tecnologie dell'informazione, del cinema, dell'enogastronomia, del settore aerospaziale, del disegno industriale, dello sport, della moda e dell'intelligenza artificiale.La costante crescita d'importanza a livello internazionale ha fatto raggiungere a Torino il rango di città globale (terza città italiana dopo Milano e Roma) nella categoria Gamma."
+                    "*...Teatro Don Pollarolo (Officine Caos) ;...",
+                    "Torino (IPA: /toˈrino/, ; Turin in piemontese [tyˈriŋ], ) è un comune italiano di 841 971 abitanti (al 31 ottobre 2022), quarto comune italiano per popolazione e capoluogo della regione Piemonte e dell'omonima città metropolitana. Cuore di un'area metropolitana che conta circa 1,7 milioni di abitanti, Torino è il terzo complesso economico-produttivo del Paese (insieme a Milano e Genova componeva il triangolo industriale negli anni del boom economico) e costituisce uno dei maggiori poli universitari, artistici, turistici, scientifici e culturali d'Italia. Nel suo territorio sono inoltre presenti aree ed edifici inclusi in due beni protetti dall'UNESCO: alcuni palazzi e zone facenti parte del circuito di residenze sabaude in Piemonte (patrimonio dell'umanità) e l'area delle colline del Po (riserva della biosfera).\nCittà dalla storia bimillenaria, fu fondata probabilmente nei pressi della posizione attuale, attorno al III secolo a.C., dai Taurini, quindi trasformata in colonia romana da Augusto col nome di Iulia Augusta Taurinorum nel I secolo a.C.. Dopo il dominio ostrogoto, fu capitale di un importante ducato longobardo, per poi passare, dopo essere divenuta capitale di marca carolingia, sotto la signoria nominale dei Savoia nell'XI secolo. Città dell'omonimo ducato, nel 1563 ne divenne capitale. Dal 1720 fu capitale del Regno di Sardegna (anche se solo de facto fino alla fusione perfetta del 1847, quando lo divenne anche formalmente), Stato che nel XIX secolo avrebbe portato all'unificazione italiana e che fece di Torino la prima capitale del Regno d'Italia (dal 1861 al 1865).\nSede nel 1911 dell'Expo, nel 2006 dei XX Giochi olimpici invernali, dal 2021 (fino ad almeno il 2025) delle ATP Finals e nel 2022 della 66ª edizione dell'Eurovision Song Contest, città natale di alcuni fra i maggiori simboli del Made in Italy nel mondo, tra cui il vermut, i giandujotti, i grissini e il caffè espresso, è il fulcro dell'industria automobilistica italiana, nonché importante centro dell'editoria, del sistema bancario e assicurativo, delle tecnologie dell'informazione, del cinema, dell'enogastronomia, del settore aerospaziale, del disegno industriale, dello sport, della moda e dell'intelligenza artificiale.La costante crescita d'importanza a livello internazionale ha fatto raggiungere a Torino il rango di città globale (terza città italiana dopo Milano e Roma) nella categoria Gamma."
                 ]
             }
         },
@@ -592,7 +551,7 @@
                 "type": "park",
                 "snippet": [
                     "*...L'igiene urbana e la raccolta rifiuti sono gestiti dal 1969 da Amiat, società che si occupa anche del recupero ambientale della Discarica Basse di Stura, di cui la parte più vecchia - esaurita nel 1983 e con una superficie complessiva di 300.000 m² - è diventata Parco fluviale, nota come Parco urbano della Marmorina....",
-                    "Il parco Colletta è un parco della città di Torino, di 448.000 m². È parte, assieme al parco dell'Arrivore, dell'area attrezzata Arrivore e Colletta, di 208 ha, area che a sua volta è una porzione del parco fluviale del Po tratto torinese.È anche erroneamente noto come Parco della Colletta e tale denominazione è persino riportata su qualche segnaletica comunale.\nFa parte del quartiere Vanchiglietta e si estende a nord verso la Barriera di Milano.\n\n"
+                    "Il parco del Valentino (parch dël Valentin, o semplicemente ël Valentin, in piemontese) è un famoso parco pubblico di Torino, sito lungo le rive del Po. È situato nel quartiere di San Salvario, a ridosso del centro storico torinese.\nConfina:\n\na est con la sponda sinistra del fiume Po;\na nord con corso Vittorio Emanuele II, dove terminano i Murazzi;\na ovest con corso Massimo D'Azeglio;\na sud si restringe, seguendo via Francesco Petrarca e la sua prosecuzione, corso Sclopis, e continuando lungo il corso del Po e corso Unità d'Italia con una lingua che si perde verso Moncalieri.Il Valentino ha un'estensione di 421000 m² e, secondo la classifica 2014 di TripAdvisor, risulta essere il parco italiano più apprezzato dai turisti.\n\n"
                 ]
             }
         },
@@ -613,7 +572,7 @@
                 "snippet": [
                     "...Attorno alla città, ad anello, vi sono il Parco della Mandria e il Parco della Palazzina di caccia di Stupinigi, antiche riserve di caccia dei Savoia, e quelli situati sulla collina torinese quali il Parco della Rimembranza o il Parco Europa....",
                     "*...Due spettacolari esemplari di carpino bianco (Carpinus betulus) arricchiscono il grande Parco della Rimembranza che si dispiega lungo il Colle della Maddalena....",
-                    "Il Parco della Rimembranza, comunemente noto come Parco della Maddalena, è un vasto giardino pubblico cittadino della collina di Torino, situato nei dintorni della vetta del Bric della Maddalena, che con i suoi 715 m s.l.m. è il punto più elevato della città. Ha un'estensione superiore a 90 ettari e ospita oltre 21.000 alberi, molti dei quali non autoctoni (come le conifere). È costituito da un ampio piazzale panoramico posto sulla vetta del colle con al centro il Faro della Vittoria, dall'Arboretum Taurinense e da una serie di strade e sentieri pedonali di circa 45 km di sviluppo."
+                    "Il Parco della Rimembranza, comunemente noto come Parco della Maddalena, è un vasto giardino pubblico cittadino della collina di Torino, situato nei dintorni della vetta del Bric della Maddalena, che con i suoi 715 m s.l.m. è il punto più elevato della città. Ha un'estensione superiore a 90 ettari e ospita oltre 21.000 alberi, molti dei quali non autoctoni (come le conifere). È costituito da un ampio piazzale panoramico posto sulla vetta del colle con al centro il Faro della Vittoria, dall'Arboretum Taurinense e da una serie di strade e sentieri pedonali di circa 45 km di sviluppo.\n\n"
                 ]
             }
         },
@@ -633,7 +592,27 @@
                 "type": "tree",
                 "snippet": [
                     "*...Torino ospita anche alberi esotici secolari come le sequoie costali (Sequoia sempervirens) dei parchi collinari di Villa Genero e Giacomo Leopardi, i numerosi esemplari di Noce del Caucaso (Pterocarya fraxinifolia) che costeggiano il Po e compaiono in parchi pubblici come i Giardini Cavour, il Giardino Sambuy, i Giardini Reali Bassi (lungo Corso San Maurizio), il Parco Millefonti....",
-                    "Torino (IPA: /toˈrino/, ; Turin in piemontese [tyˈriŋ], ) è un comune italiano di 842 754 abitanti (al 30 settembre 2022), quarto comune italiano per popolazione e capoluogo della regione Piemonte e dell'omonima città metropolitana. Cuore di un'area metropolitana che conta circa 1,7 milioni di abitanti, Torino è il terzo complesso economico-produttivo del Paese (insieme a Milano e Genova componeva il triangolo industriale negli anni del boom economico) e costituisce uno dei maggiori poli universitari, artistici, turistici, scientifici e culturali d'Italia. Nel suo territorio sono inoltre presenti aree ed edifici inclusi in due beni protetti dall'UNESCO: alcuni palazzi e zone facenti parte del circuito di residenze sabaude in Piemonte (patrimonio dell'umanità) e l'area delle colline del Po (riserva della biosfera).\nCittà dalla storia bimillenaria, fu fondata probabilmente nei pressi della posizione attuale, attorno al III secolo a.C., dai Taurini, quindi trasformata in colonia romana da Augusto col nome di Iulia Augusta Taurinorum nel I secolo a.C.. Dopo il dominio ostrogoto, fu capitale di un importante ducato longobardo, per poi passare, dopo essere divenuta capitale di marca carolingia, sotto la signoria nominale dei Savoia nell'XI secolo. Città dell'omonimo ducato, nel 1563 ne divenne capitale. Dal 1720 fu capitale del Regno di Sardegna (anche se solo de facto fino alla fusione perfetta del 1847, quando lo divenne anche formalmente), Stato che nel XIX secolo avrebbe portato all'unificazione italiana e che fece di Torino la prima capitale del Regno d'Italia (dal 1861 al 1865).\nSede nel 1911 dell'Expo, nel 2006 dei XX Giochi olimpici invernali, dal 2021 (fino ad almeno il 2025) delle ATP Finals e nel 2022 della 66ª edizione dell'Eurovision Song Contest, città natale di alcuni fra i maggiori simboli del Made in Italy nel mondo, tra cui il vermut, i giandujotti, i grissini e il caffè espresso, è il fulcro dell'industria automobilistica italiana, nonché importante centro dell'editoria, del sistema bancario e assicurativo, delle tecnologie dell'informazione, del cinema, dell'enogastronomia, del settore aerospaziale, del disegno industriale, dello sport, della moda e dell'intelligenza artificiale.La costante crescita d'importanza a livello internazionale ha fatto raggiungere a Torino il rango di città globale (terza città italiana dopo Milano e Roma) nella categoria Gamma."
+                    "Torino (IPA: /toˈrino/, ; Turin in piemontese [tyˈriŋ], ) è un comune italiano di 841 971 abitanti (al 31 ottobre 2022), quarto comune italiano per popolazione e capoluogo della regione Piemonte e dell'omonima città metropolitana. Cuore di un'area metropolitana che conta circa 1,7 milioni di abitanti, Torino è il terzo complesso economico-produttivo del Paese (insieme a Milano e Genova componeva il triangolo industriale negli anni del boom economico) e costituisce uno dei maggiori poli universitari, artistici, turistici, scientifici e culturali d'Italia. Nel suo territorio sono inoltre presenti aree ed edifici inclusi in due beni protetti dall'UNESCO: alcuni palazzi e zone facenti parte del circuito di residenze sabaude in Piemonte (patrimonio dell'umanità) e l'area delle colline del Po (riserva della biosfera).\nCittà dalla storia bimillenaria, fu fondata probabilmente nei pressi della posizione attuale, attorno al III secolo a.C., dai Taurini, quindi trasformata in colonia romana da Augusto col nome di Iulia Augusta Taurinorum nel I secolo a.C.. Dopo il dominio ostrogoto, fu capitale di un importante ducato longobardo, per poi passare, dopo essere divenuta capitale di marca carolingia, sotto la signoria nominale dei Savoia nell'XI secolo. Città dell'omonimo ducato, nel 1563 ne divenne capitale. Dal 1720 fu capitale del Regno di Sardegna (anche se solo de facto fino alla fusione perfetta del 1847, quando lo divenne anche formalmente), Stato che nel XIX secolo avrebbe portato all'unificazione italiana e che fece di Torino la prima capitale del Regno d'Italia (dal 1861 al 1865).\nSede nel 1911 dell'Expo, nel 2006 dei XX Giochi olimpici invernali, dal 2021 (fino ad almeno il 2025) delle ATP Finals e nel 2022 della 66ª edizione dell'Eurovision Song Contest, città natale di alcuni fra i maggiori simboli del Made in Italy nel mondo, tra cui il vermut, i giandujotti, i grissini e il caffè espresso, è il fulcro dell'industria automobilistica italiana, nonché importante centro dell'editoria, del sistema bancario e assicurativo, delle tecnologie dell'informazione, del cinema, dell'enogastronomia, del settore aerospaziale, del disegno industriale, dello sport, della moda e dell'intelligenza artificiale.La costante crescita d'importanza a livello internazionale ha fatto raggiungere a Torino il rango di città globale (terza città italiana dopo Milano e Roma) nella categoria Gamma."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.853892,
+                    45.172867
+                ]
+            },
+            "properties": {
+                "entity": "Via Francigena",
+                "name_location": "Via Francigena, San Raffaele Cimena, Torino, Piemonte, 10032, Italia",
+                "class": "highway",
+                "type": "track",
+                "snippet": [
+                    "...Per Torino passa la Via Francigena, ramo del Moncenisio....",
+                    "La Via Francigena, Francisca o Romea, è parte di un fascio di percorsi, detti anche vie romee, che dall'Europa occidentale, in particolare dalla Francia, conducevano nel Sud Europa fino a Roma proseguendo poi verso la Puglia, dove vi erano i porti d'imbarco per la Terrasanta, meta di pellegrini e di crociati.\nNel 1994 è stata dichiarata \"Itinerario Culturale Europeo\" assumendo, alla pari del Cammino di Santiago di Compostela, una dignità sovranazionale."
                 ]
             }
         },
@@ -653,7 +632,7 @@
                 "type": "place_of_worship",
                 "snippet": [
                     "*...L'itinerario, fra i preferiti nel Medioevo, valicato lo spartiacque Francia/Italia al Colle del Moncenisio, giunge dalla Valle di Susa terra delle grandi abbazie come Novalesa, Sacra di San Michele e Sant'Antonio di Ranverso e passando per Torino lungo il Parco Colletta tende a San Mauro Torinese e poi verso Chivasso e successivamente a Vercelli, dove si congiunge con l'altro ramo della Francigena, quella proveniente dal Colle del Gran San Bernardo....",
-                    "La Sacra di San Michele, o più propriamente abbazia di San Michele della Chiusa, localmente chiamata anche Sagra di San Michele, è un complesso architettonico arroccato sulla vetta del monte Pirchiriano, all'imbocco della val di Susa, nella Città metropolitana di Torino, in Piemonte, nei territori dei comuni di Sant'Ambrogio di Torino e di Chiusa di San Michele, poco sopra la borgata San Pietro.\nCollocata su un imponente basamento di 26 metri a 960 metri di altitudine s.l.m, affacciandosi dalla cima del monte Pirchiriano sul confine fra le Alpi Cozie e la Pianura Padana, è il monumento simbolo del Piemonte e una delle più eminenti architetture religiose di questo territorio alpino, appartenente alla diocesi di Susa, prima tappa in territorio italiano della via Francigena.\nDal XII al XV secolo visse il periodo del suo massimo splendore storico, divenendo uno dei principali centri della spiritualità benedettina in Italia. Nel XIX secolo vi fu insediata la congregazione dei padri rosminiani. Nel 2015, il sito è stato uno dei vincitori del concorso fotografico mondiale Wiki Loves Monuments. Nel 2016 il museo del complesso monumentale abbaziale è stato visitato da oltre 100.000 persone.\nNella notte del 24 gennaio 2018, il Monastero Vecchio della Sacra ha subito ingenti danni a seguito di un incendio divampato sul tetto, senza impattare la parte architettonicamente più rilevante, che necessita di importanti restauri. Lo scenario monastico ha largamente ispirato il romanzo storico di Umberto Eco Il nome della rosa."
+                    "La Sacra di San Michele, o più propriamente abbazia di San Michele della Chiusa, localmente chiamata anche Sagra di San Michele, è un complesso architettonico arroccato sulla vetta del monte Pirchiriano, all'imbocco della val di Susa, nella Città metropolitana di Torino, in Piemonte, nei territori dei comuni di Sant'Ambrogio di Torino e di Chiusa di San Michele, poco sopra la borgata San Pietro.\nCollocata su un imponente basamento di 26 metri a 960 metri di altitudine s.l.m, affacciandosi dalla cima del monte Pirchiriano sul confine fra le Alpi Cozie e la Pianura Padana, è il monumento simbolo del Piemonte e una delle più eminenti architetture religiose di questo territorio alpino, appartenente alla diocesi di Susa, prima tappa in territorio italiano della via Francigena.\nDal XII al XV secolo visse il periodo del suo massimo splendore storico, divenendo uno dei principali centri della spiritualità benedettina in Italia. Nel XIX secolo vi fu insediata la congregazione dei padri rosminiani. Nel 2015, il sito è stato uno dei vincitori del concorso fotografico mondiale Wiki Loves Monuments. Nel 2016 il museo del complesso monumentale abbaziale è stato visitato da oltre 100.000 persone.\nNella notte del 24 gennaio 2018, il Monastero Vecchio della Sacra ha subito ingenti danni a seguito di un incendio divampato sul tetto, senza impattare la parte architettonicamente più rilevante, che necessita di importanti restauri. Lo scenario monastico ha largamente ispirato il romanzo storico di Umberto Eco Il nome della rosa.\n\n"
                 ]
             }
         },
@@ -682,8 +661,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.840156,
-                    45.153161
+                    7.853892,
+                    45.172867
                 ]
             },
             "properties": {
@@ -692,6 +671,7 @@
                 "class": "highway",
                 "type": "track",
                 "snippet": [
+                    "...Per Torino passa la Via Francigena, ramo del Moncenisio....",
                     "*...L'itinerario, fra i preferiti nel Medioevo, valicato lo spartiacque Francia/Italia al Colle del Moncenisio, giunge dalla Valle di Susa terra delle grandi abbazie come Novalesa, Sacra di San Michele e Sant'Antonio di Ranverso e passando per Torino lungo il Parco Colletta tende a San Mauro Torinese e poi verso Chivasso e successivamente a Vercelli, dove si congiunge con l'altro ramo della Francigena, quella proveniente dal Colle del Gran San Bernardo....",
                     "La Via Francigena, Francisca o Romea, è parte di un fascio di percorsi, detti anche vie romee, che dall'Europa occidentale, in particolare dalla Francia, conducevano nel Sud Europa fino a Roma proseguendo poi verso la Puglia, dove vi erano i porti d'imbarco per la Terrasanta, meta di pellegrini e di crociati.\nNel 1994 è stata dichiarata \"Itinerario Culturale Europeo\" assumendo, alla pari del Cammino di Santiago di Compostela, una dignità sovranazionale."
                 ]
@@ -714,7 +694,7 @@
                 "snippet": [
                     "...Vi sono quattro musei nazionali (Museo del Cinema, Museo dell'automobile, Museo della montagna, Museo del Risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio, l'Armeria Reale, ora ricompresa nei Musei Reali, il Museo d'Arte Orientale, il Museo dell'Astronomia e Planetario, il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport....",
                     "...Da ricordare il Museo dell'astronomia e Planetario di Torino, che sorge accanto dell'Osservatorio astronomico di Torino a Pino Torinese, cittadina collinare nei pressi immediati del capoluogo piemontese....",
-                    "Il Planetario di Torino, Museo dell'Astronomia e dello Spazio (Infini.to) ha sede a Pino Torinese, sulla collina di Torino.\nSorge accanto all'Osservatorio astronomico, antica istituzione scientifica torinese. Le sue strutture comprendono un museo interattivo dell'astronomia e un planetario da 98 posti di tipo digitale.\nAperto al pubblico dal 28 settembre 2007, presso Infini.to si realizzano attività divulgative, educative e formative rivolte al pubblico generico e alle scuole."
+                    "Il Planetario di Torino, Museo dell'Astronomia e dello Spazio (Infini.to) ha sede a Pino Torinese, sulla collina di Torino.\nSorge accanto all'Osservatorio astronomico, antica istituzione scientifica torinese. Le sue strutture comprendono un museo interattivo dell'astronomia e un planetario da 98 posti di tipo digitale.\nAperto al pubblico dal 28 settembre 2007, presso Infini.to si realizzano attività divulgative, educative e formative rivolte al pubblico generico e alle scuole.\n\n"
                 ]
             }
         },
@@ -754,7 +734,7 @@
                 "type": "museum",
                 "snippet": [
                     "...Da ricordare il Museo dell'astronomia e Planetario di Torino, che sorge accanto dell'Osservatorio astronomico di Torino a Pino Torinese, cittadina collinare nei pressi immediati del capoluogo piemontese....",
-                    "Il Planetario di Torino, Museo dell'Astronomia e dello Spazio (Infini.to) ha sede a Pino Torinese, sulla collina di Torino.\nSorge accanto all'Osservatorio astronomico, antica istituzione scientifica torinese. Le sue strutture comprendono un museo interattivo dell'astronomia e un planetario da 98 posti di tipo digitale.\nAperto al pubblico dal 28 settembre 2007, presso Infini.to si realizzano attività divulgative, educative e formative rivolte al pubblico generico e alle scuole."
+                    "Il Planetario di Torino, Museo dell'Astronomia e dello Spazio (Infini.to) ha sede a Pino Torinese, sulla collina di Torino.\nSorge accanto all'Osservatorio astronomico, antica istituzione scientifica torinese. Le sue strutture comprendono un museo interattivo dell'astronomia e un planetario da 98 posti di tipo digitale.\nAperto al pubblico dal 28 settembre 2007, presso Infini.to si realizzano attività divulgative, educative e formative rivolte al pubblico generico e alle scuole.\n\n"
                 ]
             }
         },
@@ -814,7 +794,7 @@
                 "type": "cinema",
                 "snippet": [
                     "...Sono nati a Torino il primo Cinema d'essai italiano (il Romano nella Galleria Subalpina, nel 1971), la principale associazione cinematografica nazionale (l'Aiace Torino) e la prima multisala del Paese (l'Eliseo, nel 1983)....",
-                    "Torino (IPA: /toˈrino/, ; Turin in piemontese [tyˈriŋ], ) è un comune italiano di 842 754 abitanti (al 30 settembre 2022), quarto comune italiano per popolazione e capoluogo della regione Piemonte e dell'omonima città metropolitana. Cuore di un'area metropolitana che conta circa 1,7 milioni di abitanti, Torino è il terzo complesso economico-produttivo del Paese (insieme a Milano e Genova componeva il triangolo industriale negli anni del boom economico) e costituisce uno dei maggiori poli universitari, artistici, turistici, scientifici e culturali d'Italia. Nel suo territorio sono inoltre presenti aree ed edifici inclusi in due beni protetti dall'UNESCO: alcuni palazzi e zone facenti parte del circuito di residenze sabaude in Piemonte (patrimonio dell'umanità) e l'area delle colline del Po (riserva della biosfera).\nCittà dalla storia bimillenaria, fu fondata probabilmente nei pressi della posizione attuale, attorno al III secolo a.C., dai Taurini, quindi trasformata in colonia romana da Augusto col nome di Iulia Augusta Taurinorum nel I secolo a.C.. Dopo il dominio ostrogoto, fu capitale di un importante ducato longobardo, per poi passare, dopo essere divenuta capitale di marca carolingia, sotto la signoria nominale dei Savoia nell'XI secolo. Città dell'omonimo ducato, nel 1563 ne divenne capitale. Dal 1720 fu capitale del Regno di Sardegna (anche se solo de facto fino alla fusione perfetta del 1847, quando lo divenne anche formalmente), Stato che nel XIX secolo avrebbe portato all'unificazione italiana e che fece di Torino la prima capitale del Regno d'Italia (dal 1861 al 1865).\nSede nel 1911 dell'Expo, nel 2006 dei XX Giochi olimpici invernali, dal 2021 (fino ad almeno il 2025) delle ATP Finals e nel 2022 della 66ª edizione dell'Eurovision Song Contest, città natale di alcuni fra i maggiori simboli del Made in Italy nel mondo, tra cui il vermut, i giandujotti, i grissini e il caffè espresso, è il fulcro dell'industria automobilistica italiana, nonché importante centro dell'editoria, del sistema bancario e assicurativo, delle tecnologie dell'informazione, del cinema, dell'enogastronomia, del settore aerospaziale, del disegno industriale, dello sport, della moda e dell'intelligenza artificiale.La costante crescita d'importanza a livello internazionale ha fatto raggiungere a Torino il rango di città globale (terza città italiana dopo Milano e Roma) nella categoria Gamma."
+                    "Torino (IPA: /toˈrino/, ; Turin in piemontese [tyˈriŋ], ) è un comune italiano di 841 971 abitanti (al 31 ottobre 2022), quarto comune italiano per popolazione e capoluogo della regione Piemonte e dell'omonima città metropolitana. Cuore di un'area metropolitana che conta circa 1,7 milioni di abitanti, Torino è il terzo complesso economico-produttivo del Paese (insieme a Milano e Genova componeva il triangolo industriale negli anni del boom economico) e costituisce uno dei maggiori poli universitari, artistici, turistici, scientifici e culturali d'Italia. Nel suo territorio sono inoltre presenti aree ed edifici inclusi in due beni protetti dall'UNESCO: alcuni palazzi e zone facenti parte del circuito di residenze sabaude in Piemonte (patrimonio dell'umanità) e l'area delle colline del Po (riserva della biosfera).\nCittà dalla storia bimillenaria, fu fondata probabilmente nei pressi della posizione attuale, attorno al III secolo a.C., dai Taurini, quindi trasformata in colonia romana da Augusto col nome di Iulia Augusta Taurinorum nel I secolo a.C.. Dopo il dominio ostrogoto, fu capitale di un importante ducato longobardo, per poi passare, dopo essere divenuta capitale di marca carolingia, sotto la signoria nominale dei Savoia nell'XI secolo. Città dell'omonimo ducato, nel 1563 ne divenne capitale. Dal 1720 fu capitale del Regno di Sardegna (anche se solo de facto fino alla fusione perfetta del 1847, quando lo divenne anche formalmente), Stato che nel XIX secolo avrebbe portato all'unificazione italiana e che fece di Torino la prima capitale del Regno d'Italia (dal 1861 al 1865).\nSede nel 1911 dell'Expo, nel 2006 dei XX Giochi olimpici invernali, dal 2021 (fino ad almeno il 2025) delle ATP Finals e nel 2022 della 66ª edizione dell'Eurovision Song Contest, città natale di alcuni fra i maggiori simboli del Made in Italy nel mondo, tra cui il vermut, i giandujotti, i grissini e il caffè espresso, è il fulcro dell'industria automobilistica italiana, nonché importante centro dell'editoria, del sistema bancario e assicurativo, delle tecnologie dell'informazione, del cinema, dell'enogastronomia, del settore aerospaziale, del disegno industriale, dello sport, della moda e dell'intelligenza artificiale.La costante crescita d'importanza a livello internazionale ha fatto raggiungere a Torino il rango di città globale (terza città italiana dopo Milano e Roma) nella categoria Gamma."
                 ]
             }
         },
@@ -823,20 +803,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.650501,
-                    45.175806
+                    7.648975,
+                    45.200969
                 ]
             },
             "properties": {
                 "entity": "Aeroporto di Torino-Caselle",
-                "name_location": "Caselle (str. Aeroporto 36), Strada Aeroporto, Caselle Torinese, Torino, Piemonte, 10072, Italia",
-                "class": "highway",
-                "type": "bus_stop",
+                "name_location": "Aeroporto di Torino, Via San Maurizio, Caselle Torinese, Torino, Piemonte, 10072, Italia",
+                "class": "aeroway",
+                "type": "aerodrome",
                 "snippet": [
                     "*...Un colpo all'italiana. Un gruppo di ladri inglesi arriva a Torino a bordo di tre Mini Cooper per organizzare una rapina ai danni di un convoglio che trasporta i ricavi della FIAT dall'Aeroporto di Torino-Caselle fino alla città....",
-                    "...RA10 Torino - Caselle Torinese - Aeroporto di Torino-Caselle ....",
+                    "*...RA10 Torino - Caselle Torinese - Aeroporto di Torino-Caselle ....",
                     "...L'Aeroporto di Torino-Caselle, un Aeroporto di medie dimensioni (200-300 ettari, 1-5 milioni di passeggeri all'anno) inaugurato nel 1953....",
-                    "L'Aeroporto internazionale di Torino-Caselle (IATA: TRN, ICAO: LIMF), anche noto come Aeroporto Internazionale Sandro Pertini e precedentemente chiamato Aeroporto Città di Torino, è un aeroporto internazionale situato nel territorio dei comuni di Caselle Torinese, San Francesco al Campo e San Maurizio Canavese, a 16 km a nord di Torino.\nÈ hub della compagnia aerea Blue Air e dell'executive Eurofly Service, e base di Ryanair. È interessato da varie rotte delle compagnie aeree Air Dolomiti, Ryanair, Volotea, Air France, Iberia, ITA Airways, British Airways, Blue Air, Lumiwings, Wizz Air, EasyJet, KLM.\nL'aeroporto è anche sede di due stabilimenti di Leonardo (Nord e Sud): questi siti sono specializzati nell'assemblaggio e fase finale della produzione, manutenzione, test al suolo e prove in volo di prototipi e velivoli militari e civili. In particolare vengono prodotti velivoli quali: AMX-ACOL, ATR 42 MP, ATR 72 MP, C-27J, Eurofighter, Tornado MLU e Sky-X.\n\n"
+                    "L'Aeroporto internazionale di Torino-Caselle (IATA: TRN, ICAO: LIMF), anche noto come Aeroporto Internazionale Sandro Pertini e precedentemente chiamato Aeroporto Città di Torino, è un aeroporto internazionale situato nel territorio dei comuni di Caselle Torinese, San Francesco al Campo e San Maurizio Canavese, a 16 km a nord di Torino.\nÈ hub della compagnia aerea Blue Air e dell'executive Eurofly Service, e base di Ryanair. È interessato da varie rotte delle compagnie aeree Air Dolomiti, Ryanair, Volotea, Air France, Iberia, ITA Airways, British Airways, Blue Air, Lumiwings, Wizz Air, EasyJet, KLM e da alcune compagnie charter come Neos e TUI fly. \nL'aeroporto è anche sede di due stabilimenti di Leonardo (Nord e Sud): questi siti sono specializzati nell'assemblaggio e fase finale della produzione, manutenzione, test al suolo e prove in volo di prototipi e velivoli militari e civili. In particolare vengono prodotti velivoli quali: AMX-ACOL, ATR 42 MP, ATR 72 MP, C-27J, Eurofighter, Tornado MLU e Sky-X."
                 ]
             }
         },
@@ -851,7 +831,7 @@
             },
             "properties": {
                 "entity": "Sud",
-                "name_location": "Torino, Balatonpart utca, Bocskaitelep, Balatonfenyves, Fonyódi járás, Somogy megye, Dél-Dunántúl, Transdanubio, 8646, Ungheria",
+                "name_location": "Torino, Balatonpart utca, Bocskaitelep, Balatonfenyves, Fonyódi járás, Somogy vármegye, Dél-Dunántúl, Transdanubio, 8646, Ungheria",
                 "class": "amenity",
                 "type": "fast_food",
                 "snippet": [
@@ -902,12 +882,12 @@
             },
             "properties": {
                 "entity": "Casa Circondariale \"Lorusso e Cutugno\"",
-                "name_location": "Casa circondariale Lorusso e Cutugno (Le Vallette), Via Maria Adelaide Aglietta, Vallette, Circoscrizione 5, Torino, Piemonte, 10146, Italia",
+                "name_location": "Casa circondariale Lorusso e Cutugno (Le Vallette), Piazzale Vallette, Vallette, Circoscrizione 5, Torino, Piemonte, 10151, Italia",
                 "class": "amenity",
                 "type": "prison",
                 "snippet": [
                     "*...Il divo. Le riprese sono state effettuate a Palazzo Saluzzo Paesana, a Palazzo Birago di Borgaro, a Palazzo dei Draghi, in via Carlo Alberto, nella Casa Circondariale \"Lorusso e Cutugno\", al Palazzo Civico e al Ponte Rossini....",
-                    "Torino (IPA: /toˈrino/, ; Turin in piemontese [tyˈriŋ], ) è un comune italiano di 842 754 abitanti (al 30 settembre 2022), quarto comune italiano per popolazione e capoluogo della regione Piemonte e dell'omonima città metropolitana. Cuore di un'area metropolitana che conta circa 1,7 milioni di abitanti, Torino è il terzo complesso economico-produttivo del Paese (insieme a Milano e Genova componeva il triangolo industriale negli anni del boom economico) e costituisce uno dei maggiori poli universitari, artistici, turistici, scientifici e culturali d'Italia. Nel suo territorio sono inoltre presenti aree ed edifici inclusi in due beni protetti dall'UNESCO: alcuni palazzi e zone facenti parte del circuito di residenze sabaude in Piemonte (patrimonio dell'umanità) e l'area delle colline del Po (riserva della biosfera).\nCittà dalla storia bimillenaria, fu fondata probabilmente nei pressi della posizione attuale, attorno al III secolo a.C., dai Taurini, quindi trasformata in colonia romana da Augusto col nome di Iulia Augusta Taurinorum nel I secolo a.C.. Dopo il dominio ostrogoto, fu capitale di un importante ducato longobardo, per poi passare, dopo essere divenuta capitale di marca carolingia, sotto la signoria nominale dei Savoia nell'XI secolo. Città dell'omonimo ducato, nel 1563 ne divenne capitale. Dal 1720 fu capitale del Regno di Sardegna (anche se solo de facto fino alla fusione perfetta del 1847, quando lo divenne anche formalmente), Stato che nel XIX secolo avrebbe portato all'unificazione italiana e che fece di Torino la prima capitale del Regno d'Italia (dal 1861 al 1865).\nSede nel 1911 dell'Expo, nel 2006 dei XX Giochi olimpici invernali, dal 2021 (fino ad almeno il 2025) delle ATP Finals e nel 2022 della 66ª edizione dell'Eurovision Song Contest, città natale di alcuni fra i maggiori simboli del Made in Italy nel mondo, tra cui il vermut, i giandujotti, i grissini e il caffè espresso, è il fulcro dell'industria automobilistica italiana, nonché importante centro dell'editoria, del sistema bancario e assicurativo, delle tecnologie dell'informazione, del cinema, dell'enogastronomia, del settore aerospaziale, del disegno industriale, dello sport, della moda e dell'intelligenza artificiale.La costante crescita d'importanza a livello internazionale ha fatto raggiungere a Torino il rango di città globale (terza città italiana dopo Milano e Roma) nella categoria Gamma."
+                    "Torino (IPA: /toˈrino/, ; Turin in piemontese [tyˈriŋ], ) è un comune italiano di 841 971 abitanti (al 31 ottobre 2022), quarto comune italiano per popolazione e capoluogo della regione Piemonte e dell'omonima città metropolitana. Cuore di un'area metropolitana che conta circa 1,7 milioni di abitanti, Torino è il terzo complesso economico-produttivo del Paese (insieme a Milano e Genova componeva il triangolo industriale negli anni del boom economico) e costituisce uno dei maggiori poli universitari, artistici, turistici, scientifici e culturali d'Italia. Nel suo territorio sono inoltre presenti aree ed edifici inclusi in due beni protetti dall'UNESCO: alcuni palazzi e zone facenti parte del circuito di residenze sabaude in Piemonte (patrimonio dell'umanità) e l'area delle colline del Po (riserva della biosfera).\nCittà dalla storia bimillenaria, fu fondata probabilmente nei pressi della posizione attuale, attorno al III secolo a.C., dai Taurini, quindi trasformata in colonia romana da Augusto col nome di Iulia Augusta Taurinorum nel I secolo a.C.. Dopo il dominio ostrogoto, fu capitale di un importante ducato longobardo, per poi passare, dopo essere divenuta capitale di marca carolingia, sotto la signoria nominale dei Savoia nell'XI secolo. Città dell'omonimo ducato, nel 1563 ne divenne capitale. Dal 1720 fu capitale del Regno di Sardegna (anche se solo de facto fino alla fusione perfetta del 1847, quando lo divenne anche formalmente), Stato che nel XIX secolo avrebbe portato all'unificazione italiana e che fece di Torino la prima capitale del Regno d'Italia (dal 1861 al 1865).\nSede nel 1911 dell'Expo, nel 2006 dei XX Giochi olimpici invernali, dal 2021 (fino ad almeno il 2025) delle ATP Finals e nel 2022 della 66ª edizione dell'Eurovision Song Contest, città natale di alcuni fra i maggiori simboli del Made in Italy nel mondo, tra cui il vermut, i giandujotti, i grissini e il caffè espresso, è il fulcro dell'industria automobilistica italiana, nonché importante centro dell'editoria, del sistema bancario e assicurativo, delle tecnologie dell'informazione, del cinema, dell'enogastronomia, del settore aerospaziale, del disegno industriale, dello sport, della moda e dell'intelligenza artificiale.La costante crescita d'importanza a livello internazionale ha fatto raggiungere a Torino il rango di città globale (terza città italiana dopo Milano e Roma) nella categoria Gamma."
                 ]
             }
         },
@@ -927,7 +907,7 @@
                 "type": "civic",
                 "snippet": [
                     "*...Il divo. Le riprese sono state effettuate a Palazzo Saluzzo Paesana, a Palazzo Birago di Borgaro, a Palazzo dei Draghi, in via Carlo Alberto, nella Casa Circondariale \"Lorusso e Cutugno\", al Palazzo Civico e al Ponte Rossini....",
-                    "Palazzo Civico, attuale nome dell'antico Palazzo di Città, è la sede del municipio della città di Torino. Esso si affaccia sulla piazza che prende il nome dalla sua originaria denominazione e che, prima dell'ultima sistemazione settecentesca, era conosciuta col nome di piazza delle Erbe."
+                    "Palazzo Civico, attuale nome dell'antico Palazzo di Città, è la sede del municipio della città di Torino. Esso si affaccia sulla piazza che prende il nome dalla sua originaria denominazione e che, prima dell'ultima sistemazione settecentesca, era conosciuta col nome di piazza delle Erbe.\n\n"
                 ]
             }
         },
@@ -976,25 +956,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    6.877498,
-                    44.9587
-                ]
-            },
-            "properties": {
-                "entity": "Club Europa",
-                "name_location": "Sci club Sestriere, Via Europa, Sestriere, Torino, Piemonte, 10058, Italia",
-                "class": "club",
-                "type": "sport",
-                "snippet": [
-                    "...Club to Club: festival internazionale di musica e arti elettroniche che dal 2006 coinvolge, con la sezione \"Club Europa\", un'importante città europea, con scambio di pubblico, artisti, iniziative;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     6.695031,
                     45.12562
                 ]
@@ -1006,7 +967,7 @@
                 "type": "spring",
                 "snippet": [
                     "...La Fontana del Frejus di Piazza Statuto fu ideata dal conte Marcello Panissera per ricordare l'inaugurazione dell'omonimo traforo ed è indicata dagli esoteristi come il \"cuore nero\" della città, per due motivi:...",
-                    "Torino (IPA: /toˈrino/, ; Turin in piemontese [tyˈriŋ], ) è un comune italiano di 842 754 abitanti (al 30 settembre 2022), quarto comune italiano per popolazione e capoluogo della regione Piemonte e dell'omonima città metropolitana. Cuore di un'area metropolitana che conta circa 1,7 milioni di abitanti, Torino è il terzo complesso economico-produttivo del Paese (insieme a Milano e Genova componeva il triangolo industriale negli anni del boom economico) e costituisce uno dei maggiori poli universitari, artistici, turistici, scientifici e culturali d'Italia. Nel suo territorio sono inoltre presenti aree ed edifici inclusi in due beni protetti dall'UNESCO: alcuni palazzi e zone facenti parte del circuito di residenze sabaude in Piemonte (patrimonio dell'umanità) e l'area delle colline del Po (riserva della biosfera).\nCittà dalla storia bimillenaria, fu fondata probabilmente nei pressi della posizione attuale, attorno al III secolo a.C., dai Taurini, quindi trasformata in colonia romana da Augusto col nome di Iulia Augusta Taurinorum nel I secolo a.C.. Dopo il dominio ostrogoto, fu capitale di un importante ducato longobardo, per poi passare, dopo essere divenuta capitale di marca carolingia, sotto la signoria nominale dei Savoia nell'XI secolo. Città dell'omonimo ducato, nel 1563 ne divenne capitale. Dal 1720 fu capitale del Regno di Sardegna (anche se solo de facto fino alla fusione perfetta del 1847, quando lo divenne anche formalmente), Stato che nel XIX secolo avrebbe portato all'unificazione italiana e che fece di Torino la prima capitale del Regno d'Italia (dal 1861 al 1865).\nSede nel 1911 dell'Expo, nel 2006 dei XX Giochi olimpici invernali, dal 2021 (fino ad almeno il 2025) delle ATP Finals e nel 2022 della 66ª edizione dell'Eurovision Song Contest, città natale di alcuni fra i maggiori simboli del Made in Italy nel mondo, tra cui il vermut, i giandujotti, i grissini e il caffè espresso, è il fulcro dell'industria automobilistica italiana, nonché importante centro dell'editoria, del sistema bancario e assicurativo, delle tecnologie dell'informazione, del cinema, dell'enogastronomia, del settore aerospaziale, del disegno industriale, dello sport, della moda e dell'intelligenza artificiale.La costante crescita d'importanza a livello internazionale ha fatto raggiungere a Torino il rango di città globale (terza città italiana dopo Milano e Roma) nella categoria Gamma."
+                    "Torino (IPA: /toˈrino/, ; Turin in piemontese [tyˈriŋ], ) è un comune italiano di 841 971 abitanti (al 31 ottobre 2022), quarto comune italiano per popolazione e capoluogo della regione Piemonte e dell'omonima città metropolitana. Cuore di un'area metropolitana che conta circa 1,7 milioni di abitanti, Torino è il terzo complesso economico-produttivo del Paese (insieme a Milano e Genova componeva il triangolo industriale negli anni del boom economico) e costituisce uno dei maggiori poli universitari, artistici, turistici, scientifici e culturali d'Italia. Nel suo territorio sono inoltre presenti aree ed edifici inclusi in due beni protetti dall'UNESCO: alcuni palazzi e zone facenti parte del circuito di residenze sabaude in Piemonte (patrimonio dell'umanità) e l'area delle colline del Po (riserva della biosfera).\nCittà dalla storia bimillenaria, fu fondata probabilmente nei pressi della posizione attuale, attorno al III secolo a.C., dai Taurini, quindi trasformata in colonia romana da Augusto col nome di Iulia Augusta Taurinorum nel I secolo a.C.. Dopo il dominio ostrogoto, fu capitale di un importante ducato longobardo, per poi passare, dopo essere divenuta capitale di marca carolingia, sotto la signoria nominale dei Savoia nell'XI secolo. Città dell'omonimo ducato, nel 1563 ne divenne capitale. Dal 1720 fu capitale del Regno di Sardegna (anche se solo de facto fino alla fusione perfetta del 1847, quando lo divenne anche formalmente), Stato che nel XIX secolo avrebbe portato all'unificazione italiana e che fece di Torino la prima capitale del Regno d'Italia (dal 1861 al 1865).\nSede nel 1911 dell'Expo, nel 2006 dei XX Giochi olimpici invernali, dal 2021 (fino ad almeno il 2025) delle ATP Finals e nel 2022 della 66ª edizione dell'Eurovision Song Contest, città natale di alcuni fra i maggiori simboli del Made in Italy nel mondo, tra cui il vermut, i giandujotti, i grissini e il caffè espresso, è il fulcro dell'industria automobilistica italiana, nonché importante centro dell'editoria, del sistema bancario e assicurativo, delle tecnologie dell'informazione, del cinema, dell'enogastronomia, del settore aerospaziale, del disegno industriale, dello sport, della moda e dell'intelligenza artificiale.La costante crescita d'importanza a livello internazionale ha fatto raggiungere a Torino il rango di città globale (terza città italiana dopo Milano e Roma) nella categoria Gamma."
                 ]
             }
         },
@@ -1045,7 +1006,7 @@
                 "class": "shop",
                 "type": "books",
                 "snippet": [
-                    "...\"Esperienza Italia 150\": serie di eventi e di iniziative, svoltesi a Torino per nove mesi a partire dal 17 Marzo 2011 fino a fine anno, per commemorare i 150 anni dell'Unità d'Italia, attraverso mostre tematiche allestite alle Officine Grandi Riparazioni e alla Reggia di Venaria Reale....",
+                    "*...\"Esperienza Italia 150\": serie di eventi e di iniziative, svoltesi a Torino per nove mesi a partire dal 17 Marzo 2011 fino a fine anno, per commemorare i 150 anni dell'Unità d'Italia, attraverso mostre tematiche allestite alle Officine Grandi Riparazioni e alla Reggia di Venaria Reale....",
                     "La reggia di Venaria Reale (in piemontese ël Castel ëd la Venerìa) è una delle residenze sabaude parte del sito seriale UNESCO iscritto alla Lista del Patrimonio dell'umanità dal 1997.\nLa reggia di Venaria fu progettata dall'architetto Amedeo di Castellamonte. A commissionarla fu il duca Carlo Emanuele II che intendeva farne la base per le battute di caccia nella brughiera collinare torinese.\nLo stesso nome in lingua latina della reggia, Venatio Regia, viene fatto derivare dal termine reggia venatoria.\nAl borgo si unirono molte case e palazzi di lavoratori e normali cittadini che vollero abitare nei dintorni della reggia, fino a far diventare Venaria Reale un comune autonomo della provincia di Torino.\nLa scelta del sito, ai piedi delle Valli di Lanzo, fu favorita dalla vicinanza degli estesi boschi detti del Gran Paese, ricchissimi di selvaggina: un territorio che si estende per un centinaio di chilometri fino alle montagne alpine, giungendo a sud e a est in prossimità del capoluogo.\nNel 2018 ha fatto registrare 1 048 834 visitatori, risultando il settimo sito museale statale italiano più visitato, mentre nel 2017, a dieci anni di distanza dall'inaugurazione del sito turistico, la Guida Michelin ha assegnato alla reggia di Venaria l'agognata terza stella.Nel 2019 il giardino della Reggia è stato eletto parco pubblico più bello d'Italia.\n\n"
                 ]
             }
@@ -1055,33 +1016,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.591655,
-                    45.023118
-                ]
-            },
-            "properties": {
-                "entity": "Mirafiori",
-                "name_location": "Mirafiori, Via Giovanni Falcone, Fornaci, Beinasco, Torino, Piemonte, 10092, Italia",
-                "class": "highway",
-                "type": "bus_stop",
-                "snippet": [
-                    "...Cimitero di Mirafiori: piccolo Cimitero sito in corso Unione Sovietica 650, nella zona Sud di Torino ;...",
-                    "...Mirafiori Lunapark. Una cartolina poetica della chiusura dello stabilimento Fiat di Mirafiori....",
-                    "...Circoscrizione II: Santa Rita - Mirafiori Nord - Mirafiori Sud ;...",
-                    "*...A Grugliasco vengono prodotte Ghibli e Quattroporte, mentre nello stabilimento di Mirafiori viene prodotta, dall'inizio del 2016, la nuova Maserati Levante....",
-                    "*...Un'altra operazione importante è stata la riconversione di una parte della superficie occupata dalla fabbrica di Mirafiori, sostenuta dal progetto Torino Nuova Economia che, anche grazie alla collaborazione con il Politecnico, ospita il Centro del design....",
-                    "*...Torino Mirafiori - Il primo scalo aereo della città fu quello di Mirafiori, costruito per scopi militari e inaugurato nel 1911. L'Aeroporto, a causa dei forti danni strutturali subiti durante i bombardamenti della seconda guerra mondiale, venne dismesso nel 1947 e l'area venne data in gestione al CNR fino all'anno 1976, quando venne convertita a Parco pubblico intitolato a Gustavo Colonnetti....",
-                    "L'Aeroporto di Torino-Mirafiori fu un aeroporto torinese in servizio dal 1910 al secondo dopoguerra. Sorgeva su parte dei terreni oggi occupati dal Parco Colonnetti, nel quartiere di Mirafiori Sud.\n\n"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.597385,
-                    45.215776
+                    7.597418,
+                    45.215766
                 ]
             },
             "properties": {
@@ -1091,7 +1027,7 @@
                 "type": "unclassified",
                 "snippet": [
                     "...Grandi opere pubbliche come quelle per il Passante Ferroviario, la Metropolitana e le Spine hanno ridisegnato e stanno ridisegnando il volto della città....",
-                    "Spinea è un comune italiano di 27 694 abitanti della città metropolitana di Venezia in Veneto.\nFa parte del Comprensorio del Miranese, che comprende complessivamente sette comuni (oltre a Spinea, Mirano, Santa Maria di Sala, Noale, Salzano, Martellago e Scorzè). Il capoluogo comunale sorge lungo la storica strada di collegamento Mestre-Padova che passa anche per Mirano, l'antica strada \"Miranese\", già strada provinciale 32. Spinea fa riferimento ufficiale a Mirano sia per quanto concerne l'assistenza socio-sanitaria e ospedaliera (ULSS 13 di Mirano/Dolo), sia scolastica superiore (Distretto scolastico di Mirano). Appartiene inoltre al Collegio elettorale del Miranese (il quale, oltre ai sette tradizionali comuni del comprensorio, comprende anche Pianiga). In base alla Legge Regionale 36 del 12 agosto 1993 il suo territorio rientra nell'Area metropolitana di Venezia.\nDal punto di vista ecclesiastico, il suo territorio appartiene alla Diocesi di Treviso e al Vicariato di Mirano.\nDiciassettesimo comune del Veneto per popolazione, è, dopo Padova, il secondo con il più alto consumo di suolo e la più alta densità abitativa della regione.\n\n"
+                    "Spinea è un comune italiano di 27 694 abitanti della città metropolitana di Venezia in Veneto.\nFa parte del comprensorio del Miranese, che comprende complessivamente sette comuni (oltre a Spinea, Mirano, Santa Maria di Sala, Noale, Salzano, Martellago e Scorzè).\nIl capoluogo comunale sorge lungo l'importante strada di collegamento Mestre-Padova che passa anche per Mirano, la strada \"Miranese\" (strada provinciale 32).\nSpinea fa riferimento a Mirano sia per quanto concerne l'assistenza ospedaliera (Ospedale di Mirano, appartenente all'ULSS 3 \"Serenissima\"), sia scolastica superiore (Distretto scolastico di Mirano). Un tempo, apparteneva inoltre al Collegio elettorale del Miranese, oggi abolito, il quale, oltre ai sette tradizionali comuni del comprensorio, comprendeva anche Pianiga. In base alla Legge Regionale 36 del 12 agosto 1993 il suo territorio rientra nell'Area metropolitana di Venezia.\nDal punto di vista ecclesiastico, il suo territorio appartiene alla Diocesi di Treviso e al Vicariato di Mirano.\nDiciassettesimo comune del Veneto per popolazione, è, dopo Padova, il secondo con il più alto consumo di suolo e la più alta densità abitativa della regione."
                 ]
             }
         },
@@ -1100,8 +1036,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.693994,
-                    44.568226
+                    7.849624,
+                    45.44427
+                ]
+            },
+            "properties": {
+                "entity": "A5 Torino - Ivrea",
+                "name_location": "Ivrea, Autostrada della Valle d'Aosta, Pavone Canavese, Torino, Piemonte, 10010, Italia",
+                "class": "highway",
+                "type": "motorway_junction",
+                "snippet": [
+                    "*...A5 Torino - Ivrea - Aosta - Traforo del Monte Bianco ;...",
+                    "L'autostrada A5 (o autostrada della Valle d'Aosta, in francese Autoroute de la Vallée d'Aoste) collega Torino al Traforo del Monte Bianco, passando per Ivrea e la Valle d'Aosta ed è tra le autostrade più avanzate del Paese: è infatti dotata di particolari impianti termici per prevenire la formazione di ghiaccio sul manto stradale. Lunga 143,4 km, è l'autostrada più cara d'Italia.\nL'importanza del tracciato è sia turistica, per l'accesso alle località sciistiche valdostane, sia nel campo dei trasporti, per i collegamenti verso la Francia e la Svizzera."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.703689,
+                    44.561936
                 ]
             },
             "properties": {
@@ -1111,7 +1067,7 @@
                 "type": "primary",
                 "snippet": [
                     "*...A6 Torino - Fossano - Savona ;...",
-                    "Fossano (Fossan [fʊ'saŋ] in piemontese, Fossanum in latino) è un comune italiano di 24 559 abitanti della provincia di Cuneo in Piemonte. È il quarto comune più popoloso della provincia dopo Cuneo, Alba e Bra. Fa parte delle cosiddette sette sorelle, insieme a Cuneo, Alba, Bra, Mondovì, Savigliano e Saluzzo, ovvero i comuni con più di 15 000 abitanti.\nFossano ha ospitato per molto tempo il 2º Battaglione Allievi carabinieri ausiliari della scuola allievi carabinieri di Torino.\n\n"
+                    "La ferrovia Torino-Fossano-Savona è il risultato di varie fasi costruttive che si sono concluse tra il 1933, con l'apertura del percorso a doppio binario via Fossano, e il 1954, con l'apertura della variante di valico via Altare (predisposta in origine per il doppio binario).\n\n"
                 ]
             }
         },
@@ -1140,18 +1096,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.695147,
-                    45.129576
+                    7.649535,
+                    45.180373
                 ]
             },
             "properties": {
-                "entity": "Tangenziale Nord",
-                "name_location": "Tangenziale Nord, Falchera, Circoscrizione 6, Villaretto, Torino, Piemonte, 10079, Italia",
+                "entity": "RA10 Torino - Caselle Torinese",
+                "name_location": "RA10, Caselle Torinese, Torino, Piemonte, 10072, Italia",
                 "class": "highway",
                 "type": "motorway",
                 "snippet": [
-                    "*...La tangenzale di Torino è la A55, divisa in Tangenziale Nord e Tangenziale Sud, va da nord est fino a sud est passando in maniera semicircolare da ovest....",
-                    "Il sistema tangenziale di Torino, ufficialmente indicato con la sigla A55, è un insieme di arterie autostradali che corrono nelle periferie del capoluogo piemontese. Nel suo percorso principale, che circonda per tre quarti la città subalpina, è composto da tre corsie per senso di marcia con corsia di emergenza ed è diviso figurativamente (e in passato fisicamente) in due tronconi: la tangenziale Nord e la tangenziale Sud, entrambi gestiti dall'ATIVA.\nÈ allo studio il progetto per un ulteriore tronco di tangenziale (tangenziale Est), che andrebbe a unire le autostrade A21 e A5, completando così l'anello viario autostradale attorno a Torino. Il flusso del traffico che interessa questo tratto autostradale è di oltre 400.000 veicoli al giorno, e il 20% è costituito da veicoli pesanti.Il sistema autostradale tangenziale torinese (S.A.T.T.) comprende inoltre il raccordo tangenziale Nord-A4-ex SS 11, detto raccordo della Falchera, la diramazione autostradale per Pinerolo, e i 3 assi di penetrazione urbana di Moncalieri, corso Orbassano e corso Regina Margherita.\nNel sistema autostradale che ruota attorno alla tangenziale di Torino vi è ancora il raccordo autostradale 10 per l'aeroporto di Torino-Caselle, gestito dall'ANAS. Inoltre, a nord il raccordo della Falchera prosegue senza soluzione di continuità nella superstrada Torino-Chivasso, che funziona sia come continuazione della tangenziale per i comuni di cintura urbana di Settimo Torinese, San Mauro Torinese e Gassino Torinese, sia come secondo allacciamento con l'autostrada A4."
+                    "*...RA10 Torino - Caselle Torinese - Aeroporto di Torino-Caselle ....",
+                    "L'area metropolitana di Torino è una conurbazione dovuta alla continuità urbana (prima cintura) e all'interazione sociale ed economica di alcuni comuni della seconda cintura torinese e la stessa città di Torino.\nNon va confusa con la città metropolitana di Torino, ente territoriale istituito dalla legge statale n. 56 del 2014 (la cosiddetta \"legge Delrio\") e coincidente col territorio della precedente omonima provincia. La si può considerare come l'hinterland torinese."
                 ]
             }
         },
@@ -1249,13 +1205,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.656085,
-                    45.005625
+                    7.758595,
+                    45.106015
                 ]
             },
             "properties": {
                 "entity": "via Novara",
-                "name_location": "Via Novara, Nichelino, Torino, Piemonte, 10127, Italia",
+                "name_location": "Via Novara, Cascina del Mulino, San Mauro Torinese, Torino, Piemonte, 10099, Italia",
                 "class": "highway",
                 "type": "residential",
                 "snippet": [
@@ -1275,7 +1231,7 @@
             },
             "properties": {
                 "entity": "Pinerolo-Torre Pellice",
-                "name_location": "Ferrovia Torre Pellice-Pinerolo, Via Chisonetto, Osasco, Torino, Piemonte, 10060, Italia",
+                "name_location": "Ferrovia Torre Pellice-Pinerolo, Via Valpellice, San Secondo di Pinerolo, Torino, Piemonte, 10060, Italia",
                 "class": "railway",
                 "type": "disused",
                 "snippet": [
@@ -1309,18 +1265,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.650501,
-                    45.175806
+                    7.651173,
+                    45.172866
                 ]
             },
             "properties": {
                 "entity": "Aeroporto di Caselle",
-                "name_location": "Caselle (str. Aeroporto 36), Strada Aeroporto, Caselle Torinese, Torino, Piemonte, 10072, Italia",
+                "name_location": "Strada Aeroporto, Caselle Torinese, Torino, Piemonte, 10072, Italia",
                 "class": "highway",
-                "type": "bus_stop",
+                "type": "secondary",
                 "snippet": [
                     "*...Inaugurato nel 1916, dopo la costruzione dell'Aeroporto di Caselle è rimasto in uso come struttura di aviazione generale e da turismo, affiancato da una scuola di volo per aerei ed elicotteri e dalla sede dei velivoli di elisoccorso e protezione civile....",
-                    "L'Aeroporto internazionale di Torino-Caselle (IATA: TRN, ICAO: LIMF), anche noto come Aeroporto Internazionale Sandro Pertini e precedentemente chiamato Aeroporto Città di Torino, è un aeroporto internazionale situato nel territorio dei comuni di Caselle Torinese, San Francesco al Campo e San Maurizio Canavese, a 16 km a nord di Torino.\nÈ hub della compagnia aerea Blue Air e dell'executive Eurofly Service, e base di Ryanair. È interessato da varie rotte delle compagnie aeree Air Dolomiti, Ryanair, Volotea, Air France, Iberia, ITA Airways, British Airways, Blue Air, Lumiwings, Wizz Air, EasyJet, KLM.\nL'aeroporto è anche sede di due stabilimenti di Leonardo (Nord e Sud): questi siti sono specializzati nell'assemblaggio e fase finale della produzione, manutenzione, test al suolo e prove in volo di prototipi e velivoli militari e civili. In particolare vengono prodotti velivoli quali: AMX-ACOL, ATR 42 MP, ATR 72 MP, C-27J, Eurofighter, Tornado MLU e Sky-X.\n\n"
+                    "L'Aeroporto internazionale di Torino-Caselle (IATA: TRN, ICAO: LIMF), anche noto come Aeroporto Internazionale Sandro Pertini e precedentemente chiamato Aeroporto Città di Torino, è un aeroporto internazionale situato nel territorio dei comuni di Caselle Torinese, San Francesco al Campo e San Maurizio Canavese, a 16 km a nord di Torino.\nÈ hub della compagnia aerea Blue Air e dell'executive Eurofly Service, e base di Ryanair. È interessato da varie rotte delle compagnie aeree Air Dolomiti, Ryanair, Volotea, Air France, Iberia, ITA Airways, British Airways, Blue Air, Lumiwings, Wizz Air, EasyJet, KLM e da alcune compagnie charter come Neos e TUI fly. \nL'aeroporto è anche sede di due stabilimenti di Leonardo (Nord e Sud): questi siti sono specializzati nell'assemblaggio e fase finale della produzione, manutenzione, test al suolo e prove in volo di prototipi e velivoli militari e civili. In particolare vengono prodotti velivoli quali: AMX-ACOL, ATR 42 MP, ATR 72 MP, C-27J, Eurofighter, Tornado MLU e Sky-X."
                 ]
             }
         },
@@ -1339,6 +1295,31 @@
                 "class": "highway",
                 "type": "bus_stop",
                 "snippet": [
+                    "*...Torino Mirafiori - Il primo scalo aereo della città fu quello di Mirafiori, costruito per scopi militari e inaugurato nel 1911. L'Aeroporto, a causa dei forti danni strutturali subiti durante i bombardamenti della seconda guerra mondiale, venne dismesso nel 1947 e l'area venne data in gestione al CNR fino all'anno 1976, quando venne convertita a Parco pubblico intitolato a Gustavo Colonnetti....",
+                    "L'Aeroporto di Torino-Mirafiori fu un aeroporto torinese in servizio dal 1910 al secondo dopoguerra. Sorgeva su parte dei terreni oggi occupati dal Parco Colonnetti, nel quartiere di Mirafiori Sud.\n\n"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.591655,
+                    45.023118
+                ]
+            },
+            "properties": {
+                "entity": "Mirafiori",
+                "name_location": "Mirafiori, Via Giovanni Falcone, Fornaci, Beinasco, Torino, Piemonte, 10092, Italia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "...Cimitero di Mirafiori: piccolo Cimitero sito in corso Unione Sovietica 650, nella zona Sud di Torino ;...",
+                    "*...Mirafiori Lunapark. Una cartolina poetica della chiusura dello stabilimento Fiat di Mirafiori....",
+                    "...Circoscrizione II: Santa Rita - Mirafiori Nord - Mirafiori Sud ;...",
+                    "*...A Grugliasco vengono prodotte Ghibli e Quattroporte, mentre nello stabilimento di Mirafiori viene prodotta, dall'inizio del 2016, la nuova Maserati Levante....",
+                    "*...Un'altra operazione importante è stata la riconversione di una parte della superficie occupata dalla fabbrica di Mirafiori, sostenuta dal progetto Torino Nuova Economia che, anche grazie alla collaborazione con il Politecnico, ospita il Centro del design....",
                     "*...Torino Mirafiori - Il primo scalo aereo della città fu quello di Mirafiori, costruito per scopi militari e inaugurato nel 1911. L'Aeroporto, a causa dei forti danni strutturali subiti durante i bombardamenti della seconda guerra mondiale, venne dismesso nel 1947 e l'area venne data in gestione al CNR fino all'anno 1976, quando venne convertita a Parco pubblico intitolato a Gustavo Colonnetti....",
                     "L'Aeroporto di Torino-Mirafiori fu un aeroporto torinese in servizio dal 1910 al secondo dopoguerra. Sorgeva su parte dei terreni oggi occupati dal Parco Colonnetti, nel quartiere di Mirafiori Sud.\n\n"
                 ]
@@ -1369,19 +1350,131 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.710753,
-                    45.176708
+                    7.761163,
+                    45.135371
                 ]
             },
             "properties": {
-                "entity": "Grande Torino",
-                "name_location": "Grande Torino, Leini, Torino, Piemonte, Italia",
-                "class": "leisure",
-                "type": "park",
+                "entity": "spada»",
+                "name_location": "Spada, Via Consolata, Settimo Torinese, Torino, Piemonte, 10036, Italia",
+                "class": "shop",
+                "type": "supermarket",
                 "snippet": [
-                    "...Fra le strutture con una capienza superiore ai 10000 posti si citino l'Allianz Stadium, lo stadio Olimpico Grande Torino, il Palasport Olimpico e il PalaTorino;...",
-                    "...Una menzione speciale, infine, merita lo stadio Filadelfia, Teatro del ciclo di vittorie del Grande Torino negli anni quaranta del XX secolo....",
-                    "Con il nome di Grande Torino si indica la squadra di calcio italiana del Torino Football Club, all'epoca chiamata Associazione Calcio Torino, nel periodo storico compreso negli anni quaranta del XX secolo, pluricampione d'Italia, i cui giocatori erano la colonna portante della nazionale italiana nonché una delle formazioni italiane più forti di quel decennio, e che ebbe tragico epilogo il 4 maggio 1949, in quella sciagura aerea nota come la tragedia di Superga nella quale l'intera squadra perse la vita.Con questo nome, benché si identifichi comunemente la squadra che perì nella sciagura, si usa definire l'intero ciclo sportivo, durato otto anni, che ha portato alla conquista di cinque scudetti consecutivi e di una Coppa Italia.Nel 2015 la Fédération Internationale de Football Association ha proclamato il 4 maggio \"Giornata mondiale del calcio\" in ricordo della sciagura di Superga."
+                    "...In passato fu nota anche come «Casa luna» e «la spada»...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.574574,
+                    45.067791
+                ]
+            },
+            "properties": {
+                "entity": "via Verdi",
+                "name_location": "Via Giuseppe Verdi, Grugliasco, Torino, Piemonte, 10095, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Nei dintorni, al di là di corso San Maurizio, in via Vanchiglia 8 angolo via Verdi, si trova il casino Birago di Vische, anch'esso a pianta trapezoidale, sebbene meno accentuata...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.412869,
+                    45.318126
+                ]
+            },
+            "properties": {
+                "entity": "Madonna di Lourdes",
+                "name_location": "Madonna di Lourdes, Corso Mario Abbiate, Porta Torino, Vercelli, Piemonte, 13100, Italia",
+                "class": "historic",
+                "type": "wayside_shrine",
+                "snippet": [
+                    "...Sempre Albertoni fu altresì autore delle due sculture interne, raffiguranti i due coniugi Falletti, poste nella parte antistante i due ingressi laterali alla sacrestia (a sinistra dell'abside), e della cappella della Madonna di Lourdes (a destra dell'abside)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.82323,
+                    45.012562
+                ]
+            },
+            "properties": {
+                "entity": "via Balbo",
+                "name_location": "Via Cesare Balbo, Chieri, Torino, Piemonte, 10023, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...La marchesa Giulia di Barolo volle anche finanziare una struttura oratoriale a fianco della Chiesa, situata oltre la parte occidentale dell'isolato stesso, all'angolo con via Balbo, progetto che però verrà realizzato molto più tardi, nel 1952...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.321117,
+                    40.526332
+                ]
+            },
+            "properties": {
+                "entity": "Piazza Castello)/Via",
+                "name_location": "Via Torino, Rione Piazzetta, Salandra, Matera, Basilicata, 75017, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Ancor prima, ovvero in epoca romana e poi nel Medioevo, esistevano varie versioni di ponti provvisori, di accesso al castrum romano di Augusta Taurinorum verso la Porta Fibellona (Piazza Castello)/Via Po - e chiamata la Porta di Po - costruiti interamente in legno, di cui una prima documentazione certa si ha di un passaggio levatoio commissionato dal vescovo Landolfo nel 1037...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.586331,
+                    42.855322
+                ]
+            },
+            "properties": {
+                "entity": "Porta di Po",
+                "name_location": "Via Torino, Porta Maggiore, Ascoli Piceno, Marche, 63100, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "...Ancor prima, ovvero in epoca romana e poi nel Medioevo, esistevano varie versioni di ponti provvisori, di accesso al castrum romano di Augusta Taurinorum verso la Porta Fibellona (Piazza Castello)/Via Po - e chiamata la Porta di Po - costruiti interamente in legno, di cui una prima documentazione certa si ha di un passaggio levatoio commissionato dal vescovo Landolfo nel 1037...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.764463,
+                    45.10114
+                ]
+            },
+            "properties": {
+                "entity": "Europa",
+                "name_location": "Europa, Via Martiri della Libertà, Centro, San Mauro Torinese, Torino, Piemonte, 10099, Italia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...È erroneamente diffusa tra i torinesi l'idea che sia la piazza più grande di Torino, o addirittura d'Italia o d'Europa (lo è, tuttavia, come piazza porticata);..."
                 ]
             }
         },

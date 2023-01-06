@@ -41,29 +41,29 @@ for city in cities:
     nearby_pages = get_nearby_pages(city)
 
     print(nearby_pages)
-    """
+    
     for page in nearby_pages:
         text = wiki_content(page)
         doc = nlp(text)
 
-        searchable_entities = get_entities_snippet(doc, searchable_entities)
+        searchable_entities, _ = get_entities_snippet(doc, searchable_entities)
 
-        features = search_entities(searchable_entities, context, city, features)
+        features, _ = search_entities_geopy(searchable_entities, context, city, features)
     
-    """
+
     save_results(features, context)
 
     ## Further analysis
 
-    snippet_ent = get_further_information2(entities_final)
+    #snippet_ent = get_further_information2(entities_final)
 
-    file_path_snippet_ent = f'response/spacy_pipeline/Snippet_entities.txt'
+    #file_path_snippet_ent = f'response/spacy_pipeline/Snippet_entities.txt'
 
-    with open(file_path_snippet_ent, 'w', encoding='utf-8') as f:
-        for key, snippet in snippet_ent.items():
-            f.write(key +'\n')
-            if snippet is None: 
-                f.write('No snippet available' + '\n')
-            else: 
-                f.write(snippet + '\n')
+    #with open(file_path_snippet_ent, 'w', encoding='utf-8') as f:
+    #    for key, snippet in snippet_ent.items():
+    #        f.write(key +'\n')
+    #        if snippet is None: 
+    #            f.write('No snippet available' + '\n')
+    #        else: 
+    #            f.write(snippet + '\n')
 
