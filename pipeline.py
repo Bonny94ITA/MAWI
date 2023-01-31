@@ -22,17 +22,6 @@ for city in cities:
 
     searchable_entities = get_further_information(searchable_entities, city)
 
-    print("number of entities: ", len(searchable_entities))
-
-    entities_complete = list(searchable_entities.keys())
-    entities_complete.sort(key= str.lower)
-    name_context = context['name']
-    file_path_entities_complete = f'response/spacy_pipeline/{name_context}_entities.txt'
-
-    with open(file_path_entities_complete, 'w', encoding='utf-8') as f:
-        for entity in entities_complete:
-            f.write(entity + '\n')
-
     # Search addresses with Google
     features, entities_final = search_entities_geopy(searchable_entities, context, city)
 
@@ -50,8 +39,22 @@ for city in cities:
 
         features, _ = search_entities_geopy(searchable_entities, context, city, features)
     
+    # TODO: fare in modo che i risultati ottenuti dall'analisi di altre pagine vengano in qualche modo inclusi 
+    # nei risultati precedenti
 
     save_results(features, context)
+
+    print("number of entities: ", len(searchable_entities))
+
+    entities_complete = list(searchable_entities.keys())
+    entities_complete.sort(key= str.lower)
+    name_context = context['name']
+    file_path_entities_complete = f'response/spacy_pipeline/{name_context}_entities.txt'
+
+    with open(file_path_entities_complete, 'w', encoding='utf-8') as f:
+        for entity in entities_complete:
+            f.write(entity + '\n')
+
 
     ## Further analysis
 

@@ -14,7 +14,14 @@ def sent_contains_ent(sentence: Span, entity: Span):
 
     j = 0
     while j < len(sentence): 
-        if entity[0].text.lower() == sentence[j].text.lower(): 
+        #print('Entity', entity)
+        try:
+            text_entity = entity[0].text.lower()
+        except:
+            print("Entity: ", entity)
+        #print('Sentence', sentence)
+        text_sentence = sentence[j].text.lower()
+        if text_entity == text_sentence: 
             possible_begins.append(j)
         j += 1
     

@@ -187,7 +187,8 @@ def clean_entities(entities: list):
                 
             ent = clean_bullet(ent)
             ent = check_well_formed(ent)
-            entities_clean.append(ent)
+            if len(ent) > 0:
+                entities_clean.append(ent)
 
     return entities_clean
 

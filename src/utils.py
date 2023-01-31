@@ -218,16 +218,24 @@ def get_further_information(entities: dict, city = "Torino"):
     wikipedia.set_lang("it")
     for ent in entities: 
         to_search = ent
+        title = None
         if not ent.__contains__(city):
             to_search = ent+" ("+city+")"
         try:
-            page_ent = wikipedia.page(to_search, preload=False)
+            page_ent = wikipedia.page(to_search)
             entities[ent].append(page_ent.summary)
         except wikipedia.DisambiguationError as e:
-            title = e.options[0]
-            page_ent = wikipedia.page(title, redirect=False, preload=False)
-            entities[ent].append(page_ent.summary)
+            try:
+                title = e.options[0]
+                page_ent = wikipedia.page(title)
+                entities[ent].append(page_ent.summary)
+            except wikipedia.DisambiguationError as e2:
+                title = e2.options[0]
+                print("Ricerca iniziale: ", to_search)
+                print("Titolo: ", title)
         except wikipedia.PageError as e:
+            print("Ricerca iniziale: ", to_search)
+            print("Titolo: ", title)
             pass
 
     return entities
