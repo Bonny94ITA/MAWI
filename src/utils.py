@@ -231,9 +231,11 @@ def get_further_information(entities: dict, city = "Torino"):
                 entities[ent].append(page_ent.summary)
             except wikipedia.DisambiguationError as e2:
                 title = e2.options[0]
+                print("DisambiguationError")
                 print("Ricerca iniziale: ", to_search)
                 print("Titolo: ", title)
         except wikipedia.PageError as e:
+            print("PageError")
             print("Ricerca iniziale: ", to_search)
             print("Titolo: ", title)
             pass

@@ -38,6 +38,8 @@ for city in cities:
 
         searchable_entities, _ = get_entities_snippet(doc, searchable_entities)
 
+        searchable_entities = get_further_information(searchable_entities, city)
+
         features, _ = search_entities_geopy(searchable_entities, context, city, features)
     
     # TODO: fare in modo che i risultati ottenuti dall'analisi di altre pagine vengano in qualche modo inclusi 
