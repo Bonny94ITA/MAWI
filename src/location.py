@@ -35,7 +35,23 @@ def to_geojson(df: pd.DataFrame):
     
     return features
 
-def search_entities_geopy(searchable_entities: dict, context: dict, title_page: str, features = list()): 
+def merge_entities(features: list, entities_final: list):
+    """ Merge the entities with the entities already found.
+
+    Args:
+        features: list of features geojson
+        entities_final: list of entities already found
+    Returns:
+        entities_final: list of entities already found merged
+    """
+    for feature in features:
+        entity = feature['properties']['entity']
+        if entity not in entities_final:
+            entities_final.append(entity)
+    
+    return entities_final
+
+def search_entities_geopy(searchable_entities: dict, context: dict, title_page: str, features: list = list()): 
     """ Search the entities in the searchable_entities dictionary with GeoPy library
         and return the corrispondent features geojson.
 
@@ -77,7 +93,7 @@ def search_entities_geopy(searchable_entities: dict, context: dict, title_page: 
     
     geojson_entities = to_geojson(df)
 
-    features.extend(geojson_entities)
+    
     # save entities
 
     response_file_path = f"response/spacy_pipeline/{title_page}.txt"
@@ -86,10 +102,14 @@ def search_entities_geopy(searchable_entities: dict, context: dict, title_page: 
 
     entities_final = df['entity'].to_list()
 
+    entities_final = merge_entities(features, entities_final)
+
     entities_final.sort(key=str.lower)
 
     for entity in entities_final:
         print_to_file(response_file_path, entity)
+
+    features.extend(geojson_entities)
 
     return features, entities_final
 

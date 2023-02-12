@@ -184,7 +184,8 @@ def get_nearby_pages(page: str):
 
     return landmarks
 
-def get_further_information2(entities: list, city = "Torino"): 
+"""
+def get_further_information2(entities: list, city = "Torino"): # TODO DELETE!
 
     informations = dict()
     wikipedia.set_lang("it")
@@ -203,6 +204,7 @@ def get_further_information2(entities: list, city = "Torino"):
             informations[ent] = None
 
     return informations
+"""
 
 def get_further_information(entities: dict, city = "Torino"):
     """ Get the summary of the entities using wikipedia API.

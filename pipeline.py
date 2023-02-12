@@ -2,7 +2,7 @@ from src.model import create_model
 from src.preprocessing import wiki_content
 from src.entities import get_entities_snippet
 from src.location import search_entities_geopy
-from src.utils import get_nearby_pages, save_results, get_further_information2, get_further_information
+from src.utils import get_nearby_pages, save_results, get_further_information
 
 #cities = ["Torino", "Roma", "Bologna", "Milano", "Liberty a Torino", "Barocco a Milano"]
 
