@@ -1,13 +1,12 @@
 import csv 
 import string
 
-from spacy.tokens import Doc 
-from spacy.tokens import Span
+from spacy.tokens import Doc, Span
 
 from src.sentences import first_upper, sent_contains_ent, generate_sentences_dictionary
 
 def get_entities_snippet(document: Doc, entities_to_search_prev = dict()):
-    """ Get the entities from the nlp_text which are not cities and print snippet in which
+    """ Get the entities from the document which are not cities and print snippet in which
         they appears.
 
     Args:
@@ -145,6 +144,8 @@ def check_well_formed(ent: Span):
 
             span = doc[start_ent: end_ent]
             new_ent = span.char_span(0, len(span.text), label=ent.label_)
+            if len(ent.text) + 1 == len(new_ent.text) and new_ent.text[0] == '"' and new_ent.text[0] == new_ent.text[-1]: # well formed with one more character
+                new_ent = ent[1:]
             print("dopo: ", new_ent)
             return new_ent
         elif ent.text.count("(") == 1 and ent.text.count(")") == 0: 

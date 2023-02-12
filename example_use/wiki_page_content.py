@@ -8,7 +8,7 @@ import string
 arguments = sys.argv[1:]
 
 if len(arguments) == 0:
-    titles = "Torino"
+    titles = "Museo diffuso della Resistenza, della deportazione, della guerra, dei diritti e della libertà"
 else:
     titles, *tail = sys.argv[1:]
 

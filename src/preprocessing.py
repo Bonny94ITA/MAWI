@@ -63,9 +63,10 @@ def clean_html(soup: BeautifulSoup):
     # From Note to the end of the page
     note = soup.find('span', id='Note')
 
-    parent_tag = note.parent
-    for sibling in parent_tag.find_next_siblings():
-        sibling.decompose()
+    if note:
+        parent_tag = note.parent
+        for sibling in parent_tag.find_next_siblings():
+            sibling.decompose()
 
     headlines = []
     # Span HEADLINE!
@@ -144,6 +145,7 @@ def wiki_content(title: str, context = False):
         context: boolean if true is searched also the location of the context
     Returns:
         Wikipedia page content cleaned  
+        Location of the context if context is True
     """
     session = requests.Session()
     url_api = "https://it.wikipedia.org/w/api.php"

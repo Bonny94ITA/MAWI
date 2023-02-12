@@ -32,6 +32,7 @@ for city in cities:
     print(nearby_pages)
     
     for page in nearby_pages:
+        print("Current page to analyze: ", page)
         text = wiki_content(page)
         doc = nlp(text)
 
