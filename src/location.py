@@ -1,7 +1,7 @@
 import pandas as pd
 from functools import partial
 
-from geojson import Feature, Point
+from geojson import Feature, Point, FeatureCollection
 
 from geopy.extra.rate_limiter import RateLimiter
 from geopy.geocoders import Nominatim
@@ -137,3 +137,31 @@ def most_close_location(results: list, context: dict):
             distance_min = current_distance
 
     return location
+
+def get_location_names(list: list[tuple[str, str, str]]): 
+
+    locator = Nominatim(user_agent="Extension_geocoding")
+    geocode = RateLimiter(locator.geocode, min_delay_seconds=1)
+
+    locations = []
+    for name, summary, _ in list:
+        to_search = name + " Torino"
+        locations.extend([[name, to_search, summary]])
+
+    df = pd.DataFrame(locations, columns=['entity', 'to_search', 'snippet'])
+    df.head()
+    df['address'] = df['to_search'].apply(partial(geocode, language='it', exactly_one=True))
+
+    df = df[pd.notnull(df['address'])]
+
+    df['coordinates'] = df['address'].apply(lambda loc: Point((loc.longitude, loc.latitude)) if loc else None)
+
+    df['name_location'] = df['address'].apply(lambda loc: loc.address if loc else None)
+
+    df[['class', 'type']] = df['address'].apply(lambda loc: pd.Series([loc.raw['class'], loc.raw['type']]) if loc else None)
+
+    print(df)
+
+    geojson = FeatureCollection(to_geojson(df))
+
+    return geojson

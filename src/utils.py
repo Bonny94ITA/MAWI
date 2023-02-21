@@ -184,28 +184,6 @@ def get_nearby_pages(page: str):
 
     return landmarks
 
-"""
-def get_further_information2(entities: list, city = "Torino"): # TODO DELETE!
-
-    informations = dict()
-    wikipedia.set_lang("it")
-    for ent in entities: 
-        to_search = ent
-        if not ent.__contains__(city):
-            to_search = ent+" ("+city+")"
-        try:
-            page_ent = wikipedia.page(to_search, preload=False)
-            informations[ent] = page_ent.summary
-        except wikipedia.DisambiguationError as e:
-            title = e.options[0]
-            page_ent = wikipedia.page(title, redirect=False, preload=False)
-            informations[ent] = page_ent.summary
-        except wikipedia.PageError as e:
-            informations[ent] = None
-
-    return informations
-"""
-
 def get_further_information(entities: dict, city = "Torino"):
     """ Get the summary of the entities using wikipedia API.
 
@@ -285,3 +263,116 @@ def point_in_polygon(point: Point, polygon: list):
     within = point.within(poly) 
 
     return within
+
+def get_list_names(path: str):
+    """
+    Get the list of names from a file.
+    
+    Args:
+        path: path of the file
+    
+    Returns:
+        names: list of names
+    """
+    names = []
+    with open(path, 'r', encoding='utf-8') as file:
+        names = file.readlines()
+        names = [name.replace("\n", "") for name in names]
+
+    return names
+
+def get_summary_names(names: list[str]):
+    """
+    Get the summary of the names using wikipedia API.
+
+    Args:
+        names: list of names
+    
+    Returns:
+        summaries: list of tuples with the name and the summary
+    """
+    wikipedia.set_lang("it")
+
+    summaries = []
+    for name in names: 
+        print(name)
+        summary = ""
+        try: 
+            summary = wikipedia.summary(name)
+            
+            print(summary + "\n\n")
+        except wikipedia.DisambiguationError as e:
+            print("DisambiguationError")
+            print(e.options)
+            print("\n\n")
+            pass
+        except wikipedia.PageError as e:
+            print("PageError")
+            print(e)
+            print("\n\n")
+            pass
+        finally:
+            summaries.append((name, summary))
+
+    return summaries
+
+def get_genders_names(names: list[tuple[str, str]]):
+    """
+    Get gender of the names using wikidata API.
+
+    Args:
+        names: list of tuples with the name and the summary
+    
+    Returns:
+        genders: list of tuples with name, summary and gender
+    """
+
+    client = Client()
+    genders = []
+    for name, summary in names:
+        print(name)
+        gender = "Undefined"
+        try:
+            entity_id = get_entity_id(name)
+
+            try:
+                print(entity_id)
+                entity = client.get(entity_id, load=True)
+
+                gender_prop = client.get('P21')
+                
+                gender_val = entity[gender_prop]
+
+                print(str(gender_val))
+
+                if str(gender_val) == "<wikidata.entity.Entity Q6581072>":
+                    print("Personaggio femminile!\n\n")
+                    gender = "female"
+
+            except:
+                pass
+
+        except IndexError: # entity_id not found
+            pass
+
+        finally:
+            genders.append((name, summary, gender))
+    
+    return genders
+
+def save_results_extension(path: str, geojson: FeatureCollection): 
+
+    """
+    Save the results in a file.
+    
+    Args:
+        path: path of the file
+        geojson: geojson to save
+    
+    Returns:
+        None
+    """
+
+    with open(path, 'w', encoding='utf-8') as f:
+        json.dump(geojson, f, ensure_ascii=False, indent=4)
+        print("The result complete has been saved as a file inside the response folder")

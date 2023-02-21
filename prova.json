@@ -1,0 +1,75 @@
+{"_id":{
+    "$oid":"6149c97c90211a491afb7d65"
+},
+"properties":{
+    "name":"Via Sibilla Aleramo 1 ,Torino",
+    "address":"Via Sibilla Aleramo 1 ,Torino",
+    "description":"Alessandria  1876 –  Roma 1960). Scrittrice famosa per le sue opere e per l’impegno femminista e la tormentata biografia, sempre controcorrente e nella piena rivendicazione della propria libertà di donna. Fu nota per il suo apporto al mondo intellettuale e per la sua relazione col tormentato poeta Dino Campana. Il suo romanzo più conosciuto rimane ,Una donna,, di ispirazione autobiografica.",
+    "tags":[],
+    "entity_type":"FL_ARTICLES",
+    "categories":[],
+    "level":null,
+    "domain_id":68,
+    "parent_id":null,
+    "owner":{
+        "id":"6148968007590485065cb132@FIRSTLIFE",
+        "display_name":"Admin ToponomasticaFemminile"
+        },
+    "updater":{
+        "id":"6148968007590485065cb132@FIRSTLIFE",
+        "display_name":"Admin ToponomasticaFemminile"
+        },
+    "timestamp_insert":{
+        "$date":"2021-09-21T12:01:00.791Z"
+        },
+    "last_update":{
+        "$date":"2021-09-21T15:23:26.502Z"
+        },
+    "last_activity":{
+        "$date":"2021-09-21T15:23:26.502Z"
+        },
+    "last_activity_type":"THING_UPDATED",
+    "valid_from":{
+        "$date":"1990-01-01T00:00:00Z"
+        },
+    "valid_to":{
+        "$date":"2030-01-01T00:00:00Z"
+        },
+    "door_time":null,
+    "inappropriate":false,
+    "tiles":["1:0:1","2:1:2","4:2:3","8:5:4","16:11:5","33:23:6","66:46:7","133:92:8","266:184:9","533:368:10","1067:736:11","2135:1472:12","4271:2944:13","8543:5888:14","17086:11777:15","34173:23554:16","68346:47109:17","136692:94218:18","273385:188436:19","546770:376872:20","1093540:753745:21","2187081:1507491:22"],
+    "id":{
+        "$oid":"6149c97c90211a491afb7d65"
+        },
+    "owner_id":"6148968007590485065cb132@FIRSTLIFE",
+    "coordinates":[7.71867,45.07914],
+    "images":[{
+        "fieldname":"files",
+        "originalname":"aleramo.jpg",
+        "encoding":"7bit",
+        "mimetype":"image/jpeg",
+        "destination":"uploads/",
+        "filename":"b71be4838d6145952de450bd275b3706",
+        "path":"uploads/b71be4838d6145952de450bd275b3706",
+        "size":18072,
+        "userId":"6148968007590485065cb132",
+        "auth_server":"FIRSTLIFE",
+        "status":"Private",
+        "_id":"6149f8ece471f404ba4c9c5a",
+        "permalink":"https://storage.beta.firstlife.org/files/6149f8ece471f404ba4c9c5a",
+        "coverImage":true}],
+    "status_id":1,
+    "zoom_level":18
+    },
+"geometry":{
+    "type":"Point",
+    "coordinates":[7.71867,45.07914]},
+    "type":"Feature",
+    "visible":true,
+    "categories":[],
+    "roles":{
+        "6148968007590485065cb132@FIRSTLIFE":["ADMINISTRATOR"]
+        },
+    "center_lon":7.71867,
+    "center_lat":45.07914,
+    "self":"https://api.beta.firstlife.org/v6/fl/Things/6149c97c90211a491afb7d65"}

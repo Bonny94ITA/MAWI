@@ -1,0 +1,430 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.718966,
+                    45.078948
+                ]
+            },
+            "properties": {
+                "entity": "Sibilla Aleramo",
+                "name_location": "Via Sibilla Aleramo, Vanchiglietta, Circoscrizione 7, Sassi, Torino, Piemonte, 10153, Italia",
+                "class": "highway",
+                "type": "unclassified",
+                "snippet": "Sibilla Aleramo, pseudonimo di Marta Felicina Faccio detta Rina (Alessandria, 14 agosto 1876 – Roma, 13 gennaio 1960), è stata una scrittrice, poetessa, giornalista femminista italiana.\nÈ ricordata per il suo romanzo autobiografico Una donna, in cui dipinge la condizione femminile in Italia a cavallo fra il XIX e il XX secolo."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.650711,
+                    45.023709
+                ]
+            },
+            "properties": {
+                "entity": "Barbara Allason",
+                "name_location": "Via Barbara Allason, Lingotto, Circoscrizione 8, Torino, Piemonte, 10127, Italia",
+                "class": "highway",
+                "type": "unclassified",
+                "snippet": "Barbara Allason (Pecetto Torinese, 12 ottobre 1877 – Torino, 20 agosto 1968) è stata una scrittrice, germanista e traduttrice italiana."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.699437,
+                    45.111545
+                ]
+            },
+            "properties": {
+                "entity": "Cristina Belgioioso",
+                "name_location": "Via Cristina Belgioioso, Pietra Alta, Circoscrizione 6, Torino, Piemonte, 10155, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": "Cristina Trivulzio di Belgiojoso (Milano, 28 giugno 1808 – Milano, 5 luglio 1871) è stata una nobildonna, patriota, giornalista e scrittrice italiana che partecipò attivamente al Risorgimento. Fu editrice di giornali rivoluzionari, e molte sue opere sono incentrate sugli anni della prima guerra d'indipendenza.\nI suoi nomi di battesimo furono: Maria Cristina Beatrice Teresa Barbara Leopolda Clotilde Melchiora Camilla Giulia Margherita Laura."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.529326,
+                    45.122752
+                ]
+            },
+            "properties": {
+                "entity": "Maria Bricca",
+                "name_location": "Cascina Maria Bricca, Pianezza, Torino, Piemonte, 10044, Italia",
+                "class": "landuse",
+                "type": "farmyard",
+                "snippet": "Maria Bricca, soprannominata Bricassa (Pianezza, 2 dicembre 1684 – Pianezza, 23 dicembre 1733), è stata una cuoca italiana, riconosciuta come eroina per il contributo dato al Ducato di Savoia durante l'assedio di Torino del 1706."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.628029,
+                    45.069278
+                ]
+            },
+            "properties": {
+                "entity": "Rosalba Carriera",
+                "name_location": "Via Rosalba Carriera, Pozzo Strada, Circoscrizione 3, Torino, Piemonte, 10141, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": "Rosalba Carriera (Venezia, 12 gennaio 1673 – Venezia, 15 aprile 1757) è stata una pittrice e ritrattista nonché miniaturista su avorio italiana.\nÈ ricordata per aver introdotto i ritratti a pastello e per la sua copiosa opera divenuta famosa in tutta Europa."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.698341,
+                    45.107596
+                ]
+            },
+            "properties": {
+                "entity": "Vittoria Colonna",
+                "name_location": "Via Vittoria Colonna, Rebaudengo, Circoscrizione 6, Torino, Piemonte, 10155, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": "Vittoria Colonna (Marino, aprile 1490 o 1492 – Roma, 25 febbraio 1547) è stata una nobile e poetessa italiana."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.640478,
+                    45.034743
+                ]
+            },
+            "properties": {
+                "entity": "Eleonora D'Arborea",
+                "name_location": "Eleonora D’Arborea, Via Eleonora d'Arborea, Borgo Cina, Circoscrizione 2, Torino, Piemonte, 10137, Italia",
+                "class": "amenity",
+                "type": "kindergarten",
+                "snippet": "Eleonora o Elianora d'Arborea (Molins de Rei, 1347 circa – Sardegna, giugno 1403), è stata giudice d'Arborea, nota anche per l'aggiornamento della Carta de Logu, promulgata dal padre Mariano IV e rivisitata dal fratello maggiore Ugone III.\nGli aragonesi, successivi dominatori della Sardegna, estesero l'ambito territoriale di applicazione della Carta de Logu a quasi tutta l'isola. La normativa rimase in vigore per secoli, fino alla sostituzione col codice di Carlo Felice di Savoia (il 16 aprile 1827), ormai alle soglie della fusione perfetta con la terraferma sabauda e del Risorgimento.\nIl significato simbolico che localmente è attribuito alla figura e alla reggenza di Eleonora è evidenziato dal fatto che il giudicato d'Arborea è stato l'ultimo Stato sardo autoctono a essere ceduto a regnanti esterni all'isola. Questo fa sì che, soprattutto nell'ambito dell'indipendentismo sardo, sia spesso vista come principale eroina nazionale della Sardegna, assieme a Giovanni Maria Angioy."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.70879,
+                    45.062356
+                ]
+            },
+            "properties": {
+                "entity": "Luisa del Carretto",
+                "name_location": "Via Luisa del Carretto, Borgo Po, Circoscrizione 8, Torino, Piemonte, 10131, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": "L'Armando Testa è un gruppo pubblicitario italiano con sedi a Torino, Milano, Bologna, Los Angeles e nei principali mercati europei.\nComprende sei società: Armando Testa S.p.A., Media Italia, In Testa, Little Bull, Max Information e Marco Testa Los Angeles, che insieme formano un sistema di comunicazione integrato. Tra i principali clienti annovera Lavazza (dal 1958), Fater (dal 1966), A.C.R.A.F. (dal 1968), Esselunga (dal 1979), Nestlé (dal 1986), FCA (dal 1992)."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.721293,
+                    45.075792
+                ]
+            },
+            "properties": {
+                "entity": "Grazia Deledda",
+                "name_location": "Via Grazia Deledda, Vanchiglietta, Circoscrizione 7, Sassi, Torino, Piemonte, 10132, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": "Grazia Maria Cosima Damiana Deledda, nota semplicemente come Grazia Deledda o, in lingua sarda, Gràssia o Gràtzia Deledda (Nuoro, 28 settembre 1871 – Roma, 15 agosto 1936), è stata una scrittrice italiana vincitrice del Premio Nobel per la letteratura 1926. È ricordata come la seconda donna, dopo la svedese Selma Lagerlöf, a ricevere questo riconoscimento, e la prima (e unica) italiana."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.683746,
+                    45.068422
+                ]
+            },
+            "properties": {
+                "entity": "Eleonora Duse",
+                "name_location": "Via Eleonora Duse, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": "Eleonora Giulia Amalia Duse (Vigevano, 3 ottobre 1858 – Pittsburgh, 21 aprile 1924) è stata un'attrice teatrale italiana.\nSoprannominata la divina, è considerata la più grande attrice teatrale della sua epoca e una delle più grandi di tutti i tempi, il critico contemporaneo Hermann Bahr la definì «la più grande attrice del mondo»; simbolo indiscusso del teatro moderno, anche nei suoi aspetti più enfatici da diva. Acclamata compì tournée all'estero recitando sempre in italiano."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.696749,
+                    45.067372
+                ]
+            },
+            "properties": {
+                "entity": "Giulia di Barolo",
+                "name_location": "Giulia di Barolo, Corso San Maurizio, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10124, Italia",
+                "class": "amenity",
+                "type": "bicycle_rental",
+                "snippet": "Il Barolo è un vino rosso a Denominazione di origine controllata e garantita prodotto in alcuni comuni del Piemonte."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.635009,
+                    45.053963
+                ]
+            },
+            "properties": {
+                "entity": "Amalia Guglielminetti",
+                "name_location": "Via Amalia Guglielminetti, Casermette, Circoscrizione 2, Torino, Piemonte, 10136, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": "Amalia Guglielminetti (Torino, 4 aprile 1881 – Torino, 4 dicembre 1941) è stata una scrittrice e poetessa italiana."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.710091,
+                    45.063536
+                ]
+            },
+            "properties": {
+                "entity": "Figlie dei Militari",
+                "name_location": "Via Figlie dei Militari, Borgo Po, Circoscrizione 8, Torino, Piemonte, 10131, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": "La Villa della Regina è una seicentesca villa torinese situata nella parte orientale-collinare della città, nel quartiere Borgo Po. Costruita per volere di Maurizio di Savoia - prima cardinale e poi, dal 1641, principe d'Oneglia: da qui il nome originario di Villa del Principe Cardinale - e passata poi a sua moglie Ludovica (o Luisa Cristina) di Savoia, in seguito fu scelta come luogo di residenza estiva prima da Anna Maria d'Orléans e poi da Polissena d'Assia, regine di Sardegna, da cui il nome con il quale è conosciuta.\nDal 1869 fu donata dai Savoia all'Istituto nazionale per le Figlie dei Militari italiani. Fa parte del circuito delle Residenze sabaude in Piemonte e dal 1997 è iscritta alla Lista del Patrimonio dell'umanità come parte del sito seriale UNESCO Residenze sabaude. Nel 2016 la residenza ha registrato 60.662 visitatori.\n\n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.653739,
+                    45.022642
+                ]
+            },
+            "properties": {
+                "entity": "Carolina Invernizio",
+                "name_location": "Via Carolina Invernizio, Lingotto, Circoscrizione 8, Torino, Piemonte, 10127, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": "Carolina Invernizio (Voghera, 28 marzo 1851 – Cuneo, 27 novembre 1916) è stata una scrittrice italiana, fra le più popolari autrici di romanzi d'appendice tra la fine dell'Ottocento e l'inizio del Novecento."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.703718,
+                    45.060454
+                ]
+            },
+            "properties": {
+                "entity": "Giulia Molino-Colombini",
+                "name_location": "Via Giulia Molino Colombini, Borgo Po, Circoscrizione 8, Torino, Piemonte, 10131, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": "Giulia Molino-Colombini (Torino, 22 maggio 1812 – 3 agosto 1879) è stata una scrittrice, poetessa e pedagoga italiana."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.621063,
+                    45.083345
+                ]
+            },
+            "properties": {
+                "entity": "Musso Maria Ferraris",
+                "name_location": "Via Maria Musso Ferraris, Alta Parella, Circoscrizione 4, Torino, Piemonte, 10146, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.641399,
+                    45.051629
+                ]
+            },
+            "properties": {
+                "entity": "Ada Negri",
+                "name_location": "Ada Negri, Via Gorizia, Santa Rita, Circoscrizione 2, Torino, Piemonte, 10136, Italia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": "Ada Negri (Lodi, 3 febbraio 1870 – Milano, 11 gennaio 1945) è stata una poetessa, scrittrice e insegnante italiana.\nÈ ricordata anche per essere stata la prima e unica donna a essere ammessa all'Accademia d'Italia."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.695684,
+                    45.09967
+                ]
+            },
+            "properties": {
+                "entity": "Alessandrina Ravizza",
+                "name_location": "Via Alessandrina Ravizza, Rebaudengo, Circoscrizione 6, Torino, Piemonte, 10155, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": "Il Parco Ravizza, è un grande giardino pubblico di Milano, situato nei pressi dell'Università Bocconi.\nÈ il primo a essere stato progettato lungo la circonvallazione esterna, nella zona centro-meridionale della città a circa 200 metri in linea d'aria da ecopass.\n\n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.579441,
+                    45.073504
+                ]
+            },
+            "properties": {
+                "entity": "Regina Margherita",
+                "name_location": "Regina Margherita, Collegno, Torino, Piemonte, 10093, Italia",
+                "class": "place",
+                "type": "neighbourhood",
+                "snippet": "Margherita di Savoia (nome completo Margherita Maria Teresa Giovanna di Savoia-Genova; Torino, 20 novembre 1851 – Bordighera, 4 gennaio 1926) fu consorte di re Umberto I e la prima regina consorte d'Italia. La moglie del primo re d'Italia Vittorio Emanuele II di Savoia, Maria Adelaide d'Austria, era infatti morta nel 1855, prima della proclamazione del Regno avvenuta nel 1861.\nMembro della famiglia reale italiana negli anni in cui fu al fianco di Umberto come principessa ereditaria e, dal 1878, come regina d'Italia, esercitò una notevole influenza sulle scelte del marito e un grande fascino sulla popolazione, facendo sapiente uso delle proprie apparizioni pubbliche, concepite per attrarre il popolo con un abbigliamento ricercato e una costante affabilità. Secondo Ugoberto Alfassio Grimaldi, fu il personaggio politico dell'Italia unita che suscitò, dopo Giuseppe Garibaldi e Benito Mussolini, «i maggiori entusiasmi nelle classi elevate e nelle classi umili».Cattolica, fieramente attaccata a Casa Savoia e profondamente reazionaria, fu una nazionalista convinta e sostenne la politica imperialista di Francesco Crispi. L'incitamento alla repressione delle rivolte popolari, come avvenne nei moti di Milano del 1898, per quanto controverso, non ne compromise l'immagine, forse perché fu la prima donna italiana a sedere sul trono del paese neocostituito. A corte gestì un circolo culturale settimanale che le valse l'ammirazione di poeti e intellettuali e la collocò forse, almeno sotto questo aspetto, più a sinistra di molte altre dame dell'aristocrazia. I suoi balli, inoltre, come quelli cui partecipò, celavano spesso un piano diplomatico, e nelle sue intenzioni cercarono in particolare di assicurare una mediazione con l'aristocrazia \"nera\", rimasta fedele al Vaticano dopo la presa di Roma.\nMolti furono gli omaggi popolari e poetici tributati alla nobildonna (dalla pizza Margherita alla celebre ode carducciana Alla regina d'Italia, scritta subito dopo la visita bolognese dei sovrani nel novembre 1878), anche negli anni successivi all'assassinio del marito, quando diventò regina madre."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.702915,
+                    45.085681
+                ]
+            },
+            "properties": {
+                "entity": "Adelaide Ristori",
+                "name_location": "Via Adelaide Ristori, Monte Rosa, Circoscrizione 6, Torino, Piemonte, 10154, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": "Adelaide Ristori (Cividale del Friuli, 29 gennaio 1822 – Roma, 9 ottobre 1906) è stata un'attrice teatrale italiana.\nAcclamatissima dal pubblico e lodata dai suoi contemporanei per il suo patriottismo risorgimentale, è stata l'attrice italiana più famosa e influente dell'Ottocento."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.631198,
+                    45.063029
+                ]
+            },
+            "properties": {
+                "entity": "Matilde Serao",
+                "name_location": "Via Matilde Serao, Pozzo Strada, Circoscrizione 3, Torino, Piemonte, 10141, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": "Matilde Serao (Patrasso, 7 marzo 1856 – Napoli, 25 luglio 1927) è stata una scrittrice e giornalista italiana.\nÈ stata la prima donna italiana ad aver fondato e diretto un quotidiano, Il Corriere di Roma, esperienza successivamente ripetuta con Il Mattino e Il Giorno. Negli anni venti fu candidata sei volte, senza mai ottenerlo, al Premio Nobel per la letteratura."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.645773,
+                    45.025423
+                ]
+            },
+            "properties": {
+                "entity": "Giuditta Sidoli",
+                "name_location": "Via Giuditta Sidoli, Lingotto, Circoscrizione 8, Torino, Piemonte, 10135, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": "Giuditta Bellerio Sìdoli (Milano, 16 gennaio 1804 – Torino, 28 marzo 1871) è stata una patriota italiana.\nFigura femminile particolarmente emancipata per la sua epoca, fu tra i fondatori del giornale La Giovine Italia."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.648637,
+                    45.022789
+                ]
+            },
+            "properties": {
+                "entity": "Gaspara Stampa",
+                "name_location": "Via Gaspara Stampa, Lingotto, Circoscrizione 8, Torino, Piemonte, 10127, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": "Gaspara Stampa (Padova, 1523 – Venezia, 23 aprile 1554) è stata una poetessa italiana.\nLe sue rime, concepite secondo il modello petrarchesco, costituiscono una delle più interessanti raccolte liriche del Cinquecento."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.631983,
+                    45.012016
+                ]
+            },
+            "properties": {
+                "entity": "Annie Vivanti",
+                "name_location": "Via Annie Vivanti, Borgata Mirafiori, Circoscrizione 2, Torino, Piemonte, 10135, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": "Anna Emilia Vivanti, detta Annie (Norwood, 7 aprile 1868 – Torino, 20 febbraio 1942), è stata una scrittrice e poetessa italiana che visse ed operò all'interno di varie culture; fu scrittrice eccentrica, personaggio dagli interessi multiformi, protagonista della vita intellettuale e mondana di molti paesi."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.677073,
+                    45.077002
+                ]
+            },
+            "properties": {
+                "entity": "Amelia Piccinini",
+                "name_location": "Piazzale Amelia Piccinini, Quadrilatero Romano, Circoscrizione 1, Torino, Piemonte, 10122, Italia",
+                "class": "highway",
+                "type": "service",
+                "snippet": "Amelia Piccinini (Alessandria, 17 gennaio 1917 – Torino, 3 aprile 1979) è stata una pesista e lunghista italiana.\nNel 1946 partecipò ai Campionati europei di atletica leggera dove si aggiudicò il bronzo nel getto del peso e arrivò quarta nel salto in lungo. \nDue anni più tardi prese parte alle Olimpiadi di Londra dove vinse l'argento nel getto del peso."
+            }
+        }
+    ]
+}
