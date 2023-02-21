@@ -40,6 +40,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.6629855,
+                    45.0410121
+                ]
+            },
+            "properties": {
+                "entity": "Gaspare, Vera e Libera Arduino",
+                "name_location": "Via Arduino, Filadelfia, Circoscrizione 8, Torino, Piemonte, 10134, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": "L'eccidio della famiglia Arduino fu un eccidio compiuto dalle Brigate Nere a Torino che si inquadra nelle azioni di repressione dell'attività partigiana di contrasto al regime dellza all'occupazione nazista dell'Italia settentrionale."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.699437,
                     45.111545
                 ]
@@ -57,16 +74,51 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.529326,
-                    45.122752
+                    7.7059341,
+                    45.0660422
                 ]
             },
             "properties": {
                 "entity": "Maria Bricca",
-                "name_location": "Cascina Maria Bricca, Pianezza, Torino, Piemonte, 10044, Italia",
-                "class": "landuse",
-                "type": "farmyard",
+                "name_location": "Via Maria Bricca, Borgo Po, Circoscrizione 8, Torino, Piemonte, 10153, Italia",
+                "class": "highway",
+                "type": "residential",
                 "snippet": "Maria Bricca, soprannominata Bricassa (Pianezza, 2 dicembre 1684 – Pianezza, 23 dicembre 1733), è stata una cuoca italiana, riconosciuta come eroina per il contributo dato al Ducato di Savoia durante l'assedio di Torino del 1706."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7377331,
+                    45.0787919
+                ]
+            },
+            "properties": {
+                "entity": "Maria e Costantino Brighenti", 
+                "name_location": "Via Costantino e Maria Brighenti, Circoscrizione 7, Sassi, Torino, Piemonte, 10132, Italia",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": "Maria Boni Brighenti (Roma, 3 settembre 1868 – Gebel, 18 giugno 1915) è stata un'infermiera italiana, prima donna ad essere decorata con la Medaglia d'oro al valor militare alla memoria. I Resti di Costantino Brighenti e della moglie Maria Boni sono tumulati nel Sacrario d'Oltremare di Bari."
+            }
+
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6225404,
+                    45.0145982
+                ]
+            },
+            "properties": {
+                "entity": "Francesca Saverio Cabrini", 
+                "name_location": "Via Francesca Saveria Cabrini, Il Villaggio, Circoscrizione 2, Torino, Piemonte, 10135, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": "Francesca Saverio Cabrini (Sant'Angelo Lodigiano, 15 luglio 1850 – Chicago, 22 dicembre 1917) è stata una religiosa, missionaria e educatrice italiana naturalizzata statunitense, fondatrice della congregazione delle Missionarie del Sacro Cuore di Gesù. Nel 1946 divenne la prima cittadina statunitense ad essere proclamata santa."
             }
         },
         {
@@ -84,6 +136,23 @@
                 "class": "highway",
                 "type": "residential",
                 "snippet": "Rosalba Carriera (Venezia, 12 gennaio 1673 – Venezia, 15 aprile 1757) è stata una pittrice e ritrattista nonché miniaturista su avorio italiana.\nÈ ricordata per aver introdotto i ritratti a pastello e per la sua copiosa opera divenuta famosa in tutta Europa."
+            }
+        },
+        {
+            "type": "Feature", 
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6467417,
+                    45.023481
+                ]
+            },
+            "properties": {
+                "entity": "Teresa Confalonieri",
+                "name_location": "Piazza Teresa Confalonieri, Lingotto, Circoscrizione 8, Torino, Piemonte, 10127, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": "Vittoria Colonna (Marino, aprile 1490 o 1492 – Roma, 25 febbraio 1547) è stata una nobile e poetessa italiana."
             }
         },
         {
@@ -134,7 +203,7 @@
                 "name_location": "Via Luisa del Carretto, Borgo Po, Circoscrizione 8, Torino, Piemonte, 10131, Italia",
                 "class": "highway",
                 "type": "residential",
-                "snippet": "L'Armando Testa è un gruppo pubblicitario italiano con sedi a Torino, Milano, Bologna, Los Angeles e nei principali mercati europei.\nComprende sei società: Armando Testa S.p.A., Media Italia, In Testa, Little Bull, Max Information e Marco Testa Los Angeles, che insieme formano un sistema di comunicazione integrato. Tra i principali clienti annovera Lavazza (dal 1958), Fater (dal 1966), A.C.R.A.F. (dal 1968), Esselunga (dal 1979), Nestlé (dal 1986), FCA (dal 1992)."
+                "snippet": "Luisa del Carretto (Metz 1813 – Torino 1895). Prestò la sua opera di infermiera nella prima e nella seconda guerra di Indipendenza. Fondò a Torino l’Istituto per le Figlie dei Militari, che si trova nella via omonima, vicino alla via che ha preso il suo nome."
             }
         },
         {
@@ -159,6 +228,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.6655785,
+                    45.0727613
+                ]
+            },
+            "properties": {
+                "entity": "Iolanda di Valois", 
+                "name_location": "Via Duchessa Jolanda, Cit Turin, Circoscrizione 3, Torino, Piemonte, 10140, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet":"Iolanda di Valois, chiamata anche Iolanda di Francia (o Violante) o più comunemente duchessa Jolanda (Tours, 23 settembre 1434 – Moncrivello, 28 agosto 1478), fu moglie di Amedeo IX di Savoia e quindi duchessa consorte e reggente di Savoia; era figlia di Carlo VII di Valois, re di Francia e di Maria d'Angiò."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.683746,
                     45.068422
                 ]
@@ -176,16 +262,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.696749,
-                    45.067372
+                    7.7002839,
+                    45.0702694
                 ]
             },
             "properties": {
                 "entity": "Giulia di Barolo",
-                "name_location": "Giulia di Barolo, Corso San Maurizio, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10124, Italia",
-                "class": "amenity",
-                "type": "bicycle_rental",
-                "snippet": "Il Barolo è un vino rosso a Denominazione di origine controllata e garantita prodotto in alcuni comuni del Piemonte."
+                "name_location": "Via Giulia di Barolo, Centro, Circoscrizione 1, Torino, Piemonte, 10124, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": "Juliette Colbert di Maulévrier, coniugata Falletti di Barolo (Maulévrier, 27 giugno 1785 – Torino, 19 gennaio 1864), è stata una filantropa e marchesa francese naturalizzata italiana. Filantropa devota, moglie del marchese Tancredi Falletti di Barolo, è venerata dalla Chiesa cattolica con il titolo di venerabile."
             }
         },
         {
@@ -219,7 +305,7 @@
                 "name_location": "Via Figlie dei Militari, Borgo Po, Circoscrizione 8, Torino, Piemonte, 10131, Italia",
                 "class": "highway",
                 "type": "residential",
-                "snippet": "La Villa della Regina è una seicentesca villa torinese situata nella parte orientale-collinare della città, nel quartiere Borgo Po. Costruita per volere di Maurizio di Savoia - prima cardinale e poi, dal 1641, principe d'Oneglia: da qui il nome originario di Villa del Principe Cardinale - e passata poi a sua moglie Ludovica (o Luisa Cristina) di Savoia, in seguito fu scelta come luogo di residenza estiva prima da Anna Maria d'Orléans e poi da Polissena d'Assia, regine di Sardegna, da cui il nome con il quale è conosciuta.\nDal 1869 fu donata dai Savoia all'Istituto nazionale per le Figlie dei Militari italiani. Fa parte del circuito delle Residenze sabaude in Piemonte e dal 1997 è iscritta alla Lista del Patrimonio dell'umanità come parte del sito seriale UNESCO Residenze sabaude. Nel 2016 la residenza ha registrato 60.662 visitatori.\n\n"
+                "snippet": "La via prende il nome dal collegio femminile nato nel 1868 dall’iniziativa di Maria Luisa del Carretto. Inizialmente ebbe sede nella celebre Villa della Regina, sulla collina torinese, ma dal 1888 fino al 1945 si trasferì nell’edificio attuale nella via omonima, opera dell’ing. A. Reycend, ed ora sede di tre scuole superiori"
             }
         },
         {
@@ -237,6 +323,91 @@
                 "class": "highway",
                 "type": "residential",
                 "snippet": "Carolina Invernizio (Voghera, 28 marzo 1851 – Cuneo, 27 novembre 1916) è stata una scrittrice italiana, fra le più popolari autrici di romanzi d'appendice tra la fine dell'Ottocento e l'inizio del Novecento."
+            }
+        },
+        {
+            "type": "Feature", 
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6803442,
+                    45.0540787
+                ]
+            },
+            "properties": {
+                "entity": "Madama Cristina",
+                "name_location": "Via Madama Cristina, San Salvario, Circoscrizione 8, Torino, Piemonte, 10125, Italia",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": "Cristina Maria di Borbone-Francia (Parigi, 10 febbraio 1606 – Torino, 27 dicembre 1663) nata principessa[1] di Francia, divenne duchessa e reggente di Savoia come moglie di Vittorio Amedeo I di Savoia, che aveva sposato appena tredicenne il 10 febbraio 1619. Era la figlia del re Enrico IV di Francia e della sua seconda moglie Maria de' Medici."
+            }
+        },
+        {
+            "type": "Feature", 
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6793652,
+                    45.0762855
+                ]
+            },
+            "properties": {
+                "entity": "Maria Adelaide di Asburgo",
+                "name_location": "Via Maria Adelaide, Centro, Circoscrizione 1, Torino, Piemonte, 10122, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": "Adelaide Francesca Maria Raniera Elisabetta Clotilde d'Asburgo-Lorena (Milano, 3 giugno 1822 – Torino, 20 gennaio 1855) nata Arciduchessa d'Austria e Principessa d'Ungheria, divenne regina consorte di Sardegna in quanto moglie di Vittorio Emanuele II di Savoia. Non divenne mai Regina d'Italia perché morì prima dell'incoronazione a Re d'Italia del marito."
+            }
+        },
+        {
+            "type": "Feature", 
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6931693,
+                    45.0647547
+                ]
+            },
+            "properties": {
+                "entity": "Maria Vittoria dal Pozzo della Cisterna",
+                "name_location": "Via Maria Vittoria, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": "Maria Vittoria Carlotta Enrichetta Giovanna dal Pozzo della Cisterna (Parigi, 9 agosto 1847 – Sanremo, 8 novembre 1876) erede di un antico casato piemontese, fu regina consorte di Spagna dal 16 novembre 1870 all'11 febbraio 1873 come sposa di Amedeo I di Spagna."
+            }
+        },
+        {
+            "type": "Feature", 
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6256932,
+                    45.0613885
+                ]
+            },
+            "properties": {
+                "entity": "Maria Domenica Mazzarello",
+                "name_location": "Via Santa Maria Mazzarello, Borgata Lesna, Circoscrizione 3, Torino, Piemonte, 10142, Italia",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": "Maria Domenica Mazzarello (Mornese, 9 maggio 1837 – Nizza Monferrato, 14 maggio 1881) è stata una religiosa italiana, fondatrice della congregazione delle Figlie di Maria Ausiliatrice; nel 1951 papa Pio XII l'ha proclamata santa."
+            }
+        },
+        {
+            "type": "Feature", 
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7273726,
+                    45.07818097
+                ]
+            },
+            "properties": {
+                "entity": "Anna Michelotti",
+                "name_location": "Viale Suor Giovanna Francesca Michelotti, Vanchiglietta, Circoscrizione 7, Sassi, Torino, Piemonte, 10132, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": "Anna Michelotti, in religione madre Giovanna Francesca della Visitazione (Annecy, 29 agosto 1843 – Torino, 1º febbraio 1888), è stata una religiosa italiana, fondatrice della congregazione delle Piccole Serve del Sacro Cuore di Gesù per gli Ammalati Poveri, beatificata da papa Paolo VI."
             }
         },
         {
@@ -270,7 +441,7 @@
                 "name_location": "Via Maria Musso Ferraris, Alta Parella, Circoscrizione 4, Torino, Piemonte, 10146, Italia",
                 "class": "highway",
                 "type": "residential",
-                "snippet": ""
+                "snippet": "Il primo sciopero femminile venne organizzato a Torino dalla sarta piemontese Maria Musso Ferraris, militante nella Società “L’Avvenire Operaio”, presieduta da Giuseppe Garibaldi.\r\nLa Ferraris si batté anche per il voto alle donne.\r\nUn imponente “Congresso” in favore del Suffragio Femminile, si svolge a Torino nel 1911, vi partecipano più di 100 donne.\r\n"
             }
         },
         {
@@ -284,10 +455,44 @@
             },
             "properties": {
                 "entity": "Ada Negri",
-                "name_location": "Ada Negri, Via Gorizia, Santa Rita, Circoscrizione 2, Torino, Piemonte, 10136, Italia",
+                "name_location": "Via Ada Negri, Santa Rita, Circoscrizione 2, Torino, Piemonte, 10136, Italia",
                 "class": "highway",
-                "type": "bus_stop",
+                "type": "residential",
                 "snippet": "Ada Negri (Lodi, 3 febbraio 1870 – Milano, 11 gennaio 1945) è stata una poetessa, scrittrice e insegnante italiana.\nÈ ricordata anche per essere stata la prima e unica donna a essere ammessa all'Accademia d'Italia."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6641433,
+                    45.0823834
+                ]
+            },
+            "properties": {
+                "entity": "Maria Clotilde di Savoia",
+                "name_location": "Via Principessa Clotilde, San Donato, Circoscrizione 4, Torino, Piemonte, 10144, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": "La principessa Maria Clotilde di Savoia (Ludovica Teresa Maria Clotilde di Savoia; Torino, 2 marzo 1843 – Moncalieri, 25 giugno 1911) era la figlia primogenita del re Vittorio Emanuele II, prima sovrano di Sardegna e poi sovrano d'Italia, e della regina Maria Adelaide d'Asburgo-Lorena. Era, dunque, membro della famiglia reale italiana e la sorella maggiore di Umberto I di Savoia, successore del padre sul trono d'Italia, di Amedeo I di Savoia, re di Spagna, del principe Oddone Eugenio Maria di Savoia e di Maria Pia di Savoia, regina consorte del Portogallo; era inoltre sorellastra di Vittoria e di Emanuele Alberto, figli nati dal matrimonio morganatico del padre con Rosa Vercellana. Maria Clotilde si sposò nel 1859 con il principe Napoleone Giuseppe Carlo Paolo Bonaparte, nipote di Napoleone I e cugino di Napoleone III, al quale diede tre figli."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7001633,
+                    45.0577559
+                ]
+            },
+            "properties": {
+                "entity": "Maria Felicita di Savoia",
+                "name_location": "Via Principessa Felicita di Savoia, Crimea, Circoscrizione 8, Torino, Piemonte, 10131, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": "Maria Felicita Vittoria di Savoia (Torino, 19 marzo 1730 – Roma, 13 maggio 1801) fu una principessa del Regno di Sardegna."
             }
         },
         {
@@ -304,7 +509,7 @@
                 "name_location": "Via Alessandrina Ravizza, Rebaudengo, Circoscrizione 6, Torino, Piemonte, 10155, Italia",
                 "class": "highway",
                 "type": "residential",
-                "snippet": "Il Parco Ravizza, è un grande giardino pubblico di Milano, situato nei pressi dell'Università Bocconi.\nÈ il primo a essere stato progettato lungo la circonvallazione esterna, nella zona centro-meridionale della città a circa 200 metri in linea d'aria da ecopass.\n\n"
+                "snippet": "Alessandrina Ravizza. (Gatskina 1846 – Milano 1915). Attivista e filantropa, fu anticipatrice dei movimenti femministi. Nacque in Russia, dove il padre, milanese d’origine, era fuggito durante la sfortunata campagna del 1812 voluta da Napoleone. La madre era invece tedesca. Alessandrina giunse in Italia nel 1863 per studiare canto presso il Conservatorio di Milano. Qui sposò l’ing. Ravizza. Divenne una figura di riferimento del mondo dell’assistenza e dell’emancipazione femminile. Con Laura Solero Mantegazza si adoperò in opere assistenziali, promosse l’Università popolare e la scuola professionale femminile, aiutò la cucina per ammalati poveri e l’ambulatorio medico gratuito, si batté per il suffragio femminile."
             }
         },
         {
@@ -312,16 +517,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.579441,
-                    45.073504
+                    7.6145211,
+                    45.1012977
                 ]
             },
             "properties": {
-                "entity": "Regina Margherita",
-                "name_location": "Regina Margherita, Collegno, Torino, Piemonte, 10093, Italia",
-                "class": "place",
-                "type": "neighbourhood",
-                "snippet": "Margherita di Savoia (nome completo Margherita Maria Teresa Giovanna di Savoia-Genova; Torino, 20 novembre 1851 – Bordighera, 4 gennaio 1926) fu consorte di re Umberto I e la prima regina consorte d'Italia. La moglie del primo re d'Italia Vittorio Emanuele II di Savoia, Maria Adelaide d'Austria, era infatti morta nel 1855, prima della proclamazione del Regno avvenuta nel 1861.\nMembro della famiglia reale italiana negli anni in cui fu al fianco di Umberto come principessa ereditaria e, dal 1878, come regina d'Italia, esercitò una notevole influenza sulle scelte del marito e un grande fascino sulla popolazione, facendo sapiente uso delle proprie apparizioni pubbliche, concepite per attrarre il popolo con un abbigliamento ricercato e una costante affabilità. Secondo Ugoberto Alfassio Grimaldi, fu il personaggio politico dell'Italia unita che suscitò, dopo Giuseppe Garibaldi e Benito Mussolini, «i maggiori entusiasmi nelle classi elevate e nelle classi umili».Cattolica, fieramente attaccata a Casa Savoia e profondamente reazionaria, fu una nazionalista convinta e sostenne la politica imperialista di Francesco Crispi. L'incitamento alla repressione delle rivolte popolari, come avvenne nei moti di Milano del 1898, per quanto controverso, non ne compromise l'immagine, forse perché fu la prima donna italiana a sedere sul trono del paese neocostituito. A corte gestì un circolo culturale settimanale che le valse l'ammirazione di poeti e intellettuali e la collocò forse, almeno sotto questo aspetto, più a sinistra di molte altre dame dell'aristocrazia. I suoi balli, inoltre, come quelli cui partecipò, celavano spesso un piano diplomatico, e nelle sue intenzioni cercarono in particolare di assicurare una mediazione con l'aristocrazia \"nera\", rimasta fedele al Vaticano dopo la presa di Roma.\nMolti furono gli omaggi popolari e poetici tributati alla nobildonna (dalla pizza Margherita alla celebre ode carducciana Alla regina d'Italia, scritta subito dopo la visita bolognese dei sovrani nel novembre 1878), anche negli anni successivi all'assassinio del marito, quando diventò regina madre."
+                "entity": "Regina Margherita di Savoia",
+                "name_location": "Corso Regina Margherita, Vallette, Circoscrizione 5, Torino, Piemonte, 10146, Italia",
+                "class": "highway",
+                "type": "motorway",
+                "snippet": "Margherita di Savoia (nome completo Margherita Maria Teresa Giovanna di Savoia-Genova; Torino, 20 novembre 1851 – Bordighera, 4 gennaio 1926) fu consorte di re Umberto I e la prima regina consorte d'Italia. La moglie del primo re d'Italia Vittorio Emanuele II di Savoia, Maria Adelaide d'Austria, era infatti morta nel 1855, prima della proclamazione del Regno avvenuta nel 1861. Membro della famiglia reale italiana negli anni in cui fu al fianco di Umberto come principessa ereditaria e, dal 1878, come regina d'Italia, esercitò una notevole influenza sulle scelte del marito e un grande fascino sulla popolazione, facendo sapiente uso delle proprie apparizioni pubbliche, concepite per attrarre il popolo con un abbigliamento ricercato e una costante affabilità. Secondo Ugoberto Alfassio Grimaldi, fu il personaggio politico dell'Italia unita che suscitò, dopo Giuseppe Garibaldi e Benito Mussolini, «i maggiori entusiasmi nelle classi elevate e nelle classi umili». Cattolica, fieramente attaccata a Casa Savoia e profondamente reazionaria, fu una nazionalista convinta e sostenne la politica imperialista di Francesco Crispi. L'incitamento alla repressione delle rivolte popolari, come avvenne nei moti di Milano del 1898, per quanto controverso, non ne compromise l'immagine, forse perché fu la prima donna italiana a sedere sul trono del paese neocostituito.[2] A corte gestì un circolo culturale settimanale che le valse l'ammirazione di poeti e intellettuali e la collocò forse, almeno sotto questo aspetto, più a sinistra di molte altre dame dell'aristocrazia.[3] I suoi balli, inoltre, come quelli cui partecipò, celavano spesso un piano diplomatico, e nelle sue intenzioni cercarono in particolare di assicurare una mediazione con l'aristocrazia \"nera\", rimasta fedele al Vaticano dopo la presa di Roma. Molti furono gli omaggi popolari e poetici tributati alla nobildonna (dalla pizza Margherita alla celebre ode carducciana Alla regina d'Italia, scritta subito dopo la visita bolognese dei sovrani nel novembre 1878), anche negli anni successivi all'assassinio del marito, quando diventò regina madre."
             }
         },
         {
