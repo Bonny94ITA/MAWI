@@ -51,7 +51,7 @@ def merge_entities(features: list, entities_final: list):
     
     return entities_final
 
-def search_entities_geopy(searchable_entities: dict, context: dict, title_page: str, features: list = list()): 
+def search_entities_geopy(searchable_entities: dict, context: dict, title_page: str, features: list = list(), lang: str = "it"): 
     """ Search the entities in the searchable_entities dictionary with GeoPy library
         and return the corrispondent features geojson.
 
@@ -76,7 +76,7 @@ def search_entities_geopy(searchable_entities: dict, context: dict, title_page: 
 
     df = pd.DataFrame(locations, columns=['entity', 'to_search', 'snippet'])
     df.head()
-    df['address'] = df['to_search'].apply(partial(geocode, language='it', exactly_one=False))
+    df['address'] = df['to_search'].apply(partial(geocode, language=lang, exactly_one=False))
 
     df = df[pd.notnull(df['address'])]
 

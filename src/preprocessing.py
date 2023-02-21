@@ -162,9 +162,6 @@ def wiki_content(title: str, context = False):
     data = response.json()
     content = data['parse']['text']
     soup = BeautifulSoup(content, features="lxml")
-    
-    #with open(f'response/wikiPageContent/{title}_htmlnotcleaned.txt', 'w', encoding='utf-8') as f:
-    #    f.write(soup.prettify())
 
     soup, white_list = clean_html(soup)
 
@@ -175,9 +172,6 @@ def wiki_content(title: str, context = False):
     cleaned_content = substitute_whitelist(cleaned_content, white_list)
     
     cleaned_content = cleaned_content.replace("“", "\"").replace("”", "\"")
-
-    #with open(f'response/wikiPageContent/{title}_htmlcleaned.txt', 'w', encoding='utf-8') as f:
-    #    f.write(soup.prettify())
 
     with open(f'response/wikiPageContent/{title}.txt', 'w', encoding='utf-8') as f:
         f.write(cleaned_content)

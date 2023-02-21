@@ -1,4 +1,4 @@
-from src.model import create_model
+from src.model import create_model, get_lang
 from src.preprocessing import wiki_content
 from src.entities import get_entities_snippet
 from src.location import search_entities_geopy
@@ -7,11 +7,14 @@ from src.utils import get_nearby_pages, save_results, get_further_information
 #cities = ["Torino", "Roma", "Bologna", "Milano", "Liberty a Torino", "Barocco a Milano"]
 
 cities = ["Torino"]
-nlp = create_model()
 
 for city in cities:
     # Read wiki pages
     text, context = wiki_content(city, True)
+    
+    lang = get_lang(text)
+
+    nlp = create_model(lang)
 
     doc = nlp(text)
 

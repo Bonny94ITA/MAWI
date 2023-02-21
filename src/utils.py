@@ -1,14 +1,13 @@
-from spacy.tokens import Doc
 import csv
 import os
 import json
-from wikidata.client import Client
 import requests
 import wikipedia
-from geojson import FeatureCollection, Feature, Point
 
 from shapely.geometry import Point, Polygon
-
+from geojson import FeatureCollection, Feature, Point
+from wikidata.client import Client
+from spacy.tokens import Doc
 
 def find_indexes(doc: Doc, ch): 
     """ Find the index of the character ch in the doc.
@@ -71,21 +70,21 @@ def save_results(features: list, context: dict):
         json.dump(geojson, f, ensure_ascii=False, indent=4)
         print("The result complete has been saved as a file inside the response folder")
 
-    features_cleaned, outliers = detection_outliers(features, context)
+    #features_cleaned, outliers = detection_outliers(features, context)
 
-    features_cleaned.append(context['polygon'])
-    outliers.append(context['polygon'])
+    #features_cleaned.append(context['polygon'])
+    #outliers.append(context['polygon'])
 
-    geojson_cleaned = FeatureCollection(features_cleaned)
-    geojson_outliers = FeatureCollection(outliers)
+    #geojson_cleaned = FeatureCollection(features_cleaned)
+    #geojson_outliers = FeatureCollection(outliers)
     
-    with open(results_cleaned_path, 'w', encoding='utf-8') as f:
-        json.dump(geojson_cleaned, f, ensure_ascii=False, indent=4)
-        print("The result cleaned has been saved as a file inside the response folder")
+    #with open(results_cleaned_path, 'w', encoding='utf-8') as f:
+    #    json.dump(geojson_cleaned, f, ensure_ascii=False, indent=4)
+    #    print("The result cleaned has been saved as a file inside the response folder")
 
-    with open(results_outliers_path, 'w', encoding='utf-8') as f:
-        json.dump(geojson_outliers, f, ensure_ascii=False, indent=4)
-        print("The result outliers has been saved as a file inside the response folder")
+    #with open(results_outliers_path, 'w', encoding='utf-8') as f:
+    #    json.dump(geojson_outliers, f, ensure_ascii=False, indent=4)
+    #    print("The result outliers has been saved as a file inside the response folder")
 
 def get_polygon(name: str):
     """ Get the polygon of the location using wikidata API.
@@ -131,7 +130,7 @@ def get_polygon(name: str):
 
     return feature
 
-def get_entity_id(name: str):
+def get_entity_id(name: str, lang: str = "it"):
     """ Get the entity id of the location using wikidata API.
     
     Args:
@@ -145,7 +144,7 @@ def get_entity_id(name: str):
     params = {
         "action": "wbsearchentities",
         "search": name,
-        "language": "it",
+        "language": lang,
         "format": "json"
     }
 
@@ -155,7 +154,7 @@ def get_entity_id(name: str):
 
     return entity_id
 
-def get_nearby_pages(page: str):
+def get_nearby_pages(page: str, lang: str = "it"):
     """ Return pages near the page in argument.
 
     Args: 
@@ -165,7 +164,7 @@ def get_nearby_pages(page: str):
         list of pages near the page in argument
     """
     session = requests.Session()
-    url_api = "https://it.wikipedia.org/w/api.php"
+    url_api = "https://"+lang+".wikipedia.org/w/api.php"
     params = {
         "action": "query",
         "list": "geosearch",
@@ -184,7 +183,7 @@ def get_nearby_pages(page: str):
 
     return landmarks
 
-def get_further_information(entities: dict, city = "Torino"):
+def get_further_information(entities: dict, city = "Torino", lang: str = "it"):
     """ Get the summary of the entities using wikipedia API.
 
     Args:
@@ -195,7 +194,7 @@ def get_further_information(entities: dict, city = "Torino"):
         entities: dictionary with the summary of the entities
     """
 
-    wikipedia.set_lang("it")
+    wikipedia.set_lang(lang)
     for ent in entities: 
         to_search = ent
         title = None
