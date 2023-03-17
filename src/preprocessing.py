@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import re
 import string
 import requests
+from os.path import exists
 
 from src.utils import get_polygon
 
@@ -147,34 +148,41 @@ def wiki_content(title: str, context = False):
         Wikipedia page content cleaned  
         Location of the context if context is True
     """
+
+    file_content = f'response/wikiPageContent/{title}.txt'
     session = requests.Session()
     url_api = "https://it.wikipedia.org/w/api.php"
-
-    params = {
-        "action": "parse",
-        "page": title,
-        "format": "json",
-        "prop": "text",
-        "formatversion": "2"
-    }
-
-    response = session.get(url=url_api, params=params)
-    data = response.json()
-    content = data['parse']['text']
-    soup = BeautifulSoup(content, features="lxml")
-
-    soup, white_list = clean_html(soup)
-
-    soup = add_punct_bullets(soup)
-
-    cleaned_content = "\n".join([string for string in soup.text.split('\n') if string != '' and string != ' '])
-
-    cleaned_content = substitute_whitelist(cleaned_content, white_list)
     
-    cleaned_content = cleaned_content.replace("“", "\"").replace("”", "\"")
+    if exists(file_content): 
+        with open(file_content, "r", encoding='utf-8') as f: 
+            cleaned_content = f.read()
+    else: 
 
-    with open(f'response/wikiPageContent/{title}.txt', 'w', encoding='utf-8') as f:
-        f.write(cleaned_content)
+        params = {
+            "action": "parse",
+            "page": title,
+            "format": "json",
+            "prop": "text",
+            "formatversion": "2"
+        }
+
+        response = session.get(url=url_api, params=params)
+        data = response.json()
+        content = data['parse']['text']
+        soup = BeautifulSoup(content, features="lxml")
+
+        soup, white_list = clean_html(soup)
+
+        soup = add_punct_bullets(soup)
+
+        cleaned_content = "\n".join([string for string in soup.text.split('\n') if string != '' and string != ' '])
+
+        cleaned_content = substitute_whitelist(cleaned_content, white_list)
+        
+        cleaned_content = cleaned_content.replace("“", "\"").replace("”", "\"")
+
+        with open(file_content, 'w', encoding='utf-8') as f:
+            f.write(cleaned_content)
 
     if context: 
         params_coord = {
