@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import re
 import string
 import requests
+import wikipediaapi
 from os.path import exists
 
 from src.utils import get_polygon
@@ -137,6 +138,47 @@ def substitute_whitelist(text: str, whitelist: list):
         text = re.sub(r'\b{}\b'.format(word), word.capitalize(), text)
 
     return text
+
+def fetch_article(title: str, lang: str, path_save_links: str, path_save_text: str):
+    session = requests.Session()
+    url_api = "https://"+lang+".wikipedia.org/w/api.php"
+    article_text = f""+path_save_text+title+".txt"
+    article_links = f""+path_save_links+title+"_links.txt"
+    
+    if not exists(article_text): 
+
+        # Get text
+        params = {
+            "action": "parse",
+            "page": title,
+            "format": "json",
+            "prop": "text",
+            "formatversion": "2"
+        }
+
+        response = session.get(url=url_api, params=params)
+        data = response.json()
+        content = data['parse']['text']
+        soup = BeautifulSoup(content, features="lxml")
+
+        soup, white_list = clean_html(soup)
+        soup = add_punct_bullets(soup)
+        cleaned_content = "\n".join([string for string in soup.text.split('\n') if string != '' and string != ' '])
+        cleaned_content = substitute_whitelist(cleaned_content, white_list)
+        cleaned_content = cleaned_content.replace("“", "\"").replace("”", "\"")
+
+        with open(article_text, 'w', encoding='utf-8') as f:
+            f.write(cleaned_content)
+
+        # Get links
+        wiki = wikipediaapi.Wikipedia(lang)
+        page = wiki.page(title)
+        keys = list(page.links.keys())
+
+        with open(article_links, 'w', encoding='utf-8') as f: 
+            f.writelines(keys)
+
+
 
 def wiki_content(title: str, context = False):
     """ Search title page in wikipedia with MediaWiki API.

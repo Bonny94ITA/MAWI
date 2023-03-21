@@ -7,6 +7,9 @@ from src.utils import get_nearby_pages, save_results, get_further_information
 #cities = ["Torino", "Roma", "Bologna", "Milano", "Liberty a Torino", "Barocco a Milano"]
 
 cities = ["Torino"]
+# TODO: non parto più da una lista di città ma da una lista di pagine di Wikipedia già estratte 
+
+# TODO: cambiare nomi alle cartelle: "response" -> "results", "spacy_pipeline" -> "extraction_entites_snippet", wikiPageContent -> sostituita da input
 
 for city in cities:
     # Read wiki pages

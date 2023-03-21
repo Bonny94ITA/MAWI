@@ -1,36 +1,12 @@
-import json
-import requests as req
-import sys
 
-arguments = sys.argv[1:]
+import wikipediaapi
 
-if len(arguments) == 0:
-    searchpage = "Torino"
-else:
-    searchpage, *tail = sys.argv[1:]
+wiki_wiki = wikipediaapi.Wikipedia('it')
+wiki_page = wiki_wiki.page("Torino")
 
-session = req.Session()
-url_api = "https://it.wikipedia.org/w/api.php"
+#print(wiki_page.links)
 
-params = {
-    "action": "query",
-    "srlimit": "max",
-    "format": "json",
-    "list": "search",
-    "srsearch": "piazza carlo alberto",
-}
+links = wiki_page.links
+keys = list(links.keys())
 
-response = session.get(url=url_api, params=params)
-data = response.json()
-
-if data['query']['search'][0]['title'] == searchpage:
-    print("Your search page '" + searchpage + "' exists on English Wikipedia")
-
-with open(f'response/wikiSearch/{searchpage}.json', 'w') as f:
-    json.dump(data, f, indent=4)
-    print("The result has been saved as a file inside the response folder")
-
-# jprint(data)
-
-# for elem in data['query']['search']:
-#     print(elem['snippet'] + '\n')
+print(keys)
