@@ -173,10 +173,11 @@ def fetch_article(title: str, lang: str, path_save_links: str, path_save_text: s
         # Get links
         wiki = wikipediaapi.Wikipedia(lang)
         page = wiki.page(title)
-        keys = list(page.links.keys())
+        links = list(page.links.keys())
 
         with open(article_links, 'w', encoding='utf-8') as f: 
-            f.writelines(keys)
+            for link in links: 
+                f.write(link + "\n")
 
 
 

@@ -1,9 +1,5 @@
 from src.preprocessing import fetch_article
 
-
-import wikipediaapi
-# mi conviene mettere da parte tutti i link che ha la pagina con altre pagine
-
 path_articles1_names = f'input/articles1/articles1_names.txt'
 
 titles_articles_ita = []
