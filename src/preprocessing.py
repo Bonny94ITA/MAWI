@@ -62,6 +62,12 @@ def clean_html(soup: BeautifulSoup):
     for heading in headings:
         heading.decompose() 
 
+    # Note div
+
+    note_div = soup.find_all('div', role='note')
+    for note in note_div:
+        note.decompose()
+
     # From Note to the end of the page
     note = soup.find('span', id='Note')
 

@@ -1,4 +1,4 @@
-from src.model import create_model, get_lang
+from src.model import create_model
 from src.preprocessing import wiki_content, get_context
 from src.entities import get_entities_snippet
 from src.location import search_entities_geopy, get_geographic_scope
@@ -20,12 +20,11 @@ for (title, lang) in titles_articles:
     context = get_context(title, lang)
 
     nlp = create_model(lang)
-
     doc = nlp(text)
 
     print(context)
 
-    geographic_scope = get_geographic_scope(doc) # TODO: implementare algoritmo per individuarlo
+    geographic_scope = get_geographic_scope(doc) # TODO: controllare che funzioni anche per gli articoli di tipo 2
 
     # Get entities without duplicates
     searchable_entities, sentence_dict = get_entities_snippet(doc)
