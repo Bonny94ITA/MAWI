@@ -58,9 +58,9 @@ def save_results(features: list, context: dict):
 
     geojson = FeatureCollection(features)
 
-    results_path = f"results/spacy_pipeline/{name_context}.geojson"
-    results_cleaned_path = f"results/spacy_pipeline/{name_context}_cleaned.geojson"
-    results_outliers_path = f"results/spacy_pipeline/{name_context}_outliers.geojson"
+    results_path = f"results/extraction_entities_snippet/{name_context}.geojson"
+    results_cleaned_path = f"results/extraction_entities_snippet/{name_context}_cleaned.geojson"
+    results_outliers_path = f"results/extraction_entities_snippet/{name_context}_outliers.geojson"
 
     delete_file(results_path)
     delete_file(results_cleaned_path)

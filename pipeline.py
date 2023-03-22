@@ -15,8 +15,8 @@ cities = ["Torino"]
 
 for city in cities:
     # Read wiki pages
-
-    text = read_article(path_articles1_ita+city+".txt")
+    path_article = path_articles1_ita+city+".txt"
+    text = read_article(path_article)
     #text, context = wiki_content(city, True)
     
     lang = get_lang(text) # adesso lo saprò prima senza questa fase
@@ -39,6 +39,7 @@ for city in cities:
 
     nearby_pages = get_nearby_pages(city)
 
+
     print(nearby_pages)
     
     for page in nearby_pages:
@@ -59,7 +60,7 @@ for city in cities:
     entities_complete = list(searchable_entities.keys())
     entities_complete.sort(key= str.lower)
     name_context = context['name']
-    file_path_entities_complete = f'results/spacy_pipeline/{name_context}_entities.txt'
+    file_path_entities_complete = f'results/extraction_entities_snippet/{name_context}_entities.txt'
 
     with open(file_path_entities_complete, 'w', encoding='utf-8') as f:
         for entity in entities_complete:

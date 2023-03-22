@@ -8,7 +8,7 @@ from shapely.geometry import Point, Polygon
 
 
 # leggi il documento torino_geojson.json
-file_to_read = f"results/spacy_pipeline/Torino_geojson.geojson" 
+file_to_read = f"results/extraction_entities_snippet/Torino_geojson.geojson" 
 with open(file_to_read, 'r', encoding='utf-8') as f: 
     data = json.load(f)
 

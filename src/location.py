@@ -96,7 +96,7 @@ def search_entities_geopy(searchable_entities: dict, context: dict, title_page: 
     
     # save entities
 
-    results_file_path = f"results/spacy_pipeline/{title_page}.txt"
+    results_file_path = f"results/extraction_entities_snippet/{title_page}.txt"
 
     delete_file(results_file_path)
 
