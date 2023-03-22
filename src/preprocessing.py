@@ -265,25 +265,8 @@ def wiki_content(title: str, context = False):
             f.write(cleaned_content)
 
     if context: 
-        params_coord = {
-            "action": "query",
-            "prop": "coordinates",
-            "titles": title,
-            "formatversion": "2",
-            "format": "json"
-        }
 
-        response_coord = session.get(url=url_api, params=params_coord)
-        data_coord = response_coord.json()
-
-        print(data_coord)
-
-        coordinates = data_coord['query']['pages'][0]['coordinates']
-        location = {"name": title, 
-                    "latitude": coordinates[0]['lat'], 
-                    "longitude": coordinates[0]['lon'], 
-                    "polygon": get_polygon(title)}
-    
+        location = get_context(title, "it")    
         return cleaned_content, location
     
     else: 

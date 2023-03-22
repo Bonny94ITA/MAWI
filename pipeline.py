@@ -8,20 +8,15 @@ from src.utils import get_nearby_pages, save_results, get_further_information, r
 
 path_articles1_ita = f'input/articles1/ita/texts/'
 
-cities = ["Torino"]
-# TODO: non parto più da una lista di città ma da una lista di pagine di Wikipedia già estratte 
+titles_articles = [("Torino", "it")]
 
-# TODO: cambiare nomi alle cartelle: "response" -> "results", "spacy_pipeline" -> "extraction_entites_snippet", wikiPageContent -> sostituita da input
-
-for city in cities:
-    # Read wiki pages
-    path_article = path_articles1_ita+city+".txt"
+for (title, lang) in titles_articles:
+    # Read wiki articles from file
+    path_article = path_articles1_ita+title+".txt"
     text = read_article(path_article)
     #text, context = wiki_content(city, True)
-    
-    lang = get_lang(text) # adesso lo saprò prima senza questa fase
 
-    context = get_context(city, lang)
+    context = get_context(title, lang)
 
     nlp = create_model(lang)
 
@@ -29,14 +24,33 @@ for city in cities:
 
     print(context)
 
+    geographic_scope = title # TODO: implementare algoritmo per individuarlo
+
     # Get entities without duplicates
     searchable_entities, sentence_dict = get_entities_snippet(doc)
 
-    searchable_entities = get_further_information(searchable_entities, city)
+    searchable_entities = get_further_information(searchable_entities, geographic_scope)
 
     # Search addresses with Google
-    features, entities_final = search_entities_geopy(searchable_entities, context, city)
+    features, entities_final = search_entities_geopy(searchable_entities, context, geographic_scope)
 
+    # Search nearby pages -> TODO: da aggiungere?
+
+    save_results(features, context)
+
+    print("number of entities: ", len(searchable_entities))
+
+    entities_complete = list(searchable_entities.keys())
+    entities_complete.sort(key= str.lower)
+    name_context = context['name']
+    file_path_entities_complete = f'results/extraction_entities_snippet/{name_context}_entities.txt'
+
+    with open(file_path_entities_complete, 'w', encoding='utf-8') as f:
+        for entity in entities_complete:
+            f.write(entity + '\n')
+
+"""
+    
     nearby_pages = get_nearby_pages(city)
 
 
@@ -52,16 +66,4 @@ for city in cities:
         searchable_entities = get_further_information(searchable_entities, city)
 
         features, _ = search_entities_geopy(searchable_entities, context, city, features)
-
-    save_results(features, context)
-
-    print("number of entities: ", len(searchable_entities))
-
-    entities_complete = list(searchable_entities.keys())
-    entities_complete.sort(key= str.lower)
-    name_context = context['name']
-    file_path_entities_complete = f'results/extraction_entities_snippet/{name_context}_entities.txt'
-
-    with open(file_path_entities_complete, 'w', encoding='utf-8') as f:
-        for entity in entities_complete:
-            f.write(entity + '\n')
+"""
