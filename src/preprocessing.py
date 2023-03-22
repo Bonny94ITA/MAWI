@@ -63,10 +63,14 @@ def clean_html(soup: BeautifulSoup):
         heading.decompose() 
 
     # Note div
-
     note_div = soup.find_all('div', role='note')
     for note in note_div:
         note.decompose()
+
+    # Comments
+    comments_div = soup.find_all('div', class_='shortdescription nomobile noexcerpt noprint searchaux') 
+    for comment in comments_div:
+        comment.decompose()
 
     # From Note to the end of the page
     note = soup.find('span', id='Note')
@@ -77,17 +81,20 @@ def clean_html(soup: BeautifulSoup):
             sibling.decompose()
 
     headlines = []
-    # Span HEADLINE!
-    for span in soup.find_all('span', class_ = 'mw-headline'):
-        headlines.append(span.string)
+
+    # delete end of the article from section See also
+    see_also = soup.find('span', class_='mw-headline', id='See_also')
+
+    if see_also:
+        parent_tag = see_also.parent
+        for sibling in parent_tag.find_next_siblings():
+            sibling.decompose()
 
     white_list = create_whitelist()
 
     # delete other spans
-
     for span in soup.find_all('span', class_ = not_headline_chiarimento):
         span.decompose()
-        
 
     # Table
     for table in soup.find_all('table'):
