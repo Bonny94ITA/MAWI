@@ -7,6 +7,10 @@ from geopy.extra.rate_limiter import RateLimiter
 from geopy.geocoders import Nominatim
 from geopy import distance
 
+from spacy.tokens import Doc
+
+from collections import Counter
+
 from src.utils import delete_file, print_to_file
 
 def to_geojson(df: pd.DataFrame):
@@ -165,3 +169,25 @@ def get_location_names(list: list[tuple[str, str, str]]):
     geojson = FeatureCollection(to_geojson(df))
 
     return geojson
+
+
+def get_geographic_scope(article: Doc): 
+    """ Return the geographic scope of the article.
+
+    Geographic scope is defined as the most common GPE entity in the article.
+    
+    Args:
+        article: article to analyze
+    
+    Returns:
+        geographic scope: the geographic scope of the article
+    """
+    
+    ents = article.ents
+    ents_gpe = [ent.text for ent in ents if ent.label_ == "GPE"]
+    count = Counter(ents_gpe)
+    geographic_scope = count.most_common(1)[0][0]
+
+    return geographic_scope
+
+    

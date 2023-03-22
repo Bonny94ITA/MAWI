@@ -1,18 +1,19 @@
 from src.model import create_model, get_lang
 from src.preprocessing import wiki_content, get_context
 from src.entities import get_entities_snippet
-from src.location import search_entities_geopy
+from src.location import search_entities_geopy, get_geographic_scope
 from src.utils import get_nearby_pages, save_results, get_further_information, read_article
 
 #cities = ["Torino", "Roma", "Bologna", "Milano", "Liberty a Torino", "Barocco a Milano"]
 
-path_articles1_ita = f'input/articles1/ita/texts/'
+path_articles1_it = f'input/articles1/it/texts/'
+path_articles1_en = f'input/articles1/en/texts/'
 
 titles_articles = [("Torino", "it")]
 
 for (title, lang) in titles_articles:
     # Read wiki articles from file
-    path_article = path_articles1_ita+title+".txt"
+    path_article = path_articles1_it+title+".txt"
     text = read_article(path_article)
     #text, context = wiki_content(city, True)
 
@@ -24,7 +25,7 @@ for (title, lang) in titles_articles:
 
     print(context)
 
-    geographic_scope = title # TODO: implementare algoritmo per individuarlo
+    geographic_scope = get_geographic_scope(doc) # TODO: implementare algoritmo per individuarlo
 
     # Get entities without duplicates
     searchable_entities, sentence_dict = get_entities_snippet(doc)
