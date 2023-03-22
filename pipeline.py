@@ -1,8 +1,10 @@
 from src.model import create_model
-from src.preprocessing import wiki_content, get_context
+from src.preprocessing import get_context
 from src.entities import get_entities_snippet
 from src.location import search_entities_geopy, get_geographic_scope
-from src.utils import get_nearby_pages, save_results, get_further_information, read_article
+from src.utils import save_results, get_further_information, read_article
+
+from datetime import datetime
 
 #cities = ["Torino", "Roma", "Bologna", "Milano", "Liberty a Torino", "Barocco a Milano"]
 
@@ -14,9 +16,9 @@ titles_articles = [("Torino", "it")]
 for (title, lang) in titles_articles:
     # Read wiki articles from file
     path_article = path_articles1_it+title+".txt"
+    startTime = datetime.now()
     text = read_article(path_article)
-    #text, context = wiki_content(city, True)
-
+    print("Read article take: ", str(datetime.now() - startTime))
     context = get_context(title, lang)
 
     nlp = create_model(lang)
@@ -27,12 +29,25 @@ for (title, lang) in titles_articles:
     geographic_scope = get_geographic_scope(doc) # TODO: controllare che funzioni anche per gli articoli di tipo 2
 
     # Get entities without duplicates
+
+    startTime = datetime.now()
+
     searchable_entities, sentence_dict = get_entities_snippet(doc)
+
+    print("Get_entities_snippet method takes: ", str(datetime.now() - startTime))
+
+    startTime = datetime.now()
 
     searchable_entities = get_further_information(searchable_entities, geographic_scope)
 
+    print("Get_further_information method takes: ", str(datetime.now() - startTime))
+
+
+    startTime = datetime.now()
     # Search addresses with Google
-    features, entities_final = search_entities_geopy(searchable_entities, context, geographic_scope)
+    features, entities_final = search_entities_geopy(searchable_entities, context, geographic_scope, lang=lang)
+
+    print("search_entities_geopy method takes: ", str(datetime.now() - startTime))
 
     # Search nearby pages -> TODO: da aggiungere?
 
@@ -42,8 +57,7 @@ for (title, lang) in titles_articles:
 
     entities_complete = list(searchable_entities.keys())
     entities_complete.sort(key= str.lower)
-    name_context = context['name']
-    file_path_entities_complete = f'results/extraction_entities_snippet/{name_context}_entities.txt'
+    file_path_entities_complete = f'results/extraction_entities_snippet/{title}_entities.txt'
 
     with open(file_path_entities_complete, 'w', encoding='utf-8') as f:
         for entity in entities_complete:

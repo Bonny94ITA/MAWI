@@ -80,8 +80,6 @@ def clean_html(soup: BeautifulSoup):
         for sibling in parent_tag.find_next_siblings():
             sibling.decompose()
 
-    headlines = []
-
     # delete end of the article from section See also
     see_also = soup.find('span', class_='mw-headline', id='See_also')
 

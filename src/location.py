@@ -72,6 +72,8 @@ def search_entities_geopy(searchable_entities: dict, context: dict, title_page: 
     geocode = RateLimiter(locator.geocode, min_delay_seconds=1)
     name_context = context['name']
     locations = []
+
+    # Modify the searchable entities to search with the context
     for ent in searchable_entities.keys():
         to_search = ent
         if not ent.__contains__(name_context): 
@@ -81,15 +83,11 @@ def search_entities_geopy(searchable_entities: dict, context: dict, title_page: 
     df = pd.DataFrame(locations, columns=['entity', 'to_search', 'snippet'])
     df.head()
     df['address'] = df['to_search'].apply(partial(geocode, language=lang, exactly_one=False))
-
     df = df[pd.notnull(df['address'])]
 
     df['address'] = df['address'].apply(lambda list_loc: most_close_location(list_loc, context))
-
     df['coordinates'] = df['address'].apply(lambda loc: Point((loc.longitude, loc.latitude)) if loc else None)
-    
     df['name_location'] = df['address'].apply(lambda loc: loc.address if loc else None)
-
     df[['class', 'type']] = df['address'].apply(lambda loc: pd.Series([loc.raw['class'], loc.raw['type']]) if loc else None)
 
     print(df)
@@ -97,17 +95,12 @@ def search_entities_geopy(searchable_entities: dict, context: dict, title_page: 
     
     geojson_entities = to_geojson(df)
 
-    
-    # save entities
+    # Save entities
 
     results_file_path = f"results/extraction_entities_snippet/{title_page}.txt"
-
     delete_file(results_file_path)
-
     entities_final = df['entity'].to_list()
-
     entities_final = merge_entities(features, entities_final)
-
     entities_final.sort(key=str.lower)
 
     for entity in entities_final:
