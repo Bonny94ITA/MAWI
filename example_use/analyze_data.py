@@ -8,7 +8,7 @@ from shapely.geometry import Point, Polygon
 
 
 # leggi il documento torino_geojson.json
-file_to_read = f"response/spacy_pipeline/Torino_geojson.geojson" 
+file_to_read = f"results/spacy_pipeline/Torino_geojson.geojson" 
 with open(file_to_read, 'r', encoding='utf-8') as f: 
     data = json.load(f)
 
@@ -64,7 +64,7 @@ points_in_polygon.append(loc)
 
 # salva il risultato in un file json
 data['features'] = points_in_polygon
-file_to_write = f"response/Torino_geojson_cleanSH.geojson"
+file_to_write = f"results/Torino_geojson_cleanSH.geojson"
 with open(file_to_write, 'w', encoding='utf-8') as f:
     json.dump(data, f, ensure_ascii=False, indent=4)
-    print("The result cleaned has been saved as a file inside the response folder")
+    print("The result cleaned has been saved as a file inside the results folder")

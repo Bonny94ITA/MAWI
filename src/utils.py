@@ -58,9 +58,9 @@ def save_results(features: list, context: dict):
 
     geojson = FeatureCollection(features)
 
-    results_path = f"response/spacy_pipeline/{name_context}.geojson"
-    results_cleaned_path = f"response/spacy_pipeline/{name_context}_cleaned.geojson"
-    results_outliers_path = f"response/spacy_pipeline/{name_context}_outliers.geojson"
+    results_path = f"results/spacy_pipeline/{name_context}.geojson"
+    results_cleaned_path = f"results/spacy_pipeline/{name_context}_cleaned.geojson"
+    results_outliers_path = f"results/spacy_pipeline/{name_context}_outliers.geojson"
 
     delete_file(results_path)
     delete_file(results_cleaned_path)
@@ -375,3 +375,19 @@ def save_results_extension(path: str, geojson: FeatureCollection):
     with open(path, 'w', encoding='utf-8') as f:
         json.dump(geojson, f, ensure_ascii=False, indent=4)
         print("The result complete has been saved as a file inside the response folder")
+
+def read_article(path: str): 
+    """
+    Read the article from a file.
+
+    Args:
+        path: path of the file
+    
+    Returns:
+        article: string with the article
+    """
+    file = open(path, "r", encoding='utf-8') 
+    article = file.read() 
+    file.close() 
+
+    return article

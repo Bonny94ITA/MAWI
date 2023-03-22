@@ -2,8 +2,8 @@ from src.utils import get_list_names, get_summary_names, get_genders_names, save
 from src.location import get_location_names
 
 
-file_names = f"response/extension/Torino_names.txt"
-file_result = f'response/extension/Torino_names.json'
+file_names = f"results/extension/Torino_names.txt"
+file_result = f'results/extension/Torino_names.json'
 
 names = get_list_names(file_names)
 

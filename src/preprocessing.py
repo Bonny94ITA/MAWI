@@ -180,6 +180,43 @@ def fetch_article(title: str, lang: str, path_save_links: str, path_save_text: s
                 f.write(link + "\n")
 
 
+def get_geographic_scope(ents: list): 
+    # TODO: improve the function to get the geographic scope
+    pass
+
+def get_context(title: str, lang: str):
+    """ Get the context of the title page in wikipedia with MediaWiki API.
+
+    Args: 
+        title: str Wikipedia page title
+        lang: str Wikipedia language
+    
+    Returns:
+        context: dict Context of the page
+    """
+
+    session = requests.Session()
+    url_api = "https://"+lang+".wikipedia.org/w/api.php"
+    params_coord = {
+        "action": "query",
+        "prop": "coordinates",
+        "titles": title,
+        "formatversion": "2",
+        "format": "json"
+    }
+
+    response_coord = session.get(url=url_api, params=params_coord)
+    data_coord = response_coord.json()
+
+    print(data_coord)
+
+    coordinates = data_coord['query']['pages'][0]['coordinates']
+    location = {"name": title, 
+                "latitude": coordinates[0]['lat'], 
+                "longitude": coordinates[0]['lon'], 
+                "polygon": get_polygon(title)}
+
+    return location
 
 def wiki_content(title: str, context = False):
     """ Search title page in wikipedia with MediaWiki API.
@@ -192,7 +229,7 @@ def wiki_content(title: str, context = False):
         Location of the context if context is True
     """
 
-    file_content = f'response/wikiPageContent/{title}.txt'
+    file_content = f'results/wikiPageContent/{title}.txt'
     session = requests.Session()
     url_api = "https://it.wikipedia.org/w/api.php"
     

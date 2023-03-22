@@ -68,7 +68,7 @@ data = response.json()
 
 #content = data['query']['pages'][0]['revisions'][0]['slots']['main']['content']
 
-with open(f'response/wikiPageContent/{titles}.json', 'w', encoding='utf-8') as f:
+with open(f'results/wikiPageContent/{titles}.json', 'w', encoding='utf-8') as f:
     json.dump(data, f) 
 
 # estrarre il testo dalla pagina
@@ -135,10 +135,10 @@ for t in tag:
             sub_tag[-1].append(" .")
 
 
-with open(f'response/wikiPageContent/{titles}_soup.txt', 'w', encoding='utf-8') as f:
+with open(f'results/wikiPageContent/{titles}_soup.txt', 'w', encoding='utf-8') as f:
     f.write(soup.prettify())
 
-with open(f'response/wikiPageContent/{titles}_text.txt', 'w', encoding='utf-8') as f:
+with open(f'results/wikiPageContent/{titles}_text.txt', 'w', encoding='utf-8') as f:
     f.write(soup.get_text(' ', strip=True))
 
 

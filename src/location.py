@@ -89,16 +89,16 @@ def search_entities_geopy(searchable_entities: dict, context: dict, title_page: 
     df[['class', 'type']] = df['address'].apply(lambda loc: pd.Series([loc.raw['class'], loc.raw['type']]) if loc else None)
 
     print(df)
-    df.to_csv("response/dataframe.csv")
+    df.to_csv("results/dataframe.csv")
     
     geojson_entities = to_geojson(df)
 
     
     # save entities
 
-    response_file_path = f"response/spacy_pipeline/{title_page}.txt"
+    results_file_path = f"results/spacy_pipeline/{title_page}.txt"
 
-    delete_file(response_file_path)
+    delete_file(results_file_path)
 
     entities_final = df['entity'].to_list()
 
@@ -107,7 +107,7 @@ def search_entities_geopy(searchable_entities: dict, context: dict, title_page: 
     entities_final.sort(key=str.lower)
 
     for entity in entities_final:
-        print_to_file(response_file_path, entity)
+        print_to_file(results_file_path, entity)
 
     features.extend(geojson_entities)
 
