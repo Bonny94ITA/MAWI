@@ -47,7 +47,7 @@ for (title, lang) in titles_articles:
     # Search addresses with Google
     features, entities_final = search_entities_geopy(searchable_entities, context, geographic_scope, lang=lang)
 
-    print("search_entities_geopy method takes: ", str(datetime.now() - startTime))
+    print("search_entities_geopy method takes: ", str(datetime.now() - startTime)) # TODO: cercare di diminuire i tempi
 
     # Search nearby pages -> TODO: da aggiungere?
 

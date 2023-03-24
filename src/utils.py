@@ -183,7 +183,7 @@ def get_nearby_pages(page: str, lang: str = "it"):
 
     return landmarks
 
-def get_further_information(entities: dict, city = "Torino", lang: str = "it"): # TODO: perchè non sostituire la libreria wikipedia con wikipediaapi?
+def get_further_information(entities: dict, city = "Torino", lang: str = "it"): 
     """ Get the summary of the entities using wikipedia API.
 
     Args:
