@@ -1,5 +1,5 @@
 import spacy
-from langdetect import detect
+from geopy.geocoders import Nominatim
 
 def create_model(lang: str): 
     """ Create the model with the pipeline of SpaCy and the NER transformer.
@@ -23,19 +23,12 @@ def create_model(lang: str):
 
     return model
 
-def get_lang(text: str) -> str:
-    """ Get the language of the text.
-    
-    Args:
-        text: the text to analyze
+def create_geocoder(): 
+    """ Create the geocoder.
     
     Returns:
-        lang: the language of the text
+        geocoder: the geocoder
     """
-    lang = detect(text[:100])
-
-    print(lang)
-
-    return lang
-
+    geocoder = Nominatim(user_agent="PoI_geocoding")
+    return geocoder
 

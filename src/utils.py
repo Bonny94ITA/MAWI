@@ -45,22 +45,20 @@ def delete_file(file_path):
     if os.path.exists(file_path):
         os.remove(file_path)
 
-def save_results(features: list, context: dict): 
+def save_results(features: list, title_page: str): 
     """ Save results of the search
     
     Args: 
         features: list of feature to save
-        context: dict with information of context
+        title_page: title of the page
 
     """
 
-    name_context = context['name']
-
     geojson = FeatureCollection(features)
 
-    results_path = f"results/extraction_entities_snippet/{name_context}.geojson"
-    results_cleaned_path = f"results/extraction_entities_snippet/{name_context}_cleaned.geojson"
-    results_outliers_path = f"results/extraction_entities_snippet/{name_context}_outliers.geojson"
+    results_path = f"results/extraction_entities_snippet/{title_page}.geojson"
+    results_cleaned_path = f"results/extraction_entities_snippet/{title_page}_cleaned.geojson"
+    results_outliers_path = f"results/extraction_entities_snippet/{title_page}_outliers.geojson"
 
     delete_file(results_path)
     delete_file(results_cleaned_path)
@@ -183,12 +181,13 @@ def get_nearby_pages(page: str, lang: str = "it"):
 
     return landmarks
 
-def get_further_information(entities: dict, city = "Torino", lang: str = "it"): 
+def get_further_information(entities: dict, name_geographic_scope: str, lang: str): 
     """ Get the summary of the entities using wikipedia API.
 
     Args:
         entities: dictionary with the entities
-        city: name of the city
+        name_geographic_scope: name of the geographic scope of the article
+        lang: language of the wikipedia article
     
     Returns:
         entities: dictionary with the summary of the entities
@@ -198,8 +197,8 @@ def get_further_information(entities: dict, city = "Torino", lang: str = "it"):
     for ent in entities: 
         to_search = ent
         title = None
-        if not ent.__contains__(city):
-            to_search = ent+" ("+city+")"
+        if not ent.__contains__(name_geographic_scope):
+            to_search = ent+" ("+name_geographic_scope+")"
         try:
             page_ent = wikipedia.page(to_search)
             entities[ent].append(page_ent.summary)
