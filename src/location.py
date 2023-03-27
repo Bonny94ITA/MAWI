@@ -56,7 +56,7 @@ def merge_entities(features: list, entities_final: list):
     
     return entities_final
 
-def search_entities_geopy(searchable_entities: dict, geographic_scope: dict, title_page: str, lang: str, locator: Nominatim, features: list = list()): 
+def search_entities_geopy(searchable_entities: dict, geographic_scope: dict, path_results: str, lang: str, locator: Nominatim, features: list = list()): 
     """ Search the entities in the searchable_entities dictionary with GeoPy library
         and return the corrispondent features geojson.
 
@@ -99,13 +99,13 @@ def search_entities_geopy(searchable_entities: dict, geographic_scope: dict, tit
     df['to_search'] = df['to_search'].apply(lambda to_search: to_search['street'])
 
     print(df)
-    df.to_csv("results/dataframe.csv")
+    df.to_csv(path_results+"/dataframe.csv")
     
     geojson_entities = to_geojson(df)
 
     # Save entities
 
-    results_file_path = f"results/extraction_entities_snippet/{title_page}.txt"
+    results_file_path = path_results+"/entities_founded.txt"
     delete_file(results_file_path)
     entities_final = df['entity'].to_list()
     entities_final = merge_entities(features, entities_final)

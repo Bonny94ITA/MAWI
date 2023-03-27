@@ -45,7 +45,7 @@ def delete_file(file_path):
     if os.path.exists(file_path):
         os.remove(file_path)
 
-def save_results(features: list, title_page: str): 
+def save_results(features: list, path_results: str, title_page: str): 
     """ Save results of the search
     
     Args: 
@@ -56,9 +56,10 @@ def save_results(features: list, title_page: str):
 
     geojson = FeatureCollection(features)
 
-    results_path = f"results/extraction_entities_snippet/{title_page}.geojson"
-    results_cleaned_path = f"results/extraction_entities_snippet/{title_page}_cleaned.geojson"
-    results_outliers_path = f"results/extraction_entities_snippet/{title_page}_outliers.geojson"
+    # TODO: CAMBIARE PATH A TUTTI E 3!
+    results_path = path_results+"/"+{title_page}+".geojson" 
+    results_cleaned_path = path_results+"/"+{title_page}+"_cleaned.geojson"
+    results_outliers_path = path_results+"/"+{title_page}+"_outliers.geojson"
 
     delete_file(results_path)
     delete_file(results_cleaned_path)

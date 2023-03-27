@@ -1,15 +1,16 @@
 from src.model import create_model, create_geocoder
-from src.preprocessing import get_context
+from src.preprocessing import get_context, create_directory
 from src.entities import get_entities_snippet
 from src.location import search_entities_geopy, get_geographic_scope
 from src.utils import save_results, get_further_information, read_article
 
 from datetime import datetime
 
-#cities = ["Torino", "Roma", "Bologna", "Milano", "Liberty a Torino", "Barocco a Milano"]
-
 path_articles1_it = f'input/articles1/it/texts/'
 path_articles1_en = f'input/articles1/en/texts/'
+path_articles2 = f'input/articles2/it/texts/'
+
+path_results = f'results/extraction_entities_snippet/'
 
 titles_articles = [("Torino", "it")]
 
@@ -20,10 +21,15 @@ geocoder = create_geocoder()
 
 for (title, lang) in titles_articles:
     # Read wiki articles from file
-    path_article = path_articles1_it+title+".txt"
+    if lang == "it":
+        path_article = path_articles1_it+title+".txt"
+    else:
+        path_article = path_articles1_en+title+".txt"
     startTime = datetime.now()
     text = read_article(path_article)
-    print("Read article takes: ", str(datetime.now() - startTime))
+    print("-----------------------read_article : ", str(datetime.now() - startTime))
+
+    path_result_article = create_directory(title, path_results, lang)
 
     if lang == "it":
         nlp = model_it
@@ -38,7 +44,7 @@ for (title, lang) in titles_articles:
 
     startTime = datetime.now()
     searchable_entities, sentence_dict = get_entities_snippet(doc)
-    print("Get_entities_snippet method takes: ", str(datetime.now() - startTime))
+    print("----------------------get_entities_snippet : ", str(datetime.now() - startTime))
 
     #startTime = datetime.now()
     #searchable_entities = get_further_information(searchable_entities, geographic_scope['name'], lang)
@@ -47,18 +53,18 @@ for (title, lang) in titles_articles:
 
     startTime = datetime.now()
     # Search addresses with Google
-    features, entities_final = search_entities_geopy(searchable_entities, geographic_scope, title, lang, geocoder)
-    print("search_entities_geopy method takes: ", str(datetime.now() - startTime)) 
+    features, entities_final = search_entities_geopy(searchable_entities, geographic_scope, path_result_article, lang, geocoder)
+    print("----------------------search_entities_geopy : ", str(datetime.now() - startTime)) 
 
     # Search nearby pages -> TODO: da aggiungere?
 
-    save_results(features, title)
+    save_results(features, path_result_article, title)
 
     print("number of entities: ", len(searchable_entities))
 
     entities_complete = list(searchable_entities.keys())
     entities_complete.sort(key= str.lower)
-    file_path_entities_complete = f'results/extraction_entities_snippet/{title}_entities.txt'
+    file_path_entities_complete = path_result_article+"/"+title+"_entities.txt" 
 
     with open(file_path_entities_complete, 'w', encoding='utf-8') as f:
         for entity in entities_complete:
@@ -73,7 +79,7 @@ for (title, lang) in titles_articles:
     
     for page in nearby_pages:
         print("Current page to analyze: ", page)
-        text = wiki_content(page) # TO DO : sostituire con la funzione read_article????
+        text = wiki_content(page)
         doc = nlp(text)
 
         searchable_entities, _ = get_entities_snippet(doc, searchable_entities)

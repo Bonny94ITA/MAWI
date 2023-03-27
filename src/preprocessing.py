@@ -4,8 +4,24 @@ import string
 import requests
 import wikipediaapi
 from os.path import exists
+from os import makedirs
 
 from src.utils import get_polygon
+
+def create_directory(dir_name, path_results, lang):
+    """ Create a directory for the results of the article
+    
+    Args:
+        title: title of the article
+        lang: language of the article
+        dir_name: name of the directory
+    """
+
+    path_results_article = path_results+"articles1/"+lang+"/"+dir_name
+    if not exists(path_results_article):
+        makedirs(path_results_article)
+    
+    return path_results_article
 
 
 def create_whitelist(): 
@@ -195,7 +211,7 @@ def get_geographic_scope(ents: list):
     # TODO: improve the function to get the geographic scope
     pass
 
-def get_context(title: str, lang: str):
+def get_context(title: str, lang: str): # TODO: DELETE!
     """ Get the context of the title page in wikipedia with MediaWiki API.
 
     Args: 
