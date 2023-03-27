@@ -6,6 +6,7 @@ from geojson import Feature, Point, FeatureCollection
 from geopy.extra.rate_limiter import RateLimiter
 from geopy.geocoders import Nominatim
 from geopy import distance
+from geopy.point import Point as GeoPoint
 
 from spacy.tokens import Doc
 
@@ -55,12 +56,6 @@ def merge_entities(features: list, entities_final: list):
     
     return entities_final
 
-# TODO: posso modificare i parametri di applicazione -> geocode può avere come input un dizionario, chiave-valore con "street", "city", "country" e così via. 
-
-# Per il geographic scope potrei direttamente utilizzare geopy per individuare le coordinate della città prima di tutto, e la regione in cui è situata. 
-
-# dalla regione (state nella query) posso ottenere il poligono della regione, può servirmi per fare query nel futuro dentro questo poligono
-
 def search_entities_geopy(searchable_entities: dict, geographic_scope: dict, title_page: str, lang: str, locator: Nominatim, features: list = list()): 
     """ Search the entities in the searchable_entities dictionary with GeoPy library
         and return the corrispondent features geojson.
@@ -79,24 +74,28 @@ def search_entities_geopy(searchable_entities: dict, geographic_scope: dict, tit
 
     geocode = RateLimiter(locator.geocode, min_delay_seconds=1)
     name_geographic_scope = geographic_scope['name']
+    bbox = geographic_scope['bbox']
+    country_code = geographic_scope['country_code']
     locations = []
 
     # Modify the searchable entities to search with the context
     for ent in searchable_entities.keys():
-        to_search = ent
-        if not ent.__contains__(name_geographic_scope): 
-            to_search = to_search + " " + name_geographic_scope
+        to_search = {"street": ent}
+        #if not ent.__contains__(name_geographic_scope): 
+        #    to_search = {"street": ent + " " + name_geographic_scope}
         locations.extend([[ent, to_search, searchable_entities[ent]]])
 
     df = pd.DataFrame(locations, columns=['entity', 'to_search', 'snippet'])
     df.head()
-    df['address'] = df['to_search'].apply(partial(geocode, language=lang, exactly_one=False))
+    df['address'] = df['to_search'].apply(partial(geocode, language=lang, viewbox=bbox, country_codes=[country_code], bounded=True, exactly_one=False))
     df = df[pd.notnull(df['address'])]
 
     df['address'] = df['address'].apply(lambda list_loc: most_close_location(list_loc, geographic_scope))
     df['coordinates'] = df['address'].apply(lambda loc: Point((loc.longitude, loc.latitude)) if loc else None)
     df['name_location'] = df['address'].apply(lambda loc: loc.address if loc else None)
     df[['class', 'type']] = df['address'].apply(lambda loc: pd.Series([loc.raw['class'], loc.raw['type']]) if loc else None)
+
+    df['to_search'] = df['to_search'].apply(lambda to_search: to_search['street'])
 
     print(df)
     df.to_csv("results/dataframe.csv")
@@ -190,14 +189,20 @@ def get_geographic_scope(article: Doc, lang: str, geocoder: Nominatim):
 
     state_name = location.raw['address']['state']
     to_search = {"state": state_name}
-    state_location = geocoder.geocode(to_search, language=lang, geometry='geojson', exactly_one=True)
-    state_geometry = state_location.raw['geojson']['coordinates']
+    state_location = geocoder.geocode(to_search, language=lang, exactly_one=True)
+    bounding_box = state_location.raw['boundingbox']
+
+    bbox = [GeoPoint(float(bounding_box[1]), float(bounding_box[2])), GeoPoint(float(bounding_box[0]), float(bounding_box[3]))]
+
+    country_code = location.raw['address']['country_code']
+
 
     geographic_scope = {
         "name": most_common_gpe,
         "latitude": location.latitude,
         "longitude": location.longitude,
-        "state": state_geometry
+        "bbox": bbox, 
+        "country_code": country_code
     }
 
 
