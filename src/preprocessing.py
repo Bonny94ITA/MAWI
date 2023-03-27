@@ -17,7 +17,7 @@ def create_whitelist():
     Returns:
         whitelist: list of words to capitalize
     """
-    whitelist = ['strada', 'cimitero', 'teatro', 'mercato', 'parco', 'università', 'museo', 'cinema', 'aeroporto', 'chiesa', 'giardino', 'ospedale']
+    whitelist = ['strada', 'cimitero', 'teatro', 'mercato', 'parco', 'università', 'museo', 'cinema', 'aeroporto', 'chiesa', 'giardino', 'ospedale', 'piazza', 'via']
 
     return whitelist
 

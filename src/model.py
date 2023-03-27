@@ -29,6 +29,6 @@ def create_geocoder():
     Returns:
         geocoder: the geocoder
     """
-    geocoder = Nominatim(user_agent="PoI_geocoding")
+    geocoder = Nominatim(timeout=5, user_agent="PoI_geocoding")
     return geocoder
 

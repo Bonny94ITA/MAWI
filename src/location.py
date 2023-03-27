@@ -76,11 +76,12 @@ def search_entities_geopy(searchable_entities: dict, geographic_scope: dict, tit
     name_geographic_scope = geographic_scope['name']
     bbox = geographic_scope['bbox']
     country_code = geographic_scope['country_code']
+    state = geographic_scope['state']
     locations = []
 
     # Modify the searchable entities to search with the context
     for ent in searchable_entities.keys():
-        to_search = {"street": ent}
+        to_search = {"street": ent, "state": state, "city": name_geographic_scope}
         #if not ent.__contains__(name_geographic_scope): 
         #    to_search = {"street": ent + " " + name_geographic_scope}
         locations.extend([[ent, to_search, searchable_entities[ent]]])
@@ -202,7 +203,8 @@ def get_geographic_scope(article: Doc, lang: str, geocoder: Nominatim):
         "latitude": location.latitude,
         "longitude": location.longitude,
         "bbox": bbox, 
-        "country_code": country_code
+        "country_code": country_code,
+        "state": state_name
     }
 
 

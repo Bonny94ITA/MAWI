@@ -40,15 +40,15 @@ for (title, lang) in titles_articles:
     searchable_entities, sentence_dict = get_entities_snippet(doc)
     print("Get_entities_snippet method takes: ", str(datetime.now() - startTime))
 
-    startTime = datetime.now()
-    searchable_entities = get_further_information(searchable_entities, geographic_scope['name'], lang)
-    print("Get_further_information method takes: ", str(datetime.now() - startTime))
+    #startTime = datetime.now()
+    #searchable_entities = get_further_information(searchable_entities, geographic_scope['name'], lang)
+    #print("Get_further_information method takes: ", str(datetime.now() - startTime))
 
 
     startTime = datetime.now()
     # Search addresses with Google
     features, entities_final = search_entities_geopy(searchable_entities, geographic_scope, title, lang, geocoder)
-    print("search_entities_geopy method takes: ", str(datetime.now() - startTime)) # TODO: cercare di diminuire i tempi
+    print("search_entities_geopy method takes: ", str(datetime.now() - startTime)) 
 
     # Search nearby pages -> TODO: da aggiungere?
 
