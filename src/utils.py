@@ -57,9 +57,9 @@ def save_results(features: list, path_results: str, title_page: str):
     geojson = FeatureCollection(features)
 
     # TODO: CAMBIARE PATH A TUTTI E 3!
-    results_path = path_results+"/"+{title_page}+".geojson" 
-    results_cleaned_path = path_results+"/"+{title_page}+"_cleaned.geojson"
-    results_outliers_path = path_results+"/"+{title_page}+"_outliers.geojson"
+    results_path = path_results+"/"+title_page+".geojson" 
+    results_cleaned_path = path_results+"/"+title_page+"_cleaned.geojson"
+    results_outliers_path = path_results+"/"+title_page+"_outliers.geojson"
 
     delete_file(results_path)
     delete_file(results_cleaned_path)

@@ -1,0 +1,410 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.727798,
+                    37.971398
+                ]
+            },
+            "properties": {
+                "entity": "Museo dell'Acropoli",
+                "name_location": "Vecchio Museo dell'Acropoli, Περίπατος Ακρόπολης (Νότια κλιτύς), Αστεροσκοπείο, Αναφιώτικα, Άνω Πετράλωνα, 3η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 105 58, Grecia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Nel XXI secolo è stata al centro dell'attenzione di tutto il mondo per aver organizzato con successo i Giochi della XXVIII Olimpiade nel 2004 e per l'inaugurazione del nuovo Museo dell'Acropoli nel 2009, che ha riaperto il dibattito riguardante i Marmi del Partenone....",
+                    "...Museo dell'acropoli di Atene, di Bernard Tschumi ;...",
+                    "*...Museo dell'Acropoli ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.731185,
+                    37.990164
+                ]
+            },
+            "properties": {
+                "entity": "Attica",
+                "name_location": "Attica, 28ης Οκτωβρίου, Μουσείο, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 106 82, Grecia",
+                "class": "amenity",
+                "type": "bank",
+                "snippet": [
+                    "*...È un comune greco di 655 780 abitanti, capitale della Repubblica Ellenica, capoluogo dell'unità periferica di Atene Centrale e della periferia dell'Attica....",
+                    "*...Atene sorge su una pianura al centro dell'Attica e costituisce un'unica conurbazione con il Pireo e i comuni dell'omonima prefettura....",
+                    "*...Da metà marzo ad inizio maggio c'è un'intensa fioritura in tutte le zone circostanti, e in generale in tutta la provincia dell'Attica, la regione di Atene....",
+                    "...Tuttavia, anche Poseidone la voleva sotto la sua protezione, poiché egli era il protettore dell'Attica....",
+                    "*...Dalla fine della seconda guerra mondiale nella conurbazione di Atene e nella regione dell'Attica sono cresciuti diversi centri industriali, sia nella zona di Elefsina, che lungo l'autostrada verso le città di Lamia e Larissa....",
+                    "...Periferiarca dell'Attica (ossia, governatore) è dal settembre 2014 Rena Dourou...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.743572,
+                    37.986797
+                ]
+            },
+            "properties": {
+                "entity": "Europa",
+                "name_location": "Europa, Ιπποκράτους, Πευκάκια, Συνοικία Γκύζη, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 114 72, Grecia",
+                "class": "shop",
+                "type": "doors",
+                "snippet": [
+                    "*...È una delle città d'Europa con il maggior numero di giorni di sole all'anno, visto che si possono contare in media 179 giorni durante i quali il sole non è coperto da nuvole nemmeno in un istante, e altri 157 durante i quali il sole è coperto da nuvole solo per mezz'ora....",
+                    "*...La temperatura effettiva percepita è però minore di quella di altre città d'Europa per il basso tasso d'umidità....",
+                    "*...Atene risulta pertanto, insieme a Madrid, una delle città più aride d'Europa....",
+                    "*...Atene possiede uno dei maggiori parchi autobus a metano in Europa e di filobus, per un totale di 293 linee che si sviluppano per circa 8500 chilometri con 8000 fermate....",
+                    "...La rete di filobus è la più estesa dell'Europa occidentale (392 chilometri)....",
+                    "*...La città è inoltre tagliata da nord a sud tramite la tangenziale del Cefiso (Leoforos Kifisias, dal nome del fiume sul quale è stata in parte costruita, è infatti sopraelevata per un lungo tratto), che costituisce il prolungamento urbano dell'autostrada per le città settentrionali di Lamia, Larissa e Salonicco, e giunge fino al Pireo concludendosi in uno degli svincoli autostradali più grandi d'Europa...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.723146,
+                    37.975068
+                ]
+            },
+            "properties": {
+                "entity": "Odeon di Agrippa",
+                "name_location": "Odeon di Agrippa, Οδός Παναθηναίων, Μοναστηράκι, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 105 55, Grecia",
+                "class": "historic",
+                "type": "archaeological_site",
+                "snippet": [
+                    "*...Odeon di Agrippa ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.727028,
+                    37.974197
+                ]
+            },
+            "properties": {
+                "entity": "Torre dei Venti",
+                "name_location": "Torre dei venti, Διογένους, Μοναστηράκι, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 105 56, Grecia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Torre dei Venti ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.724559,
+                    37.970876
+                ]
+            },
+            "properties": {
+                "entity": "Odeon di Erode Attico",
+                "name_location": "Odeo di Erode Attico, Περίπατος Ακρόπολης (Νότια κλιτύς), Αστεροσκοπείο, Αναφιώτικα, Άνω Πετράλωνα, 3η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 105 58, Grecia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Odeon di Erode Attico ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.732013,
+                    37.970187
+                ]
+            },
+            "properties": {
+                "entity": "Arco di Adriano",
+                "name_location": "Arco di Adriano, Βασιλίσσης Αμαλίας, 2η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 105 58, Grecia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Arco di Adriano ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.728471,
+                    37.968533
+                ]
+            },
+            "properties": {
+                "entity": "Museo dell'acropoli di Atene",
+                "name_location": "Museo dell'Acropoli di Atene, 15, Διονυσίου Αρεοπαγίτου, Αστεροσκοπείο, Αναφιώτικα, Άνω Πετράλωνα, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 117 42, Grecia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Museo dell'acropoli di Atene, di Bernard Tschumi ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.753596,
+                    37.981752
+                ]
+            },
+            "properties": {
+                "entity": "Athens Concert Hall",
+                "name_location": "Μεγάρο Μουσικής Αθηνών, Πέτρου Κόκκαλη, Κολωνάκι, Συνοικία Κολωνακίου, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 115 28, Grecia",
+                "class": "amenity",
+                "type": "parking",
+                "snippet": [
+                    "*...Auditorium Megaro Mousikis, conosciuto anche come Athens Concert Hall, con varie sale, la più grande con 1961 posti ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.744681,
+                    37.974982
+                ]
+            },
+            "properties": {
+                "entity": "Museo bizantino",
+                "name_location": "Βυζαντινό και Χριστιανικό Μουσείο, 22, Βασιλίσσης Σοφίας, Κολωνάκι, Συνοικία Κολωνακίου, 2η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 106 75, Grecia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "...Biblioteca della civiltà bizantina presso il Museo Bizantino e Cristiano ;...",
+                    "*...Museo bizantino ;...",
+                    "...Museo bizantino e cristiano ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.740345,
+                    37.976031
+                ]
+            },
+            "properties": {
+                "entity": "Museo Benaki",
+                "name_location": "museo Benaki, 1, Κουμπάρη, Κολωνάκι, Συνοικία Κολωνακίου, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 106 74, Grecia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "...Biblioteca del Museo Benaki ;...",
+                    "...Museo Benaki della civiltà greca con annessa ricchissima biblioteca ;...",
+                    "...Museo Benaki di arte e civiltà islamica ;...",
+                    "*...Museo Benaki (nuova sede) di via Pireos, sede di mostre specializzate di architettura moderna ;...",
+                    "*...Museo Benaki – Pinacoteca Chatzikyriakou-Gkika di via Kriezotou (Syntagma), dedicato alla generazione artistica degli anni trenta, con annessa biblioteca ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.734031,
+                    37.976045
+                ]
+            },
+            "properties": {
+                "entity": "Syntagma",
+                "name_location": "ΣΥΝΤΑΓΜΑ, Πλατεία Συντάγματος, Ακαδημία, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 105 57, Grecia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "...Esposizioni archeologiche di Syntagma, Panepistimio, Evangelismos e Dafni, nelle omonime stazioni della metropolitana ;...",
+                    "*...Museo Benaki – Pinacoteca Chatzikyriakou-Gkika di via Kriezotou (Syntagma), dedicato alla generazione artistica degli anni trenta, con annessa biblioteca ;...",
+                    "*...1: 97 570 (comprendente il centro di Atene con il cosiddetto triangolo commerciale: Syntagma, Kolonaki, Ilisia, Exarchia, Omonia, Monastiraki, Plaka e Koukaki) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.735385,
+                    37.977827
+                ]
+            },
+            "properties": {
+                "entity": "Iliou Melathron",
+                "name_location": "Νομισματικό Μουσείο, 12, Ελευθερίου Βενιζέλου, Κολωνάκι, Συνοικία Κολωνακίου, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 106 71, Grecia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Museo numismatico ospitato nell'Iliou Melathron, la residenza ateniese di Heinrich Schliemann, lo scopritore di Troia e di Micene...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.725263,
+                    37.963016
+                ]
+            },
+            "properties": {
+                "entity": "National Museum of Contemporary Art",
+                "name_location": "Εθνικό Μουσείο Σύγχρονης Τέχνης, Καλλιρόης, Κυνοσάργους, Συνοικία Νέου Κόσμου, 2η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 117 43, Grecia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "...Nel marzo 2014 aprirà i battenti la nuova sede del Museo d'arte contemporanea, il National Museum of Contemporary Art, in Syngrou Avenue, nell'edificio rinnovato dello storico birrificio Fix...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.724514,
+                    37.962918
+                ]
+            },
+            "properties": {
+                "entity": "Syngrou Avenue",
+                "name_location": "Ανδρέα Συγγρού, Κουκάκι, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 117 41, Grecia",
+                "class": "highway",
+                "type": "trunk",
+                "snippet": [
+                    "*...Nel marzo 2014 aprirà i battenti la nuova sede del Museo d'arte contemporanea, il National Museum of Contemporary Art, in Syngrou Avenue, nell'edificio rinnovato dello storico birrificio Fix...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.727242,
+                    37.965208
+                ]
+            },
+            "properties": {
+                "entity": "Fix",
+                "name_location": "Fix, 64, Ανδρέα Συγγρού, Γαργαρέττα, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 117 43, Grecia",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...Nel marzo 2014 aprirà i battenti la nuova sede del Museo d'arte contemporanea, il National Museum of Contemporary Art, in Syngrou Avenue, nell'edificio rinnovato dello storico birrificio Fix...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.751863,
+                    37.980704
+                ]
+            },
+            "properties": {
+                "entity": "Venizelos",
+                "name_location": "Μουσείο \"Ελευθέριος Βενιζέλος\", Δεινοκράτους, Κολωνάκι, Συνοικία Κολωνακίου, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 115 21, Grecia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "...Venizelos\", Pireo-Atene-Corinto e Corinto-Aeroporto \"El....",
+                    "...Venizelos\")...",
+                    "*...Venizelos\")...",
+                    "...Venizelos;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.746804,
+                    38.057387
+                ]
+            },
+            "properties": {
+                "entity": "Attiki Odos",
+                "name_location": "Μεταμόρφωση, Atene - Salonicco - Evzoni, Μεταμόρφωση, Δήμος Μεταμορφώσεως, Περιφερειακή Ενότητα Βορείου Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 144 51, Grecia",
+                "class": "highway",
+                "type": "motorway_junction",
+                "snippet": [
+                    "*...A nord Attiki Odos, che collega Elefsina e l'autostrada per Corinto con l'Aeroporto El....",
+                    "...A est la tangenziale del monte Imetto (Hymettus Ring Road) che si snoda sulle pendici del monte Imetto con una lunga serie di gallerie e collega l'Attiki Odos con i sobborghi meridionali;...",
+                    "*...L'Aeroporto internazionale di Atene Elefthérios Venizélos è situato nel comune di Spata-Artemida, a circa 30 km a est della capitale, ed è collegato al resto della città tramite metropolitana, ferrovia suburbana e la tangenziale Attiki Odos...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.721111,
+                    37.993313
+                ]
+            },
+            "properties": {
+                "entity": "Larissis",
+                "name_location": "ΑΦΕΤΗΡΙΑ (ΣΤΑΘΜΟΣ ΛΑΡΙΣΗΣ), Δομοκού, Κολωνός, 4η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 104 44, Grecia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...La città dispone di diverse stazioni ferroviarie, tra cui la stazione Larissis, situata nel quartiere di Kolos, attiva dal 1904 e gestita da OSE, la stazione ferroviaria del Pireo, e varie stazioni periferiche, come la stazione Paiania–Kantza...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.740398,
+                    37.968436
+                ]
+            },
+            "properties": {
+                "entity": "Stadio Panathinaiko",
+                "name_location": "Παναθηναϊκό Στάδιο, Άγρας, Συνοικία Παγκρατίου, 2η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 116 35, Grecia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Stadio Panathinaiko, l'antico stadio olimpico, ricostruito nel 1895 per ospitare i Giochi olimpici del 1896...."
+                ]
+            }
+        }
+    ]
+}

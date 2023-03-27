@@ -1,0 +1,3575 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.685805,
+                    45.070965
+                ]
+            },
+            "properties": {
+                "entity": "Palazzo Madama",
+                "name_location": "Palazzo Madama, Centro, Circoscrizione 1, Turin, Torino, Piedmont, 10123, Italy",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...Many of Turin's public squares, castles, gardens and elegant palazzi, such as the Palazzo Madama, were built between the 16th and 18th centuries....",
+                    "*...Via Garibaldi traces the exact path of the Roman city's decumanus which began at the Porta Decumani, later incorporated into the Castello or Palazzo Madama....",
+                    "...The half-pedestrianized square hosts some significant buildings such as Palazzo Reale (Former Savoy Royal House), the Palazzo Madama (which previously hosted the Savoy senate and, for few years, the Italian senate after Italian unification), the former Baroque Teatro Regio di Torino (rebuilt in modern style in the 1960s, after being destroyed by fire), the Royal Library of Turin which hosts the Leonardo da Vinci self-portrait, and the baroque Royal Church of San Lorenzo....",
+                    "*...Turin is home to Palazzo Chiablese, the Royal Armoury, the Royal Library, Palazzo Madama, Palazzo Carignano, Villa della Regina, and the Valentino Castle...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.684351,
+                    45.068435
+                ]
+            },
+            "properties": {
+                "entity": "Museo Egizio",
+                "name_location": "Egyptian Museum, 6, Via Accademia delle Scienze, Centro, Circoscrizione 1, Turin, Torino, Piedmont, 10123, Italy",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "...In addition, the city is home to museums such as the Museo Egizio and the Mole Antonelliana, the city's architectonical symbol, which in turn hosts the Museo Nazionale del Cinema...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.693192,
+                    45.068989
+                ]
+            },
+            "properties": {
+                "entity": "Mole Antonelliana",
+                "name_location": "Mole Antonelliana, Via Alessandro Riberi, Borgo Nuovo, Circoscrizione 1, Turin, Torino, Piedmont, 10124, Italy",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...In addition, the city is home to museums such as the Museo Egizio and the Mole Antonelliana, the city's architectonical symbol, which in turn hosts the Museo Nazionale del Cinema....",
+                    "...Some of the most iconic landmarks of the city, like the Mole Antonelliana, the Egyptian Museum, the Gran Madre di Dio church and Piazza Vittorio Veneto were built in this period....",
+                    "...Not far from Via Po stands the symbol of Turin, namely the Mole Antonelliana, so named after the architect who built it, Alessandro Antonelli....",
+                    "...Main church of the district is the Chiesa di Nostra Signora del Suffragio e Santa Zita, which with its 83 m (272 ft) height of its bell tower, is well known to be the fifth tallest structure in the city of Turin, after the Mole Antonelliana, the Intesa-Sanpaolo skyscraper, the Torre Littoria and the two pennons of the Juventus Stadium....",
+                    "...1956 saw the opening of the National Museum of Cinema, first housed in the Palazzo Chiablese and then, from 2000, in the imposing headquarters of the Mole Antonelliana...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.702332,
+                    45.070262
+                ]
+            },
+            "properties": {
+                "entity": "Augusta Taurinorum",
+                "name_location": "Brasseria Augusta Taurinorum, 27, Corso Regina Margherita, Vanchiglia, Circoscrizione 7, Turin, Torino, Piedmont, 10124, Italy",
+                "class": "amenity",
+                "type": "pub",
+                "snippet": [
+                    "...It is believed that a Roman colony was established after 28 BC under the name of Julia Augusta Taurinorum (modern Turin)....",
+                    "*...In the first century BC (probably 28 BC), the Romans founded Augusta Taurinorum...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.685221,
+                    45.070444
+                ]
+            },
+            "properties": {
+                "entity": "Castello",
+                "name_location": "Castello, Centro, Circoscrizione 1, Turin, Torino, Piedmont, Italy",
+                "class": "highway",
+                "type": "footway",
+                "snippet": [
+                    "*...Via Garibaldi traces the exact path of the Roman city's decumanus which began at the Porta Decumani, later incorporated into the Castello or Palazzo Madama....",
+                    "...In the second half of that century, a second enlargement of the walls was planned and executed, with the building of the arcaded Via Po, connecting Piazza Castello with the bridge on the Po through the regular street grid....",
+                    "...Via Roma runs between Piazza Carlo Felice and Piazza Castello....",
+                    "...The section of the street between Piazza San Carlo and Piazza Castello was built in an eclectic style, with arcades characterised by Serliana-type arches....",
+                    "...On the northern edge of Via Roma stands Piazza Castello, regarded as the heart of the city....",
+                    "...Moreover, Piazza Castello hosts a Fascist era building, the Torre Littoria, a sort of skyscraper which was supposed to become the headquarters of the Fascist party, although it never served as such....",
+                    "...The building's style is quite different from the Baroque style of Piazza Castello....",
+                    "...In Piazza Castello converge some of the main streets of the city centre....",
+                    "...Just behind Piazza Castello stands the Turin Cathedral, dedicated to Saint John the Baptist, which is the major church of the city....",
+                    "...It is a 1 km (0.6 mi) pedestrian street between Piazza Castello and Piazza Statuto which features some of the old shops of the city....",
+                    "...Another main street of downtown is Via Pietro Micca, which starts in Piazza Castello and ends in the large Piazza Solferino....",
+                    "...In the centre of the park stands the Castello del Valentino, built in the 17th century....",
+                    "...Today, Castello del Valentino serves as the faculty of Architecture of the Polytechnic University of Turin....",
+                    "...North of this area stands the GAM (Galleria d'Arte Moderna), one of the two Museum of Modern Arts of the Turin Metro area (the second and largest one is hosted in Castello di Rivoli, a former Savoy royal castle in the suburbs)....",
+                    "...As the Savoy family refused to allow her to be buried next to her husband in the Pantheon, her children had a mausoleum built for her in a similar form and on a smaller scale in Turin, next to the road to the Castello di Mirafiori...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.684037,
+                    45.073932
+                ]
+            },
+            "properties": {
+                "entity": "Porta Palatina",
+                "name_location": "Porta Palatina, Via Porta Palatina, Quadrilatero Romano, Circoscrizione 1, Turin, Torino, Piedmont, 10122, Italy",
+                "class": "amenity",
+                "type": "bicycle_rental",
+                "snippet": [
+                    "...The Porta Palatina, on the north side of the current city centre, is still preserved in a park near the cathedral...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.686133,
+                    45.07411
+                ]
+            },
+            "properties": {
+                "entity": "Manica Nuova",
+                "name_location": "Manica Nuova di Palazzo Reale, Via Venti Settembre, Quadrilatero Romano, Circoscrizione 1, Turin, Torino, Piedmont, 10152, Italy",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...Remains of the Roman-period theatre are preserved in the area of the Manica Nuova...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.682571,
+                    45.067715
+                ]
+            },
+            "properties": {
+                "entity": "Piazza San Carlo",
+                "name_location": "Piazza San Carlo, Centro, Circoscrizione 1, Turin, Torino, Piedmont, Italy",
+                "class": "highway",
+                "type": "footway",
+                "snippet": [
+                    "*...Piazza Reale (named Piazza San Carlo today) and Via Nuova (current Via Roma) were added along with the first enlargement of the walls, in the first half of the 17th century; in the same period the Palazzo Reale (Royal Palace of Turin) was also built....",
+                    "*...Buildings on the portion between Piazza Carlo Felice and Piazza San Carlo were designed by rationalist architect Marcello Piacentini....",
+                    "*...Porches are built in a continuous entablature and marked with double columns, to be consistent with those of Piazza San Carlo....",
+                    "*...The section of the street between Piazza San Carlo and Piazza Castello was built in an eclectic style, with arcades characterised by Serliana-type arches....",
+                    "*...Via Roma crosses one of the main squares of the city: the pedestrianized Piazza San Carlo, built by Carlo di Castellamonte in the 17th century....",
+                    "*...Piazza San Carlo arcades host the most ancient cafés of the city, such as Caffé Torino and Caffé San Carlo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.686503,
+                    45.031128
+                ]
+            },
+            "properties": {
+                "entity": "Via Nuova",
+                "name_location": "Via Nuova, Nizza Millefonti, Circoscrizione 8, Cavoretto, Turin, Torino, Piedmont, 10133, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Piazza Reale (named Piazza San Carlo today) and Via Nuova (current Via Roma) were added along with the first enlargement of the walls, in the first half of the 17th century; in the same period the Palazzo Reale (Royal Palace of Turin) was also built...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.680852,
+                    45.065327
+                ]
+            },
+            "properties": {
+                "entity": "Via Roma",
+                "name_location": "Via Roma, Centro, Circoscrizione 1, Turin, Torino, Piedmont, 10121, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Piazza Reale (named Piazza San Carlo today) and Via Nuova (current Via Roma) were added along with the first enlargement of the walls, in the first half of the 17th century; in the same period the Palazzo Reale (Royal Palace of Turin) was also built....",
+                    "*...Nonetheless, the main street of the city centre, Via Roma, was built during the Fascist era (from 1931 to 1937) as an example of Italian Rationalism, replacing former buildings already present in this area....",
+                    "*...Via Roma runs between Piazza Carlo Felice and Piazza Castello....",
+                    "*...To this day Via Roma is the street featuring the most fashionable boutiques of the city....",
+                    "*...Via Roma crosses one of the main squares of the city: the pedestrianized Piazza San Carlo, built by Carlo di Castellamonte in the 17th century....",
+                    "*...On the northern edge of Via Roma stands Piazza Castello, regarded as the heart of the city....",
+                    "*...As for the southern part of the street, Via Roma ends in Piazza Carlo Felice and in its Giardino Sambuy, a wide fenced garden right in the middle of the square....",
+                    "*...Parallel to Via Roma, the other two popular pedestrian streets, namely Via Lagrange and Via Carlo Alberto, cross the old town from Via Po to Corso Vittorio Emanuele II....",
+                    "*...The main street in the city centre, Via Roma, runs atop a tunnel built during the fascist era (when Via Roma itself was totally refurbished and took on its present-day aspect)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.686963,
+                    45.073053
+                ]
+            },
+            "properties": {
+                "entity": "Palazzo Reale",
+                "name_location": "Palazzo Reale, Piazzetta Reale, Centro, Circoscrizione 1, Turin, Torino, Piedmont, 10123, Italy",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...Piazza Reale (named Piazza San Carlo today) and Via Nuova (current Via Roma) were added along with the first enlargement of the walls, in the first half of the 17th century; in the same period the Palazzo Reale (Royal Palace of Turin) was also built....",
+                    "*...The half-pedestrianized square hosts some significant buildings such as Palazzo Reale (Former Savoy Royal House), the Palazzo Madama (which previously hosted the Savoy senate and, for few years, the Italian senate after Italian unification), the former Baroque Teatro Regio di Torino (rebuilt in modern style in the 1960s, after being destroyed by fire), the Royal Library of Turin which hosts the Leonardo da Vinci self-portrait, and the baroque Royal Church of San Lorenzo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.686896,
+                    45.070385
+                ]
+            },
+            "properties": {
+                "entity": "Via Po",
+                "name_location": "Via Po, Centro, Circoscrizione 1, Turin, Torino, Piedmont, 10123, Italy",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...In the second half of that century, a second enlargement of the walls was planned and executed, with the building of the arcaded Via Po, connecting Piazza Castello with the bridge on the Po through the regular street grid....",
+                    "*...Among them, one of the most significant is the arcaded Via Po, built by Amedeo di Castellamonte in 1868 and featuring some interesting buildings, such as the first and original building of the University of Turin and the historical Caffè Fiorio, which was the favourite café of the 19th-century politicians....",
+                    "*...Via Po ends in Piazza Vittorio Veneto (simply called Piazza Vittorio locally), the largest Baroque square in Europe and today heart of Turin nightlife....",
+                    "*...Parallel to Via Roma, the other two popular pedestrian streets, namely Via Lagrange and Via Carlo Alberto, cross the old town from Via Po to Corso Vittorio Emanuele II....",
+                    "*...Not far from Via Po stands the symbol of Turin, namely the Mole Antonelliana, so named after the architect who built it, Alessandro Antonelli...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.68684,
+                    45.070311
+                ]
+            },
+            "properties": {
+                "entity": "Piazza Castello",
+                "name_location": "Piazza Castello, Centro, Circoscrizione 1, Turin, Torino, Piedmont, 10123, Italy",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...In the second half of that century, a second enlargement of the walls was planned and executed, with the building of the arcaded Via Po, connecting Piazza Castello with the bridge on the Po through the regular street grid....",
+                    "*...Via Roma runs between Piazza Carlo Felice and Piazza Castello....",
+                    "*...The section of the street between Piazza San Carlo and Piazza Castello was built in an eclectic style, with arcades characterised by Serliana-type arches....",
+                    "*...On the northern edge of Via Roma stands Piazza Castello, regarded as the heart of the city....",
+                    "*...Moreover, Piazza Castello hosts a Fascist era building, the Torre Littoria, a sort of skyscraper which was supposed to become the headquarters of the Fascist party, although it never served as such....",
+                    "*...The building's style is quite different from the Baroque style of Piazza Castello....",
+                    "*...In Piazza Castello converge some of the main streets of the city centre....",
+                    "*...Just behind Piazza Castello stands the Turin Cathedral, dedicated to Saint John the Baptist, which is the major church of the city....",
+                    "*...It is a 1 km (0.6 mi) pedestrian street between Piazza Castello and Piazza Statuto which features some of the old shops of the city....",
+                    "*...Another main street of downtown is Via Pietro Micca, which starts in Piazza Castello and ends in the large Piazza Solferino...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.687674,
+                    45.069617
+                ]
+            },
+            "properties": {
+                "entity": "Po",
+                "name_location": "Po, 4, Via Po, Centro, Circoscrizione 1, Turin, Torino, Piedmont, 10123, Italy",
+                "class": "amenity",
+                "type": "pharmacy",
+                "snippet": [
+                    "...The city is mainly on the western bank of the Po River, below its Susa Valley, and is surrounded by the western Alpine arch and Superga Hill....",
+                    "...Historical affiliations\n Roman Republic 58–27 BC \n Roman Empire 27 BC–285 AD \n Western Roman Empire 285–476 \n Kingdom of Odoacer 476–493 \n Ostrogothic Kingdom 493–553 \n Eastern Roman Empire 553–569 \n Lombard Kingdom 569–773 \n Carolingian Empire 773–888 \n March of Ivrea 888–941 \n March of Turin 941–1046 \n County of Savoy 1046–1416\n Duchy of Savoy 1416–1720 \n Kingdom of Sardinia 1720–1792 \n First French Republic 1792–1804 \n First French Empire 1804–1814 \n Kingdom of Sardinia 1814–1861 \n Kingdom of Italy 1861–1943 \n Italian Social Republic 1943–1945 \n Kingdom of Italy 1945–1946 \n Italian Republic 1946–present\nThe Taurini were an ancient Celto-Ligurian Alpine people, who occupied the upper valley of the Po River, in the center of modern Piedmont....",
+                    "*...In the second half of that century, a second enlargement of the walls was planned and executed, with the building of the arcaded Via Po, connecting Piazza Castello with the bridge on the Po through the regular street grid....",
+                    "*...Four major rivers pass through the city: the Po and three of its tributaries, the Dora Riparia (once known as Duria Minor by the Romans, from the Celtic noun duria meaning \"water\"), the Stura di Lanzo and the Sangone....",
+                    "...Circoscrizione 8: San Salvario – Cavoretto – Borgo Po – Nizza Millefonti – Lingotto – Filadelfia ....",
+                    "...Among them, one of the most significant is the arcaded Via Po, built by Amedeo di Castellamonte in 1868 and featuring some interesting buildings, such as the first and original building of the University of Turin and the historical Caffè Fiorio, which was the favourite café of the 19th-century politicians....",
+                    "...Via Po ends in Piazza Vittorio Veneto (simply called Piazza Vittorio locally), the largest Baroque square in Europe and today heart of Turin nightlife....",
+                    "*...Piazza Vittorio features the most fashionable bars and not far from here, along the Po riverfront, the Murazzi quays used to host several bars and nightclubs open until the morning until a few years ago....",
+                    "...Parallel to Via Roma, the other two popular pedestrian streets, namely Via Lagrange and Via Carlo Alberto, cross the old town from Via Po to Corso Vittorio Emanuele II....",
+                    "...Not far from Via Po stands the symbol of Turin, namely the Mole Antonelliana, so named after the architect who built it, Alessandro Antonelli....",
+                    "...Southeast of the city centre stands San Salvario district, which extends from Corso Vittorio Emanuele II to Corso Bramante and is delimited by the Turin-Genoa railway on the west side and by the Po river on the east side....",
+                    "...Vanchiglia is bordered by Corso San Maurizio, Corso Regio Parco and the Po river, crossed also by the Dora Riparia river and by two big avenues, Corso Regina Margherita and Corso Tortona....",
+                    "...Borgo Vanchiglia is the historical district: a little triangle next to downtown, situated between Corso San Maurizio, Corso Regina Margherita and the Po river....",
+                    "...Since the mid-1980s, Piedmont has also benefited from the start of the Slow Food movement and Terra Madre, events that have highlighted the rich agricultural and vinicultural value of the Po Valley and Northern Italy...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.695632,
+                    45.122118
+                ]
+            },
+            "properties": {
+                "entity": "Fréjus Tunnel",
+                "name_location": "Traforo del Frejus, Grangia Gravière, Bardonecchia, Torino, Piedmont, 10052, Italy",
+                "class": "highway",
+                "type": "construction",
+                "snippet": [
+                    "...The 1871 opening of the Fréjus Tunnel made Turin an important communication node between Italy and France...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.69523,
+                    45.064932
+                ]
+            },
+            "properties": {
+                "entity": "Piazza Vittorio Veneto",
+                "name_location": "Piazza Vittorio Veneto, Via Alfonso Bonafous, Borgo Nuovo, Circoscrizione 1, Turin, Torino, Piedmont, 10124, Italy",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Some of the most iconic landmarks of the city, like the Mole Antonelliana, the Egyptian Museum, the Gran Madre di Dio church and Piazza Vittorio Veneto were built in this period....",
+                    "*...Via Po ends in Piazza Vittorio Veneto (simply called Piazza Vittorio locally), the largest Baroque square in Europe and today heart of Turin nightlife....",
+                    "*...The district is quite popular nowadays because being quite closer to the heart of Turin nightlife Piazza Vittorio Veneto, many bars and restaurants opened recently in this area...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.570888,
+                    45.089228
+                ]
+            },
+            "properties": {
+                "entity": "Dora Riparia",
+                "name_location": "Dora Riparia, Via Sergio Allegri, Villaggio Dora, Collegno, Torino, Piedmont, 10093, Italy",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "...Four major rivers pass through the city: the Po and three of its tributaries, the Dora Riparia (once known as Duria Minor by the Romans, from the Celtic noun duria meaning \"water\"), the Stura di Lanzo and the Sangone....",
+                    "...Vanchiglia is bordered by Corso San Maurizio, Corso Regio Parco and the Po river, crossed also by the Dora Riparia river and by two big avenues, Corso Regina Margherita and Corso Tortona...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.670261,
+                    45.011162
+                ]
+            },
+            "properties": {
+                "entity": "Sangone",
+                "name_location": "Sangone, Corso Trieste, Moncalieri, Torino, Piedmont, 10024, Italy",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Four major rivers pass through the city: the Po and three of its tributaries, the Dora Riparia (once known as Duria Minor by the Romans, from the Celtic noun duria meaning \"water\"), the Stura di Lanzo and the Sangone...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.67917,
+                    45.064076
+                ]
+            },
+            "properties": {
+                "entity": "Piazza Carlo Felice",
+                "name_location": "Piazza Carlo Felice, Centro, Circoscrizione 1, Turin, Torino, Piedmont, 10121, Italy",
+                "class": "highway",
+                "type": "service",
+                "snippet": [
+                    "*...Via Roma runs between Piazza Carlo Felice and Piazza Castello....",
+                    "*...Buildings on the portion between Piazza Carlo Felice and Piazza San Carlo were designed by rationalist architect Marcello Piacentini....",
+                    "*...As for the southern part of the street, Via Roma ends in Piazza Carlo Felice and in its Giardino Sambuy, a wide fenced garden right in the middle of the square....",
+                    "*...Across from Piazza Carlo Felice stands the monumental façade of Porta Nuova railway station, the central station of the city built between 1861 and 1868 by the architect Alessandro Mazzucchetti...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.874264,
+                    44.950183
+                ]
+            },
+            "properties": {
+                "entity": "Hotel Principi di Piemonte",
+                "name_location": "Hotel Principi di Piemonte, Passeggiata del Senatore, Hotel Principi di Piemonte, Sestriere, Torino, Piedmont, 10058, Italy",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...These blocks were built into a reticular system, composed by austere buildings in clear rationalist style, such as the impressive Hotel Principi di Piemonte and the former Hotel Nazionale in Piazza CLN...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.514147,
+                    45.099386
+                ]
+            },
+            "properties": {
+                "entity": "Piazza CLN",
+                "name_location": "Piazza CLN, Via San Giacomo, Alpignano, Torino, Piedmont, 10091, Italy",
+                "class": "amenity",
+                "type": "parking",
+                "snippet": [
+                    "*...These blocks were built into a reticular system, composed by austere buildings in clear rationalist style, such as the impressive Hotel Principi di Piemonte and the former Hotel Nazionale in Piazza CLN...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.681792,
+                    45.067534
+                ]
+            },
+            "properties": {
+                "entity": "Caffé Torino",
+                "name_location": "Caffè Torino, 204, Piazza San Carlo, Centro, Circoscrizione 1, Turin, Torino, Piedmont, 10121, Italy",
+                "class": "amenity",
+                "type": "cafe",
+                "snippet": [
+                    "*...Piazza San Carlo arcades host the most ancient cafés of the city, such as Caffé Torino and Caffé San Carlo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.682483,
+                    45.068277
+                ]
+            },
+            "properties": {
+                "entity": "Caffé San Carlo",
+                "name_location": "caffè San Carlo, Via Santa Teresa, Centro, Circoscrizione 1, Turin, Torino, Piedmont, 10121, Italy",
+                "class": "amenity",
+                "type": "cafe",
+                "snippet": [
+                    "*...Piazza San Carlo arcades host the most ancient cafés of the city, such as Caffé Torino and Caffé San Carlo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.683836,
+                    45.070269
+                ]
+            },
+            "properties": {
+                "entity": "Torre Littoria",
+                "name_location": "Torre Littoria, Via Monte di Pietà, Centro, Circoscrizione 1, Turin, Torino, Piedmont, 10123, Italy",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "...Moreover, Piazza Castello hosts a Fascist era building, the Torre Littoria, a sort of skyscraper which was supposed to become the headquarters of the Fascist party, although it never served as such....",
+                    "...Main church of the district is the Chiesa di Nostra Signora del Suffragio e Santa Zita, which with its 83 m (272 ft) height of its bell tower, is well known to be the fifth tallest structure in the city of Turin, after the Mole Antonelliana, the Intesa-Sanpaolo skyscraper, the Torre Littoria and the two pennons of the Juventus Stadium...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.679356,
+                    45.063567
+                ]
+            },
+            "properties": {
+                "entity": "Giardino Sambuy",
+                "name_location": "Giardino Sambuy, Piazza Carlo Felice, Centro, Circoscrizione 1, Turin, Torino, Piedmont, 10121, Italy",
+                "class": "leisure",
+                "type": "garden",
+                "snippet": [
+                    "*...As for the southern part of the street, Via Roma ends in Piazza Carlo Felice and in its Giardino Sambuy, a wide fenced garden right in the middle of the square...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.678963,
+                    45.062747
+                ]
+            },
+            "properties": {
+                "entity": "Porta Nuova",
+                "name_location": "Porta Nuova, Corso Vittorio Emanuele II, San Secondo, Circoscrizione 1, Turin, Torino, Piedmont, 10125, Italy",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...Across from Piazza Carlo Felice stands the monumental façade of Porta Nuova railway station, the central station of the city built between 1861 and 1868 by the architect Alessandro Mazzucchetti....",
+                    "*...This is near Porta Nuova railway station and is older than the rest of the district, featuring several apartment buildings from the late 19th century, to include the birthplace and home of author Primo Levi on Corso Re Umberto....",
+                    "*...The market square also hosts the former washhouse and public baths of the neighbourhood, among the oldest examples of their kind in Turin (1905).\nOne of the main thoroughfares crossing Borgo San Secondo is Via Sacchi, which serves as an ideal gate to the city centre: its Serlian arcades on the west side of the street (the east side is enclosed by Porta Nuova railway station service buildings) host some significant boutiques and hotels, such as the historic Pfatisch pastry shop and the Turin Palace Hotel (totally refurbished and reopened in 2015)....",
+                    "*...Porta Susa, on this section, will become Turin's main station to substitute the terminus of Porta Nuova with a through station....",
+                    "*...On 4 October 2007, the line was extended to Porta Nuova and then, in March 2011, to Lingotto....",
+                    "*...The city has an international airport known as Caselle International Airport Sandro Pertini (airport code: TRN), in Caselle Torinese, about 13 km (8 mi) from Turin's centre—connected to the city by rail (from Dora Station) and bus (from Porta Nuova and Porta Susa railway stations).\nAs of 2010[update] a bicycle sharing system, the ToBike, is operational.\nThe metropolitan area is served by Turin metropolitan railway service.\nCentral districts are served by tram, lines 3,4,9 are light rail...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.688114,
+                    45.069406
+                ]
+            },
+            "properties": {
+                "entity": "Caffè Fiorio",
+                "name_location": "Caffè Gelateria Fiorio, 8c, Via Po, Centro, Circoscrizione 1, Turin, Torino, Piedmont, 10123, Italy",
+                "class": "amenity",
+                "type": "cafe",
+                "snippet": [
+                    "*...Among them, one of the most significant is the arcaded Via Po, built by Amedeo di Castellamonte in 1868 and featuring some interesting buildings, such as the first and original building of the University of Turin and the historical Caffè Fiorio, which was the favourite café of the 19th-century politicians...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.694525,
+                    45.064766
+                ]
+            },
+            "properties": {
+                "entity": "Piazza Vittorio",
+                "name_location": "Piazza Vittorio Veneto, Borgo Nuovo, Circoscrizione 1, Turin, Torino, Piedmont, 10124, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "...Some of the most iconic landmarks of the city, like the Mole Antonelliana, the Egyptian Museum, the Gran Madre di Dio church and Piazza Vittorio Veneto were built in this period....",
+                    "*...Via Po ends in Piazza Vittorio Veneto (simply called Piazza Vittorio locally), the largest Baroque square in Europe and today heart of Turin nightlife....",
+                    "*...Piazza Vittorio features the most fashionable bars and not far from here, along the Po riverfront, the Murazzi quays used to host several bars and nightclubs open until the morning until a few years ago....",
+                    "...The district is quite popular nowadays because being quite closer to the heart of Turin nightlife Piazza Vittorio Veneto, many bars and restaurants opened recently in this area...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.67101,
+                    45.022434
+                ]
+            },
+            "properties": {
+                "entity": "Europe",
+                "name_location": "Europe, Corso Unità d'Italia, Italia '61, Circoscrizione 8, Cavoretto, Turin, Torino, Piedmont, 10126, Italy",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...Via Po ends in Piazza Vittorio Veneto (simply called Piazza Vittorio locally), the largest Baroque square in Europe and today heart of Turin nightlife....",
+                    "*...Close to this site, the 51,300 m2 (552,189 sq ft) Piazza della Repubblica plays host to the biggest open market in Europe, locally known as Mercato di Porta Palazzo (Porta Palazzo or Porta Pila are the historical and local names of this area)....",
+                    "...The main building on the west side hosts a General Motors research centre, the General Motors Global Propulsion Systems (formerly known as General Motors Powertrain Europe)....",
+                    "*...Together with San Paolo district, Cenisia hosts an extensive street market along Corso Racconigi, which is locally known as the longest street market in Europe....",
+                    "*...Other notable buildings are the town public baths, eclectic building built in 1905 (Corso Regina Margherita crossing Via Vanchiglia), and theTeatro della Caduta theatre, opened in 2003 in Via Michele Buniva 23, which with its 45 seats is the smallest theatre in Turin and among the smallest theatres in Europe....",
+                    "*...In 2008 the city generated a GDP of $68 billion, ranking as the world's 78th richest city by purchasing power, and 16th in Europe, according to PricewaterhouseCoopers....",
+                    "*...The International Book Fair is one of the most important fairs of its kind in Europe....",
+                    "*...Turin also hosts the United Nations System Staff College, the European Training Foundation, and a campus of the ESCP business school, ranked among the 10 best business schools in Europe...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.693858,
+                    45.061668
+                ]
+            },
+            "properties": {
+                "entity": "Murazzi",
+                "name_location": "Murazzi, Corso Cairoli, Borgo Nuovo, Circoscrizione 1, Turin, Torino, Piedmont, 10123, Italy",
+                "class": "amenity",
+                "type": "bicycle_rental",
+                "snippet": [
+                    "*...Piazza Vittorio features the most fashionable bars and not far from here, along the Po riverfront, the Murazzi quays used to host several bars and nightclubs open until the morning until a few years ago...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.680818,
+                    45.06325
+                ]
+            },
+            "properties": {
+                "entity": "Via Lagrange",
+                "name_location": "Via Giuseppe Luigi Lagrange, Centro, Circoscrizione 1, Turin, Torino, Piedmont, 10125, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Parallel to Via Roma, the other two popular pedestrian streets, namely Via Lagrange and Via Carlo Alberto, cross the old town from Via Po to Corso Vittorio Emanuele II....",
+                    "*...In particular, Via Lagrange has recently increased the presence of luxury boutiques....",
+                    "*...Via Lagrange and Via Carlo Alberto cross two significant squares of the city, respectively...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.683242,
+                    45.063854
+                ]
+            },
+            "properties": {
+                "entity": "Via Carlo Alberto",
+                "name_location": "Via Carlo Alberto, Centro, Circoscrizione 1, Turin, Torino, Piedmont, 10123, Italy",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Parallel to Via Roma, the other two popular pedestrian streets, namely Via Lagrange and Via Carlo Alberto, cross the old town from Via Po to Corso Vittorio Emanuele II....",
+                    "*...Via Lagrange and Via Carlo Alberto cross two significant squares of the city, respectively....",
+                    "*...Via Carlo Alberto crosses Piazza Carlo Alberto, a big square hosting the rear façade of Palazzo Carignano, in eclectic style...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.677697,
+                    45.063169
+                ]
+            },
+            "properties": {
+                "entity": "Corso Vittorio Emanuele II",
+                "name_location": "Corso Vittorio Emanuele II, San Secondo, Circoscrizione 1, Turin, Torino, Piedmont, 10121, Italy",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...Parallel to Via Roma, the other two popular pedestrian streets, namely Via Lagrange and Via Carlo Alberto, cross the old town from Via Po to Corso Vittorio Emanuele II....",
+                    "*...Southeast of the city centre stands San Salvario district, which extends from Corso Vittorio Emanuele II to Corso Bramante and is delimited by the Turin-Genoa railway on the west side and by the Po river on the east side....",
+                    "*...The museum stands in front a huge monument situated in the centre of the roundabout between Corso Vittorio Emanuele II and Corso Galileo Ferraris: the Monument to Vittorio Emanuele II, a king of Savoy statue situated on a 39-meters high column....",
+                    "*...Bordered by Corso Castelfidardo, Corso Vittorio Emanuele II, Corso Trapani and Corso Peschiera, this small district is mainly significant for hosting the recent expansion of Turinese institute of technology Politecnico....",
+                    "*...This small triangle surrounded by Corso Vittorio Emanuele II, Corso Francia and Corso Inghilterra hosts some high rated residential buildings and is regarded as a prestigious residential neighbourhood by local people...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.68467,
+                    45.069302
+                ]
+            },
+            "properties": {
+                "entity": "Piazza Carignano",
+                "name_location": "Teatro Carignano, 6, Piazza Carignano, Circoscrizione 1, Turin, Torino, Piedmont, 10123, Italy",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...The former crosses Piazza Carignano, well known mainly for the undulating \"concave – convex-concave\" Baroque façade of Palazzo Carignano...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.685448,
+                    45.069206
+                ]
+            },
+            "properties": {
+                "entity": "Palazzo Carignano",
+                "name_location": "Palazzo Carignano, 5, Via Accademia delle Scienze, Centro, Circoscrizione 1, Turin, Torino, Piedmont, 10123, Italy",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...The former crosses Piazza Carignano, well known mainly for the undulating \"concave – convex-concave\" Baroque façade of Palazzo Carignano....",
+                    "*...Via Carlo Alberto crosses Piazza Carlo Alberto, a big square hosting the rear façade of Palazzo Carignano, in eclectic style....",
+                    "*...Turin is home to Palazzo Chiablese, the Royal Armoury, the Royal Library, Palazzo Madama, Palazzo Carignano, Villa della Regina, and the Valentino Castle...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.68467,
+                    45.069302
+                ]
+            },
+            "properties": {
+                "entity": "Teatro Carignano",
+                "name_location": "Teatro Carignano, 6, Piazza Carignano, Circoscrizione 1, Turin, Torino, Piedmont, 10123, Italy",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "...The square also features the Teatro Carignano, a well-conserved Baroque theatre...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.67399,
+                    44.905855
+                ]
+            },
+            "properties": {
+                "entity": "Piazza Carlo Alberto",
+                "name_location": "Piazza Carlo Alberto, Carignano, Torino, Piedmont, 10041, Italy",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Via Carlo Alberto crosses Piazza Carlo Alberto, a big square hosting the rear façade of Palazzo Carignano, in eclectic style...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.683961,
+                    45.075433
+                ]
+            },
+            "properties": {
+                "entity": "Piazza della Repubblica",
+                "name_location": "Piazza della Repubblica, Quadrilatero Romano, Circoscrizione 1, Turin, Torino, Piedmont, 10122, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Close to this site, the 51,300 m2 (552,189 sq ft) Piazza della Repubblica plays host to the biggest open market in Europe, locally known as Mercato di Porta Palazzo (Porta Palazzo or Porta Pila are the historical and local names of this area)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.68444,
+                    45.075996
+                ]
+            },
+            "properties": {
+                "entity": "Porta Palazzo",
+                "name_location": "Porta Palazzo, Piazza della Repubblica, Quadrilatero Romano, Circoscrizione 1, Turin, Torino, Piedmont, 10122, Italy",
+                "class": "amenity",
+                "type": "marketplace",
+                "snippet": [
+                    "*...Close to this site, the 51,300 m2 (552,189 sq ft) Piazza della Repubblica plays host to the biggest open market in Europe, locally known as Mercato di Porta Palazzo (Porta Palazzo or Porta Pila are the historical and local names of this area)....",
+                    "*...The historical hub of the district is Borgo Dora (The \"Dora Borough\"), a small neighbourhood next to Porta Palazzo and enclosed by Corso Regina Margherita, Via Cigna, the Dora river and Corso Giulio Cesare....",
+                    "*...Right at the borders of Borgo Dora stands part of Porta Palazzo open market which hosts the New Exhibition Hall, designed by the Italian architect Massimiliano Fuksas....",
+                    "*...The building has replaced the Clothes Market, one of the four covered pavilions of Porta Palazzo market, but unfortunately, this glass green-shaded building has been highly criticized because of its lack of usability for commercial activities, albeit an example of contemporary architecture....",
+                    "*...As for the rest of Aurora, the district is crossed by an important thoroughfare named Corso Giulio Cesare, a long boulevard that extends from Porta Palazzo up to Turin-Trieste motorway entrance in the Northern urban fringe of Turin...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.684651,
+                    45.075009
+                ]
+            },
+            "properties": {
+                "entity": "Porte Palatine",
+                "name_location": "Porte Palatine, Piazza Cesare Augusto, Quadrilatero Romano, Circoscrizione 1, Turin, Torino, Piedmont, 10122, Italy",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...West of the Porte Palatine stands the Quadrilatero Romano (Roman Quadrilateral), the old medieval district recently renewed...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.680201,
+                    45.076942
+                ]
+            },
+            "properties": {
+                "entity": "Quadrilatero Romano",
+                "name_location": "Quadrilatero Romano, 25/B, Via delle Orfane, Quadrilatero Romano, Circoscrizione 1, Turin, Torino, Piedmont, 10122, Italy",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "...West of the Porte Palatine stands the Quadrilatero Romano (Roman Quadrilateral), the old medieval district recently renewed....",
+                    "...South of the Quadrilatero Romano stands Via Garibaldi, another popular street of the city...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.680201,
+                    45.076942
+                ]
+            },
+            "properties": {
+                "entity": "Quadrilatero",
+                "name_location": "Quadrilatero Romano, 25/B, Via delle Orfane, Quadrilatero Romano, Circoscrizione 1, Turin, Torino, Piedmont, 10122, Italy",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "...West of the Porte Palatine stands the Quadrilatero Romano (Roman Quadrilateral), the old medieval district recently renewed....",
+                    "*...The hub of the Quadrilatero is Piazza Emanuele Filiberto....",
+                    "...South of the Quadrilatero Romano stands Via Garibaldi, another popular street of the city...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.681183,
+                    45.07642
+                ]
+            },
+            "properties": {
+                "entity": "Piazza Emanuele Filiberto",
+                "name_location": "Piazza Emanuele Filiberto, Quadrilatero Romano, Circoscrizione 1, Turin, Torino, Piedmont, 10122, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...The hub of the Quadrilatero is Piazza Emanuele Filiberto...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.684593,
+                    45.071377
+                ]
+            },
+            "properties": {
+                "entity": "Via Garibaldi",
+                "name_location": "Via Giuseppe Garibaldi, Centro, Circoscrizione 1, Turin, Torino, Piedmont, 10123, Italy",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Via Garibaldi traces the exact path of the Roman city's decumanus which began at the Porta Decumani, later incorporated into the Castello or Palazzo Madama....",
+                    "*...South of the Quadrilatero Romano stands Via Garibaldi, another popular street of the city...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.67221,
+                    45.076028
+                ]
+            },
+            "properties": {
+                "entity": "Piazza Statuto",
+                "name_location": "Piazza Statuto, Quadrilatero Romano, Circoscrizione 1, Turin, Torino, Piedmont, 10140, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...It is a 1 km (0.6 mi) pedestrian street between Piazza Castello and Piazza Statuto which features some of the old shops of the city....",
+                    "*...Large Piazza Statuto is another example of Baroque square with arcades....",
+                    "*...The conservation of the street and of this old building influences the straightness of Via San Donato, which makes a slight curve to result in parallel with Via Pacinotti before ending in central Piazza Statuto square....",
+                    "*...The tower is facing the central Piazza Statuto square...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.682894,
+                    45.070663
+                ]
+            },
+            "properties": {
+                "entity": "Via Pietro Micca",
+                "name_location": "Via Pietro Micca, Centro, Circoscrizione 1, Turin, Torino, Piedmont, 10122, Italy",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Another main street of downtown is Via Pietro Micca, which starts in Piazza Castello and ends in the large Piazza Solferino...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.676819,
+                    45.06849
+                ]
+            },
+            "properties": {
+                "entity": "Piazza Solferino",
+                "name_location": "Piazza Solferino, Centro, Circoscrizione 1, Turin, Torino, Piedmont, Italy",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Another main street of downtown is Via Pietro Micca, which starts in Piazza Castello and ends in the large Piazza Solferino...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.676237,
+                    45.07083
+                ]
+            },
+            "properties": {
+                "entity": "Via Cernaia",
+                "name_location": "Via Cernaia, Centro, Circoscrizione 1, Turin, Torino, Piedmont, 10121, Italy",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...The street continues in Via Cernaia up to Piazza XXV Dicembre, which features the former Porta Susa passengers building, relocated in 2012 a little more southward....",
+                    "*...Close to Via Cernaia stands the Cittadella (Citadel), in the Andrea Guglielminetti garden...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.666725,
+                    45.071592
+                ]
+            },
+            "properties": {
+                "entity": "Porta Susa",
+                "name_location": "Porta Susa, Corso Bolzano, Centro, Circoscrizione 1, Turin, Torino, Piedmont, 10140, Italy",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...The street continues in Via Cernaia up to Piazza XXV Dicembre, which features the former Porta Susa passengers building, relocated in 2012 a little more southward....",
+                    "*...Porta Susa is currently the international central station of the city (high speed trains to Paris) and it is becoming the central hub of railway transportation of the city, being the station in which local trains (so-called Ferrovie Metropolitane), national trains and high-speed national and international trains converge....",
+                    "*...Porta Susa, on this section, will become Turin's main station to substitute the terminus of Porta Nuova with a through station....",
+                    "*...The first leg of the subway system linked the nearby town of Collegno with Porta Susa in Turin's city centre....",
+                    "*...The city has an international airport known as Caselle International Airport Sandro Pertini (airport code: TRN), in Caselle Torinese, about 13 km (8 mi) from Turin's centre—connected to the city by rail (from Dora Station) and bus (from Porta Nuova and Porta Susa railway stations).\nAs of 2010[update] a bicycle sharing system, the ToBike, is operational.\nThe metropolitan area is served by Turin metropolitan railway service.\nCentral districts are served by tram, lines 3,4,9 are light rail...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.66744,
+                    45.072034
+                ]
+            },
+            "properties": {
+                "entity": "Corso Bolzano",
+                "name_location": "Corso Bolzano, Centro, Circoscrizione 1, Turin, Torino, Piedmont, 10140, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...The new and larger passengers building is situated between Corso Bolzano and Corso Inghilterra and is an example of contemporary architecture, being a 300 m-long (980 ft) and 19 m-high (62 ft) glass and steel structure...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.665475,
+                    45.071599
+                ]
+            },
+            "properties": {
+                "entity": "Corso Inghilterra",
+                "name_location": "Corso Inghilterra, Crocetta, Circoscrizione 1, Turin, Torino, Piedmont, 10140, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...The new and larger passengers building is situated between Corso Bolzano and Corso Inghilterra and is an example of contemporary architecture, being a 300 m-long (980 ft) and 19 m-high (62 ft) glass and steel structure....",
+                    "*...This small triangle surrounded by Corso Vittorio Emanuele II, Corso Francia and Corso Inghilterra hosts some high rated residential buildings and is regarded as a prestigious residential neighbourhood by local people....",
+                    "*...Currently the railway has been under-grounded: the avenue will be enlarged and have same architecture style of southern Corso Inghilterra in downtown, becoming one of the major avenues of Turin...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.680893,
+                    45.059279
+                ]
+            },
+            "properties": {
+                "entity": "San Salvario",
+                "name_location": "Cooperativa Gelteria Naturale di San Salvario, 13, Via Claudio Luigi Berthollet, San Salvario, Circoscrizione 8, Turin, Torino, Piedmont, 10128, Italy",
+                "class": "amenity",
+                "type": "fast_food",
+                "snippet": [
+                    "...Circoscrizione 8: San Salvario – Cavoretto – Borgo Po – Nizza Millefonti – Lingotto – Filadelfia ....",
+                    "*...Southeast of the city centre stands San Salvario district, which extends from Corso Vittorio Emanuele II to Corso Bramante and is delimited by the Turin-Genoa railway on the west side and by the Po river on the east side....",
+                    "*...San Salvario is crossed by two main roads, Via Nizza and Via Madama Cristina, and just as the city centre it is characterised by the grid plan typical of Turin's old neighbourhoods....",
+                    "*...The celebrated Parco del Valentino is situated in the east side of San Salvario and, albeit not in downtown, it represents kind of central park of Turin...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.662243,
+                    45.046814
+                ]
+            },
+            "properties": {
+                "entity": "Corso Bramante",
+                "name_location": "Corso Bramante, Crocetta, Circoscrizione 1, Turin, Torino, Piedmont, 10134, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Southeast of the city centre stands San Salvario district, which extends from Corso Vittorio Emanuele II to Corso Bramante and is delimited by the Turin-Genoa railway on the west side and by the Po river on the east side...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.67074,
+                    45.041112
+                ]
+            },
+            "properties": {
+                "entity": "Via Nizza",
+                "name_location": "Via Nizza, Molinette, Circoscrizione 8, Cavoretto, Turin, Torino, Piedmont, 10126, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...San Salvario is crossed by two main roads, Via Nizza and Via Madama Cristina, and just as the city centre it is characterised by the grid plan typical of Turin's old neighbourhoods...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.684874,
+                    45.060525
+                ]
+            },
+            "properties": {
+                "entity": "Via Madama Cristina",
+                "name_location": "Via Madama Cristina, San Salvario, Circoscrizione 8, Turin, Torino, Piedmont, 10123, Italy",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...San Salvario is crossed by two main roads, Via Nizza and Via Madama Cristina, and just as the city centre it is characterised by the grid plan typical of Turin's old neighbourhoods...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.683602,
+                    45.058712
+                ]
+            },
+            "properties": {
+                "entity": "Piazza Madama Cristina",
+                "name_location": "Piazza Madama Cristina, San Salvario, Circoscrizione 8, Turin, Torino, Piedmont, Italy",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...The hub of the district is Piazza Madama Cristina which hosts a big open market, while several commercial activities flourish around it...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.684053,
+                    45.0508
+                ]
+            },
+            "properties": {
+                "entity": "Parco del Valentino",
+                "name_location": "Parco del Valentino, Viale Carlo Ceppi, San Salvario, Circoscrizione 8, Turin, Torino, Piedmont, 10125, Italy",
+                "class": "leisure",
+                "type": "pitch",
+                "snippet": [
+                    "*...The celebrated Parco del Valentino is situated in the east side of San Salvario and, albeit not in downtown, it represents kind of central park of Turin....",
+                    "*...From the terraces of Parco del Valentino, many sights of the hills on the other side of the river can be appreciated....",
+                    "*...The most popular park in the city is Parco del Valentino...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.686952,
+                    45.054197
+                ]
+            },
+            "properties": {
+                "entity": "Castello del Valentino",
+                "name_location": "Castello del Valentino, Viale Pier Andrea Mattioli, San Salvario, Circoscrizione 8, Turin, Torino, Piedmont, 10125, Italy",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...In the centre of the park stands the Castello del Valentino, built in the 17th century....",
+                    "*...Today, Castello del Valentino serves as the faculty of Architecture of the Polytechnic University of Turin...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.739234,
+                    45.149425
+                ]
+            },
+            "properties": {
+                "entity": "Aosta Valley",
+                "name_location": "Aosta Valley Toll Motorway, Settimo Torinese, Torino, Piedmont, 10036, Italy",
+                "class": "highway",
+                "type": "motorway",
+                "snippet": [
+                    "*...Another cluster of buildings in the park is the Borgo Medioevale (Medieval village), a replica of medieval mountain castles of Piedmont and Aosta Valley, built for the 1884 International Exhibition...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.687789,
+                    45.059455
+                ]
+            },
+            "properties": {
+                "entity": "Corso Massimo d'Azeglio",
+                "name_location": "Corso Massimo D'Azeglio, Crimea, Circoscrizione 8, Turin, Torino, Piedmont, 10123, Italy",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...Other buildings in Corso Massimo d'Azeglio include the Torino Esposizioni complex (Turin's exhibition hall built in the 1930s) featuring a monumental entrance with a large full height porch, a main hall designed by Pier Luigi Nervi in reinforced concrete, and the Teatro Nuovo, a theatre mostly focused on ballet exhibitions...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.682118,
+                    45.0606
+                ]
+            },
+            "properties": {
+                "entity": "Piazzetta Primo Levi",
+                "name_location": "Piazzetta Primo Levi, San Salvario, Circoscrizione 8, Turin, Torino, Piedmont, 10125, Italy",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Another building is the largest synagogue of the city, in Piazzetta Primo Levi, a square...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.223185,
+                    44.8201
+                ]
+            },
+            "properties": {
+                "entity": "Centro",
+                "name_location": "Centro, Via caduti per la libertà, Pilon, Torre Pellice, Torino, Piedmont, 10066, Italy",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "...Circoscrizione 1: Centro – Crocetta ;...",
+                    "*...Its architecture stands in the main sight of the city, as characterised by four large towers – 27 m (89 ft) high – topped by four onion-shaped domes.\nSouth of Centro stands the Crocetta district, considered one of the most exclusive districts of the city, because of highly rated residential buildings....",
+                    "...South of the park, an interesting architecture of different levels is hosting a new shopping mall called Centro Commerciale Parco Dora...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.667952,
+                    45.062305
+                ]
+            },
+            "properties": {
+                "entity": "Corso Trieste",
+                "name_location": "Corso Trieste, Crocetta, Circoscrizione 1, Turin, Torino, Piedmont, 10128, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...At the heart of the district is the partially pedestrianised area crossed by Corso Trieste, Corso Trento and Corso Duca D'Aosta, plenty of some notable residential buildings in eclectic, neo-Gothic and Art Nouveau style...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.664199,
+                    45.06066
+                ]
+            },
+            "properties": {
+                "entity": "Corso Trento",
+                "name_location": "Corso Trento, Crocetta, Circoscrizione 1, Turin, Torino, Piedmont, 10128, Italy",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...At the heart of the district is the partially pedestrianised area crossed by Corso Trieste, Corso Trento and Corso Duca D'Aosta, plenty of some notable residential buildings in eclectic, neo-Gothic and Art Nouveau style...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.666246,
+                    45.061193
+                ]
+            },
+            "properties": {
+                "entity": "Corso Duca D'Aosta",
+                "name_location": "Corso Duca d'Aosta, Crocetta, Circoscrizione 1, Turin, Torino, Piedmont, 10128, Italy",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...At the heart of the district is the partially pedestrianised area crossed by Corso Trieste, Corso Trento and Corso Duca D'Aosta, plenty of some notable residential buildings in eclectic, neo-Gothic and Art Nouveau style...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.669153,
+                    45.064812
+                ]
+            },
+            "properties": {
+                "entity": "Galleria d'Arte Moderna",
+                "name_location": "Galleria civica d'Arte Moderna e Contemporanea, Corso Galileo Ferraris, San Secondo, Circoscrizione 1, Turin, Torino, Piedmont, 10100, Italy",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...North of this area stands the GAM (Galleria d'Arte Moderna), one of the two Museum of Modern Arts of the Turin Metro area (the second and largest one is hosted in Castello di Rivoli, a former Savoy royal castle in the suburbs)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.510532,
+                    45.069785
+                ]
+            },
+            "properties": {
+                "entity": "Castello di Rivoli",
+                "name_location": "Castello di Rivoli, Piazzale Mafalda di Savoia, Borgo Nuovo, Rivoli, Torino, Piedmont, 10098, Italy",
+                "class": "historic",
+                "type": "castle",
+                "snippet": [
+                    "*...North of this area stands the GAM (Galleria d'Arte Moderna), one of the two Museum of Modern Arts of the Turin Metro area (the second and largest one is hosted in Castello di Rivoli, a former Savoy royal castle in the suburbs)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.666422,
+                    45.067144
+                ]
+            },
+            "properties": {
+                "entity": "Corso Duca Degli Abruzzi",
+                "name_location": "Corso Duca degli Abruzzi, Crocetta, Circoscrizione 1, Turin, Torino, Piedmont, 10100, Italy",
+                "class": "highway",
+                "type": "unclassified",
+                "snippet": [
+                    "*...West of this area, the main building of Polytechnic University of Turin stands along Corso Duca Degli Abruzzi....",
+                    "...Crocetta is crossed by large and modern avenues, such as Corso Duca degli Abruzzi, Corso Galileo Ferraris, and Corso Einaudi....",
+                    "*...Crocetta is crossed by large and modern avenues, such as Corso Duca degli Abruzzi, Corso Galileo Ferraris, and Corso Einaudi...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.674654,
+                    45.07089
+                ]
+            },
+            "properties": {
+                "entity": "Corso Galileo Ferraris",
+                "name_location": "Corso Galileo Ferraris, Quadrilatero Romano, Circoscrizione 1, Turin, Torino, Piedmont, 10100, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...The museum stands in front a huge monument situated in the centre of the roundabout between Corso Vittorio Emanuele II and Corso Galileo Ferraris: the Monument to Vittorio Emanuele II, a king of Savoy statue situated on a 39-meters high column....",
+                    "*...Crocetta is crossed by large and modern avenues, such as Corso Duca degli Abruzzi, Corso Galileo Ferraris, and Corso Einaudi...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.658194,
+                    45.061304
+                ]
+            },
+            "properties": {
+                "entity": "Corso Einaudi",
+                "name_location": "Corso Luigi Einaudi, Crocetta, Circoscrizione 1, Turin, Torino, Piedmont, 10129, Italy",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Crocetta is crossed by large and modern avenues, such as Corso Duca degli Abruzzi, Corso Galileo Ferraris, and Corso Einaudi...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.658868,
+                    45.055033
+                ]
+            },
+            "properties": {
+                "entity": "Corso De Gasperi",
+                "name_location": "Corso Alcide De Gasperi, Crocetta, Circoscrizione 1, Turin, Torino, Piedmont, 10129, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...However, the most popular avenue is Corso De Gasperi, which, albeit smaller than other avenues of the district, hosts one of the most fashionable open markets of the city, the so-called Mercato della Crocetta, in which it is possible to find some discounted branded clothing among the more popular ones...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.664386,
+                    45.058001
+                ]
+            },
+            "properties": {
+                "entity": "Mercato della Crocetta",
+                "name_location": "Mercato della Crocetta, Via Giacomo Bove, Crocetta, Circoscrizione 1, Turin, Torino, Piedmont, 10129, Italy",
+                "class": "amenity",
+                "type": "marketplace",
+                "snippet": [
+                    "*...However, the most popular avenue is Corso De Gasperi, which, albeit smaller than other avenues of the district, hosts one of the most fashionable open markets of the city, the so-called Mercato della Crocetta, in which it is possible to find some discounted branded clothing among the more popular ones...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.656417,
+                    45.05972
+                ]
+            },
+            "properties": {
+                "entity": "Corso Mediterraneo",
+                "name_location": "Corso Mediterraneo, Polo Nord, Circoscrizione 3, Turin, Torino, Piedmont, 10129, Italy",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...The huge avenue, made up of Corso Mediterraneo and Corso Castelfidardo, is part of Spina Centrale boulevard and was recently built over the old railway (now undergrounded): as a result, the avenue is very large (up to 60 m (200 ft)) and modern, having been rebuilt with valuable materials, including a characteristic lighting system supported by white high poles...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.66304,
+                    45.068501
+                ]
+            },
+            "properties": {
+                "entity": "Corso Castelfidardo",
+                "name_location": "Corso Castelfidardo, Crocetta, Circoscrizione 1, Turin, Torino, Piedmont, 10138, Italy",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...The huge avenue, made up of Corso Mediterraneo and Corso Castelfidardo, is part of Spina Centrale boulevard and was recently built over the old railway (now undergrounded): as a result, the avenue is very large (up to 60 m (200 ft)) and modern, having been rebuilt with valuable materials, including a characteristic lighting system supported by white high poles....",
+                    "*...Bordered by Corso Castelfidardo, Corso Vittorio Emanuele II, Corso Trapani and Corso Peschiera, this small district is mainly significant for hosting the recent expansion of Turinese institute of technology Politecnico....",
+                    "*...The expansion was possible after under-grounding the railway under Corso Castelfidardo and the subsequent disposal of the old buildings dedicated to the train maintenance present in this area (so-called Officine Grandi Riparazioni or OGR)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.654994,
+                    45.057247
+                ]
+            },
+            "properties": {
+                "entity": "Igloo",
+                "name_location": "Fontana Igloo, Corso Mediterraneo, Crocetta, Circoscrizione 1, Turin, Torino, Piedmont, 10129, Italy",
+                "class": "tourism",
+                "type": "artwork",
+                "snippet": [
+                    "*...This avenue hosts some examples of contemporary art, such as Mario Merz's Igloo fountain or the Per Kirkeby's Opera per Torino monument in Largo Orbassano...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.675464,
+                    45.062233
+                ]
+            },
+            "properties": {
+                "entity": "Via San Secondo",
+                "name_location": "Via San Secondo, San Secondo, Circoscrizione 1, Turin, Torino, Piedmont, 10121, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...The East side of the district is also known as Borgo San Secondo named after the church of the same name standing in Via San Secondo, a major street in the neighbourhood...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.676254,
+                    45.068069
+                ]
+            },
+            "properties": {
+                "entity": "Corso Re Umberto",
+                "name_location": "Corso Re Umberto, Centro, Circoscrizione 1, Turin, Torino, Piedmont, 10121, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...This is near Porta Nuova railway station and is older than the rest of the district, featuring several apartment buildings from the late 19th century, to include the birthplace and home of author Primo Levi on Corso Re Umberto...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.673672,
+                    45.059356
+                ]
+            },
+            "properties": {
+                "entity": "Piazza San Secondo",
+                "name_location": "Piazza San Secondo, San Secondo, Circoscrizione 1, Turin, Torino, Piedmont, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...A local open market is held in Piazza San Secondo and along Via Legnano...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.67468,
+                    45.059193
+                ]
+            },
+            "properties": {
+                "entity": "Via Legnano",
+                "name_location": "Via Legnano, San Secondo, Circoscrizione 1, Turin, Torino, Piedmont, 10128, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...A local open market is held in Piazza San Secondo and along Via Legnano...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.677738,
+                    45.063231
+                ]
+            },
+            "properties": {
+                "entity": "Via Sacchi",
+                "name_location": "Via Paolo Sacchi, San Secondo, Circoscrizione 1, Turin, Torino, Piedmont, 10121, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...The market square also hosts the former washhouse and public baths of the neighbourhood, among the oldest examples of their kind in Turin (1905).\nOne of the main thoroughfares crossing Borgo San Secondo is Via Sacchi, which serves as an ideal gate to the city centre: its Serlian arcades on the west side of the street (the east side is enclosed by Porta Nuova railway station service buildings) host some significant boutiques and hotels, such as the historic Pfatisch pastry shop and the Turin Palace Hotel (totally refurbished and reopened in 2015)....",
+                    "*...South of Via Sacchi, Ospedale Mauriziano is one of the ancient and major hospitals of the city...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.66553,
+                    45.0518
+                ]
+            },
+            "properties": {
+                "entity": "Ospedale Mauriziano",
+                "name_location": "Ospedale Mauriziano, Largo Re Umberto, Crocetta, Circoscrizione 1, Turin, Torino, Piedmont, 10129, Italy",
+                "class": "amenity",
+                "type": "hospital",
+                "snippet": [
+                    "*...South of Via Sacchi, Ospedale Mauriziano is one of the ancient and major hospitals of the city...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.665078,
+                    45.049076
+                ]
+            },
+            "properties": {
+                "entity": "Via Arquata",
+                "name_location": "Via Arquata, Crocetta, Circoscrizione 1, Turin, Torino, Piedmont, 10129, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Going further southwards, it is possible to appreciate an interesting residential cluster of old public housing gravitating around Via Arquata...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.765772,
+                    45.317969
+                ]
+            },
+            "properties": {
+                "entity": "Via Boggio",
+                "name_location": "Via Boggio, Lusigliè, Torino, Piedmont, 10086, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Politecnico area extends until Via Boggio with further facilities hosted in the former OGR facilities...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.662803,
+                    45.062622
+                ]
+            },
+            "properties": {
+                "entity": "Politecnico",
+                "name_location": "Politecnico, Corso Duca degli Abruzzi, Crocetta, Circoscrizione 1, Turin, Torino, Piedmont, 10129, Italy",
+                "class": "railway",
+                "type": "tram_stop",
+                "snippet": [
+                    "*...Bordered by Corso Castelfidardo, Corso Vittorio Emanuele II, Corso Trapani and Corso Peschiera, this small district is mainly significant for hosting the recent expansion of Turinese institute of technology Politecnico....",
+                    "*...Politecnico expanded its facilities through two huge overpass buildings over the avenue, linked to new buildings on the west side....",
+                    "*...Politecnico area extends until Via Boggio with further facilities hosted in the former OGR facilities....",
+                    "*...North of Politecnico facilities, the main building of the OGR former cluster, which consists in three 180-meters long joint parallel buildings, became recently a big open space which hosts temporary exhibitions and during the hot seasons, its external spaces became a fashionable site to have a typical Italian aperitivo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.659811,
+                    45.066109
+                ]
+            },
+            "properties": {
+                "entity": "OGR",
+                "name_location": "OGR Tech, Corso Castelfidardo, Cit Turin, Circoscrizione 3, Turin, Torino, Piedmont, 10138, Italy",
+                "class": "office",
+                "type": "company",
+                "snippet": [
+                    "...The expansion was possible after under-grounding the railway under Corso Castelfidardo and the subsequent disposal of the old buildings dedicated to the train maintenance present in this area (so-called Officine Grandi Riparazioni or OGR)....",
+                    "*...Politecnico area extends until Via Boggio with further facilities hosted in the former OGR facilities....",
+                    "*...North of Politecnico facilities, the main building of the OGR former cluster, which consists in three 180-meters long joint parallel buildings, became recently a big open space which hosts temporary exhibitions and during the hot seasons, its external spaces became a fashionable site to have a typical Italian aperitivo....",
+                    "*...North of OGR, a former prison complex called Le Nuove is a significant example of old European prison building...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.660478,
+                    45.068123
+                ]
+            },
+            "properties": {
+                "entity": "Le Nuove",
+                "name_location": "Museo del carcere Le Nuove, 3, Via Paolo Borsellino, Cit Turin, Circoscrizione 3, Turin, Torino, Piedmont, 10138, Italy",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...North of OGR, a former prison complex called Le Nuove is a significant example of old European prison building...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.655738,
+                    45.071113
+                ]
+            },
+            "properties": {
+                "entity": "Corso Ferrucci",
+                "name_location": "Corso Francesco Ferrucci, Cenisia, Circoscrizione 3, Turin, Torino, Piedmont, 10138, Italy",
+                "class": "highway",
+                "type": "unclassified",
+                "snippet": [
+                    "*...An example of contemporary art is the heating plant in Corso Ferrucci, which has been covered with aluminium panels...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.755333,
+                    45.108636
+                ]
+            },
+            "properties": {
+                "entity": "Via Borsellino",
+                "name_location": "Via Borsellino, Oltrepo, San Mauro Torinese, Torino, Piedmont, 10099, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Another building (19th century), now abandoned, is the former Westinghouse factory of train brakes situated in Via Borsellino...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.652654,
+                    45.063384
+                ]
+            },
+            "properties": {
+                "entity": "San Paolo",
+                "name_location": "San Paolo, Corso Peschiera, Borgo San Paolo, Circoscrizione 3, Turin, Torino, Piedmont, 10129, Italy",
+                "class": "railway",
+                "type": "tram_stop",
+                "snippet": [
+                    "...Circoscrizione 3: San Paolo – Cenisia – Pozzo Strada – Cit Turin – Borgata Lesna ;...",
+                    "...Urban planning outside the local city gate (so-called barriera di San Paolo) led to the construction of an industrial and working-class neighborhood in the early 20th century, although factories have long been discontinued, torn down or converted to other uses nowadays....",
+                    "*...Together with San Paolo district, Cenisia hosts an extensive street market along Corso Racconigi, which is locally known as the longest street market in Europe...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.647874,
+                    45.074169
+                ]
+            },
+            "properties": {
+                "entity": "Corso Racconigi",
+                "name_location": "Corso Racconigi, Cenisia, Circoscrizione 3, Turin, Torino, Piedmont, 10139, Italy",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Together with San Paolo district, Cenisia hosts an extensive street market along Corso Racconigi, which is locally known as the longest street market in Europe...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.696206,
+                    45.089791
+                ]
+            },
+            "properties": {
+                "entity": "Cit Turin",
+                "name_location": "Cit turin, Via Candia, Monte Rosa, Circoscrizione 6, Turin, Torino, Piedmont, 10154, Italy",
+                "class": "shop",
+                "type": "butcher",
+                "snippet": [
+                    "...Circoscrizione 3: San Paolo – Cenisia – Pozzo Strada – Cit Turin – Borgata Lesna ;...",
+                    "*...The smallest district of the city is Cit Turin (\"Little Turin\" in Piedmontese language)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.642953,
+                    45.075541
+                ]
+            },
+            "properties": {
+                "entity": "Corso Francia",
+                "name_location": "Corso Francia, Campidoglio, Circoscrizione 4, Turin, Torino, Piedmont, 10139, Italy",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...This small triangle surrounded by Corso Vittorio Emanuele II, Corso Francia and Corso Inghilterra hosts some high rated residential buildings and is regarded as a prestigious residential neighbourhood by local people....",
+                    "*...Both buildings face Corso Francia....",
+                    "*...San Donato district is between Corso Francia, Corso Lecce, Corso Potenza, Via Nole, the Parco Dora and Corso Principe Oddone....",
+                    "...The neighbourhood has a high concentration of historic buildings in Art Nouveau style designed by architect Pietro Fenoglio (among the others, the prestigious Villino Raby in Corso Francia 8)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.661404,
+                    45.075873
+                ]
+            },
+            "properties": {
+                "entity": "Casa della Vittoria",
+                "name_location": "Casa della Vittoria, Via Pietro Palmieri, Cit Turin, Circoscrizione 3, Turin, Torino, Piedmont, 10138, Italy",
+                "class": "building",
+                "type": "residential",
+                "snippet": [
+                    "...Among them, one of the most impressive and well known is the Casa della Vittoria (architect Gottardo Gussoni)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.664782,
+                    45.076648
+                ]
+            },
+            "properties": {
+                "entity": "Casa Fenoglio-Lafleur",
+                "name_location": "Casa Fenoglio-Lafleur, Corso Francia, Campidoglio, Circoscrizione 4, Turin, Torino, Piedmont, 10140, Italy",
+                "class": "building",
+                "type": "residential",
+                "snippet": [
+                    "*...Another notable example is Casa Fenoglio-Lafleur...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.665935,
+                    45.072643
+                ]
+            },
+            "properties": {
+                "entity": "Via Duchessa Jolanda",
+                "name_location": "Via Duchessa Jolanda, Centro, Circoscrizione 1, Turin, Torino, Piedmont, 10140, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...The district is well known for its commercial vocation mainly in its two main streets, Via Duchessa Jolanda and Via Principi d'Acaja, ideally crossing each other among the gardens Giardino Luigi Martini, locally called Piazza Benefica, which hosts a popular open market...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.662666,
+                    45.073781
+                ]
+            },
+            "properties": {
+                "entity": "Via Principi d'Acaja",
+                "name_location": "Via Principi d'Acaja, Cit Turin, Circoscrizione 3, Turin, Torino, Piedmont, 10138, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...The district is well known for its commercial vocation mainly in its two main streets, Via Duchessa Jolanda and Via Principi d'Acaja, ideally crossing each other among the gardens Giardino Luigi Martini, locally called Piazza Benefica, which hosts a popular open market...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.661509,
+                    45.073373
+                ]
+            },
+            "properties": {
+                "entity": "Piazza Benefica",
+                "name_location": "Mercato di Piazza Benefica, Via Susa, Cit Turin, Circoscrizione 3, Turin, Torino, Piedmont, 10138, Italy",
+                "class": "amenity",
+                "type": "marketplace",
+                "snippet": [
+                    "*...The district is well known for its commercial vocation mainly in its two main streets, Via Duchessa Jolanda and Via Principi d'Acaja, ideally crossing each other among the gardens Giardino Luigi Martini, locally called Piazza Benefica, which hosts a popular open market...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.657076,
+                    45.071052
+                ]
+            },
+            "properties": {
+                "entity": "Palazzo di Giustizia",
+                "name_location": "Palazzo di Giustizia - Bruno Caccia, 130, Corso Vittorio Emanuele II, Cit Turin, Circoscrizione 3, Turin, Torino, Piedmont, 10138, Italy",
+                "class": "amenity",
+                "type": "courthouse",
+                "snippet": [
+                    "...The district is also characterised by two massive recent buildings: the Palazzo di Giustizia, Turin's new courthouse built in the 1990s (in a 350-metre-long facility), and the first real skyscraper of Turin, the Torre Intesa Sanpaolo, which house the headquarters of one of the major Italian private banks...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.224872,
+                    44.821036
+                ]
+            },
+            "properties": {
+                "entity": "Torre Intesa Sanpaolo",
+                "name_location": "Intesa Sanpaolo - Filiale Torre Pellice, 9, Piazza della Libertà, Pilon, Torre Pellice, Torino, Piedmont, 10066, Italy",
+                "class": "amenity",
+                "type": "bank",
+                "snippet": [
+                    "...The district is also characterised by two massive recent buildings: the Palazzo di Giustizia, Turin's new courthouse built in the 1990s (in a 350-metre-long facility), and the first real skyscraper of Turin, the Torre Intesa Sanpaolo, which house the headquarters of one of the major Italian private banks...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.661587,
+                    45.08147
+                ]
+            },
+            "properties": {
+                "entity": "San Donato",
+                "name_location": "San Donato, Via Luigi Galvani, San Donato, Circoscrizione 4, Turin, Torino, Piedmont, 10144, Italy",
+                "class": "amenity",
+                "type": "pharmacy",
+                "snippet": [
+                    "...Circoscrizione 4: San Donato – Campidoglio – Parella ;...",
+                    "*...San Donato district is between Corso Francia, Corso Lecce, Corso Potenza, Via Nole, the Parco Dora and Corso Principe Oddone....",
+                    "...It was populated since the medieval era, but becomes bigger during the 19th century, prospering around the canal Canale di San Donato, which does not exist anymore, currently replaced by the central street of the district, Via San Donato....",
+                    "...The conservation of the street and of this old building influences the straightness of Via San Donato, which makes a slight curve to result in parallel with Via Pacinotti before ending in central Piazza Statuto square....",
+                    "...Other significant buildings are the Villa Boringhieri in Via San Donato, and other Art Nouveau and Neo-Gothic buildings are situated in Via Piffetti and Via Durandi....",
+                    "*...Mainly, in San Donato the portion reconverted was the one occupied by the plant of Michelin (west of Via Livorno) and FIAT ironwork plants (on the East)....",
+                    "...Once completed, Aurora district will be connected to Eastern San Donato, thanks to a better connection among the roads of the two adjacent districts (i.e. Corso Ciriè will continue in Corso Gamba and Strada del Fortino in Corso Rosai)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.645008,
+                    45.077737
+                ]
+            },
+            "properties": {
+                "entity": "Corso Lecce",
+                "name_location": "Corso Lecce, Campidoglio, Circoscrizione 4, Turin, Torino, Piedmont, 10145, Italy",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...San Donato district is between Corso Francia, Corso Lecce, Corso Potenza, Via Nole, the Parco Dora and Corso Principe Oddone...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.651929,
+                    45.08752
+                ]
+            },
+            "properties": {
+                "entity": "Corso Potenza",
+                "name_location": "Corso Potenza, Borgata Ceronda, Circoscrizione 4, Turin, Torino, Piedmont, 10143, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...San Donato district is between Corso Francia, Corso Lecce, Corso Potenza, Via Nole, the Parco Dora and Corso Principe Oddone...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.655132,
+                    45.091505
+                ]
+            },
+            "properties": {
+                "entity": "Via Nole",
+                "name_location": "Via Nole, Madonna di Campagna, Circoscrizione 5, Turin, Torino, Piedmont, 10149, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...San Donato district is between Corso Francia, Corso Lecce, Corso Potenza, Via Nole, the Parco Dora and Corso Principe Oddone...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.668373,
+                    45.087884
+                ]
+            },
+            "properties": {
+                "entity": "Parco Dora",
+                "name_location": "Parco commerciale Dora, Salita Michelangelo Garove, Parco Dora (Spina 3), Circoscrizione 4, Turin, Torino, Piedmont, 10144, Italy",
+                "class": "shop",
+                "type": "mall",
+                "snippet": [
+                    "...San Donato district is between Corso Francia, Corso Lecce, Corso Potenza, Via Nole, the Parco Dora and Corso Principe Oddone....",
+                    "*...The northern part of the district was part of the former industrial district of Turin, recently reconverted to a park called Parco Dora....",
+                    "*...Differently for other portions of Parco Dora, this part has been totally reconverted to park without letting any evidence of the industrial area except for the cooling tower which stands along Corso Umbria and became a symbol of the park....",
+                    "...South of the park, an interesting architecture of different levels is hosting a new shopping mall called Centro Commerciale Parco Dora...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.669466,
+                    45.077638
+                ]
+            },
+            "properties": {
+                "entity": "Corso Principe Oddone",
+                "name_location": "Corso Principe Oddone, Centro, Circoscrizione 1, Turin, Torino, Piedmont, 10140, Italy",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...San Donato district is between Corso Francia, Corso Lecce, Corso Potenza, Via Nole, the Parco Dora and Corso Principe Oddone....",
+                    "*...Another big avenue, which borders the district on its East, is Corso Principe Oddone, which in the past was along the railway to Milan....",
+                    "*...It stretches from downtown northern boundaries in Corso Regina Margherita (an extended and important thoroughfare of Turin) up to Corso Vigevano and Corso Novara in the North Side (namely the old excise boundary until the early 20th century); the western boundary is Corso Principe Oddone (now part of the Spina Centrale boulevard) and the eastern border is the Dora river....",
+                    "*...West of Borgo Dora stands Rione Valdocco (\"Valdocco neighbourhood\"), enclosed by Via Cigna, Corso Regina Margherita, Corso Principe Oddone and the Dora river....",
+                    "*...Overall, the main thoroughfares of the West side of Aurora are Via Cigna, which crosses the district from North to South, Corso Vercelli, a historical avenue starting north of the Dora river, and Corso Principe Oddone, part of the long Spina Centrale boulevard that will be built over the underground Turin-Milan railway...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.662882,
+                    45.081042
+                ]
+            },
+            "properties": {
+                "entity": "Via San Donato",
+                "name_location": "Via San Donato, Martinetto, Circoscrizione 4, Turin, Torino, Piedmont, 10140, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...It was populated since the medieval era, but becomes bigger during the 19th century, prospering around the canal Canale di San Donato, which does not exist anymore, currently replaced by the central street of the district, Via San Donato....",
+                    "*...The conservation of the street and of this old building influences the straightness of Via San Donato, which makes a slight curve to result in parallel with Via Pacinotti before ending in central Piazza Statuto square....",
+                    "*...Other significant buildings are the Villa Boringhieri in Via San Donato, and other Art Nouveau and Neo-Gothic buildings are situated in Via Piffetti and Via Durandi...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.654538,
+                    45.003066
+                ]
+            },
+            "properties": {
+                "entity": "Via Pacinotti",
+                "name_location": "Via Pacinotti, Nichelino, Torino, Piedmont, 10127, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Buildings in the district are relatively recent (around 1820), except for the oldest group of small houses in the Brusachœr neighbourhood (Palazzo Forneris building) along Via Pacinotti near the small Piazza Paravia....",
+                    "*...The conservation of the street and of this old building influences the straightness of Via San Donato, which makes a slight curve to result in parallel with Via Pacinotti before ending in central Piazza Statuto square...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.666173,
+                    45.080216
+                ]
+            },
+            "properties": {
+                "entity": "Piazza Paravia",
+                "name_location": "Piazza Innocenzo Vigliardi Paravia, Basso San Donato, Circoscrizione 4, Turin, Torino, Piedmont, Italy",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Buildings in the district are relatively recent (around 1820), except for the oldest group of small houses in the Brusachœr neighbourhood (Palazzo Forneris building) along Via Pacinotti near the small Piazza Paravia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6421,
+                    45.109659
+                ]
+            },
+            "properties": {
+                "entity": "Juventus Stadium",
+                "name_location": "Allianz Stadium, Via Druento, Continassa, Circoscrizione 5, Turin, Torino, Piedmont, 10151, Italy",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...Main church of the district is the Chiesa di Nostra Signora del Suffragio e Santa Zita, which with its 83 m (272 ft) height of its bell tower, is well known to be the fifth tallest structure in the city of Turin, after the Mole Antonelliana, the Intesa-Sanpaolo skyscraper, the Torre Littoria and the two pennons of the Juventus Stadium....",
+                    "...Juventus' owned ground, the Juventus Stadium, was inaugurated in 2011 and hosted the 2014 UEFA Europa League final, the 2021 Nations League finals and the 2022 Women's Champions League final...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.665508,
+                    45.078921
+                ]
+            },
+            "properties": {
+                "entity": "Via Saccarelli",
+                "name_location": "Via Gaspare Saccarelli, San Donato, Circoscrizione 4, Turin, Torino, Piedmont, 10144, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Villino Cibrario in Via Saccarelli is another significant building designed by Barnaba Panizza in 1842...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.666108,
+                    45.076753
+                ]
+            },
+            "properties": {
+                "entity": "Villino Raby",
+                "name_location": "Villino Raby, Corso Francia, Campidoglio, Circoscrizione 4, Turin, Torino, Piedmont, 10140, Italy",
+                "class": "building",
+                "type": "residential",
+                "snippet": [
+                    "*...The neighbourhood has a high concentration of historic buildings in Art Nouveau style designed by architect Pietro Fenoglio (among the others, the prestigious Villino Raby in Corso Francia 8)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.661127,
+                    45.077198
+                ]
+            },
+            "properties": {
+                "entity": "Via Piffetti",
+                "name_location": "Via Pietro Piffetti, Campidoglio, Circoscrizione 4, Turin, Torino, Piedmont, 10143, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Other significant buildings are the Villa Boringhieri in Via San Donato, and other Art Nouveau and Neo-Gothic buildings are situated in Via Piffetti and Via Durandi...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.659503,
+                    45.080991
+                ]
+            },
+            "properties": {
+                "entity": "Via Durandi",
+                "name_location": "Via Jacopo Durandi, San Donato, Circoscrizione 4, Turin, Torino, Piedmont, 10143, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Other significant buildings are the Villa Boringhieri in Via San Donato, and other Art Nouveau and Neo-Gothic buildings are situated in Via Piffetti and Via Durandi...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.648714,
+                    45.075673
+                ]
+            },
+            "properties": {
+                "entity": "Corso Svizzera",
+                "name_location": "Corso Svizzera, Cenisia, Circoscrizione 3, Turin, Torino, Piedmont, 10143, Italy",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...The district is crossed by some significant avenues: on Corso Svizzera, which crosses the district from North to South, faces the Business Centre Piero Della Francesca, where the offices of Tuttosport, one of the three national sports daily newspapers has its head offices....",
+                    "*...Also on Corso Svizzera, stands one of the oldest hospitals of the city, the Ospedale Amedeo di Savoia, specialised in infectious diseases...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.670919,
+                    45.081356
+                ]
+            },
+            "properties": {
+                "entity": "Corso Umbria",
+                "name_location": "Corso Umbria, Basso San Donato, Circoscrizione 4, Turin, Torino, Piedmont, 10140, Italy",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Other major avenues are Corso Umbria and Corso Tassoni....",
+                    "*...Differently for other portions of Parco Dora, this part has been totally reconverted to park without letting any evidence of the industrial area except for the cooling tower which stands along Corso Umbria and became a symbol of the park...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.656083,
+                    45.085695
+                ]
+            },
+            "properties": {
+                "entity": "Corso Tassoni",
+                "name_location": "Corso Alessandro Tassoni, Martinetto, Circoscrizione 4, Turin, Torino, Piedmont, 10143, Italy",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Other major avenues are Corso Umbria and Corso Tassoni...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.667156,
+                    45.08324
+                ]
+            },
+            "properties": {
+                "entity": "Via Livorno",
+                "name_location": "Via Livorno, Basso San Donato, Circoscrizione 4, Turin, Torino, Piedmont, 10144, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Mainly, in San Donato the portion reconverted was the one occupied by the plant of Michelin (west of Via Livorno) and FIAT ironwork plants (on the East)....",
+                    "*...East of Via Livorno, works are still partially in progress, with the Dora river still to be uncovered by a big slab, on which the FIAT plants used to stand)....",
+                    "*...West of Via Livorno, the Environment Park is a research centre for renewable energy...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.676824,
+                    45.089771
+                ]
+            },
+            "properties": {
+                "entity": "Corso Mortara",
+                "name_location": "Corso Mortara, Parco Dora (Spina 3), Circoscrizione 4, Turin, Torino, Piedmont, 10147, Italy",
+                "class": "highway",
+                "type": "secondary_link",
+                "snippet": [
+                    "*...Works are completed in the western area, where Corso Mortara has been closed to traffic and moved just a bit northern and covered by an artificial tunnel...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.676518,
+                    45.088622
+                ]
+            },
+            "properties": {
+                "entity": "Dora",
+                "name_location": "Dora, Corso Principe Oddone, Parco Dora (Spina 3), Circoscrizione 4, Turin, Torino, Piedmont, 10147, Italy",
+                "class": "railway",
+                "type": "construction",
+                "snippet": [
+                    "...Four major rivers pass through the city: the Po and three of its tributaries, the Dora Riparia (once known as Duria Minor by the Romans, from the Celtic noun duria meaning \"water\"), the Stura di Lanzo and the Sangone....",
+                    "...San Donato district is between Corso Francia, Corso Lecce, Corso Potenza, Via Nole, the Parco Dora and Corso Principe Oddone....",
+                    "...The northern part of the district was part of the former industrial district of Turin, recently reconverted to a park called Parco Dora....",
+                    "...Differently for other portions of Parco Dora, this part has been totally reconverted to park without letting any evidence of the industrial area except for the cooling tower which stands along Corso Umbria and became a symbol of the park....",
+                    "*...It is possible to access the southern shore of the Dora river....",
+                    "...South of the park, an interesting architecture of different levels is hosting a new shopping mall called Centro Commerciale Parco Dora....",
+                    "...East of Via Livorno, works are still partially in progress, with the Dora river still to be uncovered by a big slab, on which the FIAT plants used to stand)....",
+                    "...It stretches from downtown northern boundaries in Corso Regina Margherita (an extended and important thoroughfare of Turin) up to Corso Vigevano and Corso Novara in the North Side (namely the old excise boundary until the early 20th century); the western boundary is Corso Principe Oddone (now part of the Spina Centrale boulevard) and the eastern border is the Dora river....",
+                    "*...The district was named Aurora after the so-called Cascina Aurora, an old farmstead lying north of the Dora river, right at the intersection between Corso Giulio Cesare and Corso Emilia....",
+                    "*...The historical hub of the district is Borgo Dora (The \"Dora Borough\"), a small neighbourhood next to Porta Palazzo and enclosed by Corso Regina Margherita, Via Cigna, the Dora river and Corso Giulio Cesare....",
+                    "...Borgo Dora hosts several remarkable places, such as: Piccola Casa della Divina Provvidenza (\"Little House of the Divine Providence\"), also known as Cottolengo, a well-known charitable organization which has been operating for almost 200 years in the city; Arsenale della Pace (\"Arsenal of Peace\"), a former weapons factory that currently hosts the headquarters of SERMIG (Servizio Missionario Giovani), a nonprofit association which assists poor and homeless people; Caserma Cavalli (\"Cavalli Barracks\"), one of the most representative buildings of the district, a former barracks topped by a clock tower which now hosts Scuola Holden, a storytelling and performing arts school; the evocative Cortile del Maglio (\"Mallet Courtyard\"), a covered pedestrian area featuring bars and clubs....",
+                    "...Right at the borders of Borgo Dora stands part of Porta Palazzo open market which hosts the New Exhibition Hall, designed by the Italian architect Massimiliano Fuksas....",
+                    "...Borgo Dora, as many other pockets of Aurora, is characterized by the marked multi-ethnicity of its population, being home to a large community of immigrants from emerging countries....",
+                    "...West of Borgo Dora stands Rione Valdocco (\"Valdocco neighbourhood\"), enclosed by Via Cigna, Corso Regina Margherita, Corso Principe Oddone and the Dora river....",
+                    "*...Overall, the main thoroughfares of the West side of Aurora are Via Cigna, which crosses the district from North to South, Corso Vercelli, a historical avenue starting north of the Dora river, and Corso Principe Oddone, part of the long Spina Centrale boulevard that will be built over the underground Turin-Milan railway....",
+                    "*...Albeit not a road, the Dora river is also a significant element for the whole district, since it completely crosses it from West to East....",
+                    "...Vanchiglia is bordered by Corso San Maurizio, Corso Regio Parco and the Po river, crossed also by the Dora Riparia river and by two big avenues, Corso Regina Margherita and Corso Tortona....",
+                    "...A significant example was the area occupied by gas companies between Corso Regina Margherita and the Dora river, which were partially demolished to make place to the new modern Faculty of Law building (Campus \"Luigi Einaudi\"), designed by the architect Norman Foster....",
+                    "...Next to the campus, a new cycling and pedestrian bridge on the Dora river was opened on 16 April 2010, linking the campus area to Corso Verona....",
+                    "...The city has an international airport known as Caselle International Airport Sandro Pertini (airport code: TRN), in Caselle Torinese, about 13 km (8 mi) from Turin's centre—connected to the city by rail (from Dora Station) and bus (from Porta Nuova and Porta Susa railway stations).\nAs of 2010[update] a bicycle sharing system, the ToBike, is operational.\nThe metropolitan area is served by Turin metropolitan railway service.\nCentral districts are served by tram, lines 3,4,9 are light rail...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.670736,
+                    45.088207
+                ]
+            },
+            "properties": {
+                "entity": "Environment Park",
+                "name_location": "Environment Park - Parco Scientifico Tecnologico per l'Ambiente, Via Andrea Costaguta, Parco Dora (Spina 3), Circoscrizione 4, Turin, Torino, Piedmont, 10144, Italy",
+                "class": "building",
+                "type": "office",
+                "snippet": [
+                    "...West of Via Livorno, the Environment Park is a research centre for renewable energy...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.634774,
+                    45.219151
+                ]
+            },
+            "properties": {
+                "entity": "Aurora",
+                "name_location": "Aurora, 43, Via Andrea Remmert, San Maurizio Canavese, Torino, Piedmont, 10077, Italy",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "...Circoscrizione 7: Aurora – Vanchiglia – Sassi – Madonna del Pilone ;...",
+                    "*...Aurora is one of the most ancient districts which developed out of the medieval city walls, north of the historical city centre....",
+                    "*...The district was named Aurora after the so-called Cascina Aurora, an old farmstead lying north of the Dora river, right at the intersection between Corso Giulio Cesare and Corso Emilia....",
+                    "*...Borgo Dora, as many other pockets of Aurora, is characterized by the marked multi-ethnicity of its population, being home to a large community of immigrants from emerging countries....",
+                    "*...Overall, the main thoroughfares of the West side of Aurora are Via Cigna, which crosses the district from North to South, Corso Vercelli, a historical avenue starting north of the Dora river, and Corso Principe Oddone, part of the long Spina Centrale boulevard that will be built over the underground Turin-Milan railway....",
+                    "*...Once completed, Aurora district will be connected to Eastern San Donato, thanks to a better connection among the roads of the two adjacent districts (i.e. Corso Ciriè will continue in Corso Gamba and Strada del Fortino in Corso Rosai)....",
+                    "*...As for the rest of Aurora, the district is crossed by an important thoroughfare named Corso Giulio Cesare, a long boulevard that extends from Porta Palazzo up to Turin-Trieste motorway entrance in the Northern urban fringe of Turin....",
+                    "*...Other significant roads are Corso Palermo, Via Bologna and Corso Regio Parco, mostly in the East side of Aurora which is known as Borgo Rossini (\"Rossini Borough\")....",
+                    "*...As for the old residential buildings of the area, this part of Aurora hosts the oldest public housing block of the city, built by Istituto Autonomo Case Popolari (IACP) in 1908 in lieu of an old dilapidated small farm once known as Chiabotto delle Merle....",
+                    "*...Other companies operating in Turin are Maserati, Lancia, Alfa Romeo, Iveco, Pininfarina, Bertone, Sparco, Italdesign Giugiaro, New Holland, Comau, Magneti Marelli, Graziano Oerlikon, Ghia, Fioravanti (automotive), Rai (national broadcasting company), Banca Investis, FCA Bank, Intesa Sanpaolo, Reale Mutua (finance), Invicta, Kappa, Superga (fashion), Ferrero, Lavazza, Martini & Rossi (food & beverage), Alpitour (hospitality and tourism), TILab (ex-CSELT), and Aurora (pen manufacturer)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.685203,
+                    45.076026
+                ]
+            },
+            "properties": {
+                "entity": "Corso Regina Margherita",
+                "name_location": "Corso Regina Margherita, Quadrilatero Romano, Circoscrizione 1, Turin, Torino, Piedmont, 10152, Italy",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...It stretches from downtown northern boundaries in Corso Regina Margherita (an extended and important thoroughfare of Turin) up to Corso Vigevano and Corso Novara in the North Side (namely the old excise boundary until the early 20th century); the western boundary is Corso Principe Oddone (now part of the Spina Centrale boulevard) and the eastern border is the Dora river....",
+                    "*...The historical hub of the district is Borgo Dora (The \"Dora Borough\"), a small neighbourhood next to Porta Palazzo and enclosed by Corso Regina Margherita, Via Cigna, the Dora river and Corso Giulio Cesare....",
+                    "*...West of Borgo Dora stands Rione Valdocco (\"Valdocco neighbourhood\"), enclosed by Via Cigna, Corso Regina Margherita, Corso Principe Oddone and the Dora river....",
+                    "*...Vanchiglia is bordered by Corso San Maurizio, Corso Regio Parco and the Po river, crossed also by the Dora Riparia river and by two big avenues, Corso Regina Margherita and Corso Tortona....",
+                    "*...Borgo Vanchiglia is the historical district: a little triangle next to downtown, situated between Corso San Maurizio, Corso Regina Margherita and the Po river....",
+                    "*...Other notable buildings are the town public baths, eclectic building built in 1905 (Corso Regina Margherita crossing Via Vanchiglia), and theTeatro della Caduta theatre, opened in 2003 in Via Michele Buniva 23, which with its 45 seats is the smallest theatre in Turin and among the smallest theatres in Europe....",
+                    "*...In Corso Regina Margherita, another notable building is the former Opera pia Reynero, a charitable organization....",
+                    "*...North of Corso Regina Margherita, district is losing the flavour and architecture typical of Turin downtown, cause a significant portion of the district was formerly occupied by factories, nowadays partially abandoned or replaced by modern buildings....",
+                    "*...A significant example was the area occupied by gas companies between Corso Regina Margherita and the Dora river, which were partially demolished to make place to the new modern Faculty of Law building (Campus \"Luigi Einaudi\"), designed by the architect Norman Foster...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.687806,
+                    45.088736
+                ]
+            },
+            "properties": {
+                "entity": "Corso Vigevano",
+                "name_location": "Corso Vigevano, Aurora, Circoscrizione 7, Turin, Torino, Piedmont, 10152, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...It stretches from downtown northern boundaries in Corso Regina Margherita (an extended and important thoroughfare of Turin) up to Corso Vigevano and Corso Novara in the North Side (namely the old excise boundary until the early 20th century); the western boundary is Corso Principe Oddone (now part of the Spina Centrale boulevard) and the eastern border is the Dora river....",
+                    "*...An example are the remains of FIAT Officine Grandi Motori (OGM) in Corso Vigevano, an old factory that produced big industrial and automotive Diesel engines, a sort of symbol of the industrial history of Turin...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.700171,
+                    45.079703
+                ]
+            },
+            "properties": {
+                "entity": "Corso Novara",
+                "name_location": "Corso Novara, Rossini, Circoscrizione 7, Turin, Torino, Piedmont, 10124, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...It stretches from downtown northern boundaries in Corso Regina Margherita (an extended and important thoroughfare of Turin) up to Corso Vigevano and Corso Novara in the North Side (namely the old excise boundary until the early 20th century); the western boundary is Corso Principe Oddone (now part of the Spina Centrale boulevard) and the eastern border is the Dora river....",
+                    "*...The ancient part of the cemetery rises from the main entrance of Corso Novara with his octagonal shape...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.685701,
+                    45.080089
+                ]
+            },
+            "properties": {
+                "entity": "Corso Giulio Cesare",
+                "name_location": "Corso Giulio Cesare, Aurora, Circoscrizione 7, Turin, Torino, Piedmont, 10152, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...The district was named Aurora after the so-called Cascina Aurora, an old farmstead lying north of the Dora river, right at the intersection between Corso Giulio Cesare and Corso Emilia....",
+                    "*...The historical hub of the district is Borgo Dora (The \"Dora Borough\"), a small neighbourhood next to Porta Palazzo and enclosed by Corso Regina Margherita, Via Cigna, the Dora river and Corso Giulio Cesare....",
+                    "*...As for the rest of Aurora, the district is crossed by an important thoroughfare named Corso Giulio Cesare, a long boulevard that extends from Porta Palazzo up to Turin-Trieste motorway entrance in the Northern urban fringe of Turin...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.684954,
+                    45.08386
+                ]
+            },
+            "properties": {
+                "entity": "Corso Emilia",
+                "name_location": "Corso Emilia, Aurora, Circoscrizione 7, Turin, Torino, Piedmont, 10152, Italy",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...The district was named Aurora after the so-called Cascina Aurora, an old farmstead lying north of the Dora river, right at the intersection between Corso Giulio Cesare and Corso Emilia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.676598,
+                    45.07958
+                ]
+            },
+            "properties": {
+                "entity": "Via Cigna",
+                "name_location": "Via Francesco Cigna, Valdocco, Circoscrizione 7, Turin, Torino, Piedmont, 10122, Italy",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...The historical hub of the district is Borgo Dora (The \"Dora Borough\"), a small neighbourhood next to Porta Palazzo and enclosed by Corso Regina Margherita, Via Cigna, the Dora river and Corso Giulio Cesare....",
+                    "*...West of Borgo Dora stands Rione Valdocco (\"Valdocco neighbourhood\"), enclosed by Via Cigna, Corso Regina Margherita, Corso Principe Oddone and the Dora river....",
+                    "*...Overall, the main thoroughfares of the West side of Aurora are Via Cigna, which crosses the district from North to South, Corso Vercelli, a historical avenue starting north of the Dora river, and Corso Principe Oddone, part of the long Spina Centrale boulevard that will be built over the underground Turin-Milan railway....",
+                    "*...Another disused facility is Astanteria Martini (\"Martini Emergency Department\") in Via Cigna, a former emergency department from the 1920s which has been lying vacant since long...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.683339,
+                    45.079324
+                ]
+            },
+            "properties": {
+                "entity": "Balon",
+                "name_location": "Bar del Balon, 12/F, Via Borgo Dora, Porta Palazzo, Circoscrizione 7, Turin, Torino, Piedmont, 10152, Italy",
+                "class": "amenity",
+                "type": "cafe",
+                "snippet": [
+                    "*...Once known as Borgo del Pallone (literally \"Ball Borough\") or Balon in Piedmontese dialect (locally ), this neighbourhood is famous for its mercatino del Balon or simply Balon, the Turinese flea market that opens every Saturday in its tiny and twisted streets....",
+                    "*...Across from Cortile del Maglio and Arsenale della Pace stands a wide pedestrian area which features a hot air balloon, a clear allusion to the neighbourhood's old name Balon: recently installed, the balloon is open to public which can now take an interesting view of the city from this new high observation point...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.680798,
+                    45.079545
+                ]
+            },
+            "properties": {
+                "entity": "Piccola Casa della Divina Provvidenza",
+                "name_location": "Piccola Casa della Divina Provvidenza, Via San Pietro in Vincoli, Borgo Dora, Circoscrizione 7, Turin, Torino, Piedmont, 10122, Italy",
+                "class": "building",
+                "type": "hospital",
+                "snippet": [
+                    "*...Borgo Dora hosts several remarkable places, such as: Piccola Casa della Divina Provvidenza (\"Little House of the Divine Providence\"), also known as Cottolengo, a well-known charitable organization which has been operating for almost 200 years in the city; Arsenale della Pace (\"Arsenal of Peace\"), a former weapons factory that currently hosts the headquarters of SERMIG (Servizio Missionario Giovani), a nonprofit association which assists poor and homeless people; Caserma Cavalli (\"Cavalli Barracks\"), one of the most representative buildings of the district, a former barracks topped by a clock tower which now hosts Scuola Holden, a storytelling and performing arts school; the evocative Cortile del Maglio (\"Mallet Courtyard\"), a covered pedestrian area featuring bars and clubs...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.683222,
+                    45.080834
+                ]
+            },
+            "properties": {
+                "entity": "Cortile del Maglio",
+                "name_location": "Cortile del Maglio, Borgo Dora, Circoscrizione 7, Turin, Torino, Piedmont, Italy",
+                "class": "highway",
+                "type": "footway",
+                "snippet": [
+                    "*...Borgo Dora hosts several remarkable places, such as: Piccola Casa della Divina Provvidenza (\"Little House of the Divine Providence\"), also known as Cottolengo, a well-known charitable organization which has been operating for almost 200 years in the city; Arsenale della Pace (\"Arsenal of Peace\"), a former weapons factory that currently hosts the headquarters of SERMIG (Servizio Missionario Giovani), a nonprofit association which assists poor and homeless people; Caserma Cavalli (\"Cavalli Barracks\"), one of the most representative buildings of the district, a former barracks topped by a clock tower which now hosts Scuola Holden, a storytelling and performing arts school; the evocative Cortile del Maglio (\"Mallet Courtyard\"), a covered pedestrian area featuring bars and clubs....",
+                    "*...Across from Cortile del Maglio and Arsenale della Pace stands a wide pedestrian area which features a hot air balloon, a clear allusion to the neighbourhood's old name Balon: recently installed, the balloon is open to public which can now take an interesting view of the city from this new high observation point...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.68424,
+                    45.081925
+                ]
+            },
+            "properties": {
+                "entity": "Arsenale della Pace",
+                "name_location": "Sermig - Arsenale della Pace, Lungo Dora Agrigento, Borgo Dora, Circoscrizione 7, Turin, Torino, Piedmont, 10152, Italy",
+                "class": "amenity",
+                "type": "social_facility",
+                "snippet": [
+                    "*...Borgo Dora hosts several remarkable places, such as: Piccola Casa della Divina Provvidenza (\"Little House of the Divine Providence\"), also known as Cottolengo, a well-known charitable organization which has been operating for almost 200 years in the city; Arsenale della Pace (\"Arsenal of Peace\"), a former weapons factory that currently hosts the headquarters of SERMIG (Servizio Missionario Giovani), a nonprofit association which assists poor and homeless people; Caserma Cavalli (\"Cavalli Barracks\"), one of the most representative buildings of the district, a former barracks topped by a clock tower which now hosts Scuola Holden, a storytelling and performing arts school; the evocative Cortile del Maglio (\"Mallet Courtyard\"), a covered pedestrian area featuring bars and clubs....",
+                    "*...Across from Cortile del Maglio and Arsenale della Pace stands a wide pedestrian area which features a hot air balloon, a clear allusion to the neighbourhood's old name Balon: recently installed, the balloon is open to public which can now take an interesting view of the city from this new high observation point...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.59196,
+                    45.237584
+                ]
+            },
+            "properties": {
+                "entity": "Ciriè-Lanzo",
+                "name_location": "TuttoCapsule Ciriè Valli di Lanzo, 133, Via Lanzo, Ciriè, Torino, Piedmont, 10073, Italy",
+                "class": "shop",
+                "type": "coffee",
+                "snippet": [
+                    "*...Another interesting building at the borders of the neighbourhood is Porta Milano (a.k.a. stazione della Ciriè-Lanzo), a former 19th-century railway station that marked the terminus of Ciriè-Lanzo railway line until the 1980s...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.678618,
+                    45.090149
+                ]
+            },
+            "properties": {
+                "entity": "Piazza Baldissera",
+                "name_location": "Piazza Generale Antonio Baldissera, Borgata Tesso, Circoscrizione 5, Turin, Torino, Piedmont, 10147, Italy",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...To this day, the station is no longer in use as well as the rails up to Piazza Baldissera...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.634652,
+                    45.046739
+                ]
+            },
+            "properties": {
+                "entity": "San Pietro",
+                "name_location": "San Pietro, 87, Corso Siracusa, Città Giardino, Circoscrizione 2, Turin, Torino, Piedmont, 10136, Italy",
+                "class": "amenity",
+                "type": "pharmacy",
+                "snippet": [
+                    "*...This neighbourhood hosts the significant architecture of Santuario di Maria Ausiliatrice (\"Maria Ausiliatrice Sanctuary\") in the homonymous square and behind the church stands San Pietro in Vincoli old cemetery...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.684954,
+                    45.08386
+                ]
+            },
+            "properties": {
+                "entity": "Corso Vercelli",
+                "name_location": "Corso Vercelli, Aurora, Circoscrizione 7, Turin, Torino, Piedmont, 10152, Italy",
+                "class": "highway",
+                "type": "unclassified",
+                "snippet": [
+                    "*...Overall, the main thoroughfares of the West side of Aurora are Via Cigna, which crosses the district from North to South, Corso Vercelli, a historical avenue starting north of the Dora river, and Corso Principe Oddone, part of the long Spina Centrale boulevard that will be built over the underground Turin-Milan railway...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.676299,
+                    45.083542
+                ]
+            },
+            "properties": {
+                "entity": "Corso Ciriè",
+                "name_location": "Corso Ciriè, Valdocco, Circoscrizione 7, Turin, Torino, Piedmont, 10152, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Once completed, Aurora district will be connected to Eastern San Donato, thanks to a better connection among the roads of the two adjacent districts (i.e. Corso Ciriè will continue in Corso Gamba and Strada del Fortino in Corso Rosai)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.670237,
+                    45.085621
+                ]
+            },
+            "properties": {
+                "entity": "Corso Gamba",
+                "name_location": "Corso Enrico Gamba, Parco Dora (Spina 3), Circoscrizione 4, Turin, Torino, Piedmont, 10144, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Once completed, Aurora district will be connected to Eastern San Donato, thanks to a better connection among the roads of the two adjacent districts (i.e. Corso Ciriè will continue in Corso Gamba and Strada del Fortino in Corso Rosai)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.681882,
+                    45.083059
+                ]
+            },
+            "properties": {
+                "entity": "Strada del Fortino",
+                "name_location": "Strada del Fortino, Borgo Dora, Circoscrizione 7, Turin, Torino, Piedmont, 10152, Italy",
+                "class": "highway",
+                "type": "unclassified",
+                "snippet": [
+                    "*...Once completed, Aurora district will be connected to Eastern San Donato, thanks to a better connection among the roads of the two adjacent districts (i.e. Corso Ciriè will continue in Corso Gamba and Strada del Fortino in Corso Rosai)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.692445,
+                    45.076754
+                ]
+            },
+            "properties": {
+                "entity": "Corso Palermo",
+                "name_location": "Corso Palermo, Rossini, Circoscrizione 7, Turin, Torino, Piedmont, 10124, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Other significant roads are Corso Palermo, Via Bologna and Corso Regio Parco, mostly in the East side of Aurora which is known as Borgo Rossini (\"Rossini Borough\")...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.690975,
+                    45.080496
+                ]
+            },
+            "properties": {
+                "entity": "Via Bologna",
+                "name_location": "Via Bologna, Aurora, Circoscrizione 7, Turin, Torino, Piedmont, 10152, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Other significant roads are Corso Palermo, Via Bologna and Corso Regio Parco, mostly in the East side of Aurora which is known as Borgo Rossini (\"Rossini Borough\")...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.691472,
+                    45.075637
+                ]
+            },
+            "properties": {
+                "entity": "Corso Regio Parco",
+                "name_location": "Corso Regio Parco, Rossini, Circoscrizione 7, Turin, Torino, Piedmont, 10124, Italy",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Other significant roads are Corso Palermo, Via Bologna and Corso Regio Parco, mostly in the East side of Aurora which is known as Borgo Rossini (\"Rossini Borough\")....",
+                    "*...Vanchiglia is bordered by Corso San Maurizio, Corso Regio Parco and the Po river, crossed also by the Dora Riparia river and by two big avenues, Corso Regina Margherita and Corso Tortona...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.691415,
+                    45.07321
+                ]
+            },
+            "properties": {
+                "entity": "Corso San Maurizio",
+                "name_location": "Corso San Maurizio, Rossini, Circoscrizione 7, Turin, Torino, Piedmont, 10124, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Vanchiglia is bordered by Corso San Maurizio, Corso Regio Parco and the Po river, crossed also by the Dora Riparia river and by two big avenues, Corso Regina Margherita and Corso Tortona....",
+                    "*...Borgo Vanchiglia is the historical district: a little triangle next to downtown, situated between Corso San Maurizio, Corso Regina Margherita and the Po river....",
+                    "*...This building is where Corso San Maurizio meets Via Giulia di Barolo, and it is one of the most peculiar examples of Turin architecture: a thin trapezoid 27 meters wide on Via Giulia Di Barolo, 5 meters on Corso San Maurizio and just 0.70 meters wide on the opposite end...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.704768,
+                    45.075041
+                ]
+            },
+            "properties": {
+                "entity": "Corso Tortona",
+                "name_location": "Corso Tortona, Vanchiglia, Circoscrizione 7, Turin, Torino, Piedmont, 10153, Italy",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Vanchiglia is bordered by Corso San Maurizio, Corso Regio Parco and the Po river, crossed also by the Dora Riparia river and by two big avenues, Corso Regina Margherita and Corso Tortona...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.699831,
+                    45.070227
+                ]
+            },
+            "properties": {
+                "entity": "Piazza Santa Giulia",
+                "name_location": "Piazza Santa Giulia, Vanchiglia, Circoscrizione 7, Turin, Torino, Piedmont, 10124, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Notable church in Borgo Vanchiglia is the French neo-Gothic Chiesa di Santa Giulia situated into Piazza Santa Giulia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.69696,
+                    45.067811
+                ]
+            },
+            "properties": {
+                "entity": "Casa Scaccabarozzi",
+                "name_location": "Casa Scaccabarozzi, Via Giulia di Barolo, Vanchiglia, Circoscrizione 7, Turin, Torino, Piedmont, 10124, Italy",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...A notable and unusual building in the area is the so-called \"Fetta di Polenta\" (literally: \"polenta slice\"), formerly known as Casa Scaccabarozzi...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.694698,
+                    45.065924
+                ]
+            },
+            "properties": {
+                "entity": "Via Giulia Di Barolo",
+                "name_location": "Via Giulia di Barolo, Borgo Nuovo, Circoscrizione 1, Turin, Torino, Piedmont, 10124, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...This building is where Corso San Maurizio meets Via Giulia di Barolo, and it is one of the most peculiar examples of Turin architecture: a thin trapezoid 27 meters wide on Via Giulia Di Barolo, 5 meters on Corso San Maurizio and just 0.70 meters wide on the opposite end...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.697112,
+                    45.066697
+                ]
+            },
+            "properties": {
+                "entity": "Via Vanchiglia 8",
+                "name_location": "8/B, Via Vanchiglia, Borgo Nuovo, Circoscrizione 1, Turin, Torino, Piedmont, 10124, Italy",
+                "class": "place",
+                "type": "house",
+                "snippet": [
+                    "*...In the surroundings, in Via Vanchiglia 8, (although in downtown and not really in Vanchiglia anymore) there is another trapezoid house, albeit with less extreme design: similarly, this building is nicknamed \"Fetta di Formaggio\" (cheese slice), built in 1832 for the rich Marchese Birago di Vische by the architect Antonio Talentino...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.695404,
+                    45.065468
+                ]
+            },
+            "properties": {
+                "entity": "Via Vanchiglia",
+                "name_location": "Via Vanchiglia, Borgo Nuovo, Circoscrizione 1, Turin, Torino, Piedmont, 10124, Italy",
+                "class": "railway",
+                "type": "tram",
+                "snippet": [
+                    "...In the surroundings, in Via Vanchiglia 8, (although in downtown and not really in Vanchiglia anymore) there is another trapezoid house, albeit with less extreme design: similarly, this building is nicknamed \"Fetta di Formaggio\" (cheese slice), built in 1832 for the rich Marchese Birago di Vische by the architect Antonio Talentino....",
+                    "*...Other notable buildings are the town public baths, eclectic building built in 1905 (Corso Regina Margherita crossing Via Vanchiglia), and theTeatro della Caduta theatre, opened in 2003 in Via Michele Buniva 23, which with its 45 seats is the smallest theatre in Turin and among the smallest theatres in Europe...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.697432,
+                    45.069044
+                ]
+            },
+            "properties": {
+                "entity": "Via Michele Buniva 23",
+                "name_location": "Via Michele Buniva, Vanchiglia, Circoscrizione 7, Turin, Torino, Piedmont, 10124, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Other notable buildings are the town public baths, eclectic building built in 1905 (Corso Regina Margherita crossing Via Vanchiglia), and theTeatro della Caduta theatre, opened in 2003 in Via Michele Buniva 23, which with its 45 seats is the smallest theatre in Turin and among the smallest theatres in Europe...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.699029,
+                    45.073799
+                ]
+            },
+            "properties": {
+                "entity": "Campus \"Luigi Einaudi\"",
+                "name_location": "Campus Luigi Einaudi, Lungo Dora Siena, Vanchiglia, Circoscrizione 7, Turin, Torino, Piedmont, 10124, Italy",
+                "class": "amenity",
+                "type": "university",
+                "snippet": [
+                    "...A significant example was the area occupied by gas companies between Corso Regina Margherita and the Dora river, which were partially demolished to make place to the new modern Faculty of Law building (Campus \"Luigi Einaudi\"), designed by the architect Norman Foster...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.722064,
+                    45.077014
+                ]
+            },
+            "properties": {
+                "entity": "Parco Colletta",
+                "name_location": "Passerella del Parco Pietro Colletta, Vanchiglietta, Circoscrizione 7, Sassi, Turin, Torino, Piedmont, 10132, Italy",
+                "class": "highway",
+                "type": "cycleway",
+                "snippet": [
+                    "*...Parco Colletta is a big park area touched by the two rivers of the district, which also hosts some sport facilities, mainly football fields and a swimming pool....",
+                    "*...Other large parks are Parco della Pellerina, Parco Colletta, Parco Rignon, Parco Colonnetti and the University botanical gardens...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.706265,
+                    45.075749
+                ]
+            },
+            "properties": {
+                "entity": "Colletta",
+                "name_location": "Lungo Dora Pietro Colletta, Vanchiglia, Circoscrizione 7, Turin, Torino, Piedmont, 10153, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "...Parco Colletta is a big park area touched by the two rivers of the district, which also hosts some sport facilities, mainly football fields and a swimming pool....",
+                    "*...It is close to the Colletta park....",
+                    "*...Over the years there have been subsequent extensions of the central historical body in the direction of the Colletta park....",
+                    "...Other large parks are Parco della Pellerina, Parco Colletta, Parco Rignon, Parco Colonnetti and the University botanical gardens...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.679075,
+                    45.076749
+                ]
+            },
+            "properties": {
+                "entity": "Santuario della Consolata",
+                "name_location": "Santuario della Consolata, Piazza della Consolata, Quadrilatero Romano, Circoscrizione 1, Turin, Torino, Piedmont, 10122, Italy",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "...In the cemetery, there is a crematory temple built in 1882, one of the largest in Italy.\nThe Santuario della Consolata, a sanctuary much frequented by pilgrims, stands on the site of the tenth-century Monastery of St. Andrew, and is a work by Guarini...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.698442,
+                    45.063028
+                ]
+            },
+            "properties": {
+                "entity": "Gran Madre",
+                "name_location": "Gran Madre, Piazza Gran Madre di Dio, Borgo Po, Circoscrizione 8, Turin, Torino, Piedmont, 10124, Italy",
+                "class": "amenity",
+                "type": "bicycle_rental",
+                "snippet": [
+                    "...Some of the most iconic landmarks of the city, like the Mole Antonelliana, the Egyptian Museum, the Gran Madre di Dio church and Piazza Vittorio Veneto were built in this period....",
+                    "...Outside the city are: the Basilica of Our Lady, Help of Christians built by St. John Bosco, the Gran Madre built in 1818 on occasion of the return of King Victor Emmanuel I of Sardinia and Santa Maria del Monte (1583) on Monte dei Cappuccini...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.697399,
+                    45.06001
+                ]
+            },
+            "properties": {
+                "entity": "Monte dei Cappuccini",
+                "name_location": "Al Monte Dei Cappuccini, 12, Salita al CAI Torino, Borgo Po, Circoscrizione 8, Turin, Torino, Piedmont, 10131, Italy",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...Outside the city are: the Basilica of Our Lady, Help of Christians built by St. John Bosco, the Gran Madre built in 1818 on occasion of the return of King Victor Emmanuel I of Sardinia and Santa Maria del Monte (1583) on Monte dei Cappuccini...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.638159,
+                    45.043079
+                ]
+            },
+            "properties": {
+                "entity": "Parco Rignon",
+                "name_location": "Parco Rignon, Santa Rita, Circoscrizione 2, Turin, Torino, Piedmont, 10137, Italy",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Other large parks are Parco della Pellerina, Parco Colletta, Parco Rignon, Parco Colonnetti and the University botanical gardens...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.640911,
+                    45.010094
+                ]
+            },
+            "properties": {
+                "entity": "Parco Colonnetti",
+                "name_location": "Parco Colonnetti, Strada Castello di Mirafiori, Mirafiori Sud, Circoscrizione 2, Turin, Torino, Piedmont, 10135, Italy",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Other large parks are Parco della Pellerina, Parco Colletta, Parco Rignon, Parco Colonnetti and the University botanical gardens...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.638547,
+                    45.076988
+                ]
+            },
+            "properties": {
+                "entity": "Villa Tesoriera",
+                "name_location": "Villa La Tesoriera, Via Borgosesia, Parella, Circoscrizione 4, Turin, Torino, Piedmont, 10145, Italy",
+                "class": "building",
+                "type": "civic",
+                "snippet": [
+                    "*...One of the most famous parks featuring a children's playground is Parco della Tesoriera, which is also home to Andrea della Corte Municipal Music Library; this facility is housed in Villa Tesoriera, built in 1715 and once the Royal Treasurer's residence...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.656936,
+                    45.018234
+                ]
+            },
+            "properties": {
+                "entity": "Pantheon",
+                "name_location": "Pantheon, Corso Caio Plinio, Basse di Mirafiori, Circoscrizione 2, Turin, Torino, Piedmont, 10127, Italy",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...As the Savoy family refused to allow her to be buried next to her husband in the Pantheon, her children had a mausoleum built for her in a similar form and on a smaller scale in Turin, next to the road to the Castello di Mirafiori...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.650016,
+                    45.008977
+                ]
+            },
+            "properties": {
+                "entity": "Castello di Mirafiori",
+                "name_location": "Castello Di Mirafiori, Via Fratelli Bandiera, Basse di Mirafiori, Circoscrizione 2, Turin, Torino, Piedmont, 10127, Italy",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "...As the Savoy family refused to allow her to be buried next to her husband in the Pantheon, her children had a mausoleum built for her in a similar form and on a smaller scale in Turin, next to the road to the Castello di Mirafiori...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.599007,
+                    45.079905
+                ]
+            },
+            "properties": {
+                "entity": "International Space Station",
+                "name_location": "International Space Station, Viale Certosa, Borgata Paradiso, Collegno, Torino, Piedmont, 10993, Italy",
+                "class": "historic",
+                "type": "memorial",
+                "snippet": [
+                    "*...The International Space Station modules Harmony, Columbus, Tranquility, as well as the Cupola and all MPLMs were produced in Turin...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.685054,
+                    45.072926
+                ]
+            },
+            "properties": {
+                "entity": "Palazzo Chiablese",
+                "name_location": "Palazzo Chiablese, Centro, Circoscrizione 1, Turin, Torino, Piedmont, 10122, Italy",
+                "class": "historic",
+                "type": "manor",
+                "snippet": [
+                    "*...Turin is home to Palazzo Chiablese, the Royal Armoury, the Royal Library, Palazzo Madama, Palazzo Carignano, Villa della Regina, and the Valentino Castle....",
+                    "...1956 saw the opening of the National Museum of Cinema, first housed in the Palazzo Chiablese and then, from 2000, in the imposing headquarters of the Mole Antonelliana...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.708311,
+                    45.058041
+                ]
+            },
+            "properties": {
+                "entity": "Villa della Regina",
+                "name_location": "Villa della Regina, 79, Corte d'Onore, Valsalice, Circoscrizione 8, Turin, Torino, Piedmont, 10131, Italy",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Turin is home to Palazzo Chiablese, the Royal Armoury, the Royal Library, Palazzo Madama, Palazzo Carignano, Villa della Regina, and the Valentino Castle...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.633778,
+                    45.117456
+                ]
+            },
+            "properties": {
+                "entity": "Venaria Reale",
+                "name_location": "Ecocentro Venaria Reale, 52, Corso Cuneo, Altessano, Venaria Reale, Torino, Piedmont, 10078, Italy",
+                "class": "amenity",
+                "type": "recycling",
+                "snippet": [
+                    "*...The complex of the Residences of the Royal House of Savoy in Turin and in the nearby cities of Rivoli, Moncalieri, Venaria Reale, Agliè, Racconigi, Stupinigi, Pollenzo and Govone was declared a World Heritage Sites by UNESCO in 1997...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.767334,
+                    45.080014
+                ]
+            },
+            "properties": {
+                "entity": "Superga",
+                "name_location": "Superga, Strada alla Parrocchia di Superga, Tetti Rocco, Circoscrizione 7, Turin, Torino, Piedmont, 10099, Italy",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "...The city is mainly on the western bank of the Po River, below its Susa Valley, and is surrounded by the western Alpine arch and Superga Hill....",
+                    "...In the hills overlooking the city, the Basilica of Superga provides a view of Turin against a backdrop of the snow-capped Alps....",
+                    "*...Superga can be reached by means of the Superga Rack Railway from Sassi suburb....",
+                    "...The Basilica of Superga was built by Amadeus II of Savoy as an ex-voto for the liberation of Turin (1706), and served as a royal mausoleum since 1772....",
+                    "*...Other companies operating in Turin are Maserati, Lancia, Alfa Romeo, Iveco, Pininfarina, Bertone, Sparco, Italdesign Giugiaro, New Holland, Comau, Magneti Marelli, Graziano Oerlikon, Ghia, Fioravanti (automotive), Rai (national broadcasting company), Banca Investis, FCA Bank, Intesa Sanpaolo, Reale Mutua (finance), Invicta, Kappa, Superga (fashion), Ferrero, Lavazza, Martini & Rossi (food & beverage), Alpitour (hospitality and tourism), TILab (ex-CSELT), and Aurora (pen manufacturer)....",
+                    "*...In 1949, in the Superga air disaster, a plane carrying almost the whole team crashed into the Basilica of Superga in the Turin hills...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.650015,
+                    45.041744
+                ]
+            },
+            "properties": {
+                "entity": "Stadio Olimpico \"Grande Torino\"",
+                "name_location": "Stadio Olimpico Grande Torino, Via Filadelfia, Santa Rita, Circoscrizione 2, Turin, Torino, Piedmont, 10134, Italy",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "...Torino currently plays its home games at the Stadio Olimpico \"Grande Torino\", named after the team of the 1940s, which was the host stadiums for the 1934 FIFA World Cup and the venue of the XX Winter Olympics; moreover the team recently rebuilt the historic Stadio Filadelfia, used for games of the youth teams and trainings of the first squad, and seat of the team museum...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.658548,
+                    45.038246
+                ]
+            },
+            "properties": {
+                "entity": "Stadio Filadelfia",
+                "name_location": "Stadio Filadelfia, Via Filadelfia, Filadelfia, Circoscrizione 8, Turin, Torino, Piedmont, 10134, Italy",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...Torino currently plays its home games at the Stadio Olimpico \"Grande Torino\", named after the team of the 1940s, which was the host stadiums for the 1934 FIFA World Cup and the venue of the XX Winter Olympics; moreover the team recently rebuilt the historic Stadio Filadelfia, used for games of the youth teams and trainings of the first squad, and seat of the team museum...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.686808,
+                    45.069846
+                ]
+            },
+            "properties": {
+                "entity": "Caffè Mulassano",
+                "name_location": "Caffè Mulassano, 15, Piazza Castello, Centro, Circoscrizione 1, Turin, Torino, Piedmont, 10123, Italy",
+                "class": "amenity",
+                "type": "cafe",
+                "snippet": [
+                    "*...As for snack food, the now popular tramezzini were first served in a historic café of downtown Turin, namely Caffè Mulassano, where they were devised in 1925 as an alternative to English tea sandwiches...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.714268,
+                    45.108562
+                ]
+            },
+            "properties": {
+                "entity": "Stura",
+                "name_location": "Stura, Lungo Stura Lazio, Pietra Alta, Circoscrizione 6, Turin, Torino, Piedmont, 10156, Italy",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "...Four major rivers pass through the city: the Po and three of its tributaries, the Dora Riparia (once known as Duria Minor by the Romans, from the Celtic noun duria meaning \"water\"), the Stura di Lanzo and the Sangone....",
+                    "*...Other important stations are Stura, Rebaudengo, Lingotto and Madonna di Campagna railway stations, though not all of them belong to the layout of the Spina Centrale...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.689295,
+                    45.100302
+                ]
+            },
+            "properties": {
+                "entity": "Rebaudengo",
+                "name_location": "Rebaudengo, Corso Venezia, Borgo Vittoria, Circoscrizione 6, Turin, Torino, Piedmont, 10155, Italy",
+                "class": "leisure",
+                "type": "pitch",
+                "snippet": [
+                    "...Circoscrizione 6: Barriera di Milano – Regio Parco – Barca – Bertolla – Falchera – Rebaudengo – Villaretto ;...",
+                    "*...Other important stations are Stura, Rebaudengo, Lingotto and Madonna di Campagna railway stations, though not all of them belong to the layout of the Spina Centrale...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.666883,
+                    45.031404
+                ]
+            },
+            "properties": {
+                "entity": "Lingotto",
+                "name_location": "Lingotto, Via Nizza, Nizza Millefonti, Circoscrizione 8, Turin, Torino, Piedmont, 10126, Italy",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "...In 1920 the Lingotto Fiat factory was occupied....",
+                    "...Circoscrizione 8: San Salvario – Cavoretto – Borgo Po – Nizza Millefonti – Lingotto – Filadelfia ....",
+                    "*...Other important stations are Stura, Rebaudengo, Lingotto and Madonna di Campagna railway stations, though not all of them belong to the layout of the Spina Centrale....",
+                    "*...On 4 October 2007, the line was extended to Porta Nuova and then, in March 2011, to Lingotto...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.666479,
+                    45.102084
+                ]
+            },
+            "properties": {
+                "entity": "Madonna di Campagna",
+                "name_location": "Madonna Di Campagna, Via Stradella, Madonna di Campagna, Circoscrizione 5, Turin, Torino, Piedmont, 10148, Italy",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "...Circoscrizione 5: Borgo Vittoria – Madonna di Campagna – Lucento – Vallette ;...",
+                    "*...Other important stations are Stura, Rebaudengo, Lingotto and Madonna di Campagna railway stations, though not all of them belong to the layout of the Spina Centrale...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.658726,
+                    45.047565
+                ]
+            },
+            "properties": {
+                "entity": "VAL",
+                "name_location": "VAL, Corso Galileo Ferraris, Santa Rita, Circoscrizione 2, Turin, Torino, Piedmont, 10134, Italy",
+                "class": "amenity",
+                "type": "fuel",
+                "snippet": [
+                    "*...The other major project is the construction of a subway line based on the VAL system, known as Metrotorino...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.581917,
+                    45.077934
+                ]
+            },
+            "properties": {
+                "entity": "Linea 1",
+                "name_location": "Linea 1 (metropolitana di Torino), Via Venti Settembre, Regina Margherita, Leumann, Collegno, Torino, Piedmont, 10093, Italy",
+                "class": "railway",
+                "type": "construction",
+                "snippet": [
+                    "*...A new extension of the so-called Linea 1 (\"Line 1\") is expected in the near future, reaching both Rivoli (up to Cascine Vica hamlet) in the Western belt of Turin and Piazza Bengasi in the Southeast side of the city...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.720307,
+                    45.026393
+                ]
+            },
+            "properties": {
+                "entity": "Line 1",
+                "name_location": "Old Line, Revigliasco, Moncalieri, Torino, Piedmont, 10024, Italy",
+                "class": "highway",
+                "type": "path",
+                "snippet": [
+                    "*...A new extension of the so-called Linea 1 (\"Line 1\") is expected in the near future, reaching both Rivoli (up to Cascine Vica hamlet) in the Western belt of Turin and Piazza Bengasi in the Southeast side of the city...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.685704,
+                    45.068217
+                ]
+            },
+            "properties": {
+                "entity": "Linea 2",
+                "name_location": "Linea 2 (metropolitana di Torino), Circoscrizione 1, Turin, Torino, Piedmont, 10123, Italy",
+                "class": "railway",
+                "type": "proposed",
+                "snippet": [
+                    "...Furthermore, a Linea 2 is in the pipeline that will connect the south-western district of Mirafiori with Barriera di Milano in the north end...."
+                ]
+            }
+        }
+    ]
+}

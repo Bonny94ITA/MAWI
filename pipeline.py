@@ -12,7 +12,7 @@ path_articles2 = f'input/articles2/it/texts/'
 
 path_results = f'results/extraction_entities_snippet/'
 
-titles_articles = [("Torino", "it")]
+titles_articles = [("Berlino", "it"), ("Berlin", "en"), ("Bologna", "it"), ("Bologna", "en"), ("Bruxelles", "it"), ("Brussels", "en")]
 
 model_it = create_model("it")
 model_en = create_model("en")
@@ -21,6 +21,7 @@ geocoder = create_geocoder()
 
 for (title, lang) in titles_articles:
     # Read wiki articles from file
+    print("Current article to analyze: ", title)
     if lang == "it":
         path_article = path_articles1_it+title+".txt"
     else:

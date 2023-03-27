@@ -76,12 +76,16 @@ def search_entities_geopy(searchable_entities: dict, geographic_scope: dict, pat
     name_geographic_scope = geographic_scope['name']
     bbox = geographic_scope['bbox']
     country_code = geographic_scope['country_code']
-    state = geographic_scope['state']
     locations = []
 
     # Modify the searchable entities to search with the context
     for ent in searchable_entities.keys():
-        to_search = {"street": ent, "state": state, "city": name_geographic_scope}
+        if 'state' in geographic_scope:
+            state = geographic_scope['state']
+            to_search = {"street": ent, "state": state, "city": name_geographic_scope}
+        else: 
+            country = geographic_scope['country']
+            to_search = {"street": ent, "country": country,"city": name_geographic_scope}
         #if not ent.__contains__(name_geographic_scope): 
         #    to_search = {"street": ent + " " + name_geographic_scope}
         locations.extend([[ent, to_search, searchable_entities[ent]]])
@@ -94,7 +98,7 @@ def search_entities_geopy(searchable_entities: dict, geographic_scope: dict, pat
     df['address'] = df['address'].apply(lambda list_loc: most_close_location(list_loc, geographic_scope))
     df['coordinates'] = df['address'].apply(lambda loc: Point((loc.longitude, loc.latitude)) if loc else None)
     df['name_location'] = df['address'].apply(lambda loc: loc.address if loc else None)
-    df[['class', 'type']] = df['address'].apply(lambda loc: pd.Series([loc.raw['class'], loc.raw['type']]) if loc else None)
+    df[['class', 'type']] = df['address'].apply(lambda loc: pd.Series([loc.raw['class'], loc.raw['type']]) if loc else pd.Series([None, None]))
 
     df['to_search'] = df['to_search'].apply(lambda to_search: to_search['street'])
 
@@ -184,12 +188,21 @@ def get_geographic_scope(article: Doc, lang: str, geocoder: Nominatim):
         geographic scope (dict): the geographic scope of the article, with the name, the coordinates and the state geometry
     """
     
+    geographic_scope = {}
     most_common_gpe = get_most_common_gpe(article)
+    print("Most common gpe: ", most_common_gpe)
     to_search = {"city": most_common_gpe}
     location = geocoder.geocode(to_search, language=lang, addressdetails=True, exactly_one=True)
 
-    state_name = location.raw['address']['state']
-    to_search = {"state": state_name}
+    if 'state' in location.raw['address']:
+        state_name = location.raw['address']['state']
+        to_search = {"state": state_name}
+        geographic_scope.update({"state": state_name} ) 
+    else:
+        country = location.raw['address']['country']
+        to_search = {"country": country}
+        geographic_scope.update({"country": country})
+    
     state_location = geocoder.geocode(to_search, language=lang, exactly_one=True)
     bounding_box = state_location.raw['boundingbox']
 
@@ -197,15 +210,13 @@ def get_geographic_scope(article: Doc, lang: str, geocoder: Nominatim):
 
     country_code = location.raw['address']['country_code']
 
-
-    geographic_scope = {
+    geographic_scope.update({
         "name": most_common_gpe,
         "latitude": location.latitude,
         "longitude": location.longitude,
         "bbox": bbox, 
-        "country_code": country_code,
-        "state": state_name
-    }
+        "country_code": country_code
+    })
 
 
     return geographic_scope
