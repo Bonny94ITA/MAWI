@@ -1,0 +1,2342 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.588497,
+                    55.6676
+                ]
+            },
+            "properties": {
+                "entity": "Amager",
+                "name_location": "Amager Boulevard, Christianshavn, Copenaghen, Københavns Kommune, Region Hovedstaden, 1421, Danimarca",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...È situata sulle isole Selandia e Amager, ed è separata dalla città svedese di Malmö dall’Øresund....",
+                    "*...Tra il 1901 e il 1902, le zone settentrionali di Amager e Valby vennero incorporate nella città....",
+                    "*...La costruzione del ponte ha portato un grande numero di cambiamenti nel sistema del trasporto pubblico e un'estensiva ripianificazione dell'isola di Amager, a sud della città....",
+                    "...La principale di queste è Amager Strand, aperta nel 2005: situata a  dal centro di Copenaghen, ha un totale di  di spiaggia;...",
+                    "...Uno di questi, il birrificio Amager Bryghus, situato a Kastrup, è stato insignito del premio per la produzione della miglior birra danese e una delle migliori birre al mondo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57742,
+                    55.685693
+                ]
+            },
+            "properties": {
+                "entity": "Castello di Rosenborg",
+                "name_location": "Castello di Rosenborg, Husalléen, Nyboder, Frederiksstaden, Copenaghen, Københavns Kommune, Region Hovedstaden, 1307, Danimarca",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...I monumenti cittadini come i Giardini di Tivoli, la statua della Sirenetta, i palazzi di Amalienborg e di Christiansborg, il Castello di Rosenborg, la Marmorkirken, Børsen e molti musei, ristoranti e locali notturni sono importanti attrazioni turistiche....",
+                    "...Cristiano IV promosse anche una serie di ambiziosi progetti di costruzione tra cui il Castello di Rosenborg e il Rundetårn....",
+                    "...Non così alte sono le guglie rinascimentali del castello di Rosenborg e la \"guglia del drago\" dell'ex borsa valori di Cristiano IV, così chiamato perché ricorda le code intrecciate di quattro draghi...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.589031,
+                    55.685126
+                ]
+            },
+            "properties": {
+                "entity": "Marmorkirken",
+                "name_location": "Marmorkirken, Frederiksgade, Nyboder, Frederiksstaden, Copenaghen, Københavns Kommune, Region Hovedstaden, 1264, Danimarca",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "...I monumenti cittadini come i Giardini di Tivoli, la statua della Sirenetta, i palazzi di Amalienborg e di Christiansborg, il Castello di Rosenborg, la Marmorkirken, Børsen e molti musei, ristoranti e locali notturni sono importanti attrazioni turistiche....",
+                    "*...La parte più antica del centro di Copenaghen viene spesso chiamata Middelalderbyen ossia \"la città medievale\", tuttavia il quartiere più caratteristico della città è Frederiksstaden, sviluppatosi durante il regno di Federico V. Al centro di esso si trova il Palazzo di Amalienborg ed è dominato dalla cupola della Marmorkirken e da diversi eleganti palazzi rococò del XVIII secolo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.596634,
+                    55.677674
+                ]
+            },
+            "properties": {
+                "entity": "Atlantico",
+                "name_location": "Nordatlantens Brygge, Strandgade, Christianshavn, Copenaghen, Københavns Kommune, Region Hovedstaden, 1428, Danimarca",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Durante tutto l'anno il meteo è influenzato dalla presenza di sistemi di bassa pressione provenienti dall'Atlantico, che portano a condizioni meteo sempre instabili...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.580041,
+                    55.675651
+                ]
+            },
+            "properties": {
+                "entity": "Palazzo di Christiansborg",
+                "name_location": "Palazzo di Christiansborg, Børsgade, Christianshavn, Copenaghen, Københavns Kommune, Region Hovedstaden, 1061, Danimarca",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...Tradizionalmente, la fondazione di Copenaghen è stata fatta coincidere con l'edificazione da parte del vescovo Absalon di una modesta fortezza sulla piccola isola di Slotsholmen nel 1167 dove oggi si trova il Palazzo di Christiansborg....",
+                    "*...Nel 1733 iniziarono i lavori per la realizzazione della residenza reale del Palazzo di Christiansborg, completato nel 1745, mentre nel 1749 fu avviato lo sviluppo del prestigioso quartiere di Frederiksstaden....",
+                    "...Il centro della città comprende anche Slotsholmen, una piccola isola su cui sorge il palazzo di Christiansborg e Christianshavn con i suoi canali....",
+                    "...Altre guglie importanti sono quelle del palazzo di Christiansborg, del municipio e dell'ex Chiesa di San Nicola che oggi ospita un'esposizione di arte moderna...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.572727,
+                    55.679377
+                ]
+            },
+            "properties": {
+                "entity": "Cattedrale di Nostra Signora",
+                "name_location": "Cattedrale di Nostra Signora, Dyrkøb, Christianshavn, Copenaghen, Københavns Kommune, Region Hovedstaden, 1166, Danimarca",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "...Intorno al 1200, la Cattedrale di Nostra Signora fu costruita su un'altura a nord-est del e un insediamento urbano iniziò a svilupparsi attorno ad essa....",
+                    "...La Chiesa più grande, cattedrale di Nostra Signora, fu distrutta dall'artiglieria marina....",
+                    "*...La Chiesa più grande, cattedrale di Nostra Signora, fu distrutta dall'artiglieria marina...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.575862,
+                    55.681733
+                ]
+            },
+            "properties": {
+                "entity": "Rundetårn",
+                "name_location": "Rundetårn, Landemærket, Frederiksstaden, Copenaghen, Københavns Kommune, Region Hovedstaden, 1125, Danimarca",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "...Cristiano IV promosse anche una serie di ambiziosi progetti di costruzione tra cui il Castello di Rosenborg e il Rundetårn...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.593745,
+                    55.691383
+                ]
+            },
+            "properties": {
+                "entity": "Kastellet",
+                "name_location": "Kastellet, Ved Kongeporten, Nyboder, Frederiksstaden, Copenaghen, Københavns Kommune, Region Hovedstaden, 1263, Danimarca",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Le difese furono ulteriormente potenziate con il completamento della Kastellet nel 1664 e l'ampliamento di Christianshavns Vold con i suoi bastioni nel 1692, portando così alla creazione di una nuova base per la flotta a Nyholm...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.574361,
+                    55.684222
+                ]
+            },
+            "properties": {
+                "entity": "Europa",
+                "name_location": "Europa-Huset, Gothersgade, Nyboder, Frederiksstaden, Copenaghen, Københavns Kommune, Region Hovedstaden, 1123, Danimarca",
+                "class": "office",
+                "type": "diplomatic",
+                "snippet": [
+                    "...In questi anni la città è diventata il centro culturale, economico e governativo della Danimarca e uno dei maggiori centri finanziari del Nord Europa grazie anche alla presenza della borsa di Copenaghen....",
+                    "...L'Università di Copenaghen, una delle più antiche Università d'Europa, fu inaugurata il 1º giugno 1479 da re Cristiano I di Danimarca dopo aver ricevuto l'approvazione di papa Sisto IV....",
+                    "*...Inoltre questa fu la prima occasione in Europa in cui vennero utilizzati razzi incendiari Congreve (che contenendo fosforo il fuoco non può essere spento con l'acqua) lanciati sulla città....",
+                    "*...Quest'ultima è situata a Lyngby, alla periferia nord di Copenaghen, ed è classificata tra le dieci migliori Università tecniche in Europa....",
+                    "*...Medicon Valley è un importante gruppo binazionale di scienze della vita in Europa con sede nella regione dell'Øresund....",
+                    "*...Dal 2009 Copenaghen, è una delle destinazioni cittadine in più rapida crescita in popolarità in Europa....",
+                    "...Copenaghen ha una ben stabilita rete di infrastrutture che la rendono una hub nel Nord Europa....",
+                    "...Nel 2011 l'Aeroporto è stato votato come il migliore Aeroporto del nord Europa e il decimo al mondo....",
+                    "...Copenaghen ha una vasta rete di autostrade e strade pubbliche, che collega diversi comuni della città al Nord Europa....",
+                    "*...Come in molte altre città in Europa il traffico a Copenaghen è in aumento....",
+                    "*...Il porto di Copenaghen e Malmö è stato insignito del premio migliore porto da crociera in Europa per 4 anni consecutivi a partire dal 2008...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.605993,
+                    55.665116
+                ]
+            },
+            "properties": {
+                "entity": "Strada",
+                "name_location": "Strada Britannico, Holmbladsgade, Christianshavn, Copenaghen, Københavns Kommune, Region Hovedstaden, 1440, Danimarca",
+                "class": "amenity",
+                "type": "fast_food",
+                "snippet": [
+                    "*...Il Ponte sull'Öresund, che permette ai passeggeri su Strada o ferrovia di attraversare lo stretto....",
+                    "*...Per il tempo libero si può passeggiare per Strøget, via pedonale nel centro di Copenaghen, è la più lunga del suo tipo in tutto il mondo, in particolare tra Nytorv e Højbro Plads la sera è possibile assistere alle performance di musicisti, maghi, giocolieri e altri artisti di Strada....",
+                    "*...Dal 19 al 25 settembre 2011 ha ospitato i mondiali di ciclismo su Strada...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.594252,
+                    55.672908
+                ]
+            },
+            "properties": {
+                "entity": "Chiesa del Nostro Redentore",
+                "name_location": "Chiesa del Nostro Redentore, Dronningensgade, Christianshavn, Copenaghen, Københavns Kommune, Region Hovedstaden, 1416, Danimarca",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...La più caratteristica di tutte è quella barocca della Chiesa del Nostro Redentore con la sua stretta scala a chiocciola esterna che i visitatori possono salire fino in cima...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.631792,
+                    55.656124
+                ]
+            },
+            "properties": {
+                "entity": "Amager Strand",
+                "name_location": "Amager Strand, Roselillevej, Copenaghen, Københavns Kommune, Region Hovedstaden, 2300, Danimarca",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...La principale di queste è Amager Strand, aperta nel 2005: situata a  dal centro di Copenaghen, ha un totale di  di spiaggia;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.571766,
+                    55.672534
+                ]
+            },
+            "properties": {
+                "entity": "Ny Carlsberg Glyptotek",
+                "name_location": "Ny Carlsberg Glyptotek, Ved Glyptoteket, Postbyen, Vesterbro, Copenaghen, Københavns Kommune, Region Hovedstaden, 1575, Danimarca",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "...Un altro importante Museo d'arte di Copenaghen è la Ny Carlsberg Glyptotek fondata dal filantropo Carl Jacobsen e costruita attorno alle sue collezioni personali...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.541211,
+                    55.692636
+                ]
+            },
+            "properties": {
+                "entity": "Giardino",
+                "name_location": "Giardino pizza, Stefansgade, Nørrebro, Copenaghen, Københavns Kommune, Region Hovedstaden, 1959, Danimarca",
+                "class": "amenity",
+                "type": "fast_food",
+                "snippet": [
+                    "*...Si trova nel mezzo di un Giardino ove si trovano esposte sculture su una scogliera che domina Øresund...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.628718,
+                    55.66144
+                ]
+            },
+            "properties": {
+                "entity": "Øresund",
+                "name_location": "Øresund, Øresundsvej, Copenaghen, Københavns Kommune, Region Hovedstaden, 1441, Danimarca",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...È situata sulle isole Selandia e Amager, ed è separata dalla città svedese di Malmö dall’Øresund....",
+                    "*...Dal completamento del ponte di Øresund, Copenaghen è diventata sempre più integrata con la provincia svedese di Scania....",
+                    "*...Si trova nel mezzo di un Giardino ove si trovano esposte sculture su una scogliera che domina Øresund....",
+                    "*...Medicon Valley è un importante gruppo binazionale di scienze della vita in Europa con sede nella regione dell'Øresund....",
+                    "*...La posizione centrale nella regione dell'Øresund consente ai porti di fungere da centro di smistamento per le merci in direzione dei paesi baltici....",
+                    "...Con il completamento del Ponte di Øresund nel 2001, Copenaghen e Malmö sono unite da un collegamento automobilistico e ferroviario grazie al quale dovrebbero migliorare l'interscambio commerciale, i rapporti tra i due Stati e il transito dei pendolari da entrambe le sponde...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.578788,
+                    55.676753
+                ]
+            },
+            "properties": {
+                "entity": "Museo Thorvaldsen",
+                "name_location": "Museo Thorvaldsen, Prins Jørgens Gård, Christianshavn, Copenaghen, Københavns Kommune, Region Hovedstaden, 1212, Danimarca",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "...Il Museo Thorvaldsen, dedicato ai lavori dello scultore romantico danese Bertel Thorvaldsen;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.582659,
+                    55.707866
+                ]
+            },
+            "properties": {
+                "entity": "Nord",
+                "name_location": "Nord, Vordingborggade, Indre Østerbro, Østerbro, Copenaghen, Københavns Kommune, Region Hovedstaden, 2100, Danimarca",
+                "class": "shop",
+                "type": "hairdresser",
+                "snippet": [
+                    "...In questi anni la città è diventata il centro culturale, economico e governativo della Danimarca e uno dei maggiori centri finanziari del Nord Europa grazie anche alla presenza della borsa di Copenaghen....",
+                    "...Mentre l'attività di pesca prosperava, in particolare riguardo al commercio delle aringhe, Copenaghen iniziò ad espandersi a nord di Slotsholmen....",
+                    "...Inoltre l'Archivio conserva i registri del pedaggio per il transito nel Sund, che fornisce informazioni dettagliate su tutte le navi che sono passate dal Mar Baltico al Mare del Nord e viceversa a partire dal XV secolo....",
+                    "...Quest'ultima è situata a Lyngby, alla periferia nord di Copenaghen, ed è classificata tra le dieci migliori Università tecniche in Europa....",
+                    "...Il Museo d'arte contemporanea Louisiana è situato sulla costa, appena a nord di Copenaghen....",
+                    "...E il Museo Ordrupgaard, situato a nord di Copenaghen, che espone arte francese e danese del XIX secolo ed è noto per le opere di Paul Gauguin....",
+                    "*...Nørrebro (N), ovvero il quartiere Nord, in realtà orientato a nord-ovest. Questo è il quartiere più multietnico di Copenaghen, tanto che la sua via principale (Nørrebrogade, che a partire dal centro taglia in due il quartiere) è nota anche come Shawarma belt, ovvero Cintura della Shawerma....",
+                    "...Østerbro (Ø), che a dispetto del nome è in realtà fondamentalmente al nord del centro, è il quartiere più tranquillo e borghese....",
+                    "...Copenaghen ha una ben stabilita rete di infrastrutture che la rendono una hub nel Nord Europa....",
+                    "...Nel 2011 l'Aeroporto è stato votato come il migliore Aeroporto del nord Europa e il decimo al mondo....",
+                    "...Copenaghen ha una vasta rete di autostrade e strade pubbliche, che collega diversi comuni della città al Nord Europa...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.639837,
+                    55.648473
+                ]
+            },
+            "properties": {
+                "entity": "Kastrup",
+                "name_location": "Kastrup Fort, Amager Strandvej, Copenaghen, Københavns Kommune, Region Hovedstaden, 2300, Danimarca",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Uno di questi, il birrificio Amager Bryghus, situato a Kastrup, è stato insignito del premio per la produzione della miglior birra danese e una delle migliori birre al mondo....",
+                    "*...Copenaghen ha due aeroporti, ll Kastrup (il grande Aeroporto internazionale, con oltre 24 milioni di passeggeri l'anno) e Roskilde Lufthavn (una piccola internazionale di aviazione generale e Aeroporto)....",
+                    "*...Il Kastrup, noto anche Aeroporto di Copenaghen, è situato a soli 8 km a sud del centro di Copenaghen, ed è collegato con la città dalla linea metropolitana M2...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.627698,
+                    55.717204
+                ]
+            },
+            "properties": {
+                "entity": "Terminal 3",
+                "name_location": "Copenhagen Ocean Cruise Terminal 3, Oceankaj, Copenaghen, Københavns Kommune, Region Hovedstaden, 2150, Danimarca",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "...Inoltre possiede una stazione ferroviaria ubicata sotto il Terminal 3, servita da treni con frequenza di fermate elevata, sulla linea che collega Copenaghen a Malmö in Svezia, e da treni a lunga percorrenza quali InterCity e InterCityExpress gestiti da DSB...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.572264,
+                    55.702704
+                ]
+            },
+            "properties": {
+                "entity": "Parken",
+                "name_location": "Parken, Brumleby, Indre Østerbro, Østerbro, Copenaghen, Københavns Kommune, Region Hovedstaden, 2100, Danimarca",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...Il Copenaghen, fondato nel 1992 dalla fusione di due club storici di Copenaghen (il KB ed il B 1903), che gioca nel Parken, lo stadio nazionale danese. Si è laureato 14 volte campione di Danimarca e ha partecipato varie volte alla Champions League...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.416834,
+                    55.650476
+                ]
+            },
+            "properties": {
+                "entity": "Brøndby Stadion",
+                "name_location": "Brøndby Stadion, Brøndbyvester, Brøndby Kommune, Glostrup, Region Hovedstaden, 2605, Danimarca",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Il Brøndby, nato nel 1964 dall'unione di due squadre del sobborgo di Brøndby, che gioca nel Brøndby Stadion. È stato 11 volte campione di Danimarca...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.588497,
+                    55.6676
+                ]
+            },
+            "properties": {
+                "entity": "Amager",
+                "name_location": "Amager Boulevard, Christianshavn, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1421, Denmark",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...The city is on the islands of Zealand and Amager, separated from Malmö, Sweden, by the Øresund strait....",
+                    "*...The northern part of Amager and Valby were also incorporated into the City of Copenhagen in 1901–02....",
+                    "*...In the 1990s, large-scale housing developments were realised in the harbour area and in the west of Amager....",
+                    "*...The bridge has brought about considerable changes in the public transport system and has led to the extensive redevelopment of Amager....",
+                    "*...It is located on the eastern shore of the island of Zealand, partly on the island of Amager and on a number of natural and artificial islets between the two....",
+                    "...Amager Strandpark, which opened in 2005, is a 2 km (1 mi) long artificial island, with a total of 4.6 km (2.9 mi) of beaches....",
+                    "...Copenhagen Municipality is divided into ten districts (bydele): Indre By, Østerbro, Nørrebro, Vesterbro/Kongens Enghave, Valby, Vanløse, Brønshøj-Husum, Bispebjerg, Amager Øst, and Amager Vest....",
+                    "*...Amagerbro (also known as Sønderbro) is the district located immediately south-east of Christianshavn at northernmost Amager....",
+                    "...Other teams of more significant stature are FC Nordsjælland (from suburban Farum), Fremad Amager, B93, AB, Lyngby and Hvidovre IF....",
+                    "*...Copenhagen Airport, opened in 1925, is Scandinavia's largest airport, located in Kastrup on the island of Amager....",
+                    "...Other large hospitals in the city include Amager Hospital (1997), Herlev Hospital (1976), Hvidovre Hospital (1970), and Gentofte Hospital (1927)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.578741,
+                    55.677647
+                ]
+            },
+            "properties": {
+                "entity": "Gammel Strand",
+                "name_location": "Gammel Strand, Christianshavn, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1202, Denmark",
+                "class": "highway",
+                "type": "living_street",
+                "snippet": [
+                    "*...Originally a Viking fishing village established in the 10th century in the vicinity of what is now Gammel Strand, Copenhagen became the capital of Denmark in the early 15th century....",
+                    "*...The first habitations were probably centred on Gammel Strand (literally 'old shore') in the 11th century or even earlier...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.545659,
+                    55.691681
+                ]
+            },
+            "properties": {
+                "entity": "Scandinavia",
+                "name_location": "Scandinavia Kiosk, Jagtvej, Nørrebro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 2200, Denmark",
+                "class": "shop",
+                "type": "kiosk",
+                "snippet": [
+                    "*...The city flourished as the cultural and economic centre of Scandinavia under the union for well over 120 years, starting in the 15th century up until the beginning of the 16th century when the union was dissolved with Sweden leaving the union through a rebellion....",
+                    "*...Located near Copenhagen Airport, it currently boasts one of the largest malls in Scandinavia and a variety of office and residential buildings as well as the IT University and a high school....",
+                    "*...With its 53 aquariums, it is the largest facility of its kind in Scandinavia....",
+                    "*...Apart from being the national capital, Copenhagen also serves as the cultural hub of Denmark and wider Scandinavia....",
+                    "*...Copenhagen Airport, opened in 1925, is Scandinavia's largest airport, located in Kastrup on the island of Amager....",
+                    "*...Other important media corporations include Aller Media which is the largest publisher of weekly and monthly magazines in Scandinavia, the Egmont media group and Gyldendal, the largest Danish publisher of books...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.569042,
+                    55.673343
+                ]
+            },
+            "properties": {
+                "entity": "Tivoli Gardens",
+                "name_location": "Tivoli Gardens, Ved Glyptoteket, Postbyen, Vesterbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1575, Denmark",
+                "class": "tourism",
+                "type": "theme_park",
+                "snippet": [
+                    "*...Copenhagen's landmarks such as Tivoli Gardens, The Little Mermaid statue, the Amalienborg and Christiansborg palaces, Rosenborg Castle, Frederik's Church, Børsen and many museums, restaurants and nightclubs are significant tourist attractions....",
+                    "...Vesterbro, to the southwest of Indre By, begins with the Tivoli Gardens, the city's top tourist attraction with its fairground atmosphere, its Pantomime Theatre, its Concert Hall and its many rides and restaurants....",
+                    "...Another important venue for classical music is the Tivoli Concert Hall located in the Tivoli Gardens....",
+                    "...The Tivoli Gardens is an amusement park and pleasure garden located in central Copenhagen between the City Hall Square and the Central Station....",
+                    "*...Tivoli Gardens also serves as a venue for various performing arts and as an active part of the cultural scene in Copenhagen...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.570963,
+                    55.677117
+                ]
+            },
+            "properties": {
+                "entity": "Little Mermaid",
+                "name_location": "The Little Mermaid, Frederiksberggade, Vesterbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1459, Denmark",
+                "class": "shop",
+                "type": "confectionery",
+                "snippet": [
+                    "...Copenhagen's landmarks such as Tivoli Gardens, The Little Mermaid statue, the Amalienborg and Christiansborg palaces, Rosenborg Castle, Frederik's Church, Børsen and many museums, restaurants and nightclubs are significant tourist attractions....",
+                    "*...Langelinie, a park and promenade along the inner Øresund coast, is home to one of Copenhagen's most-visited tourist attractions, the Little Mermaid statue....",
+                    "...The district stretches from Nørrebro to the waterfront where The Little Mermaid statue can be seen from the promenade known as Langelinie....",
+                    "...Not far from the Little Mermaid, the old Citadel (Kastellet) can be seen....",
+                    "...In addition to The Little Mermaid on the waterfront, there are two historic equestrian statues in the city centre: Jacques Saly's Frederik V on Horseback (1771) in Amalienborg Square and the statue of Christian V on Kongens Nytorv created by Abraham-César Lamoureux in 1688 who was inspired by the statue of Louis XIII in Paris...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57742,
+                    55.685693
+                ]
+            },
+            "properties": {
+                "entity": "Rosenborg Castle",
+                "name_location": "Rosenborg Castle, Husalléen, Nyboder, Frederiksstaden, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1307, Denmark",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Copenhagen's landmarks such as Tivoli Gardens, The Little Mermaid statue, the Amalienborg and Christiansborg palaces, Rosenborg Castle, Frederik's Church, Børsen and many museums, restaurants and nightclubs are significant tourist attractions....",
+                    "*...Not quite so high are the Renaissance spires of Rosenborg Castle and the \"dragon spire\" of Christian IV's former stock exchange, so named because it resembles the intertwined tails of four dragons....",
+                    "*...King's Garden (Kongens Have), the garden of Rosenborg Castle, is the oldest and most frequented of them all....",
+                    "*...Rosenborg Castle on Øster Voldgade was built by Christian IV in 1606 as a summer residence in the Renaissance style....",
+                    "...Rosenborg Castle Gardens contains several sculptures and monuments including August Saabye's Hans Christian Andersen, Aksel Hansen's Echo, and Vilhelm Bissen's Dowager Queen Caroline Amalie...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.582588,
+                    55.676323
+                ]
+            },
+            "properties": {
+                "entity": "Børsen",
+                "name_location": "Børsen, Børsgade, Christianshavn, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1216, Denmark",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Copenhagen's landmarks such as Tivoli Gardens, The Little Mermaid statue, the Amalienborg and Christiansborg palaces, Rosenborg Castle, Frederik's Church, Børsen and many museums, restaurants and nightclubs are significant tourist attractions....",
+                    "*...On his initiative at the beginning of the 17th century, two important buildings were completed on Slotsholmen: the Tøjhus Arsenal and Børsen, the stock exchange....",
+                    "*...Børsen on Slotsholmen and Frederiksborg Palace in Hillerød are prominent examples of the Dutch Renaissance style in Copenhagen...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.639837,
+                    55.648473
+                ]
+            },
+            "properties": {
+                "entity": "Kastrup",
+                "name_location": "Kastrup Fort, Amager Strandvej, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 2300, Denmark",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Serving roughly 2.5 million passengers a month, Copenhagen Airport, Kastrup, is the busiest airport in the Nordic countries....",
+                    "*...Not far from Copenhagen Airport on the Kastrup coast, The Blue Planet completed in March 2013 now houses the national aquarium....",
+                    "*...Copenhagen Airport, opened in 1925, is Scandinavia's largest airport, located in Kastrup on the island of Amager...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.594252,
+                    55.672908
+                ]
+            },
+            "properties": {
+                "entity": "Kopenhagen",
+                "name_location": "Church of Our Saviour, Copenhagen, Dronningensgade, Christianshavn, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1416, Denmark",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...However, the English term for the city was adapted from its Low German name, Kopenhagen...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.572727,
+                    55.679377
+                ]
+            },
+            "properties": {
+                "entity": "Köpenhamn",
+                "name_location": "Church of Our Lady, Dyrkøb, Christianshavn, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1166, Denmark",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Copenhagen's Swedish name is Köpenhamn, a direct translation of the mutually intelligible Danish name...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.585994,
+                    55.680574
+                ]
+            },
+            "properties": {
+                "entity": "Kongens Nytorv",
+                "name_location": "Kongens Nytorv, Frederiksstaden, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1050, Denmark",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Although the earliest historical records of Copenhagen are from the end of the 12th century, recent archaeological finds in connection with work on the city's metropolitan rail system revealed the remains of a large merchant's mansion near today's Kongens Nytorv from c. 1020....",
+                    "*...The canal runs from the harbour front to the spacious square of Kongens Nytorv which was laid out by Christian V in 1670....",
+                    "*...Closed to traffic since 1964, Strøget, one of the world's oldest and longest pedestrian streets, runs the 3.2 km (2.0 mi) from Rådhuspladsen to Kongens Nytorv....",
+                    "*...In addition to The Little Mermaid on the waterfront, there are two historic equestrian statues in the city centre: Jacques Saly's Frederik V on Horseback (1771) in Amalienborg Square and the statue of Christian V on Kongens Nytorv created by Abraham-César Lamoureux in 1688 who was inspired by the statue of Louis XIII in Paris...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.573044,
+                    55.677923
+                ]
+            },
+            "properties": {
+                "entity": "Strøget",
+                "name_location": "Stroget, Nytorv, Christianshavn, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1450, Denmark",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...The remains of an ancient church, with graves dating to the 11th century, have been unearthed near where Strøget meets Rådhuspladsen....",
+                    "*...Closed to traffic since 1964, Strøget, one of the world's oldest and longest pedestrian streets, runs the 3.2 km (2.0 mi) from Rådhuspladsen to Kongens Nytorv....",
+                    "*...For free entertainment one can stroll along Strøget, especially between Nytorv and Højbro Plads, which in the late afternoon and evening is a bit like an impromptu three-ring circus with musicians, magicians, jugglers and other street performers...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.567943,
+                    55.677102
+                ]
+            },
+            "properties": {
+                "entity": "Rådhuspladsen",
+                "name_location": "Rådhuspladsen, Vester Voldgade, Vesterbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1551, Denmark",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...The remains of an ancient church, with graves dating to the 11th century, have been unearthed near where Strøget meets Rådhuspladsen....",
+                    "*...Closed to traffic since 1964, Strøget, one of the world's oldest and longest pedestrian streets, runs the 3.2 km (2.0 mi) from Rådhuspladsen to Kongens Nytorv...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.580041,
+                    55.675651
+                ]
+            },
+            "properties": {
+                "entity": "Christiansborg Palace",
+                "name_location": "Christiansborg Palace, Børsgade, Christianshavn, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1061, Denmark",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Traditionally, Copenhagen's founding has been dated to Bishop Absalon's construction of a modest fortress on the little island of Slotsholmen in 1167 where Christiansborg Palace stands today....",
+                    "*...In 1733, work began on the royal residence of Christiansborg Palace which was completed in 1745....",
+                    "*...Denmark's Supreme Court (Højesteret), located in Christiansborg Palace on Prins Jørgens Gård in the centre of Copenhagen, is the country's final court of appeal....",
+                    "*...The inner city includes Slotsholmen, a little island on which Christiansborg Palace stands and Christianshavn with its canals....",
+                    "*...Other important spires are those of Christiansborg Palace, the City Hall and the former Church of St. Nikolaj that now houses a modern art venue...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.56571,
+                    55.67613
+                ]
+            },
+            "properties": {
+                "entity": "Europe",
+                "name_location": "Church of Scientology Europe, Jernbanegade, Vesterbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1609, Denmark",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "...The city is the cultural, economic and governmental centre of Denmark; it is one of the major financial centres of Northern Europe with the Copenhagen Stock Exchange....",
+                    "*...This makes it the oldest university in Denmark and one of the oldest in Europe....",
+                    "*...In the second half of the 18th century, Copenhagen benefited from Denmark's neutrality during the wars between Europe's main powers, allowing it to play an important role in trade between the states around the Baltic Sea....",
+                    "*...Medicon Valley is a leading bi-national life sciences cluster in Europe, spanning the Øresund Region....",
+                    "*...It is however also among the most expensive cities in Europe....",
+                    "*...Denmark's Flexicurity model features some of the most flexible hiring and firing legislation in Europe, providing attractive conditions for foreign investment and international companies looking to locate in Copenhagen....",
+                    "*...Since 2009, Copenhagen has been one of the fastest growing metropolitan destinations in Europe....",
+                    "*...Built by Christian IV, it is one of northern Europe's best preserved fortifications....",
+                    "...Copenhagen Fashion Week, the second largest fashion event in Northern Europe after London Fashion Week, takes place every year in February and August....",
+                    "*...Founded in 1748 along with the theatre, it is one of the oldest ballet troupes in Europe, and is noted for its Bournonville style of ballet....",
+                    "*...One of Europe's top jazz festivals, the annual event features around 900 concerts at 100 venues with over 200,000 guests from Denmark and around the world....",
+                    "*...It was chosen as \"best concert venue in Europe\" by international music magazine Live....",
+                    "*...Copenhagen Distortion has emerged to be one of the biggest street festivals in Europe with 100,000 people joining to parties in the beginning of June every year....",
+                    "...In 2013, it was ranked as one of the leading technical universities in Northern Europe....",
+                    "...The greater Copenhagen area has a very well established transportation infrastructure making it a hub in Northern Europe...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57742,
+                    55.685693
+                ]
+            },
+            "properties": {
+                "entity": "Rosenborg Slot",
+                "name_location": "Rosenborg Castle, Husalléen, Nyboder, Frederiksstaden, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1307, Denmark",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Christian IV also sponsored an array of ambitious building projects including Rosenborg Slot and the Rundetårn...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.575862,
+                    55.681733
+                ]
+            },
+            "properties": {
+                "entity": "Rundetårn",
+                "name_location": "Rundetårn, Landemærket, Frederiksstaden, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1125, Denmark",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Christian IV also sponsored an array of ambitious building projects including Rosenborg Slot and the Rundetårn....",
+                    "*...Other landmarks in Indre By include the parliament building of Christiansborg, the City Hall and Rundetårn, originally an observatory...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.579851,
+                    55.678375
+                ]
+            },
+            "properties": {
+                "entity": "Højbro Plads",
+                "name_location": "Højbro Plads, Lille Kirkestræde, Christianshavn, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1072, Denmark",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...After Christiansborg was destroyed by fire in 1794 and another fire caused serious damage to the city in 1795, work began on the classical Copenhagen landmark of Højbro Plads while Nytorv and Gammel Torv were converged....",
+                    "*...For free entertainment one can stroll along Strøget, especially between Nytorv and Højbro Plads, which in the late afternoon and evening is a bit like an impromptu three-ring circus with musicians, magicians, jugglers and other street performers...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.572727,
+                    55.679377
+                ]
+            },
+            "properties": {
+                "entity": "Vor frue kirke",
+                "name_location": "Church of Our Lady, Dyrkøb, Christianshavn, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1166, Denmark",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...The largest church, Vor frue kirke, was destroyed by the sea artillery...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.466854,
+                    55.716049
+                ]
+            },
+            "properties": {
+                "entity": "Vestvolden",
+                "name_location": "Vestvolden Voldpunkt 21, Haveforeningen Husumhave, Hf. Husumhave, Husum, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 2700, Denmark",
+                "class": "military",
+                "type": "bunker",
+                "snippet": [
+                    "*...From 1886, the west rampart (Vestvolden) was flattened, allowing major extensions to the harbour leading to the establishment of the Freeport of Copenhagen 1892–94...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.58798,
+                    55.674283
+                ]
+            },
+            "properties": {
+                "entity": "Torvegade",
+                "name_location": "Torvegade, Christianshavn, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1409, Denmark",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...However, it was not until the 1930s that substantial housing developments ensued, with the demolition of one side of Christianhavn's Torvegade to build five large blocks of flats...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.60074,
+                    55.681988
+                ]
+            },
+            "properties": {
+                "entity": "Copenhagen Opera House",
+                "name_location": "Copenhagen Opera House, Orlogsværftsvej, Frederiksstaden, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1438, Denmark",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...On the cultural front, the Copenhagen Opera House, a gift to the city from the shipping magnate Mærsk Mc-Kinney Møller on behalf of the A.P. Møller foundation, was completed in 2004....",
+                    "*...Directly across the water from Amalienborg, the 21st-century Copenhagen Opera House stands on the island of Holmen....",
+                    "...Designed by Henning Larsen, the Copenhagen Opera House (Operaen) opened in 2005...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.577447,
+                    55.63017
+                ]
+            },
+            "properties": {
+                "entity": "Field's",
+                "name_location": "Field's, Ørestads Boulevard, Våren, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 2770, Denmark",
+                "class": "shop",
+                "type": "mall",
+                "snippet": [
+                    "*...On 3 July 2022, three people were killed in a shooting at Field's mall in Copenhagen...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.628718,
+                    55.66144
+                ]
+            },
+            "properties": {
+                "entity": "Øresund",
+                "name_location": "Øresund, Øresundsvej, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1441, Denmark",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "...The city is on the islands of Zealand and Amager, separated from Malmö, Sweden, by the Øresund strait....",
+                    "...The Øresund Bridge connects the two cities by rail and road....",
+                    "...Since the completion of the Øresund Bridge, Copenhagen has become increasingly integrated with the Swedish province of Scania and its largest city, Malmö, forming the Øresund Region....",
+                    "...Since the summer of 2000, Copenhagen and the Swedish city of Malmö have been connected by the Øresund Bridge, which carries rail and road traffic....",
+                    "...Copenhagen is part of the Øresund Region, which consists of Zealand, Lolland-Falster and Bornholm in Denmark and Scania in Sweden....",
+                    "*...Copenhagen faces the Øresund to the east, the strait of water that separates Denmark from Sweden, and which connects the North Sea with the Baltic Sea....",
+                    "...Since the opening of the Øresund Bridge in 2000, commuting between Zealand and Scania in Sweden has increased rapidly, leading to a wider, integrated area....",
+                    "...Known as the Øresund Region, it has 4.1 million inhabitants—of whom 2.7 million (August 2021) live in the Danish part of the region.\nA majority (56.9%) of those living in Copenhagen are members of the Lutheran Church of Denmark which is 0.6% lower than one year earlier according to 2019 figures. The National Cathedral, the Church of Our Lady, is one of the dozens of churches in Copenhagen....",
+                    "...Medicon Valley is a leading bi-national life sciences cluster in Europe, spanning the Øresund Region....",
+                    "...The central location in the Øresund Region allows the ports to act as a hub for freight that is transported onward to the Baltic countries....",
+                    "...Langelinie, a park and promenade along the inner Øresund coast, is home to one of Copenhagen's most-visited tourist attractions, the Little Mermaid statue....",
+                    "*...It is located in the middle of a sculpture garden on a cliff overlooking Øresund....",
+                    "...Copenhagen has an extensive road network including motorways connecting the city to other parts of Denmark and to Sweden over the Øresund Bridge....",
+                    "*...The Øresund train links Copenhagen with Malmö 24 hours a day, 7 days a week...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.561869,
+                    55.686598
+                ]
+            },
+            "properties": {
+                "entity": "Peblinge Sø",
+                "name_location": "Peblinge Dossering, Nørrebro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1371, Denmark",
+                "class": "highway",
+                "type": "cycleway",
+                "snippet": [
+                    "*...Close to the centre are the Copenhagen lakes of Sortedams Sø, Peblinge Sø and Sankt Jørgens Sø...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.55958,
+                    55.673142
+                ]
+            },
+            "properties": {
+                "entity": "Sankt Jørgens Sø",
+                "name_location": "Sankt Jørgens Allé, Meatpacking District, Vesterbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1615, Denmark",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Close to the centre are the Copenhagen lakes of Sortedams Sø, Peblinge Sø and Sankt Jørgens Sø...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.648056,
+                    55.654786
+                ]
+            },
+            "properties": {
+                "entity": "Amager Strandpark",
+                "name_location": "Amager Strandpark, Dykkerstien, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 2300, Denmark",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...Amager Strandpark, which opened in 2005, is a 2 km (1 mi) long artificial island, with a total of 4.6 km (2.9 mi) of beaches...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57979,
+                    55.669542
+                ]
+            },
+            "properties": {
+                "entity": "Islands Brygge",
+                "name_location": "Islands Brygge, Christianshavn, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1473, Denmark",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...The first and most popular of these is located at Islands Brygge, literally meaning Iceland's Quay, and has won international acclaim for its design....",
+                    "*...Neighbourhoods of Copenhagen include Slotsholmen, Frederiksstaden, Islands Brygge, Holmen, Christiania, Carlsberg, Sluseholmen, Sydhavn, Amagerbro, Ørestad, Nordhavnen, Bellahøj, Brønshøj, Ryparken, and Vigerslev...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.540884,
+                    55.669165
+                ]
+            },
+            "properties": {
+                "entity": "Atlantic",
+                "name_location": "Atlantic Auto, Trøjborggade, Sorte Hest, Vesterbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1757, Denmark",
+                "class": "shop",
+                "type": "car_repair",
+                "snippet": [
+                    "*...Its weather is subject to low-pressure systems from the Atlantic which result in unstable conditions throughout the year....",
+                    "...Once a warehouse, the North Atlantic House now displays culture from Iceland and Greenland and houses the Noma restaurant, known for its Nordic cuisine...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.569792,
+                    55.675263
+                ]
+            },
+            "properties": {
+                "entity": "Copenhagen City Hall",
+                "name_location": "Copenhagen City Hall, Farvergade, Postbyen, Vesterbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1463, Denmark",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...The seat of Copenhagen's municipal council is the Copenhagen City Hall (Rådhus), which is situated on City Hall Square...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.568909,
+                    55.676062
+                ]
+            },
+            "properties": {
+                "entity": "City Hall Square",
+                "name_location": "City Hall Square, H.C. Andersens Boulevard, Vesterbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1554, Denmark",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...The seat of Copenhagen's municipal council is the Copenhagen City Hall (Rådhus), which is situated on City Hall Square....",
+                    "...The Pride has a series of different activities all over Copenhagen, but it is at the City Hall Square that most of the celebration takes place....",
+                    "...The Tivoli Gardens is an amusement park and pleasure garden located in central Copenhagen between the City Hall Square and the Central Station...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.563874,
+                    55.683482
+                ]
+            },
+            "properties": {
+                "entity": "Indre By",
+                "name_location": "Kulturhuset Indre By, Charlotte Ammundsens Plads, Nørrebro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1366, Denmark",
+                "class": "amenity",
+                "type": "community_centre",
+                "snippet": [
+                    "*...Copenhagen Municipality is divided into ten districts (bydele): Indre By, Østerbro, Nørrebro, Vesterbro/Kongens Enghave, Valby, Vanløse, Brønshøj-Husum, Bispebjerg, Amager Øst, and Amager Vest....",
+                    "*...The historic centre of the city, Indre By or the Inner City, features many of Copenhagen's most popular monuments and attractions....",
+                    "*...Other landmarks in Indre By include the parliament building of Christiansborg, the City Hall and Rundetårn, originally an observatory....",
+                    "*...Christianshavn lies to the southeast of Indre By on the other side of the harbour....",
+                    "*...Vesterbro, to the southwest of Indre By, begins with the Tivoli Gardens, the city's top tourist attraction with its fairground atmosphere, its Pantomime Theatre, its Concert Hall and its many rides and restaurants....",
+                    "...Frederiksberg, a separate municipality within the urban area of Copenhagen, lies to the west of Nørrebro and Indre By and north of Vesterbro...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.579164,
+                    55.676684
+                ]
+            },
+            "properties": {
+                "entity": "Prins Jørgens Gård",
+                "name_location": "Prins Jørgens Gård, Christianshavn, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1212, Denmark",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Denmark's Supreme Court (Højesteret), located in Christiansborg Palace on Prins Jørgens Gård in the centre of Copenhagen, is the country's final court of appeal...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57247,
+                    55.670692
+                ]
+            },
+            "properties": {
+                "entity": "Politigården",
+                "name_location": "Copenhagen Police Headquarters, Otto Mønsteds Gade, Postbyen, Vesterbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1571, Denmark",
+                "class": "amenity",
+                "type": "police",
+                "snippet": [
+                    "*...The Danish National Police and Copenhagen Police headquarters is situated in the Neoclassical-inspired Politigården building built in 1918–1924 under architects Hack Kampmann and Holger Alfred Jacobsen...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.571534,
+                    55.674663
+                ]
+            },
+            "properties": {
+                "entity": "Copenhagen Central Fire Station",
+                "name_location": "Copenhagen Central Fire Station, Bag Rådhuset, Postbyen, Vesterbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1553, Denmark",
+                "class": "amenity",
+                "type": "fire_station",
+                "snippet": [
+                    "...The fire department has its headquarters in the Copenhagen Central Fire Station which was designed by Ludvig Fenger in the Historicist style and inaugurated in 1892...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.572727,
+                    55.679377
+                ]
+            },
+            "properties": {
+                "entity": "Church of Our Lady",
+                "name_location": "Church of Our Lady, Dyrkøb, Christianshavn, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1166, Denmark",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "...Around 1200, the Church of Our Lady was constructed on higher ground to the northeast of the town, which began to develop around it....",
+                    "...Known as the Øresund Region, it has 4.1 million inhabitants—of whom 2.7 million (August 2021) live in the Danish part of the region.\nA majority (56.9%) of those living in Copenhagen are members of the Lutheran Church of Denmark which is 0.6% lower than one year earlier according to 2019 figures. The National Cathedral, the Church of Our Lady, is one of the dozens of churches in Copenhagen...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.594252,
+                    55.672908
+                ]
+            },
+            "properties": {
+                "entity": "Church of Our Saviour",
+                "name_location": "Church of Our Saviour, Copenhagen, Dronningensgade, Christianshavn, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1416, Denmark",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "...Most characteristic of all is the Baroque spire of the Church of Our Saviour with its narrowing external spiral stairway that visitors can climb to the top....",
+                    "...Other buildings of interest in Christianshavn include the Church of Our Saviour with its spiralling steeple and the magnificent Rococo Christian's Church...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.557024,
+                    55.670808
+                ]
+            },
+            "properties": {
+                "entity": "World",
+                "name_location": "Fitness World, Gasværksvej, Meatpacking District, Vesterbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1656, Denmark",
+                "class": "leisure",
+                "type": "fitness_centre",
+                "snippet": [
+                    "...Later, following the Second World War, the Finger Plan fostered the development of housing and businesses along the five urban railway routes stretching out from the city centre....",
+                    "...Copenhagen is one of the most bicycle-friendly cities in the world....",
+                    "...As a result of Denmark's neutrality in the First World War, Copenhagen prospered from trade with both Britain and Germany while the city's defences were kept fully manned by some 40,000 soldiers for the duration of the war....",
+                    "...In Denmark during World War II, Copenhagen was occupied by German troops along with the rest of the country from 9 April 1940 until 4 May 1945....",
+                    "...Copenhagen is recognised as one of the most environmentally friendly cities in the world....",
+                    "...Although it is one of the world's most expensive cities, it is also one of the most liveable with its public transport, facilities for cyclists and its environmental policies....",
+                    "...Many major Danish companies like Novo Nordisk and Lundbeck, both of which are among the 50 largest pharmaceutical and biotech companies in the world, are located in this business cluster....",
+                    "...Shipping is another import sector with Maersk, the world's largest shipping company, having their world headquarters in Copenhagen....",
+                    "...Copenhagen has some of the highest gross wages in the world....",
+                    "*...British design magazine Monocle named Copenhagen the World's best design city 2008....",
+                    "...After World War II, Copenhagen Municipality adopted Fordism and repurposed its medieval centre to facilitate private automobile infrastructure in response to innovations in transport, trade and communication....",
+                    "...The park offers views of the elephants and the elephant house designed by world-famous British architect Norman Foster of the adjacent Copenhagen Zoo....",
+                    "...Closed to traffic since 1964, Strøget, one of the world's oldest and longest pedestrian streets, runs the 3.2 km (2.0 mi) from Rådhuspladsen to Kongens Nytorv....",
+                    "...Its landmarks include Copenhagen Zoo founded in 1869 with over 250 species from all over the world and Frederiksberg Palace built as a summer residence by Frederick IV who was inspired by Italian architecture....",
+                    "...It is among the most modern opera houses in the world....",
+                    "...One of Europe's top jazz festivals, the annual event features around 900 concerts at 100 venues with over 200,000 guests from Denmark and around the world....",
+                    "...Noma was ranked as the Best Restaurant in the World by Restaurant in 2010, 2011, 2012, and again in 2014, sparking interest in the New Nordic Cuisine....",
+                    "...Copenhagen has one of the highest number of restaurants and bars per capita in the world....",
+                    "...Copenhagen has the two oldest amusement parks in the world....",
+                    "...Created as an amusement park complete with rides, games and restaurants by Christian IV, it is the oldest surviving amusement park in the world....",
+                    "...It opened in 1843, making it the second-oldest amusement park in the world....",
+                    "...The Academic Ranking of World Universities placed it 30th in the world in 2016....",
+                    "...The Danish Australian Football League, based in Copenhagen is the largest Australian rules football competition outside of the English-speaking world....",
+                    "...In 2009 the event included a 10-kilometre (6-mile) FINA World Cup competition in the morning....",
+                    "...Copenhagen hosted the 2011 UCI Road World Championships in September 2011, taking advantage of its bicycle-friendly infrastructure....",
+                    "...In implementing its Finger Plan, Copenhagen is considered the world's first example of a transit metropolis, and areas around S-Train stations like Ballerup and Brøndby Strand are among the earliest examples of transit-oriented development....",
+                    "...Copenhagen has been rated as one of the most bicycle-friendly cities in the world since 2015, with bicycles outnumbering its inhabitants....",
+                    "...Nordisk Film, established in Valby, Copenhagen in 1906 is the oldest continuously operating film production company in the world...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.579355,
+                    55.629013
+                ]
+            },
+            "properties": {
+                "entity": "Ørestad",
+                "name_location": "Ørestad, Ørestads Boulevard, Våren, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 2770, Denmark",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...Neighbourhoods of Copenhagen include Slotsholmen, Frederiksstaden, Islands Brygge, Holmen, Christiania, Carlsberg, Sluseholmen, Sydhavn, Amagerbro, Ørestad, Nordhavnen, Bellahøj, Brønshøj, Ryparken, and Vigerslev....",
+                    "*...Ørestad now has seen most of the recent development...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.58073,
+                    55.685718
+                ]
+            },
+            "properties": {
+                "entity": "Kongens Have",
+                "name_location": "Legepladsen i Kongens Have, Kavalergangen, Nyboder, Frederiksstaden, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1123, Denmark",
+                "class": "leisure",
+                "type": "playground",
+                "snippet": [
+                    "*...King's Garden (Kongens Have), the garden of Rosenborg Castle, is the oldest and most frequented of them all...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.573787,
+                    55.705321
+                ]
+            },
+            "properties": {
+                "entity": "Fælledparken",
+                "name_location": "Fælledparken løbegård, Serridslevvej, Indre Østerbro, Østerbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 2100, Denmark",
+                "class": "leisure",
+                "type": "dog_park",
+                "snippet": [
+                    "*...Fælledparken at 58 ha (140 acres) is the largest park in Copenhagen....",
+                    "*...Copenhagen Carnival has taken place every year since 1982 during the Whitsun Holiday in Fælledparken and around the city with the participation of 120 bands, 2,000 dancers and 100,000 spectators...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.593745,
+                    55.691383
+                ]
+            },
+            "properties": {
+                "entity": "Kastellet",
+                "name_location": "Kastellet, Ved Kongeporten, Nyboder, Frederiksstaden, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1263, Denmark",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...A historical green space in the northeastern part of the city is Kastellet, a well-preserved Renaissance citadel that now serves mainly as a park....",
+                    "*...Not far from the Little Mermaid, the old Citadel (Kastellet) can be seen....",
+                    "*...The large Gefion Fountain (Gefionspringvandet) designed by Anders Bundgaard and completed in 1908 stands close to the southeast corner of Kastellet...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.596506,
+                    55.693463
+                ]
+            },
+            "properties": {
+                "entity": "Langelinie",
+                "name_location": "Langelinie, Nyboder, Frederiksstaden, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1259, Denmark",
+                "class": "highway",
+                "type": "unclassified",
+                "snippet": [
+                    "*...Langelinie, a park and promenade along the inner Øresund coast, is home to one of Copenhagen's most-visited tourist attractions, the Little Mermaid statue....",
+                    "*...The district stretches from Nørrebro to the waterfront where The Little Mermaid statue can be seen from the promenade known as Langelinie...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.589388,
+                    55.6832
+                ]
+            },
+            "properties": {
+                "entity": "Amalienborg",
+                "name_location": "Amalienborg, Bredgade, Frederiksstaden, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1260, Denmark",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Copenhagen's landmarks such as Tivoli Gardens, The Little Mermaid statue, the Amalienborg and Christiansborg palaces, Rosenborg Castle, Frederik's Church, Børsen and many museums, restaurants and nightclubs are significant tourist attractions....",
+                    "...Designed by Nicolai Eigtved in the Rococo style, its centre contained the mansions which now form Amalienborg Palace....",
+                    "...It has the Amalienborg Palace at its centre and is dominated by the dome of Frederik's Church (or the Marble Church) and several elegant 18th-century Rococo mansions....",
+                    "*...The area known as Frederiksstaden, developed by Frederik V in the second half of the 18th century in the Rococo style, has the four mansions of Amalienborg, the royal residence, and the wide-domed Marble Church at its centre....",
+                    "*...Directly across the water from Amalienborg, the 21st-century Copenhagen Opera House stands on the island of Holmen....",
+                    "...In addition to The Little Mermaid on the waterfront, there are two historic equestrian statues in the city centre: Jacques Saly's Frederik V on Horseback (1771) in Amalienborg Square and the statue of Christian V on Kongens Nytorv created by Abraham-César Lamoureux in 1688 who was inspired by the statue of Louis XIII in Paris...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.583604,
+                    55.676605
+                ]
+            },
+            "properties": {
+                "entity": "Holmen",
+                "name_location": "Church of Holmen, Holmens Kanal, Christianshavn, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1063, Denmark",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Major extensions to the naval base of Holmen were undertaken while the city's cultural importance was enhanced with the Royal Theatre and the Royal Academy of Fine Arts....",
+                    "...Activity in the port of Copenhagen declined with the closure of the Holmen Naval Base....",
+                    "*...Neighbourhoods of Copenhagen include Slotsholmen, Frederiksstaden, Islands Brygge, Holmen, Christiania, Carlsberg, Sluseholmen, Sydhavn, Amagerbro, Ørestad, Nordhavnen, Bellahøj, Brønshøj, Ryparken, and Vigerslev....",
+                    "*...Directly across the water from Amalienborg, the 21st-century Copenhagen Opera House stands on the island of Holmen...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.587952,
+                    55.68063
+                ]
+            },
+            "properties": {
+                "entity": "Nyhavn",
+                "name_location": "Nyhavn, Frederiksstaden, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1051, Denmark",
+                "class": "amenity",
+                "type": "toilets",
+                "snippet": [
+                    "*...To the south of Frederiksstaden, the Nyhavn canal is lined with colourful houses from the 17th and 18th centuries, many now with lively restaurants and bars...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.588356,
+                    55.679839
+                ]
+            },
+            "properties": {
+                "entity": "Charlottenborg Palace",
+                "name_location": "Charlottenborg Palace, Nyhavn, Frederiksstaden, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1051, Denmark",
+                "class": "amenity",
+                "type": "arts_centre",
+                "snippet": [
+                    "*...Important buildings include Charlottenborg Palace, famous for its art exhibitions, the Thott Palace (now the French embassy), the Royal Danish Theatre and the Hotel D'Angleterre, dated to 1755...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.58428,
+                    55.680554
+                ]
+            },
+            "properties": {
+                "entity": "Hotel D'Angleterre",
+                "name_location": "Hotel d’Angleterre, Hovedvagtsgade, Frederiksstaden, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1103, Denmark",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "...Important buildings include Charlottenborg Palace, famous for its art exhibitions, the Thott Palace (now the French embassy), the Royal Danish Theatre and the Hotel D'Angleterre, dated to 1755...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.568909,
+                    55.676062
+                ]
+            },
+            "properties": {
+                "entity": "City Hall",
+                "name_location": "City Hall Square, H.C. Andersens Boulevard, Vesterbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1554, Denmark",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...With its new city hall and railway station, its centre was drawn towards the west....",
+                    "...The seat of Copenhagen's municipal council is the Copenhagen City Hall (Rådhus), which is situated on City Hall Square....",
+                    "...Other important spires are those of Christiansborg Palace, the City Hall and the former Church of St. Nikolaj that now houses a modern art venue....",
+                    "...Other landmarks in Indre By include the parliament building of Christiansborg, the City Hall and Rundetårn, originally an observatory....",
+                    "...The Pride has a series of different activities all over Copenhagen, but it is at the City Hall Square that most of the celebration takes place....",
+                    "...The Tivoli Gardens is an amusement park and pleasure garden located in central Copenhagen between the City Hall Square and the Central Station...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.579,
+                    55.678794
+                ]
+            },
+            "properties": {
+                "entity": "Amagertorv",
+                "name_location": "Amagertorv, Christianshavn, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1160, Denmark",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...With its speciality shops, cafés, restaurants, and buskers, it is always full of life and includes the old squares of Gammel Torv and Amagertorv, each with a fountain...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.574096,
+                    55.684935
+                ]
+            },
+            "properties": {
+                "entity": "Øster Voldgade",
+                "name_location": "Øster Voldgade, Frederiksstaden, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1131, Denmark",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Rosenborg Castle on Øster Voldgade was built by Christian IV in 1606 as a summer residence in the Renaissance style...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.607571,
+                    55.675737
+                ]
+            },
+            "properties": {
+                "entity": "Freetown Christiania",
+                "name_location": "Freetown Christiania, Prinsessegade, Christianshavn, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1429, Denmark",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...As a result of student unrest in the late 1960s, the former Bådsmandsstræde Barracks in Christianshavn was occupied, leading to the establishment of Freetown Christiania in September 1971....",
+                    "*...Another interesting feature is Freetown Christiania, a fairly large area which was initially occupied by squatters during student unrest in 1971...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.599617,
+                    55.673598
+                ]
+            },
+            "properties": {
+                "entity": "Pusher Street",
+                "name_location": "Gaden, Freetown Christiania, Christianshavn, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1429, Denmark",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...The inhabitants openly sell drugs on \"Pusher Street\" as well as their arts and crafts...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.553591,
+                    55.682286
+                ]
+            },
+            "properties": {
+                "entity": "Concert Hall",
+                "name_location": "The Concert Hall, Julius Thomsens Gade, Frederiksberg, Frederiksberg Municipality, Capital Region of Denmark, 1925, Denmark",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...Vesterbro, to the southwest of Indre By, begins with the Tivoli Gardens, the city's top tourist attraction with its fairground atmosphere, its Pantomime Theatre, its Concert Hall and its many rides and restaurants....",
+                    "...The new Copenhagen Concert Hall opened in January 2009....",
+                    "...It serves as the home of the Danish National Symphony Orchestra and along with the Walt Disney Concert Hall in Los Angeles is the most expensive concert hall ever built....",
+                    "...Another important venue for classical music is the Tivoli Concert Hall located in the Tivoli Gardens...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.532195,
+                    55.667316
+                ]
+            },
+            "properties": {
+                "entity": "Elephant Gate",
+                "name_location": "Elefantporten, Ny Carlsberg Vej, Carlsberg Byen, Valby, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1805, Denmark",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "...The Carlsberg neighbourhood has some interesting vestiges of the old brewery of the same name including the Elephant Gate and the Ny Carlsberg Brewhouse...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.558195,
+                    55.674526
+                ]
+            },
+            "properties": {
+                "entity": "Tycho Brahe Planetarium",
+                "name_location": "Tycho Brahe Planetarium, Gammel Kongevej, Meatpacking District, Vesterbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1615, Denmark",
+                "class": "amenity",
+                "type": "planetarium",
+                "snippet": [
+                    "...The Tycho Brahe Planetarium is located on the edge of Skt. Jørgens Sø, one of the Copenhagen lakes...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.563073,
+                    55.671058
+                ]
+            },
+            "properties": {
+                "entity": "Halmtorvet",
+                "name_location": "Halmtorvet, Meatpacking District, Vesterbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1703, Denmark",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Halmtorvet, the old hay market behind the Central Station, is an increasingly popular area with its cafés and restaurants...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.571534,
+                    55.674663
+                ]
+            },
+            "properties": {
+                "entity": "Central Station",
+                "name_location": "Copenhagen Central Fire Station, Bag Rådhuset, Postbyen, Vesterbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1553, Denmark",
+                "class": "amenity",
+                "type": "fire_station",
+                "snippet": [
+                    "...Halmtorvet, the old hay market behind the Central Station, is an increasingly popular area with its cafés and restaurants....",
+                    "...The Tivoli Gardens is an amusement park and pleasure garden located in central Copenhagen between the City Hall Square and the Central Station....",
+                    "...Copenhagen Central Station is the hub of the DSB railway network serving Denmark and international destinations....",
+                    "...The new line connects all inner boroughs of the city by metro, including the Central Station, and opens up 17 new stations for Copenhageners....",
+                    "...Running from Copenhagen Central Station, the new extension is a branch line of M3 Cityring to Østerport...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.562313,
+                    55.669333
+                ]
+            },
+            "properties": {
+                "entity": "Øksnehallen",
+                "name_location": "Øksnehallen, Staldgade, Meatpacking District, Vesterbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1700, Denmark",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...The former cattle market Øksnehallen has been converted into a modern exhibition centre for art and photography...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.563761,
+                    55.674872
+                ]
+            },
+            "properties": {
+                "entity": "Radisson Blu Royal Hotel",
+                "name_location": "Radisson Blu Royal Hotel Hotel Bar, Hammerichsgade, Postbyen, Vesterbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1611, Denmark",
+                "class": "amenity",
+                "type": "bar",
+                "snippet": [
+                    "*...Radisson Blu Royal Hotel, built by Danish architect and designer Arne Jacobsen for the airline Scandinavian Airlines System (SAS) between 1956 and 1960 was once the tallest hotel in Denmark with a height of 69.60 m (228.3 ft) and the city's only skyscraper until 1969...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.555328,
+                    55.673101
+                ]
+            },
+            "properties": {
+                "entity": "Det Ny Teater",
+                "name_location": "Det Ny Teater, Gammel Kongevej, Meatpacking District, Vesterbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1610, Denmark",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...Completed in 1908, Det Ny Teater (the New Theatre) located in a passage between Vesterbrogade and Gammel Kongevej has become a popular venue for musicals since its reopening in 1994, attracting the largest audiences in the country...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.560399,
+                    55.674709
+                ]
+            },
+            "properties": {
+                "entity": "Gammel Kongevej",
+                "name_location": "Gammel Kongevej, Postbyen, Vesterbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1614, Denmark",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Completed in 1908, Det Ny Teater (the New Theatre) located in a passage between Vesterbrogade and Gammel Kongevej has become a popular venue for musicals since its reopening in 1994, attracting the largest audiences in the country...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.560921,
+                    55.69065
+                ]
+            },
+            "properties": {
+                "entity": "Sankt Hans Torv",
+                "name_location": "Sankt Hans Torv, Nørrebro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1371, Denmark",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Much of the activity is centred on Sankt Hans Torv and around Rantzausgade....",
+                    "*...Inner city areas such as Istedgade and Enghave Plads in Vesterbro, Sankt Hans Torv in Nørrebro and certain places in Frederiksberg are especially noted for their nightlife...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.553331,
+                    55.685094
+                ]
+            },
+            "properties": {
+                "entity": "Rantzausgade",
+                "name_location": "Rantzausgade, Nørrebro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1973, Denmark",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Much of the activity is centred on Sankt Hans Torv and around Rantzausgade...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.597589,
+                    55.689277
+                ]
+            },
+            "properties": {
+                "entity": "Gefion Fountain",
+                "name_location": "Gefion Fountain, Gefionbroen, Nyboder, Frederiksstaden, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1259, Denmark",
+                "class": "amenity",
+                "type": "fountain",
+                "snippet": [
+                    "*...The large Gefion Fountain (Gefionspringvandet) designed by Anders Bundgaard and completed in 1908 stands close to the southeast corner of Kastellet...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.597589,
+                    55.689277
+                ]
+            },
+            "properties": {
+                "entity": "Gefionspringvandet",
+                "name_location": "Gefion Fountain, Gefionbroen, Nyboder, Frederiksstaden, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1259, Denmark",
+                "class": "amenity",
+                "type": "fountain",
+                "snippet": [
+                    "*...The large Gefion Fountain (Gefionspringvandet) designed by Anders Bundgaard and completed in 1908 stands close to the southeast corner of Kastellet...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.550886,
+                    55.672626
+                ]
+            },
+            "properties": {
+                "entity": "Frederiksberg Allé",
+                "name_location": "Frederiksberg Allé (Vesterbrogade), Vesterbrogade, Meatpacking District, Vesterbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1620, Denmark",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...The wide tree-lined avenue of Frederiksberg Allé connecting Vesterbrogade with the Frederiksberg Gardens has long been associated with theatres and entertainment...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.566932,
+                    55.675434
+                ]
+            },
+            "properties": {
+                "entity": "Vesterbrogade",
+                "name_location": "Vesterbrogade, Postbyen, Vesterbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1608, Denmark",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Completed in 1908, Det Ny Teater (the New Theatre) located in a passage between Vesterbrogade and Gammel Kongevej has become a popular venue for musicals since its reopening in 1994, attracting the largest audiences in the country....",
+                    "*...The wide tree-lined avenue of Frederiksberg Allé connecting Vesterbrogade with the Frederiksberg Gardens has long been associated with theatres and entertainment...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.598261,
+                    55.666695
+                ]
+            },
+            "properties": {
+                "entity": "Amagerbrogade",
+                "name_location": "Amagerbrogade, Christianshavn, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1426, Denmark",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...The main street is Amagerbrogade which after the harbour bridge Langebro, is an extension of H. C. Andersens Boulevard and has a number of various stores and shops as well as restaurants and pubs...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.578524,
+                    55.670471
+                ]
+            },
+            "properties": {
+                "entity": "Langebro",
+                "name_location": "Langebro, Postbyen, Christianshavn, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1559, Denmark",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...The main street is Amagerbrogade which after the harbour bridge Langebro, is an extension of H. C. Andersens Boulevard and has a number of various stores and shops as well as restaurants and pubs...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.564403,
+                    55.678818
+                ]
+            },
+            "properties": {
+                "entity": "H. C. Andersens Boulevard",
+                "name_location": "H.C. Andersens Boulevard, Vesterbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1607, Denmark",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...The main street is Amagerbrogade which after the harbour bridge Langebro, is an extension of H. C. Andersens Boulevard and has a number of various stores and shops as well as restaurants and pubs...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.602894,
+                    55.663396
+                ]
+            },
+            "properties": {
+                "entity": "Amagerbro",
+                "name_location": "Amagerbro, Amagerbro Torv, Christianshavn, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1426, Denmark",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...Then come the late-19th- and early-20th-century residential neighbourhoods of Østerbro, Nørrebro, Vesterbro and Amagerbro....",
+                    "*...Neighbourhoods of Copenhagen include Slotsholmen, Frederiksstaden, Islands Brygge, Holmen, Christiania, Carlsberg, Sluseholmen, Sydhavn, Amagerbro, Ørestad, Nordhavnen, Bellahøj, Brønshøj, Ryparken, and Vigerslev....",
+                    "*...Amagerbro (also known as Sønderbro) is the district located immediately south-east of Christianshavn at northernmost Amager....",
+                    "*...Amagerbro was built up during the two first decades of the twentieth century and is the city's southernmost block built area with typically 4–7 floors...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.612643,
+                    55.651936
+                ]
+            },
+            "properties": {
+                "entity": "Sundbyøster",
+                "name_location": "Sundbyøster Plads, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 2300, Denmark",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Further south follows the Sundbyøster and Sundbyvester districts...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.589344,
+                    55.646344
+                ]
+            },
+            "properties": {
+                "entity": "Sundbyvester",
+                "name_location": "Topasgangen, Haveforeningen Sundbyvester, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 2300, Denmark",
+                "class": "highway",
+                "type": "service",
+                "snippet": [
+                    "*...Further south follows the Sundbyøster and Sundbyvester districts...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.544268,
+                    55.667944
+                ]
+            },
+            "properties": {
+                "entity": "Vega",
+                "name_location": "Vega, Enghavevej, Sorte Hest, Vesterbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1674, Denmark",
+                "class": "amenity",
+                "type": "nightclub",
+                "snippet": [
+                    "*...The largest venue for popular music in Copenhagen is Vega in the Vesterbro district....",
+                    "...The venue has three concert halls: the great hall, Store Vega, accommodates audiences of 1,550, the middle hall, Lille Vega, has space for 500 and Ideal Bar Live has a capacity of 250....",
+                    "...Notable nightclubs include Bakken Kbh, ARCH (previously ZEN), Jolene, The Jane, Chateau Motel, KB3, At Dolores (previously Sunday Club), Rust, Vega Nightclub, Culture Box and Gefährlich, which also serves as a bar, café, restaurant, and art gallery...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57518,
+                    55.681393
+                ]
+            },
+            "properties": {
+                "entity": "Krystalgade",
+                "name_location": "Krystalgade, Christianshavn, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1126, Denmark",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Copenhagen's public library network has over 20 outlets, the largest being the Central Library (Københavns Hovedbibliotek) on Krystalgade in the inner city...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.58722,
+                    55.691439
+                ]
+            },
+            "properties": {
+                "entity": "Den Frie Udstilling",
+                "name_location": "Den Frie Udstilling, Øster Voldgade, Nyboder, Frederiksstaden, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1327, Denmark",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Den Frie Udstilling near the Østerport Station exhibits paintings created and selected by contemporary artists themselves rather than by the official authorities...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.563907,
+                    55.690217
+                ]
+            },
+            "properties": {
+                "entity": "Nørrebro Bryghus",
+                "name_location": "Nørrebro Bryghus Restaurant, Ryesgade, Nørrebro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1371, Denmark",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...Some like Nørrebro Bryghus also act as brewpubs where it is also possible to eat on the premises...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.562963,
+                    55.672225
+                ]
+            },
+            "properties": {
+                "entity": "Istedgade",
+                "name_location": "Istedgade, Postbyen, Vesterbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1652, Denmark",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Inner city areas such as Istedgade and Enghave Plads in Vesterbro, Sankt Hans Torv in Nørrebro and certain places in Frederiksberg are especially noted for their nightlife...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.54736,
+                    55.667424
+                ]
+            },
+            "properties": {
+                "entity": "Enghave Plads",
+                "name_location": "Enghave Plads, Sorte Hest, Vesterbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1669, Denmark",
+                "class": "highway",
+                "type": "cycleway",
+                "snippet": [
+                    "*...Inner city areas such as Istedgade and Enghave Plads in Vesterbro, Sankt Hans Torv in Nørrebro and certain places in Frederiksberg are especially noted for their nightlife...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.549595,
+                    55.665627
+                ]
+            },
+            "properties": {
+                "entity": "Dyrehaven",
+                "name_location": "Dyrehaven, Sønder Boulevard, Meatpacking District, Vesterbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1721, Denmark",
+                "class": "amenity",
+                "type": "cafe",
+                "snippet": [
+                    "*...Dyrehavsbakken, a fair-ground and pleasure-park established in 1583, is located in Klampenborg just north of Copenhagen in a forested area known as Dyrehaven...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.559701,
+                    55.668726
+                ]
+            },
+            "properties": {
+                "entity": "Bakken",
+                "name_location": "Bakken, Flæsketorvet, Meatpacking District, Vesterbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1700, Denmark",
+                "class": "amenity",
+                "type": "bar",
+                "snippet": [
+                    "...Notable nightclubs include Bakken Kbh, ARCH (previously ZEN), Jolene, The Jane, Chateau Motel, KB3, At Dolores (previously Sunday Club), Rust, Vega Nightclub, Culture Box and Gefährlich, which also serves as a bar, café, restaurant, and art gallery....",
+                    "*...In Danish, Dyrehavsbakken is often abbreviated as Bakken...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.572264,
+                    55.702704
+                ]
+            },
+            "properties": {
+                "entity": "Parken",
+                "name_location": "Parken, Brumleby, Indre Østerbro, Østerbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 2100, Denmark",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...FC København plays at Parken in Østerbro...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.416834,
+                    55.650476
+                ]
+            },
+            "properties": {
+                "entity": "Brøndby Stadion",
+                "name_location": "Brøndby Stadion, Brøndbyvester, Brøndby Municipality, Glostrup, Capital Region of Denmark, 2605, Denmark",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Brøndby plays at Brøndby Stadion in the inner suburb of Brøndbyvester...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57163,
+                    55.683359
+                ]
+            },
+            "properties": {
+                "entity": "Nørreport Station",
+                "name_location": "Nørreport Station, Nørre Voldgade, Frederiksstaden, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1361, Denmark",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Nørreport Station near the city centre serves passengers travelling by main-line rail, S-train, regional train, metro and bus...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.564679,
+                    55.672759
+                ]
+            },
+            "properties": {
+                "entity": "Copenhagen Central Station",
+                "name_location": "Copenhagen Central Station, Bernstorffsgade, Postbyen, Vesterbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1704, Denmark",
+                "class": "building",
+                "type": "train_station",
+                "snippet": [
+                    "*...Copenhagen Central Station is the hub of the DSB railway network serving Denmark and international destinations....",
+                    "*...Running from Copenhagen Central Station, the new extension is a branch line of M3 Cityring to Østerport...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57648,
+                    55.677402
+                ]
+            },
+            "properties": {
+                "entity": "City Circle Line",
+                "name_location": "City Circle Line, Borgergade, Frederiksstaden, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1300, Denmark",
+                "class": "railway",
+                "type": "subway",
+                "snippet": [
+                    "...The Copenhagen Metro expanded radically with the opening of the City Circle Line (M3) on 29 September 2019...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57648,
+                    55.677402
+                ]
+            },
+            "properties": {
+                "entity": "M3",
+                "name_location": "City Circle Line, Borgergade, Frederiksstaden, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1300, Denmark",
+                "class": "railway",
+                "type": "subway",
+                "snippet": [
+                    "*...The Copenhagen Metro expanded radically with the opening of the City Circle Line (M3) on 29 September 2019....",
+                    "...Running from Copenhagen Central Station, the new extension is a branch line of M3 Cityring to Østerport...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.58331,
+                    55.703969
+                ]
+            },
+            "properties": {
+                "entity": "M4",
+                "name_location": "Nordhavnslinjen, Jagtvej, Indre Østerbro, Østerbro, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 2100, Denmark",
+                "class": "railway",
+                "type": "subway",
+                "snippet": [
+                    "*...On 28 March 2020, the 2.2 km (1.4 mi) Nordhavn extension of the Harbour Line (M4) opened....",
+                    "...The M4 Sydhavn branch is expected to open in 2024...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.537718,
+                    55.644847
+                ]
+            },
+            "properties": {
+                "entity": "M4 Sydhavn",
+                "name_location": "Hf. Sydhavn, Sluseholmen, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 2450, Denmark",
+                "class": "highway",
+                "type": "service",
+                "snippet": [
+                    "*...The M4 Sydhavn branch is expected to open in 2024...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.421862,
+                    55.620988
+                ]
+            },
+            "properties": {
+                "entity": "Brøndby Strand",
+                "name_location": "Brøndby Strand, Brøndby Strand Centrum, Brøndby Strand, Brøndby Municipality, Copenhagen, Capital Region of Denmark, 2660, Denmark",
+                "class": "railway",
+                "type": "halt",
+                "snippet": [
+                    "*...In implementing its Finger Plan, Copenhagen is considered the world's first example of a transit metropolis, and areas around S-Train stations like Ballerup and Brøndby Strand are among the earliest examples of transit-oriented development...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.537963,
+                    55.710097
+                ]
+            },
+            "properties": {
+                "entity": "Bispebjerg Hospital",
+                "name_location": "Bispebjerg Hospital, Tagensvej, Utterslev, Bispebjerg, Copenhagen Municipality, Capital Region of Denmark, 2400, Denmark",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Copenhagen University Hospital forms a conglomerate of several hospitals in Region Hovedstaden and Region Sjælland, together with the faculty of health sciences at the University of Copenhagen; Rigshospitalet and Bispebjerg Hospital in Copenhagen belong to this group of university hospitals....",
+                    "*...Bispebjerg Hospital was built in 1913, and serves about 400,000 people in the Greater Copenhagen area, with some 3,000 employees...."
+                ]
+            }
+        }
+    ]
+}
