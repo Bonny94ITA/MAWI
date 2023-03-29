@@ -12,7 +12,7 @@ path_articles2 = f'input/articles2/it/texts/'
 
 path_results = f'results/extraction_entities_snippet/'
 
-titles_articles = [("Barocco a Milano", "it"), ("Gotico a Milano", "it"), ("Liberty a Milano", "it"), ("Liberty a Torino", "it")]
+titles_articles = [("Atene", "it"), ("Barcellona", "it")]
 
 
 model_it = create_model("it")
@@ -24,14 +24,21 @@ for (title, lang) in titles_articles:
     # Read wiki articles from file
     print("Current article to analyze: ", title)
     if lang == "it":
-        path_article = path_articles2+title+".txt"
+        path_article = path_articles1_it+title+".txt"
     else:
-        path_article = path_articles2+title+".txt"
+        path_article = path_articles1_en+title+".txt"
     startTime = datetime.now()
     text = read_article(path_article)
     print("-----------------------read_article : ", str(datetime.now() - startTime))
 
     path_result_article = create_directory(title, path_results, lang)
+
+    nlp = None
+    geographic_scope = ""
+    searchable_entities = dict()
+    sentence_dict = dict()
+    features = list()
+    entities_final = list()
 
     if lang == "it":
         nlp = model_it

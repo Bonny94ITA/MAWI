@@ -72,7 +72,7 @@ def search_entities_geopy(searchable_entities: dict, geographic_scope: dict, pat
         features: list of features geojson
     """
 
-    geocode = RateLimiter(locator.geocode, min_delay_seconds=1)
+    geocode = RateLimiter(locator.geocode, min_delay_seconds=3)
     name_geographic_scope = geographic_scope['name']
     bbox = geographic_scope['bbox']
     country_code = geographic_scope['country_code']
@@ -112,15 +112,15 @@ def search_entities_geopy(searchable_entities: dict, geographic_scope: dict, pat
     results_file_path = path_results+"/entities_founded.txt"
     delete_file(results_file_path)
     entities_final = df['entity'].to_list()
-    entities_final = merge_entities(features, entities_final)
+    #entities_final = merge_entities(features, entities_final)
     entities_final.sort(key=str.lower)
 
     for entity in entities_final:
         print_to_file(results_file_path, entity)
 
-    features.extend(geojson_entities)
+    #features.extend(geojson_entities)
 
-    return features, entities_final
+    return geojson_entities, entities_final
 
 def most_close_location(results: list, geographic_scope: dict):
     """ Return the most close location from the list of results
