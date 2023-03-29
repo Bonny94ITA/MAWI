@@ -1,0 +1,1547 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.737375,
+                    59.435744
+                ]
+            },
+            "properties": {
+                "entity": "Castrum Danorum",
+                "name_location": "Toompea loss, 1a, Lossi plats, Vanalinn, Kesklinna linnaosa, Tallinn, Harju maakond, 15165, Estonia",
+                "class": "historic",
+                "type": "castle",
+                "snippet": [
+                    "*...I danesi infatti denominarono la città di Tallinn come Castrum Danorum, latinismo significante \"castello dei danesi\"...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.675117,
+                    59.386858
+                ]
+            },
+            "properties": {
+                "entity": "Harku",
+                "name_location": "Harku, Nõmme, Nõmme linnaosa, Tallinn, Harju maakond, 11611, Estonia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Il secondo lago per estensione (1,6 km²) è l'Harku...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.83261,
+                    59.466742
+                ]
+            },
+            "properties": {
+                "entity": "Pirita",
+                "name_location": "Pirita, Merivälja tee, Pirita, Pirita linnaosa, Tallinn, Harju maakond, 11911, Estonia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...L'unico fiume importante è il Pirita, scorre a nord, nel sobborgo di Pirita, e dal 1957 è zona protetta, stante il pregio naturalistico....",
+                    "...In quella occasione vennero edificati vari edifici fra i quali l'hotel Olimpia, l'Ufficio Postale, il Pirita yachting centre e l'imponente torre della televisione...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.747896,
+                    59.441322
+                ]
+            },
+            "properties": {
+                "entity": "Chiesa di Sant'Olav",
+                "name_location": "Chiesa di Sant'Olav, 50, Lai, Vanalinn, Kesklinna linnaosa, Tallinn, Harju maakond, 10133, Estonia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Chiesa di Sant'Olav. Per quasi un secolo, dal 1549 al 1625 è stato l'edificio più alto del mondo. Alla fine del XV secolo una nuova guglia gotica di 159 m fu costruita per la sua torre. In seguito a diversi incendi e conseguenti restauri, l'altezza totale è oggi 123 m...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.745392,
+                    59.433721
+                ]
+            },
+            "properties": {
+                "entity": "Chiesa di San Giovanni",
+                "name_location": "Chiesa di San Giovanni, 1, Piazza della Libertà, Vanalinn, Kesklinna linnaosa, Tallinn, Harju maakond, 10146, Estonia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Chiesa di San Giovanni, è una Chiesa parrocchiale neogotica della Chiesa di Estonia ed è situata in Piazza Vabaduse o della Libertà ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.743957,
+                    59.433698
+                ]
+            },
+            "properties": {
+                "entity": "Piazza Vabaduse",
+                "name_location": "Piazza della Libertà, Vanalinn, Kesklinna linnaosa, Tallinn, Harju maakond, Estonia",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Chiesa di San Giovanni, è una Chiesa parrocchiale neogotica della Chiesa di Estonia ed è situata in Piazza Vabaduse o della Libertà ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.743957,
+                    59.433698
+                ]
+            },
+            "properties": {
+                "entity": "Piazza della Libertà",
+                "name_location": "Piazza della Libertà, Vanalinn, Kesklinna linnaosa, Tallinn, Harju maakond, Estonia",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Colonna della Vittoria dell'Indipendenza dell'Estonia, in Piazza della Libertà (Tallinn) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.741267,
+                    59.434703
+                ]
+            },
+            "properties": {
+                "entity": "Kiek in de Kök",
+                "name_location": "Kiek in de Kök, 2, Komandandi tee, Vanalinn, Kesklinna linnaosa, Tallinn, Harju maakond, 10130, Estonia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Kiek in de Kök ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.801087,
+                    59.41645
+                ]
+            },
+            "properties": {
+                "entity": "Aeroporto",
+                "name_location": "Lennart Meri Tallinna lennujaam, 101, Tartu mnt, Ülemistejärve, Kesklinna linnaosa, Tallinn, Harju maakond, 11101, Estonia",
+                "class": "aeroway",
+                "type": "terminal",
+                "snippet": [
+                    "...Così ad esempio Tallinna Lennujaam è l'Aeroporto di Tallinn....",
+                    "*...Tallinn è servita da un Aeroporto, l'Aeroporto Lennart Meri, a circa 4 km dal centro cittadino....",
+                    "*...Una linea di bus (N.2), collega comodamente l'Aeroporto al centro della città....",
+                    "*...Collega il centro cittadino all'Aeroporto, e che collega buona parte della città, coprendo anche zone periferiche della capitale estone....",
+                    "*...Attualmente il costo di un biglietto di 1 ora è di 1,50€ ed è valido in tutta la rete urbana (comprese le corse avente origine dall'Aeroporto)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.801087,
+                    59.41645
+                ]
+            },
+            "properties": {
+                "entity": "Aeroporto Lennart Meri",
+                "name_location": "Lennart Meri Tallinna lennujaam, 101, Tartu mnt, Ülemistejärve, Kesklinna linnaosa, Tallinn, Harju maakond, 11101, Estonia",
+                "class": "aeroway",
+                "type": "terminal",
+                "snippet": [
+                    "...Tallinn è servita da un Aeroporto, l'Aeroporto Lennart Meri, a circa 4 km dal centro cittadino...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.741313,
+                    59.412413
+                ]
+            },
+            "properties": {
+                "entity": "Europe",
+                "name_location": "Antiikmööblipood Old Europe, 8b, Kiisa, Kitseküla, Kesklinna linnaosa, Tallinn, Harju maakond, 96086, Estonia",
+                "class": "shop",
+                "type": "furniture",
+                "snippet": [
+                    "*...The medieval indigenous population of what is now Tallinn and northern Estonia was one of the last \"pagan\" civilisations in Europe to adopt Christianity following the Papal-sanctioned Livonian Crusade in the 13th century....",
+                    "*...Tallinn Old Town is one of the best-preserved medieval cities in Europe and is listed as a UNESCO World Heritage Site....",
+                    "*...Tallinn has the highest number of startup companies per person among all capitals and larger cities in Europe and is the birthplace of many international high-technology companies, including Skype and Wise....",
+                    "*...As an important port on a major trade route between Novgorod and western Europe, it became a target for the expansion of the Teutonic Knights and the Kingdom of Denmark during the period of Northern Crusades in the beginning of the 13th century when Christianity was forcibly imposed on the local population....",
+                    "...In 1285, Tallinn, then known more widely as Reval, became the northernmost member of the Hanseatic League – a mercantile and military alliance of German-dominated cities in Northern Europe....",
+                    "*...Reval enjoyed a strategic position at the crossroads of trade between the rest of western Europe and Novgorod and Muscovy in the east....",
+                    "*...In recent years,[when?] Tallinn has gradually been becoming one of the main IT centres of Europe, with the Cooperative Cyber Defence Centre of Excellence (CCD COE) of NATO, eu-LISA, the EU Digital Agency and the IT development centres of large corporations, such as TeliaSonera and Kuehne + Nagel being based in the city....",
+                    "*...Most of the visitors come from Europe, though Tallinn has also become increasingly visited by tourists from the Asia-Pacific region....",
+                    "*...Estonia is ranked third in Europe in terms of shopping centre space per inhabitant, ahead of Sweden and being surpassed only by Norway and Luxembourg....",
+                    "*...Ericsson has one of its biggest production facilities in Europe located in Tallinn, focusing on the production of 4G communication devices....",
+                    "...With over 250 feature films screened each year and over 77500 attendances (2014), PÖFF is one of the largest film events of Northern Europe and cultural events in Estonia in the winter season....",
+                    "*...This area is one of the best preserved medieval towns in Europe and the authorities are continuing its rehabilitation...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.737375,
+                    59.435744
+                ]
+            },
+            "properties": {
+                "entity": "Castrum Danorum",
+                "name_location": "Toompea Castle, 1a, Lossi plats, Vanalinn, Kesklinna linnaosa, Tallinn, Harju maakond, 15165, Estonia",
+                "class": "historic",
+                "type": "castle",
+                "snippet": [
+                    "*...It has been widely considered a historical derivation of Taani-linna, meaning \"Danish-castle\" (Latin: Castrum Danorum), conceivably because the Danish invaders built the castle in place of the Estonian stronghold after the 1219 battle of Lyndanisse...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.73886,
+                    59.435483
+                ]
+            },
+            "properties": {
+                "entity": "Toompea",
+                "name_location": "Toompea, Kesklinna linnaosa, Tallinn, Harju maakond, 15165, Estonia",
+                "class": "highway",
+                "type": "living_street",
+                "snippet": [
+                    "*...Around 1050 AD, a fortress was built in what is now central Tallinn, on the hill of Toompea....",
+                    "*...It can be seen at Toompea, Lasnamäe, and Astangu....",
+                    "*...However, Toompea is not a part of the cliff, but a separate hill....",
+                    "...What can arguably be considered to be Tallinn's main attractions are located in the Tallinn Old Town (divided into a \"lower town\" and Toompea hill) which is easily explored on foot....",
+                    "...The major attractions are the medieval Toompea Castle (today housing the Estonian Parliament, the Riigikogu), the Lutheran St Mary's Cathedral, also known as the Dome Church (Estonian: Toomkirik), and the Russian Orthodox Alexander Nevsky Cathedral...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.745312,
+                    59.437007
+                ]
+            },
+            "properties": {
+                "entity": "Town Hall",
+                "name_location": "Town Hall, 1, Raekoja plats, All-linn, Kesklinna linnaosa, Tallinn, Harju maakond, 10146, Estonia",
+                "class": "amenity",
+                "type": "townhall",
+                "snippet": [
+                    "*...A weather vane, the figure of an old warrior called Old Thomas, was put on top of the spire of the Tallinn Town Hall in 1530....",
+                    "...Another historical museum that can be found at city's Old Town, just behind the Town Hall, is Tallinn City Museum....",
+                    "...Tallinn City Museum owns nine more departments and museums around the city, one of which is Tallinn's Museum of Photography, also located just behind the Town Hall....",
+                    "...In 1695, marzipan was mentioned as a medicine, under the designation of Panis Martius, in the price lists of the Tallinn Town Hall Pharmacy....",
+                    "*...Major sights include the Town Hall square (Estonian: Raekoja plats), the city wall and towers (notably \"Fat Margaret\" and \"Kiek in de Kök\") as well as a number of medieval churches, including St Olaf's, St. Nicholas' and the Church of the Holy Ghost....",
+                    "*...The Lennart Meri Tallinn Airport is about 4 kilometres (2 miles)  from Town Hall square (Raekoja plats)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.88744,
+                    59.471193
+                ]
+            },
+            "properties": {
+                "entity": "Tallinn TV Tower",
+                "name_location": "Tallinn TV Tower, 58а, Kloostrimetsa tee, Kloostrimetsa, Pirita linnaosa, Tallinn, Harju maakond, 15026, Estonia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...Many buildings, such as the Tallinn TV Tower, \"Olümpia\" hotel, the new Main Post Office building, and the Regatta Centre, were built for the Olympics....",
+                    "...Two kilometres inland are the Botanic Gardens and the Tallinn TV Tower...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.74611,
+                    59.435663
+                ]
+            },
+            "properties": {
+                "entity": "Old Town",
+                "name_location": "Old Town Maestro, 10, Suur-Karja, All-linn, Kesklinna linnaosa, Tallinn, Harju maakond, 10140, Estonia",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "...Tallinn Old Town is one of the best-preserved medieval cities in Europe and is listed as a UNESCO World Heritage Site....",
+                    "...The Old Town became a World Heritage Site in 1997, and the city hosted the 2002 Eurovision Song Contest....",
+                    "...The museum is located in the Old Town, inside one of Tallinn's former defensive structures – Fat Margaret's Tower....",
+                    "*...Another historical museum that can be found at city's Old Town, just behind the Town Hall, is Tallinn City Museum....",
+                    "*...The city is also home to Estonian Museum of Natural History and the Museum of Health Care, both located in Old Town....",
+                    "*...What can arguably be considered to be Tallinn's main attractions are located in the Tallinn Old Town (divided into a \"lower town\" and Toompea hill) which is easily explored on foot...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.717468,
+                    59.437684
+                ]
+            },
+            "properties": {
+                "entity": "Härjapea",
+                "name_location": "Härjapea, Ristiku, Pelgulinn, Põhja-Tallinna linnaosa, Tallinn, Harju maakond, 10611, Estonia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Historically, a smaller river, called Härjapea, flowed from Lake Ülemiste through the town into the sea, but the river was diverted into underground sewerage system in the 1930s and has since completely disappeared from the cityscape...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.763381,
+                    59.440018
+                ]
+            },
+            "properties": {
+                "entity": "Jõe",
+                "name_location": "Jõe, Sadama, Kesklinna linnaosa, Tallinn, Harju maakond, 10151, Estonia",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...References to it still remain in the street names Jõe (from jõgi, river) and Kivisilla (from kivi sild, stone bridge)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.758741,
+                    59.435311
+                ]
+            },
+            "properties": {
+                "entity": "Kivisilla",
+                "name_location": "Kivisilla, Gonsiori, Kompassi, Kesklinna linnaosa, Tallinn, Harju maakond, 10117, Estonia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...References to it still remain in the street names Jõe (from jõgi, river) and Kivisilla (from kivi sild, stone bridge)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.779407,
+                    59.427115
+                ]
+            },
+            "properties": {
+                "entity": "Lasnamäe",
+                "name_location": "Lasnamäe, Sikupilli, Lasnamäe linnaosa, Tallinn, Harju maakond, 10115, Estonia",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...It can be seen at Toompea, Lasnamäe, and Astangu....",
+                    "*...Whole new city districts were built where the main intent of the then Soviet authorities was to accommodate Russian-speaking immigrants: Mustamäe, Väike-Õismäe, Pelguranna, and most notably, Lasnamäe, which in 1980s became, and is to this day, the most populous district of Tallinn...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.64411,
+                    59.406608
+                ]
+            },
+            "properties": {
+                "entity": "Astangu",
+                "name_location": "Astangu, Väike-Õismäe, Haabersti linnaosa, Tallinn, Harju maakond, 13520, Estonia",
+                "class": "highway",
+                "type": "tertiary_link",
+                "snippet": [
+                    "*...It can be seen at Toompea, Lasnamäe, and Astangu...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.739192,
+                    59.441344
+                ]
+            },
+            "properties": {
+                "entity": "Kopli",
+                "name_location": "Kopli, Kalamaja, Põhja-Tallinna linnaosa, Tallinn, Harju maakond, 10414, Estonia",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...It comprises three bigger peninsulas: Kopli, Paljassaare, and Kakumäe Peninsulas...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.744448,
+                    59.437004
+                ]
+            },
+            "properties": {
+                "entity": "Baltic",
+                "name_location": "Baltic Amber, 3, Dunkri, All-linn, Kesklinna linnaosa, Tallinn, Harju maakond, 10146, Estonia",
+                "class": "shop",
+                "type": "gift",
+                "snippet": [
+                    "...Situated on a bay in north Estonia, on the shore of the Gulf of Finland of the Baltic Sea, Tallinn has a population of about 454,000 (as of 2023) and administratively lies in the Harju maakond (county)....",
+                    "...Only the upper layer of Ordovician rocks protrudes from the cover of younger deposits, cropping out in the Baltic Klint at the coast and at a few places inland....",
+                    "...In addition to longtime functions as seaport and capital city, Tallinn has seen development of an information technology sector; in its 13 December 2005, edition, The New York Times characterised Estonia as \"a sort of Silicon Valley on the Baltic Sea\"....",
+                    "...Tallinn Passenger Port is one of the busiest cruise destinations on the Baltic Sea, it served more than 520,000 cruise passengers in 2013....",
+                    "...Tallinn is the financial centre of Estonia and also a strong economic centre in the Scandinavian-Baltic region....",
+                    "*...Port of Tallinn is one of the biggest ports in the Baltic sea region, whereas the largest cargo port of Estonia, the Port of Muuga, which is operated by the same business entity, is located in the neighboring town of Maardu....",
+                    "...Baltic Film and Media School ;...",
+                    "*...PÖFF is the only festival in the Nordic and Baltic region with a FIAPF (International Federation of Film Producers Association) accreditation for holding an international competition programme in the Nordic and Baltic region with 14 other non-specialised festivals, such as Cannes, Berlin, Venice....",
+                    "...Franz Anton Schiefner (1817–1879), a Baltic German linguist and tibetologist ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.799361,
+                    59.416368
+                ]
+            },
+            "properties": {
+                "entity": "Tallinn Airport",
+                "name_location": "Tallinn Airport Passenger terminal, 101, Tartu mnt, Ülemistejärve, Kesklinna linnaosa, Tallinn, Harju maakond, 11101, Estonia",
+                "class": "aeroway",
+                "type": "terminal",
+                "snippet": [
+                    "*...Air Maintenance Estonia and AS Panaviatic Maintenance, both based in Tallinn Airport, provide MRO services for aircraft, largely expanding their operations in recent years....",
+                    "...The Lennart Meri Tallinn Airport is about 4 kilometres (2 miles)  from Town Hall square (Raekoja plats)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.745021,
+                    59.438417
+                ]
+            },
+            "properties": {
+                "entity": "Great Guild Hall",
+                "name_location": "Great Guild Hall, 17, Pikk, Vanalinn, Kesklinna linnaosa, Tallinn, Harju maakond, 10123, Estonia",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...One of the most visited historical museums in Tallinn is the Estonian History Museum, located in Great Guild Hall at Vanalinn, the old part of the city...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.749558,
+                    59.442548
+                ]
+            },
+            "properties": {
+                "entity": "Fat Margaret's Tower",
+                "name_location": "Fat Margaret's Tower, 70, Pikk, Vanalinn, Kesklinna linnaosa, Tallinn, Harju maakond, 15055, Estonia",
+                "class": "man_made",
+                "type": "tower",
+                "snippet": [
+                    "*...The museum is located in the Old Town, inside one of Tallinn's former defensive structures – Fat Margaret's Tower...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.754917,
+                    59.436599
+                ]
+            },
+            "properties": {
+                "entity": "Sokos Hotel Viru",
+                "name_location": "Hotel Viru, 4, Viru väljak, Südalinn, Kesklinna linnaosa, Tallinn, Harju maakond, 10111, Estonia",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...Not far away is another museum related to the Soviet occupation of Estonia, the KGB Museum, which occupies the 23rd floor of Sokos Hotel Viru...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.791025,
+                    59.438466
+                ]
+            },
+            "properties": {
+                "entity": "Kadriorg Palace",
+                "name_location": "Kadriorg Palace, 37, August Weizenbergi, Kadriorg, Kesklinna linnaosa, Tallinn, Harju maakond, 15050, Estonia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Those who are interested in Western European and Russian art may enjoy Kadriorg Art Museum collections, located in Kadriorg Palace, a beautiful Baroque building erected by Peter the Great....",
+                    "*...The eastern parts of the city, notably Pirita (with Pirita Convent) and Kadriorg (with Kadriorg Palace) districts, are also popular destinations, and the Estonian Open Air Museum in Rocca al Mare, west of the city, preserves aspects of Estonian rural culture and architecture....",
+                    "*...Kadriorg Palace, the former palace of Peter the Great, built just after the Great Northern War, now houses the foreign art department of the Art Museum of Estonia, the presidential residence and the surrounding grounds include formal gardens and woodland...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.742781,
+                    59.435918
+                ]
+            },
+            "properties": {
+                "entity": "St. Nicholas' Church",
+                "name_location": "St. Nicholas Church, 3, Niguliste, All-linn, Kesklinna linnaosa, Tallinn, Harju maakond, 10146, Estonia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...The Niguliste Museum occupies former St. Nicholas' Church; it displays collections of historical ecclesiastical art spanning nearly seven centuries from the Middle Ages to post-Reformation art...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.806132,
+                    59.444981
+                ]
+            },
+            "properties": {
+                "entity": "Tallinn Song Festival Grounds",
+                "name_location": "Tallinn Song Festival Grounds, Kuristiku, Kadriorg, Kesklinna linnaosa, Tallinn, Harju maakond, 11413, Estonia",
+                "class": "amenity",
+                "type": "festival_grounds",
+                "snippet": [
+                    "...It is held every five years in July on the Tallinn Song Festival Grounds (Lauluväljak) simultaneously with the Estonian Dance Festival...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.799901,
+                    59.445926
+                ]
+            },
+            "properties": {
+                "entity": "Lauluväljak",
+                "name_location": "Lauluväljak, Pirita tee, Kadriorg, Kesklinna linnaosa, Tallinn, Harju maakond, 10127, Estonia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...It is held every five years in July on the Tallinn Song Festival Grounds (Lauluväljak) simultaneously with the Estonian Dance Festival...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.651365,
+                    59.429858
+                ]
+            },
+            "properties": {
+                "entity": "Rocca al Mare",
+                "name_location": "Rocca Al Mare, 11, Vabaõhumuuseumi tee, Haabersti, Haabersti linnaosa, Tallinn, Harju maakond, 13517, Estonia",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...The eastern parts of the city, notably Pirita (with Pirita Convent) and Kadriorg (with Kadriorg Palace) districts, are also popular destinations, and the Estonian Open Air Museum in Rocca al Mare, west of the city, preserves aspects of Estonian rural culture and architecture...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.737375,
+                    59.435744
+                ]
+            },
+            "properties": {
+                "entity": "Toompea Castle",
+                "name_location": "Toompea Castle, 1a, Lossi plats, Vanalinn, Kesklinna linnaosa, Tallinn, Harju maakond, 15165, Estonia",
+                "class": "historic",
+                "type": "castle",
+                "snippet": [
+                    "*...The major attractions are the medieval Toompea Castle (today housing the Estonian Parliament, the Riigikogu), the Lutheran St Mary's Cathedral, also known as the Dome Church (Estonian: Toomkirik), and the Russian Orthodox Alexander Nevsky Cathedral...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.737195,
+                    59.435781
+                ]
+            },
+            "properties": {
+                "entity": "Riigikogu",
+                "name_location": "Riigikogu, 1a, Lossi plats, Vanalinn, Kesklinna linnaosa, Tallinn, Harju maakond, 15165, Estonia",
+                "class": "office",
+                "type": "government",
+                "snippet": [
+                    "*...The major attractions are the medieval Toompea Castle (today housing the Estonian Parliament, the Riigikogu), the Lutheran St Mary's Cathedral, also known as the Dome Church (Estonian: Toomkirik), and the Russian Orthodox Alexander Nevsky Cathedral...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.739165,
+                    59.437055
+                ]
+            },
+            "properties": {
+                "entity": "St Mary's Cathedral",
+                "name_location": "St Mary's Cathedral, 6, Toom-Kooli, Vanalinn, Kesklinna linnaosa, Tallinn, Harju maakond, 15186, Estonia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...The major attractions are the medieval Toompea Castle (today housing the Estonian Parliament, the Riigikogu), the Lutheran St Mary's Cathedral, also known as the Dome Church (Estonian: Toomkirik), and the Russian Orthodox Alexander Nevsky Cathedral...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.747896,
+                    59.441322
+                ]
+            },
+            "properties": {
+                "entity": "St Olaf's",
+                "name_location": "St Olaf's Church, 50, Lai, Vanalinn, Kesklinna linnaosa, Tallinn, Harju maakond, 10133, Estonia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Major sights include the Town Hall square (Estonian: Raekoja plats), the city wall and towers (notably \"Fat Margaret\" and \"Kiek in de Kök\") as well as a number of medieval churches, including St Olaf's, St. Nicholas' and the Church of the Holy Ghost...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.742781,
+                    59.435918
+                ]
+            },
+            "properties": {
+                "entity": "St. Nicholas",
+                "name_location": "St. Nicholas Church, 3, Niguliste, All-linn, Kesklinna linnaosa, Tallinn, Harju maakond, 10146, Estonia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "...The Niguliste Museum occupies former St. Nicholas' Church; it displays collections of historical ecclesiastical art spanning nearly seven centuries from the Middle Ages to post-Reformation art....",
+                    "...Major sights include the Town Hall square (Estonian: Raekoja plats), the city wall and towers (notably \"Fat Margaret\" and \"Kiek in de Kök\") as well as a number of medieval churches, including St Olaf's, St. Nicholas' and the Church of the Holy Ghost...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.798151,
+                    59.435316
+                ]
+            },
+            "properties": {
+                "entity": "Kumu",
+                "name_location": "Kumu, Laagna tee, Uuslinn, Lasnamäe linnaosa, Tallinn, Harju maakond, 11413, Estonia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "...The Estonian Art Museum, the largest art museum in Estonia, consists of four branches – Kumu Art Museum, Kadriorg Art Museum, Mikkel Museum, and Niguliste Museum....",
+                    "...Kumu Art Museum features the country's largest collection of contemporary and modern art....",
+                    "*...The main building of the Art Museum of Estonia, Kumu (Estonian: Kunstimuuseum, Art Museum), was built in 2006 and lies in Kadriorg park...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.784165,
+                    59.438669
+                ]
+            },
+            "properties": {
+                "entity": "Kadriorg",
+                "name_location": "Kadriorg, August Weizenbergi, Kadriorg, Kesklinna linnaosa, Tallinn, Harju maakond, 15170, Estonia",
+                "class": "railway",
+                "type": "tram_stop",
+                "snippet": [
+                    "...The Estonian Art Museum, the largest art museum in Estonia, consists of four branches – Kumu Art Museum, Kadriorg Art Museum, Mikkel Museum, and Niguliste Museum....",
+                    "...Those who are interested in Western European and Russian art may enjoy Kadriorg Art Museum collections, located in Kadriorg Palace, a beautiful Baroque building erected by Peter the Great....",
+                    "...The Mikkel Museum, in Kadriorg Park, displays a collection of mainly Western art – ceramics and Chinese porcelain donated by Johannes Mikkel in 1994....",
+                    "*...The eastern parts of the city, notably Pirita (with Pirita Convent) and Kadriorg (with Kadriorg Palace) districts, are also popular destinations, and the Estonian Open Air Museum in Rocca al Mare, west of the city, preserves aspects of Estonian rural culture and architecture....",
+                    "*...Kadriorg is 2 kilometres (1.2 miles) east of the city centre and is served by buses and trams....",
+                    "...Kadriorg Palace, the former palace of Peter the Great, built just after the Great Northern War, now houses the foreign art department of the Art Museum of Estonia, the presidential residence and the surrounding grounds include formal gardens and woodland....",
+                    "*...The main building of the Art Museum of Estonia, Kumu (Estonian: Kunstimuuseum, Art Museum), was built in 2006 and lies in Kadriorg park....",
+                    "*...This coastal district is a further 2 kilometres north-east of Kadriorg...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.801087,
+                    59.41645
+                ]
+            },
+            "properties": {
+                "entity": "Lennart Meri Tallinn Airport",
+                "name_location": "Lennart Meri Tallinn Airport, 101, Tartu mnt, Ülemistejärve, Kesklinna linnaosa, Tallinn, Harju maakond, 11101, Estonia",
+                "class": "aeroway",
+                "type": "terminal",
+                "snippet": [
+                    "...The Lennart Meri Tallinn Airport is about 4 kilometres (2 miles)  from Town Hall square (Raekoja plats)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.794989,
+                    59.423353
+                ]
+            },
+            "properties": {
+                "entity": "Ülemiste",
+                "name_location": "Ülemiste, Suur-Sõjamäe, Ülemiste, Lasnamäe linnaosa, Tallinn, Harju maakond, 96100, Estonia",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "...The largest lake in Tallinn is Lake Ülemiste (9.44 km2 (3.6 sq mi)), which serves as the main source of the city's drinking water....",
+                    "...Historically, a smaller river, called Härjapea, flowed from Lake Ülemiste through the town into the sea, but the river was diverted into underground sewerage system in the 1930s and has since completely disappeared from the cityscape....",
+                    "*...The nearest railway station Ülemiste is only 1.5 km (0.9 mi) from the airport...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.799402,
+                    59.423315
+                ]
+            },
+            "properties": {
+                "entity": "Rail Baltica",
+                "name_location": "Rail Baltica, Keevise, Ülemiste, Lasnamäe linnaosa, Tallinn, Harju maakond, 96100, Estonia",
+                "class": "railway",
+                "type": "proposed",
+                "snippet": [
+                    "*...The Rail Baltica project, which will link Tallinn with Warsaw via Latvia and Lithuania, will connect Tallinn with the rest of the European rail network...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.38404,
+                    43.656016
+                ]
+            },
+            "properties": {
+                "entity": "PATH",
+                "name_location": "PATH, Discovery District, University—Rosedale, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5G 1M6, Canada",
+                "class": "highway",
+                "type": "footway",
+                "snippet": [
+                    "*...Nella parte centrale di Toronto (Downtown Toronto) c'è una città sotterranea, chiamata PATH (in inglese:...",
+                    "*...Secondo il Guinness dei primati, con i suoi  di estensione, il PATH è il più esteso centro commerciale sotterraneo del mondo....",
+                    "...Ovviamente il traffico automobilistico convenzionale è bandito nella città sotterranea, gli spostamenti sono previsti a piedi o con mezzi per disabili, ma il path ha numerosi punti di contatto con la viabilità esterna (parcheggi) o, molto più frequentemente, con una fitta rete di stazioni del trasporto pubblico di superficie o sotterraneo (subway)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.574262,
+                    43.669984
+                ]
+            },
+            "properties": {
+                "entity": "Highway 427",
+                "name_location": "Highway 427, West Deane Park, Etobicoke Centre, Etobicoke, Toronto, Golden Horseshoe, Ontario, M9C 4R3, Canada",
+                "class": "highway",
+                "type": "motorway",
+                "snippet": [
+                    "*...I suoi confini sono delimitati dal lago stesso a sud, dalla Highway 427 e dall'Etobicoke Creek a ovest, dal Rouge River a est e dalla Steeles Avenue a nord...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.547299,
+                    43.589816
+                ]
+            },
+            "properties": {
+                "entity": "Etobicoke Creek",
+                "name_location": "Etobicoke Creek Trail, Long Branch, Etobicoke—Lakeshore, Etobicoke, Toronto, Golden Horseshoe, Ontario, L5E 3G2, Canada",
+                "class": "highway",
+                "type": "path",
+                "snippet": [
+                    "*...I suoi confini sono delimitati dal lago stesso a sud, dalla Highway 427 e dall'Etobicoke Creek a ovest, dal Rouge River a est e dalla Steeles Avenue a nord...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.187085,
+                    43.804979
+                ]
+            },
+            "properties": {
+                "entity": "Rouge River",
+                "name_location": "Sheppard Ave at Rouge River Dr, Sheppard Avenue East, Scarborough—Rouge Park, Scarborough, Toronto, Golden Horseshoe, Ontario, M1B 5S1, Canada",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...I suoi confini sono delimitati dal lago stesso a sud, dalla Highway 427 e dall'Etobicoke Creek a ovest, dal Rouge River a est e dalla Steeles Avenue a nord...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.419952,
+                    43.798
+                ]
+            },
+            "properties": {
+                "entity": "Steeles Avenue",
+                "name_location": "Steeles Avenue, Newtonbrook, Willowdale, North York, Toronto, Golden Horseshoe, Ontario, L3T 2A5, Canada",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...I suoi confini sono delimitati dal lago stesso a sud, dalla Highway 427 e dall'Etobicoke Creek a ovest, dal Rouge River a est e dalla Steeles Avenue a nord...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.374918,
+                    43.648975
+                ]
+            },
+            "properties": {
+                "entity": "Sole",
+                "name_location": "O Sole Salon & Spa, Colborne Street, King East, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5E 1E3, Canada",
+                "class": "shop",
+                "type": "hairdresser",
+                "snippet": [
+                    "*...Le estati, considerata la latitudine, sono miti (fresche in rapporto al Sole) e piuttosto variabili, talvolta possono presentare periodi particolarmente caldi...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.423127,
+                    43.635164
+                ]
+            },
+            "properties": {
+                "entity": "Fort Rouillé",
+                "name_location": "Fort Rouillé, Fraser Avenue, Little Tibet, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6K 1Y7, Canada",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...I commercianti francesi fondarono Fort Rouillé nel 1750 dove ora è posta l'Exhibition Place, ma l'abbandonarono nel 1759...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.415229,
+                    43.636372
+                ]
+            },
+            "properties": {
+                "entity": "Exhibition Place",
+                "name_location": "Exhibition Loop, Manitoba Drive, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6K 1W8, Canada",
+                "class": "railway",
+                "type": "platform",
+                "snippet": [
+                    "...I commercianti francesi fondarono Fort Rouillé nel 1750 dove ora è posta l'Exhibition Place, ma l'abbandonarono nel 1759...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.380958,
+                    43.64541
+                ]
+            },
+            "properties": {
+                "entity": "the Ward",
+                "name_location": "The Moat, South Core, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5J 1E3, Canada",
+                "class": "highway",
+                "type": "footway",
+                "snippet": [
+                    "...Come gli irlandesi prima di loro, molti furono costretti a vivere in abitazioni modeste sovraffollate, nel \"the Ward\", posto vicino a Bay Street, ora il cuore finanziario del Paese...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.381276,
+                    43.65111
+                ]
+            },
+            "properties": {
+                "entity": "Bay Street",
+                "name_location": "Bay Street, Little Tokyo, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5H 2W9, Canada",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Come gli irlandesi prima di loro, molti furono costretti a vivere in abitazioni modeste sovraffollate, nel \"the Ward\", posto vicino a Bay Street, ora il cuore finanziario del Paese...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.414323,
+                    43.639273
+                ]
+            },
+            "properties": {
+                "entity": "Europa",
+                "name_location": "Ciao Europa, 80, Western Battery Road, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6K 3R9, Canada",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "...La città ricevette un nuovo flusso di immigrazione sul finire del XIX secolo e l'inizio del XX, in particolare tedeschi, italiani e ebrei provenienti da varie parti dell'Europa occidentale....",
+                    "...Furono presto seguiti da cinesi, russi, polacchi e immigrati di altre nazioni dell'Europa orientale....",
+                    "*...In seguito alla seconda guerra mondiale si assistette a un nuovo flusso migratorio proveniente da Europa e Cina....",
+                    "*...Il Royal Ontario Museum (chiamato ROM) è un Museo recentemente ampliato dall'architetto Daniel Libeskind composto da due sezioni principali: quelle di Storia Naturale e quella delle Culture del Mondo, dove sono conservate collezioni provenienti dall'Africa, dall'Asia e dall'Europa. L'opera di ampliamento consiste prevalentemente nell'aggiunta del nuovo padiglione chiamato \"Michael Lee-Chin Crystal\" oltre alla ristrutturazione degli ambienti preesistenti...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.387748,
+                    43.642701
+                ]
+            },
+            "properties": {
+                "entity": "CN Tower",
+                "name_location": "CN Tower, Convention centre loading dock, Entertainment District, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5V 3B5, Canada",
+                "class": "shop",
+                "type": "ticket",
+                "snippet": [
+                    "*...Una delle principali attrazioni turistiche di Toronto è senza dubbio la Canadian National Tower o CN Tower che, con i suoi , è stata la torre più alta del mondo per ben 31 anni, fino al settembre 2007, quando è stata sorpassata dal grattacielo Burj Khalifa (poi completato nel gennaio 2010)....",
+                    "...La CN Tower fu costruita tra il 1973 e il 1976 per ordine della più importante compagnia televisiva canadese, la CBC, che necessitava di una nuova torre per le trasmissioni....",
+                    "*...Per questo motivo è nota al mondo con il nome di CN Tower....",
+                    "*...Esso è posto non lontano dalle sponde del lago Ontario, ai piedi della mastodontica CN Tower...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.377936,
+                    43.650823
+                ]
+            },
+            "properties": {
+                "entity": "Ontario",
+                "name_location": "Ontario Heritage Centre, 10, Adelaide Street East, King East, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5C 2T6, Canada",
+                "class": "historic",
+                "type": "building",
+                "snippet": [
+                    "*...Oppure , ) è una città dell'estremo Sud-Est del Canada, capoluogo della provincia dell'Ontario e centro più popoloso del Canada con i suoi 2 794 356 abitanti (6 202 225 nell'area metropolitana)....",
+                    "...La metropoli si affaccia per circa  sul Lago Ontario e copre un'area di , arrivando a una distanza tra confine nord e confine sud di  e tra est e ovest di ....",
+                    "...Durante la guerra d'indipendenza americana, la regione vide l'afflusso di coloni britannici lealisti fuggiti nelle terre a nord del Lago Ontario....",
+                    "*...Come lo fu per l'Alto Canada nel 1793 Toronto divenne la capitale della provincia dell'Ontario (dopo la sua creazione) nel 1867 ed è rimasta tale da allora....",
+                    "*...L'imponente edificio di forma slanciata verso il cielo ha diverse piattaforme panoramiche per l'osservazione della città e del lago Ontario raggruppate in due settori \"abitabili\" dell'edificio....",
+                    "*...Esso è posto non lontano dalle sponde del lago Ontario, ai piedi della mastodontica CN Tower....",
+                    "...Il Royal Ontario Museum (chiamato ROM) è un Museo recentemente ampliato dall'architetto Daniel Libeskind composto da due sezioni principali: quelle di Storia Naturale e quella delle Culture del Mondo, dove sono conservate collezioni provenienti dall'Africa, dall'Asia e dall'Europa. L'opera di ampliamento consiste prevalentemente nell'aggiunta del nuovo padiglione chiamato \"Michael Lee-Chin Crystal\" oltre alla ristrutturazione degli ambienti preesistenti....",
+                    "...L'Ontario Science Museum....",
+                    "...L'Art Gallery of Ontario (chiamata AGO) è una galleria d'arte recentemente ristrutturata e ampliata dall'architetto nato a Toronto Frank Gehry che raccoglie tra le numerosissime opere, la più vasta collezione di sculture di Henry Moore al mondo. Uno degli elementi più caratteristici del recente ampliamento è la grande Galleria Italia che si affaccia per tutta la sua lunghezza su Dundas Street e ospita collezioni di artisti italiani. Si possono apprezzare inoltre, sia all'interno che all'esterno dell'edificio, le due ardite scale elicoidali che salgono sospese nel vuoto per raggiungere i vari livelli della nuova torre espositiva rivestita di zinco-titanio blu....",
+                    "...L'Ontario College of Art & Design, il cui ultimo ampliamento fu progettato dall'architetto Will Alsop della Alsop Architects in collaborazione con Robbie/Young + Wright Architects....",
+                    "...TFO (abbreviazione di Télé-Française d'Ontario) fu lanciata nel 1987 come La Chaîne Française, e fu rinominata \"TFO\" nel 1994. È una televisione pubblica della Provincia dell'Ontario che trasmette programmi educativi...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.389198,
+                    43.64166
+                ]
+            },
+            "properties": {
+                "entity": "Rogers Centre",
+                "name_location": "Rogers Centre, 1, Blue Jays Way, Entertainment District, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5V 1J1, Canada",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...Un'altra attrazione di Toronto è l'avveniristico stadio originariamente chiamato Sky Dome per la sua copertura apribile e ribattezzato Rogers Centre in seguito all'acquisto dello stesso da parte della Rogers Communications, già proprietaria dei Blue Jays, la squadra di baseball della città....",
+                    "...Il Rogers Centre ha ospitato diversi eventi internazionali fra i quali lo show di punta della World Wrestling Federation/Entertainment, e precisamente la WrestleMania 6 il 1º aprile del 1990 e la diciottesima edizione il 17 marzo 2002 stabilendo in questa occasione il record di spettatori paganti, pari a 68 237 persone, ma anche partite di calcio come Italia-Serbia e Montenegro del giugno 2005...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.409121,
+                    43.678037
+                ]
+            },
+            "properties": {
+                "entity": "Casa Loma",
+                "name_location": "Casa Loma, 1, Austin Terrace, Tarragon Village, Toronto—St. Paul's, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5R 1X9, Canada",
+                "class": "tourism",
+                "type": "viewpoint",
+                "snippet": [
+                    "*...Casa Loma: dimora neogotica costruita nel 1911 su progetto dell'architetto canadese Edward James Lennox (1854-1933)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.379069,
+                    43.645667
+                ]
+            },
+            "properties": {
+                "entity": "Union Station",
+                "name_location": "Union Station, Bay Street, South Core, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5J 1C4, Canada",
+                "class": "railway",
+                "type": "platform",
+                "snippet": [
+                    "...La Union Station (centro intermodale con stazione ferroviaria e metropolitana), la principale stazione ferroviaria della città, la cui costruzione cominciò nel 1913 e si concluse con l'inaugurazione del 6 agosto 1926, e dal 1954 anche della metropolitana. Sul piazzale antistante vi è il Monumento al Multiculturalismo di Francesco Perilli, scultore italiano di Nereto (TE)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.384005,
+                    43.653603
+                ]
+            },
+            "properties": {
+                "entity": "Toronto City Hall",
+                "name_location": "Toronto City Hall, 100, Queen Street West, Financial District, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5H 2N2, Canada",
+                "class": "amenity",
+                "type": "townhall",
+                "snippet": [
+                    "*...Toronto City Hall, il municipio della città di Toronto fu aperto nel 1965. Il complesso, che occupa un'area di cinque ettari, compresa la Nathan Phillips Square (la grande piazza), fu progettato dall'architetto finlandese Viljo Revell. Il complesso è composto dalle due torri degli uffici, di diversa altezza e a pianta a forma di \"C\", e dalla sala consiliare a pianta circolare con la copertura a cupola ribassata che le conferisce la forma di un'ostrica...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.383842,
+                    43.652708
+                ]
+            },
+            "properties": {
+                "entity": "Nathan Phillips Square",
+                "name_location": "Nathan Phillips Square, Albert Street, Little Tokyo, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5B 2H6, Canada",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...Toronto City Hall, il municipio della città di Toronto fu aperto nel 1965. Il complesso, che occupa un'area di cinque ettari, compresa la Nathan Phillips Square (la grande piazza), fu progettato dall'architetto finlandese Viljo Revell. Il complesso è composto dalle due torri degli uffici, di diversa altezza e a pianta a forma di \"C\", e dalla sala consiliare a pianta circolare con la copertura a cupola ribassata che le conferisce la forma di un'ostrica...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.381692,
+                    43.648768
+                ]
+            },
+            "properties": {
+                "entity": "First Canadian Place",
+                "name_location": "First Canadian Place, 100, King Street West, Financial District, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5X 1C7, Canada",
+                "class": "building",
+                "type": "office",
+                "snippet": [
+                    "*...First Canadian Place, (1975) opera dello studio Edward Durell Stone and Associates (AON Center di Chicago) in collaborazione con i torontoniani Bregman + Hamann Architects è, con i suoi 72 piani, il grattacielo più alto del Canada (,  compresa l'antenna) ed è anche l'edificio con più marmo di Carrara al mondo grazie ai migliaia pannelli che lo rivestono ( per piano)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.378349,
+                    43.647348
+                ]
+            },
+            "properties": {
+                "entity": "Brookfield Place",
+                "name_location": "Brookfield Place, Wellington Street West, Financial District, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5L 1A0, Canada",
+                "class": "building",
+                "type": "office",
+                "snippet": [
+                    "*...Brookfield Place (ex BCE Place) (1991) è un complesso di grattacieli, costruito in diversi periodi. Alla realizzazione delle varie torri ed edifici di vario genere ha lavorato, in particolare per la Bay Wellington Tower (grattacielo di 47 piani, ultimato nel 1990), lo studio Bregman + Hamann Architects, mentre gli stessi architetti, in collaborazione con lo studio statunitense Skidmore, Owings and Merrill hanno progettato l'altra torre, la TD Canada Trust Tower. Nel complesso vi è anche la Hockey Hall of Fame (Museo dell'hockey su ghiaccio) e infine la Allen Lambert Galleria progettata dall'architetto spagnolo Santiago Calatrava...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.378298,
+                    43.647176
+                ]
+            },
+            "properties": {
+                "entity": "BCE Place",
+                "name_location": "Brookfield Place, 181, Bay Street, Financial District, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5J 2S1, Canada",
+                "class": "building",
+                "type": "office",
+                "snippet": [
+                    "*...Brookfield Place (ex BCE Place) (1991) è un complesso di grattacieli, costruito in diversi periodi. Alla realizzazione delle varie torri ed edifici di vario genere ha lavorato, in particolare per la Bay Wellington Tower (grattacielo di 47 piani, ultimato nel 1990), lo studio Bregman + Hamann Architects, mentre gli stessi architetti, in collaborazione con lo studio statunitense Skidmore, Owings and Merrill hanno progettato l'altra torre, la TD Canada Trust Tower. Nel complesso vi è anche la Hockey Hall of Fame (Museo dell'hockey su ghiaccio) e infine la Allen Lambert Galleria progettata dall'architetto spagnolo Santiago Calatrava...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.378835,
+                    43.646566
+                ]
+            },
+            "properties": {
+                "entity": "TD Canada Trust Tower",
+                "name_location": "Kingcash, TD Canada Trust Tower, PATH, Financial District, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5J 2S1, Canada",
+                "class": "office",
+                "type": "financial",
+                "snippet": [
+                    "...Brookfield Place (ex BCE Place) (1991) è un complesso di grattacieli, costruito in diversi periodi. Alla realizzazione delle varie torri ed edifici di vario genere ha lavorato, in particolare per la Bay Wellington Tower (grattacielo di 47 piani, ultimato nel 1990), lo studio Bregman + Hamann Architects, mentre gli stessi architetti, in collaborazione con lo studio statunitense Skidmore, Owings and Merrill hanno progettato l'altra torre, la TD Canada Trust Tower. Nel complesso vi è anche la Hockey Hall of Fame (Museo dell'hockey su ghiaccio) e infine la Allen Lambert Galleria progettata dall'architetto spagnolo Santiago Calatrava...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.377825,
+                    43.647158
+                ]
+            },
+            "properties": {
+                "entity": "Hockey Hall of Fame",
+                "name_location": "Hockey Hall of Fame, 30, Yonge Street, Financial District, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5E 1X8, Canada",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "...Brookfield Place (ex BCE Place) (1991) è un complesso di grattacieli, costruito in diversi periodi. Alla realizzazione delle varie torri ed edifici di vario genere ha lavorato, in particolare per la Bay Wellington Tower (grattacielo di 47 piani, ultimato nel 1990), lo studio Bregman + Hamann Architects, mentre gli stessi architetti, in collaborazione con lo studio statunitense Skidmore, Owings and Merrill hanno progettato l'altra torre, la TD Canada Trust Tower. Nel complesso vi è anche la Hockey Hall of Fame (Museo dell'hockey su ghiaccio) e infine la Allen Lambert Galleria progettata dall'architetto spagnolo Santiago Calatrava...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.382766,
+                    43.653815
+                ]
+            },
+            "properties": {
+                "entity": "Toronto Eaton Centre",
+                "name_location": "CF Toronto Eaton Centre Shipping / Receiving, Bay Street, Little Tokyo, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5H 2N2, Canada",
+                "class": "amenity",
+                "type": "loading_dock",
+                "snippet": [
+                    "*...Toronto Eaton Centre (1976 circa) è un grande centro commerciale nel cuore della Downtown di Toronto, caratterizzato da una lunghissima galleria trasparente, progettata dall'architetto Eberhard Zeidler che si ispirò alla Galleria Vittorio Emanuele II di Milano. È il centro commerciale più vasto del Canada dell'est e ha una media di un milione di visitatori alla settimana; all'interno della galleria ci sono due fermate della metropolitana...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.38242,
+                    43.656455
+                ]
+            },
+            "properties": {
+                "entity": "Downtown",
+                "name_location": "Downtown Yonge BIA Office, 20, Dundas Street West, Downtown Yonge, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5G 2C3, Canada",
+                "class": "office",
+                "type": "company",
+                "snippet": [
+                    "...Nella parte centrale di Toronto (Downtown Toronto) c'è una città sotterranea, chiamata PATH (in inglese:...",
+                    "*...Toronto Eaton Centre (1976 circa) è un grande centro commerciale nel cuore della Downtown di Toronto, caratterizzato da una lunghissima galleria trasparente, progettata dall'architetto Eberhard Zeidler che si ispirò alla Galleria Vittorio Emanuele II di Milano. È il centro commerciale più vasto del Canada dell'est e ha una media di un milione di visitatori alla settimana; all'interno della galleria ci sono due fermate della metropolitana....",
+                    "...Theatre District, (Quartiere dei Teatri di Toronto) è una parte del Toronto Entertainment District in Downtown Toronto, che contiene la più grande concentrazione di teatri con palcoscenico del Canada...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.444018,
+                    43.658218
+                ]
+            },
+            "properties": {
+                "entity": "Africa",
+                "name_location": "Africa, 1346, Bloor Street West, Brockton Village, Davenport, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6H 3Y9, Canada",
+                "class": "shop",
+                "type": "clothes",
+                "snippet": [
+                    "*...Il Royal Ontario Museum (chiamato ROM) è un Museo recentemente ampliato dall'architetto Daniel Libeskind composto da due sezioni principali: quelle di Storia Naturale e quella delle Culture del Mondo, dove sono conservate collezioni provenienti dall'Africa, dall'Asia e dall'Europa. L'opera di ampliamento consiste prevalentemente nell'aggiunta del nuovo padiglione chiamato \"Michael Lee-Chin Crystal\" oltre alla ristrutturazione degli ambienti preesistenti...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.387251,
+                    43.653347
+                ]
+            },
+            "properties": {
+                "entity": "Asia",
+                "name_location": "Asia Pacific Foundation of Canada, 375, University Avenue, Queen West, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5G 2J5, Canada",
+                "class": "office",
+                "type": "foundation",
+                "snippet": [
+                    "*...Il Royal Ontario Museum (chiamato ROM) è un Museo recentemente ampliato dall'architetto Daniel Libeskind composto da due sezioni principali: quelle di Storia Naturale e quella delle Culture del Mondo, dove sono conservate collezioni provenienti dall'Africa, dall'Asia e dall'Europa. L'opera di ampliamento consiste prevalentemente nell'aggiunta del nuovo padiglione chiamato \"Michael Lee-Chin Crystal\" oltre alla ristrutturazione degli ambienti preesistenti....",
+                    "...Omni Television appartiene al gruppo \"Rogers Communications\" e iniziò a trasmettere nel 1979. Trasmette in italiano, portoghese, cantonese, cinese, inglese (per l'edizione del Sud dell'Asia), punjabi, coreano, tagalog...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.39505,
+                    43.668185
+                ]
+            },
+            "properties": {
+                "entity": "Michael Lee-Chin Crystal",
+                "name_location": "Michael Lee-Chin Crystal, 100, Queen's Park, Bloor Street Culture Corridor, University—Rosedale, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5S 2C6, Canada",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "...Il Royal Ontario Museum (chiamato ROM) è un Museo recentemente ampliato dall'architetto Daniel Libeskind composto da due sezioni principali: quelle di Storia Naturale e quella delle Culture del Mondo, dove sono conservate collezioni provenienti dall'Africa, dall'Asia e dall'Europa. L'opera di ampliamento consiste prevalentemente nell'aggiunta del nuovo padiglione chiamato \"Michael Lee-Chin Crystal\" oltre alla ristrutturazione degli ambienti preesistenti...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.380768,
+                    43.656221
+                ]
+            },
+            "properties": {
+                "entity": "Dundas Street",
+                "name_location": "Dundas Street, Yonge Street, Downtown Yonge, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5B 0A1, Canada",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...L'Art Gallery of Ontario (chiamata AGO) è una galleria d'arte recentemente ristrutturata e ampliata dall'architetto nato a Toronto Frank Gehry che raccoglie tra le numerosissime opere, la più vasta collezione di sculture di Henry Moore al mondo. Uno degli elementi più caratteristici del recente ampliamento è la grande Galleria Italia che si affaccia per tutta la sua lunghezza su Dundas Street e ospita collezioni di artisti italiani. Si possono apprezzare inoltre, sia all'interno che all'esterno dell'edificio, le due ardite scale elicoidali che salgono sospese nel vuoto per raggiungere i vari livelli della nuova torre espositiva rivestita di zinco-titanio blu...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.380125,
+                    43.656028
+                ]
+            },
+            "properties": {
+                "entity": "Yonge Dundas Square",
+                "name_location": "Yonge-Dundas Square, Dundas Street East, Downtown Yonge, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5B 2G9, Canada",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Yonge Dundas Square, piazza costruita nel 1998, considerata la Times Square della città...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.370718,
+                    43.64949
+                ]
+            },
+            "properties": {
+                "entity": "Times Square",
+                "name_location": "New Times Square, 109, Front Street East, St. Lawrence, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5A 4S5, Canada",
+                "class": "place",
+                "type": "house",
+                "snippet": [
+                    "...Yonge Dundas Square, piazza costruita nel 1998, considerata la Times Square della città...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.419423,
+                    43.662625
+                ]
+            },
+            "properties": {
+                "entity": "West End",
+                "name_location": "West End Alternative School, 777, Bloor Street West, Koreatown, University—Rosedale, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6G 1L6, Canada",
+                "class": "amenity",
+                "type": "school",
+                "snippet": [
+                    "...È il terzo più grande quartiere dei teatri di lingua inglese al mondo, dopo il West End di Londra e Broadway a New York...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.396396,
+                    43.710094
+                ]
+            },
+            "properties": {
+                "entity": "Broadway",
+                "name_location": "Broadway Avenue, Yonge & Eglinton, Toronto—St. Paul's, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4P 1T4, Canada",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...È il terzo più grande quartiere dei teatri di lingua inglese al mondo, dopo il West End di Londra e Broadway a New York...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.379078,
+                    43.643434
+                ]
+            },
+            "properties": {
+                "entity": "Air Canada Centre",
+                "name_location": "Scotiabank Arena, 40, Bay Street, South Core, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5J 2J2, Canada",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "...L'hockey su ghiaccio è sicuramente lo sport più seguito e la franchigia dei Toronto Maple Leafs che ha sede in città e gioca all'Air Canada Centre vanta uno stadio tutto esaurito a ogni incontro....",
+                    "...La casa dei Raptors è l'Air Canada Centre....",
+                    "...Anche questo team gioca all'Air Canada Centre...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.423209,
+                    43.638993
+                ]
+            },
+            "properties": {
+                "entity": "Lamport Stadium",
+                "name_location": "Allan Lamport Stadium, 1151, King Street West, Little Tibet, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6K 0C7, Canada",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...Giocano le loro partite al Lamport Stadium...."
+                ]
+            }
+        }
+    ]
+}

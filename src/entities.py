@@ -153,9 +153,12 @@ def check_well_formed(ent: Span):
             nbor = ent[0].nbor()
             doc = ent.doc 
             
-            while nbor.text != "(":
+            while not nbor.text.__contains__(")"):
                 nbor = nbor.nbor()
             
+            if nbor.text.__contains__(")"):
+                nbor = nbor.nbor()
+
             start_ent = ent.start
             end_ent = nbor.i
 

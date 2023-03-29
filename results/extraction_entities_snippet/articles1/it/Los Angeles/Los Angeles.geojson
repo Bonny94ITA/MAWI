@@ -1,0 +1,689 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.602748,
+                    34.277383
+                ]
+            },
+            "properties": {
+                "entity": "Mojave",
+                "name_location": "Mojave Trail, Twin Lakes, Los Angeles County, California, 91311, Stati Uniti d'America",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...È da notare come il contrasto fra l'aria calda del vicino deserto del Mojave e quella più fredda del Pacifico diano luogo, specialmente tra la fine della primavera e l'inizio dell'estate, a delle nebbie fitte e a cielo coperto, soprattutto lungo la costa...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.219339,
+                    34.026792
+                ]
+            },
+            "properties": {
+                "entity": "Pacifico",
+                "name_location": "Puertos Del Pacifico, 1240, South Soto Street, Los Angeles, Los Angeles County, California, 90023, Stati Uniti d'America",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...È da notare come il contrasto fra l'aria calda del vicino deserto del Mojave e quella più fredda del Pacifico diano luogo, specialmente tra la fine della primavera e l'inizio dell'estate, a delle nebbie fitte e a cielo coperto, soprattutto lungo la costa....",
+                    "*...Le attrazioni più note di Los Angeles sono, oltre alle lunghe spiagge del Pacifico, il quartiere di Hollywood, la Stahl house, i negozi di Rodeo Drive, il centro commerciale The Grove e le ville dei divi dello spettacolo a Beverly Hills, Bel Air e Malibù e i parchi tematici di Disneyland (che in realtà si trova nella città di Anaheim nella confinante Contea di Orange), Universal Studios e Paramount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.237825,
+                    34.057593
+                ]
+            },
+            "properties": {
+                "entity": "Olvera Street",
+                "name_location": "Olvera Street, El Pueblo, Chinatown, Los Angeles, Los Angeles County, California, 90012, Stati Uniti d'America",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Oggi i caratteri generali del Pueblo sono conservati in un piccolo quartiere storico, denominato anche Olvera Street....",
+                    "*...Enclavi etniche come Chinatown, Historic Filipinotown, Koreatown, Little Armenia, Little Ethiopia, Little Persia, Little Tokyo, Thai Town, Olvera Street testimoniano il carattere variegato della città...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.348668,
+                    34.12023
+                ]
+            },
+            "properties": {
+                "entity": "Mulholland Drive",
+                "name_location": "Mulholland Drive, Hollywood Hills, Los Angeles, Los Angeles County, California, 90068, Stati Uniti d'America",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Mulholland Drive, una delle strade più panoramiche di Los Angeles, prese il nome proprio da William Mulholland...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.254423,
+                    34.051063
+                ]
+            },
+            "properties": {
+                "entity": "U.S. Bank Tower",
+                "name_location": "U.S. Bank Tower, 633, Bunker Hill Steps, Bunker Hill, Downtown, Los Angeles, Los Angeles County, California, 90071, Stati Uniti d'America",
+                "class": "building",
+                "type": "tower",
+                "snippet": [
+                    "*...U.S. Bank Tower ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.351727,
+                    34.134199
+                ]
+            },
+            "properties": {
+                "entity": "Universal Studios",
+                "name_location": "Universal Studios Boulevard, Universal City, Los Angeles, Los Angeles County, California, 91608, Stati Uniti d'America",
+                "class": "highway",
+                "type": "unclassified",
+                "snippet": [
+                    "*...Universal Studios ;...",
+                    "*...Le attrazioni più note di Los Angeles sono, oltre alle lunghe spiagge del Pacifico, il quartiere di Hollywood, la Stahl house, i negozi di Rodeo Drive, il centro commerciale The Grove e le ville dei divi dello spettacolo a Beverly Hills, Bel Air e Malibù e i parchi tematici di Disneyland (che in realtà si trova nella città di Anaheim nella confinante Contea di Orange), Universal Studios e Paramount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.267053,
+                    34.043005
+                ]
+            },
+            "properties": {
+                "entity": "Staples Center",
+                "name_location": "Crypto.com Arena, 1111, Figueroa Street, Saint James Park, Los Angeles, Los Angeles County, California, 90015, Stati Uniti d'America",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...Staples Center ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.325563,
+                    34.098589
+                ]
+            },
+            "properties": {
+                "entity": "Hollywood Walk of Fame",
+                "name_location": "Hollywood walk of fame Headquarters, Argyle Avenue, Hollywood, Los Angeles, Los Angeles County, California, 90028, Stati Uniti d'America",
+                "class": "office",
+                "type": "yes",
+                "snippet": [
+                    "*...Hollywood Walk of Fame ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.249913,
+                    34.055429
+                ]
+            },
+            "properties": {
+                "entity": "Walt Disney Concert Hall",
+                "name_location": "Walt Disney Concert Hall, West 2nd Street, Bunker Hill, Downtown, Los Angeles, Los Angeles County, California, 90071, Stati Uniti d'America",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...Walt Disney Concert Hall ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.236054,
+                    34.06346
+                ]
+            },
+            "properties": {
+                "entity": "Chinatown",
+                "name_location": "Chinatown, North Spring Street, Naud Junction, Chinatown, Los Angeles, Los Angeles County, California, 90086, Stati Uniti d'America",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Chinatown ;...",
+                    "*...Enclavi etniche come Chinatown, Historic Filipinotown, Koreatown, Little Armenia, Little Ethiopia, Little Persia, Little Tokyo, Thai Town, Olvera Street testimoniano il carattere variegato della città...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.339277,
+                    34.112184
+                ]
+            },
+            "properties": {
+                "entity": "Hollywood Bowl",
+                "name_location": "Hollywood Bowl, Odin Path, Whitley Heights Historic District, Los Angeles, Los Angeles County, California, 90068, Stati Uniti d'America",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...Hollywood Bowl ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.236252,
+                    34.056058
+                ]
+            },
+            "properties": {
+                "entity": "Union Station",
+                "name_location": "Union Station, 800, North Alameda Street, Naud Junction, Chinatown, Los Angeles, Los Angeles County, California, 90012, Stati Uniti d'America",
+                "class": "building",
+                "type": "train_station",
+                "snippet": [
+                    "*...Union Station (Los Angeles) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.238976,
+                    34.073626
+                ]
+            },
+            "properties": {
+                "entity": "Dodger Stadium",
+                "name_location": "Dodger Stadium, 1000, Vin Scully Avenue, Chinatown, Los Angeles, Los Angeles County, California, 90012, Stati Uniti d'America",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...Dodger Stadium ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.288029,
+                    34.013992
+                ]
+            },
+            "properties": {
+                "entity": "Los Angeles Memorial Coliseum",
+                "name_location": "Los Angeles Memorial Coliseum, Olympic Gateway, Exposition Park, Los Angeles, Los Angeles County, California, 90037, Stati Uniti d'America",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...Los Angeles Memorial Coliseum ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.401061,
+                    34.067267
+                ]
+            },
+            "properties": {
+                "entity": "Rodeo Drive",
+                "name_location": "Rodeo Drive, Beverly Hills, Los Angeles County, California, 90212, Stati Uniti d'America",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Rodeo Drive ;...",
+                    "*...Le attrazioni più note di Los Angeles sono, oltre alle lunghe spiagge del Pacifico, il quartiere di Hollywood, la Stahl house, i negozi di Rodeo Drive, il centro commerciale The Grove e le ville dei divi dello spettacolo a Beverly Hills, Bel Air e Malibù e i parchi tematici di Disneyland (che in realtà si trova nella città di Anaheim nella confinante Contea di Orange), Universal Studios e Paramount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.259979,
+                    34.071077
+                ]
+            },
+            "properties": {
+                "entity": "Echo Park",
+                "name_location": "Echo Park Avenue, Angelino Heights, Echo Park, Los Angeles, Los Angeles County, California, 90026, Stati Uniti d'America",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Echo Park ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.326349,
+                    34.103111
+                ]
+            },
+            "properties": {
+                "entity": "Capitol Records Building",
+                "name_location": "Capitol Records Building, Walk of Fame, Whitley Heights Historic District, Hollywood, Los Angeles, Los Angeles County, California, 90028, Stati Uniti d'America",
+                "class": "building",
+                "type": "commercial",
+                "snippet": [
+                    "*...Capitol Records Building ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.240994,
+                    33.938705
+                ]
+            },
+            "properties": {
+                "entity": "Watts Towers",
+                "name_location": "Watts Towers, East 107th Street, Watts, Los Angeles, Los Angeles County, California, 90002, Stati Uniti d'America",
+                "class": "man_made",
+                "type": "tower",
+                "snippet": [
+                    "*...Watts Towers ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.326172,
+                    34.101635
+                ]
+            },
+            "properties": {
+                "entity": "Hollywood Boulevard",
+                "name_location": "Hollywood Boulevard, Whitley Heights Historic District, Hollywood, Los Angeles, Los Angeles County, California, 90028, Stati Uniti d'America",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Hollywood Boulevard ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.238556,
+                    34.056851
+                ]
+            },
+            "properties": {
+                "entity": "El Pueblo de Los Ángeles Historical Monument",
+                "name_location": "El Pueblo de Los Angeles Historical Monument, Olvera Street, El Pueblo, Chinatown, Los Angeles, Los Angeles County, California, 90012, Stati Uniti d'America",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...El Pueblo de Los Ángeles Historical Monument ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.411396,
+                    34.005347
+                ]
+            },
+            "properties": {
+                "entity": "Westside",
+                "name_location": "Westside, Sepulveda Boulevard, Culver City, Los Angeles County, California, 90066, Stati Uniti d'America",
+                "class": "shop",
+                "type": "car_repair",
+                "snippet": [
+                    "*...Downtown Los Angeles, East Los Angeles e Nord-est Los Angeles, South Los Angeles, la zona del porto, Greater Hollywood, West Hollywood, Wilshire, il Westside, la valle di San Fernando e Valli Crescenta....",
+                    "*...Downtown, Eastside, South Los Angeles, South Bay/Harbor, Hollywood, Mid-City, Westside, valle di San Fernando e valle di San Gabriel...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.332639,
+                    34.004654
+                ]
+            },
+            "properties": {
+                "entity": "Leimert Park",
+                "name_location": "Leimert Park, Crenshaw Boulevard, Leimert Park Village, Los Angeles, Los Angeles County, California, 90008, Stati Uniti d'America",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Alcune note comunità all'interno di Los Angeles includono West Adams, Watts, Leimert Park, Baldwin Hills, Crenshaw, Venice, il distretto finanziario, Silver Lake, Hollywood, Koreatown, Westwood e le aree più ricche di Bel Air, Benedict Canyon, Hollywood Hills, Los Feliz, Hancock Park, Calabasas, Pacific Palisades, Beverly Hills, Holmby Hills, Century City, Brentwood, Toluca Lake, Studio City e Laurel Canyon...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.323688,
+                    34.10537
+                ]
+            },
+            "properties": {
+                "entity": "Hollywood Hills",
+                "name_location": "Best Western Plus Hollywood Hills Hotel, 6141, Franklin Avenue, Hollywood, Los Angeles, Los Angeles County, California, 90028, Stati Uniti d'America",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...Alcune note comunità all'interno di Los Angeles includono West Adams, Watts, Leimert Park, Baldwin Hills, Crenshaw, Venice, il distretto finanziario, Silver Lake, Hollywood, Koreatown, Westwood e le aree più ricche di Bel Air, Benedict Canyon, Hollywood Hills, Los Feliz, Hancock Park, Calabasas, Pacific Palisades, Beverly Hills, Holmby Hills, Century City, Brentwood, Toluca Lake, Studio City e Laurel Canyon...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.343791,
+                    34.077724
+                ]
+            },
+            "properties": {
+                "entity": "Hancock Park",
+                "name_location": "Cong. Levi Yitschak - Chabad of Hancock Park, 346, North La Brea Avenue, Fairfax, Los Angeles, Los Angeles County, California, 90036, Stati Uniti d'America",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Alcune note comunità all'interno di Los Angeles includono West Adams, Watts, Leimert Park, Baldwin Hills, Crenshaw, Venice, il distretto finanziario, Silver Lake, Hollywood, Koreatown, Westwood e le aree più ricche di Bel Air, Benedict Canyon, Hollywood Hills, Los Feliz, Hancock Park, Calabasas, Pacific Palisades, Beverly Hills, Holmby Hills, Century City, Brentwood, Toluca Lake, Studio City e Laurel Canyon....",
+                    "*...Diverse zone molto note della città sono Venice Beach, il Downtown financial district, Los Feliz, Silver Lake, Van Nuys, Hollywood, Hancock Park, Koreatown e i distretti (caratterizzati da un reddito pro capite particolarmente elevato) di Bel Air, Westwood, Brentwood e la famosissima Beverly Hills...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.499013,
+                    34.01389
+                ]
+            },
+            "properties": {
+                "entity": "Pacific Palisades",
+                "name_location": "Pacific Coast Highway, Santa Monica, Los Angeles County, California, 90401, Stati Uniti d'America",
+                "class": "highway",
+                "type": "trunk",
+                "snippet": [
+                    "*...Alcune note comunità all'interno di Los Angeles includono West Adams, Watts, Leimert Park, Baldwin Hills, Crenshaw, Venice, il distretto finanziario, Silver Lake, Hollywood, Koreatown, Westwood e le aree più ricche di Bel Air, Benedict Canyon, Hollywood Hills, Los Feliz, Hancock Park, Calabasas, Pacific Palisades, Beverly Hills, Holmby Hills, Century City, Brentwood, Toluca Lake, Studio City e Laurel Canyon...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.403509,
+                    34.072304
+                ]
+            },
+            "properties": {
+                "entity": "Beverly Hills",
+                "name_location": "Beverly Hills, Park Way, The Flats, Beverly Hills, Los Angeles County, California, 90212, Stati Uniti d'America",
+                "class": "amenity",
+                "type": "fountain",
+                "snippet": [
+                    "*...Alcune note comunità all'interno di Los Angeles includono West Adams, Watts, Leimert Park, Baldwin Hills, Crenshaw, Venice, il distretto finanziario, Silver Lake, Hollywood, Koreatown, Westwood e le aree più ricche di Bel Air, Benedict Canyon, Hollywood Hills, Los Feliz, Hancock Park, Calabasas, Pacific Palisades, Beverly Hills, Holmby Hills, Century City, Brentwood, Toluca Lake, Studio City e Laurel Canyon....",
+                    "*...All'interno e sui confini di Los Angeles si trovano molte municipalità autonome (come Long Beach, Santa Monica, West Hollywood, Pasadena, Beverly Hills, Malibù), che il pubblico comunque associa alla metropoli, in quanto fanno parte dell'agglomerato urbano e sono incluse nella Contea di Los Angeles....",
+                    "*...Diverse zone molto note della città sono Venice Beach, il Downtown financial district, Los Feliz, Silver Lake, Van Nuys, Hollywood, Hancock Park, Koreatown e i distretti (caratterizzati da un reddito pro capite particolarmente elevato) di Bel Air, Westwood, Brentwood e la famosissima Beverly Hills....",
+                    "*...Alcune grosse compagnie con sede in altri centri della contea di Los Angeles sono la Shakey's Pizza (ad Alhambra), l'Academy of Motion Picture Arts and Sciences (a Beverly Hills), la City National Bank (a Beverly Hills), la Hilton Hotels (a Beverly Hills), la DiC Entertainment (a Burbank), La Walt Disney Company (altra società dell'elenco Fortune 500 - a Burbank), la Warner Brothers (sempre Burbank), la Countrywide Financial Corporation (nell'elenco Fortune 500 -a Calabasas), la THQ (a Calabasas), la Belkin (a Compton), la National Public Radio West (a Culver City), la Sony Pictures Entertainment (società madre della Columbia Pictures, a Culver City), la Computer Sciences Corporation (nell'elenco Fortune 500 - a El Segundo), la DirecTV (a El Segundo), la Mattel (nell'elenco Fortune 500 - a El Segundo), la Unocal (nell'elenco Fortune 500 - a El Segundo), la DreamWorks SKG (a Glendale), la Sea Launch (a Long Beach), la ICANN (a Marina Del Rey), la Cunard Line (a Santa Clarita), la Princess Cruises (a Santa Clarita), la Activision (a Santa Monica) e la RAND (sempre a Santa Monica)....",
+                    "*...Le attrazioni più note di Los Angeles sono, oltre alle lunghe spiagge del Pacifico, il quartiere di Hollywood, la Stahl house, i negozi di Rodeo Drive, il centro commerciale The Grove e le ville dei divi dello spettacolo a Beverly Hills, Bel Air e Malibù e i parchi tematici di Disneyland (che in realtà si trova nella città di Anaheim nella confinante Contea di Orange), Universal Studios e Paramount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.560828,
+                    34.417641
+                ]
+            },
+            "properties": {
+                "entity": "Princess Cruises",
+                "name_location": "Princess Cruises, Town Center Drive, Valencia Town Center, Valencia, Santa Clarita, Los Angeles County, California, 91355, Stati Uniti d'America",
+                "class": "building",
+                "type": "commercial",
+                "snippet": [
+                    "...Alcune grosse compagnie con sede in altri centri della contea di Los Angeles sono la Shakey's Pizza (ad Alhambra), l'Academy of Motion Picture Arts and Sciences (a Beverly Hills), la City National Bank (a Beverly Hills), la Hilton Hotels (a Beverly Hills), la DiC Entertainment (a Burbank), La Walt Disney Company (altra società dell'elenco Fortune 500 - a Burbank), la Warner Brothers (sempre Burbank), la Countrywide Financial Corporation (nell'elenco Fortune 500 -a Calabasas), la THQ (a Calabasas), la Belkin (a Compton), la National Public Radio West (a Culver City), la Sony Pictures Entertainment (società madre della Columbia Pictures, a Culver City), la Computer Sciences Corporation (nell'elenco Fortune 500 - a El Segundo), la DirecTV (a El Segundo), la Mattel (nell'elenco Fortune 500 - a El Segundo), la Unocal (nell'elenco Fortune 500 - a El Segundo), la DreamWorks SKG (a Glendale), la Sea Launch (a Long Beach), la ICANN (a Marina Del Rey), la Cunard Line (a Santa Clarita), la Princess Cruises (a Santa Clarita), la Activision (a Santa Monica) e la RAND (sempre a Santa Monica)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.280672,
+                    33.928578
+                ]
+            },
+            "properties": {
+                "entity": "Judge Harry Pregerson Interchange",
+                "name_location": "Judge Harry Pregerson Interchange, Harbor Transitway, Los Angeles, Los Angeles County, California, 90061, Stati Uniti d'America",
+                "class": "junction",
+                "type": "yes",
+                "snippet": [
+                    "*...Nella rete autostradale è noto il grande svincolo Judge Harry Pregerson Interchange...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.156486,
+                    34.072234
+                ]
+            },
+            "properties": {
+                "entity": "Grove",
+                "name_location": "Orange Grove Avenue, Alhambra, Los Angeles County, California, 91803, Stati Uniti d'America",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "...Le attrazioni più note di Los Angeles sono, oltre alle lunghe spiagge del Pacifico, il quartiere di Hollywood, la Stahl house, i negozi di Rodeo Drive, il centro commerciale The Grove e le ville dei divi dello spettacolo a Beverly Hills, Bel Air e Malibù e i parchi tematici di Disneyland (che in realtà si trova nella città di Anaheim nella confinante Contea di Orange), Universal Studios e Paramount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.435471,
+                    34.080956
+                ]
+            },
+            "properties": {
+                "entity": "Bel Air",
+                "name_location": "Bel Air Road, Los Angeles, Los Angeles County, California, 90095, Stati Uniti d'America",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Alcune note comunità all'interno di Los Angeles includono West Adams, Watts, Leimert Park, Baldwin Hills, Crenshaw, Venice, il distretto finanziario, Silver Lake, Hollywood, Koreatown, Westwood e le aree più ricche di Bel Air, Benedict Canyon, Hollywood Hills, Los Feliz, Hancock Park, Calabasas, Pacific Palisades, Beverly Hills, Holmby Hills, Century City, Brentwood, Toluca Lake, Studio City e Laurel Canyon....",
+                    "*...Diverse zone molto note della città sono Venice Beach, il Downtown financial district, Los Feliz, Silver Lake, Van Nuys, Hollywood, Hancock Park, Koreatown e i distretti (caratterizzati da un reddito pro capite particolarmente elevato) di Bel Air, Westwood, Brentwood e la famosissima Beverly Hills....",
+                    "*...Le attrazioni più note di Los Angeles sono, oltre alle lunghe spiagge del Pacifico, il quartiere di Hollywood, la Stahl house, i negozi di Rodeo Drive, il centro commerciale The Grove e le ville dei divi dello spettacolo a Beverly Hills, Bel Air e Malibù e i parchi tematici di Disneyland (che in realtà si trova nella città di Anaheim nella confinante Contea di Orange), Universal Studios e Paramount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.473952,
+                    33.986087
+                ]
+            },
+            "properties": {
+                "entity": "Venice Beach",
+                "name_location": "Venice Beach, Venice Beach Bike Path, Venice, Los Angeles, Los Angeles County, California, 90292, Stati Uniti d'America",
+                "class": "amenity",
+                "type": "police",
+                "snippet": [
+                    "*...Diverse zone molto note della città sono Venice Beach, il Downtown financial district, Los Feliz, Silver Lake, Van Nuys, Hollywood, Hancock Park, Koreatown e i distretti (caratterizzati da un reddito pro capite particolarmente elevato) di Bel Air, Westwood, Brentwood e la famosissima Beverly Hills....",
+                    "*...Da non dimenticare è il quartiere di Venice Beach, conosciuto non solo per i negozi affacciati sulla spiaggia, ma anche per un percorso di piste ciclabili e per i numerosi artisti di Strada...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.207948,
+                    34.088242
+                ]
+            },
+            "properties": {
+                "entity": "Hale House",
+                "name_location": "Hale House, Homer Street, Montecito Heights, Los Angeles, Los Angeles County, California, 90065, Stati Uniti d'America",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Hale House, situata a nord-est della città, viene definita \"la casa più fotografata della città\" da Jack Smith, e nel 1972 è stata inserita nel National Register of Historic Places...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.350137,
+                    34.040615
+                ]
+            },
+            "properties": {
+                "entity": "Mid-City",
+                "name_location": "Mid City Complete Auto Center, 5054, West Washington Boulevard, West Adams, Los Angeles, Los Angeles County, California, 90016, Stati Uniti d'America",
+                "class": "shop",
+                "type": "car_repair",
+                "snippet": [
+                    "...Downtown, Eastside, South Los Angeles, South Bay/Harbor, Hollywood, Mid-City, Westside, valle di San Fernando e valle di San Gabriel....",
+                    "*...L'amministrazione cittadina darebbe, in altre parole, la priorità ai problemi delle aree più densamente popolate, come Mid-City e Downtown, a discapito dei sobborghi;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.582901,
+                    34.500314
+                ]
+            },
+            "properties": {
+                "entity": "Downtown",
+                "name_location": "Downtown, Los Angeles County, California, 91310, Stati Uniti d'America",
+                "class": "highway",
+                "type": "path",
+                "snippet": [
+                    "...Downtown Los Angeles, East Los Angeles e Nord-est Los Angeles, South Los Angeles, la zona del porto, Greater Hollywood, West Hollywood, Wilshire, il Westside, la valle di San Fernando e Valli Crescenta....",
+                    "*...Downtown, Eastside, South Los Angeles, South Bay/Harbor, Hollywood, Mid-City, Westside, valle di San Fernando e valle di San Gabriel....",
+                    "...Diverse zone molto note della città sono Venice Beach, il Downtown financial district, Los Feliz, Silver Lake, Van Nuys, Hollywood, Hancock Park, Koreatown e i distretti (caratterizzati da un reddito pro capite particolarmente elevato) di Bel Air, Westwood, Brentwood e la famosissima Beverly Hills....",
+                    "*...L'amministrazione cittadina darebbe, in altre parole, la priorità ai problemi delle aree più densamente popolate, come Mid-City e Downtown, a discapito dei sobborghi;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.246094,
+                    34.054897
+                ]
+            },
+            "properties": {
+                "entity": "Civic Center",
+                "name_location": "Civic Center/Grand Park, North Hill Street, Civic Center, Downtown, Los Angeles, Los Angeles County, California, 90012, Stati Uniti d'America",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...Entrambe le corti si trovano in un grande complesso di edifici pubblici nel Civic Center....",
+                    "*...I processi di competenza statale sono impugnabili davanti alla Corte d'appello per il secondo distretto, che si trova sempre nel Civic Center e, in ultimo grado, alla Corte suprema della California, che ha sede a San Francisco, ma tiene udienza anche a Los Angeles (sempre nel Civic Center)...."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,200 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.737375,
+                    59.435744
+                ]
+            },
+            "properties": {
+                "entity": "Castrum Danorum",
+                "name_location": "Toompea loss, 1a, Lossi plats, Vanalinn, Kesklinna linnaosa, Tallinn, Harju maakond, 15165, Estonia",
+                "class": "historic",
+                "type": "castle",
+                "snippet": [
+                    "*...I danesi infatti denominarono la città di Tallinn come Castrum Danorum, latinismo significante \"castello dei danesi\"...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.675117,
+                    59.386858
+                ]
+            },
+            "properties": {
+                "entity": "Harku",
+                "name_location": "Harku, Nõmme, Nõmme linnaosa, Tallinn, Harju maakond, 11611, Estonia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Il secondo lago per estensione (1,6 km²) è l'Harku...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.83261,
+                    59.466742
+                ]
+            },
+            "properties": {
+                "entity": "Pirita",
+                "name_location": "Pirita, Merivälja tee, Pirita, Pirita linnaosa, Tallinn, Harju maakond, 11911, Estonia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...L'unico fiume importante è il Pirita, scorre a nord, nel sobborgo di Pirita, e dal 1957 è zona protetta, stante il pregio naturalistico....",
+                    "...In quella occasione vennero edificati vari edifici fra i quali l'hotel Olimpia, l'Ufficio Postale, il Pirita yachting centre e l'imponente torre della televisione...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.747896,
+                    59.441322
+                ]
+            },
+            "properties": {
+                "entity": "Chiesa di Sant'Olav",
+                "name_location": "Chiesa di Sant'Olav, 50, Lai, Vanalinn, Kesklinna linnaosa, Tallinn, Harju maakond, 10133, Estonia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Chiesa di Sant'Olav. Per quasi un secolo, dal 1549 al 1625 è stato l'edificio più alto del mondo. Alla fine del XV secolo una nuova guglia gotica di 159 m fu costruita per la sua torre. In seguito a diversi incendi e conseguenti restauri, l'altezza totale è oggi 123 m...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.745392,
+                    59.433721
+                ]
+            },
+            "properties": {
+                "entity": "Chiesa di San Giovanni",
+                "name_location": "Chiesa di San Giovanni, 1, Piazza della Libertà, Vanalinn, Kesklinna linnaosa, Tallinn, Harju maakond, 10146, Estonia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Chiesa di San Giovanni, è una Chiesa parrocchiale neogotica della Chiesa di Estonia ed è situata in Piazza Vabaduse o della Libertà ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.743957,
+                    59.433698
+                ]
+            },
+            "properties": {
+                "entity": "Piazza Vabaduse",
+                "name_location": "Piazza della Libertà, Vanalinn, Kesklinna linnaosa, Tallinn, Harju maakond, Estonia",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Chiesa di San Giovanni, è una Chiesa parrocchiale neogotica della Chiesa di Estonia ed è situata in Piazza Vabaduse o della Libertà ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.743957,
+                    59.433698
+                ]
+            },
+            "properties": {
+                "entity": "Piazza della Libertà",
+                "name_location": "Piazza della Libertà, Vanalinn, Kesklinna linnaosa, Tallinn, Harju maakond, Estonia",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Colonna della Vittoria dell'Indipendenza dell'Estonia, in Piazza della Libertà (Tallinn) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.741267,
+                    59.434703
+                ]
+            },
+            "properties": {
+                "entity": "Kiek in de Kök",
+                "name_location": "Kiek in de Kök, 2, Komandandi tee, Vanalinn, Kesklinna linnaosa, Tallinn, Harju maakond, 10130, Estonia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Kiek in de Kök ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.801087,
+                    59.41645
+                ]
+            },
+            "properties": {
+                "entity": "Aeroporto",
+                "name_location": "Lennart Meri Tallinna lennujaam, 101, Tartu mnt, Ülemistejärve, Kesklinna linnaosa, Tallinn, Harju maakond, 11101, Estonia",
+                "class": "aeroway",
+                "type": "terminal",
+                "snippet": [
+                    "...Così ad esempio Tallinna Lennujaam è l'Aeroporto di Tallinn....",
+                    "*...Tallinn è servita da un Aeroporto, l'Aeroporto Lennart Meri, a circa 4 km dal centro cittadino....",
+                    "*...Una linea di bus (N.2), collega comodamente l'Aeroporto al centro della città....",
+                    "*...Collega il centro cittadino all'Aeroporto, e che collega buona parte della città, coprendo anche zone periferiche della capitale estone....",
+                    "*...Attualmente il costo di un biglietto di 1 ora è di 1,50€ ed è valido in tutta la rete urbana (comprese le corse avente origine dall'Aeroporto)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.801087,
+                    59.41645
+                ]
+            },
+            "properties": {
+                "entity": "Aeroporto Lennart Meri",
+                "name_location": "Lennart Meri Tallinna lennujaam, 101, Tartu mnt, Ülemistejärve, Kesklinna linnaosa, Tallinn, Harju maakond, 11101, Estonia",
+                "class": "aeroway",
+                "type": "terminal",
+                "snippet": [
+                    "...Tallinn è servita da un Aeroporto, l'Aeroporto Lennart Meri, a circa 4 km dal centro cittadino...."
+                ]
+            }
+        }
+    ]
+}

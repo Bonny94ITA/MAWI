@@ -12,9 +12,8 @@ path_articles2 = f'input/articles2/it/texts/'
 
 path_results = f'results/extraction_entities_snippet/'
 
-titles_articles = [("Helsinki", "it"), ("Helsinki", "en"), ("Istanbul", "it"), ("Istanbul", "en"), ("Kiev", "it"), ("Kyiv", "en"), ("Lione", "it"), ("Lyon", "en"), ("Lisbona", "it"), ("Lisbon", "en"), ("Londra", "it"), ("London", "en") ]
+titles_articles = [("Barocco a Milano", "it"), ("Gotico a Milano", "it"), ("Liberty a Milano", "it"), ("Liberty a Torino", "it")]
 
-titles_articles = [("Los Angeles", "it"), ("Los Angeles", "en") ,("Lussemburgo (città)", "it"), ("Luxembourg City", "en"), ("Madrid", "it"), ("Madrid", "en"), ("Manchester", "it"), ("Manchester", "en"), ("Marsiglia", "it"), ("Marseille", "en")]
 
 model_it = create_model("it")
 model_en = create_model("en")
@@ -25,9 +24,9 @@ for (title, lang) in titles_articles:
     # Read wiki articles from file
     print("Current article to analyze: ", title)
     if lang == "it":
-        path_article = path_articles1_it+title+".txt"
+        path_article = path_articles2+title+".txt"
     else:
-        path_article = path_articles1_en+title+".txt"
+        path_article = path_articles2+title+".txt"
     startTime = datetime.now()
     text = read_article(path_article)
     print("-----------------------read_article : ", str(datetime.now() - startTime))

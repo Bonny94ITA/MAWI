@@ -1,0 +1,221 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.509454,
+                    54.245254
+                ]
+            },
+            "properties": {
+                "entity": "Nioman",
+                "name_location": "вуліца Нармандыя-Нёман, Барысаў, Барысаўскі раён, Мінская вобласць, 222517, Bielorussia",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...La città di Minsk si trova sul versante sud-orientale dei Colli di Minsk, una regione collinare che va dal sud-ovest, corso superiore del fiume Nioman, al nord-est, fino al lago Lukomskaje...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.551183,
+                    53.890566
+                ]
+            },
+            "properties": {
+                "entity": "Minsk-Pasažyrski",
+                "name_location": "Мінск-Пасажырскі, 5, Прывакзальная плошча, Уборкі, Кастрычніцкі раён, Minsk, 220006, Bielorussia",
+                "class": "building",
+                "type": "train_station",
+                "snippet": [
+                    "*...Dalla rinnovata stazione centrale Minsk-Pasažyrski, (sita nella centralissima Plošad Lenina - Piazza Lenin), partono ogni giorno numerosi treni internazionali che sovente coprono distanze notevoli, come ad esempio Irkutsk (in Siberia)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.556941,
+                    53.902629
+                ]
+            },
+            "properties": {
+                "entity": "Europe",
+                "name_location": "Europa, 28, Інтэрнацыянальная вуліца, Ciomnyja Kramy, Tsentralny District, Minsk, 220030, Belarus",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...As of January 2021, its population was 2 million, making Minsk the 11th most populous city in Europe....",
+                    "...Unlike many other cities in the CIS and Eastern Europe, Minsk was not heavily de-industrialised in the 1990s....",
+                    "*...It is an international airport with flights to Europe and the Middle East...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.541921,
+                    53.905685
+                ]
+            },
+            "properties": {
+                "entity": "Minsk Ghetto",
+                "name_location": "Victims of the Minsk ghetto 1941-43, Rakaŭskaja vulica, Rakaŭskaje pradmiescie, Tsentralny District, Minsk, 220004, Belarus",
+                "class": "historic",
+                "type": "memorial",
+                "snippet": [
+                    "*...Minsk was the site of one of the largest Nazi-run ghettos in the Second World War, temporarily housing over 100,000 Jews (see Minsk Ghetto)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.509454,
+                    54.245254
+                ]
+            },
+            "properties": {
+                "entity": "Nioman",
+                "name_location": "вуліца Нармандыя-Нёман, Barysaw, Barysaw District, Minsk Region, 222517, Belarus",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Minsk is located on the southeastern slope of the Minsk Hills, a region of rolling hills running from the southwest (upper reaches of the river Nioman) to the northeast– that is, to Lukomskaye Lake in northwestern Belarus...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.582241,
+                    53.928934
+                ]
+            },
+            "properties": {
+                "entity": "Atlantic",
+                "name_location": "Atlantic, вуліца Сурганава, Sielhaspasiolak, Savyetski District, Minsk, 220100, Belarus",
+                "class": "shop",
+                "type": "clothes",
+                "snippet": [
+                    "...Minsk has a warm summer humid continental climate (Köppen Dfb) though unpredictable many a times, owing to its location between the strong influence of the moist air of the Atlantic Ocean and the dry air of the Eurasian landmass....",
+                    "*...Throughout the year, most winds are westerly and northwesterly, bringing cool and moist air from the Atlantic...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.622279,
+                    53.868707
+                ]
+            },
+            "properties": {
+                "entity": "Zavodski District",
+                "name_location": "The factory (and Minsk city) district Department of the Investigative Committee of the Republic of Belarus, вуліца Тухачэўскага, Zavodski District, Minsk, 220026, Belarus",
+                "class": "office",
+                "type": "government",
+                "snippet": [
+                    "*...Sometimes the maximum normative concentration of formaldehyde and ammonia in air is exceeded in Zavodski District....",
+                    "*...Many citizens are concerned for their safety at night and the strongest concern was expressed by residents of Chizhovka and Shabany microdistricts (both in Zavodski District)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.506579,
+                    53.908741
+                ]
+            },
+            "properties": {
+                "entity": "Kalvaryja",
+                "name_location": "Kalvaryja entrance, вуліца Верашчагіна, Kaĺvaryja, Tučynka, Frunzyenski District, Minsk, 220073, Belarus",
+                "class": "historic",
+                "type": "monument",
+                "snippet": [
+                    "*...Kalvaryja (Calvary Cemetery) is the oldest surviving cemetery in the city. Many famous people of Belarus are buried here. The cemetery was closed to new burials in the 1960s...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.576483,
+                    53.901233
+                ]
+            },
+            "properties": {
+                "entity": "Gorky Park",
+                "name_location": "Gorky Park Apartments, Першамайская вуліца, Archirejskaja Slabodka, Partyzanski District, Minsk, 220088, Belarus",
+                "class": "tourism",
+                "type": "apartment",
+                "snippet": [
+                    "*...Gorky Park (Minsk) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.482675,
+                    53.934997
+                ]
+            },
+            "properties": {
+                "entity": "Minsk Arena",
+                "name_location": "Мінск-Арэна, Узровень 1, Radužny, Tsentralny District, Minsk, 220020, Belarus",
+                "class": "leisure",
+                "type": "sports_centre",
+                "snippet": [
+                    "...Minsk hosted the 2014 IIHF World Championship at the Minsk Arena....",
+                    "...In January 2016, the 2016 European Speed Skating Championships were held in the Minsk Arena....",
+                    "*...Minsk Arena is the only indoor speed skating rink in Belarus....",
+                    "...The 2019 European Figure Skating Championships were held in the Minsk Arena from the 21 to 27 January...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.032222,
+                    53.889707
+                ]
+            },
+            "properties": {
+                "entity": "Minsk National Airport",
+                "name_location": "Minsk National Airport, Сектар 1, Нацыянальны аэрапорт «Мінск», Kastrychnitski District, Minsk, 220054, Belarus",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Minsk National Airport is located 42 km (26 mi) to the east of the city...."
+                ]
+            }
+        }
+    ]
+}

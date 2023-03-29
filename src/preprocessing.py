@@ -17,7 +17,7 @@ def create_directory(dir_name, path_results, lang):
         dir_name: name of the directory
     """
 
-    path_results_article = path_results+"articles1/"+lang+"/"+dir_name
+    path_results_article = path_results+"articles2/"+lang+"/"+dir_name
     if not exists(path_results_article):
         makedirs(path_results_article)
     

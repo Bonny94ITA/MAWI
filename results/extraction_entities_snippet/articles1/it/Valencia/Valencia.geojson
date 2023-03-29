@@ -1,0 +1,935 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.390028,
+                    39.476915
+                ]
+            },
+            "properties": {
+                "entity": "Turia",
+                "name_location": "Túria, Gran Via de Ferran el Catòlic, la Petxina, Extramurs, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46008, Spagna",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Sorge sul golfo che reca il suo nome, lungo la costa centro-orientale della Spagna e alla foce del fiume Turia....",
+                    "*...Valentia Edetanorum venne fondata dai romani nel 138 a.C., sotto il console Decimo Giunio Bruto Callaico, lungo la riva destra del fiume Turia, sul luogo di un antico insediamento iberico....",
+                    "*...Il 14 ottobre 1957 il fiume Turia straripò, uccidendo molti valenciani in quella che viene considerata la peggiore alluvione della storia della città....",
+                    "*...Il vecchio letto asciutto venne convertito in un Parco, i giardini del Turia, che attraversano la città e sono una delle principali attrattive....",
+                    "*...Palau de la Música, inaugurato nel 1987, è un auditorium situato sul vecchio letto del fiume Turia....",
+                    "...Il progetto dell'alta velocità dell'AVE prevede l'attraversamento di Valencia con un tunnel a tre corsie (due per i treni AV e una per i pendolari), che passerà sotto il tracciato ferroviario in corrispondenza delle stazioni di Germanías e Marqués del Turia, e che sarà interconnesso alle stazioni dei pendolari di Avenida de Aragón e di Campus Tarongers....",
+                    "...La stazione è servita da un'autorimessa dei taxi e dalla fermato di Turia della MetroValencia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.347164,
+                    39.501564
+                ]
+            },
+            "properties": {
+                "entity": "Carmen",
+                "name_location": "Carmen, 2, Calle del Mar, Alboraia / Alboraya, l'Horta Nord, Valencia, Comunità Valenzana, 46120, Spagna",
+                "class": "shop",
+                "type": "greengrocer",
+                "snippet": [
+                    "*...Fu costruito il palazzo della Rusàfa (che diede il nome a uno dei quartieri della città, riprendendo il nome d'una residenza califfale a Damasco), venne creata una prima cerniera di coltivazioni al di fuori della città (in corrispondenza dell'attuale barrio del Carmen) e l'antica sede episcopale visigota fu convertita nella piazza della residenza del governatore (wālī), nominato dal califfo di Cordova nel periodo del califfato di Cordova...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.379333,
+                    39.469459
+                ]
+            },
+            "properties": {
+                "entity": "Mediterraneo",
+                "name_location": "Mediterraneo, Avinguda de l'Oest, Sant Francesc, Ciutat Vella, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46001, Spagna",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "...Valencia gode di un clima mediterraneo mite e umido....",
+                    "*...Grazie al suo porto sul Mediterraneo, Valencia divenne uno dei principali centri commerciali d'Europa....",
+                    "*...Con la scoperta dell'America l'asse del commercio mondiale si spostò dal Mediterraneo all'Oceano Atlantico....",
+                    "...Con una movimentazione di 64 milioni di tonnellate e un incremento del 10,81% sull'anno precedente, il sistema portuale di Valencia si è confermato nel 2010 come il più importante scalo merci del Mediterraneo occidentale per quanto riguarda il traffico di container, in termini di volumi di attraversamento...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.35715,
+                    39.471647
+                ]
+            },
+            "properties": {
+                "entity": "Europa",
+                "name_location": "Edificio Europa, 30, Avinguda d'Aragó, Mestalla, el Pla del Real, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46010, Spagna",
+                "class": "building",
+                "type": "commercial",
+                "snippet": [
+                    "*...Grazie al suo porto sul Mediterraneo, Valencia divenne uno dei principali centri commerciali d'Europa....",
+                    "...Il boom vero e proprio, tuttavia, si ebbe a cavallo tra la fine del XX secolo e l'inizio del XXI, con l'attrattiva internazionale dell'America's Cup e del Gran Premio d'Europa di Formula 1 svoltisi nel Circuito urbano di Valencia, con la costruzione del Bioparc Valencia, del Palazzo della Musica e di quello dei congressi, nonché della Città delle Arti e delle Scienze....",
+                    "*...Secondo fonti del Ministero dello sviluppo, dal 2006 il porto di Valencia è il primo porto spagnolo nel traffico di container, il quinto in Europa e uno dei primi cinquanta al mondo....",
+                    "*...L'Aeroporto ospita voli per tutta la Spagna, l'Europa e le città del Nord Africa....",
+                    "...Il 24 agosto 2008 la città ha ospitato il suo primo Gran Premio d'Europa di Formula 1, su un circuito cittadino ricavato dalle strade nella zona del porto, con i box localizzati presso gli hangar utilizzati dalle squadre della Louis Vuitton Cup e della XXXII America's Cup...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.581418,
+                    39.601482
+                ]
+            },
+            "properties": {
+                "entity": "Consolat de Mar",
+                "name_location": "Consolat de Mar, Carrer de Fray Luis Amigó, Benaguasil, el Camp de Túria, Valencia, Comunità Valenzana, 46180, Spagna",
+                "class": "shop",
+                "type": "musical_instrument",
+                "snippet": [
+                    "...Già dal 1283 era attivo il Consolat de Mar, istituzione mercantile che regolava il commercio marittimo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.378259,
+                    39.47441
+                ]
+            },
+            "properties": {
+                "entity": "Lonja de la Seda",
+                "name_location": "Llotja de la Seda, 2, Carrer de la Llotja, el Mercat, Ciutat Vella, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46001, Spagna",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...La Lonja de la Seda (\"Loggia della Seta\"), edificio gotico destinato alle contrattazioni mercantili, venne costruita alla fine del secolo;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.375608,
+                    39.475326
+                ]
+            },
+            "properties": {
+                "entity": "Micalet",
+                "name_location": "Torre del Micalet, Plaça de la Reina, la Seu, Ciutat Vella, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46003, Spagna",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Oltre alla Lonja, risalgono a quel periodo il Micalet (il campanile della cattedrale di Santa Maria) e le Torres dels Serrans...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.375188,
+                    39.479056
+                ]
+            },
+            "properties": {
+                "entity": "Torres dels Serrans",
+                "name_location": "Torres dels Serrans, Carrer del Comte de Trénor, la Seu, Ciutat Vella, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46003, Spagna",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "...Oltre alla Lonja, risalgono a quel periodo il Micalet (il campanile della cattedrale di Santa Maria) e le Torres dels Serrans....",
+                    "*...Torres dels Serrans;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.141869,
+                    38.68821
+                ]
+            },
+            "properties": {
+                "entity": "Oceano Atlantico",
+                "name_location": "Calle Oceano Atlantico, Plà del Mar, Moraira, Teulada, la Marina Alta, Alacant / Alicante, Comunità Valenzana, 03724, Spagna",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Con la scoperta dell'America l'asse del commercio mondiale si spostò dal Mediterraneo all'Oceano Atlantico...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.349474,
+                    39.493735
+                ]
+            },
+            "properties": {
+                "entity": "els Furs",
+                "name_location": "Calle de Los Fueros, Alboraia / Alboraya, l'Horta Nord, Valencia, Comunità Valenzana, 46120, Spagna",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Il Re promulgò nuove leggi per la città, note come els Furs, che in seguito vennero estese a tutto il regno....",
+                    "*...Dopo la vittoria dei Borboni nella battaglia di Almansa il 25 aprile 1707, la città ed il regno persero i privilegi (els Furs) concessi quattro secoli prima da Giacomo I d'Aragona e dovette accettare le leggi e gli usi della Castiglia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.415045,
+                    39.396743
+                ]
+            },
+            "properties": {
+                "entity": "Ensanche",
+                "name_location": "Calle Ensanche, Albal, l'Horta Sud, Valencia, Comunità Valenzana, 46470, Spagna",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Fu creato il quartiere modernista dell'Ensanche o Eixample...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.415045,
+                    39.396743
+                ]
+            },
+            "properties": {
+                "entity": "Eixample",
+                "name_location": "Calle Ensanche, Albal, l'Horta Sud, Valencia, Comunità Valenzana, 46470, Spagna",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Fu creato il quartiere modernista dell'Ensanche o Eixample...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.378896,
+                    39.473499
+                ]
+            },
+            "properties": {
+                "entity": "Mercato centrale",
+                "name_location": "Mercato Centrale, 5, Carrer de Blanes, el Mercat, Ciutat Vella, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46001, Spagna",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...Vennero costruiti il Mercato centrale e il Mercado de Colón;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.368345,
+                    39.468958
+                ]
+            },
+            "properties": {
+                "entity": "Mercado de Colón",
+                "name_location": "Mercat de Colón, 19, Carrer de Jorge Juan, el Pla del Remei, l'Eixample, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46004, Spagna",
+                "class": "amenity",
+                "type": "marketplace",
+                "snippet": [
+                    "...Vennero costruiti il Mercato centrale e il Mercado de Colón;...",
+                    "*...Mercado de Colón, il Mercato Ruzafa, il Mercato Benicalap, il Mercato Algirós, il Mercato Castilla, il Mercato Cabanyal e il Mercato di Torrefiel, unitamente alle vie dei negozi di abbigliamento in Calle Colón e dei prodotti tecnologici in Calle Islas Canarias...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.377374,
+                    39.466316
+                ]
+            },
+            "properties": {
+                "entity": "Estación del Norte",
+                "name_location": "Valencia - Estació del Nord, 24, Carrer de Xàtiva, Russafa, l'Eixample, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46007, Spagna",
+                "class": "building",
+                "type": "train_station",
+                "snippet": [
+                    "*...Nel 1921 venne terminata la stazione ferroviaria detta Estación del Norte...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.375124,
+                    39.475576
+                ]
+            },
+            "properties": {
+                "entity": "Cattedrale di Valencia",
+                "name_location": "Cattedrale di Valencia, Carrer de la Barcella, la Seu, Ciutat Vella, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46003, Spagna",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Cattedrale di Valencia; consacrata nel 1238 dopo la Reconquista, è dedicata all'Assunzione di Maria e venne costruita sull'antica moschea di Balansiya...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.254327,
+                    39.165057
+                ]
+            },
+            "properties": {
+                "entity": "Santos Juanes",
+                "name_location": "Parroquia Santos Juanes, Carrer del Dalt, Urbanización Solmar, Sant Antoni, Cullera, la Ribera Baixa, Valencia, Comunità Valenzana, 46400, Spagna",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Chiesa dei Santi Giovanni (iglesia de los Santos Juanes); dedicata a san Giovanni Battista e san Giovanni evangelista, fu costruita su una moschea esistente prima del 1240...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.24204,
+                    39.176768
+                ]
+            },
+            "properties": {
+                "entity": "Plaza de Toros",
+                "name_location": "Plaza de toros, Avinguda del Racó, Urbanización Bahía Park, Sant Antoni, Cullera, la Ribera Baixa, Valencia, Comunità Valenzana, 46400, Spagna",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...Plaza de Toros; costruita in stile neoclassico tra il 1850 e il 1860, è un'arena che si ispira agli anfiteatri romani come anche il Colosseo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.374421,
+                    39.473292
+                ]
+            },
+            "properties": {
+                "entity": "Palacio del Marqués de Dos Aguas",
+                "name_location": "Palacio del Marques de Dos Aguas, Carrer de Vidal, Sant Francesc, Ciutat Vella, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46001, Spagna",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Palacio del Marqués de Dos Aguas; in stile rococò, fu costruito attorno al 1740, ed è ora la sede del Museo della Ceramica González Martí...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.374706,
+                    39.472721
+                ]
+            },
+            "properties": {
+                "entity": "Museo della Ceramica González Martí",
+                "name_location": "Museo della Ceramica González Martí, 2, Carrer del Poeta Querol, la Xerea, Ciutat Vella, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46002, Spagna",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Palacio del Marqués de Dos Aguas; in stile rococò, fu costruito attorno al 1740, ed è ora la sede del Museo della Ceramica González Martí...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.352817,
+                    39.459317
+                ]
+            },
+            "properties": {
+                "entity": "Hemisfèric",
+                "name_location": "Albereda (riu) - L'Hemisfèric, Passeig de l'Albereda, Penya-roja, Camins al Grau, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46023, Spagna",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "...L'Hemisfèric ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.365165,
+                    39.470699
+                ]
+            },
+            "properties": {
+                "entity": "Pont de las Flors",
+                "name_location": "Pont de les Flors, el Pla del Remei, l'Eixample, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46005, Spagna",
+                "class": "highway",
+                "type": "primary_link",
+                "snippet": [
+                    "*...Pont de las Flors ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.386901,
+                    39.477378
+                ]
+            },
+            "properties": {
+                "entity": "Umbracle",
+                "name_location": "Umbracle, Plaça de Carles Pau, el Botànic, Extramurs, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46008, Spagna",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "...L'Umbracle ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.366867,
+                    39.472675
+                ]
+            },
+            "properties": {
+                "entity": "Pont de l'Exposició",
+                "name_location": "Pont de l'Exposició, el Pla del Remei, l'Eixample, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46004, Spagna",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Pont de l'Exposició ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.360465,
+                    39.467195
+                ]
+            },
+            "properties": {
+                "entity": "Palau de la Música",
+                "name_location": "Palau de la Música, Passeig de l'Albereda, Mestalla, el Pla del Real, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46005, Spagna",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Palau de la Música, inaugurato nel 1987, è un auditorium situato sul vecchio letto del fiume Turia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.383965,
+                    39.474985
+                ]
+            },
+            "properties": {
+                "entity": "Torres de Quart",
+                "name_location": "Torres de Quart, Carrer de Guillem de Castro, el Pilar, Ciutat Vella, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46008, Spagna",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "...Con la Torres de Quart è l'unica porta ancora esistente dopo l'abbattimento delle mura avvenuto nel 1865...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.357156,
+                    39.459054
+                ]
+            },
+            "properties": {
+                "entity": "Ciutat de les Arts i les Ciències",
+                "name_location": "Ciutat de les Arts i les Ciencies, Carrer de l'Alcalde Reig, Ciutat de les Arts i de les Ciències, Quatre Carreres, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46023, Spagna",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...Ciutat de les Arts i les Ciències ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.572571,
+                    39.642425
+                ]
+            },
+            "properties": {
+                "entity": "Albufera",
+                "name_location": "Albufera, Urbanització Oasi de Sant Vicent, Puig i Lis, Llíria, el Camp de Túria, Valencia, Comunità Valenzana, 46160, Spagna",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Altre varianti della tipica paella sono l'arròs a banda, piatto tipico dell'Albufera (laguna a sud di Valencia) da mangiare accompagnata con la salsa aioli, e la fideuà, paella fatta con la pasta tipo gramigna e pesce (si racconta che la fideuà sia nata perché alcuni pescatori andati al largo a pescare, all'ora di pranzo decisero di preparare una paella, ma accortisi che non avevano con sé il riso, decisero di prepararla con ciò che avevano:...",
+                    "...Poco tempo più tardi, fu proposto il progetto di realizzare l'Aeroporto sulla lingua di terra che separa l'Albufera da Valencia dal mare, in modo che potesse essere utilizzato sia per gli aeroplani che dagli idromobili che dagli aerei terrestri...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.37604,
+                    39.443429
+                ]
+            },
+            "properties": {
+                "entity": "Hospital de la Fe",
+                "name_location": "Hospital Universitari i Politècnic La Fe, Camí Assagador del Morro, Malilla, Quatre Carreres, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46026, Spagna",
+                "class": "amenity",
+                "type": "hospital",
+                "snippet": [
+                    "*...Al 2011, un totale di 3.973 ettari di terreno erano destinati alla coltivazione del frutteto, un'area ridotta dalle esigenze di espansione del porto e della sua zona franca, del sviluppo urbano, la costruzione del nuovo Hospital de la Fe o delle strade intorno alla cintura cittadina....."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.347851,
+                    39.499751
+                ]
+            },
+            "properties": {
+                "entity": "Calle Colón",
+                "name_location": "Calle Colón, Alboraia / Alboraya, l'Horta Nord, Valencia, Comunità Valenzana, 46120, Spagna",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Mercado de Colón, il Mercato Ruzafa, il Mercato Benicalap, il Mercato Algirós, il Mercato Castilla, il Mercato Cabanyal e il Mercato di Torrefiel, unitamente alle vie dei negozi di abbigliamento in Calle Colón e dei prodotti tecnologici in Calle Islas Canarias...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.468222,
+                    39.514882
+                ]
+            },
+            "properties": {
+                "entity": "Calle Islas Canarias",
+                "name_location": "Calle Islas Canarias, Polígono Industrial Fuente del Jarro, la Canyada, Paterna, l'Horta Nord, Valencia, Comunità Valenzana, 46988, Spagna",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Mercado de Colón, il Mercato Ruzafa, il Mercato Benicalap, il Mercato Algirós, il Mercato Castilla, il Mercato Cabanyal e il Mercato di Torrefiel, unitamente alle vie dei negozi di abbigliamento in Calle Colón e dei prodotti tecnologici in Calle Islas Canarias...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.411165,
+                    39.47827
+                ]
+            },
+            "properties": {
+                "entity": "Bioparc Valencia",
+                "name_location": "Bioparc València, Avinguda de Pio Baroja, Sant Pau, Campanar, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46920, Spagna",
+                "class": "tourism",
+                "type": "zoo",
+                "snippet": [
+                    "*...Bioparc Valencia ;...",
+                    "*...Il boom vero e proprio, tuttavia, si ebbe a cavallo tra la fine del XX secolo e l'inizio del XXI, con l'attrattiva internazionale dell'America's Cup e del Gran Premio d'Europa di Formula 1 svoltisi nel Circuito urbano di Valencia, con la costruzione del Bioparc Valencia, del Palazzo della Musica e di quello dei congressi, nonché della Città delle Arti e delle Scienze...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.402057,
+                    39.496199
+                ]
+            },
+            "properties": {
+                "entity": "Palacio de Congresos",
+                "name_location": "Palau de Congressos, 60, Avinguda de les Corts Valencianes, Beniferri, Pobles de l'Oest, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46015, Spagna",
+                "class": "amenity",
+                "type": "conference_centre",
+                "snippet": [
+                    "...Dalla sua apertura nel 1998 al 2011, il Palacio de Congresos ha ospitato oltre 2.000 eventi ai quali hanno partecipato più di 1,5 milioni di persone, con una ricaduta sul tessuto economico locale pari a più di 700 milioni di euro...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.481209,
+                    39.487865
+                ]
+            },
+            "properties": {
+                "entity": "Aeroporto di Valencia",
+                "name_location": "Aeroporto Internazionale di Valencia, Llegadas, Manises, l'Horta Sud, Valencia, Comunità Valenzana, 46940, Spagna",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "...L'Aeroporto di Valencia è situato a 9 km a ovest dalla periferia di Valencia raggiungibile con la metro 3 e 5...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.613242,
+                    38.76735
+                ]
+            },
+            "properties": {
+                "entity": "Joaquin Sorolla",
+                "name_location": "Joaquin Sorolla, Bocairent, la Vall d'Albaida, Valencia, Comunità Valenzana, 46880, Spagna",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...La città è collegata con l'Alta Velocità AVE di Renfe a Barcellona e Madrid direttamente dalla nuova stazione Joaquin Sorolla inaugurata recentemente...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.283625,
+                    39.666775
+                ]
+            },
+            "properties": {
+                "entity": "autovía A-3",
+                "name_location": "Autovía Mudéjar, Sagunto, el Camp de Morvedre, Valencia, Comunità Valenzana, 46500, Spagna",
+                "class": "highway",
+                "type": "motorway_link",
+                "snippet": [
+                    "...Valencia è collegata a Madrid tramite l'autovía A-3 e a Barcellona attraverso l'autopista AP-7, che collega tutte le maggiori città della costa mediterranea spagnola...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4324,
+                    39.557034
+                ]
+            },
+            "properties": {
+                "entity": "A-7",
+                "name_location": "Autovía del Mediterráneo, Massarojos, Pobles del Nord, Godella, l'Horta Nord, Valencia, Comunità Valenzana, 46112, Spagna",
+                "class": "highway",
+                "type": "motorway",
+                "snippet": [
+                    "...La città, servita da un articolato sistema di circonvallazioni, come la By-pass, la V-30, che unisce l'A-7 con il porto cittadino, o la CV-30 che percorre l'area a nord del capoluogo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.386545,
+                    39.446657
+                ]
+            },
+            "properties": {
+                "entity": "Calle San Vicente",
+                "name_location": "Carrer de Sant Vicent Màrtir, Sant Marcel·lí, Jesús, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46017, Spagna",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...Quest'ultima è una stazione provvisoria per la nuova linea ad alta velocità che collega la città con Madrid, Cuenca e Albacete, che si trova in Calle San Vicente, non distante dalla stazione nord...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.358657,
+                    39.470263
+                ]
+            },
+            "properties": {
+                "entity": "Avenida de Aragón",
+                "name_location": "Avinguda d'Aragó, Mestalla, el Pla del Real, Valencia, Comarca de València, Valencia, Comunità Valenzana, Spagna",
+                "class": "highway",
+                "type": "primary_link",
+                "snippet": [
+                    "*...Il progetto dell'alta velocità dell'AVE prevede l'attraversamento di Valencia con un tunnel a tre corsie (due per i treni AV e una per i pendolari), che passerà sotto il tracciato ferroviario in corrispondenza delle stazioni di Germanías e Marqués del Turia, e che sarà interconnesso alle stazioni dei pendolari di Avenida de Aragón e di Campus Tarongers...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.345267,
+                    39.479392
+                ]
+            },
+            "properties": {
+                "entity": "Campus Tarongers",
+                "name_location": "Campus Tarongers, Carrer de Ramon Llull, la Carrasca, Algirós, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46021, Spagna",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Il progetto dell'alta velocità dell'AVE prevede l'attraversamento di Valencia con un tunnel a tre corsie (due per i treni AV e una per i pendolari), che passerà sotto il tracciato ferroviario in corrispondenza delle stazioni di Germanías e Marqués del Turia, e che sarà interconnesso alle stazioni dei pendolari di Avenida de Aragón e di Campus Tarongers...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.408622,
+                    39.47269
+                ]
+            },
+            "properties": {
+                "entity": "Xirivella",
+                "name_location": "Camí Vell de Xirivella, Soternes, l'Olivereta, Mislata, l'Horta Sud, Valencia, Comunità Valenzana, 46920, Spagna",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Valencia ha un proprio hub per il trasporto dei pendolari, che è composto da sei linee che collegano Valencia con Gandia, Mogente, Utiel, Xirivella, Caudiel e Castellón de la Plana...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.072683,
+                    38.640723
+                ]
+            },
+            "properties": {
+                "entity": "Castellón de la Plana",
+                "name_location": "Castellón de la Plana, Ortembach, Calp, la Marina Alta, Alacant / Alicante, Comunità Valenzana, 03710, Spagna",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Valencia ha un proprio hub per il trasporto dei pendolari, che è composto da sei linee che collegano Valencia con Gandia, Mogente, Utiel, Xirivella, Caudiel e Castellón de la Plana...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.481209,
+                    39.487865
+                ]
+            },
+            "properties": {
+                "entity": "Aeroporto di Manises",
+                "name_location": "Aeroporto Internazionale di Valencia, Llegadas, Manises, l'Horta Sud, Valencia, Comunità Valenzana, 46940, Spagna",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "...L'idea fu poi accantonata per costruire l'Aeroporto di Manises...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.471816,
+                    39.490843
+                ]
+            },
+            "properties": {
+                "entity": "Terminal 2",
+                "name_location": "Valencia - Terminal 2, Llegadas, Manises, l'Horta Sud, Valencia, Comunità Valenzana, 46940, Spagna",
+                "class": "aeroway",
+                "type": "terminal",
+                "snippet": [
+                    "*...Nella seconda decade del Duemila, sono stati aperti i cantieri per i lavori di ampliamento del terminal, la piattaforma logistica per il trasporto merci e quella per l'aviazione generale, il parcheggio, l'assistenza tecnica per il controllo e il monitoraggio di tali strutture, nonché il nuovo Terminal 2, estensione sul lato est a complemento del terminal regionale...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.385421,
+                    39.480998
+                ]
+            },
+            "properties": {
+                "entity": "Avenida Menéndez Pidal",
+                "name_location": "Avinguda de Menéndez Pidal, les Tendetes, Campanar, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46009, Spagna",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...La stazione urbana degli autobus si trova a Avenida Menéndez Pidal, da dove si dipartono linee urbane, nazionali e internazionali...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.373644,
+                    39.476051
+                ]
+            },
+            "properties": {
+                "entity": "Ciutat de Valencia",
+                "name_location": "Museo Ciudad, 3, Plaça de l'Arquebisbe, la Seu, Ciutat Vella, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46003, Spagna",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "...La più antica è il Levante Unión Deportiva, fondata nel 1909, che disputa le partite interne nel campo \"Ciutat de Valencia\";..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.361852,
+                    39.475395
+                ]
+            },
+            "properties": {
+                "entity": "Mestalla",
+                "name_location": "Mestalla, 25, Carrer de Misser Mascó, Exposició, el Pla del Real, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46010, Spagna",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...Quest'ultima compagine ha il suo quartier generale nello stadio di Mestalla; vanta nel suo palmarès 6 titoli di Liga, 8 Coppe del Re e 7 coppe europee...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.625704,
+                    39.495526
+                ]
+            },
+            "properties": {
+                "entity": "Ricardo Tormo",
+                "name_location": "Circuit Ricardo Tormo, Carretera de Cheste a Loriguilla, Cheste, La Hoya de Buñol, Valencia, Comunità Valenzana, 46393, Spagna",
+                "class": "railway",
+                "type": "halt",
+                "snippet": [
+                    "...A circa 20 km da Valencia sorge l'autodromo \"Ricardo Tormo\", che ospita gare del campionato del mondo superbike, motomondiale, test di Formula 1 e altri campionati minori di auto e moto...."
+                ]
+            }
+        }
+    ]
+}
