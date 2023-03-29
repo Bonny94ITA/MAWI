@@ -56,7 +56,6 @@ def save_results(features: list, path_results: str, title_page: str):
 
     geojson = FeatureCollection(features)
 
-    # TODO: CAMBIARE PATH A TUTTI E 3!
     results_path = path_results+"/"+title_page+".geojson" 
     results_cleaned_path = path_results+"/"+title_page+"_cleaned.geojson"
     results_outliers_path = path_results+"/"+title_page+"_outliers.geojson"
@@ -85,7 +84,7 @@ def save_results(features: list, path_results: str, title_page: str):
     #    json.dump(geojson_outliers, f, ensure_ascii=False, indent=4)
     #    print("The result outliers has been saved as a file inside the response folder")
 
-def get_polygon(name: str):
+def get_polygon(name: str): # TODO: DELETE
     """ Get the polygon of the location using wikidata API.
 
     Args:
@@ -129,7 +128,7 @@ def get_polygon(name: str):
 
     return feature
 
-def get_entity_id(name: str, lang: str = "it"):
+def get_entity_id(name: str, lang: str = "it"): # TODO: DELETE
     """ Get the entity id of the location using wikidata API.
     
     Args:

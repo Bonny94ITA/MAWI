@@ -3881,15 +3881,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.216383,
-                    45.446063
+                    9.250661,
+                    45.463786
                 ]
             },
             "properties": {
                 "entity": "E64",
-                "name_location": "Milano Porta Romana, Umbria - Molise, Municipio 4, Milano, Lombardia, 20139, Italia",
+                "name_location": "Tangenziale Est, Quartiere Forlanini, Municipio 4, Monluè, Milano, Lombardia, 20134, Italia",
                 "class": "highway",
-                "type": "footway",
+                "type": "motorway_link",
                 "snippet": [
                     "*...La città è lambita dagli itinerari europei E35, E62 ed E64...."
                 ]
@@ -3905,19 +3905,12 @@
                 ]
             },
             "properties": {
-                "entity": "Ovest",
+                "entity": "Ovest (A50)",
                 "name_location": "Tangenziale Ovest di Milano, Parco delle Abbazie, Municipio 5, Quintosole, Milano, Lombardia, 20072, Italia",
                 "class": "highway",
                 "type": "motorway",
                 "snippet": [
-                    "...Milano occupa un'area di 181,67 km² nella parte occidentale della Lombardia, situata a 25 km a est del fiume Ticino, a 25 km a ovest del fiume Adda, a 35 km a nord del fiume Po e a 50 km a sud del lago di Como, lungo la cosiddetta \"fascia delle risorgive\", laddove vi è l'incontro, nel sottosuolo, tra strati geologici a differente permeabilità, aspetto che permette alle acque profonde di riaffiorare in superficie....",
-                    "...Considerando il periodo che va dagli anni sessanta agli anni novanta del XX secolo, la \"media nivometrica\" della città di Milano (ovvero i centimetri totali medi annui di accumulo nevoso) è più bassa di quella di alcune città del nord-ovest e dell'Emilia (come Piacenza, Parma, Bologna, Torino), ma più elevata di altre città del nord-est (come Udine, Verona, Venezia), fermandosi a  annui in città....",
-                    "...Un'ampia parte del territorio, a est, sud e ovest, è invece compresa nel Parco agricolo Sud Milano, una vasta area a carattere naturalistico e agricolo che circonda la città dai tre lati....",
-                    "...Milano è un importante nodo stradale e autostradale, punto di congiunzione della grande trasversale padana est-ovest (la A4, Torino - Trieste) con la dorsale nord-sud (la A1, per Bologna, Firenze, Roma e Napoli)....",
-                    "...Le autostrade sono collegate fra loro dal sistema delle tre tangenziali, la Ovest (A50), la Est (A51) e la Nord (A52), con una lunghezza complessiva di 74,4 km....",
-                    "...A7 direzione Genova: Barriera Milano Ovest ;...",
-                    "...Fulcro del servizio è il passante ferroviario, una galleria di 9 km che attraversa la città da nord-ovest a sud-est e che è costituita da otto stazioni ferroviarie sotterranee, offrendo numerosi punti d'interscambio con la metropolitana e i trasporti urbani....",
-                    "...Rispetto alla Milano odierna, quella napoleonica era più espansa a sud-est e meno a nord-ovest (i nove comuni \"censuari\" che non facevano parte della Milano napoleonica ma che appartengono alla Milano odierna sono Bruzzano, Baggio, Assiano, Muggiano, Vialba, Roserio, Cassina Triulza, Figino e Quinto Romano)...."
+                    "...Le autostrade sono collegate fra loro dal sistema delle tre tangenziali, la Ovest (A50), la Est (A51) e la Nord (A52), con una lunghezza complessiva di 74,4 km...."
                 ]
             }
         },
@@ -3931,19 +3924,12 @@
                 ]
             },
             "properties": {
-                "entity": "Est",
+                "entity": "Est (A51)",
                 "name_location": "Tangenziale Est, Parco Lambro - Cimiano, Municipio 3, Milano, Lombardia, 20132, Italia",
                 "class": "highway",
                 "type": "motorway",
                 "snippet": [
-                    "...Milano occupa un'area di 181,67 km² nella parte occidentale della Lombardia, situata a 25 km a est del fiume Ticino, a 25 km a ovest del fiume Adda, a 35 km a nord del fiume Po e a 50 km a sud del lago di Como, lungo la cosiddetta \"fascia delle risorgive\", laddove vi è l'incontro, nel sottosuolo, tra strati geologici a differente permeabilità, aspetto che permette alle acque profonde di riaffiorare in superficie....",
-                    "...Un'ampia parte del territorio, a est, sud e ovest, è invece compresa nel Parco agricolo Sud Milano, una vasta area a carattere naturalistico e agricolo che circonda la città dai tre lati....",
-                    "...A est della città, presso l'Aeroporto di Linate, nel territorio dei comuni di Segrate e Peschiera Borromeo, si trova l'Idroscalo di Milano, un vasto bacino artificiale scavato nel 1928-1930 per l'ammaraggio e il decollo degli idrovolanti, e riconvertito già nel 1934 ad area per gare e attività sportive e uso balneare pubblico....",
-                    "...Milano è un importante nodo stradale e autostradale, punto di congiunzione della grande trasversale padana est-ovest (la A4, Torino - Trieste) con la dorsale nord-sud (la A1, per Bologna, Firenze, Roma e Napoli)....",
-                    "...Le autostrade sono collegate fra loro dal sistema delle tre tangenziali, la Ovest (A50), la Est (A51) e la Nord (A52), con una lunghezza complessiva di 74,4 km....",
-                    "...A4 direzione Venezia: Barriera Milano Est ;...",
-                    "...Fulcro del servizio è il passante ferroviario, una galleria di 9 km che attraversa la città da nord-ovest a sud-est e che è costituita da otto stazioni ferroviarie sotterranee, offrendo numerosi punti d'interscambio con la metropolitana e i trasporti urbani....",
-                    "...Rispetto alla Milano odierna, quella napoleonica era più espansa a sud-est e meno a nord-ovest (i nove comuni \"censuari\" che non facevano parte della Milano napoleonica ma che appartengono alla Milano odierna sono Bruzzano, Baggio, Assiano, Muggiano, Vialba, Roserio, Cassina Triulza, Figino e Quinto Romano)...."
+                    "...Le autostrade sono collegate fra loro dal sistema delle tre tangenziali, la Ovest (A50), la Est (A51) e la Nord (A52), con una lunghezza complessiva di 74,4 km...."
                 ]
             }
         },
@@ -3952,27 +3938,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.204697,
-                    45.444341
+                    9.262937,
+                    45.531938
                 ]
             },
             "properties": {
-                "entity": "Nord",
-                "name_location": "Nord, Via Giovanni Lorenzini, Scalo Romana, Municipio 5, Milano, Lombardia, 20135, Italia",
-                "class": "building",
-                "type": "yes",
+                "entity": "Nord (A52)",
+                "name_location": "Tangenziale Nord di Milano, Parpagliona, Cassina de' Gatti, Sesto San Giovanni, Zona Omogenea Milano Nord, Milano, Lombardia, 20093, Italia",
+                "class": "highway",
+                "type": "motorway",
                 "snippet": [
-                    "...Milano occupa un'area di 181,67 km² nella parte occidentale della Lombardia, situata a 25 km a est del fiume Ticino, a 25 km a ovest del fiume Adda, a 35 km a nord del fiume Po e a 50 km a sud del lago di Como, lungo la cosiddetta \"fascia delle risorgive\", laddove vi è l'incontro, nel sottosuolo, tra strati geologici a differente permeabilità, aspetto che permette alle acque profonde di riaffiorare in superficie....",
-                    "...Considerando il periodo che va dagli anni sessanta agli anni novanta del XX secolo, la \"media nivometrica\" della città di Milano (ovvero i centimetri totali medi annui di accumulo nevoso) è più bassa di quella di alcune città del nord-ovest e dell'Emilia (come Piacenza, Parma, Bologna, Torino), ma più elevata di altre città del nord-est (come Udine, Verona, Venezia), fermandosi a  annui in città....",
-                    "...Nel breve periodo bizantino potrebbe essere stata elevata a capitale della diocesi italiana (Italia del Nord), anche se di questo fatto non sono presenti prove documentali certe....",
-                    "...Nella zona nord del territorio comunale è posto il Parco Nord, a carattere sovracomunale....",
-                    "...Milano è un importante nodo stradale e autostradale, punto di congiunzione della grande trasversale padana est-ovest (la A4, Torino - Trieste) con la dorsale nord-sud (la A1, per Bologna, Firenze, Roma e Napoli)....",
-                    "...Le autostrade sono collegate fra loro dal sistema delle tre tangenziali, la Ovest (A50), la Est (A51) e la Nord (A52), con una lunghezza complessiva di 74,4 km....",
-                    "...A8 direzione Varese: Barriera Milano Nord ;...",
-                    "...Milano è centro della rete delle Ferrovie Nord Milano, a carattere regionale, che hanno capolinea alla stazione Cadorna....",
-                    "...Fulcro del servizio è il passante ferroviario, una galleria di 9 km che attraversa la città da nord-ovest a sud-est e che è costituita da otto stazioni ferroviarie sotterranee, offrendo numerosi punti d'interscambio con la metropolitana e i trasporti urbani....",
-                    "...Inoltre, inglobato entro l'area urbana della periferia nord, vi è il piccolo Aeroporto turistico di Bresso....",
-                    "...Rispetto alla Milano odierna, quella napoleonica era più espansa a sud-est e meno a nord-ovest (i nove comuni \"censuari\" che non facevano parte della Milano napoleonica ma che appartengono alla Milano odierna sono Bruzzano, Baggio, Assiano, Muggiano, Vialba, Roserio, Cassina Triulza, Figino e Quinto Romano)...."
+                    "...Le autostrade sono collegate fra loro dal sistema delle tre tangenziali, la Ovest (A50), la Est (A51) e la Nord (A52), con una lunghezza complessiva di 74,4 km...."
                 ]
             }
         },

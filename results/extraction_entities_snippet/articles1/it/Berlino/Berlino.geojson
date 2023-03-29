@@ -593,7 +593,7 @@
                 ]
             },
             "properties": {
-                "entity": "Siegessäule",
+                "entity": "Siegessäule (Colonna della Vittoria)",
                 "name_location": "Colonna della Vittoria, Großer Stern, Botschaftsviertel, Tiergarten, Mitte, Berlino, 10785, Germania",
                 "class": "tourism",
                 "type": "attraction",
@@ -1502,8 +1502,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.412516,
-                    52.524016
+                    13.416715,
+                    52.522059
                 ]
             },
             "properties": {
@@ -1875,6 +1875,26 @@
                 "type": "department_store",
                 "snippet": [
                     "...Il Kaufhaus des Westens (\"grande magazzino dell'ovest\"), è un grande magazzino di Berlino con un assortimento sofisticato e di lusso...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.239814,
+                    52.514585
+                ]
+            },
+            "properties": {
+                "entity": "Olympiastadion (Stadio olimpico)",
+                "name_location": "Olympiastadion Berlin, 3, Olympischer Platz, Westend, Charlottenburg-Wilmersdorf, Berlino, 14053, Germania",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "...Tra le numerose altre località integrate – alle quali Berlino deve il soprannome \"Città dei cento villaggi\" – risulta anche la maggior parte dei quartieri residenziali eleganti, quelli più periferici e anche quelli più vicini come Grunewald ai margini dell'omonima foresta, o Westend, dove dal 1926 si trova la Funkturm (Torre della radio), e dal 1936 l'Olympiastadion (Stadio olimpico)....",
+                    "...L'Olympiastadion (Stadio olimpico) del 1936 è stato restaurato e modernizzato completamente prima dei mondiali di calcio del 2006...."
                 ]
             }
         },

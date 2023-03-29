@@ -1,8 +1,8 @@
 from src.model import create_model, create_geocoder
-from src.preprocessing import get_context, create_directory
+from src.preprocessing import create_directory
 from src.entities import get_entities_snippet
 from src.location import search_entities_geopy, get_geographic_scope
-from src.utils import save_results, get_further_information, read_article
+from src.utils import save_results, read_article
 
 from datetime import datetime
 
@@ -12,8 +12,11 @@ path_articles2 = f'input/articles2/it/texts/'
 
 path_results = f'results/extraction_entities_snippet/'
 
-titles_articles = [("Atene", "it"), ("Barcellona", "it")]
+titles_articles = [("Napoli", "it"), ("New York", "it"), ("Oslo", "it"), ("Parigi", "it"), ("Praga", "it")]
 
+#titles_articles = [("Riga", "it"), ("Roma", "it"), ("San Pietroburgo", "it"), ("Siviglia", "it"), ("Sofia", "it"), ("Stoccolma", "it")]
+
+#titles_articles = [("Tallinn", "it"), ("Torino", "it"), ("Toronto", "it"), ("Valencia", "it"), ("Vancouver", "it"), ("Venezia", "it"), ("Vienna", "it"), ("Vilnius", "it"), ("Washington", "it")]
 
 model_it = create_model("it")
 model_en = create_model("en")
