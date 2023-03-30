@@ -6,44 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.509454,
-                    54.245254
-                ]
-            },
-            "properties": {
-                "entity": "Nioman",
-                "name_location": "вуліца Нармандыя-Нёман, Барысаў, Барысаўскі раён, Мінская вобласць, 222517, Bielorussia",
-                "class": "highway",
-                "type": "tertiary",
-                "snippet": [
-                    "*...La città di Minsk si trova sul versante sud-orientale dei Colli di Minsk, una regione collinare che va dal sud-ovest, corso superiore del fiume Nioman, al nord-est, fino al lago Lukomskaje...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    27.551183,
-                    53.890566
-                ]
-            },
-            "properties": {
-                "entity": "Minsk-Pasažyrski",
-                "name_location": "Мінск-Пасажырскі, 5, Прывакзальная плошча, Уборкі, Кастрычніцкі раён, Minsk, 220006, Bielorussia",
-                "class": "building",
-                "type": "train_station",
-                "snippet": [
-                    "*...Dalla rinnovata stazione centrale Minsk-Pasažyrski, (sita nella centralissima Plošad Lenina - Piazza Lenin), partono ogni giorno numerosi treni internazionali che sovente coprono distanze notevoli, come ad esempio Irkutsk (in Siberia)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     27.556941,
                     53.902629
                 ]

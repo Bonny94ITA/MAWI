@@ -376,8 +376,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.33719,
-                    50.816277
+                    4.336109,
+                    50.816537
                 ]
             },
             "properties": {
@@ -509,8 +509,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.362589,
-                    50.846821
+                    4.364388,
+                    50.846446
                 ]
             },
             "properties": {
@@ -998,7 +998,7 @@
             },
             "properties": {
                 "entity": "Town Hall",
-                "name_location": "Town Hall, Avenue de l'Astronomie - Sterrenkundelaan, Pentagon, Brussels, Saint-Josse-ten-Noode - Sint-Joost-ten-Node, Brussels-Capital, 1210, Belgium",
+                "name_location": "Town Hall, Avenue de l'Astronomie - Sterrenkundelaan, Brussels, Saint-Josse-ten-Noode - Sint-Joost-ten-Node, Brussels-Capital, 1210, Belgium",
                 "class": "tourism",
                 "type": "information",
                 "snippet": [
@@ -1050,15 +1050,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.371512,
-                    50.827692
+                    4.371633,
+                    50.827714
                 ]
             },
             "properties": {
                 "entity": "Place Eugène Flagey/Eugène Flageyplein",
                 "name_location": "Place Eugène Flagey - Eugène Flageyplein, Flagey, Ixelles - Elsene, Brussels-Capital, 1050, Belgium",
                 "class": "highway",
-                "type": "secondary",
+                "type": "service",
                 "snippet": [
                     "...Art Deco structures in Brussels include the Résidence Palace (1927) (now part of the Europa building), the Centre for Fine Arts (1928), the Villa Empain (1934), the Town Hall of Forest (1938), and the Flagey Building (formerly known as the Maison de la Radio) on the Place Eugène Flagey/Eugène Flageyplein (1938) in Ixelles...."
                 ]
@@ -1133,7 +1133,7 @@
             },
             "properties": {
                 "entity": "Finance Tower",
-                "name_location": "Finance Tower, 50, Boulevard du Jardin Botanique - Kruidtuinlaan, Pentagon, Brussels, Brussels-Capital, 1010, Belgium",
+                "name_location": "Finance Tower, 50, Boulevard du Jardin Botanique - Kruidtuinlaan, Brussels, Brussels-Capital, 1010, Belgium",
                 "class": "office",
                 "type": "government",
                 "snippet": [
@@ -1368,7 +1368,7 @@
             },
             "properties": {
                 "entity": "Botanique",
-                "name_location": "Botanique - Kruidtuin, Tunnel Botanique - Kruidtuintunnel, Pentagon, Brussels, Saint-Josse-ten-Noode - Sint-Joost-ten-Node, Brussels-Capital, 1210, Belgium",
+                "name_location": "Botanique - Kruidtuin, Tunnel Botanique - Kruidtuintunnel, Brussels, Saint-Josse-ten-Noode - Sint-Joost-ten-Node, Brussels-Capital, 1210, Belgium",
                 "class": "railway",
                 "type": "tram_stop",
                 "snippet": [
@@ -1514,13 +1514,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.359665,
-                    50.837515
+                    4.361292,
+                    50.838202
                 ]
             },
             "properties": {
                 "entity": "Avenue de la Toison d'Or/Gulden-Vlieslaan",
-                "name_location": "Avenue de la Toison d'Or - Gulden-Vlieslaan, Pentagon, Brussels, Brussels-Capital, 1049, Belgium",
+                "name_location": "Avenue de la Toison d'Or - Gulden-Vlieslaan, Brussels, Brussels-Capital, 1049, Belgium",
                 "class": "highway",
                 "type": "primary",
                 "snippet": [
@@ -1533,13 +1533,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.356538,
-                    50.834472
+                    4.35763,
+                    50.833006
                 ]
             },
             "properties": {
                 "entity": "Avenue Louise/Louizalaan",
-                "name_location": "Avenue Louise - Louizalaan, Pentagon, Brussels, Brussels-Capital, 1060, Belgium",
+                "name_location": "Avenue Louise - Louizalaan, Brussels, Brussels-Capital, 1049, Belgium",
                 "class": "highway",
                 "type": "secondary",
                 "snippet": [
@@ -1654,7 +1654,7 @@
             },
             "properties": {
                 "entity": "Boulevard du Midi/Zuidlaan",
-                "name_location": "Boulevard du Midi - Zuidlaan, Dansaert, Pentagon, Brussels, Brussels-Capital, 1060, Belgium",
+                "name_location": "Boulevard du Midi - Zuidlaan, Dansaert, Brussels, Brussels-Capital, 1060, Belgium",
                 "class": "highway",
                 "type": "primary",
                 "snippet": [
@@ -2018,7 +2018,7 @@
             },
             "properties": {
                 "entity": "Chaussée de Gand",
-                "name_location": "Chaussée de Gand - Gentsesteenweg, Dansaert, Pentagon, Brussels, Brussels-Capital, 1080, Belgium",
+                "name_location": "Chaussée de Gand - Gentsesteenweg, Dansaert, Brussels, Brussels-Capital, 1080, Belgium",
                 "class": "highway",
                 "type": "tertiary",
                 "snippet": [
@@ -2069,13 +2069,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.368458,
-                    50.845604
+                    4.369019,
+                    50.845484
                 ]
             },
             "properties": {
                 "entity": "N3",
-                "name_location": "Rue de la Loi - Wetstraat, Pentagon, Brussels, Brussels-Capital, 1049, Belgium",
+                "name_location": "Rue de la Loi - Wetstraat, Brussels, Brussels-Capital, 1049, Belgium",
                 "class": "highway",
                 "type": "primary",
                 "snippet": [
@@ -2088,15 +2088,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.389928,
-                    50.830558
+                    4.393806,
+                    50.828195
                 ]
             },
             "properties": {
                 "entity": "N4",
                 "name_location": "Chaussée de Wavre - Steenweg op Waver, La Chasse - De Jacht, Etterbeek, Brussels-Capital, 1040, Belgium",
                 "class": "highway",
-                "type": "tertiary",
+                "type": "secondary",
                 "snippet": [
                     "*...Brussels is the hub of a range of national roads, the main ones being clockwise: the N1 (N to Breda), N2 (E to Maastricht), N3 (E to Aachen), N4 (SE to Luxembourg), N5 (S to Rheims), N6 (S to Maubeuge), N7 (SW to Lille), N8 (W to Koksijde) and N9 (NW to Ostend)...."
                 ]
@@ -2227,13 +2227,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.362448,
-                    50.838816
+                    4.361662,
+                    50.838541
                 ]
             },
             "properties": {
                 "entity": "R20",
-                "name_location": "R20, Pentagon, Brussels, Brussels-Capital, 1049, Belgium",
+                "name_location": "Tunnel Porte de Namur - Naamsepoorttunnel, Brussels, Brussels-Capital, 1049, Belgium",
                 "class": "highway",
                 "type": "trunk",
                 "snippet": [
@@ -2246,13 +2246,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.361292,
-                    50.838202
+                    4.36178,
+                    50.8384
                 ]
             },
             "properties": {
                 "entity": "R21 or",
-                "name_location": "Avenue de la Toison d'Or - Gulden-Vlieslaan, Pentagon, Brussels, Brussels-Capital, 1049, Belgium",
+                "name_location": "Avenue de la Toison d'Or - Gulden-Vlieslaan, Brussels, Brussels-Capital, 1049, Belgium",
                 "class": "highway",
                 "type": "primary",
                 "snippet": [
