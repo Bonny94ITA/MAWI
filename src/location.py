@@ -72,7 +72,7 @@ def search_entities_geopy(searchable_entities: dict, geographic_scope: dict, pat
         features: list of features geojson
     """
 
-    geocode = RateLimiter(locator.geocode, min_delay_seconds=3)
+    geocode = RateLimiter(locator.geocode, min_delay_seconds=2)
     name_geographic_scope = geographic_scope['name']
     bbox = geographic_scope['bbox']
     country_code = geographic_scope['country_code']
