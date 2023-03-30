@@ -2094,6 +2094,25 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.683339,
+                    45.079324
+                ]
+            },
+            "properties": {
+                "entity": "Balon",
+                "name_location": "Bar del Balon, 12/F, Via Borgo Dora, Porta Palazzo, Circoscrizione 7, Torino, Piemonte, 10152, Italia",
+                "class": "amenity",
+                "type": "cafe",
+                "snippet": [
+                    "*...Ogni sabato nei pressi si tiene il Balon, un grande Mercato all'aperto dell'usato, che la seconda domenica di ogni mese diventa Gran Balon, in cui si vendono anche oggetti di antiquariato...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.68444,
                     45.075996
                 ]
@@ -2109,25 +2128,6 @@
                     "*...Nel 2011 il regista torinese Daniele Gaglianone ha realizzato il film documentario Uomini e mercati centrato sui mercati di Porta Palazzo, Piazza Benefica e Corso Spezia....",
                     "*...Lazzaro felice. Nelle ultime settimane la regista ha girato la città focalizzando le riprese tra Galleria Umberto I, Porta Palazzo e la periferia nord....",
                     "*...Negli stessi anni Filippo Juvarra costruì i portici di porta Palazzo...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.683339,
-                    45.079324
-                ]
-            },
-            "properties": {
-                "entity": "Balon",
-                "name_location": "Bar del Balon, 12/F, Via Borgo Dora, Porta Palazzo, Circoscrizione 7, Torino, Piemonte, 10152, Italia",
-                "class": "amenity",
-                "type": "cafe",
-                "snippet": [
-                    "*...Ogni sabato nei pressi si tiene il Balon, un grande Mercato all'aperto dell'usato, che la seconda domenica di ogni mese diventa Gran Balon, in cui si vendono anche oggetti di antiquariato...."
                 ]
             }
         },
@@ -3309,8 +3309,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.685509,
-                    45.067463
+                    7.683242,
+                    45.063854
                 ]
             },
             "properties": {

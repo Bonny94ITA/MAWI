@@ -12,11 +12,11 @@ path_articles2 = f'input/articles2/it/texts/'
 
 path_results = f'results/extraction_entities_snippet/'
 
-titles_articles = [("Napoli", "it"), ("New York", "it"), ("Oslo", "it"), ("Parigi", "it"), ("Praga", "it")]
+titles_articles = [("Naples", "en"), ("New York City", "en"), ("Oslo", "en"), ("Paris", "en"), ("Prague", "en")]
 
-#titles_articles = [("Riga", "it"), ("Roma", "it"), ("San Pietroburgo", "it"), ("Siviglia", "it"), ("Sofia", "it"), ("Stoccolma", "it")]
+#titles_articles = [("Riga", "it"), ("Rome", "en"), ("Saint Petersburg", "en"), ("Seville", "en"), ("Sofia", "it"), ("Stockholm", "en")]
 
-#titles_articles = [("Tallinn", "it"), ("Torino", "it"), ("Toronto", "it"), ("Valencia", "it"), ("Vancouver", "it"), ("Venezia", "it"), ("Vienna", "it"), ("Vilnius", "it"), ("Washington", "it")]
+#titles_articles = [("Tallinn", "en"), ("Turin", "en"), ("Toronto", "en"), ("Valencia", "en"), ("Vancouver", "en"), ("Venice", "en"), ("Vienna", "en"), ("Vilnius", "en"), ("Washington", "en")]
 
 model_it = create_model("it")
 model_en = create_model("en")

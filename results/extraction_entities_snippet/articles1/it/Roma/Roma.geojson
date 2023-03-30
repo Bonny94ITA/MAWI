@@ -3970,25 +3970,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.421029,
-                    41.918132
-                ]
-            },
-            "properties": {
-                "entity": "Ospedale Cristo Re",
-                "name_location": "Ospedale Cristo Re, Via delle Calasanziane, Municipio Roma XIV, Roma, Lazio, 00167, Italia",
-                "class": "amenity",
-                "type": "hospital",
-                "snippet": [
-                    "...Ospedale Cristo Re (Primavalle) ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     12.413633,
                     41.947743
                 ]
@@ -5471,13 +5452,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.572442,
-                    41.907357
+                    12.539936,
+                    41.89922
                 ]
             },
             "properties": {
                 "entity": "Strada",
-                "name_location": "Strada dei Parchi, Collatino, Roma, Lazio, 00155, Italia",
+                "name_location": "Strada dei Parchi, Collatino, Roma, Lazio, 00159, Italia",
                 "class": "highway",
                 "type": "motorway",
                 "snippet": [
@@ -5532,13 +5513,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.532677,
-                    41.901134
+                    12.531935,
+                    41.901151
                 ]
             },
             "properties": {
                 "entity": "A24/A25",
-                "name_location": "Strada dei Parchi, Tiburtino, Roma, Lazio, 00159, Italia",
+                "name_location": "A24, Tiburtino, Roma, Lazio, 00159, Italia",
                 "class": "highway",
                 "type": "motorway",
                 "snippet": [
