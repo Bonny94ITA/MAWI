@@ -21,7 +21,7 @@ path_articles2_titles = f'input/articles2/articles2_title.txt'
 
 path_results = f'results/extraction_entities_snippet/'
 
-titles_articles = read_titles(path_articles1_titles, lang)
+titles_articles = read_titles(path_articles1_titles, lang) # TODO: SONO ARRIVATA A MONACO!!!
 
 model = create_model(lang, trf)
 

@@ -134,13 +134,27 @@ def check_well_formed(ent: Span):
             print("prima: ", ent)
             nbor = ent[-1].nbor()
             doc = ent.doc 
-            
-            while nbor.text != "\"":
+            count = 5
+            while nbor.text != "\"" and count > 0:
                 nbor = nbor.nbor()
-            
-            nbor = nbor.nbor()
-            start_ent = ent.start
-            end_ent = nbor.i
+                count = count - 1
+
+            if count == 0: 
+                count = 5
+                nbor = ent[0].nbor(-1)
+                while nbor.text != "\"" and count > 0:
+                    nbor = nbor.nbor(-1)
+                    count = count - 1
+
+                if count == 0:
+                    print("NOT FOUND")
+                else:
+                    start_ent = nbor.i
+                    end_ent = ent.end
+            else: 
+                nbor = nbor.nbor()
+                start_ent = ent.start
+                end_ent = nbor.i
 
             span = doc[start_ent: end_ent]
             new_ent = span.char_span(0, len(span.text), label=ent.label_)
@@ -214,19 +228,21 @@ def clean_entities_to_search(entities_to_search: dict, entities_to_search_pos: d
 
     for i in range(len(entities)):
         for j in range(i+1, len(entities)):
-            if entities[i].lower() == entities[j].lower() or entities[i].lower() in entities[j].lower() or entities[j].lower() in entities[i].lower():
-                if entities[i] > entities[j]:
-                    entities_to_delete.append((entities[i], entities[j]))
-                else: 
+            if (entities[i].lower() == entities[j].lower()) or (entities[i].lower().__contains__(entities[j].lower())) or (entities[j].lower().__contains__(entities[i].lower())):
+                if len(entities[i]) > len(entities[j]):
                     entities_to_delete.append((entities[j], entities[i]))
+                else: 
+                    entities_to_delete.append((entities[i], entities[j]))
 
     for (entity_w, entity_r) in entities_to_delete:
         # merge snippet
-        for snippet in entities_to_search[entity_w]:
-            if snippet not in entities_to_search[entity_r] and "*"+snippet not in entities_to_search[entity_r]:
-                entities_to_search[entity_r].append(snippet)
-        del entities_to_search[entity_w]
+        if entity_r in entities_to_search and entity_w in entities_to_search:
+            for snippet in entities_to_search[entity_w]:
+                if snippet not in entities_to_search[entity_r] and "*"+snippet not in entities_to_search[entity_r]:
+                    entities_to_search[entity_r].append(snippet)
+            del entities_to_search[entity_w]
 
+    print("DA ELIMINARE: ", entities_to_delete)
     entities_to_delete = []
     # delete entities that are nouns or adjectives
     for entity in entities_to_search:

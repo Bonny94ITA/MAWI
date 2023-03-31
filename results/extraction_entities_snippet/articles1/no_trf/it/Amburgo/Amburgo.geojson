@@ -1,0 +1,1214 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.984206,
+                    53.541292
+                ]
+            },
+            "properties": {
+                "entity": "Elbe",
+                "name_location": "Elbphilharmonie, 1, Platz der Deutschen Einheit, Quartier Am Sandtorkai/Dalmannkai, HafenCity, Hamburg-Mitte, Amburgo, 20457, Germania",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Amburgo sorge sulle rive del fiume Elba (Elbe in tedesco) nel nordovest della Germania...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.98658,
+                    53.56409
+                ]
+            },
+            "properties": {
+                "entity": "Niedersachsen",
+                "name_location": "Provinzialloge von Niedersachsen, 36, Moorweidenstraße, Rotherbaum, Eimsbüttel, Amburgo, 20146, Germania",
+                "class": "building",
+                "type": "apartments",
+                "snippet": [
+                    "*...È una città-Stato (Stadtstaat), situata fra i Länder della Bassa Sassonia (Niedersachsen) e lo Schleswig-Holstein...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.879821,
+                    53.62662
+                ]
+            },
+            "properties": {
+                "entity": "Schleswig-Holstein",
+                "name_location": "Schleswig-Holstein, A 23, Eidelstedt, Eimsbüttel, Rellingen, Kreis Pinneberg, Schleswig-Holstein, 25462, Germania",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...È una città-Stato (Stadtstaat), situata fra i Länder della Bassa Sassonia (Niedersachsen) e lo Schleswig-Holstein....",
+                    "*...Amburgo confina con trenta comuni, di cui ventidue nello Schleswig-Holstein e otto nella Bassa Sassonia:...",
+                    "...Schleswig-Holstein:...",
+                    "*...Presenta inoltre evidenti influenze della cucina della vicina regione dello Schleswig-Holstein...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.043016,
+                    53.543539
+                ]
+            },
+            "properties": {
+                "entity": "Bille",
+                "name_location": "Rudervereinigung Bille von 1896, Bei der Grünen Brücke, Rothenburgsort, Hamburg-Mitte, Amburgo, 20539, Germania",
+                "class": "leisure",
+                "type": "sports_centre",
+                "snippet": [
+                    "*...Amburgo si trova nel punto in cui i fiumi Alster e Bille sfociano nell'Elba, che  più a nord-ovest sfocia a sua volta nel Mare del Nord...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.977595,
+                    53.551735
+                ]
+            },
+            "properties": {
+                "entity": "Appen",
+                "name_location": "Herr von Appen, 28, Neanderstraße, Neustadt, Hamburg-Mitte, Amburgo, 20355, Germania",
+                "class": "shop",
+                "type": "hairdresser",
+                "snippet": [
+                    "*...Circondario di Pinneberg: Wedel, Appen, Pinneberg, Schenefeld, Halstenbek, Rellingen, Ellerbek e Bönningstedt ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.968327,
+                    53.585864
+                ]
+            },
+            "properties": {
+                "entity": "Pinneberg",
+                "name_location": "Grenzstein Nr. 10 Herrschaft Pinneberg, Troplowitzstraße, Hoheluft-West, Eimsbüttel, Amburgo, 20253, Germania",
+                "class": "historic",
+                "type": "boundary_stone",
+                "snippet": [
+                    "*...Circondario di Pinneberg: Wedel, Appen, Pinneberg, Schenefeld, Halstenbek, Rellingen, Ellerbek e Bönningstedt ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.854978,
+                    53.614683
+                ]
+            },
+            "properties": {
+                "entity": "Halstenbek",
+                "name_location": "Heideweg 67, 25469 Halstenbek, Heideweg, Lurup, Altona, Halstenbek, Kreis Pinneberg, Schleswig-Holstein, 25469, Germania",
+                "class": "amenity",
+                "type": "post_box",
+                "snippet": [
+                    "*...Circondario di Pinneberg: Wedel, Appen, Pinneberg, Schenefeld, Halstenbek, Rellingen, Ellerbek e Bönningstedt ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.894975,
+                    53.6321
+                ]
+            },
+            "properties": {
+                "entity": "Rellingen",
+                "name_location": "Deutsche Post, Drosselstraße, Schnelsen, Eimsbüttel, Rellingen, Kreis Pinneberg, Schleswig-Holstein, 25462, Germania",
+                "class": "amenity",
+                "type": "post_box",
+                "snippet": [
+                    "*...Circondario di Pinneberg: Wedel, Appen, Pinneberg, Schenefeld, Halstenbek, Rellingen, Ellerbek e Bönningstedt ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.974737,
+                    53.459251
+                ]
+            },
+            "properties": {
+                "entity": "Stapelfeld",
+                "name_location": "Salka Beer geb. Stapelfeld, Julius-Ludowieg-Straße, Phoenix-Viertel, Harburg, Amburgo, 21073, Germania",
+                "class": "historic",
+                "type": "memorial",
+                "snippet": [
+                    "*...Circondario di Stormarn: Tangstedt, Jersbek, Ammersbek, Ahrensburg, Stapelfeld, Barsbüttel, Oststeinbek, Glinde e Reinbek ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.151227,
+                    53.543173
+                ]
+            },
+            "properties": {
+                "entity": "Oststeinbek",
+                "name_location": "Oststeinbek, Willinghusener Weg, Glinder Straße, Billstedt, Hamburg-Mitte, Amburgo, 22117, Germania",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Circondario di Stormarn: Tangstedt, Jersbek, Ammersbek, Ahrensburg, Stapelfeld, Barsbüttel, Oststeinbek, Glinde e Reinbek ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.237973,
+                    53.480015
+                ]
+            },
+            "properties": {
+                "entity": "Börnsen",
+                "name_location": "Natur- und Geschichtspfad Bergedorf - Börnsen, Gojenbergsweg, Bergedorf, Amburgo, 21029, Germania",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...Circondario del ducato di Lauenburg: Wentorf bei Hamburg, Börnsen, Escheburg e Geesthacht ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.981433,
+                    53.567593
+                ]
+            },
+            "properties": {
+                "entity": "Winsen",
+                "name_location": "Paula Meyer geb. Winsen, Grindelhof, Rotherbaum, Eimsbüttel, Amburgo, 20146, Germania",
+                "class": "historic",
+                "type": "memorial",
+                "snippet": [
+                    "*...Circondario di Harburg: Drage, Winsen (Luhe), Stelle, Seevetal, Rosengarten e Neu Wulmstorf ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.978941,
+                    53.413351
+                ]
+            },
+            "properties": {
+                "entity": "Seevetal",
+                "name_location": "Seevetal-Fleestedt, A 7, Weide, Beckedorf, Seevetal, Harburg, Bassa Sassonia, 21218, Germania",
+                "class": "highway",
+                "type": "motorway_junction",
+                "snippet": [
+                    "*...Circondario di Harburg: Drage, Winsen (Luhe), Stelle, Seevetal, Rosengarten e Neu Wulmstorf ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.983367,
+                    53.563029
+                ]
+            },
+            "properties": {
+                "entity": "Rosengarten",
+                "name_location": "Rosengarten, Tiergartenstraße, Karolinenviertel, St. Pauli, Hamburg-Mitte, Amburgo, 20355, Germania",
+                "class": "leisure",
+                "type": "garden",
+                "snippet": [
+                    "*...Circondario di Harburg: Drage, Winsen (Luhe), Stelle, Seevetal, Rosengarten e Neu Wulmstorf ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.024294,
+                    53.551221
+                ]
+            },
+            "properties": {
+                "entity": "Hammaburg",
+                "name_location": "Hammaburg, Nordkanalstraße, Hammerbrook, Hamburg-Mitte, Amburgo, 20097, Germania",
+                "class": "building",
+                "type": "commercial",
+                "snippet": [
+                    "...La fortificazione (Hammaburg) sorgeva sul fondo di una palude fra l'Alster e l'Elba e fungeva da difesa contro le invasioni slave....",
+                    "*...Il nome del castello era Hammaburg, dove la parola burg ha il significato di castello....",
+                    "*...La parola Hamma rimane di origine incerta....",
+                    "...L'alto tedesco antico include sia la parola hamma, angolo, sia hamme, pascolo....",
+                    "*...Altre teorie sostengono che l'origine del nome del castello sia da individuarsi in un'ipotetica foresta di Hamma, o nel villaggio di Hamm, inglobato più tardi nella città....",
+                    "*...La parola Hamm come nome di località ricorre molto spesso in Germania, ma il suo significato è altrettanto incerto...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.082738,
+                    53.641168
+                ]
+            },
+            "properties": {
+                "entity": "Wellingsbüttel",
+                "name_location": "Wellingsbüttel, Rehmkoppelstieg, Wellingsbüttel, Wandsbek, Amburgo, 22391, Germania",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...I primi coloni della zona erano una società di cacciatori e raccoglitori del tardo Paleolitico superiore e del Neolitico, con diverse testimonianze archeologiche documentate nelle aree di Wellingsbüttel, Meiendorf e Rahlstedt dal 20.000 all'8000 a.C....."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.149919,
+                    53.623716
+                ]
+            },
+            "properties": {
+                "entity": "Meiendorf",
+                "name_location": "Gymnasium Meiendorf, Eismeerweg, Rahlstedt, Wandsbek, Amburgo, 22145, Germania",
+                "class": "amenity",
+                "type": "school",
+                "snippet": [
+                    "*...I primi coloni della zona erano una società di cacciatori e raccoglitori del tardo Paleolitico superiore e del Neolitico, con diverse testimonianze archeologiche documentate nelle aree di Wellingsbüttel, Meiendorf e Rahlstedt dal 20.000 all'8000 a.C....."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.848295,
+                    53.449809
+                ]
+            },
+            "properties": {
+                "entity": "Fischbeker Heide",
+                "name_location": "Fischbeker Heide, Daerstorfer Weg, Siedlung Sandbek, Neugraben-Fischbek, Harburg, Amburgo, 21149, Germania",
+                "class": "leisure",
+                "type": "nature_reserve",
+                "snippet": [
+                    "*...Nel 4000 a.C. si registrano i primi insediamenti permanenti nella zona di Fischbeker Heide...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.989757,
+                    53.544641
+                ]
+            },
+            "properties": {
+                "entity": "Europa",
+                "name_location": "Europa, Auf dem Sande, Altstadt, Hamburg-Mitte, Amburgo, 20457, Germania",
+                "class": "tourism",
+                "type": "artwork",
+                "snippet": [
+                    "*...La franchigia doganale, unita alla vicinanza alle principali rotte commerciali del Mare del Nord e del Mar Baltico, fecero in breve tempo di Amburgo il maggior porto dell'Europa settentrionale....",
+                    "*...Amburgo conobbe il suo periodo di maggior crescita durante la seconda metà del XIX secolo, quando la sua popolazione crebbe di oltre quattro volte fino a raggiungere gli 800 000 abitanti e diventando il terzo porto d'Europa grazie alle rotte commerciali sull'Atlantico....",
+                    "*...Dopo la riunificazione tedesca nel 1990 e l'ingresso di alcuni paesi dell'Europa orientale e dei Paesi Baltici all'Unione europea nel 2004, Amburgo e il suo porto cominciarono a coltivare l'ambizione di riconquistare il primato come porto per le navi da container e centro di scambi commerciali....",
+                    "*...Il più significativo contributo all'economia della città stato è costituito dal porto di Amburgo, secondo solo a quello di Rotterdam in Europa e al nono posto nel mondo con un trasporto di 9,8 milioni di TEU e 134 milioni di tonnellate di merci nel 2007....",
+                    "*...Dopo la riunificazione tedesca Amburgo ha recuperato la parte orientale del proprio hinterland, diventando di gran lunga il porto più in crescita di tutta Europa....",
+                    "*...L'industria pesante include la produzione di acciaio, alluminio e la più grande fabbrica di rame d'Europa e numerosi cantieri navali come quelli di Blohm + Voss....",
+                    "*...Amburgo ha il più grande porto tedesco, situato lungo l'Elba, e secondo porto in Europa dopo quello di Rotterdam, avendo superato quello di Anversa nel 2012....",
+                    "*...A livello ferroviario rappresenta un importante nodo, con il più grande scalo di smistamento dell'Europa, quello di Maschen, situato a sud della città....",
+                    "...In precedenza sono esistiti anche gli Hamburg Sea Devils, che militavano in NFL Europa e hanno vinto un World Bowl...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.015746,
+                    53.582936
+                ]
+            },
+            "properties": {
+                "entity": "Africa",
+                "name_location": "I.T.E.M.S. AFRICA GmbH & Co. KG, 8b, Forsmannstraße, Jarrestadt, Winterhude, Hamburg-Nord, Amburgo, 22303, Germania",
+                "class": "office",
+                "type": "company",
+                "snippet": [
+                    "*...Sotto la direzione di Albert Ballin la Hamburg America Line divenne, a cavallo del secolo, la più grande compagnia di trasporti transatlantici, e Amburgo divenne sede di numerose compagnie di trasporti diretti verso il Sud America, l'Africa, l'India e l'Asia orientale....",
+                    "*...L'Afrika-Haus, un Museo dedicato all'Africa;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.007382,
+                    53.55607
+                ]
+            },
+            "properties": {
+                "entity": "India",
+                "name_location": "The King Of India, 1, Sankt Georgs Kirchhof, St. Georg, Hamburg-Mitte, Amburgo, 20099, Germania",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...Sotto la direzione di Albert Ballin la Hamburg America Line divenne, a cavallo del secolo, la più grande compagnia di trasporti transatlantici, e Amburgo divenne sede di numerose compagnie di trasporti diretti verso il Sud America, l'Africa, l'India e l'Asia orientale...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.985212,
+                    53.545974
+                ]
+            },
+            "properties": {
+                "entity": "Asia",
+                "name_location": "Mai Asia, 43, Rödingsmarkt, Altstadt, Hamburg-Mitte, Amburgo, 20459, Germania",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...Sotto la direzione di Albert Ballin la Hamburg America Line divenne, a cavallo del secolo, la più grande compagnia di trasporti transatlantici, e Amburgo divenne sede di numerose compagnie di trasporti diretti verso il Sud America, l'Africa, l'India e l'Asia orientale...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.066741,
+                    53.571664
+                ]
+            },
+            "properties": {
+                "entity": "Wandsbek",
+                "name_location": "Wandsbek Markt, Wandsbeker Marktplatz, Wandsbek, Amburgo, 22041, Germania",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...Nel 1938 i confini della città, entrata nel novero delle c.d. Führerstadt per l'importanza giocata nel disegno politico della Germania nazista, furono estesi con l'Atto della Grande Amburgo, a includere Wandsbek, Harburg, Wilhelmsburg e Altona...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.980735,
+                    53.464733
+                ]
+            },
+            "properties": {
+                "entity": "Harburg",
+                "name_location": "Harburg, 8, Blohmstraße, Harburg, Amburgo, 21079, Germania",
+                "class": "building",
+                "type": "industrial",
+                "snippet": [
+                    "...Circondario di Harburg: Drage, Winsen (Luhe), Stelle, Seevetal, Rosengarten e Neu Wulmstorf ;...",
+                    "*...Nel 1938 i confini della città, entrata nel novero delle c.d. Führerstadt per l'importanza giocata nel disegno politico della Germania nazista, furono estesi con l'Atto della Grande Amburgo, a includere Wandsbek, Harburg, Wilhelmsburg e Altona...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.006859,
+                    53.498473
+                ]
+            },
+            "properties": {
+                "entity": "Wilhelmsburg",
+                "name_location": "Wilhelmsburg, Wilhelm-Strauß-Weg, Wilhelmsburg, Hamburg-Mitte, Amburgo, 21109, Germania",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...Nel 1938 i confini della città, entrata nel novero delle c.d. Führerstadt per l'importanza giocata nel disegno politico della Germania nazista, furono estesi con l'Atto della Grande Amburgo, a includere Wandsbek, Harburg, Wilhelmsburg e Altona...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.958307,
+                    53.54963
+                ]
+            },
+            "properties": {
+                "entity": "Reeperbahn",
+                "name_location": "Reeperbahn, St. Pauli, Hamburg-Mitte, Amburgo, 20359, Germania",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Tra il 1960 e il 1962 la rockband inglese The Beatles, allora agli esordi, si esibì in parecchi locali nel quartiere di Reeperbahn...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.01382,
+                    53.557295
+                ]
+            },
+            "properties": {
+                "entity": "Mariendom",
+                "name_location": "Am Mariendom, St. Georg, Hamburg-Mitte, Amburgo, 20099, Germania",
+                "class": "highway",
+                "type": "service",
+                "snippet": [
+                    "*...La torre centrale con una croce identifica la cattedrale medievale dedicata alla patrona della città, il Mariendom...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.007111,
+                    53.545804
+                ]
+            },
+            "properties": {
+                "entity": "Hafen",
+                "name_location": "Oberhafenstraße, Hammerbrook, Hamburg-Mitte, Amburgo, 20097, Germania",
+                "class": "highway",
+                "type": "unclassified",
+                "snippet": [
+                    "*...Il porto (Hafen), con i St. Pauli-Landungsbrücken (pontili e imbarcaderi di San Paolo);..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.970369,
+                    53.545552
+                ]
+            },
+            "properties": {
+                "entity": "St. Pauli-Landungsbrücken",
+                "name_location": "St. Pauli - Landungsbrücken, Bei den St. Pauli-Landungsbrücken, St. Pauli, Hamburg-Mitte, Amburgo, 20359, Germania",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...Il porto (Hafen), con i St. Pauli-Landungsbrücken (pontili e imbarcaderi di San Paolo);...",
+                    "*...Vicino a Landungsbrücken si trovano due velieri mercantili usati come Museo per testimoniare l'animo mercantile della città...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.082467,
+                    53.511467
+                ]
+            },
+            "properties": {
+                "entity": "St. Nikolai Kirche",
+                "name_location": "St. Nikolai-Kirche, 56, Moorfleeter Kirchenweg, Moorfleet, Bergedorf, Amburgo, 22113, Germania",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...St. Nikolai Kirche (Chiesa di San Nicola);..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.978889,
+                    53.548428
+                ]
+            },
+            "properties": {
+                "entity": "St. Michaelis",
+                "name_location": "Chiesa di San Michele, 1 A, Englische Planke, Neustadt, Hamburg-Mitte, Amburgo, 20459, Germania",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...St. Michaelis (Chiesa di San Michele);..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.978889,
+                    53.548428
+                ]
+            },
+            "properties": {
+                "entity": "Chiesa di San Michele",
+                "name_location": "Chiesa di San Michele, 1 A, Englische Planke, Neustadt, Hamburg-Mitte, Amburgo, 20459, Germania",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...St. Michaelis (Chiesa di San Michele);..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.970728,
+                    53.554062
+                ]
+            },
+            "properties": {
+                "entity": "Heiligengeistfeld",
+                "name_location": "Heiligengeistfeld, Simon-von-Utrecht-Straße, St. Pauli, Hamburg-Mitte, Amburgo, 20359, Germania",
+                "class": "amenity",
+                "type": "events_venue",
+                "snippet": [
+                    "*...Heiligengeistfeld e la piazza Millerntor;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.962988,
+                    53.549101
+                ]
+            },
+            "properties": {
+                "entity": "St. Pauli-Theater",
+                "name_location": "St. Pauli Theater, 29-30, Spielbudenplatz, St. Pauli, Hamburg-Mitte, Amburgo, 20359, Germania",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...La piazza Spielbudenplatz, con il St. Pauli-Theater;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.992231,
+                    53.548122
+                ]
+            },
+            "properties": {
+                "entity": "Trostbrücke",
+                "name_location": "Trostbrücke, Altstadt, Hamburg-Mitte, Amburgo, 20457, Germania",
+                "class": "man_made",
+                "type": "bridge",
+                "snippet": [
+                    "*...Nikolaifleet, con il Trostbrücke e la nave-Teatro Das Schiff;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.00896,
+                    53.554481
+                ]
+            },
+            "properties": {
+                "entity": "Deutsches Schauspielhaus",
+                "name_location": "Deutsches Schauspielhaus, 39, Kirchenallee, St. Georg, Hamburg-Mitte, Amburgo, 20099, Germania",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...Deutsches Schauspielhaus;...",
+                    "*...I principali teatri di prosa sono la Deutsches Schauspielhaus, la più grande sala teatrale tedesca, il prestigioso Thalia-Theater, l'Ohnsorg-Theater, lo Schmidts Tivoli e il Kampnagel...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.950564,
+                    53.554716
+                ]
+            },
+            "properties": {
+                "entity": "Altstadt",
+                "name_location": "Jugendcafé Altona Altstadt, 3, Govertsweg, Altona, Altona-Altstadt, Altona, Amburgo, 22767, Germania",
+                "class": "amenity",
+                "type": "community_centre",
+                "snippet": [
+                    "*...Distretto di Kontorhaus, parte della Altstadt, bene inserito nella lista dei Patrimoni dell'umanità dell'Unesco...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.943312,
+                    53.583536
+                ]
+            },
+            "properties": {
+                "entity": "Fazle Omar",
+                "name_location": "Fazle-Omar Moschee, 24, Wieckstraße, Stellingen, Eimsbüttel, Amburgo, 22527, Germania",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Al 2021 c'erano più di 50 moschee in città, tra cui la moschea Fazle Omar, gestita dalla Ahmadiyya, che è la più antica della città, e ospita il Centro islamico di Amburgo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.008578,
+                    53.574671
+                ]
+            },
+            "properties": {
+                "entity": "Centro islamico",
+                "name_location": "Imam-Ali-Moschee, 36, Schöne Aussicht, Uhlenhorst, Hamburg-Nord, Amburgo, 22085, Germania",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "...Al 2021 c'erano più di 50 moschee in città, tra cui la moschea Fazle Omar, gestita dalla Ahmadiyya, che è la più antica della città, e ospita il Centro islamico di Amburgo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.987119,
+                    53.557121
+                ]
+            },
+            "properties": {
+                "entity": "Universität Hamburg",
+                "name_location": "Universität Hamburg, 8, Welckerstraße, Neustadt, Hamburg-Mitte, Amburgo, 20354, Germania",
+                "class": "place",
+                "type": "house",
+                "snippet": [
+                    "*...Fra di esse la più grande è l'Università di Amburgo (Universität Hamburg)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.109597,
+                    53.569364
+                ]
+            },
+            "properties": {
+                "entity": "Universitätsbibliothek Hamburg",
+                "name_location": "Universitätsbibliothek, Helmut-Schmidt-Universität, Universität der Bundeswehr Hamburg, 85, Holstenhofweg, Jenfeld, Wandsbek, Amburgo, 22043, Germania",
+                "class": "amenity",
+                "type": "library",
+                "snippet": [
+                    "*...La più grande, con i suoi cinque milioni di volumi, è la Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky (\"Biblioteca nazionale universitaria di Amburgo Carl von Ossietzky\")...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.97726,
+                    53.459162
+                ]
+            },
+            "properties": {
+                "entity": "Archäologisches Museum Hamburg",
+                "name_location": "Archäologisches Museum Hamburg, 2, Museumsplatz, Phoenix-Viertel, Harburg, Amburgo, 21073, Germania",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Archäologisches Museum Hamburg (Museo archeologico) ;...",
+                    "...Questo biglietto permette a un adulto e tre bambini dai 6 ai 14 anni di viaggiare sull'intera rete amburghese \"Großbereich Hamburg\"....",
+                    "...Nel football americano Amburgo è rappresentata dagli Hamburg Blue Devils, squadra che ha vinto quattro volte il German Bowl e tre l'EFAF Eurobowl, e dagli Hamburg Huskies....",
+                    "...In precedenza sono esistiti anche gli Hamburg Sea Devils, che militavano in NFL Europa e hanno vinto un World Bowl....",
+                    "...Nel rugby, lo stadio della squadra cittadina, l'Hamburger Rugby Club, si trova nella Saarlandstraße, nella parte nord-orientale dell'Hamburg Stadtpark....",
+                    "...Ad Amburgo è ambientata la serie televisiva Hamburg Distretto 21...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.043603,
+                    53.584776
+                ]
+            },
+            "properties": {
+                "entity": "Museum der Arbeit",
+                "name_location": "Museum der Arbeit, Osterbekweg, Barmbek-Nord, Hamburg-Nord, Amburgo, 22305, Germania",
+                "class": "man_made",
+                "type": "pier",
+                "snippet": [
+                    "*...Museum der Arbeit (Museo del lavoro) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.988999,
+                    53.543846
+                ]
+            },
+            "properties": {
+                "entity": "Miniatur Wunderland",
+                "name_location": "Miniatur Wunderland, 2-4, Kehrwieder, Quartier Am Sandtorkai/Dalmannkai, HafenCity, Hamburg-Mitte, Amburgo, 20457, Germania",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Miniatur Wunderland (Museo dei trenini) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.934315,
+                    53.549136
+                ]
+            },
+            "properties": {
+                "entity": "Altonaer Museum",
+                "name_location": "Altonaer Museum, 23, Museumstraße, Altona, Altona-Altstadt, Altona, Amburgo, 22765, Germania",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Altonaer Museum ....",
+                    "*...Il porto naturale si estende per tutta la larghezza dell'Elba principalmente sulla riva meridionale che fronteggia i quartieri di St. Pauli e Altona....",
+                    "*...Era anche il porto più utilizzato da tedeschi e europei dell'Est per emigrare nel Nuovo Mondo e fu sede di numerose comunità di commercio da tutto il mondo (sorse ad esempio una piccola Chinatown ad Altona)....",
+                    "*...Nel 1938 i confini della città, entrata nel novero delle c.d. Führerstadt per l'importanza giocata nel disegno politico della Germania nazista, furono estesi con l'Atto della Grande Amburgo, a includere Wandsbek, Harburg, Wilhelmsburg e Altona...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.967075,
+                    53.549502
+                ]
+            },
+            "properties": {
+                "entity": "Operettenhaus",
+                "name_location": "Stage Operettenhaus, 1, Spielbudenplatz, St. Pauli, Hamburg-Mitte, Amburgo, 20359, Germania",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...V'è poi la Operettenhaus specializzata nell'operetta...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.022172,
+                    53.583301
+                ]
+            },
+            "properties": {
+                "entity": "Kampnagel",
+                "name_location": "Kampnagel, 20, Jarrestraße, Jarrestadt, Winterhude, Hamburg-Nord, Amburgo, 22303, Germania",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...I principali teatri di prosa sono la Deutsches Schauspielhaus, la più grande sala teatrale tedesca, il prestigioso Thalia-Theater, l'Ohnsorg-Theater, lo Schmidts Tivoli e il Kampnagel...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.985403,
+                    53.569934
+                ]
+            },
+            "properties": {
+                "entity": "Kammerspiele",
+                "name_location": "Hamburger Kammerspiele, 9 - 11, Hartungstraße, Rotherbaum, Eimsbüttel, Amburgo, 20146, Germania",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...Kammerspiele ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.962988,
+                    53.549101
+                ]
+            },
+            "properties": {
+                "entity": "St. Pauli Theater",
+                "name_location": "St. Pauli Theater, 29-30, Spielbudenplatz, St. Pauli, Hamburg-Mitte, Amburgo, 20359, Germania",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...St. Pauli Theater ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.981077,
+                    53.556097
+                ]
+            },
+            "properties": {
+                "entity": "Laeiszhalle",
+                "name_location": "Laeiszhalle Musikhalle Hamburg, Dammtorwall, Neustadt, Hamburg-Mitte, Amburgo, 20355, Germania",
+                "class": "amenity",
+                "type": "arts_centre",
+                "snippet": [
+                    "...La nuova Elbphilharmonie è la sala da concerto dell'Orchestra sinfonica della NDR, mentre i Symphoniker si esibiscono nella vecchia Musikhalle, oggi chiamata Laeiszhalle...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.860883,
+                    53.558165
+                ]
+            },
+            "properties": {
+                "entity": "Botanischer Garten Hamburg",
+                "name_location": "Klein Flottbek (Botanischer Garten), Ohnhorststraße, Osdorf, Altona, Amburgo, 22609, Germania",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "...All'interno del Parco si trovano diversi giardini tematici, il più grande Giardino giapponese della Germania e l'Alter Botanischer Garten Hamburg, un Giardino botanico storico che ora consiste principalmente in serre....",
+                    "*...Il Botanischer Garten Hamburg è un moderno Giardino botanico gestito dall'Università di Amburgo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.013836,
+                    53.598195
+                ]
+            },
+            "properties": {
+                "entity": "Hamburg Stadtpark",
+                "name_location": "Stadtpark-Verein Hamburg e. V., 3, Otto-Wels-Straße, Jarrestadt, Winterhude, Hamburg-Nord, Amburgo, 22303, Germania",
+                "class": "office",
+                "type": "association",
+                "snippet": [
+                    "*...Altri due importanti parchi sono l'Hamburg Stadtpark, che contiene al suo interno l'osservatorio della città, e l'Altser Park....",
+                    "*...Nel rugby, lo stadio della squadra cittadina, l'Hamburger Rugby Club, si trova nella Saarlandstraße, nella parte nord-orientale dell'Hamburg Stadtpark...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.011962,
+                    53.550474
+                ]
+            },
+            "properties": {
+                "entity": "Bezirk",
+                "name_location": "DGB Bezirk Nord, 60, Besenbinderhof, St. Georg, Hamburg-Mitte, Amburgo, 20097, Germania",
+                "class": "office",
+                "type": "union",
+                "snippet": [
+                    "...Amburgo è suddivisa in sette distretti (Bezirk):..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.00964,
+                    53.556368
+                ]
+            },
+            "properties": {
+                "entity": "Stadtteil",
+                "name_location": "Stadtteil Friseur, 23, Lange Reihe, St. Georg, Hamburg-Mitte, Amburgo, 20099, Germania",
+                "class": "shop",
+                "type": "hairdresser",
+                "snippet": [
+                    "*...I sette distretti sono suddivisi in quartieri (Stadtteil), per un totale di 105...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.495984,
+                    53.915249
+                ]
+            },
+            "properties": {
+                "entity": "Neuwerk",
+                "name_location": "Deutsche Post, Mittelweg, Neuwerk, Hamburg-Mitte, Amburgo, 27499, Germania",
+                "class": "amenity",
+                "type": "post_box",
+                "snippet": [
+                    "*...Tra questi vi sono anche tre isole nel mare del Nord, Neuwerk, Nigehörn e Scharhörn, di fronte alla costa di Cuxhaven e appartenenti al distretto di Hamburg-Mitte....",
+                    "*...Le tre isole formano amministrativamente il quartiere di Neuwerk, che prende il nome dall'unica isola abitata (36 persone al 2006)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.983473,
+                    53.553924
+                ]
+            },
+            "properties": {
+                "entity": "Hamburg-Mitte",
+                "name_location": "Kundenzentrum Hamburg-Mitte, Kaiser-Wilhelm-Straße, Neustadt, Hamburg-Mitte, Amburgo, 20355, Germania",
+                "class": "office",
+                "type": "government",
+                "snippet": [
+                    "*...Tra questi vi sono anche tre isole nel mare del Nord, Neuwerk, Nigehörn e Scharhörn, di fronte alla costa di Cuxhaven e appartenenti al distretto di Hamburg-Mitte...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.884884,
+                    53.579141
+                ]
+            },
+            "properties": {
+                "entity": "Free-Electron-Laser",
+                "name_location": "99 (Center for Free-Electron Laser Science), 99, Am Laserstrahl, Bahrenfeld, Altona, Amburgo, 22607, Germania",
+                "class": "building",
+                "type": "university",
+                "snippet": [
+                    "*...All'interno di questo centro di ricerca è presente la prima sorgente di radiazione Free-Electron-Laser nella regione dei Soft X-Ray costruita, il \"Free Electron Laser in Hamburg\" (FLASH), entrato in funzione nel 2005...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.933891,
+                    53.551653
+                ]
+            },
+            "properties": {
+                "entity": "Altes Land",
+                "name_location": "Obststand Altes Land, Paul-Nevermann-Platz, Altona-Nord, Altona, Amburgo, 22765, Germania",
+                "class": "shop",
+                "type": "greengrocer",
+                "snippet": [
+                    "*...La gastronomia di Amburgo è un'unione di diverse varianti della cucina tedesca del nord, riunendo dentro di se gli ingredienti tipici della zona come la frutta delle Altes Land e il pesce pescato nel fiume Elba...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.988152,
+                    53.633149
+                ]
+            },
+            "properties": {
+                "entity": "Hamburg-Fuhlsbüttel",
+                "name_location": "Hamburg-Fuhlsbüttel, Rahmoor, Niendorf, Fuhlsbüttel, Hamburg-Nord, Amburgo, 22335, Germania",
+                "class": "man_made",
+                "type": "monitoring_station",
+                "snippet": [
+                    "*...L'Aeroporto cittadino, sito a nord, è quello di Hamburg-Fuhlsbüttel...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.21563,
+                    53.48122
+                ]
+            },
+            "properties": {
+                "entity": "AKN",
+                "name_location": "AKN, Bleichertwiete, Bergedorf, Amburgo, 21029, Germania",
+                "class": "railway",
+                "type": "disused",
+                "snippet": [
+                    "*...AKN, R-Bahn, S-Bahn, U-Bahn) sono gestiti dalla Hamburger Verkehrsverbundes (HVV)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.017706,
+                    53.555614
+                ]
+            },
+            "properties": {
+                "entity": "HVV",
+                "name_location": "Hamburger Verkehrsverbund, 94, Steindamm, St. Georg, Hamburg-Mitte, Amburgo, 20099, Germania",
+                "class": "office",
+                "type": "transportation",
+                "snippet": [
+                    "*...AKN, R-Bahn, S-Bahn, U-Bahn) sono gestiti dalla Hamburger Verkehrsverbundes (HVV)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.033727,
+                    53.585735
+                ]
+            },
+            "properties": {
+                "entity": "Saarlandstraße",
+                "name_location": "Saarlandstraße, Barmbek-Nord, Hamburg-Nord, Amburgo, 22303, Germania",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Nel rugby, lo stadio della squadra cittadina, l'Hamburger Rugby Club, si trova nella Saarlandstraße, nella parte nord-orientale dell'Hamburg Stadtpark...."
+                ]
+            }
+        }
+    ]
+}

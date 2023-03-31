@@ -1,0 +1,1031 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.369815,
+                    43.298586
+                ]
+            },
+            "properties": {
+                "entity": "Marselha",
+                "name_location": "InterContinental Marseille – Hotel Dieu, Place du 23 Janvier 1943, Hôtel de Ville, 2e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13002, Francia",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...Marselha o Marsiho, in latino:..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.369483,
+                    43.299596
+                ]
+            },
+            "properties": {
+                "entity": "Massilia",
+                "name_location": "Massilia, Rue Saint-Antoine, Les Grands Carmes, 2e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13000, Francia",
+                "class": "amenity",
+                "type": "cafe",
+                "snippet": [
+                    "*...Massilia o Massalia;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.37951,
+                    43.294743
+                ]
+            },
+            "properties": {
+                "entity": "Massalia",
+                "name_location": "Pharmacie Massalia, Rue Halle Delacroix, Noailles, 1er Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13001, Francia",
+                "class": "amenity",
+                "type": "pharmacy",
+                "snippet": [
+                    "*...Massilia o Massalia;...",
+                    "*...I Focesi fondarono la colonia di Massalia nel 600 a.C., in un momento storico particolare, essendo la costa microasiatica minacciata dai Lidi...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.37951,
+                    43.294743
+                ]
+            },
+            "properties": {
+                "entity": "Μασσαλία",
+                "name_location": "Pharmacie Massalia, Rue Halle Delacroix, Noailles, 1er Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13001, Francia",
+                "class": "amenity",
+                "type": "pharmacy",
+                "snippet": [
+                    "*...In greco: Μασσαλία o Μασαλία) è la più grande città della Francia meridionale, capoluogo della regione Provenza-Alpi-Costa Azzurra e del dipartimento delle Bocche del Rodano, oltre che il primo porto della Francia, quarto del Mediterraneo e a livello europeo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.305072,
+                    43.279218
+                ]
+            },
+            "properties": {
+                "entity": "Focea",
+                "name_location": "Le Phocea, Quai du Port Île Ratonneau, Isole delle Frioul, 7e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13007, Francia",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...È soprannominata in francese la cité phocéenne (la città focese), perché fu fondata nel 600 a.C. da marinai greci originari di Focea, l'attuale Foça (un toponimo sito a 60 km nord-ovest di Smirne, in Turchia) e \"focesi\" vengono ancora detti i suoi abitanti....",
+                    "*...La città di Focea quindi sostanzialmente si divise tra sostenitori e oppositori, questi ultimi andando a rinfoltire le file dei primi coloni Masalioti....",
+                    "*...Circa trentacinque anni dopo Focea venne conquistata dai persiani...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.38152,
+                    43.303167
+                ]
+            },
+            "properties": {
+                "entity": "مرسيليا",
+                "name_location": "Stazione di Marsiglia-Saint-Charles, Boulevard Maurice Bourdet, Belsunce, 1er Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13001, Francia",
+                "class": "building",
+                "type": "train_station",
+                "snippet": [
+                    "*...Per curiosità l'arabo Marsīliyā (مرسيليا) deriva da marsa, \"porto\"...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.376315,
+                    43.300444
+                ]
+            },
+            "properties": {
+                "entity": "Etoile",
+                "name_location": "Rue de l'Étoile, Belsunce, 1er Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13001, Francia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...È bagnata dal Mediterraneo a ovest e a sud, racchiusa da un anfiteatro di alture calcaree formato dal massiccio dell'Estaque e dell'Etoile a nord, dal massiccio del Garlaban a est, dal massiccio del Saint-Cyr e dal monte Puget a sud-est, il massiccio del Marseilleveyre a sud...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.423055,
+                    43.32936
+                ]
+            },
+            "properties": {
+                "entity": "Garlaban",
+                "name_location": "Le Garlaban, Traverse des Bonnets, La Rose, 13e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13013, Francia",
+                "class": "amenity",
+                "type": "social_facility",
+                "snippet": [
+                    "*...È bagnata dal Mediterraneo a ovest e a sud, racchiusa da un anfiteatro di alture calcaree formato dal massiccio dell'Estaque e dell'Etoile a nord, dal massiccio del Garlaban a est, dal massiccio del Saint-Cyr e dal monte Puget a sud-est, il massiccio del Marseilleveyre a sud...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.417264,
+                    43.27968
+                ]
+            },
+            "properties": {
+                "entity": "Saint-Cyr",
+                "name_location": "Le Saint-Cyr, Boulevard de Pont de Vivaux, Pont-de-Vivaux, 10e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13010, Francia",
+                "class": "amenity",
+                "type": "bar",
+                "snippet": [
+                    "*...È bagnata dal Mediterraneo a ovest e a sud, racchiusa da un anfiteatro di alture calcaree formato dal massiccio dell'Estaque e dell'Etoile a nord, dal massiccio del Garlaban a est, dal massiccio del Saint-Cyr e dal monte Puget a sud-est, il massiccio del Marseilleveyre a sud...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.38504,
+                    43.263017
+                ]
+            },
+            "properties": {
+                "entity": "Huveaune",
+                "name_location": "Sentier Pédestre de l'Huveaune, Saint-Giniez, 8e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13008, Francia",
+                "class": "highway",
+                "type": "track",
+                "snippet": [
+                    "*...L'area metropolitana marsigliese è bagnata dal fiume Huveaune e dal suo affluente Jarret....",
+                    "*...Il fiume cittadino si chiama Huveaune...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.398194,
+                    43.276927
+                ]
+            },
+            "properties": {
+                "entity": "Jarret",
+                "name_location": "Boulevard Rabatau, Le Rouet, 8e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13008, Francia",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...L'area metropolitana marsigliese è bagnata dal fiume Huveaune e dal suo affluente Jarret...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.30675,
+                    43.278879
+                ]
+            },
+            "properties": {
+                "entity": "Frioul",
+                "name_location": "Frioul, Quai du Port Île Ratonneau, Isole delle Frioul, 7e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13007, Francia",
+                "class": "amenity",
+                "type": "ferry_terminal",
+                "snippet": [
+                    "*...Al largo di Marsiglia si staglia l'arcipelago delle Frioul, formato da quattro isole....",
+                    "*...Il Castello d'If (le Château d'If), ex carcere che si trova sull'isola di Riou davanti Marsiglia in cui viene incarcerato il conte di Montecristo nell'omonimo romanzo di Alexandre Dumas;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.395439,
+                    43.275702
+                ]
+            },
+            "properties": {
+                "entity": "Franchi",
+                "name_location": "Pharmacie Franchi, Rue du Rouet, Le Rouet, 8e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13008, Francia",
+                "class": "amenity",
+                "type": "pharmacy",
+                "snippet": [
+                    "*...Nel 536 d.C. la Provenza è annessa al territorio dei Franchi, e la città torna a essere un importante nodo commerciale...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.384503,
+                    43.285654
+                ]
+            },
+            "properties": {
+                "entity": "Napoli",
+                "name_location": "Massena di Napoli, Avenue Jules Cantini, Castellane, 6e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13006, Francia",
+                "class": "amenity",
+                "type": "fast_food",
+                "snippet": [
+                    "*...Le ricchezze della città diminuirono ancora di più quando venne saccheggiata e depredata dagli Aragonesi di Alfonso V nel 1423, che, di ritorno da Napoli con la sua flotta, volle punire i marsigliesi per l'appoggio navale dato a Luigi III d'Angiò...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.326549,
+                    43.280459
+                ]
+            },
+            "properties": {
+                "entity": "Château d'If",
+                "name_location": "Château d'If, Chemin de Saint-Estève, Isole delle Frioul, 7e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13007, Francia",
+                "class": "amenity",
+                "type": "ferry_terminal",
+                "snippet": [
+                    "*...Come risultato della visita, venne costruita la fortezza di Château d'If, il che contribuì qualche anno dopo a impedire che Marsiglia venisse assediata dalle truppe del Sacro Romano Impero....",
+                    "*...Il Castello d'If (le Château d'If), ex carcere che si trova sull'isola di Riou davanti Marsiglia in cui viene incarcerato il conte di Montecristo nell'omonimo romanzo di Alexandre Dumas;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.366919,
+                    43.29674
+                ]
+            },
+            "properties": {
+                "entity": "Saint-Jean",
+                "name_location": "Avenue de Saint-Jean, Hôtel de Ville, 2e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13002, Francia",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Dopo la repressione di quest'ultima rivolta, Luigi XIV di Francia entrò in città, fece costruire dai suoi partigiani il forte Saint-Jean e abolì ogni privilegio amministrativo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.366644,
+                    43.326102
+                ]
+            },
+            "properties": {
+                "entity": "rue de Lyon",
+                "name_location": "Rue de Lyon, Les Crottes, 15e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13015, Francia",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Durante la seconda guerra mondiale Marsiglia venne colpita il 1º giugno 1940 da un bombardamento tedesco che causò 32 morti e una sessantina di feriti, lo stesso giorno in cui il battaglione di pompieri della marina militare, recentemente creato, lasciò la caserma temporanea nella rue de Lyon e prese possesso quella del Boulevard de Strasbourg...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.375084,
+                    43.307001
+                ]
+            },
+            "properties": {
+                "entity": "Boulevard de Strasbourg",
+                "name_location": "Boulevard de Strasbourg, Saint-Lazare, 3e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13003, Francia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Durante la seconda guerra mondiale Marsiglia venne colpita il 1º giugno 1940 da un bombardamento tedesco che causò 32 morti e una sessantina di feriti, lo stesso giorno in cui il battaglione di pompieri della marina militare, recentemente creato, lasciò la caserma temporanea nella rue de Lyon e prese possesso quella del Boulevard de Strasbourg...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.368861,
+                    43.297153
+                ]
+            },
+            "properties": {
+                "entity": "Panier",
+                "name_location": "Espace Protestant du Panier (EPP), 9, Rue Caisserie, Hôtel de Ville, 2e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13002, Francia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "...La città soffrì notevolmente dall'occupazione tedesca, soprattutto durante il rastrellamento di Marsiglia, che colpì il quartiere di Le Panier a nord del porto vecchio, che veniva considerato un «quartiere criminale» dai nazisti....",
+                    "...Le Panier, il quartiere più antico della città, affacciato sul porto;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.379401,
+                    43.293369
+                ]
+            },
+            "properties": {
+                "entity": "Rue de Rome",
+                "name_location": "Rue de Rome, Noailles, 1er Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13001, Francia",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Il 23 agosto 1944 le truppe francesi, comandate dal generale de Montsabert, entrarono in città e presero possesso della Rue de Rome a Belle-de-Mai, ma la città venne liberata dagli Alleati il 29 agosto, quando il generale de Lattre de Tassigny fece sfilare l'armée d'Afrique sulla Canebière...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.376072,
+                    43.295839
+                ]
+            },
+            "properties": {
+                "entity": "Canebière",
+                "name_location": "La Canebière, Belsunce, 1er Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13001, Francia",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Il 23 agosto 1944 le truppe francesi, comandate dal generale de Montsabert, entrarono in città e presero possesso della Rue de Rome a Belle-de-Mai, ma la città venne liberata dagli Alleati il 29 agosto, quando il generale de Lattre de Tassigny fece sfilare l'armée d'Afrique sulla Canebière....",
+                    "*...La Canebière, il viale centrale della città che un tempo collegava i campi a nord della città con il Vieux Port;...",
+                    "*...I principali campus marsigliesi si trovano a Luminy (scienze e sport), Saint-Charles (scienze e lettere), Saint-Jérôme (scienze), Château-Gombert (scienze), La Timone (medicina), Canebière (diritto ed economia) e Colbert (economia)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.369281,
+                    43.29458
+                ]
+            },
+            "properties": {
+                "entity": "Vieux Port",
+                "name_location": "Vieux-Port, Quai du Port, Hôtel de Ville, 2e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13002, Francia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Il Vieux Port (Vecchio Porto), attorno al quale la città si sviluppò durante i secoli. Simbolo di Marsiglia  de La Garde che si staglia sulla collina come per proteggerla e salutare i marinai, il Vieux Port è stato modificato nel 2013 in concomitanza con l'assegnazione di Marsiglia Capitale della Cultura: la parte centrale del Vieux Port ospita una grande struttura a specchio che protegge i passanti dalle intemperie e permette a quest'ultimi di guardarsi riflessi alzando la testa....",
+                    "*...Hôtel de Ville, sede del sindaco di Marsiglia sul Vieux Port....",
+                    "*...La Canebière, il viale centrale della città che un tempo collegava i campi a nord della città con il Vieux Port;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.366272,
+                    43.297604
+                ]
+            },
+            "properties": {
+                "entity": "Major",
+                "name_location": "École primaire privée Notre-Dame de La Major, Montée des Accoules, Hôtel de Ville, 2e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13002, Francia",
+                "class": "amenity",
+                "type": "school",
+                "snippet": [
+                    "*...La Cattedrale di Marsiglia (La Major), grande edificio neo-bizantino;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.374907,
+                    43.297665
+                ]
+            },
+            "properties": {
+                "entity": "Jardin des Vestiges",
+                "name_location": "Jardin des Vestiges, Rue du Docteur Denis Avierinos, Belsunce, 1er Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13001, Francia",
+                "class": "historic",
+                "type": "archaeological_site",
+                "snippet": [
+                    "*...Il Jardin des Vestiges (Giardino delle Vestigia), dove si trovano i resti del porto dove sbarcarono i Greci;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.369842,
+                    43.296534
+                ]
+            },
+            "properties": {
+                "entity": "Hôtel de Ville",
+                "name_location": "Hôtel de ville, Rue des Olives, Hôtel de Ville, 2e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13002, Francia",
+                "class": "amenity",
+                "type": "townhall",
+                "snippet": [
+                    "*...Hôtel de Ville, sede del sindaco di Marsiglia sul Vieux Port...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.43374,
+                    43.328577
+                ]
+            },
+            "properties": {
+                "entity": "Montecristo",
+                "name_location": "Le Montecristo, Avenue des Olives, Les Olives, 13e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13013, Francia",
+                "class": "amenity",
+                "type": "bar",
+                "snippet": [
+                    "*...Il Castello d'If (le Château d'If), ex carcere che si trova sull'isola di Riou davanti Marsiglia in cui viene incarcerato il conte di Montecristo nell'omonimo romanzo di Alexandre Dumas;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.396281,
+                    43.261439
+                ]
+            },
+            "properties": {
+                "entity": "Cité Radieuse",
+                "name_location": "Unité d'Habitation - \"Cité Radieuse\", 280, Boulevard Michelet, Sainte-Anne, 8e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13008, Francia",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...La Cité Radieuse, costruzione realizzata dall'architetto svizzero Le Corbusier (1952);..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.374747,
+                    43.301852
+                ]
+            },
+            "properties": {
+                "entity": "Porte d'Aix",
+                "name_location": "Porte d'Aix, Place Jules Guesde, Saint-Lazare, 3e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13003, Francia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Porte d'Aix, arco di trionfo del XIX secolo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.361025,
+                    43.296729
+                ]
+            },
+            "properties": {
+                "entity": "Europa",
+                "name_location": "Musée des Civilisations de l'Europe et de la Méditerranée, 7, Promenade Robert Laffont, La Joliette, 2e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13002, Francia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "...Il MuCEM, Museo delle Civiltà dell'Europa e del Mediterraneo, progettato dall'architetto Rudy Ricciotti (2013);...",
+                    "*...Le condizioni economiche e l'instabilità politica in Europa e nel resto del mondo causarono diverse ondate di immigrati durante il XX secolo:...",
+                    "*...Sin dal 2013 gli immigrati provenienti dall'Europa orientale vengono a lavorare a Marsiglia, attratti da migliori opportunità di lavoro e dal bel clima della città mediterranea....",
+                    "...Il MuCEM (Museo delle Civiltà dell'Europa e del Mediterraneo), inaugurato nel 2013, è un Museo nazionale di antropologia dedicato alle società e le culture dell'area europea e mediterranea. Le sue collezioni comprendono più di un milione di oggetti ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.436301,
+                    43.239084
+                ]
+            },
+            "properties": {
+                "entity": "Luminy",
+                "name_location": "Avenue de Luminy, Luminy, Le Redon, 9e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13009, Francia",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...I principali campus marsigliesi si trovano a Luminy (scienze e sport), Saint-Charles (scienze e lettere), Saint-Jérôme (scienze), Château-Gombert (scienze), La Timone (medicina), Canebière (diritto ed economia) e Colbert (economia)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.410929,
+                    43.331001
+                ]
+            },
+            "properties": {
+                "entity": "Saint-Jérôme",
+                "name_location": "Gymnase Scolaire Saint-Jérôme Les Lilas, Chemin du Merlan à La Rose, Saint-Jérôme, 13e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13013, Francia",
+                "class": "leisure",
+                "type": "sports_centre",
+                "snippet": [
+                    "*...I principali campus marsigliesi si trovano a Luminy (scienze e sport), Saint-Charles (scienze e lettere), Saint-Jérôme (scienze), Château-Gombert (scienze), La Timone (medicina), Canebière (diritto ed economia) e Colbert (economia)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.438039,
+                    43.353262
+                ]
+            },
+            "properties": {
+                "entity": "Château-Gombert",
+                "name_location": "Château-Gombert, Chemin de Palama, Château-Gombert, 13e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13013, Francia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...I principali campus marsigliesi si trovano a Luminy (scienze e sport), Saint-Charles (scienze e lettere), Saint-Jérôme (scienze), Château-Gombert (scienze), La Timone (medicina), Canebière (diritto ed economia) e Colbert (economia)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.39005,
+                    43.291418
+                ]
+            },
+            "properties": {
+                "entity": "École de journalisme et de communication d'Aix-Marseille",
+                "name_location": "École de journalisme et de communication d'Aix-Marseille, 21, Rue Virgile Marron, La Conception, 5e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13005, Francia",
+                "class": "amenity",
+                "type": "college",
+                "snippet": [
+                    "*...Dall'Università dipendono anche il Politecnico di Marsiglia e l'École de journalisme et de communication d'Aix-Marseille...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.369201,
+                    43.302064
+                ]
+            },
+            "properties": {
+                "entity": "Institut",
+                "name_location": "Kallisté institut, Rue de la République, Les Grands Carmes, 2e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13002, Francia",
+                "class": "shop",
+                "type": "beauty",
+                "snippet": [
+                    "*...Fra gli altri istituti d'istruzione terziaria a Marsiglia ci sono l'École pour l'informatique et les nouvelles technologies (informatica), l’Institut polytechnique des sciences avancées (ingegneria), l'École centrale de Marseille (ingegneria), l'École nationale supérieure d'architecture de Marseille (architettura), l'École supérieure des beaux-arts de Marseille (belle arti), l'École nationale supérieure maritime (navigazione), la Kedge Business School (economia e commercio) e un polo regionale dell'EHESS (economia e commercio)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.437908,
+                    43.341422
+                ]
+            },
+            "properties": {
+                "entity": "École centrale de Marseille",
+                "name_location": "École centrale de Marseille, Rue Frédéric Joliot Curie, Technopôle de Château-Gombert, 13e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13013, Francia",
+                "class": "amenity",
+                "type": "college",
+                "snippet": [
+                    "*...Fra gli altri istituti d'istruzione terziaria a Marsiglia ci sono l'École pour l'informatique et les nouvelles technologies (informatica), l’Institut polytechnique des sciences avancées (ingegneria), l'École centrale de Marseille (ingegneria), l'École nationale supérieure d'architecture de Marseille (architettura), l'École supérieure des beaux-arts de Marseille (belle arti), l'École nationale supérieure maritime (navigazione), la Kedge Business School (economia e commercio) e un polo regionale dell'EHESS (economia e commercio)....",
+                    "...Dall'Università dipendono anche il Politecnico di Marsiglia e l'École de journalisme et de communication d'Aix-Marseille...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.433719,
+                    43.229066
+                ]
+            },
+            "properties": {
+                "entity": "École nationale supérieure d'architecture de Marseille",
+                "name_location": "École Nationale Supérieure d’Architecture de Marseille, 184, Avenue de Luminy, Luminy, Le Redon, 9e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13009, Francia",
+                "class": "amenity",
+                "type": "university",
+                "snippet": [
+                    "*...Fra gli altri istituti d'istruzione terziaria a Marsiglia ci sono l'École pour l'informatique et les nouvelles technologies (informatica), l’Institut polytechnique des sciences avancées (ingegneria), l'École centrale de Marseille (ingegneria), l'École nationale supérieure d'architecture de Marseille (architettura), l'École supérieure des beaux-arts de Marseille (belle arti), l'École nationale supérieure maritime (navigazione), la Kedge Business School (economia e commercio) e un polo regionale dell'EHESS (economia e commercio)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.375881,
+                    43.23717
+                ]
+            },
+            "properties": {
+                "entity": "École nationale supérieure maritime",
+                "name_location": "École Nationale Supérieure Maritime, 39, Avenue du Corail, La Pointe-Rouge, 8e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13008, Francia",
+                "class": "amenity",
+                "type": "college",
+                "snippet": [
+                    "*...Fra gli altri istituti d'istruzione terziaria a Marsiglia ci sono l'École pour l'informatique et les nouvelles technologies (informatica), l’Institut polytechnique des sciences avancées (ingegneria), l'École centrale de Marseille (ingegneria), l'École nationale supérieure d'architecture de Marseille (architettura), l'École supérieure des beaux-arts de Marseille (belle arti), l'École nationale supérieure maritime (navigazione), la Kedge Business School (economia e commercio) e un polo regionale dell'EHESS (economia e commercio)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.375269,
+                    43.318111
+                ]
+            },
+            "properties": {
+                "entity": "Collège Saint-Mauront",
+                "name_location": "Collège privé Saint-Mauront, Rue Félix Pyat, Saint-Mauront, 3e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13003, Francia",
+                "class": "amenity",
+                "type": "school",
+                "snippet": [
+                    "*...Il Collège Saint-Mauront è una scuola cattolica con la maggioranza degli studenti di religione musulmana...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.361025,
+                    43.296729
+                ]
+            },
+            "properties": {
+                "entity": "MuCEM",
+                "name_location": "Musée des Civilisations de l'Europe et de la Méditerranée, 7, Promenade Robert Laffont, La Joliette, 2e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13002, Francia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "...Il MuCEM, Museo delle Civiltà dell'Europa e del Mediterraneo, progettato dall'architetto Rudy Ricciotti (2013);...",
+                    "*...Il MuCEM (Museo delle Civiltà dell'Europa e del Mediterraneo), inaugurato nel 2013, è un Museo nazionale di antropologia dedicato alle società e le culture dell'area europea e mediterranea. Le sue collezioni comprendono più di un milione di oggetti ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.387038,
+                    43.308826
+                ]
+            },
+            "properties": {
+                "entity": "Archives municipales",
+                "name_location": "Archives Municipales, Rue Clovis Hugues, La Belle de Mai, 3e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13003, Francia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Il Cabinet des monnaies et médailles, ospitato dagli Archives municipales, ha una collezione di circa 30 000 monete, medaglie e altri oggetti numismatici ...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.382073,
+                    43.297398
+                ]
+            },
+            "properties": {
+                "entity": "Théâtre du Gymnase",
+                "name_location": "Théâtre du Gymnase, Rue du Théâtre-Français, Thiers, 1er Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13001, Francia",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...Il Théâtre du Gymnase è un Teatro all'italiana costruito a partire dal 1804...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.372778,
+                    43.293784
+                ]
+            },
+            "properties": {
+                "entity": "quai de Rive Neuve",
+                "name_location": "Quai de Rive-Neuve, Opéra, 1er Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13001, Francia",
+                "class": "highway",
+                "type": "service",
+                "snippet": [
+                    "*...Vecchio Mercato all'ingrosso del pesce, il Teatro è stato fondato nel 1981 e ha sede sul quai de Rive Neuve...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.389287,
+                    43.279549
+                ]
+            },
+            "properties": {
+                "entity": "Cassis",
+                "name_location": "Rue de Cassis, Le Rouet, 8e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13008, Francia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Allauch, Carnoux-en-Provence, Carry-le-Rouet, Cassis, Ceyreste, Châteauneuf-les-Martigues, La Ciotat, Ensuès-la-Redonne, Gémenos, Gignac-la-Nerthe, Marignane, Marsiglia, Plan-de-Cuques, Roquefort-la-Bédoule, Le Rove, Saint-Victoret, Sausset-les-Pins, Septèmes-les-Vallons...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.341344,
+                    43.354578
+                ]
+            },
+            "properties": {
+                "entity": "Ceyreste",
+                "name_location": "Rue Ceyreste, Saint-André, 16e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13016, Francia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Allauch, Carnoux-en-Provence, Carry-le-Rouet, Cassis, Ceyreste, Châteauneuf-les-Martigues, La Ciotat, Ensuès-la-Redonne, Gémenos, Gignac-la-Nerthe, Marignane, Marsiglia, Plan-de-Cuques, Roquefort-la-Bédoule, Le Rove, Saint-Victoret, Sausset-les-Pins, Septèmes-les-Vallons...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.372882,
+                    43.296804
+                ]
+            },
+            "properties": {
+                "entity": "Saint-Victoret",
+                "name_location": "Rue Saint-Victoret, Hôtel de Ville, 2e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13002, Francia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Allauch, Carnoux-en-Provence, Carry-le-Rouet, Cassis, Ceyreste, Châteauneuf-les-Martigues, La Ciotat, Ensuès-la-Redonne, Gémenos, Gignac-la-Nerthe, Marignane, Marsiglia, Plan-de-Cuques, Roquefort-la-Bédoule, Le Rove, Saint-Victoret, Sausset-les-Pins, Septèmes-les-Vallons...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.361151,
+                    43.373266
+                ]
+            },
+            "properties": {
+                "entity": "Septèmes-les-Vallons",
+                "name_location": "Septèmes-les-Vallons Saint-Antoine, Autoroute du Soleil, Saint-Antoine, 15e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13015, Francia",
+                "class": "highway",
+                "type": "motorway_junction",
+                "snippet": [
+                    "*...Allauch, Carnoux-en-Provence, Carry-le-Rouet, Cassis, Ceyreste, Châteauneuf-les-Martigues, La Ciotat, Ensuès-la-Redonne, Gémenos, Gignac-la-Nerthe, Marignane, Marsiglia, Plan-de-Cuques, Roquefort-la-Bédoule, Le Rove, Saint-Victoret, Sausset-les-Pins, Septèmes-les-Vallons...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.477295,
+                    43.29133
+                ]
+            },
+            "properties": {
+                "entity": "Marsiglia-8",
+                "name_location": "Zara, 8, Route de la Sablière, La Valentine, 11e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13011, Francia",
+                "class": "shop",
+                "type": "clothes",
+                "snippet": [
+                    "*...Cantone di Marsiglia-8 ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.367743,
+                    43.313567
+                ]
+            },
+            "properties": {
+                "entity": "autostrada A7",
+                "name_location": "Autostrada Costiera, Arenc, 2e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13002, Francia",
+                "class": "highway",
+                "type": "motorway",
+                "snippet": [
+                    "*...Verso nord origina infatti l'autostrada A7 per Lione, verso nord-ovest l'A55 per Martigues mentre in direzione est scorre l'autostrada A50 per Aubagne....",
+                    "*...Il raccordo autostradale A507 attraversa la periferia orientale marsigliese ed unisce l'A7 con l'A50...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.366895,
+                    43.310155
+                ]
+            },
+            "properties": {
+                "entity": "A55",
+                "name_location": "Autoroute du Littoral, Arenc, 2e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13002, Francia",
+                "class": "highway",
+                "type": "motorway",
+                "snippet": [
+                    "*...Verso nord origina infatti l'autostrada A7 per Lione, verso nord-ovest l'A55 per Martigues mentre in direzione est scorre l'autostrada A50 per Aubagne...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.367743,
+                    43.313567
+                ]
+            },
+            "properties": {
+                "entity": "autostrada A50",
+                "name_location": "Autostrada Costiera, Arenc, 2e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13002, Francia",
+                "class": "highway",
+                "type": "motorway",
+                "snippet": [
+                    "*...Verso nord origina infatti l'autostrada A7 per Lione, verso nord-ovest l'A55 per Martigues mentre in direzione est scorre l'autostrada A50 per Aubagne...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.379664,
+                    43.295246
+                ]
+            },
+            "properties": {
+                "entity": "Aubagne",
+                "name_location": "Rue d'Aubagne, Noailles, 1er Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13001, Francia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Verso nord origina infatti l'autostrada A7 per Lione, verso nord-ovest l'A55 per Martigues mentre in direzione est scorre l'autostrada A50 per Aubagne...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.38152,
+                    43.303167
+                ]
+            },
+            "properties": {
+                "entity": "Marsiglia Saint-Charles",
+                "name_location": "Stazione di Marsiglia-Saint-Charles, Boulevard Maurice Bourdet, Belsunce, 1er Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13001, Francia",
+                "class": "building",
+                "type": "train_station",
+                "snippet": [
+                    "*...La stazione di Marsiglia Saint-Charles è il principale scalo ferroviario cittadino....",
+                    "*...L'attentato della stazione Saint-Charles di Marsiglia del 31 dicembre 1983 alle ore 20:09, compiuto dai terroristi della rete internazionalista e mercenaria Separat, provocò tre morti (cinque con le vittime della contemporanea esplosione sul treno TGV vicino a Tain-l'Hermitage) e 50 feriti....",
+                    "*...I principali campus marsigliesi si trovano a Luminy (scienze e sport), Saint-Charles (scienze e lettere), Saint-Jérôme (scienze), Château-Gombert (scienze), La Timone (medicina), Canebière (diritto ed economia) e Colbert (economia)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.395912,
+                    43.269835
+                ]
+            },
+            "properties": {
+                "entity": "stade Vélodrome",
+                "name_location": "Orange Vélodrome, 3, Boulevard Michelet, Saint-Giniez, 8e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13008, Francia",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...Gli sport più popolari sono il calcio (Olympique de Marseille, le cui partite si svolgono allo stade Vélodrome) e la pétanque..."
+                ]
+            }
+        }
+    ]
+}
