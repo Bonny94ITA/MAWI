@@ -8,7 +8,7 @@ from os import makedirs
 
 from src.utils import get_polygon
 
-def create_directory(dir_name, path_results, lang):
+def create_directory(dir_name: str, path_results: str, lang: str, type: str, model: bool):
     """ Create a directory for the results of the article
     
     Args:
@@ -16,8 +16,18 @@ def create_directory(dir_name, path_results, lang):
         lang: language of the article
         dir_name: name of the directory
     """
+    sub_dir = ""
+    if type == 1:
+        sub_dir = "articles1/"
+    else:
+        sub_dir = "articles2/"
 
-    path_results_article = path_results+"articles1/"+lang+"/"+dir_name
+    if model:
+        model_dir = "trf/"
+    else:
+        model_dir = "no_trf/"
+        
+    path_results_article = path_results+sub_dir+model_dir+lang+"/"+dir_name
     if not exists(path_results_article):
         makedirs(path_results_article)
     

@@ -1,14 +1,14 @@
 from src.preprocessing import fetch_article
 
-path_articles1_names = f'input/articles1/articles1_names.txt'
-path_articles2_names = f'input/articles2/articles2_names.txt'
+path_articles1_title = f'input/articles1/articles1_title.txt'
+path_articles2_title = f'input/articles2/articles2_title.txt'
 
 titles_articles_it = []
 titles_articles_en = []
 
 titles_articles2 = []
 
-with open(path_articles1_names, 'r', encoding='utf-8') as f:
+with open(path_articles1_title, 'r', encoding='utf-8') as f:
     f.readline()
     line = f.readline().strip()
     while line != "#EN":
@@ -31,7 +31,7 @@ for title in titles_articles_en:
     fetch_article(title, "en", "input/articles1/en/links/", "input/articles1/en/texts/")
 
 
-with open(path_articles2_names, 'r', encoding='utf-8') as f:
+with open(path_articles2_title, 'r', encoding='utf-8') as f:
     f.readline()
     line = f.readline().strip()
     while line:

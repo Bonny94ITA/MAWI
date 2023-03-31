@@ -214,7 +214,7 @@ def clean_entities_to_search(entities_to_search: dict, entities_to_search_pos: d
 
     for i in range(len(entities)):
         for j in range(i+1, len(entities)):
-            if entities[i].lower() == entities[j].lower():
+            if entities[i].lower() == entities[j].lower() or entities[i].lower() in entities[j].lower() or entities[j].lower() in entities[i].lower():
                 if entities[i] > entities[j]:
                     entities_to_delete.append((entities[i], entities[j]))
                 else: 

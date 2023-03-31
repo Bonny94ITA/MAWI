@@ -2,49 +2,43 @@ from src.model import create_model, create_geocoder
 from src.preprocessing import create_directory
 from src.entities import get_entities_snippet
 from src.location import search_entities_geopy, get_geographic_scope
-from src.utils import save_results, read_article
+from src.utils import save_results, read_article, read_titles
 
-from datetime import datetime
+import logging
+
+logging.basicConfig(format='%(asctime)s - %(message)s', datefmt='%d-%b-%y %H:%M:%S')
+
+trf = False
+type = 1
+lang = "it"
 
 path_articles1_it = f'input/articles1/it/texts/'
 path_articles1_en = f'input/articles1/en/texts/'
 path_articles2 = f'input/articles2/it/texts/'
 
+path_articles1_titles = f'input/articles1/articles1_title.txt'
+path_articles2_titles = f'input/articles2/articles2_title.txt'
+
 path_results = f'results/extraction_entities_snippet/'
 
-#NO titles_articles = [("Amsterdam", "en"), ("Athens", "en"), ("Barcelona", "en"), ("Berlin", "en"), ("Bologna", "en")]
+titles_articles = read_titles(path_articles1_titles, lang)
 
-#titles_articles = [("Brussels", "en"), ("Bucharest", "en"), ("Budapest", "en"), ("Chicago", "en"), ("Copenhagen", "en"), ("Dublin", "en"), ("Florence", "en")]
-
-#titles_articles = [("Frankfurt", "en"), ("Hamburg", "en"), ("Helsinki", "en"), ("Istanbul", "en"), ("Kyiv", "en"), ("Lisbon", "en"), ("London", "en")]
-
-#titles_articles = [("Luxembourg City", "en"), ("Lyon", "en"), ("Madrid", "en"), ("Manchester", "en"), ("Marseille", "en"), ("Milan", "en")]
-
-titles_articles = [("Moscow", "en"), ("Munich", "en")]
-
-
-# DA QUI NO
-#titles_articles = [("Rome", "en"), ("Saint Petersburg", "en"), ("Seville", "en"), ("Sofia", "en"), ("Stockholm", "en")]
-
-#titles_articles = [("Vienna", "en"), ("Vilnius", "en"), ("Washington", "en")]
-
-model_it = create_model("it")
-model_en = create_model("en")
+model = create_model(lang, trf)
 
 geocoder = create_geocoder()
 
-for (title, lang) in titles_articles:
+for title in titles_articles:
     # Read wiki articles from file
     print("Current article to analyze: ", title)
     if lang == "it":
         path_article = path_articles1_it+title+".txt"
     else:
         path_article = path_articles1_en+title+".txt"
-    startTime = datetime.now()
+    
     text = read_article(path_article)
-    print("-----------------------read_article : ", str(datetime.now() - startTime))
+    logging.info('read_article')
 
-    path_result_article = create_directory(title, path_results, lang)
+    path_result_article = create_directory(title, path_results, lang, type, trf)
 
     nlp = None
     geographic_scope = ""
@@ -53,10 +47,7 @@ for (title, lang) in titles_articles:
     features = list()
     entities_final = list()
 
-    if lang == "it":
-        nlp = model_it
-    else:
-        nlp = model_en
+    nlp = model
 
     doc = nlp(text)
 
@@ -64,21 +55,13 @@ for (title, lang) in titles_articles:
 
     # Get entities without duplicates
 
-    startTime = datetime.now()
     searchable_entities, sentence_dict = get_entities_snippet(doc)
-    print("----------------------get_entities_snippet : ", str(datetime.now() - startTime))
+    logging.info('get_entities_snippet')
 
-    #startTime = datetime.now()
-    #searchable_entities = get_further_information(searchable_entities, geographic_scope['name'], lang)
-    #print("Get_further_information method takes: ", str(datetime.now() - startTime))
-
-
-    startTime = datetime.now()
+    
     # Search addresses with Google
     features, entities_final = search_entities_geopy(searchable_entities, geographic_scope, path_result_article, lang, geocoder)
-    print("----------------------search_entities_geopy : ", str(datetime.now() - startTime)) 
-
-    # Search nearby pages -> TODO: da aggiungere?
+    logging.info('search_entities_geopy')
 
     save_results(features, path_result_article, title)
 
@@ -93,6 +76,10 @@ for (title, lang) in titles_articles:
             f.write(entity + '\n')
 
 """
+
+    startTime = datetime.now()
+    searchable_entities = get_further_information(searchable_entities, geographic_scope['name'], lang)
+    print("Get_further_information method takes: ", str(datetime.now() - startTime))
     
     nearby_pages = get_nearby_pages(city)
 

@@ -390,3 +390,24 @@ def read_article(path: str):
     file.close() 
 
     return article
+
+def read_titles(path: str, lang: str): 
+    titles_articles = []
+
+    with open(path, 'r', encoding='utf-8') as f:
+        f.readline()
+        line = f.readline().strip()
+
+        if lang == "it":
+            while line != "#EN":
+                titles_articles.append(line)
+                line = f.readline().strip()
+        else:
+            while line:
+                line = f.readline().strip()
+            line = f.readline().strip()
+            while line:
+                titles_articles.append(line)
+                line = f.readline().strip()
+
+    return titles_articles

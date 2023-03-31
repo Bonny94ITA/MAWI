@@ -1,7 +1,7 @@
 import spacy
 from geopy.geocoders import Nominatim
 
-def create_model(lang: str): 
+def create_model(lang: str, trf: bool): 
     """ Create the model with the pipeline of SpaCy and the NER transformer.
     
     Args:
@@ -9,17 +9,26 @@ def create_model(lang: str):
     Returns:
         model: the model with the pipeline
     """
-    if lang == "it":
-        model = spacy.load("it_core_news_sm", exclude=["ner"])
 
-        ner = spacy.load('it_nerIta_trf')
+    if trf:
+        if lang == "it":
+            model = spacy.load("it_core_news_sm", exclude=["ner"])
 
-        model.add_pipe("transformer", name="trf_ita", source=ner, last=True)
+            ner = spacy.load('it_nerIta_trf')
 
-        model.add_pipe("ner", name="ner_ita", source=ner, last=True)
-    
-    elif lang == "en":
-        model = spacy.load("en_core_web_trf")
+            model.add_pipe("transformer", name="trf_ita", source=ner, last=True)
+
+            model.add_pipe("ner", name="ner_ita", source=ner, last=True)
+
+        elif lang == "en":
+            model = spacy.load("en_core_web_trf")
+
+    else:
+        if lang == "it":
+            model = spacy.load("it_core_news_lg")
+            
+        elif lang == "en":
+            model = spacy.load("en_core_web_lg")
 
     return model
 

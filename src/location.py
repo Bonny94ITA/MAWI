@@ -226,7 +226,13 @@ def get_geographic_scope(article: Doc, lang: str, geocoder: Nominatim):
 def get_most_common_gpe(article: Doc):
     ents = article.ents
     ents_gpe = [ent.text for ent in ents if ent.label_ == "GPE"]
-    count = Counter(ents_gpe)
-    most_common_gpe = count.most_common(1)[0][0]
+
+    if len(ents_gpe) == 0:
+        ents_loc = [ent.text for ent in ents if ent.label_ == "LOC"]
+        count = Counter(ents_loc)
+        most_common_gpe = count.most_common(1)[0][0]
+    else: 
+        count = Counter(ents_gpe)
+        most_common_gpe = count.most_common(1)[0][0]
 
     return most_common_gpe
