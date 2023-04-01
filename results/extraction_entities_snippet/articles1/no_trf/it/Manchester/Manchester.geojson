@@ -1,0 +1,728 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.255828,
+                    53.480568
+                ]
+            },
+            "properties": {
+                "entity": "Irwell",
+                "name_location": "Irwell Street, St. Johns, City Centre, Manchester, Grande Manchester, Inghilterra, M60 9HL, Regno Unito",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...Quella che oggi è conosciuta come Inghilterra del nord, un tempo era occupata dalla tribù celtica dei Briganti, i quali avevano una roccaforte su di uno sperone di arenaria, di fronte alle rive del fiume Irwell, luogo che attualmente ospita la cattedrale di Manchester....",
+                    "*...Con l'arrivo dei Sassoni il centro dell'insediamento si spostò nei pressi della confluenza dei fiumi Irwell ed Irk....",
+                    "*...Salford Quays: vecchia area del porto fluviale sul fiume Irwell, oggi restaurata e ristrutturata come per i Docks londinesi ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.241173,
+                    53.480907
+                ]
+            },
+            "properties": {
+                "entity": "York",
+                "name_location": "York Street, Central Retail District, City Centre, Manchester, Grande Manchester, Inghilterra, M2 2AW, Regno Unito",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...In seguito alla conquista della Britannia del I secolo, il governatore romano Giulio Agricola ordinò la costruzione di un forte chiamato Mancunium (collina a forma di seno) nel 79 d.C., in modo da proteggere dai Briganti gli insediamenti romani di Deva Victrix (Chester) ed Eburacum (York)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.235349,
+                    53.490035
+                ]
+            },
+            "properties": {
+                "entity": "Irk",
+                "name_location": "Irk Street, Medieval Quarter, Strangeways, Manchester, Grande Manchester, Inghilterra, M4 4JT, Regno Unito",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Con l'arrivo dei Sassoni il centro dell'insediamento si spostò nei pressi della confluenza dei fiumi Irwell ed Irk...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.25362,
+                    53.476353
+                ]
+            },
+            "properties": {
+                "entity": "Liverpool",
+                "name_location": "Liverpool Road, Castlefield, City Centre, Manchester, Grande Manchester, Inghilterra, M3 4NQ, Regno Unito",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...Lo sviluppo industriale fu favorito anche dalla vicinanza di giacimenti di carbon fossile e dalla relativa vicinanza con il porto di Liverpool, collegato tramite ferrovia dal 1830....",
+                    "*...Motorway M62: collega a Liverpool e Leeds e alla Motorway M6 ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.282671,
+                    53.471794
+                ]
+            },
+            "properties": {
+                "entity": "Manchester Ship Canal",
+                "name_location": "Manchester Ship Canal, Trafford Road, Ordsall, Salford, Grande Manchester, Inghilterra, M50 3XB, Regno Unito",
+                "class": "historic",
+                "type": "memorial",
+                "snippet": [
+                    "*...Con la costruzione del Manchester Ship Canal, ultimato nel 1894, Manchester divenne il terzo porto commerciale inglese, nonostante si trovi a circa 60 km dal mare....",
+                    "*...Il Porto di Manchester fu attivo dal 1894 fino al 1985 ed è collegato al mare dal Manchester Ship Canal...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.243506,
+                    53.482965
+                ]
+            },
+            "properties": {
+                "entity": "Market Street",
+                "name_location": "Market Street, Central Retail District, City Centre, Manchester, Grande Manchester, Inghilterra, M4 3AD, Regno Unito",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Manchester fu sconvolta dall'esplosione di un camion-bomba dell'IRA, il 15 giugno 1996, che causò circa 200 feriti e la distruzione di notevoli edifici nell'area di Market Street...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.242112,
+                    53.485768
+                ]
+            },
+            "properties": {
+                "entity": "Urbis",
+                "name_location": "National Football Museum, Todd Street, Medieval Quarter, City Centre, Manchester, Grande Manchester, Inghilterra, M4 3BG, Regno Unito",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...L'evento diede il via a una notevole azione di riqualificazione urbana nel centro della città, simboleggiata dalla costruzione del centro espositivo Urbis, progettato dall'architetto Ian Simpson e inaugurato nel 2002...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.244172,
+                    53.488087
+                ]
+            },
+            "properties": {
+                "entity": "Manchester Arena",
+                "name_location": "AO Arena, Hunts Bank, Medieval Quarter, City Centre, Manchester, Grande Manchester, Inghilterra, M3 1AR, Regno Unito",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...La sera del 22 maggio 2017 un attentato kamikaze ha avuto luogo alla Manchester Arena, al termine del concerto della cantante statunitense Ariana Grande...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.334302,
+                    53.502853
+                ]
+            },
+            "properties": {
+                "entity": "Lancashire",
+                "name_location": "East Lancashire Road, Swinton Park, Swinton, Salford, Grande Manchester, Inghilterra, M27 5WX, Regno Unito",
+                "class": "highway",
+                "type": "trunk",
+                "snippet": [
+                    "*...Semplice località del Lancashire, non era sede di diocesi e anche a livello locale doveva fare riferimento alla vicina Salford....",
+                    "*...Motorway M66: collega a Bury e il Lancashire ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.27879,
+                    53.400758
+                ]
+            },
+            "properties": {
+                "entity": "Baguley",
+                "name_location": "Baguley, Altrincham Road / near Hall Lane, Altrincham Road, Benchill, Wythenshawe, Manchester, Grande Manchester, Inghilterra, M23 9AA, Regno Unito",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Baguley ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.200149,
+                    53.52363
+                ]
+            },
+            "properties": {
+                "entity": "Charlestown",
+                "name_location": "Charlestown, Charlestown Road / opposite Grange Park Road, Charlestown Road, Charlestown, Manchester, Grande Manchester, Inghilterra, M9 7AD, Regno Unito",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Charlestown ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.270141,
+                    53.433647
+                ]
+            },
+            "properties": {
+                "entity": "Chorlton Park",
+                "name_location": "Chorlton Park Primary School, Mauldeth Road West, Chorlton-cum-Hardy, Manchester, Grande Manchester, Inghilterra, M21 7SA, Regno Unito",
+                "class": "building",
+                "type": "school",
+                "snippet": [
+                    "*...Chorlton Park ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.222572,
+                    53.412948
+                ]
+            },
+            "properties": {
+                "entity": "Didsbury East",
+                "name_location": "East Didsbury, Parrs Wood Road / near Ruabon Road, Parrs Wood Road, Didsbury, Manchester, Grande Manchester, Inghilterra, M20 5WA, Regno Unito",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Didsbury East ;...",
+                    "*...Motorway M66: collega a Bury e il Lancashire ;...",
+                    "*...Il metrolink oggi serve la città di Manchester e la sua area metropolitana, permettendo il collegamento tra il centro e le città di Bury, Altrincham, Salford, Rochdale, ed Eccles...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.249761,
+                    53.431357
+                ]
+            },
+            "properties": {
+                "entity": "Didsbury West",
+                "name_location": "West Didsbury, Princess Road (Stop B), Princess Road, West Didsbury, Manchester, Grande Manchester, Inghilterra, M20 1JZ, Regno Unito",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Didsbury West ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.218743,
+                    53.441005
+                ]
+            },
+            "properties": {
+                "entity": "Fallowfield",
+                "name_location": "Fallowfield, Wilmslow Road, Ladybarn, Fallowfield, Manchester, Grande Manchester, Inghilterra, M14 6NL, Regno Unito",
+                "class": "railway",
+                "type": "site",
+                "snippet": [
+                    "*...Fallowfield ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.277649,
+                    53.464442
+                ]
+            },
+            "properties": {
+                "entity": "Gorton South",
+                "name_location": "Gorton Junction to Throstle Nest South Junction Line, Chester Road, Wharfside, Gorse Hill, Trafford, Grande Manchester, Inghilterra, M16 9UA, Regno Unito",
+                "class": "railway",
+                "type": "razed",
+                "snippet": [
+                    "*...Gorton South ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.253915,
+                    53.401029
+                ]
+            },
+            "properties": {
+                "entity": "Sharston",
+                "name_location": "Sharston, Sharston Road / near Longley Lane, Sharston Road, Sharston Industrial Area, Benchill, Wythenshawe, Manchester, Grande Manchester, Inghilterra, M22 4SY, Regno Unito",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Sharston ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.280369,
+                    53.350342
+                ]
+            },
+            "properties": {
+                "entity": "Ringway",
+                "name_location": "Manchester Airport, Cornishway, Woodhouse Park, Wythenshawe, Manchester, Grande Manchester, Inghilterra, M90 1QX, Regno Unito",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "*...L'unica parrocchia civile del distretto è Ringway, all’estremità meridionale del territorio e a ridosso dell’Aeroporto di Manchester, la cui gestione è tuttavia al momento integralmente devoluta al Consiglio comunale di Manchester a causa dell'impossibilità di procedere a elezioni parrocchiali per carenza di candidati...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.200226,
+                    53.437491
+                ]
+            },
+            "properties": {
+                "entity": "Burnage",
+                "name_location": "Burnage, Burnage Lane / opposite Acacias School, Slade Lane, Levenshulme, Manchester, Grande Manchester, Inghilterra, M19 2WN, Regno Unito",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "...Burnage ;...",
+                    "*...Il successo di quest'ultimo filone fu determinante per lo sviluppo, negli anni '90, della scena Britpop, di cui gli Oasis, originari di Burnage, sobborgo di Manchester, sono il gruppo più rappresentativo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.190102,
+                    53.443575
+                ]
+            },
+            "properties": {
+                "entity": "Elbow",
+                "name_location": "Elbow Street, Levenshulme, Manchester, Grande Manchester, Inghilterra, M19 3PY, Regno Unito",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Elbow ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.309192,
+                    53.488021
+                ]
+            },
+            "properties": {
+                "entity": "Outfield",
+                "name_location": "Outfield Close, Seedley, Eccles, Salford, Grande Manchester, Inghilterra, M6 8DJ, Regno Unito",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Outfield ...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.275248,
+                    53.442289
+                ]
+            },
+            "properties": {
+                "entity": "Chorlton-cum-Hardy",
+                "name_location": "Chorlton-Cum-Hardy Post Office, 543, Wilbraham Road, Chorlton-cum-Hardy, Manchester, Grande Manchester, Inghilterra, M21 9PP, Regno Unito",
+                "class": "amenity",
+                "type": "post_office",
+                "snippet": [
+                    "*...Negli anni '60 le band di Manchester che ascesero alla fama furono Hollies, Herman's Hermits e Davy Jones dei Monkees (noti dalla metà degli anni '60 non solo per la loro musica, ma anche per la loro trasmissione sulla TV statunitense) e i primi Bee Gees, che crebbero a Chorlton-cum-Hardy...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.248824,
+                    53.479278
+                ]
+            },
+            "properties": {
+                "entity": "Greater Manchester",
+                "name_location": "Greater Manchester Chambers of Commerce, 151, Deansgate, Civic Quarter, City Centre, Manchester, Grande Manchester, Inghilterra, M3 3WD, Regno Unito",
+                "class": "office",
+                "type": "yes",
+                "snippet": [
+                    "*...È originaria di Greater Manchester anche la cantautrice Ren Harvieu...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.238325,
+                    53.480677
+                ]
+            },
+            "properties": {
+                "entity": "Piccadilly Gardens",
+                "name_location": "Piccadilly Gardens (Stand H), Piccadilly Plaza, Piccadilly, City Centre, Manchester, Grande Manchester, Inghilterra, M1 4AH, Regno Unito",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Piccadilly Gardens ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.569831,
+                    53.595501
+                ]
+            },
+            "properties": {
+                "entity": "Motorway M60",
+                "name_location": "Manchester - Preston Motorway, Horwich, Blackrod, Bolton, Grande Manchester, Inghilterra, BL6 5GU, Regno Unito",
+                "class": "highway",
+                "type": "motorway",
+                "snippet": [
+                    "*...L'autostrada più importante per la città è la Motorway M60 che è la tangenziale di Manchester....",
+                    "*...Motorway M602: collega il centro di Manchester alla tangenziale M60 e la M62 ;...",
+                    "*...Motorway M56: collega a Chester e alla Motorway M6 direzione sud ;...",
+                    "*...Motorway M61: collega a Preston e alla Motorway M6 direzione nord ;...",
+                    "*...Motorway M62: collega a Liverpool e Leeds e alla Motorway M6 ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.180571,
+                    53.469584
+                ]
+            },
+            "properties": {
+                "entity": "Preston",
+                "name_location": "Preston Street, Openshaw, Manchester, Grande Manchester, Inghilterra, M18 8DA, Regno Unito",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Motorway M61: collega a Preston e alla Motorway M6 direzione nord ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.244842,
+                    53.480567
+                ]
+            },
+            "properties": {
+                "entity": "Leeds",
+                "name_location": "Leeds Building Society, 47, Cross Street, Civic Quarter, City Centre, Manchester, Grande Manchester, Inghilterra, M2 4JF, Regno Unito",
+                "class": "amenity",
+                "type": "bank",
+                "snippet": [
+                    "*...Motorway M62: collega a Liverpool e Leeds e alla Motorway M6 ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.088064,
+                    53.452952
+                ]
+            },
+            "properties": {
+                "entity": "Hyde",
+                "name_location": "Hyde, Manchester Road / opposite Mill Lane, Manchester Road, Kingston, Hyde, Tameside, Grande Manchester, Inghilterra, SK14 2DE, Regno Unito",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Motorway M67: collega a Hyde e il Peak District ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.324728,
+                    53.439205
+                ]
+            },
+            "properties": {
+                "entity": "M62",
+                "name_location": "M60, Ashton upon Mersey, Stretford, Trafford, Grande Manchester, Inghilterra, M32 8AL, Regno Unito",
+                "class": "highway",
+                "type": "motorway",
+                "snippet": [
+                    "...Motorway M62: collega a Liverpool e Leeds e alla Motorway M6 ;...",
+                    "*...Motorway M602: collega il centro di Manchester alla tangenziale M60 e la M62 ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.348251,
+                    53.392081
+                ]
+            },
+            "properties": {
+                "entity": "Altrincham",
+                "name_location": "Altrincham, Barrington Road / near Hazel Road, Barrington Road, Broadheath, Altrincham, Trafford, Grande Manchester, Inghilterra, WA14 1HP, Regno Unito",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Il metrolink oggi serve la città di Manchester e la sua area metropolitana, permettendo il collegamento tra il centro e le città di Bury, Altrincham, Salford, Rochdale, ed Eccles...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.191767,
+                    53.533557
+                ]
+            },
+            "properties": {
+                "entity": "Rochdale",
+                "name_location": "St Thomas More Roman Catholic Primary School, Middleton, Rochdale, Evesham Road, Middleton, Rochdale, Grande Manchester, Inghilterra, M24 1PY, Regno Unito",
+                "class": "amenity",
+                "type": "school",
+                "snippet": [
+                    "*...Il metrolink oggi serve la città di Manchester e la sua area metropolitana, permettendo il collegamento tra il centro e le città di Bury, Altrincham, Salford, Rochdale, ed Eccles...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.34421,
+                    53.464971
+                ]
+            },
+            "properties": {
+                "entity": "Trafford Centre",
+                "name_location": "Trafford Centre, Manchester, Barton Dock Road, Dumplington, Urmston, Trafford, Grande Manchester, Inghilterra, M41 7GD, Regno Unito",
+                "class": "amenity",
+                "type": "charging_station",
+                "snippet": [
+                    "*...Per il 2020 è prevista l'apertura di una nuova linea, quella per Trafford Centre...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.391131,
+                    53.47124
+                ]
+            },
+            "properties": {
+                "entity": "city airport",
+                "name_location": "City Airport and Heliport, Liverpool Road, Peel Green, Irlam, Salford, Grande Manchester, Inghilterra, M30 7SA, Regno Unito",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "*...La città è servita anche dal piccolo Aeroporto di Manchester-Barton che funge da city airport...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.283965,
+                    53.470547
+                ]
+            },
+            "properties": {
+                "entity": "Salford Quays",
+                "name_location": "Salford Quays, Waterfront Quay, Ordsall, Salford, Grande Manchester, Inghilterra, M50 3WL, Regno Unito",
+                "class": "railway",
+                "type": "tram_stop",
+                "snippet": [
+                    "...Salford Quays: vecchia area del porto fluviale sul fiume Irwell, oggi restaurata e ristrutturata come per i Docks londinesi ;...",
+                    "*...La zona dell'ex porto Salford Quays è stata recentemente riconvertita a zona residenziale e ospita un Museo dedicato al maggiore pittore mancuniano del XX secolo, L. S. Lowry....",
+                    "*...Semplice località del Lancashire, non era sede di diocesi e anche a livello locale doveva fare riferimento alla vicina Salford....",
+                    "*...Molto famoso a cavallo degli anni ottanta e primi anni novanta, fu il club locale The Haçienda, dove si sono esibiti alcuni tra i più importanti artisti inglesi e internazionali del tempo (uno su tutti, i Joy Division, gruppo originario di Salford, comune a pochi km....",
+                    "...Stazione di Salford Central ;...",
+                    "*...Il metrolink oggi serve la città di Manchester e la sua area metropolitana, permettendo il collegamento tra il centro e le città di Bury, Altrincham, Salford, Rochdale, ed Eccles...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.284885,
+                    53.462128
+                ]
+            },
+            "properties": {
+                "entity": "Old Trafford",
+                "name_location": "Old Trafford, Chester Road / adjacent White City, Chester Road, Wharfside, Gorse Hill, Trafford, Grande Manchester, Inghilterra, M16 0SN, Regno Unito",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "...Old Trafford ;...",
+                    "*...Il Manchester Utd, che gioca all'Old Trafford, e il Manchester City, che gioca all'Etihad Stadium (City of Manchester Stadium è la vecchia denominazione)....",
+                    "*...L'Old Trafford, situato appena fuori dalla città, è il secondo campo da gioco più grande d'Inghilterra, dopo lo stadio di Wembley di Londra:..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.200252,
+                    53.483091
+                ]
+            },
+            "properties": {
+                "entity": "Etihad Stadium",
+                "name_location": "Etihad Stadium, Joe Mercer Way, Bradford, Manchester, Grande Manchester, Inghilterra, M11 3FF, Regno Unito",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...Il Manchester Utd, che gioca all'Old Trafford, e il Manchester City, che gioca all'Etihad Stadium (City of Manchester Stadium è la vecchia denominazione)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.200252,
+                    53.483091
+                ]
+            },
+            "properties": {
+                "entity": "City of Manchester Stadium",
+                "name_location": "Etihad Stadium, Joe Mercer Way, Bradford, Manchester, Grande Manchester, Inghilterra, M11 3FF, Regno Unito",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...Il Manchester Utd, che gioca all'Old Trafford, e il Manchester City, che gioca all'Etihad Stadium (City of Manchester Stadium è la vecchia denominazione)...."
+                ]
+            }
+        }
+    ]
+}

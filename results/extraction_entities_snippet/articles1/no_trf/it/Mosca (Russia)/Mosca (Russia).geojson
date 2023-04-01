@@ -1,0 +1,1615 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.531798,
+                    55.702297
+                ]
+            },
+            "properties": {
+                "entity": "Moscova",
+                "name_location": "Università statale di Mosca, район Хамовники, Mosca, Distretto Federale Centrale, 119234, Russia",
+                "class": "amenity",
+                "type": "university",
+                "snippet": [
+                    "*...Fu fondata nell'anno 1147 da Jurij Dolgorukij sulle sponde del fiume Moscova....",
+                    "*...Mosca giace sulle rive del fiume Moscova;...",
+                    "*...La sua posizione favorevole sulle rive del fiume Moscova contribuì a una rapida espansione....",
+                    "*...Affacciata sul fiume Moscova la promenade è immaginata come un luogo di aggregazione con ristoranti, bar e negozi, collegata alla vicina Kutuzovskiy Prospekt tramite un Parco che prevede zone pubbliche, semi-pubbliche, private con diverse tipologie di verde, prati, vegetazione bassa, bosco alberato....",
+                    "*...La parte principale (689 000 metri quadrati) lungo il fiume Moscova contiene attrazioni per bambini (compresi una ruota panoramica, specchi d'acqua con barche e biciclette d'acqua)....",
+                    "*...Il complesso include otto aree tematiche e un centro commerciale, tutto sotto lo stesso tetto, un'estensione di 30 ettari, all'esterno c'è un Parco ampio 44 ettari, una sala concerti polifunzionale da 3.500 posti, una passeggiata lungo il fiume Moscova di 2 chilometri, una scuola di vela per bambini e un hotel 4 stelle con 410 camere....",
+                    "*...La galleria Tret'jakov antica, che è la galleria originale e si trova sulla riva sud del fiume Moscova, ed espone lavori della classica tradizione russa....",
+                    "...Sulla Moscova, che attraversa la città, vi sono i due porti fluviali cittadini, uno a sud e uno a nord del tratto urbano del fiume....",
+                    "*...Molte rotte sulla Moscova e sull'Oka, vengono utilizzate principalmente per crociere di intrattenimento....",
+                    "*...Il 26 novembre 2018 il Sindaco della capitale russa Sobjanin ha ufficialmente inaugurato il sistema di cabinovia operante sopra il fiume Moscova...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.669449,
+                    55.877682
+                ]
+            },
+            "properties": {
+                "entity": "Babuškin",
+                "name_location": "Бабушкин, 38, Енисейская улица, Бабушкинский район, Mosca, Distretto Federale Centrale, 129281, Russia",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...Il suo perimetro si estese gradualmente fino a includere nel XX secolo i sobborghi limitrofi di Babuškin, Kuncevo, Ljublino, Perovo, Tušino (dal 1960) e di Solncevo (dal 1986), raggiungendo un'area totale di ...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.450384,
+                    55.726797
+                ]
+            },
+            "properties": {
+                "entity": "Kuncevo",
+                "name_location": "Кунцевская, 22 с1, улица Алексея Свиридова, Давыдково, район Фили-Давыдково, Mosca, Distretto Federale Centrale, 121374, Russia",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...Il suo perimetro si estese gradualmente fino a includere nel XX secolo i sobborghi limitrofi di Babuškin, Kuncevo, Ljublino, Perovo, Tušino (dal 1960) e di Solncevo (dal 1986), raggiungendo un'area totale di ...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.754976,
+                    55.745076
+                ]
+            },
+            "properties": {
+                "entity": "Perovo",
+                "name_location": "Перово, Мастеровая улица, район Перово, Mosca, Distretto Federale Centrale, 111524, Russia",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...Il suo perimetro si estese gradualmente fino a includere nel XX secolo i sobborghi limitrofi di Babuškin, Kuncevo, Ljublino, Perovo, Tušino (dal 1960) e di Solncevo (dal 1986), raggiungendo un'area totale di ...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.627497,
+                    55.734319
+                ]
+            },
+            "properties": {
+                "entity": "Istanbul",
+                "name_location": "Истанбул, Пятницкая улица, район Замоскворечье, Mosca, Distretto Federale Centrale, 115054, Russia",
+                "class": "amenity",
+                "type": "cafe",
+                "snippet": [
+                    "*...Con più di 13 milioni di abitanti (18 milioni considerando l'area metropolitana), è la città più popolosa del Paese, la seconda città d'Europa per popolazione e superficie dopo Istanbul, la decima città più popolosa del mondo, la città con oltre di 10 milioni di persone più settentrionale al mondo nonché, a causa del suo rigido clima continentale, la megalopoli più settentrionale e fredda della Terra...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.658261,
+                    55.741203
+                ]
+            },
+            "properties": {
+                "entity": "Terra",
+                "name_location": "Greca Terra, 3, Таганская улица, Таганский район, Mosca, Distretto Federale Centrale, 109147, Russia",
+                "class": "shop",
+                "type": "wine",
+                "snippet": [
+                    "*...Con più di 13 milioni di abitanti (18 milioni considerando l'area metropolitana), è la città più popolosa del Paese, la seconda città d'Europa per popolazione e superficie dopo Istanbul, la decima città più popolosa del mondo, la città con oltre di 10 milioni di persone più settentrionale al mondo nonché, a causa del suo rigido clima continentale, la megalopoli più settentrionale e fredda della Terra...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.623063,
+                    55.752488
+                ]
+            },
+            "properties": {
+                "entity": "Cattedrale di San Basilio",
+                "name_location": "Cattedrale di San Basilio, 2, Piazza Rossa, 2, Китай-город, Тверской район, Mosca, Distretto Federale Centrale, 109012, Russia",
+                "class": "place",
+                "type": "house",
+                "snippet": [
+                    "*...Mosca è rinomata per i suoi stili architettonici unici e ammirabili in un gran numero di edifici storici, fra cui la celebre Cattedrale di San Basilio con le sue cupole a cipolla colorate, la Cattedrale di Cristo Salvatore, i magazzini GUM e l'Esposizione delle conquiste dell'economia nazionale....",
+                    "*...La città è nota soprattutto per la Cattedrale di San Basilio, con le sue fastose cupole a cipolla, così come la Cattedrale di Cristo Salvatore e le Sette Sorelle...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.60551,
+                    55.744524
+                ]
+            },
+            "properties": {
+                "entity": "Cattedrale di Cristo Salvatore",
+                "name_location": "Cattedrale di Cristo Salvatore, 15, улица Волхонка, 31, район Хамовники, Mosca, Distretto Federale Centrale, 119019, Russia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Mosca è rinomata per i suoi stili architettonici unici e ammirabili in un gran numero di edifici storici, fra cui la celebre Cattedrale di San Basilio con le sue cupole a cipolla colorate, la Cattedrale di Cristo Salvatore, i magazzini GUM e l'Esposizione delle conquiste dell'economia nazionale....",
+                    "*...La città è nota soprattutto per la Cattedrale di San Basilio, con le sue fastose cupole a cipolla, così come la Cattedrale di Cristo Salvatore e le Sette Sorelle....",
+                    "*...Alcuni esempi notevoli sono la Cattedrale di Kazan' e la Cattedrale di Cristo Salvatore....",
+                    "*...Il Bul'varnoe Kol'co non è tecnicamente un anello perché non forma un cerchio completo, ma piuttosto un arco simile a un ferro di cavallo che incomincia presso la Cattedrale di Cristo Salvatore e termina al fiume Jauza....",
+                    "*...Durante il periodo di 1920-1930 un gran numero di chiese della città furono demolite, compreso lo storico Monastero Chudov al Cremlino, risalente al XIV secolo, la Cattedrale di Kazan' sulla Piazza Rossa, la Cattedrale di Cristo Salvatore, costruita nel XIX secolo in memoria della vittoria sull'esercito di Napoleone nel 1812, e molte altre....",
+                    "*...Tra le chiese ricostruite negli anni novanta vi è l'impressionante nuova Cattedrale di Cristo Salvatore, che ancora una volta è diventata un punto di riferimento della città...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.642886,
+                    55.722328
+                ]
+            },
+            "properties": {
+                "entity": "Žukovskij",
+                "name_location": "Жуков проезд, Даниловский район, Mosca, Distretto Federale Centrale, 115280, Russia",
+                "class": "highway",
+                "type": "construction",
+                "snippet": [
+                    "*...La città è servita da un'ampia rete di trasporti, che include quattro aeroporti internazionali (Šeremet'evo, Domodedovo, Vnukovo e Žukovskij), nove stazioni ferroviarie, numerose linee tramviarie, un sistema di monorotaia, un sistema ferroviario di superficie, un sistema di cabinovia, uno sviluppato servizio di car sharing e di bike sharing, e la metropolitana, fra le più estese e profonde del mondo, la più frequentata in Europa e la quarta più frequentata al mondo;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.750383,
+                    55.702748
+                ]
+            },
+            "properties": {
+                "entity": "Roma",
+                "name_location": "Рома, Волжский бульвар, район Кузьминки, Mosca, Distretto Federale Centrale, 109462, Russia",
+                "class": "amenity",
+                "type": "community_centre",
+                "snippet": [
+                    "*...\"terza Roma\" (Третий Рим/Tretij Rim), \"città dalla pietra bianca\" (Белокаменная/Belokamennaja), \"città del primo trono\" (Первопрестольная/Pervoprestol'naja), \"città delle quaranta fortezze\" (Сорок Сороков/Sorok Sorokov) e \"città-eroina (della seconda guerra mondiale)\" (город-герой/gorod-geroj)....",
+                    "*...La nuova posizione politica e religiosa raggiunta da Mosca sul piano internazionale portò alla nascita dell'idea che la città fosse la terza Roma (dove Roma e Costantinopoli erano state le prime due)....",
+                    "*...All'interno del Dream Island c'è un'area coperta chiamata City Promenade, con quattro strade che richiamano Londra, Roma, Barcellona e Beverly Hills...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.702484,
+                    55.829309
+                ]
+            },
+            "properties": {
+                "entity": "Белокаменная/Belokamennaja",
+                "name_location": "Белокаменная, Яузская аллея, Mosca, район Богородское, Mosca, Distretto Federale Centrale, 107564, Russia",
+                "class": "railway",
+                "type": "halt",
+                "snippet": [
+                    "*...\"terza Roma\" (Третий Рим/Tretij Rim), \"città dalla pietra bianca\" (Белокаменная/Belokamennaja), \"città del primo trono\" (Первопрестольная/Pervoprestol'naja), \"città delle quaranta fortezze\" (Сорок Сороков/Sorok Sorokov) e \"città-eroina (della seconda guerra mondiale)\" (город-герой/gorod-geroj)....",
+                    "*...Mosca si trova nel circondario federale centrale (nella porzione europea del Paese), tra i fiumi Oka e Volga....",
+                    "*...Molte rotte sulla Moscova e sull'Oka, vengono utilizzate principalmente per crociere di intrattenimento...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.555482,
+                    55.746785
+                ]
+            },
+            "properties": {
+                "entity": "город-герой/gorod-geroj",
+                "name_location": "Москва — Город-Герой, Большая Дорогомиловская улица, район Дорогомилово, Mosca, Distretto Federale Centrale, 121151, Russia",
+                "class": "historic",
+                "type": "monument",
+                "snippet": [
+                    "*...\"terza Roma\" (Третий Рим/Tretij Rim), \"città dalla pietra bianca\" (Белокаменная/Belokamennaja), \"città del primo trono\" (Первопрестольная/Pervoprestol'naja), \"città delle quaranta fortezze\" (Сорок Сороков/Sorok Sorokov) e \"città-eroina (della seconda guerra mondiale)\" (город-герой/gorod-geroj)....",
+                    "*...Prima del 1917, Mosca veniva chiamata la \"città di 40 volte 40 chiese\" - \"Город сорока сороков церквей\"...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.748219,
+                    55.77661
+                ]
+            },
+            "properties": {
+                "entity": "Parco Izmajlovskij",
+                "name_location": "Parco di Izmajlovo, Московский проспект, район Измайлово, Mosca, Distretto Federale Centrale, 105187, Russia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...La città possiede alcuni tra i più grandi parchi al mondo, come il Parco Izmajlovskij, il Parco Timiriazevskij, il Parco Fili, il Parco Zamoskvoreckij, il Parco Ljublino, il Parco Butovskij, l'orto botanico, il Parco Neskučnyj, il Parco Bitcevskij, il Parco Caricyno, il Parco Kolomenskoe, il Parco Kuz'minki, il Parco Kuskovo, il Parco Sokol'niki e molte altre aree verdi...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.631599,
+                    55.730769
+                ]
+            },
+            "properties": {
+                "entity": "San Pietroburgo",
+                "name_location": "Porcellana di San Pietroburgo, Валовая улица, район Замоскворечье, Mosca, Distretto Federale Centrale, 115054, Russia",
+                "class": "shop",
+                "type": "houseware",
+                "snippet": [
+                    "*...Mosca cessò di essere la capitale del regno russo nel 1703, quando Pietro il Grande costruì San Pietroburgo, sulla costa del mar Baltico....",
+                    "*...Dopo il successo della rivoluzione d'ottobre del 1917 Lenin, temendo invasioni straniere, spostò la capitale da Pietrogrado (fino al 1914 chiamata San Pietroburgo) di nuovo a Mosca il 5 marzo 1918....",
+                    "*...La Torre della Federazione Est, con i suoi 374 metri è al momento l'edificio più alto di Mosca e il secondo più alto d'Europa dopo il Lakhta Center di San Pietroburgo....",
+                    "*...Poiché i biglietti del treno sono relativamente a buon Mercato, sono il modo preferito di viaggiare per i russi, soprattutto quando in partenza per San Pietroburgo, seconda città più grande della Russia....",
+                    "*...La capitale è inoltre una delle tre città federali contemplate dalla costituzione russa, assieme alla baltica San Pietroburgo e alla crimeana Sebastopoli (nonostante l'Ucraina consideri quest'ultima parte del suo territorio, disconoscendo la validità dell'annessione della Crimea alla Russia e del soggetto politico risultante)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.619902,
+                    55.753731
+                ]
+            },
+            "properties": {
+                "entity": "Mausoleo di Lenin",
+                "name_location": "Mausoleo di Lenin, Piazza Rossa, 4, Китай-город, Тверской район, Mosca, Distretto Federale Centrale, 109012, Russia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Particolarmente degni di nota furono gli architetti costruttivisti della Vchutemas, realizzatori di importanti edifici come il Mausoleo di Lenin...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.694435,
+                    55.719524
+                ]
+            },
+            "properties": {
+                "entity": "New York",
+                "name_location": "New York, 32/3 к1, Волгоградский проспект, Южнопортовый район, Mosca, Distretto Federale Centrale, 109316, Russia",
+                "class": "building",
+                "type": "apartments",
+                "snippet": [
+                    "*...Una caratteristica distintiva dello skyline di Mosca, la loro forma imponente sarebbe stata ispirata dal Manhattan Municipal Building a New York, e il loro stile, con esterni intricati e una grande guglia centrale, è stato descritto come architettura gotica stalinista....",
+                    "*...Si stima che Mosca abbia oltre il doppio degli ascensori di New York e quattro volte di più di Chicago....",
+                    "*...Vi sono in media 27 metri quadrati di parchi per persona a Mosca rispetto ai 6 di Parigi, ai 7,5 di Londra e agli 8,6 di New York....",
+                    "*...La sua superficie di 15,34 chilometri quadrati è sei volte superiore a quella del Central Park a New York....",
+                    "*...Nel 2008, Mosca ha 74 miliardari con una ricchezza media di 5,9 miliardi di dollari, che la pone al di sopra dei 71 miliardari di New York....",
+                    "*...Tuttavia, a partire dal 2009, vi sono solo 27 miliardari a Mosca contro i 55 miliardari di New York...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.60952,
+                    55.728976
+                ]
+            },
+            "properties": {
+                "entity": "Chicago",
+                "name_location": "Chicago, Ленинский проспект, район Якиманка, Mosca, Distretto Federale Centrale, 111991, Russia",
+                "class": "amenity",
+                "type": "bar",
+                "snippet": [
+                    "*...Si stima che Mosca abbia oltre il doppio degli ascensori di New York e quattro volte di più di Chicago....",
+                    "...Chicago ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.589367,
+                    55.746223
+                ]
+            },
+            "properties": {
+                "entity": "Arbat",
+                "name_location": "Арбат, 12, Плотников переулок, Плющиха, район Хамовники, Mosca, Distretto Federale Centrale, 119002, Russia",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...La vecchia via Arbat, una popolare Strada turistica che un tempo era il cuore di una zona bohémienne, conserva la maggior parte dei suoi edifici antecedenti al XX secolo....",
+                    "*...Altri teatri famosi sono il Teatro accademico statale Evgenij Vachtangov sull'Arbat e il Teatro della Taganka...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.533811,
+                    55.618155
+                ]
+            },
+            "properties": {
+                "entity": "Uzkoe",
+                "name_location": "Узкое, 3, Литовский бульвар, район Ясенево, Mosca, Distretto Federale Centrale, 117588, Russia",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...Il palazzo Ostankino, Kuskovo, Uzkoe e altri grandi patrimoni, appena fuori Mosca originariamente appartenerono ai nobili di epoca zarista, e alcuni conventi e monasteri, sia all'interno sia all'esterno della città, sono aperti ai moscoviti e turisti...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.616497,
+                    55.757767
+                ]
+            },
+            "properties": {
+                "entity": "Okhotny Ryad",
+                "name_location": "Охотный Ряд, улица Охотный Ряд, 18, 62, Тверской район, Mosca, Distretto Federale Centrale, 103265, Russia",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...Alcuni esempi di edifici realizzati durante il governo di Lužkov sono: il centro commerciale \"Nautilius\" sulla Piazza Lubjanka, la Casa-uovo in via Mashkov, il centro commerciale \"Okhotny Ryad\" in Piazza del Maneggio, il centro commerciale \"Evropejskij\" in Piazza della stazione Kievskaja, il Teatro \"Et Cetera\" nel vicolo Frolov...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.604773,
+                    55.739396
+                ]
+            },
+            "properties": {
+                "entity": "Evropejskij",
+                "name_location": "Европейский банк развития, 1-й Зачатьевский переулок, район Хамовники, Mosca, Distretto Federale Centrale, 119034, Russia",
+                "class": "office",
+                "type": "bank",
+                "snippet": [
+                    "*...Alcuni esempi di edifici realizzati durante il governo di Lužkov sono: il centro commerciale \"Nautilius\" sulla Piazza Lubjanka, la Casa-uovo in via Mashkov, il centro commerciale \"Okhotny Ryad\" in Piazza del Maneggio, il centro commerciale \"Evropejskij\" in Piazza della stazione Kievskaja, il Teatro \"Et Cetera\" nel vicolo Frolov...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.559092,
+                    55.790948
+                ]
+            },
+            "properties": {
+                "entity": "VTB Arena",
+                "name_location": "Универсальная ВТБ Арена, Московская аллея, Aeroport, Mosca, Distretto Federale Centrale, 125167, Russia",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...Lo stadio della Dinamo Mosca, la VTB Arena, ricostruita nel 2019, è comparsa al sesto posto nella classifica annuale del StadiumDB dei migliori stadi dell'anno....",
+                    "*...Dinamo Mosca che gioca nello stadio VTB Arena ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.563311,
+                    55.648318
+                ]
+            },
+            "properties": {
+                "entity": "Lesopark",
+                "name_location": "Лесопарк, Севастопольский проспект, район Ясенево, Mosca, Distretto Federale Centrale, 117246, Russia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Alcuni parchi sono designati come parchi forestali (Lesopark)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.748219,
+                    55.77661
+                ]
+            },
+            "properties": {
+                "entity": "Izmajlovskij Park",
+                "name_location": "Parco di Izmajlovo, Московский проспект, район Измайлово, Mosca, Distretto Federale Centrale, 105187, Russia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Izmajlovskij Park, creato nel 1931, è uno dei più grandi parchi urbani del mondo insieme con Richmond Park a Londra....",
+                    "...La città possiede alcuni tra i più grandi parchi al mondo, come il Parco Izmajlovskij, il Parco Timiriazevskij, il Parco Fili, il Parco Zamoskvoreckij, il Parco Ljublino, il Parco Butovskij, l'orto botanico, il Parco Neskučnyj, il Parco Bitcevskij, il Parco Caricyno, il Parco Kolomenskoe, il Parco Kuz'minki, il Parco Kuskovo, il Parco Sokol'niki e molte altre aree verdi....",
+                    "*...Diversi parchi comprendono una sezione conosciuta come \"Parco della Cultura e riposo\", talvolta posti accanto a una zona selvaggia (questo include parchi come Izmajlovskij, Fili e Sokolniki...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.618474,
+                    55.832858
+                ]
+            },
+            "properties": {
+                "entity": "Moskvarium",
+                "name_location": "Москвариум, 119 с23, Кольцевая дорога ВДНХ, Выставка достижений народного хозяйства, Останкинский район, Mosca, Distretto Federale Centrale, 129223, Russia",
+                "class": "tourism",
+                "type": "aquarium",
+                "snippet": [
+                    "*...Sul territorio del complesso ci sono oggi il più grande oceanario d'Europa, Moskvarium, con  visitabili, il Museo dello shuttle Buran, il Centro per la Cosmonautica e l'Aviazione e il Museo \"Moja Rossija\" (\"La mia Russia\")....",
+                    "*...Moskva, pronuncia russa , ) è la capitale, la città più popolosa nonché il principale centro politico, economico e finanziario dello Stato della Russia....",
+                    "*...Altri edifici storici, tra cui l'hotel Moskva del 1930 e il magazzino Voentorg del 1913, sono stati rasi al suolo e ricostruiti nuovamente con l'inevitabile perdita del valore storico....",
+                    "...Volejbol'nyj klub Dinamo Moskva ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.576322,
+                    55.763374
+                ]
+            },
+            "properties": {
+                "entity": "Zoo di Mosca",
+                "name_location": "Zoo di Mosca, Большая Грузинская улица, Пресненский район, Mosca, Distretto Federale Centrale, 123557, Russia",
+                "class": "tourism",
+                "type": "zoo",
+                "snippet": [
+                    "*...Altre attrazioni popolari includono lo Zoo di Mosca, un Giardino zoologico in due sezioni collegate da un ponte, con quasi un migliaio di specie e più di 6 500 esemplari...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.704292,
+                    55.684347
+                ]
+            },
+            "properties": {
+                "entity": "Nagatinskij Zaton",
+                "name_location": "Нагатинский Затон, Коломенская улица, район Нагатинский Затон, Mosca, Distretto Federale Centrale, 115142, Russia",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Il Parco si trova a sud della città, nel quartiere Nagatinskij Zaton ed è possibile utilizzare la linea 2 della metropolitana fino alla fermata di Technopark...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.599564,
+                    55.855787
+                ]
+            },
+            "properties": {
+                "entity": "Technopark",
+                "name_location": "технопарк Отрадное, 2 с10, Отрадная улица, район Отрадное, Mosca, Distretto Federale Centrale, 127273, Russia",
+                "class": "amenity",
+                "type": "parking",
+                "snippet": [
+                    "*...Il Parco si trova a sud della città, nel quartiere Nagatinskij Zaton ed è possibile utilizzare la linea 2 della metropolitana fino alla fermata di Technopark...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.679358,
+                    55.69766
+                ]
+            },
+            "properties": {
+                "entity": "Dream Island",
+                "name_location": "Dream Island Marina, 2-й Южнопортовый проезд, Кожухово, Южнопортовый район, Mosca, Distretto Federale Centrale, 115193, Russia",
+                "class": "leisure",
+                "type": "marina",
+                "snippet": [
+                    "*...Il 29 febbraio 2020 è stato aperto, dopo 4 anni di lavori, il Parco divertimenti tematico coperto più grande d'Europa, il Dream Island....",
+                    "*...All'interno del Dream Island c'è un'area coperta chiamata City Promenade, con quattro strade che richiamano Londra, Roma, Barcellona e Beverly Hills...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.63105,
+                    55.766512
+                ]
+            },
+            "properties": {
+                "entity": "Beverly Hills",
+                "name_location": "Beverly Hills Diner, Рождественский бульвар, Мещанский район, Mosca, Distretto Federale Centrale, 107045, Russia",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...All'interno del Dream Island c'è un'area coperta chiamata City Promenade, con quattro strade che richiamano Londra, Roma, Barcellona e Beverly Hills...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.719852,
+                    55.885212
+                ]
+            },
+            "properties": {
+                "entity": "Московская Кольцевая Автомобильная",
+                "name_location": "МКАД, 94-й километр, Ярославский район, Mosca, Distretto Federale Centrale, 141014, Russia",
+                "class": "highway",
+                "type": "trunk",
+                "snippet": [
+                    "*...L'anello più esterno è l'anello autostradale chiamato MKAD (dal russo Московская Кольцевая Автомобильная Дорога) realizzato nel 1950...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.629595,
+                    55.710835
+                ]
+            },
+            "properties": {
+                "entity": "monastero Danilov",
+                "name_location": "Monastero Danilov, 22, улица Даниловский Вал, Даниловский район, Mosca, Distretto Federale Centrale, 113093, Russia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Il Patriarca di Mosca, funge da capo della Chiesa e risiede nel monastero Danilov...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.839168,
+                    55.944362
+                ]
+            },
+            "properties": {
+                "entity": "Северный",
+                "name_location": "Северный, Северное шоссе, Никулино, Северный, городской округ Истра, Oblast' di Mosca, Distretto Federale Centrale, 143502, Russia",
+                "class": "shop",
+                "type": "supermarket",
+                "snippet": [
+                    "*...Settentrionale (Северный, Severnyj) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.839168,
+                    55.944362
+                ]
+            },
+            "properties": {
+                "entity": "Severnyj",
+                "name_location": "Северный, Северное шоссе, Никулино, Северный, городской округ Истра, Oblast' di Mosca, Distretto Federale Centrale, 143502, Russia",
+                "class": "shop",
+                "type": "supermarket",
+                "snippet": [
+                    "*...Settentrionale (Северный, Severnyj) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.615297,
+                    55.783837
+                ]
+            },
+            "properties": {
+                "entity": "Северо-Восточный",
+                "name_location": "Северо-восточный административный округ, улица Советской Армии, район Марьина Роща, Mosca, Distretto Federale Centrale, 127030, Russia",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...Nord-orientale (Северо-Восточный, Severo-Vostočnyj) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.615297,
+                    55.783837
+                ]
+            },
+            "properties": {
+                "entity": "Severo-Vostočnyj",
+                "name_location": "Северо-восточный административный округ, улица Советской Армии, район Марьина Роща, Mosca, Distretto Federale Centrale, 127030, Russia",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...Nord-orientale (Северо-Восточный, Severo-Vostočnyj) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.804289,
+                    55.694466
+                ]
+            },
+            "properties": {
+                "entity": "Юго-Восточный",
+                "name_location": "ДООЦ \"Юго-Восточный\", 33 к2, Ташкентская улица, район Выхино-Жулебино, Mosca, Distretto Federale Centrale, 109472, Russia",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...Sud-orientale (Юго-Восточный, Jugo-Vostočnyj) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.606477,
+                    55.626487
+                ]
+            },
+            "properties": {
+                "entity": "Южный",
+                "name_location": "Южный, 10А, Кировоградская улица, район Чертаново Северное, Mosca, Distretto Federale Centrale, 113587, Russia",
+                "class": "leisure",
+                "type": "fitness_centre",
+                "snippet": [
+                    "*...Meridionale (Южный, Južnyj) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.481573,
+                    55.652014
+                ]
+            },
+            "properties": {
+                "entity": "Юго-Западный",
+                "name_location": "Росгосстрах, проспект Вернадского, Тропарёво-Никулино, Mosca, Distretto Federale Centrale, 119571, Russia",
+                "class": "office",
+                "type": "insurance",
+                "snippet": [
+                    "*...Sud-occidentale (Юго-Западный, Jugo-Zapadnyj) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.647524,
+                    55.786494
+                ]
+            },
+            "properties": {
+                "entity": "Северо-Западный",
+                "name_location": "Северо-Западный центр организации перевозок транспортных средств, проезд Комсомольской Площади, Красносельский район, Mosca, Distretto Federale Centrale, 107140, Russia",
+                "class": "office",
+                "type": "company",
+                "snippet": [
+                    "*...Nord-occidentale (Северо-Западный, Severo-Zapadnyj) ;...",
+                    "*...Occidentale (Западный, Zapadnyj) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.647524,
+                    55.786494
+                ]
+            },
+            "properties": {
+                "entity": "Severo-Zapadnyj",
+                "name_location": "Северо-Западный центр организации перевозок транспортных средств, проезд Комсомольской Площади, Красносельский район, Mosca, Distretto Federale Centrale, 107140, Russia",
+                "class": "office",
+                "type": "company",
+                "snippet": [
+                    "*...Nord-occidentale (Северо-Западный, Severo-Zapadnyj) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.225222,
+                    55.989798
+                ]
+            },
+            "properties": {
+                "entity": "Zelenograd",
+                "name_location": "Зеленоград, к602, Сосновая аллея, 6-й микрорайон, район Савёлки, Зеленоград, Mosca, Distretto Federale Centrale, 124489, Russia",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...Zelenograd (Зеленоград) ;...",
+                    "*...Ci sono anche molte altre industrie situate appena fuori dalla città di Mosca, così come molte industrie microelettroniche verso Zelenograd...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.225222,
+                    55.989798
+                ]
+            },
+            "properties": {
+                "entity": "Зеленоград",
+                "name_location": "Зеленоград, к602, Сосновая аллея, 6-й микрорайон, район Савёлки, Зеленоград, Mosca, Distretto Federale Centrale, 124489, Russia",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...Zelenograd (Зеленоград) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.466223,
+                    55.566882
+                ]
+            },
+            "properties": {
+                "entity": "Новомосковский",
+                "name_location": "Городская клиническая больница № 40, 8, улица Сосенский Стан, Коммунарка, поселение Сосенское, Mosca, Distretto Federale Centrale, 142770, Russia",
+                "class": "amenity",
+                "type": "hospital",
+                "snippet": [
+                    "*...Novomoskovskij (Новомосковский) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.614292,
+                    55.752317
+                ]
+            },
+            "properties": {
+                "entity": "Троицкий",
+                "name_location": "Троицкий мост, Троицкие ворота, 18, 19, Тверской район, Mosca, Distretto Federale Centrale, 103009, Russia",
+                "class": "bridge",
+                "type": "yes",
+                "snippet": [
+                    "*...Troickij (Троицкий) ...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.609534,
+                    55.751663
+                ]
+            },
+            "properties": {
+                "entity": "Biblioteca di Stato russa",
+                "name_location": "Biblioteca di stato russa, 3/5, улица Воздвиженка, 43, район Арбат, Mosca, Distretto Federale Centrale, 119019, Russia",
+                "class": "amenity",
+                "type": "library",
+                "snippet": [
+                    "*...La principale biblioteca di Mosca è la Biblioteca di Stato russa, già Biblioteca Lenin, che è una delle maggiori biblioteche del mondo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.62022,
+                    55.741361
+                ]
+            },
+            "properties": {
+                "entity": "Galleria Tretyakov",
+                "name_location": "Galleria Tretj'akov, 10, Лаврушинский переулок, район Якиманка, Mosca, Distretto Federale Centrale, 119017, Russia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Opere caratteristiche del realismo socialista si possono trovare all'interno dei padiglioni della nuova Galleria Tretyakov...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.605423,
+                    55.747285
+                ]
+            },
+            "properties": {
+                "entity": "Museo Puškin",
+                "name_location": "Museo Puškin delle belle arti, 12 с1, улица Волхонка, 31, район Хамовники, Mosca, Distretto Federale Centrale, 119019, Russia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Un altro Museo d'arte della città di Mosca è il Museo Puškin delle belle arti (Музей изобразительных искусств им....",
+                    "*...Il Museo Puškin è simile al British Museum di Londra in quanto i suoi saloni rappresentano una sezione trasversale di opere sulla civiltà del mondo, con molte copie di sculture antiche...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.593944,
+                    55.767028
+                ]
+            },
+            "properties": {
+                "entity": "Museo Bulgakov",
+                "name_location": "Museo Bulgakov, Большая Садовая улица, Пресненский район, Mosca, Distretto Federale Centrale, 123001, Russia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Tra gli altri musei cittadini che si possono menzionare vi sono l'Arsenale del Cremlino, il Museo Bulgakov, il Museo centrale della Federazione Russa delle aeronautiche militari e il Museo di arte multimediale...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.618612,
+                    55.76013
+                ]
+            },
+            "properties": {
+                "entity": "Teatro Bol'šoj",
+                "name_location": "Teatro Bol'šoj, 1, Театральная площадь, 2, 62, Тверской район, Mosca, Distretto Federale Centrale, 125009, Russia",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...Il Teatro dell'opera e del balletto di Mosca è il celebre Teatro Bol'šoj (\"Grande Teatro\")...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.620631,
+                    55.75975
+                ]
+            },
+            "properties": {
+                "entity": "Malyj Teatr",
+                "name_location": "Малый театр, 1, Театральный проезд, 6, 62, Тверской район, Mosca, Distretto Federale Centrale, 109012, Russia",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...I teatri di prosa più antichi sono il Malyj Teatr (\"Piccolo Teatro\") e il Teatro d'Arte di Mosca, legato ai nomi di Čechov e di Stanislavskij...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.833386,
+                    55.273951
+                ]
+            },
+            "properties": {
+                "entity": "Rublevka",
+                "name_location": "Рублевка, 46Н-01540, Растуново, городской округ Домодедово, Oblast' di Mosca, Distretto Federale Centrale, 142062, Russia",
+                "class": "shop",
+                "type": "convenience",
+                "snippet": [
+                    "*...Il centro della città di Mosca e la prospettiva Rublevka (la zona più costosa della città) possiedono una vasta scelta di strutture di lusso...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.649914,
+                    55.752822
+                ]
+            },
+            "properties": {
+                "entity": "India",
+                "name_location": "Посольство Индии, 6-8, улица Воронцово Поле, Таганский район, Mosca, Distretto Federale Centrale, 105064, Russia",
+                "class": "office",
+                "type": "diplomatic",
+                "snippet": [
+                    "*...Il Mercato Cherkizovskiy era il più grande Mercato in Europa, con un fatturato giornaliero di circa trenta milioni di dollari e circa diecimila venditori provenienti da diversi paesi (tra cui Cina, Turchia, Azerbaigian e India)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.453473,
+                    55.893696
+                ]
+            },
+            "properties": {
+                "entity": "Chimki",
+                "name_location": "Химки, Железнодорожная улица, Жилой комплекс «Парк Толстого», Старые Химки, Chimki, городской округ Химки, Oblast' di Mosca, Distretto Federale Centrale, 141402, Russia",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...NPO Energomash, che produce i motori a razzo per i programmi spaziali russi e americani, così come la Lavochkin, che ha costruito aerei da combattimento durante la seconda guerra mondiale, ma anche sonde spaziali durante la corsa allo spazio, possiede uffici tecnici nella vicina Chimki....",
+                    "*...Durante la seconda guerra mondiale, alle porte della città ci fu un attacco da parte delle truppe tedesche della Wehrmacht, che riuscirono a spingersi fino al vicino comune di Himki, a nord-ovest di Mosca...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.623662,
+                    55.704594
+                ]
+            },
+            "properties": {
+                "entity": "ZIL",
+                "name_location": "Тульская, Третье Транспортное кольцо, Канатчиково, Донской район, Mosca, Distretto Federale Centrale, 117125, Russia",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Le fabbriche automobilistiche come la ZIL si trovano nei pressi di Mosca...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.602832,
+                    55.757065
+                ]
+            },
+            "properties": {
+                "entity": "Tokyo",
+                "name_location": "Tokyo, 22/2, Большая Никитская улица, 46, Пресненский район, Mosca, Distretto Federale Centrale, 119049, Russia",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...Nel 2006, Mercer Human Resources Consulting ha nominato Mosca la città più cara del mondo per i dipendenti espatriati, davanti alla vincitrice perenne Tokyo, a causa del rublo russo stabile così come l'aumento dei prezzi delle case all'interno della città...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.738082,
+                    55.745345
+                ]
+            },
+            "properties": {
+                "entity": "Mosgortrans",
+                "name_location": "Мосгортранс, 1-я Фрезерная улица, Карачарово, Нижегородский район, Mosca, Distretto Federale Centrale, 109202, Russia",
+                "class": "shop",
+                "type": "ticket",
+                "snippet": [
+                    "*...Il trasporto all'interno della città e in parte dell'oblast' di Mosca è gestito da Mosgortrans, che ha sotto la propria giurisdizione la metropolitana, gli autobus, i filobus, i tram, l'Anello centrale di Mosca e il noleggio di microbus e autobus con conducente....",
+                    "*...Nel 2018 le compagnie automobilistiche Gaz e Kamaz hanno vinto il bando di gara indetto dalla società dei trasporti moscovita Mosgortrans per la consegna di 200 autobus elettrici e 62 stazioni di caricamento ultra veloce...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.423801,
+                    55.976088
+                ]
+            },
+            "properties": {
+                "entity": "Aeroporto Šeremet'evo",
+                "name_location": "Aeroporto di Mosca-Šeremet'evo, Старошереметьевское шоссе, Chimki, городской округ Химки, Oblast' di Mosca, Distretto Federale Centrale, 141426, Russia",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "*...L'Aeroporto Šeremet'evo (45,83 milioni di passeggeri nel 2018) ;...",
+                    "*...L'Aeroporto Šeremet'evo è il punto di ingresso più comune per i visitatori stranieri, esso infatti gestisce il sessanta per cento di tutti i voli internazionali....",
+                    "*...L'Aeroporto Domodedovo è invece la porta principale a lungo raggio nazionale e rivaleggia con l'Aeroporto Šeremet'evo sui voli intercontinentali....",
+                    "*...La città è servita da un'ampia rete di trasporti, che include quattro aeroporti internazionali (Šeremet'evo, Domodedovo, Vnukovo e Žukovskij), nove stazioni ferroviarie, numerose linee tramviarie, un sistema di monorotaia, un sistema ferroviario di superficie, un sistema di cabinovia, uno sviluppato servizio di car sharing e di bike sharing, e la metropolitana, fra le più estese e profonde del mondo, la più frequentata in Europa e la quarta più frequentata al mondo;...",
+                    "*...Bykovo è il più lontano a , Domodedovo è a , Vnukovo a , Šeremet'evo a  e Ostaf'evo, il più vicino dista circa 8 chilometri...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.423801,
+                    55.976088
+                ]
+            },
+            "properties": {
+                "entity": "aeroporti di Mosca",
+                "name_location": "Aeroporto di Mosca-Šeremet'evo, Старошереметьевское шоссе, Chimki, городской округ Химки, Oblast' di Mosca, Distretto Federale Centrale, 141426, Russia",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "*...Gli aeroporti di Mosca hanno distanze variabili dalla tangenziale MKAD:...",
+                    "*...Mosca (AFI:...",
+                    "...La città è stata capitale del Granducato di Mosca, del regno degli zar di Moscovia, dell'Impero russo (fino al 1713 e poi dal 1728 al 1732) e dell'Unione Sovietica;...",
+                    "*...Oggi è sede del Governo della Federazione Russa, situato nel Cremlino di Mosca, una cittadella medievale fortificata che funge da sede del Presidente russo....",
+                    "*...Mosca è rinomata per i suoi stili architettonici unici e ammirabili in un gran numero di edifici storici, fra cui la celebre Cattedrale di San Basilio con le sue cupole a cipolla colorate, la Cattedrale di Cristo Salvatore, i magazzini GUM e l'Esposizione delle conquiste dell'economia nazionale....",
+                    "*...La città è sede della Torre di Ostankino, la più alta struttura d'Europa, della Torre della Federazione, il secondo più alto grattacielo d'Europa, e del Centro internazionale di affari di Mosca....",
+                    "*...Mosca è inoltre considerata il centro della cultura russa, essendo luogo di nascita e di residenza di celebri artisti, scienziati e sportivi russi del passato e del presente, nonché sede di numerosissimi musei, accademie, istituzioni politiche e teatri....",
+                    "*...Mosca è nota con numerosi epiteti,che si riferiscono alle sue dimensioni e allo status preminente all'interno della nazione:...",
+                    "*...Mosca si trova nel circondario federale centrale (nella porzione europea del Paese), tra i fiumi Oka e Volga....",
+                    "*...Mosca giace sulle rive del fiume Moscova;...",
+                    "*...Mosca è situata nel terzo spicchio del fuso orario internazionale (UTC+3);...",
+                    "*...L'orario convenzionale utilizzato a Mosca è denominato internazionalmente \"fuso orario di Mosca\"....",
+                    "*...La città di Mosca ha un clima continentale freddo....",
+                    "*...Lontana da mari che possano mitigare il clima, Mosca ha un clima caratterizzato da inverni molto lunghi e rigidi ed estati brevi anche se talvolta molto calde....",
+                    "*...Mosca è nota per essere una delle metropoli più fredde del mondo ed è spesso associata alla neve, ma le estati possono anche essere calde (record storico  nel luglio 2010) e ogni tanto afose....",
+                    "*...La temperatura minima a Mosca si registrò nel gennaio 1940, quando il termometro scese a ....",
+                    "*...Pur avendo sul suo territorio moltissimi edifici, le zone verdi di Mosca costituiscono un terzo della superficie totale della capitale, con 34 300 ettari....",
+                    "*...I parchi di Mosca sono dimora di rare specie animali per un ambiente cittadino come il moscardino, la puzzola, la pavoncella, il pipistrello di Nathusius e numerosi altri animali, inseriti nel libro rosso di Mosca....",
+                    "*...Il primo riferimento storico a Mosca è datato 1147, quando era un'oscura città di una piccola provincia con una tribù finnica (i Merja) e in un'antica cronaca russa si narra che il principe russo Jurij Dolgorukij invitò il principe Svjatoslav di Novgorod-Severskij, nonché suo alleato, a visitare il villaggio:...",
+                    "...«Vieni da me, fratello, vieni a Mosca!»....",
+                    "*...Dopo il saccheggio del 1237-1238, quando i Mongoli la rasero al suolo uccidendone tutti gli abitanti, Mosca fu ricostruita e divenne la capitale d'un principato indipendente....",
+                    "*...Nel 1300 Mosca fu conquistata da Daniil Aleksandrovič, il figlio di Aleksandr Nevskij e membro della dinastia Rjurik....",
+                    "*...Mosca fu stabile e prospera per diversi anni, attraendo di conseguenza un gran numero di immigrati dall'intera Russia....",
+                    "...Intorno al 1304 Jurij di Mosca entrò in competizione con Michail Jaroslavič (e successivamente con il figlio di quest'ultimo, Dmitrij) per il trono del Principato di Vladimir-Suzdal'....",
+                    "*...Con Ivan I Mosca ebbe finalmente la meglio su Tver' e assunse il ruolo di capitale del principato e di unico centro di raccolta delle tasse destinate ai governanti mongoli....",
+                    "*...Al contrario di altri principati, Mosca non fu divisa fra i figli del principe, bensì passò interamente al maggiore di essi....",
+                    "*...Se inizialmente il khan dell'Orda d'Oro tentò di limitare l'influenza di Mosca, in seguito, quando l'ascesa del Granducato di Lituania cominciò a minacciare l'intera Russia, il khan stesso, per controbilanciare la Lituania, rinforzò Mosca, consentendole di diventare una delle città più potenti in Russia....",
+                    "*...Nel 1380, il principe Dimitri Donskoj di Mosca condusse un'armata panrussa a un'importante vittoria sui Mongoli nella Battaglia di Kulikovo....",
+                    "*...In quel momento Mosca assunse un ruolo di primo piano nella liberazione della Russia dalla dominazione mongola....",
+                    "*...Nel 1480 Ivan III di Russia sottrasse definitivamente il controllo di Mosca ai Tatari e consegnò la città ai Russi;...",
+                    "*...Il cuore della Chiesa ortodossa si spostò a questo punto dall'antica Bisanzio a Mosca....",
+                    "*...La nuova posizione politica e religiosa raggiunta da Mosca sul piano internazionale portò alla nascita dell'idea che la città fosse la terza Roma (dove Roma e Costantinopoli erano state le prime due)....",
+                    "*...Nel 1571 i Tartari del Canato di Crimea si impadronirono di Mosca e la diedero alle fiamme....",
+                    "*...Dal 1610 al 1612 Mosca fu occupata da truppe del regno polacco-lituano, il cui sovrano Sigismondo III tentò di usurpare il trono russo....",
+                    "*...Lo zar già allora istituì una festa a ricordo della cacciata dei Polacchi e dei Lituani, nota come \"giorno della liberazione di Mosca dagli invasori polacchi\"....",
+                    "*...Mosca cessò di essere la capitale del regno russo nel 1703, quando Pietro il Grande costruì San Pietroburgo, sulla costa del mar Baltico....",
+                    "*...Nel gennaio del 1905 fu istituita ufficialmente a Mosca la carica di governatore, o sindaco, e Aleksandr Adrianov divenne il primo sindaco ufficiale di Mosca;...",
+                    "*...Dopo il successo della rivoluzione d'ottobre del 1917 Lenin, temendo invasioni straniere, spostò la capitale da Pietrogrado (fino al 1914 chiamata San Pietroburgo) di nuovo a Mosca il 5 marzo 1918....",
+                    "*...Durante la seconda guerra mondiale, alle porte della città ci fu un attacco da parte delle truppe tedesche della Wehrmacht, che riuscirono a spingersi fino al vicino comune di Himki, a nord-ovest di Mosca....",
+                    "*...Il 5 dicembre 1941, l'Armata rossa sferrò una grande controffensiva davanti a Mosca e riuscì a sconfiggere le truppe tedesche, salvando la capitale e respingendo indietro il nemico....",
+                    "*...Snodo vitale delle ferrovie e delle linee di rifornimento dell'URSS, Mosca, insieme con Leningrado e Kiev, venne individuata come uno dei tre obiettivi strategici dell'offensiva del 1941 della Wehrmacht....",
+                    "*...Tra il 1952 e il 1957 a Mosca si costruirono, su commissione di Stalin, 7 grattacieli di simile architettura chiamati \"sette sorelle\", che ancora oggi sono un simbolo importante della città rappresentante l'epoca sovietica....",
+                    "*...Nel 1960 i confini territoriali di Mosca furono stabiliti lungo il MKAD;...",
+                    "*...Nel 1980 Mosca accolse i Giochi della XXII Olimpiade, durati dal 19 luglio al 3 agosto del 1980....",
+                    "...Nel 2015, su iniziativa della Duma di Mosca, sono incominciati i lavori di riqualificazione delle strade della capitale sulla base del programma \"La mia via\" (Моя улица), che ha come obiettivo il rinnovamento e la creazione di zone pedonali, marciapiedi, facciate e illuminazione di edifici, piste ciclabili e piantumazione di alberi;...",
+                    "...Nel 2016 la Duma di Mosca ha avviato il programma di rinnovamento degli alloggi, grazie al quale entro 15 anni verranno abbattuti e sostituiti da abitazioni moderne i circa 5 000 condomini fatiscenti costruiti tra il 1957 e il 1968 durante il governo di Nikita Sergeevič Chruščëv, dal quale le abitazioni prendono il nome di chruščëvka....",
+                    "*...Da luglio ad agosto 2019 a Mosca c'è stata un'ondata di proteste anti-governative, guidate dall'oppositore Alexej Naval'nyj e dai candidati indipendenti al ruolo di deputati della Duma della città di Mosca Il'ja Jašin, Ljubov' Sobol', Ivan Ždanov e Julija Galjamina....",
+                    "*...Le proteste sono state causate dalla situazione instabile delle elezioni della Duma della città di Mosca del 2019....",
+                    "*...L'emblema araldico di Mosca è parte integrante dello stemma della Russia sin dal XVI secolo....",
+                    "*...In accordo alla legge cittadina del 1º ottobre 1995, n. 4-12 \"Sul simbolo e sulla bandiera della città di Mosca\", lo stemma cittadino presenta su uno scudo araldico a sfondo rosso scuro di proporzioni 8:9 l'effigie di \"San Giorgio vittorioso\" con armatura argentea e mantello azzurro su un cavallo argenteo che trafigge con una lancia dorata un drago nero....",
+                    "*...La bandiera della città di Mosca è rettangolare e di proporzioni 2:3, ha colore rosso scuro e raffigura al centro delle due facciate gli elementi sopra elencati dello stemma con proporzioni tali da occupare 2/5 della larghezza della bandiera....",
+                    "*...L'inno della città di Mosca è la composizione musicale \"Mosca mia\" (\"Моя Москва\"), scritta da I. Dunaevskij per i versi di M. Lisjanskij e S. Agranjan....",
+                    "*...Mosca possiede un patrimonio architettonico di rilevanza mondiale....",
+                    "*...La struttura medioevale di Mosca era concepita con mura concentriche e strade radiali che si intersecano....",
+                    "*...Questo layout, così come i fiumi di Mosca, hanno contribuito a plasmare lo sviluppo della città nei secoli successivi....",
+                    "*...La ricostruzione di Mosca nella seconda metà del XVIII secolo è stata resa necessaria non solo dagli incendi costanti, ma anche per le esigenze della nobiltà....",
+                    "*...Per gran parte della sua storia architettonica, Mosca è stata dominata da chiese ortodosse....",
+                    "*...Una caratteristica distintiva dello skyline di Mosca, la loro forma imponente sarebbe stata ispirata dal Manhattan Municipal Building a New York, e il loro stile, con esterni intricati e una grande guglia centrale, è stato descritto come architettura gotica stalinista....",
+                    "*...Sono tra le costruzioni più alte del centro di Mosca, a parte la torre di Ostankino, che, quando è stato completata nel 1967, era la più alta struttura autoportante del mondo e oggi rimane la settantaduesima, collocandosi tra edifici come il Burj Khalifa di Dubai, il Taipei 101 a Taiwan e la CN Tower di Toronto....",
+                    "*...Si stima che Mosca abbia oltre il doppio degli ascensori di New York e quattro volte di più di Chicago....",
+                    "*...Il palazzo Ostankino, Kuskovo, Uzkoe e altri grandi patrimoni, appena fuori Mosca originariamente appartenerono ai nobili di epoca zarista, e alcuni conventi e monasteri, sia all'interno sia all'esterno della città, sono aperti ai moscoviti e turisti....",
+                    "...Nella costruzione di nuovi edifici si è copiato lo stile occidentale, e si è anche cercato di creare un proprio stile, il cosiddetto \"stile luzhkoviano\", definizione popolare data agli edifici fatti costruire sottocommissione dell'Amministrazione di Mosca, presidiata dal sindaco Jurj Lužkov, che commentò così lo stile creato dai suoi fidati architetti e scultori:...",
+                    "*...Si stima che un terzo del centro storico di Mosca è stato distrutto negli ultimi anni per fare spazio ad appartamenti e hotel di lusso....",
+                    "*...La Torre della Federazione Est, con i suoi 374 metri è al momento l'edificio più alto di Mosca e il secondo più alto d'Europa dopo il Lakhta Center di San Pietroburgo....",
+                    "*...L'edificio più alto di Mosca sarà la One Tower, che secondo i progetti sarà alta 403,9 metri....",
+                    "*...Il Parco si estende su una superficie di oltre 10 ettari nel cuore di Mosca....",
+                    "...Lo stadio della Dinamo Mosca, la VTB Arena, ricostruita nel 2019, è comparsa al sesto posto nella classifica annuale del StadiumDB dei migliori stadi dell'anno....",
+                    "*...Mosca dispone di 120 parchi e 18 giardini, tra cui quattro giardini botanici....",
+                    "*...Mosca è una città molto verde rispetto ad altre città di dimensioni analoghe dell'Europa occidentale e del Nord America....",
+                    "*...Vi sono in media 27 metri quadrati di parchi per persona a Mosca rispetto ai 6 di Parigi, ai 7,5 di Londra e agli 8,6 di New York....",
+                    "...Confina con il Giardino Neskutčnyj (408 000 metri quadrati), il più antico Parco di Mosca ed ex residenza imperiale, creato come risultato dell'integrazione di tre tenute nel XIX secolo....",
+                    "*...Il Parco Sokolniki, dal nome della caccia al falco che si teneva in passato, è uno dei più antichi parchi di Mosca e ha una superficie di 6 chilometri quadrati....",
+                    "*...Il nuovo spazio pubblico è stato inaugurato nel settembre 2018, durante i festeggiamenti del Giorno della città di Mosca....",
+                    "*...Mosca è sempre stata una destinazione popolare per i turisti....",
+                    "*...Alcune delle più famose attrazioni includono la città, patrimonio mondiale dell'UNESCO, il Cremlino di Mosca e la Piazza Rossa, che è stato costruito tra il XIV e XVII secolo....",
+                    "...Altre attrazioni popolari includono lo Zoo di Mosca, un Giardino zoologico in due sezioni collegate da un ponte, con quasi un migliaio di specie e più di 6 500 esemplari....",
+                    "*...Le strade portanno a una piazza centrale, chiamata Mosca, coperta dalla più grande cupola in vetro d'Europa....",
+                    "...Il sistema stradale di Mosca è centrato all'incirca intorno al Cremlino nel cuore della città....",
+                    "*...Fino all'ampliamento in direzione sud-ovest del comune di Mosca del 2012, ha rappresentato per la maggior parte del suo tracciato anche il confine amministrativo della città....",
+                    "*...Fuori Mosca,...",
+                    "*...Altre religioni praticate a Mosca includono la Chiesa apostolica armena, il Buddismo, il Cattolicesimo, l'Islam, l'Ebraismo, i Vecchi Credenti, il Protestantesimo e la Fede nativa slava....",
+                    "...Il Patriarca di Mosca, funge da capo della Chiesa e risiede nel monastero Danilov....",
+                    "*...Prima del 1917, Mosca veniva chiamata la \"città di 40 volte 40 chiese\" - \"Город сорока сороков церквей\"....",
+                    "*...Vi sono quattro moschee a Mosca....",
+                    "*...Mosca si compone di 12 distretti:...",
+                    "*...Dal 1991 Mosca è amministrativamente suddivisa in quartieri (146 in totale, tra i quali 21 insediamenti)....",
+                    "*...A Mosca ci sono molte grandi Università, fra cui la rinomata Università statale di Mosca ospitata nella torre alta 240 m sulle Vorob'ëvy Gory (Colline dei Passeri)....",
+                    "...L'Università tecnica statale Bauman offre un'ampia specializzazione in campo tecnologico e l'Istituto statale di Mosca per le relazioni internazionali (MGIMO) è la più famosa scuola russa per l'insegnamento della diplomazia internazionale....",
+                    "*...La città di Mosca partecipa annualmente alle Rilevazioni OCSE PISA (Programme for International Student Assessment), che fanno il punto sui livelli di competenze in Lettura, Matematica e Scienze di quindicenni provenienti da 79 diversi Paesi ed economie....",
+                    "*...L'Accademia russa delle scienze, principale istituzione di ricerca della Federazione, ha sede a Mosca, anche se i singoli istituti di ricerca sono disseminati in tutto il territorio federale....",
+                    "...Separato è l'Istituto di fisca e tecnologia di Mosca....",
+                    "*...La principale biblioteca di Mosca è la Biblioteca di Stato russa, già Biblioteca Lenin, che è una delle maggiori biblioteche del mondo....",
+                    "...L'Assessorato alla Cultura della Città di Mosca gestisce oltre 450 biblioteche pubbliche, dislocate in tutti i quartieri della capitale....",
+                    "*...A Mosca ha sede anche l'Archivio di Stato della Federazione Russa....",
+                    "*...Uno dei musei d'arte più importanti di Mosca è la Galleria Tret'jakov, fondata da Pavel Michajlovič Tret'jakov, un ricco mecenate delle arti che ha donato la sua grande collezione privata alla città....",
+                    "*...Un altro Museo d'arte della città di Mosca è il Museo Puškin delle belle arti (Музей изобразительных искусств им....",
+                    "*...Mosca è il cuore dello spettacolo russo, con il suo conosciuto balletto e Cinema....",
+                    "*...Il Teatro dell'opera e del balletto di Mosca è il celebre Teatro Bol'šoj (\"Grande Teatro\")....",
+                    "...I teatri di prosa più antichi sono il Malyj Teatr (\"Piccolo Teatro\") e il Teatro d'Arte di Mosca, legato ai nomi di Čechov e di Stanislavskij....",
+                    "...Il Teatro Ebraico Statale di Mosca (in russo:...",
+                    "*...I repertori in una tipica stagione di Mosca sono numerosi e moderne interpretazioni di opere classiche, sia operistiche sia teatrali....",
+                    "*...Mosca è sede di molte orchestre sinfoniche, fra cui l'Orchestra sinfonica accademica statale della Federazione Russa, l'Orchestra nazionale russa e l'Orchestra Filarmonica di Mosca....",
+                    "*...Vi sono anche due grandi circhi di Mosca:...",
+                    "...Il Circo Statale di Mosca e il Circo sul Tsvetnoy Boulevard....",
+                    "*...Il centro della città di Mosca e la prospettiva Rublevka (la zona più costosa della città) possiedono una vasta scelta di strutture di lusso....",
+                    "*...La vita notturna a Mosca è cresciuta dalla fine dell'era sovietica e oggi la città vanta alcune tra le più grandi discoteche del mondo....",
+                    "*...Mosca è una delle più grandi città economiche internazionali ed è il maggior centro finanziario in Russia, infatti la capitale controlla la maggior parte della situazione finanziaria del Paese....",
+                    "*...Infatti quasi la metà delle compagnie finanziarie ha sede proprio a Mosca....",
+                    "*...Inoltre, le maggiori aziende russe hanno dislocata la propria sede centrale a Mosca, sebbene molte siano operative in territori non vicini alla capitale....",
+                    "*...Mosca vanta il più basso tasso di disoccupazione di tutti i distretti federali della Russia, con un tasso pari a solo l'1% registrato nel 2010, rispetto alla media nazionale del 7%....",
+                    "*...Mosca è il centro finanziario indiscusso della Russia e sede delle grandi banche del paese e molte delle sue più grandi aziende, come il gigante del gas naturale Gazprom....",
+                    "*...Mosca possiede il 17% delle vendite al dettaglio in Russia e il 13% di tutte le attività di costruzione nel paese....",
+                    "*...Molti nuovi centri commerciali ed edifici per uffici sono stati costruiti negli ultimi anni, ma Mosca sperimenta ancora carenze in spazi....",
+                    "*...Nel 2008, Mosca ha 74 miliardari con una ricchezza media di 5,9 miliardi di dollari, che la pone al di sopra dei 71 miliardari di New York....",
+                    "*...Tuttavia, a partire dal 2009, vi sono solo 27 miliardari a Mosca contro i 55 miliardari di New York....",
+                    "*...La donna più ricca della Russia rimane Elena Baturina, seconda moglie del sindaco di Mosca Yuri Luzhkov....",
+                    "*...Secondo l'elenco dei miliardari del mondo stilato da Forbes nel 2011, Mosca è la città con il maggior numero di miliardari al mondo, con 79 dei 115 viventi in tutta la Russia....",
+                    "*...Le attività industriali primarie a Mosca comprendono il settore chimico, metallurgico, alimentare, tessile, mobili, produzione di energia e sviluppo di software....",
+                    "*...Petrolificio di Mosca ;...",
+                    "...Impianto di Realizzazione Navale di Mosca ;...",
+                    "*...Le fabbriche automobilistiche come la ZIL si trovano nei pressi di Mosca....",
+                    "*...La fabbrica di orologi Poljot di Mosca produce affidabili esemplari militari, professionali e sportivi ben noti in Russia e all'estero....",
+                    "*...La fabbrica dei monili Mosca e la Jewellerprom sono importanti produttori di gioielli russi;...",
+                    "*...Ci sono anche molte altre industrie situate appena fuori dalla città di Mosca, così come molte industrie microelettroniche verso Zelenograd....",
+                    "*...Gazprom, il più grande estrattore di gas naturale del mondo e la più grande società russa, ha sede anch'essa a Mosca, così come molte altre compagnie petrolifere, del gas e dell'elettricità....",
+                    "*...Mosca ospita anche sedi di varie società di sviluppo software, tra cui ad esempio:...",
+                    "*...Nonostante che molti impianti industriali vengano lentamente spostati verso le città periferiche per migliorare l'aspetto cittadino, Mosca resta uno dei maggiori centri industriali della Russia....",
+                    "*...A causa della situazione economica, il prezzo degli immobili a Mosca continua a salire....",
+                    "*...Per l'affitto di un monolocale in centro di Mosca si può arrivare a spendere circa 2 500 dollari al mese....",
+                    "*...Nel 2006, Mercer Human Resources Consulting ha nominato Mosca la città più cara del mondo per i dipendenti espatriati, davanti alla vincitrice perenne Tokyo, a causa del rublo russo stabile così come l'aumento dei prezzi delle case all'interno della città....",
+                    "*...Mosca è anche al primo posto nelle edizioni del 2007 e del 2008 del sondaggio....",
+                    "*...Nel 2008, Mosca si è classificata in cima alla lista delle città più costose per il terzo anno consecutivo....",
+                    "...Il trasporto all'interno della città e in parte dell'oblast' di Mosca è gestito da Mosgortrans, che ha sotto la propria giurisdizione la metropolitana, gli autobus, i filobus, i tram, l'Anello centrale di Mosca e il noleggio di microbus e autobus con conducente....",
+                    "*...I principali aeroporti internazionali di Mosca sono:...",
+                    "*...Altri aeroporti minori di Mosca sono:...",
+                    "*...Vi sono anche molti piccoli aeroporti vicino a Mosca, come l'Aeroporto Myachkovo, destinati ad aerei privati, elicotteri e voli charter....",
+                    "*...Vi sono anche tre porti commerciali che servono Mosca....",
+                    "*...Ci sono anche molte piccole stazioni ferroviarie di Mosca....",
+                    "*...Mosca è anche il capolinea occidentale della ferrovia Transiberiana, che attraversa quasi 9 300 chilometri di territorio russo fino a Vladivostok, sulla costa del Pacifico....",
+                    "*...Il 10 settembre 2016 è stato inaugurato l'Anello centrale di Mosca, gestito dalla Metropolitana, la quattordicesima linea del trasporto sotterraneo....",
+                    "...La linea ferroviaria entra infatti nella piantina della Metropolitana di Mosca, evidenziata da dei trattini rossi e indicata con il numero 14....",
+                    "...I Diametri Centrali di Mosca sono un sistema di linee ferroviarie urbane e suburbane, create sulla base delle già esistenti Ferrovie di Mosca....",
+                    "*...Il sistema di trasporto serve la città di Mosca e l'Oblast'di Mosca....",
+                    "...-Zona \"Lontana\" (oltre il Circolo Centrale di Mosca) 23 rubli per ogni zona attraversata....",
+                    "...La rete di trasporto locale comprende la metropolitana di Mosca, un sistema di metropolitana famosa per la sua arte, per i suoi murali, per i mosaici e i lampadari decorati che si trovano nelle stazioni....",
+                    "...Oggi, la metropolitana di Mosca ne comprende tredici, per lo più sotterranee con un totale di 216 stazioni....",
+                    "...La metropolitana di Mosca è una delle metropolitane più trafficate al mondo, servendo circa dieci milioni di passeggeri giornalmente (300 000 000 persone ogni mese)....",
+                    "*...Di fronte a seri problemi di trasporto, Mosca dispone di ampi piani per espandere la sua rete metropolitana....",
+                    "*...Mosca ha anche un terminal degli autobus passeggeri a lungo raggio e interurbani (Central Bus Terminal) con un transito giornaliero di circa 25 000 passeggeri....",
+                    "*...La rete filoviaria di Mosca, aperta nel novembre 1933, è stata la prima a essere costruita in Unione Sovietica....",
+                    "...La città dispone inoltre di un moderno ed efficiente servizio di maršrutke, gestito dal Comune di Mosca....",
+                    "*...A Mosca vi è anche una breve linea monorotaia, gestita dalla società Metropolitana di Mosca....",
+                    "*...Mosca ha un vasto sistema tramviario, inaugurato nel 1899....",
+                    "*...Con l'aumento delle autovetture, boom avvenuto negli anni novanta e fenomeno in continua espansione, Mosca presenta non pochi tratti stradali la cui percorrenza nelle ore di punta può durare alcune ore, inconveniente che genera importanti ritardi e malcontento....",
+                    "*...Dal 2013 a Mosca è stata attivata un'imponente rete di parcheggi a pagamento, che allargando la propria zona di servizio anno, oggi si estende fino al Terzo Anello (superstrada)....",
+                    "*...Gli stalli sono gestiti da una società dipendente dal Comune di Mosca, «Администратор Московского парковочного пространства» (ГКУ «АМПП») - \"Amministrazione dell'area parcheggi di Mosca\" (GKU \"AMPP\") che tra i suoi ruoli ha quelli di migliorare l'infrastruttura dei parcheggi, della gestione del ricavo dei parcheggi, del controllo del rispetto da parte degli utilizzatori delle regole di parcheggio e del sanzionamento delle irregolarità degli utilizzatori....",
+                    "...Il pagamento della sosta può essere effettuato tramite un messaggio SMS, il sito web del Gestore, tramite l'app «Парковки Москвы» - \"Parcheggi di Mosca\" o con i parchimetri disposti nelle vicinanze degli stalli....",
+                    "*...A Mosca sono disponibili diversi servizi di veicoli a noleggio patrocinati dalla Duma cittadina, tra cui automobili (Karshering) che sono gestiti da diverse società, i veicoli più utilizzati appartengono a Delimobil (operatore italiano), Yandex Drive, BelkaCar, YouDrive e Car5....",
+                    "*...Nel 2018 il Sindaco di Mosca Sobjanin ha annunciato che il car sharing cittadino vanta il numero più alto di veicoli in Europa, con una clientela giornaliera di oltre 25 000 cittadini, alla fine dello stesso anno Mosca è diventata la seconda città al mondo per numero di veicoli compartiti con 16 500 veicoli;...",
+                    "*...Circa 3 000 biciclette tradizionali ed elettriche sono gestite dalla Citybike (Velobike) affittabili da 380 stazioni bike sharing mediante carta di credito o Troika card (la tessera multiuso dei trasporti di Mosca)....",
+                    "*...Nel 2016 è stato introdotto il Sistema di navigazione unico dei trasporti di Mosca, che consiste in un design unico di segnaletica, che aiuta i passeggeri e i pedoni a orientarsi nella città....",
+                    "*...Il Dipartimento dello sviluppo delle infrastrutture di trasporto e stradali di Mosca ha sviluppato questo sistema uniforme di segnaletica di navigazione in un team che comprende grafici, designer industriali, cartografi, analisti, editori e manager....",
+                    "*...Mosca è la sede del potere della Federazione Russa....",
+                    "*...Al centro della città, che si trova nel Circondario federale centrale, vi è il Cremlino di Mosca, che ospita la residenza ufficiale del Presidente della Russia, così come molte strutture governative nazionali....",
+                    "*...Mosca, in qualità di capitale della Federazione Russa, è altresì ricca di ambasciate e rappresentanze diplomatiche, che rappresentano una moltitudine di Stati esteri....",
+                    "*...Tra gli 85 soggetti federali della Russia, Mosca rappresenta il più popolato e il più piccolo in termini di superficie....",
+                    "*...Infine, Mosca si trova nella regione economica centrale, una delle dodici regioni all'interno della Russia con obiettivi economici simili....",
+                    "...La legge fondamentale della città è la Carta di Mosca, adottata nel 1995....",
+                    "*...Secondo la Costituzione della Federazione Russa, Mosca è un soggetto federale autonomo, in quanto viene considerata una città di valore federale....",
+                    "*...La Duma della città di Mosca (consiglio comunale o parlamento locale), è l'organo che emette tutte le leggi locali....",
+                    "*...Il sindaco di Mosca è il funzionario leader nell'esecutivo e a lui spetta la conduzione del governo di Mosca, che è il massimo organo del potere esecutivo....",
+                    "*...Il potere è esercitato sul territorio di Mosca mediante 12 prefetti (uno per ogni distretto) e da 146 prefetti di quartieri (per i 146 quartieri moscoviti)....",
+                    "*...I metodi più avanzati di raccolta differenziata e riciclaggio dei rifiuti erano per lo più sconosciuti ai cittadini di Mosca, in quanto tutte le immondizie prodotte venivano buttate in un cassonetto, il contenuto del quale era in seguito trasportato all'esterno della capitale e depositato in enormi discariche....",
+                    "...Le discariche nell'oblast di Mosca, dove venivano scaricati i rifiuti, erano diventate enormi....",
+                    "*...Nella città di Klin, che si trova a 100 chilometri a nordovest di Mosca, la discarica comunale aveva un cumulo di rifiuti alto come un palazzo di sei piani e si trovava a 400 metri da una scuola....",
+                    "...Secondo le nuove disposizioni della Duma di Mosca in ogni cortile ci devono essere due contenitori:...",
+                    "...Secondo la classifica delle città più sicure dell'Economist Intelligence Unit Mosca occupa il 37-o posto con un punteggio di 65,8 su 100....",
+                    "*...Mosca ha organizzato i Giochi della XXII Olimpiade nel 1980;...",
+                    "...CSKA Mosca che gioca nello stadio Arena CSKA ;...",
+                    "*...Lokomotiv Mosca che gioca nello stadio Stadio Lokomotiv ;...",
+                    "...Spartak Mosca che gioca nello stadio Otkrytie Arena ;...",
+                    "...Dinamo Mosca che gioca nello stadio VTB Arena ;...",
+                    "*...Torpedo Mosca (ex Torpedo-Luzhniki) che gioca nello Stadio Ėduard Strel'cov ;...",
+                    "*...FC Mosca (ex Torpedo-ZIL e Torpedo Metallurg) (sciolta nel 2010)....",
+                    "...Veles mosca ....",
+                    "...Certanovo mosca \nLa nazionale della Russia gioca nello Stadio Lužniki, il quale ha una capacità massima di circa 80 000 spettatori....",
+                    "...CSKA Mosca che gioca nel palasport CSKA Universal sports Hall ;...",
+                    "...Spartak Mosca ;...",
+                    "...Dinamo Mosca ;...",
+                    "...CSKA Mosca ....",
+                    "*...Mosca ospita il Palazzo per la Ginnastica Ritmica intitolata a Irina Viner-Usmanova, situato nel Complesso olimpico Lužniki....",
+                    "*...A Mosca sono state organizzate anche alcune gare di sci alpino e di sci di fondo valide per le rispettive Coppe del Mondo..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.65511,
+                    55.77648
+                ]
+            },
+            "properties": {
+                "entity": "Stazione Leningradskij",
+                "name_location": "Stazione Leningradskiy (Moskva Okt), 3, Piazza Komsomolskaya, Красносельский район, Mosca, Distretto Federale Centrale, 107140, Russia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Stazione Leningradskij ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.629166,
+                    55.73751
+                ]
+            },
+            "properties": {
+                "entity": "Asia",
+                "name_location": "Визовый центр стран Азии, Пятницкая улица, район Замоскворечье, Mosca, Distretto Federale Centrale, 115035, Russia",
+                "class": "office",
+                "type": "visa",
+                "snippet": [
+                    "*...Ogni stazione gestisce i treni provenienti da diverse parti d'Europa e dell'Asia....",
+                    "*...Il complesso sistema stradale moscovita è considerabile come una sorta di snodo fra Europa e Asia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.399411,
+                    55.964808
+                ]
+            },
+            "properties": {
+                "entity": "D1",
+                "name_location": "D1, «Нева», Chimki, городской округ Химки, Oblast' di Mosca, Distretto Federale Centrale, 141425, Russia",
+                "class": "aeroway",
+                "type": "taxiway",
+                "snippet": [
+                    "*...Il 21 novembre 2019 sono state inaugurate le prime due linee, la D1, che collega le città di Odinstovo e Lobnja e la D2, che collega Nachabino con Podol'sk....",
+                    "*...-Zona \"Centrale\" (Mark-Setun' per la D1 e Volokolamskaya-Ostafyevo per la D2) 38 rubli;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.402599,
+                    55.96409
+                ]
+            },
+            "properties": {
+                "entity": "D2",
+                "name_location": "D2, «Нева», Chimki, городской округ Химки, Oblast' di Mosca, Distretto Federale Centrale, 141425, Russia",
+                "class": "aeroway",
+                "type": "parking_position",
+                "snippet": [
+                    "*...Il 21 novembre 2019 sono state inaugurate le prime due linee, la D1, che collega le città di Odinstovo e Lobnja e la D2, che collega Nachabino con Podol'sk....",
+                    "*...-Zona \"Centrale\" (Mark-Setun' per la D1 e Volokolamskaya-Ostafyevo per la D2) 38 rubli;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.40724,
+                    55.966159
+                ]
+            },
+            "properties": {
+                "entity": "D3",
+                "name_location": "D3, «Нева», Chimki, городской округ Химки, Oblast' di Mosca, Distretto Federale Centrale, 141425, Russia",
+                "class": "aeroway",
+                "type": "taxiway",
+                "snippet": [
+                    "*...In futuro saranno aperte altre 3 linee, rispettivamente la D3, la D4 e la D5...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.398482,
+                    55.963225
+                ]
+            },
+            "properties": {
+                "entity": "D4",
+                "name_location": "D4, «Нева», Chimki, городской округ Химки, Oblast' di Mosca, Distretto Federale Centrale, 141425, Russia",
+                "class": "aeroway",
+                "type": "taxiway",
+                "snippet": [
+                    "*...In futuro saranno aperte altre 3 linee, rispettivamente la D3, la D4 e la D5...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.402033,
+                    55.963952
+                ]
+            },
+            "properties": {
+                "entity": "D5",
+                "name_location": "D5, «Нева», Chimki, городской округ Химки, Oblast' di Mosca, Distretto Federale Centrale, 141425, Russia",
+                "class": "aeroway",
+                "type": "parking_position",
+                "snippet": [
+                    "*...In futuro saranno aperte altre 3 linee, rispettivamente la D3, la D4 e la D5...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.790142,
+                    55.792847
+                ]
+            },
+            "properties": {
+                "entity": "Ivanovo",
+                "name_location": "Иваново текстиль, Первомайская улица, район Измайлово, Mosca, Distretto Federale Centrale, 105043, Russia",
+                "class": "shop",
+                "type": "clothes",
+                "snippet": [
+                    "*...Per raccordare le strade che giungono nella capitale vi è un sistema di tre \"raccordi anulari\" concentrici, di cui il più esterno (totalmente esterno alla città) arriva a lambire i territori delle vicine Oblast' di Kaluga e Ivanovo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.574967,
+                    55.777472
+                ]
+            },
+            "properties": {
+                "entity": "Администратор Московского",
+                "name_location": "ГКУ «АМПП», Верхняя улица, район Беговой, Mosca, Distretto Federale Centrale, 125040, Russia",
+                "class": "office",
+                "type": "government",
+                "snippet": [
+                    "*...Gli stalli sono gestiti da una società dipendente dal Comune di Mosca, «Администратор Московского парковочного пространства» (ГКУ «АМПП») - \"Amministrazione dell'area parcheggi di Mosca\" (GKU \"AMPP\") che tra i suoi ruoli ha quelli di migliorare l'infrastruttura dei parcheggi, della gestione del ricavo dei parcheggi, del controllo del rispetto da parte degli utilizzatori delle regole di parcheggio e del sanzionamento delle irregolarità degli utilizzatori...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.629603,
+                    55.735068
+                ]
+            },
+            "properties": {
+                "entity": "GKU",
+                "name_location": "Дирекция по обеспечению деятельности государственных учреждений Департамента образования города Москвы, 1-й Новокузнецкий переулок, район Замоскворечье, Mosca, Distretto Federale Centrale, 115184, Russia",
+                "class": "office",
+                "type": "government",
+                "snippet": [
+                    "*...Gli stalli sono gestiti da una società dipendente dal Comune di Mosca, «Администратор Московского парковочного пространства» (ГКУ «АМПП») - \"Amministrazione dell'area parcheggi di Mosca\" (GKU \"AMPP\") che tra i suoi ruoli ha quelli di migliorare l'infrastruttura dei parcheggi, della gestione del ricavo dei parcheggi, del controllo del rispetto da parte degli utilizzatori delle regole di parcheggio e del sanzionamento delle irregolarità degli utilizzatori...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.606259,
+                    55.760809
+                ]
+            },
+            "properties": {
+                "entity": "Ucraina",
+                "name_location": "Посольство Украины, 18/17 с2, Леонтьевский переулок, 52, Тверской район, Mosca, Distretto Federale Centrale, 125009, Russia",
+                "class": "office",
+                "type": "diplomatic",
+                "snippet": [
+                    "*...La capitale è inoltre una delle tre città federali contemplate dalla costituzione russa, assieme alla baltica San Pietroburgo e alla crimeana Sebastopoli (nonostante l'Ucraina consideri quest'ultima parte del suo territorio, disconoscendo la validità dell'annessione della Crimea alla Russia e del soggetto politico risultante)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.085695,
+                    55.642944
+                ]
+            },
+            "properties": {
+                "entity": "Klin",
+                "name_location": "улица Косой Клин, Жаворонки, Одинцовский городской округ, Oblast' di Mosca, Distretto Federale Centrale, 143020, Russia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Nella città di Klin, che si trova a 100 chilometri a nordovest di Mosca, la discarica comunale aveva un cumulo di rifiuti alto come un palazzo di sei piani e si trovava a 400 metri da una scuola...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.44061,
+                    55.817588
+                ]
+            },
+            "properties": {
+                "entity": "Otkrytie Arena",
+                "name_location": "Открытие Банк Арена, вл67, Волоколамское шоссе (дублёр), район Покровское-Стрешнево, Mosca, Distretto Federale Centrale, 123424, Russia",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...Spartak Mosca che gioca nello stadio Otkrytie Arena ;...",
+                    "*...Lo Stadio Lužniki e la Otkrytie Arena...."
+                ]
+            }
+        }
+    ]
+}

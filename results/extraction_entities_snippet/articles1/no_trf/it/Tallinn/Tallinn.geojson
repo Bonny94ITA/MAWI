@@ -1,0 +1,481 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.744249,
+                    59.431045
+                ]
+            },
+            "properties": {
+                "entity": "Таллин",
+                "name_location": "Jamaica Baar, 15, Roosikrantsi, Tõnismäe, Kesklinna linnaosa, Tallinn, Harju maakond, 10119, Estonia",
+                "class": "amenity",
+                "type": "bar",
+                "snippet": [
+                    "*...Таллин, Tallin in russo;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.74475,
+                    59.437641
+                ]
+            },
+            "properties": {
+                "entity": "Revalia",
+                "name_location": "Revalia, 8, Raekoja plats, All-linn, Kesklinna linnaosa, Tallinn, Harju maakond, 10146, Estonia",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...Revalia in italiano storico) è la capitale dell'Estonia, nonché suo porto principale....",
+                    "*...Nomi storici della città sono stati Koluvan, Lindanise, Lindanisa (Lindanäs), Reval, Revalia e Reveln....",
+                    "*...Tallinn (Reval in tedesco;...",
+                    "*...Dopo che i danesi lasciarono la città, molti Estoni continuarono a usare il nome di Tallinn quando quasi tutti gli altri residenti preferivano Reval....",
+                    "*...Prima del 1918, la città aveva un nome tedesco, Reval, sostituito con Tallinna nell'anno in cui l'Estonia divenne indipendente dalla Russia....",
+                    "*...Iniziò così la dominazione danese che vide la città, allora chiamata Reval, e il suo porto divenire ben presto un importante nodo commerciale verso la Russia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.748947,
+                    59.436604
+                ]
+            },
+            "properties": {
+                "entity": "Helsinki",
+                "name_location": "Lokaal Helsinki, 18, Viru, All-linn, Kesklinna linnaosa, Tallinn, Harju maakond, 10140, Estonia",
+                "class": "amenity",
+                "type": "bar",
+                "snippet": [
+                    "*...Situata sulla costa settentrionale del paese ed affacciata sul Mar Baltico, è divisa da 80 chilometri in linea d'aria di mare da Helsinki, quest'ultima situata più a nord....",
+                    "*...In linea d'aria il porto di Tallinn dista 80 km dalla capitale finlandese Helsinki....",
+                    "*...Il traffico di turisti tra Helsinki e Tallinn è consistente, incoraggiato dai prezzi più bassi rispetto al loro paese che i finlandesi possono trovare in Estonia....",
+                    "*...In aggiunta ai collegamenti aerei che avvengono regolarmente per diverse destinazioni europee, esisteva un servizio via elicottero, operato dalla Copterline, con frequenza oraria da Helsinki....",
+                    "*...Tallinn si trova sul percorso della via Baltica (Strada europea E67 con inizio a Helsinki e arrivo a Praga), che permette un facile transito per la Polonia....",
+                    "*...Vi è un progetto di realizzazione di un tunnel sotto il Golfo di Finlandia, che unirebbe Tallinn a Helsinki....",
+                    "*...Diverse decine di servizi di traghetto giornalieri, con tempo di percorrenza da 1,5 a 4 ore (a seconda del tipo di imbarcazione) collegano Tallinn a Helsinki in Finlandia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.740949,
+                    59.435448
+                ]
+            },
+            "properties": {
+                "entity": "Lindanise",
+                "name_location": "Lindanise lahing, Lühike jalg, Vanalinn, Kesklinna linnaosa, Tallinn, Harju maakond, 10130, Estonia",
+                "class": "historic",
+                "type": "battlefield",
+                "snippet": [
+                    "*...Nomi storici della città sono stati Koluvan, Lindanise, Lindanisa (Lindanäs), Reval, Revalia e Reveln...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.737375,
+                    59.435744
+                ]
+            },
+            "properties": {
+                "entity": "Castrum Danorum",
+                "name_location": "Toompea loss, 1a, Lossi plats, Vanalinn, Kesklinna linnaosa, Tallinn, Harju maakond, 15165, Estonia",
+                "class": "historic",
+                "type": "castle",
+                "snippet": [
+                    "*...I danesi infatti denominarono la città di Tallinn come Castrum Danorum, latinismo significante \"castello dei danesi\"...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.836839,
+                    59.414388
+                ]
+            },
+            "properties": {
+                "entity": "Tallinna Lennujaam",
+                "name_location": "Tallinna lennujaam, 101, Tartu mnt, Mõigu, Kesklinna linnaosa, Tallinn, Harju maakond, 10112, Estonia",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "*...Così ad esempio Tallinna Lennujaam è l'Aeroporto di Tallinn....",
+                    "*...Tallinna in finlandese;...",
+                    "*...Prima del 1918, la città aveva un nome tedesco, Reval, sostituito con Tallinna nell'anno in cui l'Estonia divenne indipendente dalla Russia....",
+                    "*...Nel 1925 Tallinna venne dichiarato ufficiale, ma presto gli Estoni cambiarono opinione e nel 1933 Tallinn divenne il nome finale per la capitale dello stato....",
+                    "*...Tallinna è, in estone, anche genitivo di Tallinn...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.83261,
+                    59.466742
+                ]
+            },
+            "properties": {
+                "entity": "Pirita",
+                "name_location": "Pirita, Merivälja tee, Pirita, Pirita linnaosa, Tallinn, Harju maakond, 11911, Estonia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...L'unico fiume importante è il Pirita, scorre a nord, nel sobborgo di Pirita, e dal 1957 è zona protetta, stante il pregio naturalistico....",
+                    "*...In quella occasione vennero edificati vari edifici fra i quali l'hotel Olimpia, l'Ufficio Postale, il Pirita yachting centre e l'imponente torre della televisione...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.779407,
+                    59.427115
+                ]
+            },
+            "properties": {
+                "entity": "Lasnamäe",
+                "name_location": "Lasnamäe, Sikupilli, Lasnamäe linnaosa, Tallinn, Harju maakond, 10115, Estonia",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Una vena di calcare attraversa il territorio della città longitudinalmente ed emerge in varie località, come Lasnamäe e Toompea...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.73886,
+                    59.435483
+                ]
+            },
+            "properties": {
+                "entity": "Toompea",
+                "name_location": "Toompea, Kesklinna linnaosa, Tallinn, Harju maakond, 15165, Estonia",
+                "class": "highway",
+                "type": "living_street",
+                "snippet": [
+                    "*...Una vena di calcare attraversa il territorio della città longitudinalmente ed emerge in varie località, come Lasnamäe e Toompea....",
+                    "...Toompea, una collina che si erge per 20-30 metri sul centro della città e che copre un'area di 400 per 250 metri, non è propriamente parte della vena, poiché leggermente separata, mentre il punto più alto di Tallinn (64 metri sul livello del mare), si trova nel distretto di Nõmme, nella zona sud occidentale della città....",
+                    "...Toompea (Domberg) o \"Collina della Cattedrale\", col suo castello medievale da sempre sede dell'autorità. Prima i vescovi, poi l'Ordine teutonico, infine la nobiltà della Germania baltica; oggi si trovano sulla Collina gli edifici del governo estone, come molte ambasciate e rappresentanze diplomatiche...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.683345,
+                    59.388801
+                ]
+            },
+            "properties": {
+                "entity": "Nõmme",
+                "name_location": "Nõmme, Turu plats, Nõmme, Nõmme linnaosa, Tallinn, Harju maakond, 13420, Estonia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Toompea, una collina che si erge per 20-30 metri sul centro della città e che copre un'area di 400 per 250 metri, non è propriamente parte della vena, poiché leggermente separata, mentre il punto più alto di Tallinn (64 metri sul livello del mare), si trova nel distretto di Nõmme, nella zona sud occidentale della città....",
+                    "*...Nell'area cittadina, nel distretto amministrativo di Nõmme, ha sede il Kalju Nõmme, anch'esso militante nella massima divisione calcistica...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.739192,
+                    59.441344
+                ]
+            },
+            "properties": {
+                "entity": "Kopli",
+                "name_location": "Kopli, Kalamaja, Põhja-Tallinna linnaosa, Tallinn, Harju maakond, 10414, Estonia",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Kopli, Paljassaare e Kakumäe...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.573168,
+                    59.459144
+                ]
+            },
+            "properties": {
+                "entity": "Kakumäe",
+                "name_location": "Kakumäe, Kakumäe tee, Kakumäe, Haabersti linnaosa, Tallinn, Harju maakond, 76924, Estonia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Kopli, Paljassaare e Kakumäe...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.739557,
+                    59.436228
+                ]
+            },
+            "properties": {
+                "entity": "Domberg",
+                "name_location": "Domberg, 1, Piiskopi, Vanalinn, Kesklinna linnaosa, Tallinn, Harju maakond, 10130, Estonia",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...Toompea (Domberg) o \"Collina della Cattedrale\", col suo castello medievale da sempre sede dell'autorità. Prima i vescovi, poi l'Ordine teutonico, infine la nobiltà della Germania baltica; oggi si trovano sulla Collina gli edifici del governo estone, come molte ambasciate e rappresentanze diplomatiche...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.743957,
+                    59.433698
+                ]
+            },
+            "properties": {
+                "entity": "Piazza Vabaduse",
+                "name_location": "Piazza della Libertà, Vanalinn, Kesklinna linnaosa, Tallinn, Harju maakond, Estonia",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Chiesa di San Giovanni, è una Chiesa parrocchiale neogotica della Chiesa di Estonia ed è situata in Piazza Vabaduse o della Libertà ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.743957,
+                    59.433698
+                ]
+            },
+            "properties": {
+                "entity": "Piazza della Libertà",
+                "name_location": "Piazza della Libertà, Vanalinn, Kesklinna linnaosa, Tallinn, Harju maakond, Estonia",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Colonna della Vittoria dell'Indipendenza dell'Estonia, in Piazza della Libertà (Tallinn) ;...",
+                    "*...Chiesa di San Giovanni, è una Chiesa parrocchiale neogotica della Chiesa di Estonia ed è situata in Piazza Vabaduse o della Libertà ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.741267,
+                    59.434703
+                ]
+            },
+            "properties": {
+                "entity": "de Kök",
+                "name_location": "Kiek in de Kök, 2, Komandandi tee, Vanalinn, Kesklinna linnaosa, Tallinn, Harju maakond, 10130, Estonia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Kiek in de Kök ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.742125,
+                    59.425232
+                ]
+            },
+            "properties": {
+                "entity": "Scandinavia",
+                "name_location": "Scandinavia Tapeedisalong, 66, Pärnu mnt, Uus Maailm, Kesklinna linnaosa, Tallinn, Harju maakond, 10131, Estonia",
+                "class": "shop",
+                "type": "interior_decoration",
+                "snippet": [
+                    "*...Da notare l'integrazione con la vicina Finlandia, e la Scandinavia operante in un vasto spettro di settori, dalle attività portuali all'industria delle telecomunicazioni...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.801087,
+                    59.41645
+                ]
+            },
+            "properties": {
+                "entity": "Aeroporto Lennart Meri",
+                "name_location": "Lennart Meri Tallinna lennujaam, 101, Tartu mnt, Ülemistejärve, Kesklinna linnaosa, Tallinn, Harju maakond, 11101, Estonia",
+                "class": "aeroway",
+                "type": "terminal",
+                "snippet": [
+                    "*...Tallinn è servita da un Aeroporto, l'Aeroporto Lennart Meri, a circa 4 km dal centro cittadino...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.760157,
+                    59.434539
+                ]
+            },
+            "properties": {
+                "entity": "Tartu",
+                "name_location": "Tartu mnt, Kompassi, Kesklinna linnaosa, Tallinn, Harju maakond, 10117, Estonia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...La compagnia ferrovia Edelaraudtee effettua servizi regionali dalla stazione di Tallinn a Tartu, Valga, Türi, Viljandi, Tapa, Narva, Orava, e Pärnu...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.742642,
+                    59.410262
+                ]
+            },
+            "properties": {
+                "entity": "Türi",
+                "name_location": "Türi, Kitseküla, Kesklinna linnaosa, Tallinn, Harju maakond, 11313, Estonia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...La compagnia ferrovia Edelaraudtee effettua servizi regionali dalla stazione di Tallinn a Tartu, Valga, Türi, Viljandi, Tapa, Narva, Orava, e Pärnu...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.943534,
+                    59.45503
+                ]
+            },
+            "properties": {
+                "entity": "Tapa",
+                "name_location": "Tapa teerist, Tallinn — Narva, Loobu küla, Kadrina vald, Lääne-Viru maakond, 45220, Estonia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...La compagnia ferrovia Edelaraudtee effettua servizi regionali dalla stazione di Tallinn a Tartu, Valga, Türi, Viljandi, Tapa, Narva, Orava, e Pärnu...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.754599,
+                    59.437008
+                ]
+            },
+            "properties": {
+                "entity": "Narva",
+                "name_location": "Narva mnt, Südalinn, Kesklinna linnaosa, Tallinn, Harju maakond, 10111, Estonia",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...La compagnia ferrovia Edelaraudtee effettua servizi regionali dalla stazione di Tallinn a Tartu, Valga, Türi, Viljandi, Tapa, Narva, Orava, e Pärnu...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.722515,
+                    59.388268
+                ]
+            },
+            "properties": {
+                "entity": "Orava",
+                "name_location": "Orava, Liiva, Nõmme linnaosa, Tallinn, Harju maakond, 11214, Estonia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...La compagnia ferrovia Edelaraudtee effettua servizi regionali dalla stazione di Tallinn a Tartu, Valga, Türi, Viljandi, Tapa, Narva, Orava, e Pärnu...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.728234,
+                    59.422464
+                ]
+            },
+            "properties": {
+                "entity": "Kotka",
+                "name_location": "Kotka, Lilleküla, Kristiine linnaosa, Tallinn, Harju maakond, 96007, Estonia",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Accanto ai gemellaggi, Tallinn ha stabilito anche relazioni di mutua amicizia con Portland (Stati Uniti) e Kotka (Finlandia)...."
+                ]
+            }
+        }
+    ]
+}

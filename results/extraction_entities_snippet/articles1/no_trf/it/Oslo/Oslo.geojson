@@ -1,0 +1,318 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.734108,
+                    59.918446
+                ]
+            },
+            "properties": {
+                "entity": "Oslo  –",
+                "name_location": "Radisson Blu Scandinavia Hotel, Oslo, Holbergs gate, Tullin, Sentrum, Oslo, 0166, Norvegia",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*..., nel dialetto di Oslo  – conosciuta anche come Christiania dal 1624 al 1878 e come Kristiania dal 1878 al 1924) è la capitale della Norvegia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.735917,
+                    59.913542
+                ]
+            },
+            "properties": {
+                "entity": "Christiania",
+                "name_location": "Hotel Christiania Teater, Stortingsgata, Vika, Sentrum, Oslo, 0162, Norvegia",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*..., nel dialetto di Oslo  – conosciuta anche come Christiania dal 1624 al 1878 e come Kristiania dal 1878 al 1924) è la capitale della Norvegia....",
+                    "*...Christiania (in un secondo momento 1878-1924 la città fu chiamata Kristiania)....",
+                    "*...Ma molto prima di questo, Christiania cominciò a riacquistare la sua importanza come centro commerciale e culturale in Norvegia....",
+                    "*...Nel 1814 Christiania divenne la capitale effettiva, quando l'unione con la Danimarca fu sciolta...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.763147,
+                    59.914796
+                ]
+            },
+            "properties": {
+                "entity": "Kristiania",
+                "name_location": "Høyskolen Kristiania - Campus Urtegata, Norbygata, Grønland, Gamle Oslo, Oslo, 0187, Norvegia",
+                "class": "building",
+                "type": "office",
+                "snippet": [
+                    "*..., nel dialetto di Oslo  – conosciuta anche come Christiania dal 1624 al 1878 e come Kristiania dal 1878 al 1924) è la capitale della Norvegia....",
+                    "*...Christiania (in un secondo momento 1878-1924 la città fu chiamata Kristiania)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.771616,
+                    59.919103
+                ]
+            },
+            "properties": {
+                "entity": "Oslofjord",
+                "name_location": "Indre Oslofjord, Sars' gate, Tøyen, Grünerløkka, Oslo, 0562, Norvegia",
+                "class": "leisure",
+                "type": "garden",
+                "snippet": [
+                    "*...Oslo è situata in fondo allo Oslofjord, un fiordo all'interno del bacino dello Skagerrak....",
+                    "*...Tali temperature hanno favorito la nascita di diverse strutture ricreative particolarmente rinomate lungo l'Oslofjord, con picchi di affluenza nel corso dei mesi estivi quando la popolazione è sospinta verso il mare invitata anche dalle temperature dell'acqua che vanno dai 20 ai 24 °C...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.758115,
+                    59.87333
+                ]
+            },
+            "properties": {
+                "entity": "Malmøya",
+                "name_location": "Malmøya, Sundveien, Godheim, Nordstrand, Oslo, 0198, Norvegia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...All'interno dei confini della città ci sono 40 isole, la più grande delle quali è Malmøya che misura 0,56 km², e 343 laghi il più grande dei quali è il Maridalsvannet, che misura 3,91 km², questo lago rappresenta anche la maggior fonte di approvvigionamento d'acqua potabile per una vasta parte della zona occidentale di Oslo, principalmente Vestre Aker e Nordre Aker...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.658577,
+                    59.95029
+                ]
+            },
+            "properties": {
+                "entity": "Vestre Aker",
+                "name_location": "Pilotveien, Vestre Aker, Pilotveien, Snippen, Vestre Aker, Oslo, 0770, Norvegia",
+                "class": "amenity",
+                "type": "charging_station",
+                "snippet": [
+                    "*...All'interno dei confini della città ci sono 40 isole, la più grande delle quali è Malmøya che misura 0,56 km², e 343 laghi il più grande dei quali è il Maridalsvannet, che misura 3,91 km², questo lago rappresenta anche la maggior fonte di approvvigionamento d'acqua potabile per una vasta parte della zona occidentale di Oslo, principalmente Vestre Aker e Nordre Aker...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.767097,
+                    59.951045
+                ]
+            },
+            "properties": {
+                "entity": "Nordre Aker",
+                "name_location": "NAV Nordre Aker, Gullhaugveien, Gullhaug, Nordre Aker, Oslo, 0484, Norvegia",
+                "class": "office",
+                "type": "government",
+                "snippet": [
+                    "*...All'interno dei confini della città ci sono 40 isole, la più grande delle quali è Malmøya che misura 0,56 km², e 343 laghi il più grande dei quali è il Maridalsvannet, che misura 3,91 km², questo lago rappresenta anche la maggior fonte di approvvigionamento d'acqua potabile per una vasta parte della zona occidentale di Oslo, principalmente Vestre Aker e Nordre Aker...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.75823,
+                    59.91334
+                ]
+            },
+            "properties": {
+                "entity": "Akerselva",
+                "name_location": "Akerselva Trebåtforening, Brugata, Vaterland, Sentrum, Oslo, 0185, Norvegia",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...Il fiume più importante e l'Akerselva...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.753644,
+                    59.911687
+                ]
+            },
+            "properties": {
+                "entity": "Oslo II",
+                "name_location": "Corridor to Oslo Bussterminal, Vaterland, Sentrum, Oslo, 0050, Norvegia",
+                "class": "highway",
+                "type": "footway",
+                "snippet": [
+                    "*...Nel maggio 1993 vi furono firmati gli accordi detti di Oslo II tra Israele e Palestina, sotto l'egida degli Stati Uniti...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.667032,
+                    59.961805
+                ]
+            },
+            "properties": {
+                "entity": "Holmenkollen",
+                "name_location": "Holmenkollen, Kongeveien, Holmenkollen, Vestre Aker, Oslo, 0784, Norvegia",
+                "class": "amenity",
+                "type": "taxi",
+                "snippet": [
+                    "*...Due delle principali attrazioni turistiche di Oslo sono il Parco di Vigeland, un'esposizione di sculture e altre opere d'arte, e la collina di Holmenkollen, famosa per gli sport invernali....",
+                    "*...Nel territorio di Oslo sorge la collina di Holmenkollen, stazione sciistica attrezzata con varie strutture per la pratica degli sport invernali;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.701469,
+                    59.923517
+                ]
+            },
+            "properties": {
+                "entity": "Frognerparken",
+                "name_location": "Halvdan Svartes gate, Frognerparken, Halvdan Svartes gate, Schafteløkken, Frogner, Oslo, 0267, Norvegia",
+                "class": "amenity",
+                "type": "charging_station",
+                "snippet": [
+                    "*...Il Museo Vigeland si trova nel grande Frognerparken e si compone di 212 sculture all'aperto di Gustav Vigeland...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.734939,
+                    59.917907
+                ]
+            },
+            "properties": {
+                "entity": "Europa",
+                "name_location": "Thon Hotel Europa, St. Olavs gate, Tullin, Sentrum, Oslo, 0166, Norvegia",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...La regione vanta uno dei più alti PIL pro capite in Europa....",
+                    "*...Oslo è stata classificata al secondo posto come luogo più caro dove vivere nel mondo, e la città più cara d'Europa in base al EAI....",
+                    "*...Nel 2004 la compagnia ferroviaria norvegese è stata la terza più puntuale in Europa....",
+                    "...A gennaio del 2019, è stata nominata la prima Capitale Verde d'Europa...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.753623,
+                    59.910556
+                ]
+            },
+            "properties": {
+                "entity": "Flytoget",
+                "name_location": "Flytoget, Airport Express Train terminal, Sjøtomta, Sentrum, Oslo, 0050, Norvegia",
+                "class": "amenity",
+                "type": "vending_machine",
+                "snippet": [
+                    "*...Oslo lufthavn, Gardermoen, il principale Aeroporto internazionale di Oslo, servito dal treno ad alta velocità (Flytoget) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.771327,
+                    59.919177
+                ]
+            },
+            "properties": {
+                "entity": "Vestfold",
+                "name_location": "Vestfold, Sars' gate, Tøyen, Grünerløkka, Oslo, 0562, Norvegia",
+                "class": "leisure",
+                "type": "garden",
+                "snippet": [
+                    "*...Aeroporto di Sandefjord Oslo-Torp (Vestfold), a 115 km (circa 1:45 h) dalla città ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.708773,
+                    59.909814
+                ]
+            },
+            "properties": {
+                "entity": "Kiel",
+                "name_location": "Kiel - Oslo - Kiel, Framnestunnelen, Framnes, Frogner, Oslo, 0271, Norvegia",
+                "class": "amenity",
+                "type": "ferry_terminal",
+                "snippet": [
+                    "*...Kiel (Germania), Copenaghen (Danimarca), Frederikshavn (Danimarca), Hirtshals (Danimarca), Nesodden (Norvegia), Aalborg (Danimarca)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.748443,
+                    59.912763
+                ]
+            },
+            "properties": {
+                "entity": "Ruter AS",
+                "name_location": "Ruter AS, Storgata, Vaterland, Sentrum, Oslo, 0155, Norvegia",
+                "class": "office",
+                "type": "yes",
+                "snippet": [
+                    "*...Trafikanten appartiene per il 46,92 % a Ruter AS e per il 24,95 % a Vygruppen AS (le ferrovie norvegesi)...."
+                ]
+            }
+        }
+    ]
+}

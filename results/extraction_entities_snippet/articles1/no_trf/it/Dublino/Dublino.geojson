@@ -1,0 +1,1521 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.264191,
+                    53.348672
+                ]
+            },
+            "properties": {
+                "entity": "Liffey",
+                "name_location": "Liffey Street Upper, North City Ward 1986, Dublino, Dublin 1, Leinster, D01 HW54, Irlanda",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Fondata dai vichinghi come centro per il commercio di schiavi, la città è situata sulla foce del fiume Liffey, al centro della costa orientale dell'isola e di quella che oggi viene chiamata Dublin Region, affacciata sul mare d'Irlanda....",
+                    "*...Il toponimo è un adattamento dal gaelico Dubh Linn, \"stagno nero\", che fa riferimento a uno stagno che esisteva un tempo alla confluenza tra il fiume Poddle e il Liffey....",
+                    "*...Molti coloni lasciarono Inghilterra e Galles insediandosi nella nuova terra conquistata e costringendo i vichinghi a spostarsi al di là del Liffey....",
+                    "*...Si cominciò per girare tutte le case verso il Liffey, dando loro una facciata gradevole:...",
+                    "*...Tradizionalmente Dublino è caratterizzata dalla rivalità fra le zone separate dal passaggio del Liffey, ovvero quelle settentrionali (il Northside) e quelle meridionali (il Southside)....",
+                    "*...Il quartiere di Temple Bar, a sud del Liffey, è il luogo in cui si svolge prevalentemente la vita notturna nella capitale irlandese...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.270814,
+                    53.3443
+                ]
+            },
+            "properties": {
+                "entity": "Dublin City Council",
+                "name_location": "Dublin City Council, Wood Quay, Wood Quay A ED, Dublino, County Dublin, Leinster, D08 RF3F, Irlanda",
+                "class": "amenity",
+                "type": "townhall",
+                "snippet": [
+                    "*...La città consiste nella zona amministrata dal Dublin City Council assieme ai contigui sobborghi un tempo appartenenti alla Contea di Dublino, ma ora divisi tra le contee di Dún Laoghaire-Rathdown, Fingal e South Dublin....",
+                    "*...La città è inoltre circondata da quel che il Dublin City Council ha definito \"inner and outer orbital route\" (\"tratto orbitale esterno e interno\"):...",
+                    "*...La città di Dublino è governata dal Dublin City Council (già Dublin Corporation), presieduto dal Lord Mayor of Dublin, il quale viene eletto annualmente e risiede nella Mansion House, residenza dei Primi Cittadini di Dublino dal 1715...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.244754,
+                    53.291676
+                ]
+            },
+            "properties": {
+                "entity": "Dún Laoghaire-Rathdown",
+                "name_location": "Dún Laoghaire-Rathdown County Council, Dundrum Office Park, Dundrum, Dundrum-Kilmacud DED 1986, Dundrum, Dún Laoghaire-Rathdown, County Dublin, Leinster, D14 HD83, Irlanda",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...La città consiste nella zona amministrata dal Dublin City Council assieme ai contigui sobborghi un tempo appartenenti alla Contea di Dublino, ma ora divisi tra le contee di Dún Laoghaire-Rathdown, Fingal e South Dublin....",
+                    "*...In realtà si tratta di un'Università confederata, con più Università distaccate che ne fanno parte, fra cui l'importantissimo University College Dublin (UCD), che gode di altissima reputazione anche all'estero e ha sede nel territorio della contea di Dún Laoghaire-Rathdown...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.286858,
+                    53.336038
+                ]
+            },
+            "properties": {
+                "entity": "Fingal",
+                "name_location": "Fingal Street, Merchants Quay F Ward 1986, Dublino, Dublin 8, Leinster, D08 WN40, Irlanda",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...La città consiste nella zona amministrata dal Dublin City Council assieme ai contigui sobborghi un tempo appartenenti alla Contea di Dublino, ma ora divisi tra le contee di Dún Laoghaire-Rathdown, Fingal e South Dublin...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.268408,
+                    53.343798
+                ]
+            },
+            "properties": {
+                "entity": "South Dublin",
+                "name_location": "HSE Dublin South City Local Health Office, 21-25, Lord Edward Street, Royal Exchange A Ward 1986, Dublino, County Dublin, Leinster, D08 AV24, Irlanda",
+                "class": "office",
+                "type": "government",
+                "snippet": [
+                    "*...La città consiste nella zona amministrata dal Dublin City Council assieme ai contigui sobborghi un tempo appartenenti alla Contea di Dublino, ma ora divisi tra le contee di Dún Laoghaire-Rathdown, Fingal e South Dublin...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.254572,
+                    53.342093
+                ]
+            },
+            "properties": {
+                "entity": "Kildare",
+                "name_location": "Kildare Street, Mansion House B Ward 1986, Dublino, Dublin 2, Leinster, D02 CY95, Irlanda",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...La Greater Dublin Area si compone di quanto sopra assieme alle contee di Kildare, Meath e Wicklow....",
+                    "*...Nel XVI secolo emerse la figura di Fitzgerald conte di Kildare e dei suoi discendenti, figure politiche di spicco volute dai dominatori britannici a difesa di Dublino per mantenere intatte le proprie colonie dal rischio di invasione delle popolazioni irlandesi vicine....",
+                    "...La rivalità probabilmente nacque ai tempi del Duca di Kildare, che decise di costruire la sua residenza (Leinster House, l'attuale parlamento) nella zona meridionale, allora effettivamente meno ambita, commentando l'inusuale scelta con un Where I go, fashion follows me (\"Dovunque vado, la moda mi segue\")....",
+                    "*...Linee pendolari per Kildare e Maynooth, inoltre, raggiungono gran parte dei sobborghi occidentale della capitale irlandese...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.279148,
+                    53.342826
+                ]
+            },
+            "properties": {
+                "entity": "Meath",
+                "name_location": "Meath Street, The Liberties, Merchants Quay B 1986, Dublino, Dublin 8, Leinster, D08 C2W7, Irlanda",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...La Greater Dublin Area si compone di quanto sopra assieme alle contee di Kildare, Meath e Wicklow...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.264741,
+                    53.343569
+                ]
+            },
+            "properties": {
+                "entity": "Wicklow",
+                "name_location": "Wicklow House, South Great George's Street, Royal Exchange A Ward 1986, Dublino, County Dublin, Leinster, D02 TX84, Irlanda",
+                "class": "building",
+                "type": "commercial",
+                "snippet": [
+                    "*...La Greater Dublin Area si compone di quanto sopra assieme alle contee di Kildare, Meath e Wicklow...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.26512,
+                    53.346194
+                ]
+            },
+            "properties": {
+                "entity": "Poddle",
+                "name_location": "Millennium Bridge, North City Ward 1986, Dublino, Dublin 1, Leinster, D02 YK79, Irlanda",
+                "class": "highway",
+                "type": "footway",
+                "snippet": [
+                    "*...Il toponimo è un adattamento dal gaelico Dubh Linn, \"stagno nero\", che fa riferimento a uno stagno che esisteva un tempo alla confluenza tra il fiume Poddle e il Liffey...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.305072,
+                    53.320962
+                ]
+            },
+            "properties": {
+                "entity": "Armagh",
+                "name_location": "Armagh Road, Cashel Road, Armagh Road, Kimmage B ED, Dublino, County Dublin, Leinster, D12 W62N, Irlanda",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Thorkel, tuttavia, scelse Armagh come centro del suo potere...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.267016,
+                    53.342695
+                ]
+            },
+            "properties": {
+                "entity": "castello di Dublino",
+                "name_location": "Castello di Dublino, Castle Street, Royal Exchange A Ward 1986, Dublino, County Dublin, Leinster, D08 RK00, Irlanda",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Il potere andò consolidandosi nel castello di Dublino, mentre furono erette tre importanti chiese (Cattedrale di Christ Church, Cattedrale di San Patrizio e Chiesa di Sant'Audoeno) tutte a breve distanza fra loro, nonché il Parlamento d'Irlanda....",
+                    "*...Nel 1536, invece, Silken Thomas assediò il castello di Dublino per vendicare l'imprigionamento del parente Garret Fitzgerald....",
+                    "...Castello di Dublino..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.26796,
+                    53.341756
+                ]
+            },
+            "properties": {
+                "entity": "Pale",
+                "name_location": "St. Michael's le Pale Church Yard, Ship Street Great, Royal Exchange A ED, Dublino, County Dublin, Leinster, D08 A5RV, Irlanda",
+                "class": "historic",
+                "type": "memorial",
+                "snippet": [
+                    "...Nel XIV secolo, per frenare l'influenza dei nativi irlandesi, la zona fu fortificata e isolata, divenendo quella che per secoli fu chiamata The Pale....",
+                    "*...Gli abitanti del Pale avevano infatti creato un'invalicabile \"enclave\" dove vivevano esclusivamente persone di razza normanna, mentre i \"barbari\" irlandesi erano confinati all'esterno:..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.256206,
+                    53.326273
+                ]
+            },
+            "properties": {
+                "entity": "Ranelagh",
+                "name_location": "Ranelagh, Rathmines East D ED, Dublino, County Dublin, Leinster, D06 C9C6, Irlanda",
+                "class": "railway",
+                "type": "tram_stop",
+                "snippet": [
+                    "*...Questa mentalità si rifletteva nell'episodio simbolo, il pellegrinaggio annuale al campo di Cullen a Ranelagh, dove nel 1209 erano stati massacrati dal clan degli O'Toole, dei coloni appena giunti da Bristol:..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.269247,
+                    53.343168
+                ]
+            },
+            "properties": {
+                "entity": "Bristol",
+                "name_location": "Bristol Buildings, 7-9, Castle Street, Royal Exchange A Ward 1986, Dublino, County Dublin, Leinster, D08 RK00, Irlanda",
+                "class": "building",
+                "type": "apartments",
+                "snippet": [
+                    "*...Questa mentalità si rifletteva nell'episodio simbolo, il pellegrinaggio annuale al campo di Cullen a Ranelagh, dove nel 1209 erano stati massacrati dal clan degli O'Toole, dei coloni appena giunti da Bristol:..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.263184,
+                    53.333558
+                ]
+            },
+            "properties": {
+                "entity": "Europa",
+                "name_location": "Europa House, Harcourt Centre, Saint Kevin's ED, Dublino, County Dublin, Leinster, D02 NP22, Irlanda",
+                "class": "building",
+                "type": "office",
+                "snippet": [
+                    "*...Nel 1348 la città fu colpita pesantemente dalla peste nera, un'epidemia letale che colpì tutta l'Europa, e che fece moltissime vittime, poi seppellite in fosse comuni nell'area tutt'oggi chiamata Blackpits....",
+                    "*...La sede operativa della Microsoft per l'Europa, l'Africa e il Medio Oriente è situata nella zona meridionale della città, all'interno del Sandyford Industrial Estate, così come le installazioni di Xerox e Google....",
+                    "*...La Intel e la Hewlett-Packard hanno importanti siti produttivi a Leixlip, a ovest di Dublino, mentre Facebook ha a Dublino il suo quartier generale per l'Europa....",
+                    "*...La capitale irlandese è stata così soprannominata \"Silicon Valley d'Europa\"...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.256772,
+                    53.348195
+                ]
+            },
+            "properties": {
+                "entity": "York",
+                "name_location": "New York Hair, 20, Eden Quay, North City ED, Dublino, County Dublin, Leinster, D01 DE44, Irlanda",
+                "class": "shop",
+                "type": "hairdresser",
+                "snippet": [
+                    "*...Nel 1407, durante la guerra delle due rose, invasero la città con le truppe alleate dal Ducato di Borgogna, proclamando Lambert Simnel, della casata di York, re d'Inghilterra;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.258956,
+                    53.344416
+                ]
+            },
+            "properties": {
+                "entity": "Trinity College",
+                "name_location": "Trinity College, College Green, Mansion House A ED, Dublino, County Dublin, Leinster, D02 VR66, Irlanda",
+                "class": "amenity",
+                "type": "post_box",
+                "snippet": [
+                    "*...Nel 1592 Elisabetta I inaugurò il Trinity College, a cui, però, potevano accedere solo gli irlandesi protestanti:...",
+                    "*...Il suo unico college è il celeberrimo Trinity College, istituito ai tempi di Elisabetta I e chiuso ai cattolici fino all'emancipazione (primi decenni del XIX secolo)....",
+                    "*...Il Trinity College, una volta finalista dello Shamrock Bowl ;...",
+                    "*...Il complesso del Trinity è stato costruito in epoche differenti...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.260088,
+                    53.349086
+                ]
+            },
+            "properties": {
+                "entity": "Sackville Street",
+                "name_location": "O'Connell Street Lower, North City Ward 1986, Dublino, Dublin 1, Leinster, D01 F5P2, Irlanda",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Sorsero in breve tempo Sackville Street (oggi O'Connell Street), Dame Street, Westmoreland Street, Henrietta Street e D'Olier Street, tutte costruite dopo avere demolito i vecchi quartieri medievali e gli agglomerati seguenti...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.262606,
+                    53.34424
+                ]
+            },
+            "properties": {
+                "entity": "Dame Street",
+                "name_location": "Dame Street, Royal Exchange A Ward 1986, Dublino, Dublin 2, Leinster, D02 YP66, Irlanda",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Sorsero in breve tempo Sackville Street (oggi O'Connell Street), Dame Street, Westmoreland Street, Henrietta Street e D'Olier Street, tutte costruite dopo avere demolito i vecchi quartieri medievali e gli agglomerati seguenti...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.259874,
+                    53.346657
+                ]
+            },
+            "properties": {
+                "entity": "Westmoreland Street",
+                "name_location": "Aston Quay, Royal Exchange A Ward 1986, Dublino, County Dublin, Leinster, D02 FH28, Irlanda",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Sorsero in breve tempo Sackville Street (oggi O'Connell Street), Dame Street, Westmoreland Street, Henrietta Street e D'Olier Street, tutte costruite dopo avere demolito i vecchi quartieri medievali e gli agglomerati seguenti...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.25829,
+                    53.346648
+                ]
+            },
+            "properties": {
+                "entity": "D'Olier Street",
+                "name_location": "D'Olier Street, Leinster Market, Mansion House A ED, Dublino, County Dublin, Leinster, D02 F243, Irlanda",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Sorsero in breve tempo Sackville Street (oggi O'Connell Street), Dame Street, Westmoreland Street, Henrietta Street e D'Olier Street, tutte costruite dopo avere demolito i vecchi quartieri medievali e gli agglomerati seguenti...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.262002,
+                    53.352347
+                ]
+            },
+            "properties": {
+                "entity": "Rutland Square",
+                "name_location": "Parnell Street, Rotunda B Ward 1986, Dublino, Dublin 1, Leinster, D01 ND00, Irlanda",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Rutland Square (oggi chiamata Parnell Square) e Mountjoy Square nel North Side, Merrion Square, Fitzwilliam Square e Saint Stephen's Green...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.265131,
+                    53.35381
+                ]
+            },
+            "properties": {
+                "entity": "Parnell Square",
+                "name_location": "Parnell Square, Parnell Square North, Rotunda B ED, Dublino, County Dublin, Leinster, D01 E7C1, Irlanda",
+                "class": "amenity",
+                "type": "car_sharing",
+                "snippet": [
+                    "*...Rutland Square (oggi chiamata Parnell Square) e Mountjoy Square nel North Side, Merrion Square, Fitzwilliam Square e Saint Stephen's Green...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.25866,
+                    53.356244
+                ]
+            },
+            "properties": {
+                "entity": "Mountjoy Square",
+                "name_location": "Mountjoy Square, Mountjoy Square West, Mountjoy Square, Rotunda A ED, Dublino, County Dublin, Leinster, D01 K286, Irlanda",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Rutland Square (oggi chiamata Parnell Square) e Mountjoy Square nel North Side, Merrion Square, Fitzwilliam Square e Saint Stephen's Green....",
+                    "*...Il primo circonda la parte georgiana della città da St Stephen's Green a Mountjoy Square e da King's Inns alla St. Patrick's Cathedral;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.116201,
+                    53.573785
+                ]
+            },
+            "properties": {
+                "entity": "North Side",
+                "name_location": "Saint Patrick's Close (North side) Station Road (South Side), Skerries ED, Fingal, County Dublin, Leinster, K34 V585, Irlanda",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Rutland Square (oggi chiamata Parnell Square) e Mountjoy Square nel North Side, Merrion Square, Fitzwilliam Square e Saint Stephen's Green...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.250879,
+                    53.341021
+                ]
+            },
+            "properties": {
+                "entity": "Merrion Square",
+                "name_location": "Merrion Square West, Mansion House B ED, Dublino, Dublin 2, Leinster, D02 FR90, Irlanda",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Rutland Square (oggi chiamata Parnell Square) e Mountjoy Square nel North Side, Merrion Square, Fitzwilliam Square e Saint Stephen's Green...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.252698,
+                    53.336166
+                ]
+            },
+            "properties": {
+                "entity": "Fitzwilliam Square",
+                "name_location": "Fitzwilliam Square West, Mansion House B Ward 1986, Dublino, Dublin 2, Leinster, D02 T922, Irlanda",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Rutland Square (oggi chiamata Parnell Square) e Mountjoy Square nel North Side, Merrion Square, Fitzwilliam Square e Saint Stephen's Green...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.263252,
+                    53.33994
+                ]
+            },
+            "properties": {
+                "entity": "Saint Stephen's Green",
+                "name_location": "Saint Stephen's Green Multi-Storey, Glovers Alley, Royal Exchange B ED, Dublino, County Dublin, Leinster, D02 RD40, Irlanda",
+                "class": "amenity",
+                "type": "parking",
+                "snippet": [
+                    "*...Rutland Square (oggi chiamata Parnell Square) e Mountjoy Square nel North Side, Merrion Square, Fitzwilliam Square e Saint Stephen's Green...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.262413,
+                    53.345626
+                ]
+            },
+            "properties": {
+                "entity": "Temple Bar",
+                "name_location": "Temple Bar, Royal Exchange A Ward 1986, Dublino, Dublin 2, Leinster, D02 HY86, Irlanda",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Soltanto l'area di Temple Bar e di Grattan Square non furono stravolte....",
+                    "...Temple Bar ;...",
+                    "*...Il quartiere di Temple Bar, attraversato dall'omonima via (oggi pedonale e ricca di tipici Irish pub), è il punto principale della vita notturna più turistica, da sempre Teatro di esibizioni di artisti di Strada....",
+                    "*...Il quartiere di Temple Bar, a sud del Liffey, è il luogo in cui si svolge prevalentemente la vita notturna nella capitale irlandese....",
+                    "*...Alcune strade soprattutto a vocazione commerciale e del tempo libero (per esempio il quartiere Temple Bar e Grafton Street) sono pedonalizzate...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.243588,
+                    53.338566
+                ]
+            },
+            "properties": {
+                "entity": "Grattan Square",
+                "name_location": "#492 Grattan St, Merrion Square, Mount Street Lower, South Dock ED, Dublino, County Dublin, Leinster, D02 HD59, Irlanda",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Soltanto l'area di Temple Bar e di Grattan Square non furono stravolte...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.363108,
+                    53.376283
+                ]
+            },
+            "properties": {
+                "entity": "Santa Maria",
+                "name_location": "Santa Maria, 5, Beechpark Avenue, Beechpark, Castleknock-Park DED 1986, Castleknock, Fingal, County Dublin, Leinster, D15 VY32, Irlanda",
+                "class": "building",
+                "type": "house",
+                "snippet": [
+                    "*...Procattedrale di Santa Maria ...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.317903,
+                    53.35986
+                ]
+            },
+            "properties": {
+                "entity": "Áras an Uachtaráin",
+                "name_location": "Áras an Uachtaráin, Chesterfield Avenue, Islandbridge, Phoenix Park ED, Dublino, County Dublin, Leinster, D08 HN3X, Irlanda",
+                "class": "office",
+                "type": "government",
+                "snippet": [
+                    "*...Áras an Uachtaráin ;...",
+                    "*...Per fare alcuni esempi l'Áras an Uachtaráin (residenza del Presidente della Repubblica) è situata nel Northside così come alcuni dei quartieri più ricchi, Howth, Malahide e Castleknock, si trovano a nord del fiume, mentre Tallaght, Palmerstown, Crumlin, e Ballyfermot, quartieri tradizionalmente di lavoratori, sono a sud....",
+                    "*...Il presidente della repubblica invece alloggia ad Áras an Uachtaráin a Phoenix Park, ex residenza del governatore generale dello Stato libero d'Irlanda...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.257113,
+                    53.348659
+                ]
+            },
+            "properties": {
+                "entity": "Abbey Theatre",
+                "name_location": "Peacock Theatre, 26, Abbey Street Lower, North City ED, Dublino, County Dublin, Leinster, D01 K0F1, Irlanda",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...Abbey Theatre ;...",
+                    "*...Nel centro cittadino ci sono svariati teatri, il più grande dei quali è l'Abbey Theatre, famoso per avere avuto un ruolo determinante nella letteratura irlandese...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.309575,
+                    53.341743
+                ]
+            },
+            "properties": {
+                "entity": "Kilmainham Gaol",
+                "name_location": "Kilmainham Gaol, Inchicore Road, Kilmainham B ED, Dublino, County Dublin, Leinster, D08 RK28, Irlanda",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Kilmainham Gaol ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.299464,
+                    53.342913
+                ]
+            },
+            "properties": {
+                "entity": "Irish Museum of Modern Art",
+                "name_location": "Irish Museum of Modern Art, Military Road, Kilmainham, Ushers A ED, Dublino, County Dublin, Leinster, D08 FW31, Irlanda",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Dublino è sede del National Print Museum of Ireland, dell'Irish Museum of Modern Art, della National Gallery of Ireland, dell'Hugh Lane Municipal Gallery, della Chester Beatty Library e di tre sedi del Museo nazionale d'Irlanda...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.259261,
+                    53.386489
+                ]
+            },
+            "properties": {
+                "entity": "Dublin City University",
+                "name_location": "The Helix, Collins Avenue, Drumcondra North C ED, Dublino, County Dublin, Leinster, D09 FW22, Irlanda",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...La più giovane è la Dublin City University, sorta per ottemperare la sempre maggiore domanda negli altri college e specializzata in economia, ingegneria e corsi scientifici...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.258791,
+                    53.339488
+                ]
+            },
+            "properties": {
+                "entity": "St. Stephen's Green",
+                "name_location": "St. Stephen's Green, Mansion House B ED, Dublino, Dublin 2, Leinster, D02 TK33, Irlanda",
+                "class": "highway",
+                "type": "unclassified",
+                "snippet": [
+                    "*...Degni di nota il Royal College of Surgeons in Ireland, college indipendente situato in St. Stephen's Green totalmente dedicato alle scienze mediche, e fra gli istituti non universitari di terzo livello, il Dublin Institute of Technology, il più vasto della nazione, oltre che il National College of Art and Design (NCAD) e il Dun Laoghaire Institute of Art, Design and Technology, riservati invece alle materie artistiche...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.261151,
+                    53.349781
+                ]
+            },
+            "properties": {
+                "entity": "Eir",
+                "name_location": "Eir, 34, Henry Street, North City ED, Dublino, County Dublin, Leinster, D01 F5P2, Irlanda",
+                "class": "shop",
+                "type": "mobile_phone",
+                "snippet": [
+                    "*...Sono situati a Dublino anche gli uffici e infrastrutture principali di An Post, Eir, Vodafone e 3 Ireland...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.260834,
+                    53.349813
+                ]
+            },
+            "properties": {
+                "entity": "Vodafone",
+                "name_location": "Vodafone, 32, Henry Street, North City ED, Dublino, County Dublin, Leinster, D01 F5P2, Irlanda",
+                "class": "shop",
+                "type": "mobile_phone",
+                "snippet": [
+                    "*...Sono situati a Dublino anche gli uffici e infrastrutture principali di An Post, Eir, Vodafone e 3 Ireland...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.268174,
+                    53.34622
+                ]
+            },
+            "properties": {
+                "entity": "3 Ireland",
+                "name_location": "OpenJaw Technologies, 1-3, Ormond Quay Upper, North City Ward 1986, Dublino, County Dublin, Leinster, D07 YK6A, Irlanda",
+                "class": "office",
+                "type": "it",
+                "snippet": [
+                    "*...Sono situati a Dublino anche gli uffici e infrastrutture principali di An Post, Eir, Vodafone e 3 Ireland...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.24672,
+                    53.361741
+                ]
+            },
+            "properties": {
+                "entity": "Northside",
+                "name_location": "Northside Nursery, 71, Clonliffe Road, Ballybough, Ballybough A ED, Dublino, County Dublin, Leinster, D03 VE24, Irlanda",
+                "class": "amenity",
+                "type": "kindergarten",
+                "snippet": [
+                    "*...Tradizionalmente Dublino è caratterizzata dalla rivalità fra le zone separate dal passaggio del Liffey, ovvero quelle settentrionali (il Northside) e quelle meridionali (il Southside)....",
+                    "...Il Northside è considerato come la zona della classe lavoratrice e operaia della città, mentre il Southside come quella della borghesia e dei ceti più abbienti....",
+                    "*...Per fare alcuni esempi l'Áras an Uachtaráin (residenza del Presidente della Repubblica) è situata nel Northside così come alcuni dei quartieri più ricchi, Howth, Malahide e Castleknock, si trovano a nord del fiume, mentre Tallaght, Palmerstown, Crumlin, e Ballyfermot, quartieri tradizionalmente di lavoratori, sono a sud....",
+                    "...Alcuni sostengono che una suddivisione più fedele sia quella tra l'est costiero, in cui si trovano la maggior parte dei quartieri posh (ossia eleganti), e l'ovest popolare, sebbene la divisione Northside/Southside resti certamente quella più radicata nell'immaginario dublinese...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.279443,
+                    53.338385
+                ]
+            },
+            "properties": {
+                "entity": "Southside",
+                "name_location": "Southside Angling, 125, Cork Street, Merchants Quay C ED, Dublino, County Dublin, Leinster, D08 XH90, Irlanda",
+                "class": "shop",
+                "type": "outdoor",
+                "snippet": [
+                    "*...Tradizionalmente Dublino è caratterizzata dalla rivalità fra le zone separate dal passaggio del Liffey, ovvero quelle settentrionali (il Northside) e quelle meridionali (il Southside)....",
+                    "*...Il Northside è considerato come la zona della classe lavoratrice e operaia della città, mentre il Southside come quella della borghesia e dei ceti più abbienti....",
+                    "...Alcuni sostengono che una suddivisione più fedele sia quella tra l'est costiero, in cui si trovano la maggior parte dei quartieri posh (ossia eleganti), e l'ovest popolare, sebbene la divisione Northside/Southside resti certamente quella più radicata nell'immaginario dublinese...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.306397,
+                    53.372527
+                ]
+            },
+            "properties": {
+                "entity": "D7",
+                "name_location": "D7 Afterschool Care Limited, Ratoath Road, Ashtown A Ward 1986, Dublino, County Dublin, Leinster, D07 Y891, Irlanda",
+                "class": "amenity",
+                "type": "childcare",
+                "snippet": [
+                    "*...Al nord i dispari (per esempio D7 per Phibsborough), e al sud i pari (per esempio D4 per Ballsbridge)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.273609,
+                    53.359582
+                ]
+            },
+            "properties": {
+                "entity": "Phibsborough",
+                "name_location": "Phibsborough, Arran Quay A Ward 1986, Dublino, Dublin 7, Leinster, D07 VY01, Irlanda",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Al nord i dispari (per esempio D7 per Phibsborough), e al sud i pari (per esempio D4 per Ballsbridge)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.23594,
+                    53.332752
+                ]
+            },
+            "properties": {
+                "entity": "D4",
+                "name_location": "D4 Fuels, Northumberland Road, Pembroke West C ED, Dublino, County Dublin, Leinster, D04 PF51, Irlanda",
+                "class": "amenity",
+                "type": "fuel",
+                "snippet": [
+                    "*...Al nord i dispari (per esempio D7 per Phibsborough), e al sud i pari (per esempio D4 per Ballsbridge)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.229085,
+                    53.330982
+                ]
+            },
+            "properties": {
+                "entity": "Ballsbridge",
+                "name_location": "Ballsbridge Park, Ballsbridge, Pembroke East E Ward 1986, Dublino, Dublin 4, Leinster, D04 Y0A9, Irlanda",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Al nord i dispari (per esempio D7 per Phibsborough), e al sud i pari (per esempio D4 per Ballsbridge)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.074327,
+                    53.388987
+                ]
+            },
+            "properties": {
+                "entity": "Howth",
+                "name_location": "Howth, Howth Road, Ben Eadair A ED, Howth, Fingal, County Dublin, Leinster, D13 EY10, Irlanda",
+                "class": "building",
+                "type": "train_station",
+                "snippet": [
+                    "*...Per fare alcuni esempi l'Áras an Uachtaráin (residenza del Presidente della Repubblica) è situata nel Northside così come alcuni dei quartieri più ricchi, Howth, Malahide e Castleknock, si trovano a nord del fiume, mentre Tallaght, Palmerstown, Crumlin, e Ballyfermot, quartieri tradizionalmente di lavoratori, sono a sud...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.156616,
+                    53.450695
+                ]
+            },
+            "properties": {
+                "entity": "Malahide",
+                "name_location": "Malahide, R106, Malahide-West DED 1986, Fingal, County Dublin, Leinster, K36 TW67, Irlanda",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Per fare alcuni esempi l'Áras an Uachtaráin (residenza del Presidente della Repubblica) è situata nel Northside così come alcuni dei quartieri più ricchi, Howth, Malahide e Castleknock, si trovano a nord del fiume, mentre Tallaght, Palmerstown, Crumlin, e Ballyfermot, quartieri tradizionalmente di lavoratori, sono a sud...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.371424,
+                    53.381529
+                ]
+            },
+            "properties": {
+                "entity": "Castleknock",
+                "name_location": "Castleknock, Castleknock Road, Blanchardstown-Roselawn DED 1986, Castleknock, Fingal, County Dublin, Leinster, D15 NX98, Irlanda",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...Per fare alcuni esempi l'Áras an Uachtaráin (residenza del Presidente della Repubblica) è situata nel Northside così come alcuni dei quartieri più ricchi, Howth, Malahide e Castleknock, si trovano a nord del fiume, mentre Tallaght, Palmerstown, Crumlin, e Ballyfermot, quartieri tradizionalmente di lavoratori, sono a sud...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.298375,
+                    53.330042
+                ]
+            },
+            "properties": {
+                "entity": "Crumlin",
+                "name_location": "Crumlin Road, Crumlin, Crumlin B Ward 1986, Dublino, Dublin 12, Leinster, D12 NX05, Irlanda",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Per fare alcuni esempi l'Áras an Uachtaráin (residenza del Presidente della Repubblica) è situata nel Northside così come alcuni dei quartieri più ricchi, Howth, Malahide e Castleknock, si trovano a nord del fiume, mentre Tallaght, Palmerstown, Crumlin, e Ballyfermot, quartieri tradizionalmente di lavoratori, sono a sud...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.358693,
+                    53.342565
+                ]
+            },
+            "properties": {
+                "entity": "Ballyfermot",
+                "name_location": "Ballyfermot, Ballyfermot Road, Cherry Orchard B Ward 1986, Dublino, County Dublin, Leinster, D10 WV02, Irlanda",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Per fare alcuni esempi l'Áras an Uachtaráin (residenza del Presidente della Repubblica) è situata nel Northside così come alcuni dei quartieri più ricchi, Howth, Malahide e Castleknock, si trovano a nord del fiume, mentre Tallaght, Palmerstown, Crumlin, e Ballyfermot, quartieri tradizionalmente di lavoratori, sono a sud...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.22326,
+                    53.322646
+                ]
+            },
+            "properties": {
+                "entity": "Africa",
+                "name_location": "Official Residence of the Republic of South Africa, Shrewsbury Road, Ballsbridge, Pembroke East E ED, Dublino, County Dublin, Leinster, D04 W9H6, Irlanda",
+                "class": "office",
+                "type": "diplomatic",
+                "snippet": [
+                    "*...La sede operativa della Microsoft per l'Europa, l'Africa e il Medio Oriente è situata nella zona meridionale della città, all'interno del Sandyford Industrial Estate, così come le installazioni di Xerox e Google...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.470638,
+                    53.358282
+                ]
+            },
+            "properties": {
+                "entity": "Leixlip",
+                "name_location": "Leixlip, M4, Lucan-St. Helens DED 1986, Lucan, South Dublin, County Dublin, Leinster, K78 EY17, Irlanda",
+                "class": "highway",
+                "type": "motorway_junction",
+                "snippet": [
+                    "*...La Intel e la Hewlett-Packard hanno importanti siti produttivi a Leixlip, a ovest di Dublino, mentre Facebook ha a Dublino il suo quartier generale per l'Europa...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.392114,
+                    53.395729
+                ]
+            },
+            "properties": {
+                "entity": "Liverpool",
+                "name_location": "Liverpool FC Popup Shop, Blanchardstown Retail Park, Blanchardstown Centre, Blanchardstown-Coolmine DED 1986, Blanchardstown, Fingal, County Dublin, Leinster, D15 T1FD, Irlanda",
+                "class": "shop",
+                "type": "sports",
+                "snippet": [
+                    "*...Il suo porto è il principale dell'isola e collega la città a Swansea e Liverpool....",
+                    "...Liverpool ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.291678,
+                    53.346657
+                ]
+            },
+            "properties": {
+                "entity": "Heuston",
+                "name_location": "Heuston, Saint John's Road West, Ushers B Ward 1986, Dublino, County Dublin, Leinster, D08 E2CV, Irlanda",
+                "class": "railway",
+                "type": "tram_stop",
+                "snippet": [
+                    "*...Le stazioni ferroviarie principali sono la stazione di Heuston per le destinazioni meridionali e occidentali della Repubblica, e la stazione di Connolly per Sligo e la tratta Dublino-Belfast...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.404705,
+                    53.336631
+                ]
+            },
+            "properties": {
+                "entity": "Lucan",
+                "name_location": "Wood Avens, Lucan-Newlands Road, Clondalkin-Rowlagh DED 1986, Clondalkin, South Dublin, County Dublin, Leinster, D22 YH02, Irlanda",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Da qualche anno è stato inserito anche un pedaggio nel tratto chiamato West link nei pressi di Lucan...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.258791,
+                    53.339488
+                ]
+            },
+            "properties": {
+                "entity": "St Stephen's Green",
+                "name_location": "St. Stephen's Green, Mansion House B ED, Dublino, Dublin 2, Leinster, D02 TK33, Irlanda",
+                "class": "highway",
+                "type": "unclassified",
+                "snippet": [
+                    "*...Il primo circonda la parte georgiana della città da St Stephen's Green a Mountjoy Square e da King's Inns alla St. Patrick's Cathedral;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.271484,
+                    53.339505
+                ]
+            },
+            "properties": {
+                "entity": "St. Patrick's Cathedral",
+                "name_location": "Cattedrale di San Patrizio, Patrick Street, Wood Quay A ED, Dublino, County Dublin, Leinster, D08 AR29, Irlanda",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Il primo circonda la parte georgiana della città da St Stephen's Green a Mountjoy Square e da King's Inns alla St. Patrick's Cathedral;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.239962,
+                    53.344215
+                ]
+            },
+            "properties": {
+                "entity": "Grand Canal",
+                "name_location": "Bord Gáis Energy Theatre, Grand Canal Square, Dublin Docklands, South Dock ED, Dublino, County Dublin, Leinster, D02 E295, Irlanda",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...Il secondo fa un giro più largo lungo i due canali dublinesi, Grand Canal e Royal Canal...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.272479,
+                    53.356376
+                ]
+            },
+            "properties": {
+                "entity": "Royal Canal",
+                "name_location": "Royal Canal Bank, Arran Quay A Ward 1986, Dublino, Dublin 7, Leinster, D07 A562, Irlanda",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Il secondo fa un giro più largo lungo i due canali dublinesi, Grand Canal e Royal Canal...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.259209,
+                    53.343953
+                ]
+            },
+            "properties": {
+                "entity": "Grafton Street",
+                "name_location": "Grafton Street, Mansion House A Ward 1986, Dublino, Dublin 2, Leinster, D02 C671, Irlanda",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Alcune strade soprattutto a vocazione commerciale e del tempo libero (per esempio il quartiere Temple Bar e Grafton Street) sono pedonalizzate...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.26105,
+                    53.350472
+                ]
+            },
+            "properties": {
+                "entity": "Dublin Bus",
+                "name_location": "Dublin Bus Head Office, 59, O'Connell Street Upper, North City ED, Dublino, County Dublin, Leinster, D01 RX04, Irlanda",
+                "class": "office",
+                "type": "company",
+                "snippet": [
+                    "*...In caso di resto verrà rilasciata una ricevuta che dovrà essere esibita presso la sede di Dublin Bus....",
+                    "*...La parte principale del trasporto pubblico a Dublino è occupata dal servizio dei bus, gestito dalla Bus Átha Cliath (Dublin Bus), che opera in una rete di circa 200 tratte giornaliere (identificate da un numero, qualche volta con una lettera di suffisso, es. 40, 40A, 40B, 40C, 40D) e 24 tratte notturne chiamate Nitelink, disponibili venerdì e sabato, le quali sono invece identificate da un suffisso \"N\" (es. 40N)....",
+                    "*...Esclusi i bus turistici, tutti i mezzi della Dublin Bus non hanno biglietto fisso, bensì le tariffe giornaliere sono determinate dal numero di tratte attraversate - le tariffe sono pagabili in moneta e solo l'importo esatto è accettato - se un cliente paga di più, ci sono dei change ticket che vanno presentati agli uffici della Dublin Bus a O'Connell Street che vengono ricambiati in denaro...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.249456,
+                    53.343585
+                ]
+            },
+            "properties": {
+                "entity": "DART",
+                "name_location": "DART Shoe Bar, Westland Row, Mansion House A Ward 1986, Dublino, County Dublin, Leinster, D02 FP30, Irlanda",
+                "class": "craft",
+                "type": "shoemaker",
+                "snippet": [
+                    "*...Per quanto riguarda DART e Luas Dublin è necessario acquistare i titoli di viaggio presso i distributori posti alle stazioni o fermate di riferimento, in contanti o con carta di credito/debito....",
+                    "*...Il sistema di trasporto Dublin Area Rapid Transit (DART) è una ferrovia che serve stazioni a intervalli regolari lungo la costa orientale dell'agglomerato dublinese...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.297364,
+                    53.372061
+                ]
+            },
+            "properties": {
+                "entity": "Luas Dublin",
+                "name_location": "Luas, Broombridge Road, Cabra West B Ward 1986, Dublino, County Dublin, Leinster, D11 AY91, Irlanda",
+                "class": "office",
+                "type": "company",
+                "snippet": [
+                    "*...Per quanto riguarda DART e Luas Dublin è necessario acquistare i titoli di viaggio presso i distributori posti alle stazioni o fermate di riferimento, in contanti o con carta di credito/debito...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.260799,
+                    53.350606
+                ]
+            },
+            "properties": {
+                "entity": "Bus Átha Cliath",
+                "name_location": "O'Connell Street, Dublin Bus, O'Connell Street Upper, North City ED, Dublino, County Dublin, Leinster, D01 TV20, Irlanda",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...La parte principale del trasporto pubblico a Dublino è occupata dal servizio dei bus, gestito dalla Bus Átha Cliath (Dublin Bus), che opera in una rete di circa 200 tratte giornaliere (identificate da un numero, qualche volta con una lettera di suffisso, es. 40, 40A, 40B, 40C, 40D) e 24 tratte notturne chiamate Nitelink, disponibili venerdì e sabato, le quali sono invece identificate da un suffisso \"N\" (es. 40N)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.260588,
+                    53.350955
+                ]
+            },
+            "properties": {
+                "entity": "O'Connell Street",
+                "name_location": "O'Connell Street, O'Connell Street Upper, North City ED, Dublino, County Dublin, Leinster, D01 P5P5, Irlanda",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Sorsero in breve tempo Sackville Street (oggi O'Connell Street), Dame Street, Westmoreland Street, Henrietta Street e D'Olier Street, tutte costruite dopo avere demolito i vecchi quartieri medievali e gli agglomerati seguenti....",
+                    "*...Esclusi i bus turistici, tutti i mezzi della Dublin Bus non hanno biglietto fisso, bensì le tariffe giornaliere sono determinate dal numero di tratte attraversate - le tariffe sono pagabili in moneta e solo l'importo esatto è accettato - se un cliente paga di più, ci sono dei change ticket che vanno presentati agli uffici della Dublin Bus a O'Connell Street che vengono ricambiati in denaro...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.267048,
+                    53.34395
+                ]
+            },
+            "properties": {
+                "entity": "Dublin City Hall",
+                "name_location": "The Right Place, Exchange Court, Royal Exchange A Ward 1986, Dublino, County Dublin, Leinster, D02 VW57, Irlanda",
+                "class": "amenity",
+                "type": "cafe",
+                "snippet": [
+                    "*...Il Consiglio ha sede nella Dublin City Hall dalla seconda metà dell'Ottocento....",
+                    "*...City Hall ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.254251,
+                    53.340307
+                ]
+            },
+            "properties": {
+                "entity": "Leinster House",
+                "name_location": "Leinster House, Kildare Street, Mansion House B ED, Dublino, County Dublin, Leinster, D02 XR20, Irlanda",
+                "class": "office",
+                "type": "government",
+                "snippet": [
+                    "...Leinster House ;...",
+                    "*...La rivalità probabilmente nacque ai tempi del Duca di Kildare, che decise di costruire la sua residenza (Leinster House, l'attuale parlamento) nella zona meridionale, allora effettivamente meno ambita, commentando l'inusuale scelta con un Where I go, fashion follows me (\"Dovunque vado, la moda mi segue\")....",
+                    "*...Queste ultime due si riuniscono alla Leinster House nella zona meridionale della città, e sede ufficiale del parlamento fin dall'indipendenza irlandese, avvenuta nel 1922....",
+                    "*...Situato vicino a Leinster House, l'edificio fu all'inizio dimora temporanea di alcuni ministeri durante i primi anni dello Stato Libero d'Irlanda....",
+                    "*...Il dato più antico, a parte la testimonianza di epoca romana, è la vittoria riportata dagli abitanti della città contro le popolazioni del Leinster nel 291, mentre intorno al 450 san Patrizio probabilmente era impegnato in città nell'opera di diffusione del Cristianesimo....",
+                    "...Il Leinster Rugby è una franchigia professionistica irlandese di rugby a 15....",
+                    "*...Rappresenta la provincia irlandese di Leinster, disputa le proprie gare interne a Dublino e partecipa alla Celtic League e all'Heineken Cup....",
+                    "...La squadra rappresenta anche la Irish Rugby Football Union Leinster Branch, che è una delle quattro principali sezioni della IRFU ed è responsabile dell'organizzazione e diffusione del rugby a 15 nella provincia di Leinster...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.294713,
+                    53.348351
+                ]
+            },
+            "properties": {
+                "entity": "Phoenix Park",
+                "name_location": "Phoenix Park Hotel, Infirmary Road, Arran Quay D Ward 1986, Dublino, County Dublin, Leinster, D08 YFF1, Irlanda",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...A nord-ovest della città è possibile visitare il Phoenix Park, un Parco che si estende per oltre settecento ettari e che al suo interno ospita lo zoo di Dublino, la sede del Presidente della Repubblica Irlandese e la sede dell'ambasciata degli Stati Uniti d'America....",
+                    "*...Il presidente della repubblica invece alloggia ad Áras an Uachtaráin a Phoenix Park, ex residenza del governatore generale dello Stato libero d'Irlanda...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.260203,
+                    53.344949
+                ]
+            },
+            "properties": {
+                "entity": "Irish Houses of Parliament",
+                "name_location": "Bank of Ireland, College Green, Royal Exchange A Ward 1986, Dublino, County Dublin, Leinster, D02 VR66, Irlanda",
+                "class": "amenity",
+                "type": "bank",
+                "snippet": [
+                    "*...Ai tempi in cui il regno d'Irlanda era una nazione costituente del Regno Unito il suo parlamento si riuniva presso le Irish Houses of Parliament, oggi sede della banca nazionale in College Green....",
+                    "...Nel 1918 iniziò la guerriglia degli Irish Volunteers (Volontari Irlandesi, che, guidati da Michael Collins, si rinominarono Irish Republican Army) contro i britannici e dal 1922 Dublino è la capitale dell'Irlanda indipendente....",
+                    "*...Il quartiere di Temple Bar, attraversato dall'omonima via (oggi pedonale e ricca di tipici Irish pub), è il punto principale della vita notturna più turistica, da sempre Teatro di esibizioni di artisti di Strada....",
+                    "...Dublino è sede del National Print Museum of Ireland, dell'Irish Museum of Modern Art, della National Gallery of Ireland, dell'Hugh Lane Municipal Gallery, della Chester Beatty Library e di tre sedi del Museo nazionale d'Irlanda....",
+                    "...Nella capitale irlandese si trovano anche le sedi dei maggiori quotidiani e delle maggiori stazioni radio, per esempio The Irish Times, Irish Independent (il maggior quotidiano irlandese) e Today FM....",
+                    "...Il governo si riunisce nel complesso noto come Irish Government Buildings, opera dell'architetto inglese Aston Webb....",
+                    "...La squadra rappresenta anche la Irish Rugby Football Union Leinster Branch, che è una delle quattro principali sezioni della IRFU ed è responsabile dell'organizzazione e diffusione del rugby a 15 nella provincia di Leinster...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.259291,
+                    53.344771
+                ]
+            },
+            "properties": {
+                "entity": "College Green",
+                "name_location": "College Green, Mansion House A Ward 1986, Dublino, Dublin 2, Leinster, D02 VR66, Irlanda",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Ai tempi in cui il regno d'Irlanda era una nazione costituente del Regno Unito il suo parlamento si riuniva presso le Irish Houses of Parliament, oggi sede della banca nazionale in College Green...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.250981,
+                    53.360358
+                ]
+            },
+            "properties": {
+                "entity": "Croke Park",
+                "name_location": "Croke Park, Jones's Road, Ballybough B ED, Dublino, Dublin 3, Leinster, D01 WY49, Irlanda",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...A Croke Park, un notevole impianto da 82.000 spettatori, è situata la GAA, Gaelic Athletic Association, organizzazione che si occupa del calcio gaelico e dell'hurling, sport tipici diffusissimi e apprezzatissimi in Irlanda: nello stesso stadio vengono disputate le gare più importanti in estate e il giorno di San Patrizio...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.251982,
+                    53.367557
+                ]
+            },
+            "properties": {
+                "entity": "Tolka Park",
+                "name_location": "Tolka Park, Richmond Road, Drumcondra South A ED, Dublino, Dublin 3, Leinster, D09 E9R3, Irlanda",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...Lansdowne Road, altro grande stadio dublinese, è stato demolito nel 2007. Gestito dall'IRFU, è stato il campo casalingo della nazionale di rugby irlandese, ma anche di quella calcistica, la quale giocava prima al Dalymount Park, oggi impianto casalingo dei Bohemians. I rivali dello Shelbourne F.C. invece giocano al vicino Tolka Park, lo Shamrock Rovers nel Tallaght Stadium, mentre il St. Patrick's Athletic disputa le sue partite casalinghe al Richmond Park. Lo Shelbourne Park e Leopardstown sono stadi per corse di cavalli e simili...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.316632,
+                    53.340908
+                ]
+            },
+            "properties": {
+                "entity": "St. Patrick's Athletic",
+                "name_location": "St. Patrick's Athletic FC, Kilmainham Bank, Kilmainham C ED, Dublino, County Dublin, Leinster, D08 FF97, Irlanda",
+                "class": "leisure",
+                "type": "pitch",
+                "snippet": [
+                    "*...Lansdowne Road, altro grande stadio dublinese, è stato demolito nel 2007. Gestito dall'IRFU, è stato il campo casalingo della nazionale di rugby irlandese, ma anche di quella calcistica, la quale giocava prima al Dalymount Park, oggi impianto casalingo dei Bohemians. I rivali dello Shelbourne F.C. invece giocano al vicino Tolka Park, lo Shamrock Rovers nel Tallaght Stadium, mentre il St. Patrick's Athletic disputa le sue partite casalinghe al Richmond Park. Lo Shelbourne Park e Leopardstown sono stadi per corse di cavalli e simili...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.316733,
+                    53.340871
+                ]
+            },
+            "properties": {
+                "entity": "Richmond Park",
+                "name_location": "Richmond Park, Kilmainham Bank, Kilmainham C ED, Dublino, County Dublin, Leinster, D08 FF97, Irlanda",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...Lansdowne Road, altro grande stadio dublinese, è stato demolito nel 2007. Gestito dall'IRFU, è stato il campo casalingo della nazionale di rugby irlandese, ma anche di quella calcistica, la quale giocava prima al Dalymount Park, oggi impianto casalingo dei Bohemians. I rivali dello Shelbourne F.C. invece giocano al vicino Tolka Park, lo Shamrock Rovers nel Tallaght Stadium, mentre il St. Patrick's Athletic disputa le sue partite casalinghe al Richmond Park. Lo Shelbourne Park e Leopardstown sono stadi per corse di cavalli e simili...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.230197,
+                    53.340479
+                ]
+            },
+            "properties": {
+                "entity": "Shelbourne Park",
+                "name_location": "Shelbourne Park, Fitzwilliam Quay, Ringsend, Pembroke East A Ward 1986, Dublino, County Dublin, Leinster, D04 W5C3, Irlanda",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...Lansdowne Road, altro grande stadio dublinese, è stato demolito nel 2007. Gestito dall'IRFU, è stato il campo casalingo della nazionale di rugby irlandese, ma anche di quella calcistica, la quale giocava prima al Dalymount Park, oggi impianto casalingo dei Bohemians. I rivali dello Shelbourne F.C. invece giocano al vicino Tolka Park, lo Shamrock Rovers nel Tallaght Stadium, mentre il St. Patrick's Athletic disputa le sue partite casalinghe al Richmond Park. Lo Shelbourne Park e Leopardstown sono stadi per corse di cavalli e simili...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.228178,
+                    53.335233
+                ]
+            },
+            "properties": {
+                "entity": "Aviva Stadium",
+                "name_location": "Aviva Stadium, Lansdowne Road, Pembroke West A Ward, Dublino, County Dublin, Leinster, D04 F3C7, Irlanda",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...L'Aviva Stadium è lo stadio principale della città. Dal 2010, anno in cui è stato inaugurato, ospita le partite delle nazionali di calcio e rugby...."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,460 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.558688,
+                    50.441041
+                ]
+            },
+            "properties": {
+                "entity": "Dnepr",
+                "name_location": "Дніпро, Autostrada Naberežne, Берестове, Pečers'k, Печерський район, Kiev, 01015, Ucraina",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...La città sorge su un ripiano terrazzato sulla riva destra del fiume Dnepr nella parte centro-settentrionale dell'Ucraina, non distante dal confine con la Bielorussia, al margine delle terre nere....",
+                    "*...I ponti sul fiume Dnepr sono un altro problema che limita lo sviluppo del sistema ferroviario cittadino:...",
+                    "*...La città è dotata di un porto fluviale, sulla riva destra del fiume Dnepr nel quartiere Podil...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.525732,
+                    50.447323
+                ]
+            },
+            "properties": {
+                "entity": "Kyiv",
+                "name_location": "Київська (скіфська) пектораль, Via Zan'kovec'ka, Урядовий квартал, Садиба Мерінга, Клов, Печерський район, Kiev, 01204, Ucraina",
+                "class": "tourism",
+                "type": "artwork",
+                "snippet": [
+                    "*...Nel 1995, il governo ucraino promulgò una risoluzione sul nome della città, dichiarando di adottare l'uso della traslitterazione Kyiv rispetto a Kiev, sostenendo tra l'altro:...",
+                    "*...Per confermare la traslitterazione in Kyiv, come corrispondenza standard in caratteri latini del nome geografico in lingua ucraina di Київ....",
+                    "*...Sulla base del punto 7 delle disposizioni della Commissione Ucraina per la Terminologia Legale, si determina come obbligatoria la traslitterazione standard in caratteri latini di Kyiv, per l'uso in atti legislativi ed ufficiali....",
+                    "*...Questo atto ha efficacia solo per quanto attiene alla traslitterazione del nome della città usata in Ucraina, sebbene recentemente altre persone, anche in Italia, enti o testate giornalistiche abbiano adottato il termine Kyiv nelle loro pubblicazioni, con una frequenza crescente in corrispondenza dell'acuirsi della crisi russo-ucraina e dell'invasione russa dell'Ucraina del 2022, diventando questo «anche un modo per manifestare una rivendicazione politica ed esprimere vicinanza alla causa di autodeterminazione ucraina»....",
+                    "*...Nel 1957, sotto l'Unione Sovietica, fu disegnato un nuovo stemma con foglie di castagno d'oro, un arco d'argento e la parola КИЇВ (Kyiv)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.520875,
+                    50.498055
+                ]
+            },
+            "properties": {
+                "entity": "Italia",
+                "name_location": "Italia, 15/4, Оболонська набережна, 10-й мікрорайон Оболоні, Оболонь, Оболонський район, Kiev, 04176, Ucraina",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...Questo atto ha efficacia solo per quanto attiene alla traslitterazione del nome della città usata in Ucraina, sebbene recentemente altre persone, anche in Italia, enti o testate giornalistiche abbiano adottato il termine Kyiv nelle loro pubblicazioni, con una frequenza crescente in corrispondenza dell'acuirsi della crisi russo-ucraina e dell'invasione russa dell'Ucraina del 2022, diventando questo «anche un modo per manifestare una rivendicazione politica ed esprimere vicinanza alla causa di autodeterminazione ucraina»...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.592537,
+                    50.463635
+                ]
+            },
+            "properties": {
+                "entity": "Città",
+                "name_location": "Citta Italiane, 62а, Каховська вулиця, Хутір, Лівобережний масив, Дніпровський район, Kiev, 02005, Ucraina",
+                "class": "amenity",
+                "type": "cafe",
+                "snippet": [
+                    "...Kiev , AFI: ), chiamata storicamente anche Chiovia, è una città a statuto speciale dell'Ucraina, capitale e città più popolosa del paese nonché capoluogo dell'omonima oblast', dalla quale è amministrativamente indipendente....",
+                    "...La città sorge su un ripiano terrazzato sulla riva destra del fiume Dnepr nella parte centro-settentrionale dell'Ucraina, non distante dal confine con la Bielorussia, al margine delle terre nere....",
+                    "...La città, in italiano e in altre lingue, è stata chiamata Kiev almeno a partire dal XIX secolo....",
+                    "...Nel 1995, il governo ucraino promulgò una risoluzione sul nome della città, dichiarando di adottare l'uso della traslitterazione Kyiv rispetto a Kiev, sostenendo tra l'altro:...",
+                    "...Questo atto ha efficacia solo per quanto attiene alla traslitterazione del nome della città usata in Ucraina, sebbene recentemente altre persone, anche in Italia, enti o testate giornalistiche abbiano adottato il termine Kyiv nelle loro pubblicazioni, con una frequenza crescente in corrispondenza dell'acuirsi della crisi russo-ucraina e dell'invasione russa dell'Ucraina del 2022, diventando questo «anche un modo per manifestare una rivendicazione politica ed esprimere vicinanza alla causa di autodeterminazione ucraina»....",
+                    "...Ciononostante, Kiev rimane la traslitterazione più diffusa in italiano, anche considerando che è normale per molte città avere un nome diverso nelle varie lingue (detto esonimo)....",
+                    "...Lo storico goto Giordane registrò l'esistenza della città con il nome di Danaprstadr....",
+                    "...Quando la regione finì sotto l'influenza slavo-variaga, la città divenne nota come Kiev (la leggenda parla di una figura fondatrice di nome Kij) e fu eletta a madre delle città russe da Oleg di Novgorod....",
+                    "...La città rimase in mano tedesca fino a quando fu ripresa dall'Armata Rossa il 6 novembre 1943....",
+                    "*...Per l'eroismo dimostrato durante la guerra, la città fu premiata con il titolo di Città eroina....",
+                    "...Il 23 ottobre 2004 in città vi fu una manifestazione a sostegno del candidato presidenziale ucraino Viktor Juščenko....",
+                    "...Nel 1487, insieme al Diritto di Magdeburgo, alla città di Kiev fu concesso uno stemma costituito da una mano che reggeva un arco con freccia....",
+                    "*...In alto era visibile la sagoma della falce e martello e nella parte inferiore la medaglia di Città eroina....",
+                    "...Dal 1973 le foglie di ippocastano sono tra i simboli della città....",
+                    "...Dopo essere stato approvato dal Consiglio cittadino il 18 aprile 1995, il successivo mese di maggio venne ufficialmente ripreso lo stemma tradizionale della città, con l'arcangelo Michele....",
+                    "...La città di Kiev è servita da due aeroporti principali:...",
+                    "...La principale Strada in città è la Chreščatyk....",
+                    "...La città di Kiev dispone di un'infrastruttura ferroviaria sviluppata che include la stazione centrale (per i treni passeggeri a lunga percorrenza), la stazione di Darnycja (specialmente per il traffico commerciale), stazioni urbane, commerciali, depositi e servizi di manutenzione e riparazione....",
+                    "...La grande stazione di Darnycja, che è in fase di aggiornamento e si trova sulla riva sinistra del Dniepr (parte orientale della città), è destinata a divenire un hub per i passeggeri a lunga distanza, facilitando e decongestionando il traffico della stazione centrale....",
+                    "...Nel 2011 l'amministrazione comunale di Kiev ha istituito il servizio ferroviario urbano, in esercizio ad intervalli regolari compresi tra 4 a 10 minuti (durante il giorno) e su un percorso circolare intorno al centro della città, consentendo l'accesso a molte zone della periferia interna di Kiev, dove sono presenti interscambi tra la metropolitana la metrotranvia....",
+                    "...Esse si incrociano in corrispondenza del centro della città, hanno una lunghezza complessiva di , e le stazioni sono fra le più profonde al mondo....",
+                    "...Il costo del gettone, precedentemente di 50 copeche il 4 novembre 2008 è stato portato a 2 hryvne e poi, dopo le proteste dei consumatori, abbassato a 1,70 hryvne, seguendo analoghi aumenti imposti in altre città ucraine....",
+                    "...La funicolare di Kiev, inaugurata nel 1905, collega la città storica (nei pressi del monastero dorato di San Michele) con la sottostante piazza della Posta nel quartiere commerciale di Podil....",
+                    "...I prezzi oscillano normalmente da 20-30 hryvne per i tragitti più brevi alle 200 hryvne per un passaggio dall'Aeroporto Boryspil' fino al centro della città....",
+                    "...La città è dotata di un porto fluviale, sulla riva destra del fiume Dnepr nel quartiere Podil....",
+                    "...Ci sono molte biblioteche in città, fra cui la Biblioteca nazionale ucraina Vernadskij, che è la più importante biblioteca ucraina e una delle più grandi biblioteche nazionali del mondo e la Biblioteca nazionale parlamentare dell'Ucraina....",
+                    "...In città ha sede l'Orchestra Filarmonica Nazionale dell'Ucraina, è attiva la Camerata di Kiev e vi si svolge il Gogolfest....",
+                    "...Torre della televisione di Kiev\nDal 2006 al 2012 sindaco della città fu Leonid Černovec'kij....",
+                    "...Dal 2014 sindaco della città è Vitalij Klyčko, riconfermato in occasione delle elezioni comunali a Kiev del 2020....",
+                    "...La città di Kiev è formalmente suddivisa in 10 distretti o rajon:...",
+                    "...La maggior parte prendono nome dai quartieri storici della città che vi sono compresi...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.514249,
+                    50.452912
+                ]
+            },
+            "properties": {
+                "entity": "cattedrale di Santa Sofia",
+                "name_location": "Cattedrale di Santa Sofia, Via Volodymyrs'ka, Го́род Володимира, Старий Київ, Центр, Шевченківський район, Kiev, 01028, Ucraina",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Cattedrale di Santa Sofia. Edificata nel 1037 venne disegnata per emulare lo splendore delle chiese bizantine, riflettendo la percezione della cristianità dell'Impero Bizantino. Il tempio, fino al 1240, era per dimensioni il secondo dell'intera Cristianità. Anche se è dedicato alla \"Santa Sapienza\", come la grande cattedrale di Hagia Sophia a Costantinopoli, l'edificio ha una forma decisamente differente: invece che una singola cupola semisferica che si innalza dal corpo dell'edificio, la cattedrale di Santa Sofia a Kiev ha 13 cupole a cipolla montate su tamburi. La ragione è che gli ingegneri bizantini che la costruirono dovettero rinunciare alla pietra e usare esclusivamente mattoni su un terreno che non era abbastanza solido. La cupola centrale è leggermente più grande delle altre e, dal più recente rinnovo, dorata. La cattedrale nel corso del tempo ha perso alcuni dei corpi costruttivi ed è oggi più modesta rispetto alla costruzione originale...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.508827,
+                    50.444941
+                ]
+            },
+            "properties": {
+                "entity": "Cattedrale di San Vladimiro",
+                "name_location": "Cattedrale di San Vladimiro, 20, Viale Taras Ševčenko, Афанасівський яр, Центр, Шевченківський район, Kiev, 01046, Ucraina",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Cattedrale di San Vladimiro ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.537436,
+                    50.448106
+                ]
+            },
+            "properties": {
+                "entity": "Palazzo Mariinskij",
+                "name_location": "Palazzo Mariinskij, 5а, вулиця Михайла Грушевського, Урядовий квартал, Липки, Клов, Печерський район, Kiev, 01008, Ucraina",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Palazzo Mariinskij ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.521807,
+                    50.442727
+                ]
+            },
+            "properties": {
+                "entity": "Bessarabia",
+                "name_location": "Piazza Bessarabia, Левашовська Гора, Бессарабка, Клов, Печерський район, Kiev, 01003, Ucraina",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...Piazza Bessarabia ;...",
+                    "*...Monumento a Lenin, si trovava in piazza Bessarabia ed è stato demolito nel 2013...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.524607,
+                    50.450358
+                ]
+            },
+            "properties": {
+                "entity": "Chreščatyk",
+                "name_location": "Via Chreščatyk, Урядовий квартал, Бегічевська Гора, Клов, Печерський район, Kiev, 01028, Ucraina",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "...La principale Strada in città è la Chreščatyk...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.531899,
+                    50.489426
+                ]
+            },
+            "properties": {
+                "entity": "ponte Pivnichnyi",
+                "name_location": "Північний міст, Оболонський район, Kiev, 04176, Ucraina",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...Il ponte Paton è stato ultimato nel 1953, il ponte Pivnichnyi (chiamato fino al 2018 ponte Mosca) nel 1976, il Ponte Pivdennij nel 1990 e il più recente ponte auto-ferroviario, il Nuovo Ponte Darnytskyi è stato costruito tra il 2004 e il 2011, parte del progetto della stazione di Darnycja...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.528612,
+                    50.395455
+                ]
+            },
+            "properties": {
+                "entity": "Hrebinka",
+                "name_location": "Via Hrebinka, Цимбалів яр, Demijivka, Голосіївський район, Kiev, 03208, Ucraina",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Hrebinka (sud-est) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.038515,
+                    49.681574
+                ]
+            },
+            "properties": {
+                "entity": "Myronivka",
+                "name_location": "Миронівка, Р-09, Козин, Миронівська міська громада, Обухівський район, Oblast' di Kyiv, 08851, Ucraina",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "*...Myronivka (sud) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.644685,
+                    50.464687
+                ]
+            },
+            "properties": {
+                "entity": "Maršrutka",
+                "name_location": "Маршрутка на Чернігів, Броварський проспект, Лісовий масив, Деснянський район, Kiev, 02156, Ucraina",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Ma oltre ai taxi ufficiali esiste il servizio di taxi collettivo, la cosiddetta Maršrutka, ed è possibile chiedere un passaggio a qualsiasi automobilista...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.642467,
+                    50.429108
+                ]
+            },
+            "properties": {
+                "entity": "Дарницький",
+                "name_location": "Дарницький, 12, Привокзальна вулиця, Дарниця, Дарницький район, Kiev, 02096, Ucraina",
+                "class": "tourism",
+                "type": "motel",
+                "snippet": [
+                    "*...Distretto di Darnycja (Дарницький район) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.591103,
+                    50.592045
+                ]
+            },
+            "properties": {
+                "entity": "Desna",
+                "name_location": "Десна, Гагаріна вулиця, Хотянівка, Пірнівська сільська громада, Вишгородський район, Oblast' di Kyiv, 07363, Ucraina",
+                "class": "leisure",
+                "type": "resort",
+                "snippet": [
+                    "*...Distretto di Desna (Деснянський район; dal fiume Desna) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.527762,
+                    50.451447
+                ]
+            },
+            "properties": {
+                "entity": "Dnipro",
+                "name_location": "Дніпро, 1/2, Via Chreščatyk, Го́род Володимира, Центр, Шевченківський район, Kiev, 01001, Ucraina",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...Distretto di Dnipro (Дніпровський район; dal fiume Dnipro) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.48744,
+                    50.384528
+                ]
+            },
+            "properties": {
+                "entity": "Голосіївський",
+                "name_location": "Голосіївський, 93, Viale Holosijivs'kyj, Голосіїв, Голосіївський район, Kiev, 03127, Ucraina",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...Distretto di Holosiïv (Голосіївський район) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.51765,
+                    50.45426
+                ]
+            },
+            "properties": {
+                "entity": "Печерський",
+                "name_location": "Печерський районний суд м. Києва, 15, Via Volodymyrs'ka, Го́род Володимира, Старий Київ, Центр, Шевченківський район, Kiev, 01025, Ucraina",
+                "class": "amenity",
+                "type": "courthouse",
+                "snippet": [
+                    "*...Distretto di Pečers'k (Печерський район) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.51265,
+                    50.475
+                ]
+            },
+            "properties": {
+                "entity": "Подільський",
+                "name_location": "Подільський, 7, Via Naberežno-Luhova, Плоське, Поділ, Подільський район, Kiev, 04071, Ucraina",
+                "class": "tourism",
+                "type": "hostel",
+                "snippet": [
+                    "*...Distretto di Podil (Подільський район) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.431017,
+                    50.469906
+                ]
+            },
+            "properties": {
+                "entity": "Шевченківський",
+                "name_location": "Шевченківський квартал, 6, Новоукраїнська вулиця, Волейків, Сирець, Шевченківський район, Kiev, 04112, Ucraina",
+                "class": "building",
+                "type": "apartments",
+                "snippet": [
+                    "*...Distretto di Ševčenko (Шевченківський район; da Taras Hryhorovyč Ševčenko) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.386201,
+                    50.448746
+                ]
+            },
+            "properties": {
+                "entity": "Святошинський",
+                "name_location": "Vicolo Svjatošyns'kyj, Скарбовий ліс, Святошин, Святошинський район, Kiev, 03155, Ucraina",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Distretto di Svjatošyn (Святошинський район) ...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.521349,
+                    50.433497
+                ]
+            },
+            "properties": {
+                "entity": "Stadio Olimpico",
+                "name_location": "Stadio Olimpico di Kiev, 55, Via Velyka Vasylkivs'ka, Клов, Печерський район, Kiev, 03150, Ucraina",
+                "class": "leisure",
+                "type": "sports_centre",
+                "snippet": [
+                    "*...Nel 2012 lo Stadio Olimpico ha ospitato alcune gare del Campionato europeo di calcio 2012, ospitato in Polonia e Ucraina, in particolare la finale...."
+                ]
+            }
+        }
+    ]
+}

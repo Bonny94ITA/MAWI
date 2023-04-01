@@ -1,0 +1,927 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.884727,
+                    52.371979
+                ]
+            },
+            "properties": {
+                "entity": "Singelgracht",
+                "name_location": "Grachtengordel van Amsterdam, Weesperstraat, Weesperbuurt, Centrum, Amsterdam, Noord-Holland, Paesi Bassi, 1018 VA, Paesi Bassi",
+                "class": "historic",
+                "type": "heritage",
+                "snippet": [
+                    "*...L'area compresa nella cintura di canali del XVII secolo all'interno del Singelgracht è inserita nella lista dei Patrimoni dell'umanità dell'UNESCO (vedi Canali di Amsterdam)....",
+                    "*...Canali di Amsterdam. Tutto il centro storico della città è costituito da una rete di canali lunga più di cento chilometri, circa 90 isole e 1.500 ponti. I tre canali principali, Herengracht, Prinsengracht e Keizersgracht, scavati nel XVII secolo, durante il Secolo d'oro olandese, formano una cintura concentrica intorno alla città detta Grachtengordel. Lungo i canali si trovano 1550 edifici monumentali. L'area compresa nella cintura di canali del XVII secolo all'interno del Singelgracht, che comprende il Prinsengracht, Keizersgracht, Herengracht e Jordan, è inserita nella lista dei Patrimoni dell'umanità dell'UNESCO...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.918916,
+                    52.377164
+                ]
+            },
+            "properties": {
+                "entity": "Europa",
+                "name_location": "Europa, Vriesseveem, Oostelijk Havengebied, Oost, Amsterdam, Noord-Holland, Paesi Bassi, 1019 GM, Paesi Bassi",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...La città possiede uno dei maggiori centri rinascimentali di tutta Europa....",
+                    "*...Mentre le guerre di religione imperversavano per l'Europa, Amsterdam divenne un rifugio per molte genti perseguitate o timorose di persecuzioni per via della loro religione....",
+                    "*...Il commercio e l'industria soffrirono comunque le conseguenze di un'Europa devastata....",
+                    "*...La città di Amsterdam ha 4.630.000 turisti l'anno, il che la rende una delle capitali più visitate d'Europa....",
+                    "*...Nel 2007 venne rilevata la presenza di ben 171 nazionalità diverse nella città, rendendola uno dei luoghi più multiculturali d'Europa....",
+                    "*...Amsterdam è conosciuta anche per essere uno dei principali centri museali d'Europa....",
+                    "...La città ha una squadra di football americano, gli Amsterdam Crusaders (in passato sono esistiti anche gli Amsterdam Admirals che militavano in NFL Europa)..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.954472,
+                    52.386882
+                ]
+            },
+            "properties": {
+                "entity": "Zuiderzee",
+                "name_location": "Zuiderzeeweg, Noord, Amsterdam, Noord-Holland, Paesi Bassi, 1023 NA, Paesi Bassi",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Questi cingono il vecchio porto, che un tempo era affacciato sullo Zuiderzee, oggi un lago separato dal resto del mare e noto con il nome di IJsselmeer....",
+                    "*...Tra le due guerre gli olandesi costruirono delle dighe che separarono lo Zuiderzee dal Mare del Nord, creando il cosiddetto IJsselmeer (lago IJssel)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.857364,
+                    52.327009
+                ]
+            },
+            "properties": {
+                "entity": "Amsterdamse Bos",
+                "name_location": "Amsterdamse Bos, Amsterdamseweg, Zuid, Amsterdam, Noord-Holland, Paesi Bassi, 1081 JP, Paesi Bassi",
+                "class": "highway",
+                "type": "platform",
+                "snippet": [
+                    "*...Si estende l'Amsterdamse Bos, uno dei parchi cittadini, insieme ai più centrali Vondelpark e Artis...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.881683,
+                    52.361699
+                ]
+            },
+            "properties": {
+                "entity": "Vondelpark",
+                "name_location": "Vondelpark, Zuid, Amsterdam, Noord-Holland, Paesi Bassi, 1071 AB, Paesi Bassi",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Si estende l'Amsterdamse Bos, uno dei parchi cittadini, insieme ai più centrali Vondelpark e Artis....",
+                    "*...Il Vondelpark invece è un Parco all'inglese, di circa 48 ettari, che si trova nel centro di Amsterdam, in quella che viene chiamata come la \"zona dei musei\"...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.910955,
+                    52.366719
+                ]
+            },
+            "properties": {
+                "entity": "Artis",
+                "name_location": "Artis, Plantage Middenlaan, Plantage, Centrum, Amsterdam, Noord-Holland, Paesi Bassi, 1018 DB, Paesi Bassi",
+                "class": "railway",
+                "type": "tram_stop",
+                "snippet": [
+                    "*...Si estende l'Amsterdamse Bos, uno dei parchi cittadini, insieme ai più centrali Vondelpark e Artis....",
+                    "...Lo zoo di Amsterdam, chiamato Artis, dal motto latino Natura Artis Magistra, ossia \"Natura maestra d'arte\", che è il più antico complesso zoologico dei Paesi Bassi...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.862822,
+                    52.354403
+                ]
+            },
+            "properties": {
+                "entity": "Africa",
+                "name_location": "Ontwakend Africa, Emmaplein, Willemsparkbuurt, Zuid, Amsterdam, Noord-Holland, Paesi Bassi, 1075 AT, Paesi Bassi",
+                "class": "tourism",
+                "type": "artwork",
+                "snippet": [
+                    "*...Le navi olandesi salpavano per il nord America, l'Indonesia, il Brasile e l'Africa, creando un impero coloniale...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.854583,
+                    52.357993
+                ]
+            },
+            "properties": {
+                "entity": "Suriname",
+                "name_location": "Surinamestraat, West, Amsterdam, Noord-Holland, Paesi Bassi, 1058 GK, Paesi Bassi",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Durante gli anni seguenti crebbe grandemente il numero degli immigrati, soprattutto dal Suriname, dalla Turchia e dal Marocco....",
+                    "*...In particolare sono molto apprezzati i piatti di carne del Suriname e il rijsttafel (riso bianco con contorni di verdure e di carne) dell'Indonesia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.91115,
+                    52.3839
+                ]
+            },
+            "properties": {
+                "entity": "Purmerend",
+                "name_location": "Amsterdam-Monnickendam/Purmerend, Meeuwenlaan, Noord, Amsterdam, Noord-Holland, Paesi Bassi, 1021 HR, Paesi Bassi",
+                "class": "historic",
+                "type": "railway",
+                "snippet": [
+                    "*...Molte persone si trasferirono nelle città vicine, tra cui Purmerend ed Almere...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.882338,
+                    52.370152
+                ]
+            },
+            "properties": {
+                "entity": "Jordaan",
+                "name_location": "Elandsgracht, Jordaan, Centrum, Amsterdam, Noord-Holland, Paesi Bassi, 1016 TV, Paesi Bassi",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Quartieri come De Pijp e Jordaan, precedentemente abitati da operai, divennero ambite mete per i nuovi yuppie abbienti e per gli studenti...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.891692,
+                    52.373923
+                ]
+            },
+            "properties": {
+                "entity": "Nieuwe Kerk",
+                "name_location": "Nieuwe Kerk, 12, Piazza Dam, Centrum, Amsterdam, Noord-Holland, Paesi Bassi, 1012 NP, Paesi Bassi",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Nieuwe Kerk, la Chiesa Nuova, eretta a partire dal 1408 in stile gotico brabantino è luogo delle incoronazioni della Famiglia reale...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.889035,
+                    52.37564
+                ]
+            },
+            "properties": {
+                "entity": "Herengracht",
+                "name_location": "Herengracht, Grachtengordel, Centrum, Amsterdam, Noord-Holland, Paesi Bassi, 1015 BG, Paesi Bassi",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Canali di Amsterdam. Tutto il centro storico della città è costituito da una rete di canali lunga più di cento chilometri, circa 90 isole e 1.500 ponti. I tre canali principali, Herengracht, Prinsengracht e Keizersgracht, scavati nel XVII secolo, durante il Secolo d'oro olandese, formano una cintura concentrica intorno alla città detta Grachtengordel. Lungo i canali si trovano 1550 edifici monumentali. L'area compresa nella cintura di canali del XVII secolo all'interno del Singelgracht, che comprende il Prinsengracht, Keizersgracht, Herengracht e Jordan, è inserita nella lista dei Patrimoni dell'umanità dell'UNESCO....",
+                    "...Herengracht, il Canale dei Signori venne scavato a partire dal 1585 e presenta belle dimore signorili che si fanno più importanti nel famoso Gouden Bocht, il Gomito d'Oro...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.884448,
+                    52.375803
+                ]
+            },
+            "properties": {
+                "entity": "Prinsengracht",
+                "name_location": "Prinsengracht, Grachtengordel, Centrum, Amsterdam, Noord-Holland, Paesi Bassi, 1016 GT, Paesi Bassi",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Canali di Amsterdam. Tutto il centro storico della città è costituito da una rete di canali lunga più di cento chilometri, circa 90 isole e 1.500 ponti. I tre canali principali, Herengracht, Prinsengracht e Keizersgracht, scavati nel XVII secolo, durante il Secolo d'oro olandese, formano una cintura concentrica intorno alla città detta Grachtengordel. Lungo i canali si trovano 1550 edifici monumentali. L'area compresa nella cintura di canali del XVII secolo all'interno del Singelgracht, che comprende il Prinsengracht, Keizersgracht, Herengracht e Jordan, è inserita nella lista dei Patrimoni dell'umanità dell'UNESCO....",
+                    "...Prinsengracht, il Canale del Principe, il più esterno e l'ultimo ad esser stato realizzato. Prende nome da Guglielmo I d'Orange...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.885314,
+                    52.373839
+                ]
+            },
+            "properties": {
+                "entity": "Keizersgracht",
+                "name_location": "Keizersgracht, Grachtengordel, Centrum, Amsterdam, Noord-Holland, Paesi Bassi, 1016 DS, Paesi Bassi",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Canali di Amsterdam. Tutto il centro storico della città è costituito da una rete di canali lunga più di cento chilometri, circa 90 isole e 1.500 ponti. I tre canali principali, Herengracht, Prinsengracht e Keizersgracht, scavati nel XVII secolo, durante il Secolo d'oro olandese, formano una cintura concentrica intorno alla città detta Grachtengordel. Lungo i canali si trovano 1550 edifici monumentali. L'area compresa nella cintura di canali del XVII secolo all'interno del Singelgracht, che comprende il Prinsengracht, Keizersgracht, Herengracht e Jordan, è inserita nella lista dei Patrimoni dell'umanità dell'UNESCO....",
+                    "...Keizersgracht, il Canale dell'imperatore è il più grande della città, prende nome dal Massimiliano I d'Asburgo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.884727,
+                    52.371979
+                ]
+            },
+            "properties": {
+                "entity": "Grachtengordel",
+                "name_location": "Grachtengordel van Amsterdam, Weesperstraat, Weesperbuurt, Centrum, Amsterdam, Noord-Holland, Paesi Bassi, 1018 VA, Paesi Bassi",
+                "class": "historic",
+                "type": "heritage",
+                "snippet": [
+                    "*...Canali di Amsterdam. Tutto il centro storico della città è costituito da una rete di canali lunga più di cento chilometri, circa 90 isole e 1.500 ponti. I tre canali principali, Herengracht, Prinsengracht e Keizersgracht, scavati nel XVII secolo, durante il Secolo d'oro olandese, formano una cintura concentrica intorno alla città detta Grachtengordel. Lungo i canali si trovano 1550 edifici monumentali. L'area compresa nella cintura di canali del XVII secolo all'interno del Singelgracht, che comprende il Prinsengracht, Keizersgracht, Herengracht e Jordan, è inserita nella lista dei Patrimoni dell'umanità dell'UNESCO...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.890765,
+                    52.366931
+                ]
+            },
+            "properties": {
+                "entity": "Mercato dei Fiori",
+                "name_location": "Mercato dei Fiori, Singel, Centrum, Amsterdam, Noord-Holland, Paesi Bassi, 1012 WP, Paesi Bassi",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Singel, è il più antico della cerchia dei canali, vi si trova il celebre Bloemenmarkt, il Mercato dei Fiori oltre che a notevoli edifici...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.896564,
+                    52.334421
+                ]
+            },
+            "properties": {
+                "entity": "Buitenveldert",
+                "name_location": "Amsterdam-Buitenveldert, Ringweg-Zuid, Zuid, Amsterdam, Noord-Holland, Paesi Bassi, 1079 RZ, Paesi Bassi",
+                "class": "highway",
+                "type": "motorway_junction",
+                "snippet": [
+                    "*...L'Amstelpark, un Parco pubblico della periferia di Amsterdam, situato nel sobborgo di Buitenveldert (Amsterdam-Zuid) ed inaugurato nel 1972, con una media di circa 800.000 visitatori l'anno, è uno dei parchi più popolari della città...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.873432,
+                    52.339017
+                ]
+            },
+            "properties": {
+                "entity": "Amsterdam-Zuid",
+                "name_location": "Amsterdam Zuid, 10, Zuidplein, Zuidas, Zuid, Amsterdam, Noord-Holland, Paesi Bassi, 1077 XV, Paesi Bassi",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...L'Amstelpark, un Parco pubblico della periferia di Amsterdam, situato nel sobborgo di Buitenveldert (Amsterdam-Zuid) ed inaugurato nel 1972, con una media di circa 800.000 visitatori l'anno, è uno dei parchi più popolari della città...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.900634,
+                    52.373339
+                ]
+            },
+            "properties": {
+                "entity": "Chinatown",
+                "name_location": "Chinatown, Metrostation Nieuwmarkt, Nieuwmarktbuurt, Chinatown, Centrum, Amsterdam, Noord-Holland, Paesi Bassi, 1011 JS, Paesi Bassi",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Sempre in rapporto alla popolazione totale, oltre il 30% ha origini non-occidentali (principalmente marocchini), ma altre consistenti minoranze sono indonesiani, per via di una colonia olandese stabilita nell'arcipelago, e cinesi, che hanno stabilito una piccola Chinatown....",
+                    "*...Tra la stazione centrale e Nieuwmarkt si trova la Zeedijk, una via con una piccola Chinatown, che è ricca di ristoranti della più svariata provenienza, indonesiana e cinese in particolare, ma sono presenti anche quelli portoghesi e messicani...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.874666,
+                    52.364117
+                ]
+            },
+            "properties": {
+                "entity": "Italia",
+                "name_location": "Italia, 41, Eerste Constantijn Huygensstraat, Oud-West, West, Amsterdam, Noord-Holland, Paesi Bassi, 1054 BR, Paesi Bassi",
+                "class": "amenity",
+                "type": "fast_food",
+                "snippet": [
+                    "*...Gli immigrati di origine europea o nordamericana sono il 15%, essi provengono specialmente da Portogallo, Italia e Grecia....",
+                    "...Nel 2010 ha ospitato tappa inaugurale del Giro d'Italia di ciclismo con la cronometro individuale che è stata vinta dell'inglese Bradley Wiggins...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.892515,
+                    52.373243
+                ]
+            },
+            "properties": {
+                "entity": "Piazza Dam",
+                "name_location": "Piazza Dam, Centrum, Amsterdam, Noord-Holland, Paesi Bassi, 1012 NP, Paesi Bassi",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "...Piazza Dam è la storica piazza costruita sulla prima diga dell'Amstel e centro per antonomasia della città, vi si affacciano notevoli monumenti:...",
+                    "*...Altri punti a rischio possono essere gli sportelli bancomat della zona attorno Piazza Dam....",
+                    "*...Nel Giorno della memoria per i caduti della seconda guerra mondiale (4 maggio) viene tenuta una cerimonia commemorativa in Piazza Dam, mentre nel Giorno della Liberazione (5 maggio) si svolgono concerti e manifestazioni gratuite di artisti di varie nazionalità...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.912628,
+                    52.355011
+                ]
+            },
+            "properties": {
+                "entity": "Cygnus Gymnasium",
+                "name_location": "Cygnus Gymnasium, 8, Vrolikstraat, Oosterparkbuurt, Oost, Amsterdam, Noord-Holland, Paesi Bassi, 1091 VG, Paesi Bassi",
+                "class": "amenity",
+                "type": "school",
+                "snippet": [
+                    "*...Il Vossius Gymnasium, il Barlaeus Gymnasium, il St. Ignatius Gymnasium, il 4e Gymnasium e il Cygnus Gymnasium, dove vengono insegnati il latino e il greco antico...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.890201,
+                    52.368585
+                ]
+            },
+            "properties": {
+                "entity": "Universiteit van Amsterdam",
+                "name_location": "Universiteit van Amsterdam, 21, Spui, Centrum, Amsterdam, Noord-Holland, Paesi Bassi, 1012 WX, Paesi Bassi",
+                "class": "amenity",
+                "type": "university",
+                "snippet": [
+                    "*...L'Università di Amsterdam (Universiteit van Amsterdam o UvA), e la Libera Università di Amsterdam (Vrije Universiteit o VU, chiamata in precedenza come Libera Università Protestante)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.854033,
+                    52.354291
+                ]
+            },
+            "properties": {
+                "entity": "Teatro",
+                "name_location": "Teatro Munganga, 27-1, Schinkelhavenstraat, Schinkelbuurt, Zuid, Amsterdam, Noord-Holland, Paesi Bassi, 1075 VP, Paesi Bassi",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "...Teatro Carré ;...",
+                    "*...La scuola superiore delle arti (Amsterdamse Hogeschool voor de Kunsten) raggruppa diverse istituzioni specializzate, come l'\"Accademia di architettura\", l'\"Accademia di Teatro e danza\", l'\"Accademia Breitner\" di belle arti, il Conservatorium van Amsterdam di musica, l'\"Accademia cinematografica dei Paesi Bassi\" e l'\"Accademia Reinwardt\" di museologia....",
+                    "...Amsterdam è il centro culturale dei Paesi Bassi, con grande attività nelle arti, nella danza, nella musica e nel Teatro....",
+                    "...Het Muziektheater è un nuovo Teatro lirico del 1986, sito in un edificio chiamato Stopera insieme al municipio di fronte all'Amstel....",
+                    "...Un altro Teatro rinomato è il Carré, anch'esso sull'Amstel....",
+                    "...Holland Festival: un festival internazionale di Teatro, musica, danza, opera, multimedia, Cinema e arti visive che si svolge annualmente...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.908902,
+                    52.375961
+                ]
+            },
+            "properties": {
+                "entity": "Conservatorium van Amsterdam",
+                "name_location": "Conservatorium van Amsterdam, 151, Oosterdokskade, Oosterdokseiland, Nieuwmarkt/Lastage, Centrum, Amsterdam, Noord-Holland, Paesi Bassi, 1011 DL, Paesi Bassi",
+                "class": "amenity",
+                "type": "music_school",
+                "snippet": [
+                    "*...La scuola superiore delle arti (Amsterdamse Hogeschool voor de Kunsten) raggruppa diverse istituzioni specializzate, come l'\"Accademia di architettura\", l'\"Accademia di Teatro e danza\", l'\"Accademia Breitner\" di belle arti, il Conservatorium van Amsterdam di musica, l'\"Accademia cinematografica dei Paesi Bassi\" e l'\"Accademia Reinwardt\" di museologia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.943275,
+                    52.339934
+                ]
+            },
+            "properties": {
+                "entity": "Openbare Bibliotheek Amsterdam",
+                "name_location": "Openbare Leeszaal en Bibliotheek, Brink, Betondorp, Oost, Amsterdam, Noord-Holland, Paesi Bassi, 1097 TV, Paesi Bassi",
+                "class": "amenity",
+                "type": "library",
+                "snippet": [
+                    "*...Ad Amsterdam ci sono diverse biblioteche pubbliche raccolte nell'associazione OBA (Openbare Bibliotheek Amsterdam)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.885058,
+                    52.359876
+                ]
+            },
+            "properties": {
+                "entity": "Rijksmuseum Amsterdam",
+                "name_location": "Rijksmuseum, Jan Luijkenstraat, Zuid, Amsterdam, Noord-Holland, Paesi Bassi, 1071 CN, Paesi Bassi",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Il Rijksmuseum Amsterdam (Museo statale di Amsterdam), spesso chiamato semplicemente Rijksmuseum, è il Museo che possiede la più grande collezione di opere d'arte del periodo d'oro dell'arte fiamminga (1584-1702) e una considerevole collezione di arte asiatica....",
+                    "*...La città ospita il Rijksmuseum (Museo statale), il Museo Van Gogh, il Concertgebouw, il Rembrandthuis e la casa di Anna Frank...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.88109,
+                    52.358367
+                ]
+            },
+            "properties": {
+                "entity": "Van Gogh Museum",
+                "name_location": "Van Gogh Museum, 7, Paulus Potterstraat, Zuid, Amsterdam, Noord-Holland, Paesi Bassi, 1071 CX, Paesi Bassi",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Il Van Gogh Museum possiede la più grande collezione di opere del pittore olandese Vincent van Gogh, mentre lo Stedelijk Museum è un Museo di arte moderna e contemporanea internazionale...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.87986,
+                    52.3579
+                ]
+            },
+            "properties": {
+                "entity": "Stedelijk Museum",
+                "name_location": "Stedelijk Museum Amsterdam, 10, Museumplein, Zuid, Amsterdam, Noord-Holland, Paesi Bassi, 1071 DJ, Paesi Bassi",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Il Van Gogh Museum possiede la più grande collezione di opere del pittore olandese Vincent van Gogh, mentre lo Stedelijk Museum è un Museo di arte moderna e contemporanea internazionale...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.893055,
+                    52.368805
+                ]
+            },
+            "properties": {
+                "entity": "Allard Pierson Museum",
+                "name_location": "Allard Pierson Museum, 127, Oude Turfmarkt, Burgwallen-Oude Zijde, Centrum, Amsterdam, Noord-Holland, Paesi Bassi, 1012 GC, Paesi Bassi",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Ad Amsterdam si trovano inoltre il Museo Storico Cittadino, il Museo Ebraico, il Museo Nautico, il Museo Antropologico e Tropicale, il Museo della Resistenza, l'Allard Pierson Museum, un Museo archeologico dedicato a diverse civiltà antiche...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.900123,
+                    52.368059
+                ]
+            },
+            "properties": {
+                "entity": "Stopera",
+                "name_location": "Stopera, Waterlooplein, Nieuwmarkt/Lastage, Centrum, Amsterdam, Noord-Holland, Paesi Bassi, 1011 PG, Paesi Bassi",
+                "class": "building",
+                "type": "office",
+                "snippet": [
+                    "*...Het Muziektheater è un nuovo Teatro lirico del 1986, sito in un edificio chiamato Stopera insieme al municipio di fronte all'Amstel...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.912886,
+                    52.377969
+                ]
+            },
+            "properties": {
+                "entity": "Bimhuis",
+                "name_location": "Bimhuis, 3, Piet Heinkade, Oostelijk Havengebied, Oost, Amsterdam, Noord-Holland, Paesi Bassi, 1019 BR, Paesi Bassi",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...Muziekgebouw aan 't IJ e Bimhuis sono altre famose sale da concerto...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.899654,
+                    52.372268
+                ]
+            },
+            "properties": {
+                "entity": "Nieuwmarkt",
+                "name_location": "Nieuwmarkt, Chinatown, Centrum, Amsterdam, Noord-Holland, Paesi Bassi, 1012 CS, Paesi Bassi",
+                "class": "highway",
+                "type": "unclassified",
+                "snippet": [
+                    "*...Tra la stazione centrale e Nieuwmarkt si trova la Zeedijk, una via con una piccola Chinatown, che è ricca di ristoranti della più svariata provenienza, indonesiana e cinese in particolare, ma sono presenti anche quelli portoghesi e messicani...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.900253,
+                    52.373088
+                ]
+            },
+            "properties": {
+                "entity": "Zeedijk",
+                "name_location": "Zeedijk, Chinatown, Centrum, Amsterdam, Noord-Holland, Paesi Bassi, 1012 AW, Paesi Bassi",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Tra la stazione centrale e Nieuwmarkt si trova la Zeedijk, una via con una piccola Chinatown, che è ricca di ristoranti della più svariata provenienza, indonesiana e cinese in particolare, ma sono presenti anche quelli portoghesi e messicani...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.87844,
+                    52.372989
+                ]
+            },
+            "properties": {
+                "entity": "shoarma",
+                "name_location": "Grillroom Shoarma \"Hilal\", 154, Rozengracht, Jordaan, Centrum, Amsterdam, Noord-Holland, Paesi Bassi, 1016 NJ, Paesi Bassi",
+                "class": "amenity",
+                "type": "fast_food",
+                "snippet": [
+                    "*...I kebab turchi e gli shoarma arabi sono ovunque, come anche i ristoranti che cucinano pietanze nel wok sul momento, servite nei tradizionali contenitori di carta con bacchette per consumare il pasto in Strada...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.883054,
+                    52.364398
+                ]
+            },
+            "properties": {
+                "entity": "Leidseplein",
+                "name_location": "Leidseplein, Centrum, Amsterdam, Noord-Holland, Paesi Bassi, 1017 RC, Paesi Bassi",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "...Leidseplein, Piazza di Leida, dedicata alla città dei Paesi Bassi....",
+                    "*...Nei dintorni della Leidseplein sono presenti, inoltre, parecchi ristoranti italiani, argentini e greci...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.95658,
+                    52.316174
+                ]
+            },
+            "properties": {
+                "entity": "Stadsdeel Zuidoost",
+                "name_location": "Stadsdeel Zuidoost, 150, Anton de Komplein, F-buurt, Zuidoost, Amsterdam, Noord-Holland, Paesi Bassi, 1102 CW, Paesi Bassi",
+                "class": "amenity",
+                "type": "townhall",
+                "snippet": [
+                    "*...Stadsdeel Zuidoost (80 000 abitanti in 22 km²) ;...",
+                    "*...Stadsdeel Zuid (132 000 abitanti in 17 km²) ;...",
+                    "*...Noord, West, Nieuw-West, Zuid, Oost e Zuidoost....",
+                    "*...Il distretto Zuidoost comprende il quartiere conosciuto come Bijlmer (vedi anche disastro di Bijlmer)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.821046,
+                    52.379024
+                ]
+            },
+            "properties": {
+                "entity": "Stadsdeel Nieuw-West",
+                "name_location": "Stadsdeel Nieuw-West, 1, Plein '40-'45, Slotermeer, Nieuw-West, Amsterdam, Noord-Holland, Paesi Bassi, 1064 SW, Paesi Bassi",
+                "class": "amenity",
+                "type": "townhall",
+                "snippet": [
+                    "*...Stadsdeel Nieuw-West (133 000 abitanti in 32 km²) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.900187,
+                    52.377582
+                ]
+            },
+            "properties": {
+                "entity": "GVB",
+                "name_location": "GVB Tickets & Information, 7, Stationsplein, Centrum, Amsterdam, Noord-Holland, Paesi Bassi, 1012 AB, Paesi Bassi",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "...Amsterdam possiede diversi sistemi di trasporto pubblico cittadini, gestiti dalla Gemeentelijk Vervoer Bedrijf (GVB):..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.894949,
+                    52.374808
+                ]
+            },
+            "properties": {
+                "entity": "Delft",
+                "name_location": "Royal Delft, 65, Damrak, Centrum, Amsterdam, Noord-Holland, Paesi Bassi, 1012 LM, Paesi Bassi",
+                "class": "shop",
+                "type": "gift",
+                "snippet": [
+                    "*...Negli orari notturni ci sono treni a cadenza oraria per l'Aeroporto, per Leida, per l'Aia, per Delft, per Rotterdam e per Utrecht...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.850476,
+                    52.355408
+                ]
+            },
+            "properties": {
+                "entity": "Haarlemmermeer",
+                "name_location": "Haarlemmermeerstraat, Albert Neuhuysstraat, Hoofddorperpleinbuurt, Zuid, Amsterdam, Noord-Holland, Paesi Bassi, 1058 SB, Paesi Bassi",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...L'Aeroporto di Amsterdam-Schiphol, è il principale Aeroporto dei Paesi Bassi e si trova a sud di Amsterdam, nel comune di Haarlemmermeer...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.893957,
+                    52.379459
+                ]
+            },
+            "properties": {
+                "entity": "Centraal",
+                "name_location": "&Klevering Centraal, 8, Haarlemmerstraat, Haarlemmerbuurt, Centrum, Amsterdam, Noord-Holland, Paesi Bassi, 1013 ER, Paesi Bassi",
+                "class": "shop",
+                "type": "gift",
+                "snippet": [
+                    "...Station Amsterdam Centraal. La Stazione Centrale di Amsterdam è la principale stazione ferroviaria della città. Fu realizzata tra il 1881 e il 1889 su progetto di Pierre Cuypers e A. L. van Gendt in stile neorinascimentale olandese....",
+                    "*...Le bici sono usate da tutti i gruppi socio-economici grazie alla loro convenienza, al fatto che Amsterdam è una piccola città in pianura, ai 400 km di piste ciclabili,\nLa città si trova nella Randstad Holland ed è amministrata non solo dal sindaco e dal consiglio municipale centrale (Centraal [Stads]Bestuur) ma è anche divisa in sette distretti cittadini/circoscrizioni chiamati stadsdeel, che hanno i loro propri consigli (Stadsdeelraad)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.931931,
+                    52.409745
+                ]
+            },
+            "properties": {
+                "entity": "Amsterdam Noord",
+                "name_location": "Amsterdam-Noord, Ringweg-Noord, Noord, Amsterdam, Noord-Holland, Paesi Bassi, 1022 KK, Paesi Bassi",
+                "class": "highway",
+                "type": "motorway_junction",
+                "snippet": [
+                    "*...Amsterdam Noord è separata dal resto della città dalla via d'acqua, il Canale del Mare del Nord...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.854054,
+                    52.343444
+                ]
+            },
+            "properties": {
+                "entity": "Stadio Olimpico",
+                "name_location": "Stadio Olimpico di Amsterdam, Olympisch Stadion, Zuid, Amsterdam, Noord-Holland, Paesi Bassi, 1076 DE, Paesi Bassi",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...Lo Stadio Olimpico è ancora in funzione oggi ed ospita eventi sportivi e culturali...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.949977,
+                    52.34443
+                ]
+            },
+            "properties": {
+                "entity": "Stadion De Meer",
+                "name_location": "Middenstip Stadion De Meer, Esplanade de Meer, Park de Meer, Oost, Amsterdam, Noord-Holland, Paesi Bassi, 1098 WG, Paesi Bassi",
+                "class": "tourism",
+                "type": "artwork",
+                "snippet": [
+                    "*...A metà degli anni novanta ha lasciato il vecchio Stadion De Meer per spostarsi nella Johan Cruijff Arena (impianto noto anche come Amsterdam Arena), situata nella zona sud-est della città...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.942843,
+                    52.314353
+                ]
+            },
+            "properties": {
+                "entity": "Johan Cruijff Arena",
+                "name_location": "Johan Cruijff ArenA, 29, Johan Cruijff Boulevard, Zuidoost, Amsterdam, Noord-Holland, Paesi Bassi, 1101 AX, Paesi Bassi",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...A metà degli anni novanta ha lasciato il vecchio Stadion De Meer per spostarsi nella Johan Cruijff Arena (impianto noto anche come Amsterdam Arena), situata nella zona sud-est della città...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.942931,
+                    52.31599
+                ]
+            },
+            "properties": {
+                "entity": "Amsterdam Arena",
+                "name_location": "Amsterdam ArenA, De loper, D-buurt, Zuidoost, Amsterdam, Noord-Holland, Paesi Bassi, 1102 TE, Paesi Bassi",
+                "class": "railway",
+                "type": "halt",
+                "snippet": [
+                    "*...A metà degli anni novanta ha lasciato il vecchio Stadion De Meer per spostarsi nella Johan Cruijff Arena (impianto noto anche come Amsterdam Arena), situata nella zona sud-est della città...."
+                ]
+            }
+        }
+    ]
+}

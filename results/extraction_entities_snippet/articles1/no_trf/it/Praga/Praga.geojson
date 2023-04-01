@@ -1,0 +1,996 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.417658,
+                    50.086716
+                ]
+            },
+            "properties": {
+                "entity": "Vltava",
+                "name_location": "Terezka, Mariánské náměstí, Città Vecchia, Praha 1, Praga, Praha, 115 72, Repubblica Ceca",
+                "class": "tourism",
+                "type": "artwork",
+                "snippet": [
+                    "*...Situata sul fiume Moldava (Vltava), conta approssimativamente 1,3 milioni di abitanti (2,3 con l'area metropolitana)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.398691,
+                    49.989899
+                ]
+            },
+            "properties": {
+                "entity": "Lahovice",
+                "name_location": "Lahovice, Lahovská, Lahovice, Praga, Praha, 143 00, Repubblica Ceca",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Praga si trova nella parte centro-occidentale della Repubblica Ceca, al centro della regione storica della Boemia, ed è attraversata dal fiume Moldava, nel quale confluisce, presso il quartiere di Lahovice, il fiume Berounka....",
+                    "...· Praga 21 · Praga 22\nBěchovice – Benice – Březiněves – Čakovice – Ďablice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Kbely – Klánovice – Koloděje – Kolovraty – Královice – Křeslice – Kunratice – Libuš – Lipence – Lochkov – Lysolaje – Nebušice – Nedvězí – Petrovice – Přední Kopanina – Řeporyje – Satalice – Slivenec – Suchdol – Šeberov – Štěrboholy – Troja – Újezd u Průhonic – Velká Chuchle – Vinoř – Zbraslav – Zličín\nBěchovice – Praga – Bohnice – Braník – Břevnov – Březiněves – Bubeneč – Čakovice – Černý Most – Chodov – Cholupice -Čimice – Ďáblice – Dejvice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Háje – Hájek – Hloubětín – Hlubočepy – Hodkovičky – Holešovice – Holyně – Horní Měcholupy – Horní Počernice – Hostavice – Hostivař – Hradčany – Hrdlořezy – Jinonice – Josefov (Quartiere Ebraico) – Kamýk – Karlín – Kbely – Klánovice – Kobylisy – Koloděje – Kolovraty – Komořany – Košíře – Královice – Krč – Křeslice – Kunratice – Kyje – Lahovice – Letňany – Lhotka – Libeň – Liboc – Libuš – Lipany – Lipence – Lochkov – Lysolaje – Malá Chuchle – Malá Strana (Piccolo Quartiere) – Malešice – Michle – Miškovice – Modřany – Motol – Nebušice – Nedvězí – Nové Město (Città Nuova) – Nusle – Petrovice – Písnice – Pitkovice – Podolí – Přední Kopanina – Prosek – Radlice -Radotín – Řeporyje – Řepy – Ruzyně – Satalice – Sedlec – Slivenec – Smíchov – Sobín – Staré Město (Città Vecchia) – Štěrboholy – Stodůlky – Strašnice – Střešovice – Střížkov – Suchdol – Točná – Třebonice – Třeboradice – Troja – Uhříněves – Újezd nad Lesy – Újezd u Průhonic – Veleslavín – Velká Chuchle – Vinohrady – Vinoř – Vokovice – Vršovice – Vyšehrad – Vysočany – Záběhlice – Zadní Kopanina – Zbraslav – Žižkov – Zličín\nIl Prodotto interno lordo pro capite di Praga è circa il doppio rispetto a quello dell'intera Repubblica Ceca, essendo pari a  (circa ), dati del 2009...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.427658,
+                    50.077905
+                ]
+            },
+            "properties": {
+                "entity": "Austria",
+                "name_location": "ADVANTAGE AUSTRIA Praha, Krakovská, Città Nuova, Praha 1, Praga, Praha, 121 32, Repubblica Ceca",
+                "class": "office",
+                "type": "company",
+                "snippet": [
+                    "*...Linz in Austria;...",
+                    "*...Vienna (Austria)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.396794,
+                    50.08197
+                ]
+            },
+            "properties": {
+                "entity": "Petřín",
+                "name_location": "Petřín, Strahovská, Hradčany, Praha 1, Praga, Praha, 118 00, Repubblica Ceca",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...La città di Praga si sviluppa su nove colli, di cui il più alto è il Petřín....",
+                    "*...Una funicolare per la collina di Petřín;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.388506,
+                    50.088187
+                ]
+            },
+            "properties": {
+                "entity": "Hradčany",
+                "name_location": "Hradčany, 6, Keplerova, Hradčany, Praha 1, Praga, Praha, 118 00, Repubblica Ceca",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...Queste quattro città erano Hradčany (il Castello, a ovest della Moldava), Malá Strana (\"piccolo quartiere\", nell'area a sud del Castello), Staré Město (la Città Vecchia, sulla riva orientale opposta al Castello) e Nové Město (la Città Nuova, a sud-est)....",
+                    "*...Tra le principali attrazioni turistiche troviamo Staré Město, alcuni luoghi legati a Franz Kafka, Malá Strana, Hradčany con il Castello di Praga, il Vicolo d'Oro (la leggenda vuole che in queste casette sghembe abbiano lavorato gli alchimisti incaricati da Rodolfo II della ricerca della pietra filosofale) e la Cattedrale di San Vito (dove sono conservate le reliquie più importanti della Chiesa cattolica boema:...",
+                    "*...2Le registrazioni del 1370 e del 1600 includono Staré město, Nové Město, Malá Strana e i quartieri di Hradčany ....",
+                    "*...· Praga 21 · Praga 22\nBěchovice – Benice – Březiněves – Čakovice – Ďablice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Kbely – Klánovice – Koloděje – Kolovraty – Královice – Křeslice – Kunratice – Libuš – Lipence – Lochkov – Lysolaje – Nebušice – Nedvězí – Petrovice – Přední Kopanina – Řeporyje – Satalice – Slivenec – Suchdol – Šeberov – Štěrboholy – Troja – Újezd u Průhonic – Velká Chuchle – Vinoř – Zbraslav – Zličín\nBěchovice – Praga – Bohnice – Braník – Břevnov – Březiněves – Bubeneč – Čakovice – Černý Most – Chodov – Cholupice -Čimice – Ďáblice – Dejvice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Háje – Hájek – Hloubětín – Hlubočepy – Hodkovičky – Holešovice – Holyně – Horní Měcholupy – Horní Počernice – Hostavice – Hostivař – Hradčany – Hrdlořezy – Jinonice – Josefov (Quartiere Ebraico) – Kamýk – Karlín – Kbely – Klánovice – Kobylisy – Koloděje – Kolovraty – Komořany – Košíře – Královice – Krč – Křeslice – Kunratice – Kyje – Lahovice – Letňany – Lhotka – Libeň – Liboc – Libuš – Lipany – Lipence – Lochkov – Lysolaje – Malá Chuchle – Malá Strana (Piccolo Quartiere) – Malešice – Michle – Miškovice – Modřany – Motol – Nebušice – Nedvězí – Nové Město (Città Nuova) – Nusle – Petrovice – Písnice – Pitkovice – Podolí – Přední Kopanina – Prosek – Radlice -Radotín – Řeporyje – Řepy – Ruzyně – Satalice – Sedlec – Slivenec – Smíchov – Sobín – Staré Město (Città Vecchia) – Štěrboholy – Stodůlky – Strašnice – Střešovice – Střížkov – Suchdol – Točná – Třebonice – Třeboradice – Troja – Uhříněves – Újezd nad Lesy – Újezd u Průhonic – Veleslavín – Velká Chuchle – Vinohrady – Vinoř – Vokovice – Vršovice – Vyšehrad – Vysočany – Záběhlice – Zadní Kopanina – Zbraslav – Žižkov – Zličín\nIl Prodotto interno lordo pro capite di Praga è circa il doppio rispetto a quello dell'intera Repubblica Ceca, essendo pari a  (circa ), dati del 2009...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.403567,
+                    50.082219
+                ]
+            },
+            "properties": {
+                "entity": "Malá Strana",
+                "name_location": "Sokol Malá Strana, alej Obětí totality, Piccolo Quartiere, Praha 1, Praga, Praha, 118 00, Repubblica Ceca",
+                "class": "leisure",
+                "type": "sports_centre",
+                "snippet": [
+                    "*...Queste quattro città erano Hradčany (il Castello, a ovest della Moldava), Malá Strana (\"piccolo quartiere\", nell'area a sud del Castello), Staré Město (la Città Vecchia, sulla riva orientale opposta al Castello) e Nové Město (la Città Nuova, a sud-est)....",
+                    "*...Tra le principali attrazioni turistiche troviamo Staré Město, alcuni luoghi legati a Franz Kafka, Malá Strana, Hradčany con il Castello di Praga, il Vicolo d'Oro (la leggenda vuole che in queste casette sghembe abbiano lavorato gli alchimisti incaricati da Rodolfo II della ricerca della pietra filosofale) e la Cattedrale di San Vito (dove sono conservate le reliquie più importanti della Chiesa cattolica boema:...",
+                    "*...2Le registrazioni del 1370 e del 1600 includono Staré město, Nové Město, Malá Strana e i quartieri di Hradčany ....",
+                    "*...· Praga 21 · Praga 22\nBěchovice – Benice – Březiněves – Čakovice – Ďablice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Kbely – Klánovice – Koloděje – Kolovraty – Královice – Křeslice – Kunratice – Libuš – Lipence – Lochkov – Lysolaje – Nebušice – Nedvězí – Petrovice – Přední Kopanina – Řeporyje – Satalice – Slivenec – Suchdol – Šeberov – Štěrboholy – Troja – Újezd u Průhonic – Velká Chuchle – Vinoř – Zbraslav – Zličín\nBěchovice – Praga – Bohnice – Braník – Břevnov – Březiněves – Bubeneč – Čakovice – Černý Most – Chodov – Cholupice -Čimice – Ďáblice – Dejvice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Háje – Hájek – Hloubětín – Hlubočepy – Hodkovičky – Holešovice – Holyně – Horní Měcholupy – Horní Počernice – Hostavice – Hostivař – Hradčany – Hrdlořezy – Jinonice – Josefov (Quartiere Ebraico) – Kamýk – Karlín – Kbely – Klánovice – Kobylisy – Koloděje – Kolovraty – Komořany – Košíře – Královice – Krč – Křeslice – Kunratice – Kyje – Lahovice – Letňany – Lhotka – Libeň – Liboc – Libuš – Lipany – Lipence – Lochkov – Lysolaje – Malá Chuchle – Malá Strana (Piccolo Quartiere) – Malešice – Michle – Miškovice – Modřany – Motol – Nebušice – Nedvězí – Nové Město (Città Nuova) – Nusle – Petrovice – Písnice – Pitkovice – Podolí – Přední Kopanina – Prosek – Radlice -Radotín – Řeporyje – Řepy – Ruzyně – Satalice – Sedlec – Slivenec – Smíchov – Sobín – Staré Město (Città Vecchia) – Štěrboholy – Stodůlky – Strašnice – Střešovice – Střížkov – Suchdol – Točná – Třebonice – Třeboradice – Troja – Uhříněves – Újezd nad Lesy – Újezd u Průhonic – Veleslavín – Velká Chuchle – Vinohrady – Vinoř – Vokovice – Vršovice – Vyšehrad – Vysočany – Záběhlice – Zadní Kopanina – Zbraslav – Žižkov – Zličín\nIl Prodotto interno lordo pro capite di Praga è circa il doppio rispetto a quello dell'intera Repubblica Ceca, essendo pari a  (circa ), dati del 2009...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.420293,
+                    50.086978
+                ]
+            },
+            "properties": {
+                "entity": "Città Vecchia",
+                "name_location": "Municipio della città vecchia, Mikulášská, Città Vecchia, Praha 1, Praga, Praha, 115 72, Repubblica Ceca",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Queste quattro città erano Hradčany (il Castello, a ovest della Moldava), Malá Strana (\"piccolo quartiere\", nell'area a sud del Castello), Staré Město (la Città Vecchia, sulla riva orientale opposta al Castello) e Nové Město (la Città Nuova, a sud-est)....",
+                    "*...· Praga 21 · Praga 22\nBěchovice – Benice – Březiněves – Čakovice – Ďablice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Kbely – Klánovice – Koloděje – Kolovraty – Královice – Křeslice – Kunratice – Libuš – Lipence – Lochkov – Lysolaje – Nebušice – Nedvězí – Petrovice – Přední Kopanina – Řeporyje – Satalice – Slivenec – Suchdol – Šeberov – Štěrboholy – Troja – Újezd u Průhonic – Velká Chuchle – Vinoř – Zbraslav – Zličín\nBěchovice – Praga – Bohnice – Braník – Břevnov – Březiněves – Bubeneč – Čakovice – Černý Most – Chodov – Cholupice -Čimice – Ďáblice – Dejvice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Háje – Hájek – Hloubětín – Hlubočepy – Hodkovičky – Holešovice – Holyně – Horní Měcholupy – Horní Počernice – Hostavice – Hostivař – Hradčany – Hrdlořezy – Jinonice – Josefov (Quartiere Ebraico) – Kamýk – Karlín – Kbely – Klánovice – Kobylisy – Koloděje – Kolovraty – Komořany – Košíře – Královice – Krč – Křeslice – Kunratice – Kyje – Lahovice – Letňany – Lhotka – Libeň – Liboc – Libuš – Lipany – Lipence – Lochkov – Lysolaje – Malá Chuchle – Malá Strana (Piccolo Quartiere) – Malešice – Michle – Miškovice – Modřany – Motol – Nebušice – Nedvězí – Nové Město (Città Nuova) – Nusle – Petrovice – Písnice – Pitkovice – Podolí – Přední Kopanina – Prosek – Radlice -Radotín – Řeporyje – Řepy – Ruzyně – Satalice – Sedlec – Slivenec – Smíchov – Sobín – Staré Město (Città Vecchia) – Štěrboholy – Stodůlky – Strašnice – Střešovice – Střížkov – Suchdol – Točná – Třebonice – Třeboradice – Troja – Uhříněves – Újezd nad Lesy – Újezd u Průhonic – Veleslavín – Velká Chuchle – Vinohrady – Vinoř – Vokovice – Vršovice – Vyšehrad – Vysočany – Záběhlice – Zadní Kopanina – Zbraslav – Žižkov – Zličín\nIl Prodotto interno lordo pro capite di Praga è circa il doppio rispetto a quello dell'intera Repubblica Ceca, essendo pari a  (circa ), dati del 2009....",
+                    "...Nel videogioco Deus Ex: Mankind Divided la città è vittima di attentati terroristici dovuti ai potenziati cibernetici. Possono essere visitate alcune parti, tra le quali la città vecchia dal protagonista di Deus Ex: Human Revolution, Adam Jensen nell'anno 2027, tre anni dopo gli eventi di Deus Ex: Human Revolution...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.426898,
+                    50.089553
+                ]
+            },
+            "properties": {
+                "entity": "Nové Město",
+                "name_location": "Fio banka, Benediktská, Città Vecchia, Praha 1, Praga, Praha, 110 05, Repubblica Ceca",
+                "class": "amenity",
+                "type": "atm",
+                "snippet": [
+                    "*...Queste quattro città erano Hradčany (il Castello, a ovest della Moldava), Malá Strana (\"piccolo quartiere\", nell'area a sud del Castello), Staré Město (la Città Vecchia, sulla riva orientale opposta al Castello) e Nové Město (la Città Nuova, a sud-est)....",
+                    "*...Il gotico ponte Carlo è uno dei più importanti monumenti dell'architettura medievale in Boemia), il Muro di Lennon, il vecchio Cimitero ebraico e il quartiere di Nové Město con il suo municipio, Novoměstská radnice....",
+                    "*...2Le registrazioni del 1370 e del 1600 includono Staré město, Nové Město, Malá Strana e i quartieri di Hradčany ....",
+                    "*...· Praga 21 · Praga 22\nBěchovice – Benice – Březiněves – Čakovice – Ďablice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Kbely – Klánovice – Koloděje – Kolovraty – Královice – Křeslice – Kunratice – Libuš – Lipence – Lochkov – Lysolaje – Nebušice – Nedvězí – Petrovice – Přední Kopanina – Řeporyje – Satalice – Slivenec – Suchdol – Šeberov – Štěrboholy – Troja – Újezd u Průhonic – Velká Chuchle – Vinoř – Zbraslav – Zličín\nBěchovice – Praga – Bohnice – Braník – Břevnov – Březiněves – Bubeneč – Čakovice – Černý Most – Chodov – Cholupice -Čimice – Ďáblice – Dejvice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Háje – Hájek – Hloubětín – Hlubočepy – Hodkovičky – Holešovice – Holyně – Horní Měcholupy – Horní Počernice – Hostavice – Hostivař – Hradčany – Hrdlořezy – Jinonice – Josefov (Quartiere Ebraico) – Kamýk – Karlín – Kbely – Klánovice – Kobylisy – Koloděje – Kolovraty – Komořany – Košíře – Královice – Krč – Křeslice – Kunratice – Kyje – Lahovice – Letňany – Lhotka – Libeň – Liboc – Libuš – Lipany – Lipence – Lochkov – Lysolaje – Malá Chuchle – Malá Strana (Piccolo Quartiere) – Malešice – Michle – Miškovice – Modřany – Motol – Nebušice – Nedvězí – Nové Město (Città Nuova) – Nusle – Petrovice – Písnice – Pitkovice – Podolí – Přední Kopanina – Prosek – Radlice -Radotín – Řeporyje – Řepy – Ruzyně – Satalice – Sedlec – Slivenec – Smíchov – Sobín – Staré Město (Città Vecchia) – Štěrboholy – Stodůlky – Strašnice – Střešovice – Střížkov – Suchdol – Točná – Třebonice – Třeboradice – Troja – Uhříněves – Újezd nad Lesy – Újezd u Průhonic – Veleslavín – Velká Chuchle – Vinohrady – Vinoř – Vokovice – Vršovice – Vyšehrad – Vysočany – Záběhlice – Zadní Kopanina – Zbraslav – Žižkov – Zličín\nIl Prodotto interno lordo pro capite di Praga è circa il doppio rispetto a quello dell'intera Repubblica Ceca, essendo pari a  (circa ), dati del 2009...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41929,
+                    50.065514
+                ]
+            },
+            "properties": {
+                "entity": "Vyšehrad",
+                "name_location": "Vyšehrad, Vratislavova, Vyšehrad, Praga, Praha, 128 00, Repubblica Ceca",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...La città subì un'ulteriore espansione con l'annessione di Josefov (il quartiere ebraico) nel 1850 e Vyšehrad nel 1883....",
+                    "...· Praga 21 · Praga 22\nBěchovice – Benice – Březiněves – Čakovice – Ďablice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Kbely – Klánovice – Koloděje – Kolovraty – Královice – Křeslice – Kunratice – Libuš – Lipence – Lochkov – Lysolaje – Nebušice – Nedvězí – Petrovice – Přední Kopanina – Řeporyje – Satalice – Slivenec – Suchdol – Šeberov – Štěrboholy – Troja – Újezd u Průhonic – Velká Chuchle – Vinoř – Zbraslav – Zličín\nBěchovice – Praga – Bohnice – Braník – Břevnov – Březiněves – Bubeneč – Čakovice – Černý Most – Chodov – Cholupice -Čimice – Ďáblice – Dejvice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Háje – Hájek – Hloubětín – Hlubočepy – Hodkovičky – Holešovice – Holyně – Horní Měcholupy – Horní Počernice – Hostavice – Hostivař – Hradčany – Hrdlořezy – Jinonice – Josefov (Quartiere Ebraico) – Kamýk – Karlín – Kbely – Klánovice – Kobylisy – Koloděje – Kolovraty – Komořany – Košíře – Královice – Krč – Křeslice – Kunratice – Kyje – Lahovice – Letňany – Lhotka – Libeň – Liboc – Libuš – Lipany – Lipence – Lochkov – Lysolaje – Malá Chuchle – Malá Strana (Piccolo Quartiere) – Malešice – Michle – Miškovice – Modřany – Motol – Nebušice – Nedvězí – Nové Město (Città Nuova) – Nusle – Petrovice – Písnice – Pitkovice – Podolí – Přední Kopanina – Prosek – Radlice -Radotín – Řeporyje – Řepy – Ruzyně – Satalice – Sedlec – Slivenec – Smíchov – Sobín – Staré Město (Città Vecchia) – Štěrboholy – Stodůlky – Strašnice – Střešovice – Střížkov – Suchdol – Točná – Třebonice – Třeboradice – Troja – Uhříněves – Újezd nad Lesy – Újezd u Průhonic – Veleslavín – Velká Chuchle – Vinohrady – Vinoř – Vokovice – Vršovice – Vyšehrad – Vysočany – Záběhlice – Zadní Kopanina – Zbraslav – Žižkov – Zličín\nIl Prodotto interno lordo pro capite di Praga è circa il doppio rispetto a quello dell'intera Repubblica Ceca, essendo pari a  (circa ), dati del 2009...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.420707,
+                    50.086994
+                ]
+            },
+            "properties": {
+                "entity": "Praga –",
+                "name_location": "Orologio astronomico di Praga, Staroměstské náměstí, Città Vecchia, Praha 1, Praga, Praha, 110 00, Repubblica Ceca",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...1526: Praga – con l'intera Boemia – passa sotto la corona asburgica fino al 1918;...",
+                    "*...1993: è l'anno della pacifica divisione tra le due regioni dell'ex repubblica, che adesso formano due stati indipendenti: la Repubblica Ceca – capitale Praga – e la Repubblica Slovacca – capitale Bratislava....",
+                    "...· Praga 21 · Praga 22\nBěchovice – Benice – Březiněves – Čakovice – Ďablice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Kbely – Klánovice – Koloděje – Kolovraty – Královice – Křeslice – Kunratice – Libuš – Lipence – Lochkov – Lysolaje – Nebušice – Nedvězí – Petrovice – Přední Kopanina – Řeporyje – Satalice – Slivenec – Suchdol – Šeberov – Štěrboholy – Troja – Újezd u Průhonic – Velká Chuchle – Vinoř – Zbraslav – Zličín\nBěchovice – Praga – Bohnice – Braník – Břevnov – Březiněves – Bubeneč – Čakovice – Černý Most – Chodov – Cholupice -Čimice – Ďáblice – Dejvice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Háje – Hájek – Hloubětín – Hlubočepy – Hodkovičky – Holešovice – Holyně – Horní Měcholupy – Horní Počernice – Hostavice – Hostivař – Hradčany – Hrdlořezy – Jinonice – Josefov (Quartiere Ebraico) – Kamýk – Karlín – Kbely – Klánovice – Kobylisy – Koloděje – Kolovraty – Komořany – Košíře – Královice – Krč – Křeslice – Kunratice – Kyje – Lahovice – Letňany – Lhotka – Libeň – Liboc – Libuš – Lipany – Lipence – Lochkov – Lysolaje – Malá Chuchle – Malá Strana (Piccolo Quartiere) – Malešice – Michle – Miškovice – Modřany – Motol – Nebušice – Nedvězí – Nové Město (Città Nuova) – Nusle – Petrovice – Písnice – Pitkovice – Podolí – Přední Kopanina – Prosek – Radlice -Radotín – Řeporyje – Řepy – Ruzyně – Satalice – Sedlec – Slivenec – Smíchov – Sobín – Staré Město (Città Vecchia) – Štěrboholy – Stodůlky – Strašnice – Střešovice – Střížkov – Suchdol – Točná – Třebonice – Třeboradice – Troja – Uhříněves – Újezd nad Lesy – Újezd u Průhonic – Veleslavín – Velká Chuchle – Vinohrady – Vinoř – Vokovice – Vršovice – Vyšehrad – Vysočany – Záběhlice – Zadní Kopanina – Zbraslav – Žižkov – Zličín\nIl Prodotto interno lordo pro capite di Praga è circa il doppio rispetto a quello dell'intera Repubblica Ceca, essendo pari a  (circa ), dati del 2009...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.42008,
+                    50.081694
+                ]
+            },
+            "properties": {
+                "entity": "Moravia",
+                "name_location": "La Formaggeria Gran Moravia, Purkyňova, Città Nuova, Praha 1, Praga, Praha, 110 00, Repubblica Ceca",
+                "class": "shop",
+                "type": "cheese",
+                "snippet": [
+                    "*...1939: il 15 marzo Praga diventa la capitale del Protettorato di Boemia e Moravia, diventando di fatto capitale di un paese satellite della Germania nazista;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.424351,
+                    50.083598
+                ]
+            },
+            "properties": {
+                "entity": "piazza San Venceslao",
+                "name_location": "Piazza San Venceslao, Città Nuova, Praha 1, Praga, Praha, 110 00, Repubblica Ceca",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...1969: durante la Primavera di Praga, in piazza San Venceslao, uno studente praghese, Jan Palach, si diede fuoco per protestare contro la brutale invasione delle truppe comuniste sovietiche;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.400522,
+                    50.090811
+                ]
+            },
+            "properties": {
+                "entity": "Castello di Praga",
+                "name_location": "Castello di Praga, Sněmovní, Piccolo Quartiere, Praha 1, Praga, Praha, 118 01, Repubblica Ceca",
+                "class": "historic",
+                "type": "castle",
+                "snippet": [
+                    "*...Tra le principali attrazioni turistiche troviamo Staré Město, alcuni luoghi legati a Franz Kafka, Malá Strana, Hradčany con il Castello di Praga, il Vicolo d'Oro (la leggenda vuole che in queste casette sghembe abbiano lavorato gli alchimisti incaricati da Rodolfo II della ricerca della pietra filosofale) e la Cattedrale di San Vito (dove sono conservate le reliquie più importanti della Chiesa cattolica boema:...",
+                    "*...Queste quattro città erano Hradčany (il Castello, a ovest della Moldava), Malá Strana (\"piccolo quartiere\", nell'area a sud del Castello), Staré Město (la Città Vecchia, sulla riva orientale opposta al Castello) e Nové Město (la Città Nuova, a sud-est)....",
+                    "...La Metamorfosi; Il Processo; Il Castello; America; Lettera al padre; Lettere a Milena (Franz Kafka);...",
+                    "...Vicolo dell'Oro: antica via in cui venivano condotti esperimenti e studi dalla maggior parte degli alchimisti e maghi radunati da Rodolfo II. Secondo alcuni, invece, in tale vicolo risiedevano le guardie del castello mentre alchimisti e maghi nel quartiere di Mala Strana;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40427,
+                    50.092057
+                ]
+            },
+            "properties": {
+                "entity": "Vicolo d'Oro",
+                "name_location": "Vicolo d'Oro, Zlatá ulička u Daliborky, Hradčany, Praha 1, Praga, Praha, 119 00, Repubblica Ceca",
+                "class": "tourism",
+                "type": "viewpoint",
+                "snippet": [
+                    "*...Tra le principali attrazioni turistiche troviamo Staré Město, alcuni luoghi legati a Franz Kafka, Malá Strana, Hradčany con il Castello di Praga, il Vicolo d'Oro (la leggenda vuole che in queste casette sghembe abbiano lavorato gli alchimisti incaricati da Rodolfo II della ricerca della pietra filosofale) e la Cattedrale di San Vito (dove sono conservate le reliquie più importanti della Chiesa cattolica boema:..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.400571,
+                    50.090864
+                ]
+            },
+            "properties": {
+                "entity": "Cattedrale di San Vito",
+                "name_location": "Cattedrale di San Vito, 3. nádvoří, Hradčany, Praha 1, Praga, Praha, 119 00, Repubblica Ceca",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Tra le principali attrazioni turistiche troviamo Staré Město, alcuni luoghi legati a Franz Kafka, Malá Strana, Hradčany con il Castello di Praga, il Vicolo d'Oro (la leggenda vuole che in queste casette sghembe abbiano lavorato gli alchimisti incaricati da Rodolfo II della ricerca della pietra filosofale) e la Cattedrale di San Vito (dove sono conservate le reliquie più importanti della Chiesa cattolica boema:..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.413687,
+                    50.086163
+                ]
+            },
+            "properties": {
+                "entity": "ponte Carlo",
+                "name_location": "Ponte Carlo, Città Vecchia, Praha 1, Praga, Praha, 116 93, Repubblica Ceca",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "...Quelle dei santi Vito, Venceslao, Adalberto, Sigismondo e Giovanni Nepomuceno, patrono della Boemia), il Ponte Carlo (Karlův most;...",
+                    "*...Il gotico ponte Carlo è uno dei più importanti monumenti dell'architettura medievale in Boemia), il Muro di Lennon, il vecchio Cimitero ebraico e il quartiere di Nové Město con il suo municipio, Novoměstská radnice....",
+                    "...Ponte Carlo;...",
+                    "*...Quelle dei santi Vito, Venceslao, Adalberto, Sigismondo e Giovanni Nepomuceno, patrono della Boemia), il Ponte Carlo (Karlův most;...",
+                    "*...Ponte Carlo;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.406873,
+                    50.08625
+                ]
+            },
+            "properties": {
+                "entity": "Muro di Lennon",
+                "name_location": "Muro di Lennon, Velkopřevorské náměstí, Piccolo Quartiere, Praha 1, Praga, Praha, 118 01, Repubblica Ceca",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Il gotico ponte Carlo è uno dei più importanti monumenti dell'architettura medievale in Boemia), il Muro di Lennon, il vecchio Cimitero ebraico e il quartiere di Nové Město con il suo municipio, Novoměstská radnice...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.421343,
+                    50.078356
+                ]
+            },
+            "properties": {
+                "entity": "Novoměstská radnice",
+                "name_location": "Novoměstská radnice, Vodičkova, Città Nuova, Praha 1, Praga, Praha, 111 21, Repubblica Ceca",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "...Il gotico ponte Carlo è uno dei più importanti monumenti dell'architettura medievale in Boemia), il Muro di Lennon, il vecchio Cimitero ebraico e il quartiere di Nové Město con il suo municipio, Novoměstská radnice....",
+                    "*...Tra i suoi soprannomi vanno ricordati \"La madre delle città\" (Praha matka měst in ceco), \"Città delle cento torri\" (Stověžatá Praha in ceco) e \"Città d'oro\" (Zlaté město in ceco)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.418144,
+                    50.078903
+                ]
+            },
+            "properties": {
+                "entity": "Univerzita Karlova",
+                "name_location": "Univerzita Karlova, Evangelická teologická fakulta, 646/9, Černá, Città Nuova, Praha 1, Praga, Praha, 110 00, Repubblica Ceca",
+                "class": "amenity",
+                "type": "school",
+                "snippet": [
+                    "*...La città è sede di sette fra Università e collegi, a partire dall'Università Carolina (Univerzita Karlova), fondata nel 1348, prima Università del Sacro Romano Impero Germanico e dell'Europa centrale in generale...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.416119,
+                    50.086655
+                ]
+            },
+            "properties": {
+                "entity": "Clementinum",
+                "name_location": "Klementinum, Křižovnická, Città Vecchia, Praha 1, Praga, Praha, 116 93, Repubblica Ceca",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...A Praga hanno sede anche l'Accademia delle scienze della Repubblica Ceca e la Biblioteca nazionale della Repubblica Ceca, che è ospitata nel Clementinum...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.430968,
+                    50.078919
+                ]
+            },
+            "properties": {
+                "entity": "Národní muzeum",
+                "name_location": "Národní muzeum, 68, Piazza San Venceslao, Città Nuova, Praha 1, Praga, Praha, 110 00, Repubblica Ceca",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Museo nazionale (Národní muzeum) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.438225,
+                    50.108968
+                ]
+            },
+            "properties": {
+                "entity": "Holešovice",
+                "name_location": "MOL, Holešovice, ev.168/28, Vrbenského, Holešovice, Praga, Praha, 170 00, Repubblica Ceca",
+                "class": "amenity",
+                "type": "fuel",
+                "snippet": [
+                    "*...Lapidario del Museo nazionale, Praga 7 - Holešovice ;...",
+                    "*...· Praga 21 · Praga 22\nBěchovice – Benice – Březiněves – Čakovice – Ďablice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Kbely – Klánovice – Koloděje – Kolovraty – Královice – Křeslice – Kunratice – Libuš – Lipence – Lochkov – Lysolaje – Nebušice – Nedvězí – Petrovice – Přední Kopanina – Řeporyje – Satalice – Slivenec – Suchdol – Šeberov – Štěrboholy – Troja – Újezd u Průhonic – Velká Chuchle – Vinoř – Zbraslav – Zličín\nBěchovice – Praga – Bohnice – Braník – Břevnov – Březiněves – Bubeneč – Čakovice – Černý Most – Chodov – Cholupice -Čimice – Ďáblice – Dejvice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Háje – Hájek – Hloubětín – Hlubočepy – Hodkovičky – Holešovice – Holyně – Horní Měcholupy – Horní Počernice – Hostavice – Hostivař – Hradčany – Hrdlořezy – Jinonice – Josefov (Quartiere Ebraico) – Kamýk – Karlín – Kbely – Klánovice – Kobylisy – Koloděje – Kolovraty – Komořany – Košíře – Královice – Krč – Křeslice – Kunratice – Kyje – Lahovice – Letňany – Lhotka – Libeň – Liboc – Libuš – Lipany – Lipence – Lochkov – Lysolaje – Malá Chuchle – Malá Strana (Piccolo Quartiere) – Malešice – Michle – Miškovice – Modřany – Motol – Nebušice – Nedvězí – Nové Město (Città Nuova) – Nusle – Petrovice – Písnice – Pitkovice – Podolí – Přední Kopanina – Prosek – Radlice -Radotín – Řeporyje – Řepy – Ruzyně – Satalice – Sedlec – Slivenec – Smíchov – Sobín – Staré Město (Città Vecchia) – Štěrboholy – Stodůlky – Strašnice – Střešovice – Střížkov – Suchdol – Točná – Třebonice – Třeboradice – Troja – Uhříněves – Újezd nad Lesy – Újezd u Průhonic – Veleslavín – Velká Chuchle – Vinohrady – Vinoř – Vokovice – Vršovice – Vyšehrad – Vysočany – Záběhlice – Zadní Kopanina – Zbraslav – Žižkov – Zličín\nIl Prodotto interno lordo pro capite di Praga è circa il doppio rispetto a quello dell'intera Repubblica Ceca, essendo pari a  (circa ), dati del 2009....",
+                    "*...Due stazioni ferroviarie internazionali (la stazione centrale e quella di Holešovice), due nazionali (Masarykovo nádraží e Nádraží Praha Smíchov) e diverse altre stazioni minori;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.414007,
+                    50.081435
+                ]
+            },
+            "properties": {
+                "entity": "Národní Divadlo",
+                "name_location": "Národní divadlo, Národní, Città Vecchia, Praha 1, Praga, Praha, 116 65, Repubblica Ceca",
+                "class": "railway",
+                "type": "tram_stop",
+                "snippet": [
+                    "*...Fra i principali teatri cittadini ci sono il Teatro Nazionale (Národní Divadlo) ed il Teatro degli Stati (Stavovské, Tylovo o Nosticovo divadlo), dove si tennero le prime di due opere di Mozart:..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.423638,
+                    50.085961
+                ]
+            },
+            "properties": {
+                "entity": "Teatro degli Stati",
+                "name_location": "Teatro degli Stati, 540/1, Ovocný trh, Città Vecchia, Praha 1, Praga, Praha, 110 00, Repubblica Ceca",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...Fra i principali teatri cittadini ci sono il Teatro Nazionale (Národní Divadlo) ed il Teatro degli Stati (Stavovské, Tylovo o Nosticovo divadlo), dove si tennero le prime di due opere di Mozart:..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.423638,
+                    50.085961
+                ]
+            },
+            "properties": {
+                "entity": "Nosticovo",
+                "name_location": "Teatro degli Stati, 540/1, Ovocný trh, Città Vecchia, Praha 1, Praga, Praha, 110 00, Repubblica Ceca",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...Fra i principali teatri cittadini ci sono il Teatro Nazionale (Národní Divadlo) ed il Teatro degli Stati (Stavovské, Tylovo o Nosticovo divadlo), dove si tennero le prime di due opere di Mozart:..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.427764,
+                    50.087756
+                ]
+            },
+            "properties": {
+                "entity": "Casa Municipale",
+                "name_location": "Casa Municipale, 5, náměstí Republiky, Città Vecchia, Praha 1, Praga, Praha, 110 00, Repubblica Ceca",
+                "class": "building",
+                "type": "civic",
+                "snippet": [
+                    "*...Le maggiori istituzioni musicali sono l'Orchestra Filarmonica Ceca, che si esibisce nel Rudolfinum, e l'Orchestra Sinfonica di Praga, che tiene i suoi concerti nella Casa Municipale...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.422795,
+                    50.083893
+                ]
+            },
+            "properties": {
+                "entity": "Torino",
+                "name_location": "Torino, 28. října, Città Vecchia, Praha 1, Praga, Praha, 110 00, Repubblica Ceca",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...Essa rappresenta uno dei vertici del Triangolo di Magia Bianca, insieme alle città di Lione e Torino....",
+                    "...Torino (Italia);..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.403567,
+                    50.082219
+                ]
+            },
+            "properties": {
+                "entity": "Mala Strana",
+                "name_location": "Sokol Malá Strana, alej Obětí totality, Piccolo Quartiere, Praha 1, Praga, Praha, 118 00, Repubblica Ceca",
+                "class": "leisure",
+                "type": "sports_centre",
+                "snippet": [
+                    "*...Vicolo dell'Oro: antica via in cui venivano condotti esperimenti e studi dalla maggior parte degli alchimisti e maghi radunati da Rodolfo II. Secondo alcuni, invece, in tale vicolo risiedevano le guardie del castello mentre alchimisti e maghi nel quartiere di Mala Strana;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.420707,
+                    50.086994
+                ]
+            },
+            "properties": {
+                "entity": "Orologio Astronomico",
+                "name_location": "Orologio astronomico di Praga, Staroměstské náměstí, Città Vecchia, Praha 1, Praga, Praha, 110 00, Repubblica Ceca",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Orologio Astronomico;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.585081,
+                    50.140477
+                ]
+            },
+            "properties": {
+                "entity": "Vinoř",
+                "name_location": "Vinoř, Pohankův rybník, Živanická, Vinoř, Praga, Praha, 190 17, Repubblica Ceca",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...Roundel del distretto municipale di Vinoř: scoperta negli anni Ottanta durante gli scavi di un oleodotto del petrolio e del gas, si tratta della struttura architettonica più antica d'Europa, datata tra il 4.600 e il 4.900 a.C. Solamente nel 2022 lo scavo è stato riportato alla luce in tutta la sua estensione. Il complesso è un disco circolare di 55 metri di diametro, che presenta inusualmente tre ingressi al pianterreno. Risalente all'Età della pietra, risente della cultura della ceramica decorata a punzone ed era probabilmente adibito a scopi commerciali o cultuali....",
+                    "*...· Praga 21 · Praga 22\nBěchovice – Benice – Březiněves – Čakovice – Ďablice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Kbely – Klánovice – Koloděje – Kolovraty – Královice – Křeslice – Kunratice – Libuš – Lipence – Lochkov – Lysolaje – Nebušice – Nedvězí – Petrovice – Přední Kopanina – Řeporyje – Satalice – Slivenec – Suchdol – Šeberov – Štěrboholy – Troja – Újezd u Průhonic – Velká Chuchle – Vinoř – Zbraslav – Zličín\nBěchovice – Praga – Bohnice – Braník – Břevnov – Březiněves – Bubeneč – Čakovice – Černý Most – Chodov – Cholupice -Čimice – Ďáblice – Dejvice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Háje – Hájek – Hloubětín – Hlubočepy – Hodkovičky – Holešovice – Holyně – Horní Měcholupy – Horní Počernice – Hostavice – Hostivař – Hradčany – Hrdlořezy – Jinonice – Josefov (Quartiere Ebraico) – Kamýk – Karlín – Kbely – Klánovice – Kobylisy – Koloděje – Kolovraty – Komořany – Košíře – Královice – Krč – Křeslice – Kunratice – Kyje – Lahovice – Letňany – Lhotka – Libeň – Liboc – Libuš – Lipany – Lipence – Lochkov – Lysolaje – Malá Chuchle – Malá Strana (Piccolo Quartiere) – Malešice – Michle – Miškovice – Modřany – Motol – Nebušice – Nedvězí – Nové Město (Città Nuova) – Nusle – Petrovice – Písnice – Pitkovice – Podolí – Přední Kopanina – Prosek – Radlice -Radotín – Řeporyje – Řepy – Ruzyně – Satalice – Sedlec – Slivenec – Smíchov – Sobín – Staré Město (Città Vecchia) – Štěrboholy – Stodůlky – Strašnice – Střešovice – Střížkov – Suchdol – Točná – Třebonice – Třeboradice – Troja – Uhříněves – Újezd nad Lesy – Újezd u Průhonic – Veleslavín – Velká Chuchle – Vinohrady – Vinoř – Vokovice – Vršovice – Vyšehrad – Vysočany – Záběhlice – Zadní Kopanina – Zbraslav – Žižkov – Zličín\nIl Prodotto interno lordo pro capite di Praga è circa il doppio rispetto a quello dell'intera Repubblica Ceca, essendo pari a  (circa ), dati del 2009...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.475994,
+                    50.144939
+                ]
+            },
+            "properties": {
+                "entity": "Ďablice",
+                "name_location": "Ďáblice, Čenkovská, Ďáblice, Praga, Praha, 182 00, Repubblica Ceca",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...· Praga 21 · Praga 22\nBěchovice – Benice – Březiněves – Čakovice – Ďablice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Kbely – Klánovice – Koloděje – Kolovraty – Královice – Křeslice – Kunratice – Libuš – Lipence – Lochkov – Lysolaje – Nebušice – Nedvězí – Petrovice – Přední Kopanina – Řeporyje – Satalice – Slivenec – Suchdol – Šeberov – Štěrboholy – Troja – Újezd u Průhonic – Velká Chuchle – Vinoř – Zbraslav – Zličín\nBěchovice – Praga – Bohnice – Braník – Břevnov – Březiněves – Bubeneč – Čakovice – Černý Most – Chodov – Cholupice -Čimice – Ďáblice – Dejvice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Háje – Hájek – Hloubětín – Hlubočepy – Hodkovičky – Holešovice – Holyně – Horní Měcholupy – Horní Počernice – Hostavice – Hostivař – Hradčany – Hrdlořezy – Jinonice – Josefov (Quartiere Ebraico) – Kamýk – Karlín – Kbely – Klánovice – Kobylisy – Koloděje – Kolovraty – Komořany – Košíře – Královice – Krč – Křeslice – Kunratice – Kyje – Lahovice – Letňany – Lhotka – Libeň – Liboc – Libuš – Lipany – Lipence – Lochkov – Lysolaje – Malá Chuchle – Malá Strana (Piccolo Quartiere) – Malešice – Michle – Miškovice – Modřany – Motol – Nebušice – Nedvězí – Nové Město (Città Nuova) – Nusle – Petrovice – Písnice – Pitkovice – Podolí – Přední Kopanina – Prosek – Radlice -Radotín – Řeporyje – Řepy – Ruzyně – Satalice – Sedlec – Slivenec – Smíchov – Sobín – Staré Město (Città Vecchia) – Štěrboholy – Stodůlky – Strašnice – Střešovice – Střížkov – Suchdol – Točná – Třebonice – Třeboradice – Troja – Uhříněves – Újezd nad Lesy – Újezd u Průhonic – Veleslavín – Velká Chuchle – Vinohrady – Vinoř – Vokovice – Vršovice – Vyšehrad – Vysočany – Záběhlice – Zadní Kopanina – Zbraslav – Žižkov – Zličín\nIl Prodotto interno lordo pro capite di Praga è circa il doppio rispetto a quello dell'intera Repubblica Ceca, essendo pari a  (circa ), dati del 2009...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.438111,
+                    50.150917
+                ]
+            },
+            "properties": {
+                "entity": "Dolní Chabry",
+                "name_location": "Dolní Chabry, Pod Zámečkem, Dolní Chabry, Praga, Praha, 184 00, Repubblica Ceca",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...· Praga 21 · Praga 22\nBěchovice – Benice – Březiněves – Čakovice – Ďablice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Kbely – Klánovice – Koloděje – Kolovraty – Královice – Křeslice – Kunratice – Libuš – Lipence – Lochkov – Lysolaje – Nebušice – Nedvězí – Petrovice – Přední Kopanina – Řeporyje – Satalice – Slivenec – Suchdol – Šeberov – Štěrboholy – Troja – Újezd u Průhonic – Velká Chuchle – Vinoř – Zbraslav – Zličín\nBěchovice – Praga – Bohnice – Braník – Břevnov – Březiněves – Bubeneč – Čakovice – Černý Most – Chodov – Cholupice -Čimice – Ďáblice – Dejvice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Háje – Hájek – Hloubětín – Hlubočepy – Hodkovičky – Holešovice – Holyně – Horní Měcholupy – Horní Počernice – Hostavice – Hostivař – Hradčany – Hrdlořezy – Jinonice – Josefov (Quartiere Ebraico) – Kamýk – Karlín – Kbely – Klánovice – Kobylisy – Koloděje – Kolovraty – Komořany – Košíře – Královice – Krč – Křeslice – Kunratice – Kyje – Lahovice – Letňany – Lhotka – Libeň – Liboc – Libuš – Lipany – Lipence – Lochkov – Lysolaje – Malá Chuchle – Malá Strana (Piccolo Quartiere) – Malešice – Michle – Miškovice – Modřany – Motol – Nebušice – Nedvězí – Nové Město (Città Nuova) – Nusle – Petrovice – Písnice – Pitkovice – Podolí – Přední Kopanina – Prosek – Radlice -Radotín – Řeporyje – Řepy – Ruzyně – Satalice – Sedlec – Slivenec – Smíchov – Sobín – Staré Město (Città Vecchia) – Štěrboholy – Stodůlky – Strašnice – Střešovice – Střížkov – Suchdol – Točná – Třebonice – Třeboradice – Troja – Uhříněves – Újezd nad Lesy – Újezd u Průhonic – Veleslavín – Velká Chuchle – Vinohrady – Vinoř – Vokovice – Vršovice – Vyšehrad – Vysočany – Záběhlice – Zadní Kopanina – Zbraslav – Žižkov – Zličín\nIl Prodotto interno lordo pro capite di Praga è circa il doppio rispetto a quello dell'intera Repubblica Ceca, essendo pari a  (circa ), dati del 2009...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.557394,
+                    50.058729
+                ]
+            },
+            "properties": {
+                "entity": "Dolní Měcholupy",
+                "name_location": "Dolní Měcholupy, Československých tankistů, Dolní Měcholupy, Praga, Praha, 111 01, Repubblica Ceca",
+                "class": "amenity",
+                "type": "post_office",
+                "snippet": [
+                    "*...· Praga 21 · Praga 22\nBěchovice – Benice – Březiněves – Čakovice – Ďablice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Kbely – Klánovice – Koloděje – Kolovraty – Královice – Křeslice – Kunratice – Libuš – Lipence – Lochkov – Lysolaje – Nebušice – Nedvězí – Petrovice – Přední Kopanina – Řeporyje – Satalice – Slivenec – Suchdol – Šeberov – Štěrboholy – Troja – Újezd u Průhonic – Velká Chuchle – Vinoř – Zbraslav – Zličín\nBěchovice – Praga – Bohnice – Braník – Břevnov – Březiněves – Bubeneč – Čakovice – Černý Most – Chodov – Cholupice -Čimice – Ďáblice – Dejvice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Háje – Hájek – Hloubětín – Hlubočepy – Hodkovičky – Holešovice – Holyně – Horní Měcholupy – Horní Počernice – Hostavice – Hostivař – Hradčany – Hrdlořezy – Jinonice – Josefov (Quartiere Ebraico) – Kamýk – Karlín – Kbely – Klánovice – Kobylisy – Koloděje – Kolovraty – Komořany – Košíře – Královice – Krč – Křeslice – Kunratice – Kyje – Lahovice – Letňany – Lhotka – Libeň – Liboc – Libuš – Lipany – Lipence – Lochkov – Lysolaje – Malá Chuchle – Malá Strana (Piccolo Quartiere) – Malešice – Michle – Miškovice – Modřany – Motol – Nebušice – Nedvězí – Nové Město (Città Nuova) – Nusle – Petrovice – Písnice – Pitkovice – Podolí – Přední Kopanina – Prosek – Radlice -Radotín – Řeporyje – Řepy – Ruzyně – Satalice – Sedlec – Slivenec – Smíchov – Sobín – Staré Město (Città Vecchia) – Štěrboholy – Stodůlky – Strašnice – Střešovice – Střížkov – Suchdol – Točná – Třebonice – Třeboradice – Troja – Uhříněves – Újezd nad Lesy – Újezd u Průhonic – Veleslavín – Velká Chuchle – Vinohrady – Vinoř – Vokovice – Vršovice – Vyšehrad – Vysočany – Záběhlice – Zadní Kopanina – Zbraslav – Žižkov – Zličín\nIl Prodotto interno lordo pro capite di Praga è circa il doppio rispetto a quello dell'intera Repubblica Ceca, essendo pari a  (circa ), dati del 2009...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.576168,
+                    50.085716
+                ]
+            },
+            "properties": {
+                "entity": "Dolní Počernice",
+                "name_location": "Dolní Počernice, Českobrodská, Dolní Počernice, Praga, Praha, 190 12, Repubblica Ceca",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...· Praga 21 · Praga 22\nBěchovice – Benice – Březiněves – Čakovice – Ďablice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Kbely – Klánovice – Koloděje – Kolovraty – Královice – Křeslice – Kunratice – Libuš – Lipence – Lochkov – Lysolaje – Nebušice – Nedvězí – Petrovice – Přední Kopanina – Řeporyje – Satalice – Slivenec – Suchdol – Šeberov – Štěrboholy – Troja – Újezd u Průhonic – Velká Chuchle – Vinoř – Zbraslav – Zličín\nBěchovice – Praga – Bohnice – Braník – Břevnov – Březiněves – Bubeneč – Čakovice – Černý Most – Chodov – Cholupice -Čimice – Ďáblice – Dejvice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Háje – Hájek – Hloubětín – Hlubočepy – Hodkovičky – Holešovice – Holyně – Horní Měcholupy – Horní Počernice – Hostavice – Hostivař – Hradčany – Hrdlořezy – Jinonice – Josefov (Quartiere Ebraico) – Kamýk – Karlín – Kbely – Klánovice – Kobylisy – Koloděje – Kolovraty – Komořany – Košíře – Královice – Krč – Křeslice – Kunratice – Kyje – Lahovice – Letňany – Lhotka – Libeň – Liboc – Libuš – Lipany – Lipence – Lochkov – Lysolaje – Malá Chuchle – Malá Strana (Piccolo Quartiere) – Malešice – Michle – Miškovice – Modřany – Motol – Nebušice – Nedvězí – Nové Město (Città Nuova) – Nusle – Petrovice – Písnice – Pitkovice – Podolí – Přední Kopanina – Prosek – Radlice -Radotín – Řeporyje – Řepy – Ruzyně – Satalice – Sedlec – Slivenec – Smíchov – Sobín – Staré Město (Città Vecchia) – Štěrboholy – Stodůlky – Strašnice – Střešovice – Střížkov – Suchdol – Točná – Třebonice – Třeboradice – Troja – Uhříněves – Újezd nad Lesy – Újezd u Průhonic – Veleslavín – Velká Chuchle – Vinohrady – Vinoř – Vokovice – Vršovice – Vyšehrad – Vysočany – Záběhlice – Zadní Kopanina – Zbraslav – Žižkov – Zličín\nIl Prodotto interno lordo pro capite di Praga è circa il doppio rispetto a quello dell'intera Repubblica Ceca, essendo pari a  (circa ), dati del 2009...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.380676,
+                    50.012319
+                ]
+            },
+            "properties": {
+                "entity": "Velká Chuchle",
+                "name_location": "Velká Chuchle, Starochuchelská, Velká Chuchle, Praga, Praha, 159 00, Repubblica Ceca",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...· Praga 21 · Praga 22\nBěchovice – Benice – Březiněves – Čakovice – Ďablice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Kbely – Klánovice – Koloděje – Kolovraty – Královice – Křeslice – Kunratice – Libuš – Lipence – Lochkov – Lysolaje – Nebušice – Nedvězí – Petrovice – Přední Kopanina – Řeporyje – Satalice – Slivenec – Suchdol – Šeberov – Štěrboholy – Troja – Újezd u Průhonic – Velká Chuchle – Vinoř – Zbraslav – Zličín\nBěchovice – Praga – Bohnice – Braník – Břevnov – Březiněves – Bubeneč – Čakovice – Černý Most – Chodov – Cholupice -Čimice – Ďáblice – Dejvice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Háje – Hájek – Hloubětín – Hlubočepy – Hodkovičky – Holešovice – Holyně – Horní Měcholupy – Horní Počernice – Hostavice – Hostivař – Hradčany – Hrdlořezy – Jinonice – Josefov (Quartiere Ebraico) – Kamýk – Karlín – Kbely – Klánovice – Kobylisy – Koloděje – Kolovraty – Komořany – Košíře – Královice – Krč – Křeslice – Kunratice – Kyje – Lahovice – Letňany – Lhotka – Libeň – Liboc – Libuš – Lipany – Lipence – Lochkov – Lysolaje – Malá Chuchle – Malá Strana (Piccolo Quartiere) – Malešice – Michle – Miškovice – Modřany – Motol – Nebušice – Nedvězí – Nové Město (Città Nuova) – Nusle – Petrovice – Písnice – Pitkovice – Podolí – Přední Kopanina – Prosek – Radlice -Radotín – Řeporyje – Řepy – Ruzyně – Satalice – Sedlec – Slivenec – Smíchov – Sobín – Staré Město (Città Vecchia) – Štěrboholy – Stodůlky – Strašnice – Střešovice – Střížkov – Suchdol – Točná – Třebonice – Třeboradice – Troja – Uhříněves – Újezd nad Lesy – Újezd u Průhonic – Veleslavín – Velká Chuchle – Vinohrady – Vinoř – Vokovice – Vršovice – Vyšehrad – Vysočany – Záběhlice – Zadní Kopanina – Zbraslav – Žižkov – Zličín\nIl Prodotto interno lordo pro capite di Praga è circa il doppio rispetto a quello dell'intera Repubblica Ceca, essendo pari a  (circa ), dati del 2009...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.407027,
+                    50.097744
+                ]
+            },
+            "properties": {
+                "entity": "Dejvice",
+                "name_location": "Dejvický tunel, Dejvice, Praga, Praha, 119 00, Repubblica Ceca",
+                "class": "highway",
+                "type": "trunk",
+                "snippet": [
+                    "*...· Praga 21 · Praga 22\nBěchovice – Benice – Březiněves – Čakovice – Ďablice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Kbely – Klánovice – Koloděje – Kolovraty – Královice – Křeslice – Kunratice – Libuš – Lipence – Lochkov – Lysolaje – Nebušice – Nedvězí – Petrovice – Přední Kopanina – Řeporyje – Satalice – Slivenec – Suchdol – Šeberov – Štěrboholy – Troja – Újezd u Průhonic – Velká Chuchle – Vinoř – Zbraslav – Zličín\nBěchovice – Praga – Bohnice – Braník – Břevnov – Březiněves – Bubeneč – Čakovice – Černý Most – Chodov – Cholupice -Čimice – Ďáblice – Dejvice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Háje – Hájek – Hloubětín – Hlubočepy – Hodkovičky – Holešovice – Holyně – Horní Měcholupy – Horní Počernice – Hostavice – Hostivař – Hradčany – Hrdlořezy – Jinonice – Josefov (Quartiere Ebraico) – Kamýk – Karlín – Kbely – Klánovice – Kobylisy – Koloděje – Kolovraty – Komořany – Košíře – Královice – Krč – Křeslice – Kunratice – Kyje – Lahovice – Letňany – Lhotka – Libeň – Liboc – Libuš – Lipany – Lipence – Lochkov – Lysolaje – Malá Chuchle – Malá Strana (Piccolo Quartiere) – Malešice – Michle – Miškovice – Modřany – Motol – Nebušice – Nedvězí – Nové Město (Città Nuova) – Nusle – Petrovice – Písnice – Pitkovice – Podolí – Přední Kopanina – Prosek – Radlice -Radotín – Řeporyje – Řepy – Ruzyně – Satalice – Sedlec – Slivenec – Smíchov – Sobín – Staré Město (Città Vecchia) – Štěrboholy – Stodůlky – Strašnice – Střešovice – Střížkov – Suchdol – Točná – Třebonice – Třeboradice – Troja – Uhříněves – Újezd nad Lesy – Újezd u Průhonic – Veleslavín – Velká Chuchle – Vinohrady – Vinoř – Vokovice – Vršovice – Vyšehrad – Vysočany – Záběhlice – Zadní Kopanina – Zbraslav – Žižkov – Zličín\nIl Prodotto interno lordo pro capite di Praga è circa il doppio rispetto a quello dell'intera Repubblica Ceca, essendo pari a  (circa ), dati del 2009...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.349151,
+                    50.033408
+                ]
+            },
+            "properties": {
+                "entity": "Holyně",
+                "name_location": "Holyně (vlak), U Vápenice, Holyně, Praga, Praha, 154 00, Repubblica Ceca",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...· Praga 21 · Praga 22\nBěchovice – Benice – Březiněves – Čakovice – Ďablice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Kbely – Klánovice – Koloděje – Kolovraty – Královice – Křeslice – Kunratice – Libuš – Lipence – Lochkov – Lysolaje – Nebušice – Nedvězí – Petrovice – Přední Kopanina – Řeporyje – Satalice – Slivenec – Suchdol – Šeberov – Štěrboholy – Troja – Újezd u Průhonic – Velká Chuchle – Vinoř – Zbraslav – Zličín\nBěchovice – Praga – Bohnice – Braník – Břevnov – Březiněves – Bubeneč – Čakovice – Černý Most – Chodov – Cholupice -Čimice – Ďáblice – Dejvice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Háje – Hájek – Hloubětín – Hlubočepy – Hodkovičky – Holešovice – Holyně – Horní Měcholupy – Horní Počernice – Hostavice – Hostivař – Hradčany – Hrdlořezy – Jinonice – Josefov (Quartiere Ebraico) – Kamýk – Karlín – Kbely – Klánovice – Kobylisy – Koloděje – Kolovraty – Komořany – Košíře – Královice – Krč – Křeslice – Kunratice – Kyje – Lahovice – Letňany – Lhotka – Libeň – Liboc – Libuš – Lipany – Lipence – Lochkov – Lysolaje – Malá Chuchle – Malá Strana (Piccolo Quartiere) – Malešice – Michle – Miškovice – Modřany – Motol – Nebušice – Nedvězí – Nové Město (Città Nuova) – Nusle – Petrovice – Písnice – Pitkovice – Podolí – Přední Kopanina – Prosek – Radlice -Radotín – Řeporyje – Řepy – Ruzyně – Satalice – Sedlec – Slivenec – Smíchov – Sobín – Staré Město (Città Vecchia) – Štěrboholy – Stodůlky – Strašnice – Střešovice – Střížkov – Suchdol – Točná – Třebonice – Třeboradice – Troja – Uhříněves – Újezd nad Lesy – Újezd u Průhonic – Veleslavín – Velká Chuchle – Vinohrady – Vinoř – Vokovice – Vršovice – Vyšehrad – Vysočany – Záběhlice – Zadní Kopanina – Zbraslav – Žižkov – Zličín\nIl Prodotto interno lordo pro capite di Praga è circa il doppio rispetto a quello dell'intera Repubblica Ceca, essendo pari a  (circa ), dati del 2009...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.564891,
+                    50.049451
+                ]
+            },
+            "properties": {
+                "entity": "Horní Měcholupy",
+                "name_location": "Nádraží Horní Měcholupy, K Měcholupům, Horní Měcholupy, Praga, Praha, 109 00, Repubblica Ceca",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...· Praga 21 · Praga 22\nBěchovice – Benice – Březiněves – Čakovice – Ďablice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Kbely – Klánovice – Koloděje – Kolovraty – Královice – Křeslice – Kunratice – Libuš – Lipence – Lochkov – Lysolaje – Nebušice – Nedvězí – Petrovice – Přední Kopanina – Řeporyje – Satalice – Slivenec – Suchdol – Šeberov – Štěrboholy – Troja – Újezd u Průhonic – Velká Chuchle – Vinoř – Zbraslav – Zličín\nBěchovice – Praga – Bohnice – Braník – Břevnov – Březiněves – Bubeneč – Čakovice – Černý Most – Chodov – Cholupice -Čimice – Ďáblice – Dejvice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Háje – Hájek – Hloubětín – Hlubočepy – Hodkovičky – Holešovice – Holyně – Horní Měcholupy – Horní Počernice – Hostavice – Hostivař – Hradčany – Hrdlořezy – Jinonice – Josefov (Quartiere Ebraico) – Kamýk – Karlín – Kbely – Klánovice – Kobylisy – Koloděje – Kolovraty – Komořany – Košíře – Královice – Krč – Křeslice – Kunratice – Kyje – Lahovice – Letňany – Lhotka – Libeň – Liboc – Libuš – Lipany – Lipence – Lochkov – Lysolaje – Malá Chuchle – Malá Strana (Piccolo Quartiere) – Malešice – Michle – Miškovice – Modřany – Motol – Nebušice – Nedvězí – Nové Město (Città Nuova) – Nusle – Petrovice – Písnice – Pitkovice – Podolí – Přední Kopanina – Prosek – Radlice -Radotín – Řeporyje – Řepy – Ruzyně – Satalice – Sedlec – Slivenec – Smíchov – Sobín – Staré Město (Città Vecchia) – Štěrboholy – Stodůlky – Strašnice – Střešovice – Střížkov – Suchdol – Točná – Třebonice – Třeboradice – Troja – Uhříněves – Újezd nad Lesy – Újezd u Průhonic – Veleslavín – Velká Chuchle – Vinohrady – Vinoř – Vokovice – Vršovice – Vyšehrad – Vysočany – Záběhlice – Zadní Kopanina – Zbraslav – Žižkov – Zličín\nIl Prodotto interno lordo pro capite di Praga è circa il doppio rispetto a quello dell'intera Repubblica Ceca, essendo pari a  (circa ), dati del 2009...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.589336,
+                    50.104873
+                ]
+            },
+            "properties": {
+                "entity": "Horní Počernice",
+                "name_location": "Horní Počernice, Pražský okruh, Chvaly, Horní Počernice, Praga, Praha, 198 19, Repubblica Ceca",
+                "class": "highway",
+                "type": "motorway_junction",
+                "snippet": [
+                    "*...· Praga 21 · Praga 22\nBěchovice – Benice – Březiněves – Čakovice – Ďablice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Kbely – Klánovice – Koloděje – Kolovraty – Královice – Křeslice – Kunratice – Libuš – Lipence – Lochkov – Lysolaje – Nebušice – Nedvězí – Petrovice – Přední Kopanina – Řeporyje – Satalice – Slivenec – Suchdol – Šeberov – Štěrboholy – Troja – Újezd u Průhonic – Velká Chuchle – Vinoř – Zbraslav – Zličín\nBěchovice – Praga – Bohnice – Braník – Břevnov – Březiněves – Bubeneč – Čakovice – Černý Most – Chodov – Cholupice -Čimice – Ďáblice – Dejvice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Háje – Hájek – Hloubětín – Hlubočepy – Hodkovičky – Holešovice – Holyně – Horní Měcholupy – Horní Počernice – Hostavice – Hostivař – Hradčany – Hrdlořezy – Jinonice – Josefov (Quartiere Ebraico) – Kamýk – Karlín – Kbely – Klánovice – Kobylisy – Koloděje – Kolovraty – Komořany – Košíře – Královice – Krč – Křeslice – Kunratice – Kyje – Lahovice – Letňany – Lhotka – Libeň – Liboc – Libuš – Lipany – Lipence – Lochkov – Lysolaje – Malá Chuchle – Malá Strana (Piccolo Quartiere) – Malešice – Michle – Miškovice – Modřany – Motol – Nebušice – Nedvězí – Nové Město (Città Nuova) – Nusle – Petrovice – Písnice – Pitkovice – Podolí – Přední Kopanina – Prosek – Radlice -Radotín – Řeporyje – Řepy – Ruzyně – Satalice – Sedlec – Slivenec – Smíchov – Sobín – Staré Město (Città Vecchia) – Štěrboholy – Stodůlky – Strašnice – Střešovice – Střížkov – Suchdol – Točná – Třebonice – Třeboradice – Troja – Uhříněves – Újezd nad Lesy – Újezd u Průhonic – Veleslavín – Velká Chuchle – Vinohrady – Vinoř – Vokovice – Vršovice – Vyšehrad – Vysočany – Záběhlice – Zadní Kopanina – Zbraslav – Žižkov – Zličín\nIl Prodotto interno lordo pro capite di Praga è circa il doppio rispetto a quello dell'intera Repubblica Ceca, essendo pari a  (circa ), dati del 2009...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.517528,
+                    50.100063
+                ]
+            },
+            "properties": {
+                "entity": "Hrdlořezy",
+                "name_location": "Vinice Hrdlořezy, Mezitraťová, Hrdlořezy, Praga, Praha, 190 07, Repubblica Ceca",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...· Praga 21 · Praga 22\nBěchovice – Benice – Březiněves – Čakovice – Ďablice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Kbely – Klánovice – Koloděje – Kolovraty – Královice – Křeslice – Kunratice – Libuš – Lipence – Lochkov – Lysolaje – Nebušice – Nedvězí – Petrovice – Přední Kopanina – Řeporyje – Satalice – Slivenec – Suchdol – Šeberov – Štěrboholy – Troja – Újezd u Průhonic – Velká Chuchle – Vinoř – Zbraslav – Zličín\nBěchovice – Praga – Bohnice – Braník – Břevnov – Březiněves – Bubeneč – Čakovice – Černý Most – Chodov – Cholupice -Čimice – Ďáblice – Dejvice – Dolní Chabry – Dolní Měcholupy – Dolní Počernice – Dubeč – Háje – Hájek – Hloubětín – Hlubočepy – Hodkovičky – Holešovice – Holyně – Horní Měcholupy – Horní Počernice – Hostavice – Hostivař – Hradčany – Hrdlořezy – Jinonice – Josefov (Quartiere Ebraico) – Kamýk – Karlín – Kbely – Klánovice – Kobylisy – Koloděje – Kolovraty – Komořany – Košíře – Královice – Krč – Křeslice – Kunratice – Kyje – Lahovice – Letňany – Lhotka – Libeň – Liboc – Libuš – Lipany – Lipence – Lochkov – Lysolaje – Malá Chuchle – Malá Strana (Piccolo Quartiere) – Malešice – Michle – Miškovice – Modřany – Motol – Nebušice – Nedvězí – Nové Město (Città Nuova) – Nusle – Petrovice – Písnice – Pitkovice – Podolí – Přední Kopanina – Prosek – Radlice -Radotín – Řeporyje – Řepy – Ruzyně – Satalice – Sedlec – Slivenec – Smíchov – Sobín – Staré Město (Città Vecchia) – Štěrboholy – Stodůlky – Strašnice – Střešovice – Střížkov – Suchdol – Točná – Třebonice – Třeboradice – Troja – Uhříněves – Újezd nad Lesy – Újezd u Průhonic – Veleslavín – Velká Chuchle – Vinohrady – Vinoř – Vokovice – Vršovice – Vyšehrad – Vysočany – Záběhlice – Zadní Kopanina – Zbraslav – Žižkov – Zličín\nIl Prodotto interno lordo pro capite di Praga è circa il doppio rispetto a quello dell'intera Repubblica Ceca, essendo pari a  (circa ), dati del 2009...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38986,
+                    50.099556
+                ]
+            },
+            "properties": {
+                "entity": "Vienna",
+                "name_location": "Vienna House Diplomat Prague, 15, Evropská, Dejvice, Praga, Praha, 160 00, Repubblica Ceca",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...Differentemente da altre città d'Europa, infatti, Praga non ha subito gravi danni durante la seconda guerra mondiale, ed è dunque stata utilizzata anche per riprodurre altre città europee in periodi precedenti la guerra, tra cui Berlino, Vienna e Londra....",
+                    "*...Vienna (Austria)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.437812,
+                    50.090722
+                ]
+            },
+            "properties": {
+                "entity": "Florenc",
+                "name_location": "Florenc, Città Nuova, Praga, Praha, 116 47, Repubblica Ceca",
+                "class": "highway",
+                "type": "footway",
+                "snippet": [
+                    "*...Centinaia di linee di autobus cittadini e collegamenti su gomma nazionali e internazionali prevalentemente dalla stazione di Florenc;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.270565,
+                    50.102045
+                ]
+            },
+            "properties": {
+                "entity": "Aeroporto di Václav Havel",
+                "name_location": "Aeroporto di Praga-Václav Havel, 1019/6, K Letišti, Ruzyně, Praga, Praha, 161 00, Repubblica Ceca",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "*...Praga è servita dall'Aeroporto di Václav Havel, che è l'hub della compagnia di bandiera, CSA Czech Airlines...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.401193,
+                    50.087314
+                ]
+            },
+            "properties": {
+                "entity": "USA",
+                "name_location": "Velvyslanectví Spojených států amerických, 365/15, Tržiště, Piccolo Quartiere, Praha 1, Praga, Praha, 118 00, Repubblica Ceca",
+                "class": "office",
+                "type": "diplomatic",
+                "snippet": [
+                    "*...Chicago, dal 1990 (USA);...",
+                    "*...Phoenix, dal 1992 (USA);..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40651,
+                    50.085903
+                ]
+            },
+            "properties": {
+                "entity": "Francia",
+                "name_location": "Velvyslanectví Francouzské republiky, 486/2, Velkopřevorské náměstí, Piccolo Quartiere, Praha 1, Praga, Praha, 118 00, Repubblica Ceca",
+                "class": "office",
+                "type": "diplomatic",
+                "snippet": [
+                    "*...Parigi, dal 1997 (partenariato non gemellaggio - Francia);..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.422054,
+                    50.087549
+                ]
+            },
+            "properties": {
+                "entity": "Italia",
+                "name_location": "Caffe Italia, 14, Staroměstské náměstí, Città Vecchia, Praha 1, Praga, Praha, 110 00, Repubblica Ceca",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...Ferrara, dal 2000 (Italia);...",
+                    "*...Teramo, dal 2005 (distretto 7 - Italia);...",
+                    "*...Monza, dal 2009 (Italia);...",
+                    "*...Lecce, dal 2011 (distretto 9 - Italia);...",
+                    "*...Napoli, dal 2013 (Italia);...",
+                    "*...Roma (partenariato non gemellaggio - Italia);...",
+                    "*...Terni (Italia);...",
+                    "*...Torino (Italia);...",
+                    "*...Trento (Italia);..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.415892,
+                    50.099713
+                ]
+            },
+            "properties": {
+                "entity": "Generali Arena",
+                "name_location": "epet ARENA, 1066/98, Milady Horákové, Holešovice, Praga, Praha, 116 93, Repubblica Ceca",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...Liga lo Sparta Praga, squadra più titolata del campionato ceco, che gioca nello Generali Arena, i rivali dello Slavia Praga che giocano nello Eden Aréna, il Dukla Praga, noto per il suo glorioso passato, che gioca nello Stadio Juliska e il Bohemians 1905 che gioca nello Stadio Ďolíček....",
+                    "*...Eden Aréna (nota anche come SynotTip Arena), O2 Arena e Generali Arena...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.453994,
+                    50.067147
+                ]
+            },
+            "properties": {
+                "entity": "Stadio Ďolíček",
+                "name_location": "Stadio Ďolíček, 31, Vršovická, Vršovice, Praga, Praha, 101 00, Repubblica Ceca",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...Liga lo Sparta Praga, squadra più titolata del campionato ceco, che gioca nello Generali Arena, i rivali dello Slavia Praga che giocano nello Eden Aréna, il Dukla Praga, noto per il suo glorioso passato, che gioca nello Stadio Juliska e il Bohemians 1905 che gioca nello Stadio Ďolíček...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.470701,
+                    50.067504
+                ]
+            },
+            "properties": {
+                "entity": "Eden Aréna",
+                "name_location": "Fortuna Arena, 1540/2a, U Slavie, Vršovice, Praga, Praha, 100 00, Repubblica Ceca",
+                "class": "club",
+                "type": "SK Slavia Praha",
+                "snippet": [
+                    "*...Liga lo Sparta Praga, squadra più titolata del campionato ceco, che gioca nello Generali Arena, i rivali dello Slavia Praga che giocano nello Eden Aréna, il Dukla Praga, noto per il suo glorioso passato, che gioca nello Stadio Juliska e il Bohemians 1905 che gioca nello Stadio Ďolíček....",
+                    "*...Eden Aréna (nota anche come SynotTip Arena), O2 Arena e Generali Arena...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.493622,
+                    50.104755
+                ]
+            },
+            "properties": {
+                "entity": "O2 Arena",
+                "name_location": "O2 arena, 2345, Českomoravská, Balabenka, Libeň, Praga, Praha, 190 00, Repubblica Ceca",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...Eden Aréna (nota anche come SynotTip Arena), O2 Arena e Generali Arena...."
+                ]
+            }
+        }
+    ]
+}

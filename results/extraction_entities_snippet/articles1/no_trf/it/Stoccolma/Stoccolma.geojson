@@ -1,0 +1,763 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.05104,
+                    59.338507
+                ]
+            },
+            "properties": {
+                "entity": "Scandinavia",
+                "name_location": "Oriental Pacific Scandinavia AB, Rådmansgatan, Sabbatsberg, Vasastaden, Norrmalms stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 111 24, Svezia",
+                "class": "office",
+                "type": "travel_agent",
+                "snippet": [
+                    "*...Con 984 748 abitanti è la principale città della Svezia e della Scandinavia, nonché il centro di riferimento economico e culturale della nazione...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.061114,
+                    59.325614
+                ]
+            },
+            "properties": {
+                "entity": "Riddarfjärden",
+                "name_location": "m/s Riddarfjärden, Evert Taubes Terrass, Riddarholmen, Södermalms stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 101 23, Svezia",
+                "class": "amenity",
+                "type": "boat_rental",
+                "snippet": [
+                    "*...Il centro della città è situato potenzialmente nell'acqua, nella baia di Riddarfjärden, ed il centro storico è rappresentato da Gamla stan...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.070643,
+                    59.324953
+                ]
+            },
+            "properties": {
+                "entity": "Gamla stan",
+                "name_location": "Gamla stan, Stortorget, Gamla stan, Södermalms stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 111 29, Svezia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Il centro della città è situato potenzialmente nell'acqua, nella baia di Riddarfjärden, ed il centro storico è rappresentato da Gamla stan....",
+                    "*...In quel periodo la città era compresa nelle zone di Helgeandsholmen, Staden e Riddarholmen, che oggi formano la cosiddetta Gamla stan, o città vecchia, insieme a quella di Sigtuna, situata sulle rive del lago Mälaren, e successivamente si estese lentamente sulla terraferma verso nord e verso sud...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.089947,
+                    59.314719
+                ]
+            },
+            "properties": {
+                "entity": "Italia",
+                "name_location": "Deli Italia, Åsögatan, Danvikstull, Södermalm, Södermalms stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 116 32, Svezia",
+                "class": "amenity",
+                "type": "fast_food",
+                "snippet": [
+                    "*...Ne deriva quindi una parabola apparente nettamente meno accentuata che in Italia:..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.040811,
+                    59.342445
+                ]
+            },
+            "properties": {
+                "entity": "Sigtuna",
+                "name_location": "Sigtunagatan, Sabbatsberg, Vasastaden, Norrmalms stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 113 22, Svezia",
+                "class": "highway",
+                "type": "footway",
+                "snippet": [
+                    "*...In quel periodo la città era compresa nelle zone di Helgeandsholmen, Staden e Riddarholmen, che oggi formano la cosiddetta Gamla stan, o città vecchia, insieme a quella di Sigtuna, situata sulle rive del lago Mälaren, e successivamente si estese lentamente sulla terraferma verso nord e verso sud...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.070489,
+                    59.330435
+                ]
+            },
+            "properties": {
+                "entity": "Sankt Jacobs",
+                "name_location": "Jakobs kyrka, Jakobs Torg, Klara, Norrmalm, Norrmalms stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 111 47, Svezia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Sankt Jacobs kyrka, la Chiesa di San Giacomo, che unisce stili diversi, dal gotico baltico, al rinascimentale, al barocco...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.086468,
+                    59.315981
+                ]
+            },
+            "properties": {
+                "entity": "Sofia",
+                "name_location": "Sofia, Tjärhovsgatan, Södermalm, Södermalms stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 116 30, Svezia",
+                "class": "railway",
+                "type": "proposed",
+                "snippet": [
+                    "*...Chiesa di Sofia, Sofia kyrka, in onore della regina Sofia di Nassau...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.090972,
+                    59.28054
+                ]
+            },
+            "properties": {
+                "entity": "Skogskyrkogården",
+                "name_location": "Skogskyrkogården, Nynäsvägen, Enskede, Enskede-Årsta-Vantörs stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 122 34, Svezia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Il Castello di Drottningholm e il Cimitero sud chiamato Skogskyrkogården...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.077012,
+                    59.33329
+                ]
+            },
+            "properties": {
+                "entity": "Kungliga Dramatiska Teatern",
+                "name_location": "Dramaten, Sibyllegatan, Östermalm, Östermalms stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 102 41, Svezia",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...Il Teatro Reale Drammatico (Kungliga Dramatiska Teatern) è tra i teatri fondatori dell'Unione dei Teatri d'Europa....",
+                    "*...Fra i teatri di Stoccolma spiccano per la prosa il Regio Teatro di Arte Drammatica (Kungliga Dramatiska Teatern) risalente alla fine del XIX secolo ed uno dei più rinomati in Europa, il Vasateatern e per la lirica l'Opera reale svedese (Kungliga Operan), inaugurata nel 1773....",
+                    "*...La Biblioteca reale (Kungliga biblioteket) di Stoccolma è la biblioteca nazionale della Svezia....",
+                    "...Dedicati ai patrimoni della famiglia reale, vi sono il Museo Tre Kronor presso le fondamenta del palazzo reale, lo Skattkammaren ossia la tesoreria Reale, il Gustav III antikmuseum con i tesori dell'antico monarca, il Livrustkammaren, ossia l'Armeria Reale, e il Kungliga Myntkabinettet la Zecca Reale con le sue monete....",
+                    "...La Sala da concerto (Konserthus) è la principale sala per la musica orchestrale nonché la sede dell'Orchestra Filarmonica Reale di Stoccolma (Kungliga Filharmonikerna)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.103286,
+                    59.236638
+                ]
+            },
+            "properties": {
+                "entity": "Södertörns",
+                "name_location": "Farsta strand, Magelungsvägen, Farsta strand, Farsta stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 123 50, Svezia",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...Scuola superiore di Södertörns. Fondato nella parte Sud dell'area metropolitana di Stoccolma per bilanciare la maggior presenza di Istituti universitari nella parte Nord...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.022094,
+                    59.327025
+                ]
+            },
+            "properties": {
+                "entity": "Riksarkivet",
+                "name_location": "Riksarkivet, Fyrverkarbacken, Marieberg, Kungsholmens stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 100 26, Svezia",
+                "class": "amenity",
+                "type": "parking",
+                "snippet": [
+                    "*...Nella capitale svedese ha inoltre sede l’Archivio nazionale (Riksarkivet) che è l'archivio di stato della Svezia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.091366,
+                    59.328059
+                ]
+            },
+            "properties": {
+                "entity": "Museo Vasa",
+                "name_location": "Vasamuseet, Djurgårdsstrand, Djurgårdsstaden, Djurgården, Östermalms stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 115 21, Svezia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Il Museo Vasa in cui è conservato il relitto dell'omonimo veliero del XVII secolo,..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.093904,
+                    59.329136
+                ]
+            },
+            "properties": {
+                "entity": "Nordiska Museet",
+                "name_location": "Nordiska museet, Djurgårdsvägen, Djurgårdsstaden, Djurgården, Östermalms stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 115 21, Svezia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Il Nordiska Museet,...",
+                    "...In quel periodo la città era compresa nelle zone di Helgeandsholmen, Staden e Riddarholmen, che oggi formano la cosiddetta Gamla stan, o città vecchia, insieme a quella di Sigtuna, situata sulle rive del lago Mälaren, e successivamente si estese lentamente sulla terraferma verso nord e verso sud....",
+                    "*...Scuola superiore di Södertörns. Fondato nella parte Sud dell'area metropolitana di Stoccolma per bilanciare la maggior presenza di Istituti universitari nella parte Nord....",
+                    "...Nel nord della città, a Kista, si trova un importante centro di Information Technology....",
+                    "...Aeroporto di Stoccolma-Arlanda. Situato a 42 km a nord di Stoccolma, è il principale scalo della città, nonché l'hub della compagnia di bandiera Scandinavian Airlines....",
+                    "...AIK: istituita nel 1896, la sezione calcistica ha vinto 12 campionati, 8 coppe e una Supercoppa di Svezia. I suoi colori sociali sono il nero e il giallo. È considerata la squadra più popolare nella parte nord-ovest della città...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.084,
+                    59.326349
+                ]
+            },
+            "properties": {
+                "entity": "Moderna Museet",
+                "name_location": "Moderna museet, Slupskjulsvägen, Skeppsholmen, Norrmalms stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 111 49, Svezia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Il Moderna Museet,...",
+                    "*...Altri importanti teatri sono il Teatro Bollhuset (Stora Bollhuset), lo Stockholms Stadsteater, la Folkoperan, il Teatro Moderno di Danza (Moderna dansteatern), il Teatro Cinese (China Teatern), lo Göta Lejon, il Teatro Södra, e l'Oscarsteatern...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.071053,
+                    59.327411
+                ]
+            },
+            "properties": {
+                "entity": "Museo Tre Kronor",
+                "name_location": "Tre Kronor, Slottskajen, Gamla stan, Södermalms stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 111 29, Svezia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Dedicati ai patrimoni della famiglia reale, vi sono il Museo Tre Kronor presso le fondamenta del palazzo reale, lo Skattkammaren ossia la tesoreria Reale, il Gustav III antikmuseum con i tesori dell'antico monarca, il Livrustkammaren, ossia l'Armeria Reale, e il Kungliga Myntkabinettet la Zecca Reale con le sue monete...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.072062,
+                    59.326337
+                ]
+            },
+            "properties": {
+                "entity": "Skattkammaren",
+                "name_location": "Skattkammaren, Slottsbacken, Gamla stan, Södermalms stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 111 31, Svezia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Dedicati ai patrimoni della famiglia reale, vi sono il Museo Tre Kronor presso le fondamenta del palazzo reale, lo Skattkammaren ossia la tesoreria Reale, il Gustav III antikmuseum con i tesori dell'antico monarca, il Livrustkammaren, ossia l'Armeria Reale, e il Kungliga Myntkabinettet la Zecca Reale con le sue monete...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.073078,
+                    59.326615
+                ]
+            },
+            "properties": {
+                "entity": "Livrustkammaren",
+                "name_location": "Livrustkammaren, Slottsbacken, Gamla stan, Södermalms stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 111 31, Svezia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Dedicati ai patrimoni della famiglia reale, vi sono il Museo Tre Kronor presso le fondamenta del palazzo reale, lo Skattkammaren ossia la tesoreria Reale, il Gustav III antikmuseum con i tesori dell'antico monarca, il Livrustkammaren, ossia l'Armeria Reale, e il Kungliga Myntkabinettet la Zecca Reale con le sue monete...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.089094,
+                    59.32947
+                ]
+            },
+            "properties": {
+                "entity": "Junibacken",
+                "name_location": "Junibacken, Djurgårdsstrand, Djurgårdsstaden, Djurgården, Östermalms stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 115 21, Svezia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Lo Junibacken, il Museo di Pippi Calzelunghe...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.080258,
+                    59.334761
+                ]
+            },
+            "properties": {
+                "entity": "Armémuseum",
+                "name_location": "Armémuseum, Storgatan, Östermalm, Östermalms stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 114 51, Svezia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Armémuseum, Museo militare...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.10221,
+                    59.324623
+                ]
+            },
+            "properties": {
+                "entity": "Djurgården",
+                "name_location": "Djurgårdspaviljongen, Sollidsbacken, Djurgårdsstaden, Djurgården, Östermalms stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 115 21, Svezia",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...Skansen, il primo Museo all'aperto al mondo situato a Djurgården....",
+                    "*...A Stoccolma sono presenti diverse polisportive, tra le quali figurano l'AIK e il Djurgården, entrambi fondati nel 1891, e l'Hammarby (dal nome di un quartiere cittadino), fondato nel 1897....",
+                    "...Djurgården: istituita nel 1899, la sezione calcistica ha vinto 12 campionati e 5 coppe di Svezia. I suoi colori sociali sono il blu scuro e il blu chiaro. È considerata la squadra più popolare nella parte nord-est della città....",
+                    "*...Il Djurgården detiene il maggior numero di campionati nazionali vinti, 16. Milita nella SHL, il massimo campionato nazionale....",
+                    "*...Tre titoli per l'AIK, due per il Djurgården, due per l'Hammarby, uno per l'IK Göta...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.058252,
+                    59.318468
+                ]
+            },
+            "properties": {
+                "entity": "Folkoperan",
+                "name_location": "Folkoperan, Hornsgatan, Zinkensdamm, Södermalm, Södermalms stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 118 49, Svezia",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...Altri importanti teatri sono il Teatro Bollhuset (Stora Bollhuset), lo Stockholms Stadsteater, la Folkoperan, il Teatro Moderno di Danza (Moderna dansteatern), il Teatro Cinese (China Teatern), lo Göta Lejon, il Teatro Södra, e l'Oscarsteatern...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.073333,
+                    59.332513
+                ]
+            },
+            "properties": {
+                "entity": "China Teatern",
+                "name_location": "China Teatern, Näckströmsgatan, Klara, Norrmalm, Norrmalms stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 111 47, Svezia",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...Altri importanti teatri sono il Teatro Bollhuset (Stora Bollhuset), lo Stockholms Stadsteater, la Folkoperan, il Teatro Moderno di Danza (Moderna dansteatern), il Teatro Cinese (China Teatern), lo Göta Lejon, il Teatro Södra, e l'Oscarsteatern...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.073847,
+                    59.313916
+                ]
+            },
+            "properties": {
+                "entity": "Göta Lejon",
+                "name_location": "Göta Lejon, Götgatan, Skanstull, Södermalm, Södermalms stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 116 62, Svezia",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...Altri importanti teatri sono il Teatro Bollhuset (Stora Bollhuset), lo Stockholms Stadsteater, la Folkoperan, il Teatro Moderno di Danza (Moderna dansteatern), il Teatro Cinese (China Teatern), lo Göta Lejon, il Teatro Södra, e l'Oscarsteatern...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.118193,
+                    59.290168
+                ]
+            },
+            "properties": {
+                "entity": "Söderort",
+                "name_location": "Fotvård i Söderort, Halmstadsvägen, Björkhagen, Skarpnäcks stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 121 53, Svezia",
+                "class": "healthcare",
+                "type": "podiatrist",
+                "snippet": [
+                    "*...Stoccolma Centro Città (Innerstaden), Stoccolma Sud (Söderort) e Stoccolma Ovest (Västerort), che sono a loro volta suddivise in zone più piccole...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.905307,
+                    59.379492
+                ]
+            },
+            "properties": {
+                "entity": "Västerort",
+                "name_location": "Västerort Djursjukhus, 174, Bromstensvägen, Solhöjden, Sundby, Spånga-Tensta stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 163 55, Svezia",
+                "class": "amenity",
+                "type": "veterinary",
+                "snippet": [
+                    "*...Stoccolma Centro Città (Innerstaden), Stoccolma Sud (Söderort) e Stoccolma Ovest (Västerort), che sono a loro volta suddivise in zone più piccole...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.943626,
+                    59.402226
+                ]
+            },
+            "properties": {
+                "entity": "Kista",
+                "name_location": "Kista, 55F, Hanstavägen, Kista, Rinkeby-Kista stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 164 53, Svezia",
+                "class": "railway",
+                "type": "subway_entrance",
+                "snippet": [
+                    "*...Nel nord della città, a Kista, si trova un importante centro di Information Technology...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.104615,
+                    59.358352
+                ]
+            },
+            "properties": {
+                "entity": "Lidingöbanan",
+                "name_location": "Lidingöbanan, Ropstensslingan, Gasverket, Hjorthagen, Östermalms stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 100 54, Svezia",
+                "class": "railway",
+                "type": "light_rail",
+                "snippet": [
+                    "*...Tre linee della metropolitana di Stoccolma (Tunnelbana), tre linee della ferrovia suburbana (Pendeltåg), tre linee di metrotranvia (Lidingöbanan, Tvärbanan e Nockebybanan), due ferrovie locali (Roslagsbanan a scartamento ridotto e Saltsjöbanan), nonché una vasta rete di linee di autobus...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.981702,
+                    59.333446
+                ]
+            },
+            "properties": {
+                "entity": "Nockebybanan",
+                "name_location": "Nockebybanan, Drottningholmsvägen, Traneberg, Bromma stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 167 40, Svezia",
+                "class": "railway",
+                "type": "tram",
+                "snippet": [
+                    "*...Tre linee della metropolitana di Stoccolma (Tunnelbana), tre linee della ferrovia suburbana (Pendeltåg), tre linee di metrotranvia (Lidingöbanan, Tvärbanan e Nockebybanan), due ferrovie locali (Roslagsbanan a scartamento ridotto e Saltsjöbanan), nonché una vasta rete di linee di autobus...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.067449,
+                    59.34835
+                ]
+            },
+            "properties": {
+                "entity": "Roslagsbanan",
+                "name_location": "Roslagsbanan, Malvinas väg, Ruddammen, Norra Djurgården, Östermalms stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 100 44, Svezia",
+                "class": "railway",
+                "type": "narrow_gauge",
+                "snippet": [
+                    "*...Tre linee della metropolitana di Stoccolma (Tunnelbana), tre linee della ferrovia suburbana (Pendeltåg), tre linee di metrotranvia (Lidingöbanan, Tvärbanan e Nockebybanan), due ferrovie locali (Roslagsbanan a scartamento ridotto e Saltsjöbanan), nonché una vasta rete di linee di autobus...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.056156,
+                    59.332007
+                ]
+            },
+            "properties": {
+                "entity": "Arlanda Express",
+                "name_location": "Arlanda Express, Östra Järnvägsgatan, Klara, Norrmalm, Norrmalms stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 107 24, Svezia",
+                "class": "shop",
+                "type": "ticket",
+                "snippet": [
+                    "*...Esiste inoltre l'Arlanda Express, linea ferroviaria diretta che collega la stazione ferroviaria centrale all'Aeroporto di Stoccolma-Arlanda....",
+                    "*...Inoltre esiste un collegamento ferroviario diretto fra l'Aeroporto di Arlanda e la Stazione Centrale di Stoccolma, tramite il treno veloce Arlanda Express oppure il servizio ferroviario suburbano di Stoccolma...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.074804,
+                    59.329445
+                ]
+            },
+            "properties": {
+                "entity": "Waxholmsbolaget",
+                "name_location": "Waxholmsbolaget, Strömkajen, Norrmalm, Norrmalms stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 103 27, Svezia",
+                "class": "shop",
+                "type": "ticket",
+                "snippet": [
+                    "...Il trasporto via acqua, per collegare le varie isole dell'arcipelago, è invece gestito dalla Waxholmsbolaget...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.002303,
+                    59.289735
+                ]
+            },
+            "properties": {
+                "entity": "E4",
+                "name_location": "E4-baren, 156, Kristallvägen, Liseberg, Västberga, Hägersten-Älvsjö stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 126 79, Svezia",
+                "class": "amenity",
+                "type": "fast_food",
+                "snippet": [
+                    "*...A Stoccolma si congiungono le Strade europee E4, E18 ed E20...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.099249,
+                    59.337839
+                ]
+            },
+            "properties": {
+                "entity": "Riga",
+                "name_location": "Rigagatan, Östermalm, Östermalms stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 115 27, Svezia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Stoccolma è regolarmente collegata con Helsinki e Turku (in Finlandia), con Tallinn (Estonia) e Riga (Lettonia) grazie a numerose linee di traghetti...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.014413,
+                    59.326479
+                ]
+            },
+            "properties": {
+                "entity": "Russia",
+                "name_location": "Skolan vid Rysslands ambassad i Sverige, 31, Gjörwellsgatan, Marieberg, Kungsholmens stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 100 26, Svezia",
+                "class": "amenity",
+                "type": "school",
+                "snippet": [
+                    "*...Fino al 1998 era presente anche un collegamento diretto con San Pietroburgo, in Russia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.058265,
+                    59.33015
+                ]
+            },
+            "properties": {
+                "entity": "Stockholms centralstation",
+                "name_location": "Stockholms centralstation, Klarabergsviadukten, Klara, Norrmalm, Norrmalms stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 111 81, Svezia",
+                "class": "building",
+                "type": "train_station",
+                "snippet": [
+                    "*...La stazione centrale di Stoccolma (Stockholms centralstation) è il principale scalo ferroviario dalla Svezia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.927148,
+                    59.409067
+                ]
+            },
+            "properties": {
+                "entity": "Oslo",
+                "name_location": "Oslogatan, Husby, Rinkeby-Kista stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 164 34, Svezia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Essa è collegata, fra l'altro, con Oslo, in Norvegia, e Copenaghen, in Danimarca....",
+                    "...Oslo ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.084543,
+                    59.291033
+                ]
+            },
+            "properties": {
+                "entity": "Tele2 Arena",
+                "name_location": "Tele2 Arena, Arenaslingan, Johanneshov, Enskede-Årsta-Vantörs stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 121 77, Svezia",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...In città sono presenti importanti strutture sportive polifunzionali, come la Friends Arena, la Tele2 Arena e il Globen...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.078018,
+                    59.294395
+                ]
+            },
+            "properties": {
+                "entity": "Globen",
+                "name_location": "Globen, Globenbron, Johanneshov, Enskede-Årsta-Vantörs stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 121 44, Svezia",
+                "class": "building",
+                "type": "transportation",
+                "snippet": [
+                    "*...In città sono presenti importanti strutture sportive polifunzionali, come la Friends Arena, la Tele2 Arena e il Globen...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.060207,
+                    59.317576
+                ]
+            },
+            "properties": {
+                "entity": "Södermalm",
+                "name_location": "Kryp in Södermalm, Timmermansgatan, Södermalm, Södermalms stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 118 51, Svezia",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...Hammarby: istituita nel 1915, la sezione calcistica ha vinto il suo unico campionato nel 2001. I suoi colori sociali sono il bianco e il verde. È considerata la squadra più popolare nell'isola di Södermalm e in altre parti a sud della città...."
+                ]
+            }
+        }
+    ]
+}

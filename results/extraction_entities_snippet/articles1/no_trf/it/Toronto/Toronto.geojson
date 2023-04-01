@@ -1,0 +1,815 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.379098,
+                    43.652683
+                ]
+            },
+            "properties": {
+                "entity": "Montréal",
+                "name_location": "BMO, 2, Queen Street East, Garden District, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5C 3G7, Canada",
+                "class": "amenity",
+                "type": "bank",
+                "snippet": [
+                    "*...Toronto, motore economico del Canada, è assieme a Montréal la città del Paese nordamericano più conosciuta nel mondo, seguita da Ottawa....",
+                    "*...Toronto fu per ben due volte, ma per brevi periodi, la capitale della Provincia del Canada, nel 1849-1852 a seguito di disordini a Montréal, e successivamente nel 1856-1858....",
+                    "*...Nonostante la sua veloce crescita negli anni venti, Toronto in termini di popolazione e importanza economica rimase seconda nel Canada dopo Montréal....",
+                    "*...Negli anni ottanta Toronto aveva superato Montréal come popolazione e come centro economico...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.37066,
+                    43.669585
+                ]
+            },
+            "properties": {
+                "entity": "Ottawa",
+                "name_location": "The Ottawa, 650, Parliament Street, St. James Town, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4X 1G9, Canada",
+                "class": "building",
+                "type": "apartments",
+                "snippet": [
+                    "*...Toronto, motore economico del Canada, è assieme a Montréal la città del Paese nordamericano più conosciuta nel mondo, seguita da Ottawa....",
+                    "*...Toronto è situata nella regione dei Grandi Laghi, dove vivono circa un quarto dei canadesi, e rispetto alle dimensioni del Paese sicuramente non è distante dalla capitale canadese Ottawa che si trova orientata a Nord Est...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.396149,
+                    43.68756
+                ]
+            },
+            "properties": {
+                "entity": "Saint Clair",
+                "name_location": "47-49 Saint Clair Avenue West, Deer Park, Toronto—St. Paul's, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4V 1L3, Canada",
+                "class": "highway",
+                "type": "service",
+                "snippet": [
+                    "*...Il primo quartiere dove si insediarono gli italiani fu quello di College, successivamente si spostarono a Saint Clair denominata con il nome aggiuntivo di Corso Italia dal 1988...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.445021,
+                    43.676867
+                ]
+            },
+            "properties": {
+                "entity": "Corso Italia",
+                "name_location": "Corso Italia Garage, MacKay Avenue, Corso Italia, Davenport, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6E 1B5, Canada",
+                "class": "amenity",
+                "type": "parking",
+                "snippet": [
+                    "*...Il primo quartiere dove si insediarono gli italiani fu quello di College, successivamente si spostarono a Saint Clair denominata con il nome aggiuntivo di Corso Italia dal 1988....",
+                    "*...Nel campo delle costruzioni in particolare da Italia e Portogallo....",
+                    "...L'Art Gallery of Ontario (chiamata AGO) è una galleria d'arte recentemente ristrutturata e ampliata dall'architetto nato a Toronto Frank Gehry che raccoglie tra le numerosissime opere, la più vasta collezione di sculture di Henry Moore al mondo. Uno degli elementi più caratteristici del recente ampliamento è la grande Galleria Italia che si affaccia per tutta la sua lunghezza su Dundas Street e ospita collezioni di artisti italiani. Si possono apprezzare inoltre, sia all'interno che all'esterno dell'edificio, le due ardite scale elicoidali che salgono sospese nel vuoto per raggiungere i vari livelli della nuova torre espositiva rivestita di zinco-titanio blu...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.469845,
+                    43.669328
+                ]
+            },
+            "properties": {
+                "entity": "Old Toronto",
+                "name_location": "West Toronto St at Old Stock Yards Rd, West Toronto Street, The Junction, York South—Weston, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6N 3E2, Canada",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Toronto è suddivisa in 240 quartieri all'interno dei suoi confini, raggruppati in sei distretti (Old Toronto, East York, Etobicoke, Scarborough, North York e York, dove si trova anche il quartiere di Weston)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.347891,
+                    43.684884
+                ]
+            },
+            "properties": {
+                "entity": "East York",
+                "name_location": "East York Avenue, Pape Village, Toronto—Danforth, East York, Toronto, Golden Horseshoe, Ontario, M4K 3T8, Canada",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Toronto è suddivisa in 240 quartieri all'interno dei suoi confini, raggruppati in sei distretti (Old Toronto, East York, Etobicoke, Scarborough, North York e York, dove si trova anche il quartiere di Weston)....",
+                    "*...Nel 1967 le sette più piccole municipalità della regione furono raggruppate con le loro vicine più grandi e come risultato si ebbero sei municipalità che comprendevano la vecchia città di Toronto, East York, Etobicoke, North York, Scarborough e York....",
+                    "*...Nel 1793 il governatore John Graves Simcoe istituì la città di York e le assegnò il nome in onore del duca Federico Augusto di York e Albany....",
+                    "...Fort York fu costruito all'ingresso del porto naturale della città, protetto da una lunga penisola sabbiosa....",
+                    "...Nel 1813, durante la guerra anglo-americana, la battaglia di York si concluse con la caduta della città e il saccheggio da parte delle forze americane....",
+                    "...I soldati americani distrussero buona parte di Fort York e appiccarono il fuoco agli edifici del parlamento durante la loro occupazione durata cinque giorni....",
+                    "...York fu incorporata come città di Toronto il 6 marzo 1834, con il ritorno al suo originale nome nativo....",
+                    "...A Toronto ha sede la più grande Università canadese, l'Università di Toronto, oltre all'Università Metropolitana di Toronto e alla York University, e numerose tra le maggiori industrie e attività economiche del Canada, che fanno di tale città il maggiore polo economico del Canada....",
+                    "...È il terzo più grande quartiere dei teatri di lingua inglese al mondo, dopo il West End di Londra e Broadway a New York...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.558319,
+                    43.638024
+                ]
+            },
+            "properties": {
+                "entity": "Etobicoke",
+                "name_location": "Gibbs Road, Etobicoke, Gibbs Road, Bloordale Gardens, Etobicoke Centre, Etobicoke, Toronto, Golden Horseshoe, Ontario, M9B 3Z8, Canada",
+                "class": "amenity",
+                "type": "post_box",
+                "snippet": [
+                    "*...Toronto è suddivisa in 240 quartieri all'interno dei suoi confini, raggruppati in sei distretti (Old Toronto, East York, Etobicoke, Scarborough, North York e York, dove si trova anche il quartiere di Weston)....",
+                    "...I suoi confini sono delimitati dal lago stesso a sud, dalla Highway 427 e dall'Etobicoke Creek a ovest, dal Rouge River a est e dalla Steeles Avenue a nord....",
+                    "*...Nel 1967 le sette più piccole municipalità della regione furono raggruppate con le loro vicine più grandi e come risultato si ebbero sei municipalità che comprendevano la vecchia città di Toronto, East York, Etobicoke, North York, Scarborough e York...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.256123,
+                    43.715387
+                ]
+            },
+            "properties": {
+                "entity": "Scarborough",
+                "name_location": "Scarborough, Natal Avenue, Scarborough Junction, Scarborough Southwest, Scarborough, Toronto, Golden Horseshoe, Ontario, M1K 1G4, Canada",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Toronto è suddivisa in 240 quartieri all'interno dei suoi confini, raggruppati in sei distretti (Old Toronto, East York, Etobicoke, Scarborough, North York e York, dove si trova anche il quartiere di Weston)....",
+                    "*...Nel 1967 le sette più piccole municipalità della regione furono raggruppate con le loro vicine più grandi e come risultato si ebbero sei municipalità che comprendevano la vecchia città di Toronto, East York, Etobicoke, North York, Scarborough e York...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.378743,
+                    43.768262
+                ]
+            },
+            "properties": {
+                "entity": "North York",
+                "name_location": "North York (Chinese) Baptist Church, Sheppard Avenue East, Concord Park Place, Don Valley North, North York, Toronto, Golden Horseshoe, Ontario, M2K 1C3, Canada",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Toronto è suddivisa in 240 quartieri all'interno dei suoi confini, raggruppati in sei distretti (Old Toronto, East York, Etobicoke, Scarborough, North York e York, dove si trova anche il quartiere di Weston)....",
+                    "*...Nel 1967 le sette più piccole municipalità della regione furono raggruppate con le loro vicine più grandi e come risultato si ebbero sei municipalità che comprendevano la vecchia città di Toronto, East York, Etobicoke, North York, Scarborough e York...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.509828,
+                    43.698557
+                ]
+            },
+            "properties": {
+                "entity": "Weston",
+                "name_location": "Weston, Weston Road, Weston, York South—Weston, York, Toronto, Golden Horseshoe, Ontario, M9N 3B3, Canada",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Toronto è suddivisa in 240 quartieri all'interno dei suoi confini, raggruppati in sei distretti (Old Toronto, East York, Etobicoke, Scarborough, North York e York, dove si trova anche il quartiere di Weston)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.387426,
+                    43.654438
+                ]
+            },
+            "properties": {
+                "entity": "Downtown Toronto",
+                "name_location": "EDKENT® Media SEO Toronto Downtown, 439, University Avenue, Queen West, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5G 1Y8, Canada",
+                "class": "office",
+                "type": "Internet marketing service",
+                "snippet": [
+                    "*...Nella parte centrale di Toronto (Downtown Toronto) c'è una città sotterranea, chiamata PATH (in inglese:...",
+                    "*...Theatre District, (Quartiere dei Teatri di Toronto) è una parte del Toronto Entertainment District in Downtown Toronto, che contiene la più grande concentrazione di teatri con palcoscenico del Canada...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.574262,
+                    43.669984
+                ]
+            },
+            "properties": {
+                "entity": "Highway 427",
+                "name_location": "Highway 427, West Deane Park, Etobicoke Centre, Etobicoke, Toronto, Golden Horseshoe, Ontario, M9C 4R3, Canada",
+                "class": "highway",
+                "type": "motorway",
+                "snippet": [
+                    "*...I suoi confini sono delimitati dal lago stesso a sud, dalla Highway 427 e dall'Etobicoke Creek a ovest, dal Rouge River a est e dalla Steeles Avenue a nord...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.187085,
+                    43.804979
+                ]
+            },
+            "properties": {
+                "entity": "Rouge River",
+                "name_location": "Sheppard Ave at Rouge River Dr, Sheppard Avenue East, Scarborough—Rouge Park, Scarborough, Toronto, Golden Horseshoe, Ontario, M1B 5S1, Canada",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...I suoi confini sono delimitati dal lago stesso a sud, dalla Highway 427 e dall'Etobicoke Creek a ovest, dal Rouge River a est e dalla Steeles Avenue a nord...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.419952,
+                    43.798
+                ]
+            },
+            "properties": {
+                "entity": "Steeles Avenue",
+                "name_location": "Steeles Avenue, Newtonbrook, Willowdale, North York, Toronto, Golden Horseshoe, Ontario, L3T 2A5, Canada",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...I suoi confini sono delimitati dal lago stesso a sud, dalla Highway 427 e dall'Etobicoke Creek a ovest, dal Rouge River a est e dalla Steeles Avenue a nord...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.371752,
+                    43.668096
+                ]
+            },
+            "properties": {
+                "entity": "Vancouver",
+                "name_location": "The Vancouver, 240, Wellesley Street East, St. James Town, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4X 1P8, Canada",
+                "class": "building",
+                "type": "apartments",
+                "snippet": [
+                    "*...Il clima di Toronto, data la fortissima continentalità tipica dell'America del Nord, è caratterizzato da inverni quasi rigidi anche se più miti del resto del Canada (esclusa Vancouver, situata ben più a Nord di Toronto ma all'estremità occidentale del Paese, sulla costa pacifica)....",
+                    "...Insieme ai Raptors vennero istituiti anche i Vancouver Grizzlies ma lo scarso interesse del pubblico e i fondi ristretti convinsero la società a trasferirsi a Memphis nel Tennessee...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.423127,
+                    43.635164
+                ]
+            },
+            "properties": {
+                "entity": "Fort Rouillé",
+                "name_location": "Fort Rouillé, Fraser Avenue, Little Tibet, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6K 1Y7, Canada",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...I commercianti francesi fondarono Fort Rouillé nel 1750 dove ora è posta l'Exhibition Place, ma l'abbandonarono nel 1759...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.415229,
+                    43.636372
+                ]
+            },
+            "properties": {
+                "entity": "Exhibition Place",
+                "name_location": "Exhibition Loop, Manitoba Drive, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6K 1W8, Canada",
+                "class": "railway",
+                "type": "platform",
+                "snippet": [
+                    "*...I commercianti francesi fondarono Fort Rouillé nel 1750 dove ora è posta l'Exhibition Place, ma l'abbandonarono nel 1759...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.410236,
+                    43.666039
+                ]
+            },
+            "properties": {
+                "entity": "Albany",
+                "name_location": "Albany Avenue, Mirvish Village, University—Rosedale, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5S 1X8, Canada",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Nel 1793 il governatore John Graves Simcoe istituì la città di York e le assegnò il nome in onore del duca Federico Augusto di York e Albany...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.399435,
+                    43.655695
+                ]
+            },
+            "properties": {
+                "entity": "Newark",
+                "name_location": "Newark International Ltd., Nassau Street, Kensington Market, University—Rosedale, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5T 2M2, Canada",
+                "class": "office",
+                "type": "company",
+                "snippet": [
+                    "*...Simcoe scelse la città sostituendo la precedente capitale dell'Alto Canada che era posta a Newark, credendo in tal modo che il nuovo sito fosse meno vulnerabile agli attacchi da parte degli statunitensi...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.403445,
+                    43.638992
+                ]
+            },
+            "properties": {
+                "entity": "Fort York",
+                "name_location": "Fort York, 250, Fort York Boulevard, Fort York, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5V 0C8, Canada",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Fort York fu costruito all'ingresso del porto naturale della città, protetto da una lunga penisola sabbiosa....",
+                    "*...I soldati americani distrussero buona parte di Fort York e appiccarono il fuoco agli edifici del parlamento durante la loro occupazione durata cinque giorni...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.414323,
+                    43.639273
+                ]
+            },
+            "properties": {
+                "entity": "Europa",
+                "name_location": "Ciao Europa, 80, Western Battery Road, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6K 3R9, Canada",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...La città ricevette un nuovo flusso di immigrazione sul finire del XIX secolo e l'inizio del XX, in particolare tedeschi, italiani e ebrei provenienti da varie parti dell'Europa occidentale....",
+                    "*...Furono presto seguiti da cinesi, russi, polacchi e immigrati di altre nazioni dell'Europa orientale....",
+                    "*...In seguito alla seconda guerra mondiale si assistette a un nuovo flusso migratorio proveniente da Europa e Cina....",
+                    "*...Il Royal Ontario Museum (chiamato ROM) è un Museo recentemente ampliato dall'architetto Daniel Libeskind composto da due sezioni principali: quelle di Storia Naturale e quella delle Culture del Mondo, dove sono conservate collezioni provenienti dall'Africa, dall'Asia e dall'Europa. L'opera di ampliamento consiste prevalentemente nell'aggiunta del nuovo padiglione chiamato \"Michael Lee-Chin Crystal\" oltre alla ristrutturazione degli ambienti preesistenti...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.382823,
+                    43.65347
+                ]
+            },
+            "properties": {
+                "entity": "Bay Street",
+                "name_location": "Bay Street, Little Tokyo, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5H 2N2, Canada",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Come gli irlandesi prima di loro, molti furono costretti a vivere in abitazioni modeste sovraffollate, nel \"the Ward\", posto vicino a Bay Street, ora il cuore finanziario del Paese...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.387748,
+                    43.642701
+                ]
+            },
+            "properties": {
+                "entity": "CN Tower",
+                "name_location": "CN Tower, Convention centre loading dock, Entertainment District, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5V 3B5, Canada",
+                "class": "shop",
+                "type": "ticket",
+                "snippet": [
+                    "*...Una delle principali attrazioni turistiche di Toronto è senza dubbio la Canadian National Tower o CN Tower che, con i suoi , è stata la torre più alta del mondo per ben 31 anni, fino al settembre 2007, quando è stata sorpassata dal grattacielo Burj Khalifa (poi completato nel gennaio 2010)....",
+                    "*...La CN Tower fu costruita tra il 1973 e il 1976 per ordine della più importante compagnia televisiva canadese, la CBC, che necessitava di una nuova torre per le trasmissioni....",
+                    "*...Per questo motivo è nota al mondo con il nome di CN Tower....",
+                    "*...Esso è posto non lontano dalle sponde del lago Ontario, ai piedi della mastodontica CN Tower....",
+                    "*...La compagnia trovò uno sponsor per la costruzione nella società statale che gestiva, e gestisce tuttora, la rete ferroviaria, cioè la CN che possedeva i terreni dove oggi sorge la torre;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.389198,
+                    43.64166
+                ]
+            },
+            "properties": {
+                "entity": "Rogers Centre",
+                "name_location": "Rogers Centre, 1, Blue Jays Way, Entertainment District, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5V 1J1, Canada",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...Un'altra attrazione di Toronto è l'avveniristico stadio originariamente chiamato Sky Dome per la sua copertura apribile e ribattezzato Rogers Centre in seguito all'acquisto dello stesso da parte della Rogers Communications, già proprietaria dei Blue Jays, la squadra di baseball della città....",
+                    "*...Il Rogers Centre ha ospitato diversi eventi internazionali fra i quali lo show di punta della World Wrestling Federation/Entertainment, e precisamente la WrestleMania 6 il 1º aprile del 1990 e la diciottesima edizione il 17 marzo 2002 stabilendo in questa occasione il record di spettatori paganti, pari a 68 237 persone, ma anche partite di calcio come Italia-Serbia e Montenegro del giugno 2005...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.383842,
+                    43.652708
+                ]
+            },
+            "properties": {
+                "entity": "Nathan Phillips Square",
+                "name_location": "Nathan Phillips Square, Albert Street, Little Tokyo, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5B 2H6, Canada",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Toronto City Hall, il municipio della città di Toronto fu aperto nel 1965. Il complesso, che occupa un'area di cinque ettari, compresa la Nathan Phillips Square (la grande piazza), fu progettato dall'architetto finlandese Viljo Revell. Il complesso è composto dalle due torri degli uffici, di diversa altezza e a pianta a forma di \"C\", e dalla sala consiliare a pianta circolare con la copertura a cupola ribassata che le conferisce la forma di un'ostrica...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.394699,
+                    43.667656
+                ]
+            },
+            "properties": {
+                "entity": "Royal Ontario Museum",
+                "name_location": "Royal Ontario Museum, 100, Queen's Park, Bloor Street Culture Corridor, University—Rosedale, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5S 2C6, Canada",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Il Royal Ontario Museum (chiamato ROM) è un Museo recentemente ampliato dall'architetto Daniel Libeskind composto da due sezioni principali: quelle di Storia Naturale e quella delle Culture del Mondo, dove sono conservate collezioni provenienti dall'Africa, dall'Asia e dall'Europa. L'opera di ampliamento consiste prevalentemente nell'aggiunta del nuovo padiglione chiamato \"Michael Lee-Chin Crystal\" oltre alla ristrutturazione degli ambienti preesistenti...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.444018,
+                    43.658218
+                ]
+            },
+            "properties": {
+                "entity": "Africa",
+                "name_location": "Africa, 1346, Bloor Street West, Brockton Village, Davenport, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6H 3Y9, Canada",
+                "class": "shop",
+                "type": "clothes",
+                "snippet": [
+                    "*...Il Royal Ontario Museum (chiamato ROM) è un Museo recentemente ampliato dall'architetto Daniel Libeskind composto da due sezioni principali: quelle di Storia Naturale e quella delle Culture del Mondo, dove sono conservate collezioni provenienti dall'Africa, dall'Asia e dall'Europa. L'opera di ampliamento consiste prevalentemente nell'aggiunta del nuovo padiglione chiamato \"Michael Lee-Chin Crystal\" oltre alla ristrutturazione degli ambienti preesistenti...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.387251,
+                    43.653347
+                ]
+            },
+            "properties": {
+                "entity": "Asia",
+                "name_location": "Asia Pacific Foundation of Canada, 375, University Avenue, Queen West, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5G 2J5, Canada",
+                "class": "office",
+                "type": "foundation",
+                "snippet": [
+                    "*...Il Royal Ontario Museum (chiamato ROM) è un Museo recentemente ampliato dall'architetto Daniel Libeskind composto da due sezioni principali: quelle di Storia Naturale e quella delle Culture del Mondo, dove sono conservate collezioni provenienti dall'Africa, dall'Asia e dall'Europa. L'opera di ampliamento consiste prevalentemente nell'aggiunta del nuovo padiglione chiamato \"Michael Lee-Chin Crystal\" oltre alla ristrutturazione degli ambienti preesistenti....",
+                    "*...Omni Television appartiene al gruppo \"Rogers Communications\" e iniziò a trasmettere nel 1979. Trasmette in italiano, portoghese, cantonese, cinese, inglese (per l'edizione del Sud dell'Asia), punjabi, coreano, tagalog...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.39278,
+                    43.653613
+                ]
+            },
+            "properties": {
+                "entity": "Art Gallery of Ontario",
+                "name_location": "Art Gallery of Ontario, 317, Dundas Street West, Discovery District, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5T 1G4, Canada",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...L'Art Gallery of Ontario (chiamata AGO) è una galleria d'arte recentemente ristrutturata e ampliata dall'architetto nato a Toronto Frank Gehry che raccoglie tra le numerosissime opere, la più vasta collezione di sculture di Henry Moore al mondo. Uno degli elementi più caratteristici del recente ampliamento è la grande Galleria Italia che si affaccia per tutta la sua lunghezza su Dundas Street e ospita collezioni di artisti italiani. Si possono apprezzare inoltre, sia all'interno che all'esterno dell'edificio, le due ardite scale elicoidali che salgono sospese nel vuoto per raggiungere i vari livelli della nuova torre espositiva rivestita di zinco-titanio blu...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.380768,
+                    43.656221
+                ]
+            },
+            "properties": {
+                "entity": "Dundas Street",
+                "name_location": "Dundas Street, Yonge Street, Downtown Yonge, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5B 0A1, Canada",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...L'Art Gallery of Ontario (chiamata AGO) è una galleria d'arte recentemente ristrutturata e ampliata dall'architetto nato a Toronto Frank Gehry che raccoglie tra le numerosissime opere, la più vasta collezione di sculture di Henry Moore al mondo. Uno degli elementi più caratteristici del recente ampliamento è la grande Galleria Italia che si affaccia per tutta la sua lunghezza su Dundas Street e ospita collezioni di artisti italiani. Si possono apprezzare inoltre, sia all'interno che all'esterno dell'edificio, le due ardite scale elicoidali che salgono sospese nel vuoto per raggiungere i vari livelli della nuova torre espositiva rivestita di zinco-titanio blu...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.383286,
+                    43.745674
+                ]
+            },
+            "properties": {
+                "entity": "Armenian Church",
+                "name_location": "Armenian Emmanuel Church of the Nazarene, 2537, Bayview Avenue, St. Andrew, Don Valley West, North York, Toronto, Golden Horseshoe, Ontario, M2L 0A3, Canada",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Saint Mary Armenian Church (1983) - Chiesa armena di Santa Maria ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.370718,
+                    43.64949
+                ]
+            },
+            "properties": {
+                "entity": "Times Square",
+                "name_location": "New Times Square, 109, Front Street East, St. Lawrence, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5A 4S5, Canada",
+                "class": "place",
+                "type": "house",
+                "snippet": [
+                    "*...Yonge Dundas Square, piazza costruita nel 1998, considerata la Times Square della città...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.399955,
+                    43.713405
+                ]
+            },
+            "properties": {
+                "entity": "Miami",
+                "name_location": "Miami Fades, Yonge Street, Yonge & Eglinton, Don Valley West, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4P 2H7, Canada",
+                "class": "shop",
+                "type": "hairdresser",
+                "snippet": [
+                    "*...Secondo il censimento del 2016 Toronto conta 2 731 571 abitanti, diventando la città più popolosa del Canada e la quinta di tutto il Nord America, inoltre, da uno studio fatto dal Programma delle Nazioni Unite per lo sviluppo, risulta essere la seconda città al mondo per numero di residenti nati all'estero, dopo Miami in Florida...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.541445,
+                    43.734557
+                ]
+            },
+            "properties": {
+                "entity": "Florida",
+                "name_location": "Florida Crescent, Humber River—Black Creek, North York, Toronto, Golden Horseshoe, Ontario, M9M 1S3, Canada",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Secondo il censimento del 2016 Toronto conta 2 731 571 abitanti, diventando la città più popolosa del Canada e la quinta di tutto il Nord America, inoltre, da uno studio fatto dal Programma delle Nazioni Unite per lo sviluppo, risulta essere la seconda città al mondo per numero di residenti nati all'estero, dopo Miami in Florida...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.321463,
+                    43.672517
+                ]
+            },
+            "properties": {
+                "entity": "punjabi",
+                "name_location": "Punjabi Chaat Palace, Gerrard Street East, Gerrard India Bazaar, Toronto—Danforth, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4L 1Y9, Canada",
+                "class": "amenity",
+                "type": "cafe",
+                "snippet": [
+                    "*...Omni Television appartiene al gruppo \"Rogers Communications\" e iniziò a trasmettere nel 1979. Trasmette in italiano, portoghese, cantonese, cinese, inglese (per l'edizione del Sud dell'Asia), punjabi, coreano, tagalog....",
+                    "...CHIN trasmette dalla rete CITY-TV per dieci ore alla settimana, le mattine del sabato e della domenica. La CHIN produce programmi televisivi in portoghese, lingue caraibiche, pakistano, hindi, polacco, persiano, russo, punjabi, cinese e italiano. La CHIN ha iniziato a trasmettere nel 1967, originariamente su \"CIII-TV\", successivamente su \"CKVR-TV\"...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.379079,
+                    43.655974
+                ]
+            },
+            "properties": {
+                "entity": "CITY-TV",
+                "name_location": "City TV/OMNI TV, Victoria Street, Downtown Yonge, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5B 1T8, Canada",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...CHIN trasmette dalla rete CITY-TV per dieci ore alla settimana, le mattine del sabato e della domenica. La CHIN produce programmi televisivi in portoghese, lingue caraibiche, pakistano, hindi, polacco, persiano, russo, punjabi, cinese e italiano. La CHIN ha iniziato a trasmettere nel 1967, originariamente su \"CIII-TV\", successivamente su \"CKVR-TV\"...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.419423,
+                    43.662625
+                ]
+            },
+            "properties": {
+                "entity": "West End",
+                "name_location": "West End Alternative School, 777, Bloor Street West, Koreatown, University—Rosedale, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6G 1L6, Canada",
+                "class": "amenity",
+                "type": "school",
+                "snippet": [
+                    "*...È il terzo più grande quartiere dei teatri di lingua inglese al mondo, dopo il West End di Londra e Broadway a New York...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.396396,
+                    43.710094
+                ]
+            },
+            "properties": {
+                "entity": "Broadway",
+                "name_location": "Broadway Avenue, Yonge & Eglinton, Toronto—St. Paul's, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4P 1T4, Canada",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...È il terzo più grande quartiere dei teatri di lingua inglese al mondo, dopo il West End di Londra e Broadway a New York...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.381689,
+                    43.655638
+                ]
+            },
+            "properties": {
+                "entity": "New York",
+                "name_location": "New York Fries, 260, Yonge Street, Downtown Yonge, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5B 2L9, Canada",
+                "class": "amenity",
+                "type": "fast_food",
+                "snippet": [
+                    "*...È il terzo più grande quartiere dei teatri di lingua inglese al mondo, dopo il West End di Londra e Broadway a New York...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.389007,
+                    43.674654
+                ]
+            },
+            "properties": {
+                "entity": "Memphis",
+                "name_location": "Memphis Condominium, 942, Yonge Street, Yorkville, University—Rosedale, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4Y 2H2, Canada",
+                "class": "place",
+                "type": "house",
+                "snippet": [
+                    "*...Insieme ai Raptors vennero istituiti anche i Vancouver Grizzlies ma lo scarso interesse del pubblico e i fondi ristretti convinsero la società a trasferirsi a Memphis nel Tennessee...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.423209,
+                    43.638993
+                ]
+            },
+            "properties": {
+                "entity": "Lamport Stadium",
+                "name_location": "Allan Lamport Stadium, 1151, King Street West, Little Tibet, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6K 0C7, Canada",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...Giocano le loro partite al Lamport Stadium...."
+                ]
+            }
+        }
+    ]
+}

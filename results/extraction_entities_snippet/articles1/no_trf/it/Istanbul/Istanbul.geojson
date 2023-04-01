@@ -1,0 +1,2972 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.699738,
+                    40.998991
+                ]
+            },
+            "properties": {
+                "entity": "Londra",
+                "name_location": "Londra Asfaltı, Mustafa Kemalpaşa Mahallesi, Avcılar, İstanbul, Marmara Bölgesi, 34310, Turchia",
+                "class": "highway",
+                "type": "trunk",
+                "snippet": [
+                    "*...Con una popolazione di oltre 15 000 000 di abitanti, Istanbul (considerando però anche i quartieri asiatici) è il centro municipale più popoloso d'Europa (settimo nel mondo) davanti a Mosca e Londra....",
+                    "...Inaugurata il 17 gennaio 1875, il Tünel è la seconda più antica linea ferroviaria sotterranea urbana nel mondo dopo la metropolitana di Londra (1863) e la prima linea ferroviaria sotterranea urbana in Europa continentale, anche se la prima linea della metropolitana completa con più stazioni dell'Europa continentale è stata la linea 1 della metropolitana di Budapest (1896)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.968122,
+                    41.008419
+                ]
+            },
+            "properties": {
+                "entity": "Anatolia",
+                "name_location": "Anatolia Restaurant, Divan-ı Ali Sokağı, Mimar Hayrettin Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34126, Turchia",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...La città, divisa dal Bosforo, si estende sia in Europa (Tracia) sia in Asia (Anatolia), risultando l'unica metropoli al mondo appartenente a due continenti....",
+                    "*...La città si trova ai margini della faglia sismica dell'Anatolia settentrionale, che corre nel Mar di Marmara....",
+                    "*...Dagli anni settanta, la popolazione di Istanbul sta subendo una rapida crescita in seguito alla forte immigrazione dall'Anatolia....",
+                    "*...I migranti, in prevalenza dall'Anatolia orientale, arrivano a Istanbul con aspettative di miglioramento della qualità della vita e di occupazione....",
+                    "*...Numerose comunità musulmane dall'Anatolia interna e dalla regione del Ponto vennero ad abitare a Costantinopoli....",
+                    "*...La vita dei cristiani, soprattutto quella dei greci e degli armeni, peggiorò in maniera molto significativa con l'andata al potere nell'impero ottomano del \"Comitato di unione e progresso\", il partito dei \"Giovani Turchi\", di indirizzo nazionalista, che ordinò le prime stragi di Armeni in Anatolia....",
+                    "*...Di là dal Bosforo, il Terminal Haydarpaşa, sulla sponda asiatica, serviva la linea per Ankara (anche la ferrovia ad alta velocità Istanbul–Ankara) e per altre città dell'Anatolia, ma è stato anch'esso chiuso dopo l'apertura di Marmaray...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.97537,
+                    41.01182
+                ]
+            },
+            "properties": {
+                "entity": "Ankara",
+                "name_location": "Ankara Caddesi, Sirkeci, Hobyar Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34112, Turchia",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Quando è stata proclamata la Repubblica di Turchia, il 29 ottobre 1923, Istanbul fu considerata ormai troppo vulnerabile, potendo finire sotto tiro delle marine militari che avevano dimostrato di poter violare gli accordi stretti durante la Prima guerra mondiale, e così Ankara, che in precedenza aveva servito come quartier generale del movimento cittadino turco durante la guerra d'indipendenza turca, è stata scelta come capitale del nuovo Stato turco....",
+                    "*...Quando nel 1923 fu fondata la Repubblica di Turchia, la capitale venne spostata da Costantinopoli ad Ankara....",
+                    "*...Quella che doveva essere una semplice protesta ha provocato manifestazioni in tutta la Turchia, approfittando del malcontento generale causato da varie misure attuate dal governo di Ankara....",
+                    "*...Di là dal Bosforo, il Terminal Haydarpaşa, sulla sponda asiatica, serviva la linea per Ankara (anche la ferrovia ad alta velocità Istanbul–Ankara) e per altre città dell'Anatolia, ma è stato anch'esso chiuso dopo l'apertura di Marmaray...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.825102,
+                    40.977983
+                ]
+            },
+            "properties": {
+                "entity": "Aeroporto di Istanbul",
+                "name_location": "Aeroporto di Istanbul-Atatürk, Yenibosna Kavşağı, Fevzi Çakmak Mahallesi, Bahçelievler, İstanbul, Marmara Bölgesi, 34196, Turchia",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "*...La città è servita dal nuovo Aeroporto di Istanbul (nella parte europea) e dall'Aeroporto Internazionale di Istanbul-Sabiha Gökçen (nella parte asiatica)....",
+                    "*...Istanbul (in turco İstanbul, pronuncia ), nome comunemente utilizzato dai Turchi anche prima del 1453, anche se il nome ufficiale è stato Costantinopoli fino al 1930 (in latino:...",
+                    "*...Con una popolazione di oltre 15 000 000 di abitanti, Istanbul (considerando però anche i quartieri asiatici) è il centro municipale più popoloso d'Europa (settimo nel mondo) davanti a Mosca e Londra....",
+                    "*...Istanbul è considerata una città globale....",
+                    "*...Quando è stata proclamata la Repubblica di Turchia, il 29 ottobre 1923, Istanbul fu considerata ormai troppo vulnerabile, potendo finire sotto tiro delle marine militari che avevano dimostrato di poter violare gli accordi stretti durante la Prima guerra mondiale, e così Ankara, che in precedenza aveva servito come quartier generale del movimento cittadino turco durante la guerra d'indipendenza turca, è stata scelta come capitale del nuovo Stato turco....",
+                    "*...Nel 2010 Istanbul è stata una delle capitali europee della cultura....",
+                    "*...Sin dal 1985 le aree storiche di Istanbul fanno parte della lista UNESCO dei patrimoni dell'umanità....",
+                    "*...Recenti studi, prendendo in esame una serie di terremoti iniziatasi nel 1939 e proseguita nei successivi decenni, ritengono probabile che un evento sismico di notevoli proporzioni possa colpire Istanbul in un prossimo futuro....",
+                    "*...Il clima di Istanbul è di tipo temperato, ma è alquanto particolare, a metà Strada tra il clima oceanico e il clima mediterraneo (media annuale +14,3 °C)....",
+                    "*...In un anno a Istanbul, mediamente, ci sono cinque giorni in cui la temperatura è superiore ai 32 °C, e ventuno giorni in cui la temperatura è inferiore a 0 °C....",
+                    "*...La più alta temperatura registrata a Istanbul è stata di 40,5 °C, mentre la più bassa è stata di -16,1 °C....",
+                    "*...Caratteristica importante del clima di Istanbul è la presenza del vento....",
+                    "*...I diversi nomi che ha avuto Istanbul riflettono il succedersi delle civiltà che ne hanno segnato la storia nel corso dei secoli....",
+                    "*...Nomi diversi da استانبول (Istanbul) erano diventati obsoleti in lingua turca durante la fine dell'era ottomana e il primo periodo della repubblica....",
+                    "*...Lettere e pacchi inviati a \"Costantinopoli\" invece di \"Istanbul\" non furono più recapitati dalle poste turche, il che contribuì all'adozione definitiva a livello mondiale del nuovo nome....",
+                    "*...Quella del conquistatore, di Selim I, di Beyazit, di Moschea di Solimano (Suleymaniye, la più grande moschea di Istanbul), di Ahmet (Sultanahmet), e la moschea nuova....",
+                    "*...L'attuale nome di Istanbul fu adottato nel 1930....",
+                    "*...Istanbul passò attraverso un periodo di grande trasformazione negli anni '50 e '60....",
+                    "*...Dagli anni settanta, la popolazione di Istanbul sta subendo una rapida crescita in seguito alla forte immigrazione dall'Anatolia....",
+                    "*...Istanbul è tuttora sede del Patriarcato ecumenico di Costantinopoli, una delle antiche sedi apostoliche....",
+                    "*...Istanbul è principalmente conosciuta per la sua architettura bizantina e ottomana, ma i suoi edifici riflettono i vari popoli e imperi che l'hanno governata....",
+                    "*...Nessun edificio preromano è sopravvissuto a Istanbul....",
+                    "*...La Chiesa cristiana più antica di Istanbul ancora esistente è San Giovanni di Studion, trasformata in moschea e nel 2014 in restauro....",
+                    "*...Fondata da Costantino e ricostruita nel 537 da Giustiniano, la Basilica di Santa Sofia è uno dei principali monumenti di Istanbul....",
+                    "*...Tra le chiese cattoliche vanno ricordate la Cattedrale dello Spirito Santo nel quartiere Pangaltı, sede del vicariato apostolico di Istanbul, e la Basilica di Sant'Antonio di Padova, a Beyoğlu, affacciata su İstiklal Caddesi....",
+                    "*...A partire dal loro arrivo nel 1453, nel corso dei successivi quattro secoli, gli Ottomani hanno contribuito a delineare il panorama della città di Istanbul dandogli un'impronta indelebile, in particolar modo con la costruzione di grandi moschee....",
+                    "*...La Moschea di Solimano (costruita tra il 1550 e il 1557) opera realizzata dall'architetto Mimar Sinan per il sultano Solimano il Magnifico è considerata la più bella fra le moschee imperiali di Istanbul....",
+                    "*...Più recente, terminata nel 1665, la Yeni Cami (in Italiano \"Moschea Nuova\") che si trova sul Corno d'Oro all'estremità meridionale del ponte di Galata ed è uno dei siti più visitati di Istanbul....",
+                    "...Caratteristica della Istanbul ottomana è la quasi totale assenza di un'architettura civile in pietra....",
+                    "...Molto più antica la Yerebatan Sarayı (Cisterna Basilica) una grande cisterna sotterranea per la raccolta delle acque, costruita da Giustiniano I nel 532, la quale oggi si presenta come un enorme spazio sotterraneo di circa 140 metri per 70 metri, le cui volte sono sorrette da dodici file di 28 colonne alte 9 metri e distanziate l'una dall'altra di 4,90 m.\nDell'epoca ottomana sono ancora in funzione il Grande Bazar d'Istanbul e il Bazar delle spezie d'Istanbul, grandi mercati al coperto dove si trovano numerosissimi negozi caratteristici e che attirano costantemente folle di turisti....",
+                    "*...Sul suo percorso ci sono più di 105 modelli in miniatura, che rappresentano l'epoca architettoniche dell'Impero Ottomano, tra cui 45 modelli in miniatura di Istanbul....",
+                    "*...Nel punto più alto di Istanbul, a 267 metri di altezza, è presente il Parco di Büyük-Çamlıca....",
+                    "*...A causa della disoccupazione e della guerriglia nel sud-est della Turchia, molte persone di quella regione sono migrate a Istanbul, dove si sono stabilite nella periferia della città....",
+                    "*...I migranti, in prevalenza dall'Anatolia orientale, arrivano a Istanbul con aspettative di miglioramento della qualità della vita e di occupazione....",
+                    "...Secondo una rilevazione dell'Istituto di statistica, il comune metropolitano (tutta la provincia di Istanbul) aveva una popolazione di 13.255.685 persone nel 2010, rendendo la città una delle più grandi aree metropolitane mondiali di oggi....",
+                    "*...All'ultimo censimento del 2000 Istanbul aveva una popolazione di 8.803.468 abitanti....",
+                    "...Durante il Medioevo Istanbul è stata la più grande città del mondo, ed è stata una delle città più grandi e importanti per gran parte della sua storia (con l'eccezione del periodo del crollo dell'Impero bizantino, prima dell'arrivo degli Ottomani)....",
+                    "*...Il raddoppio della popolazione di Istanbul tra il 1980 e il 1985 è dovuto a una crescita naturale della popolazione, nonché all'ampliamento dei limiti comunali....",
+                    "*...Nel 2014, la popolazione di Istanbul contava 14.221.482 persone, delle quali solo 2.162.588 erano nate nella città....",
+                    "*...Istanbul è stata una città cosmopolita e multietnica per gran parte della sua storia, ma è diventata più omogenea a partire dalla fine dell'Impero Ottomano....",
+                    "*...I massacri della prima guerra mondiale, lo scambio di popolazioni tra Grecia e Turchia del 1923 (dal quale i greci di Istanbul furono comunque esclusi), le alte tassazioni alle quali fu soggetta la comunità ed infine il pogrom d'Istanbul portarono la stragrande maggioranza della comunità greca cittadina ad emigrare nel giro di pochi decenni....",
+                    "*...All'inizio del XXI secolo, la popolazione greca di Istanbul contava 3.000 (scesi dai 260.000 del censimento ottomano del 1910 e dai 350.000 del 1919)....",
+                    "*...In seguito alla nascita dello Stato di Israele, la comunità ebraica turca cominciò ad emigrare, scendendo dalle 100.000 unità nel 1950 a 18.000 nel 2005, per la maggioranza residenti a Istanbul e Smirne....",
+                    "*...La comunità levantina a Istanbul è oggi ridotta, ma rimangono in città in piccoli numeri....",
+                    "*...La più vasta minoranza etnica di Istanbul sono oggi i curdi, provenienti dalle regioni sud-orientali del Paese....",
+                    "*...Istanbul è oggi considerata la città con più curdi al mondo, con una comunità stimata tra i due e i quattro milioni di membri....",
+                    "*...La quasi totalità della popolazione di Istanbul è di fede musulmana, ma la città è anche abitata da altre comunità religiose, di solito retaggio del suo passato ottomano....",
+                    "*...Secondo il censimento del 2000, a Istanbul sono attive:...",
+                    "*...Istanbul è anche sede dell'arcivescovado della comunità turco-ortodossa, del patriarcato Armeno di Costantinopoli e del Gran Rabbinato di Turchia....",
+                    "*...I musulmani sono il più grande gruppo religioso di Istanbul....",
+                    "*...Nel 2007 a Istanbul erano attive ben 2.944 moschee....",
+                    "*...Istanbul era anche la sede del Califfato Islamico tra il 1517 e il 1924, fino a quando il califfato venne sciolto e i poteri passati al parlamento turco....",
+                    "*...Istanbul fu anche la sede della Chiesa Ortodossa Bulgara prima che venisse riconosciuta dalle altre chiese ortodosse....",
+                    "*...Il 24 aprile del 1915 più di 800 intellettuali armeni vennero uccisi a Istanbul....",
+                    "*...Dal 1955, le ricorrenti crisi di Cipro guidarono la politica turca verso i greci di Istanbul, visti ormai come stranieri:...",
+                    "...Il Pogrom d'Istanbul nel 1955, causato dal problema cipriota, causò la morte di 15 greci e l'incriminazione per altri 32;...",
+                    "*...Questo fece aumentare notevolmente l'emigrazione da Istanbul per la Grecia....",
+                    "*...Oggi i turchi di etnia armena che vivono a Istanbul sono circa 45.000....",
+                    "*...Oltre a essi, esiste un piccolo numero di tedeschi del Bosforo e di polacchi (questi ultimi abitanti nel villaggio di Polonezköy) insediatisi a Istanbul nell'Ottocento....",
+                    "*...Gli ebrei - stanziati nel quartiere di Balat - vivevano nella città già durante il periodo bizantino, e furono gli unici abitanti a cui fu permesso di rimanere a Istanbul dopo la conquista....",
+                    "*...Più di 200.000 ebrei si diressero prima verso Tangeri, l'Algeria, Genova e Marsiglia, per poi proseguire verso Salonicco e infine stabilirsi a Istanbul....",
+                    "*...Negli anni successivi gli ebrei vennero espulsi da tutto il Mezzogiorno italiano e molti di questi si diressero a Istanbul....",
+                    "*...Più di 20.000 ebrei sefarditi vivono ancora a Istanbul, 20 sinagoghe sono attive, di queste la più importante è la Neve Shalom inaugurata nel 1951 nel quartiere Beyoğlu....",
+                    "...Il Gran Rabbino Turco di Istanbul (adesso Ishak Haleva) dirige gli affari della comunità....",
+                    "*...Istanbul accolse anche gli ebrei ashkenaziti del centro ed est europeo perseguitati dai nazisti durante gli anni 30 e 40 del 900....",
+                    "*...Molti di questi impianti possiedono apparecchiature ad alta tecnologia, ciò ha contribuito alla recente crescita del \"turismo medico\" a Istanbul, in particolare dai paesi dell'Europa occidentale come il Regno Unito e la Germania dove i governi inviano i pazienti a basso reddito....",
+                    "*...Istanbul è diventata in modo particolare una destinazione mondiale per la chirurgia laser oculare e la chirurgia plastica....",
+                    "*...Oggi, Istanbul ha una fornitura di acqua clorata e filtrata e un sistema di smaltimento delle acque reflue gestito dall'agenzia governativa ISKI....",
+                    "*...Nel 1876 è stata resa operativa la prima rete postale internazionale tra Istanbul e le terre al di là del vasto impero ottomano....",
+                    "*...Nel luglio 1881 è stata installata la prima rete telefonica di Istanbul, tra il Ministero delle Poste e dei Telegrafi in Sogukcesme e la Postahane-i Amire in Yenicami....",
+                    "*...Il tasso di criminalità è sceso del 35%, passando da 76 285 reati fatti registrare a Istanbul nel 2006 a 57 123 reati registrati nel 2007....",
+                    "*...Nel 2009, l'amministrazione della città di Istanbul ha incominciato un progetto di installazione di circa 800-900 telecamere di sicurezza....",
+                    "*...Istanbul ospita alcuni dei migliori istituti di istruzione superiore della Turchia, tra cui più di 35 Università pubbliche e private....",
+                    "...L'Università di Istanbul, fondata come una madrasa nel 1453, è il più antico istituto educativo turco della città, mentre l'Università tecnica di Istanbul (1773) è la terza Università tecnica più antica del mondo interamente dedicata alle scienze ingegneristiche....",
+                    "*...L'Università del Bosforo (in lingua turca Boğaziçi Üniversitesi) è un'altra antica istituzione educativa di Istanbul, situata sul lato europeo del Bosforo....",
+                    "...Quasi tutte le scuole private turche superiori e le Università di Istanbul insegnano una o due lingue straniere, di solito inglese, tedesco o francese....",
+                    "*...Istanbul possiede inoltre numerose biblioteche, molte delle quali contengono vaste collezioni di documenti storici del periodo romano, bizantino e ottomano, così come di altre civiltà del passato....",
+                    "...Le biblioteche più importanti in termini di raccolte di documenti storici includono la biblioteca del Palazzo di Topkapı, la biblioteca del Museo Archeologico, la biblioteca del Museo Navale, la biblioteca di stato Bayezıd, la biblioteca Nuruosmaniye, la biblioteca Süleymaniye, la biblioteca dell'Università di Istanbul e quelle di Köprülüzade Fazil Ahmed Paşa, di Atatürk e di Çelik Gülersoy....",
+                    "...Museo navale d'Istanbul ;...",
+                    "*...Istanbul è anche la capitale della Turchia per quanto riguarda la stampa, con una grande varietà di periodici nazionali ed esteri che esprimono diversi punti di vista e giornali nazionali estremamente competitivi....",
+                    "*...La maggior parte dei giornali a livello nazionale hanno sede a Istanbul....",
+                    "*...Ci sono anche numerose emittenti locali e nazionali televisive e radiofoniche che si trovano a Istanbul, come ad esempio:...",
+                    "*...Nella città di Istanbul, ci sono oltre un centinaio di stazioni radio FM....",
+                    "*...Istanbul ha ospitato l'Eurovision Song Contest 2004 grazie alla vittoria della cantante locale Sertab Erener con la canzone Everyway That I Can....",
+                    "*...Famoso in tutto il mondo è il Lokum, pasticcino creato a Istanbul a fine 1700....",
+                    "*...Amministrativamente Istanbul è un comune metropolitano (in turco büyükşehir belediyelesi) che comprende i centri urbani di tutti i 39 distretti della sua provincia....",
+                    "*...Il sindaco di Istanbul, Ekrem İmamoğlu, primo sindaco del CHP (il principale partito d'opposizione) dopo 25 anni di dominio del partito islamico AKP, è stato eletto nel marzo 2019 e rieletto nel giugno dello stesso anno dopo la ripetizione delle elezioni comunali effettuata a causa di accuse di brogli lanciate dal presidente Erdogan....",
+                    "...Il governatore della provincia di Istanbul è Ali Yerlikaya....",
+                    "*...Amministrativamente il comune metropolitano di Istanbul si estende su tutti i distretti della provincia, comprendendo i distretti interamente urbani di Avcılar, Bağcilar, Bahçelievler, Bakırköy, Bayrampaşa, Beşiktaş, Beylikdüzü, Beyoğlu, Büyükçekmece, Esenler, Esenyurt, Fatih, Gaziosmanpaşa, Güngören, Kağıthane, Küçükçekmece, Sultangazi, Şişli, Zeytinburnu sulla sponda europea del Bosforo, e di Adalar, Ataşehir, Kadıköy, Kartal, Maltepe, Sultanbeyli, Tuzla, Ümraniye, Scutari (Üsküdar) sulla sponda asiatica....",
+                    "*...Fra i quartieri storici più noti di Istanbul vi sono:...",
+                    "*...Eminönü, corrispondente al cuore storico di Istanbul, nel distretto di Fatih;...",
+                    "*...Fener, uno dei quartieri più popolari dentro le mura, un tempo centro dell'etnia greca e ripopolato recentemente da immigrati dal sud-est del paese, sede del Patriarcato greco, e uno dei pochi luoghi dove si è conservata la vecchia Istanbul, nel distretto di Fatih;...",
+                    "*...Oltre a essere la più grande città ed ex capitale politica del paese, Istanbul è sempre stata il centro della vita economica della Turchia in virtù della sua posizione di incrocio di terre internazionali e rotte commerciali del mare....",
+                    "*...Istanbul è anche il più grande centro industriale della Turchia....",
+                    "*...Istanbul e la sua provincia producono cotone, frutta, olio di oliva, seta e tabacco....",
+                    "*...Secondo la rivista Forbes, Istanbul ha avuto un totale di 35 miliardari, a partire da marzo 2008, posizionandosi al quarto posto nel mondo....",
+                    "*...Nata come la Borsa Ottomana di Istanbul (Dersaadet Tahvilat Borsası) nel 1866 e riorganizzata la sua struttura attuale all'inizio del 1986, l'Istanbul Stock Exchange (ISE) è l'unico Mercato di titoli di Turchia....",
+                    "*...Nel corso del XIX secolo e nei primi del XX secolo, Bankalar Caddesi (Corso delle Banche) a Galata è stato il centro finanziario dell'Impero ottomano, dove vi era la sede centrale della Banca Ottomana e Borsa Ottomana di Istanbul....",
+                    "*...Bankalar Caddesi ha continuato a essere il principale quartiere finanziario di Istanbul fino al 1990, quando la maggior parte delle banche turche hanno cominciato a spostare il loro quartier generale per presso i moderni quartieri di Levent e Maslak....",
+                    "...Nel 1995, la Borsa di Istanbul si è trasferita nella suo attuale edificio nel quartiere di Istinye....",
+                    "*...Istanbul raccoglie il 40% di tutte le imposte riscosse nella Turchia e produce il 27,5% del prodotto nazionale....",
+                    "*...Nel 2005 il Comune di Istanbul produceva un PIL di 133 miliardi di dollari....",
+                    "*...Nel 2005 le società con sede a Istanbul hanno effettuato esportazioni per il valore di 41.397 milioni di dollari e le importazioni di un valore 69.883 milioni di dollari....",
+                    "*...Istanbul è uno dei luoghi turistici più importanti della Turchia....",
+                    "*...Nel 2006 un totale di 23.148.669 turisti hanno visitato la Turchia, la maggior parte dei quali sono entrati nel paese attraverso i porti e gli aeroporti di Istanbul e Antalya....",
+                    "*...Istanbul è anche un centro per le grandi conferenze e come sede per le principali associazioni internazionali del mondo....",
+                    "*...Şile è una lontana e rinomata località balneare turca sul Mar Nero, a 50 chilometri da Istanbul, dove possono essere trovate spiagge incontaminate di sabbia bianca....",
+                    "*...Il luogo è diventato popolare negli ultimi anni tra gli abitanti di Istanbul come meta di escursioni....",
+                    "*...Istanbul ha numerosi centri commerciali storici, come il Gran Bazar (fondato nel 1461), il Mahmutpasa Bazar (1462) e il Bazaar egiziano (1660)....",
+                    "...A Istanbul,...",
+                    "*...Istanbul è anche famosa per i suoi storici ristoranti di pesce, ad esempio, il quartiere di Kumkapı ha una zona pedonale che è dedicata esclusivamente a questa tipologia di locali....",
+                    "...Luoghi come l'Istanbul Arena Maslak e Kurucesme Arena sul Bosforo frequentemente ospitano concerti dal vivo di cantanti famosi e band provenienti da ogni angolo del mondo....",
+                    "*...Fino al 2018, Istanbul disponeva di due aeroporti internazionali:...",
+                    "*...Il trasporto navale è stato in passato fondamentale per Istanbul, in quanto la città è praticamente circondata dal mare su tutti i lati:...",
+                    "*...Il porto di Istanbul è il più importante del paese....",
+                    "*...Il porto mercantile principale di Istanbul si trova nel quartiere di Harem nella parte asiatica della città....",
+                    "*...Istanbul ha anche molti porti turistici di varie dimensioni per la navigazione privata....",
+                    "...In avanzato stato di progettazione è Kanal Istanbul, un canale fra il Mar di Marmara e il Bosforo che avrebbe un impatto ambientale devastante sulla città e la regione circostante....",
+                    "*...Nel 1883, un imprenditore belga, Georges Nagelmackers, cominciò un servizio ferroviario tra Parigi e Istanbul, con una nave a vapore che trasportava i passeggeri da Varna a Costantinopoli....",
+                    "*...Nel 1889 la linea ferroviaria è stata completata collegando direttamente Istanbul a Bucarest, rendendo il viaggio via terra interamente possibile....",
+                    "*...La Stazione di Sirkeci delle Ferrovie dello Stato turche (TCDD), che era stata originariamente aperta nel 1890 come capolinea dell'Orient Express, era il capolinea dei collegamenti ferroviari fra Istanbul e il resto d'Europa, i quali corrono lungo la linea Istanbul-Salonicco, in Grecia, ma è stata chiusa con l'entrata in funzione della linea Marmaray....",
+                    "*...Il primo tram è entrato in servizio a Istanbul il 3 settembre 1869 fra Tophane e Ortaköy....",
+                    "*...La rete tranviaria di Istanbul è stata ampliata negli anni successivi....",
+                    "*...E' in costruzione una sesta linea di Tram (o metropolitana leggera), che collegherà la stazione di Kazlıçeşme e quella di Sirkeci utilizzando i binari dismessi della ferrovia suburbana di Istanbul....",
+                    "*...Istanbul è servita da quattro funicolari sotterranee, di età e stile molto diverse....",
+                    "*...La ferrovia leggera di Istanbul è un semplice sistema di trasporto ferroviario composto da due linee, che corrono nella parte europea della città....",
+                    "...La Metropolitana di Istanbul nel gennaio 2023 comprendeva undici linee:...",
+                    "*...La rete, ad eccezione della linea M11, è gestita da Metro İstanbul, un'impresa pubblica controllata dalla municipalità metropolitana di Istanbul....",
+                    "*...A causa della geografia unica e difficile di Istanbul, città divisa dallo stretto del Bosforo, le reti europee e asiatiche non si collegano direttamente, ma dal 2013 sono collegate tra loro attraverso la linea B1, chiamata anche Marmaray....",
+                    "*...A Istanbul sono in esercizio due funivie a gondola, entrambe sul lato europeo....",
+                    "*...Il Metrobus di Istanbul è una linea di Bus Rapid Transit lunga 50 km con 44 stazioni che percorre l'anello stradale da Avcılar a Zincirlikuyu passando per il Ponte sul Bosforo sino a Söğütlüçeşme, unendo cosi' Europa e Asia, e usando corsie dedicate per gran parte della tratta....",
+                    "*...Nel Campionato di pallavolo ci sono il Vakıfbank, Fenerbahçe oltre alle sezioni del Galatasaray e Istanbul B.B.....",
+                    "*...Istanbul ospita numerosi eventi annuali motoristici come il Gran Premio di Turchia di Formula 1 (non più in calendario dal 2012), la MotoGP, il campionato del mondo turismo, la GP2 e la Le Mans Series 1.000 km presso il circuito di Istanbul Park....",
+                    "*...Di tanto in tanto Istanbul ospita anche la tappa turca del campionato del mondo formula 1 motonautica F1 sul Bosforo....",
+                    "*...Il 29 luglio 2006, Istanbul ha ospitato la quinta tappa dello spettacolare Red Bull Air Race...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.896049,
+                    41.0494
+                ]
+            },
+            "properties": {
+                "entity": "-16,1 °C",
+                "name_location": "c, Kocatepe Mahallesi, Bayrampaşa, İstanbul, Marmara Bölgesi, 34045, Turchia",
+                "class": "highway",
+                "type": "footway",
+                "snippet": [
+                    "*...La più alta temperatura registrata a Istanbul è stata di 40,5 °C, mentre la più bassa è stata di -16,1 °C...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.905704,
+                    40.991999
+                ]
+            },
+            "properties": {
+                "entity": "Poyraz",
+                "name_location": "Poyraz, 44/2. Sokak, Gökalp Mahallesi, Zeytinburnu, İstanbul, Marmara Bölgesi, 34020, Turchia",
+                "class": "shop",
+                "type": "electronics",
+                "snippet": [
+                    "*...I più famosi sono il Poyraz (vento fresco da nord-est) e il Lodos (vento caldo da sud-ovest)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.827795,
+                    41.06703
+                ]
+            },
+            "properties": {
+                "entity": "Lodos",
+                "name_location": "Lodos, 2427. Sokak, İSTOÇ, Mahmutbey Mahallesi, Bağcılar, İstanbul, Marmara Bölgesi, 34218, Turchia",
+                "class": "shop",
+                "type": "houseware",
+                "snippet": [
+                    "*...I più famosi sono il Poyraz (vento fresco da nord-est) e il Lodos (vento caldo da sud-ovest)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.954433,
+                    41.010177
+                ]
+            },
+            "properties": {
+                "entity": "Βυζάντιον",
+                "name_location": "Byzantion Bistro & Restaurant, 902125227496, Yeşiltulumba Sokağı, Kemalpaşa Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34134, Turchia",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...Fondata dai coloni greci di Megara, nel 667 a.C., viene chiamata originariamente Βυζάντιον (Byzántion) in onore del loro re Byzas...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.954433,
+                    41.010177
+                ]
+            },
+            "properties": {
+                "entity": "Byzántion",
+                "name_location": "Byzantion Bistro & Restaurant, 902125227496, Yeşiltulumba Sokağı, Kemalpaşa Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34134, Turchia",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "...In turco ottomano قسطنطينيه Kostantîniyye), storicamente conosciuta anche come Bisanzio (in greco antico: , Byzántion, in latino:...",
+                    "*...Fondata dai coloni greci di Megara, nel 667 a.C., viene chiamata originariamente Βυζάντιον (Byzántion) in onore del loro re Byzas...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.973814,
+                    41.002732
+                ]
+            },
+            "properties": {
+                "entity": "Nova Roma",
+                "name_location": "Nova Roma Hotel, Aksakal Sokağı, Küçük Ayasofya Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34122, Turchia",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...Costantino la ribattezzò Nova Roma, ma questa denominazione non entrò mai nell'uso comune, sebbene ancora oggi la denominazione ufficiale secondo la Chiesa ortodossa e il Patriarcato ecumenico sia \"Costantinopoli Nuova Roma\"....",
+                    "*...La posizione strategica di Bisanzio attrasse anche l'imperatore Costantino I che, l'11 maggio 330, la rifondò come \"Nova Roma\", anche se la città prese presto il nome di Costantinopoli...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.969874,
+                    41.011624
+                ]
+            },
+            "properties": {
+                "entity": "Πόλιν",
+                "name_location": "Polin Kids, Tarakçilar Hanı Sokağı, Taya Hatun Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34120, Turchia",
+                "class": "shop",
+                "type": "clothes",
+                "snippet": [
+                    "...Il nome İstanbul potrebbe derivare dalla frase greca medievale \"εἰς τήν Πόλιν\" (da leggersi con la pronuncia \"istinˈpolin\"), oppure da quella in dialetto ionico \"εἰς τάν Πόλιν\" (pron...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.800031,
+                    40.964185
+                ]
+            },
+            "properties": {
+                "entity": "Stambul",
+                "name_location": "İstanbul Akvaryum, Yeşilköy Halkalı Caddesi, Şenlikköy Mahallesi, Bakırköy, İstanbul, Marmara Bölgesi, 34149, Turchia",
+                "class": "tourism",
+                "type": "aquarium",
+                "snippet": [
+                    "*...Il nome Stamboul o Stambul denominava in passato la penisola storica, cioè la città all'interno delle mura...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.98001,
+                    41.008509
+                ]
+            },
+            "properties": {
+                "entity": "Hagia Sophia",
+                "name_location": "Santa Sofia, Soğukçeşme Sokağı, Cankurtaran Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34122, Turchia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...La maggior basilica costantiniana, Hagia Sophia (Divina Sapienza), monumento di estrema rilevanza architettonica dedicato al Logos, da sempre centro religioso della città, divenne il centro della cristianità greco-ortodossa....",
+                    "*...Allo stesso modo, mentre Hagia Sophia e le moschee imperiali dominano gran parte del panorama cittadino, si possono trovare anche una serie di storiche chiese e sinagoghe...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.96539,
+                    41.010293
+                ]
+            },
+            "properties": {
+                "entity": "Beyazit",
+                "name_location": "Beyazıt Camii, Beyazıt Meydanı, Laleli, Balabanağa Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34134, Turchia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Quella del conquistatore, di Selim I, di Beyazit, di Moschea di Solimano (Suleymaniye, la più grande moschea di Istanbul), di Ahmet (Sultanahmet), e la moschea nuova...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.969963,
+                    41.010109
+                ]
+            },
+            "properties": {
+                "entity": "Gran Bazaar",
+                "name_location": "Gran Bazar, Çarşıkapı Nur-u Osmaniye Caddesi, Mahmutpaşa, Molla Fenari Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34120, Turchia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Parallelamente, la città venne dotata di strutture per il commercio, come il Gran Bazaar e il Bazar Egiziano, e tornò a essere il crocevia dei traffici fra Europa e Asia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.985204,
+                    41.037955
+                ]
+            },
+            "properties": {
+                "entity": "piazza Taksim",
+                "name_location": "Piazza Taksim, Taksim, Gümüşsuyu, Gümüşsuyu Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34437, Turchia",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "...In anni recenti la città è stata oggetto di diversi attacchi terroristici, come il massacro di piazza Taksim avvenuto nel 1977, e gli attacchi del 1999, del 2003 e del 2008, per un totale di più di 120 vittime e 1.000 feriti....",
+                    "...Un nuovo attentato compiuto da un kamikaze in piazza Taksim porta, nell'ottobre 2010, alla morte del kamikaze e al ferimento di 15 agenti di polizia e 17 civili....",
+                    "*...Conseguenza di ciò sono stati fra l'altro i violenti scontri avvenuti nel giugno 2013 a piazza Taksim e a Beşiktaş tra studenti, intellettuali, e cittadini da una parte e la polizia dall'altra in difesa del Parco di Gezi (e dei suoi 600 alberi) che il governo cittadino vuole distruggere per ricostruire antiche caserme ottomane che dovranno ospitare un centro commerciale e una moschea....",
+                    "*...Un nuovo attentato compiuto da un kamikaze in piazza Taksim porta, nell'ottobre 2010, alla morte del kamikaze e al ferimento di 15 agenti di polizia e 17 civili....",
+                    "...Una seconda linea funicolare, la F1 Kabataş-Taksim, è entrata in servizio il 29 giugno 2006 e collega Kabataş e Taksim...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.005256,
+                    41.041867
+                ]
+            },
+            "properties": {
+                "entity": "Beşiktaş",
+                "name_location": "Beşiktaş, Beşiktaş Caddesi, Sinanpaşa, Sinanpaşa Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34022, Turchia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Conseguenza di ciò sono stati fra l'altro i violenti scontri avvenuti nel giugno 2013 a piazza Taksim e a Beşiktaş tra studenti, intellettuali, e cittadini da una parte e la polizia dall'altra in difesa del Parco di Gezi (e dei suoi 600 alberi) che il governo cittadino vuole distruggere per ricostruire antiche caserme ottomane che dovranno ospitare un centro commerciale e una moschea....",
+                    "*...Nella notte di capodanno fra il 2016 e il 2017 alle ore 1:40 locali, un uomo armato di Kalašnikov ha aperto il fuoco dentro il night club 'Reina', nel quartiere Beşiktaş, nella zona europea della città....",
+                    "*...Amministrativamente il comune metropolitano di Istanbul si estende su tutti i distretti della provincia, comprendendo i distretti interamente urbani di Avcılar, Bağcilar, Bahçelievler, Bakırköy, Bayrampaşa, Beşiktaş, Beylikdüzü, Beyoğlu, Büyükçekmece, Esenler, Esenyurt, Fatih, Gaziosmanpaşa, Güngören, Kağıthane, Küçükçekmece, Sultangazi, Şişli, Zeytinburnu sulla sponda europea del Bosforo, e di Adalar, Ataşehir, Kadıköy, Kartal, Maltepe, Sultanbeyli, Tuzla, Ümraniye, Scutari (Üsküdar) sulla sponda asiatica....",
+                    "*...La quarta funicolare, la linea F4, è una funicolare lunga 850 metri situata a Beşiktaş, anch'essa sul lato europeo del Bosforo....",
+                    "*...Il Beşiktaş vincitore di 16 Campionati Turchi e che gioca alla Vodafone Arena;...",
+                    "*...Nel basket, nella massima lega ci sono l'Efes Pilsen vincitore di 13 Campionati Turchi, il Fenerbahçe vincitore di 6 Campionati Turchi, il Galatasaray vincitore di 5 Campionati Turchi e il Beşiktaş vincitore di 2 Campionati Turchi...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.825102,
+                    40.977983
+                ]
+            },
+            "properties": {
+                "entity": "Aeroporto Atatürk",
+                "name_location": "Aeroporto di Istanbul-Atatürk, Yenibosna Kavşağı, Fevzi Çakmak Mahallesi, Bahçelievler, İstanbul, Marmara Bölgesi, 34196, Turchia",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "*...Il 28 giugno 2016, all'Aeroporto Atatürk, due attentatori suicidi affiliati all'ISIS, si sono fatti saltare in aria dopo aver aperto il fuoco sui passeggeri nel terminal voli internazionali....",
+                    "*...L'Aeroporto Atatürk è rimasto aperto solo per manutenzione / tecnica, aviazione generale, e voli speciali....",
+                    "*...La linea è stata successivamente sviluppata fino a raggiungere l'Aeroporto Atatürk il 20 dicembre 2002....",
+                    "...La città è servita dal nuovo Aeroporto di Istanbul (nella parte europea) e dall'Aeroporto Internazionale di Istanbul-Sabiha Gökçen (nella parte asiatica)....",
+                    "*...Durante l'inverno cadono mediamente 60 cm di neve sulla zona dell'Aeroporto e circa 5 cm in centro città, anche se le temperature medie non sono particolarmente basse, grazie ai temporali nevosi generati dal passaggio dell'aria polare o artica sul Mar Nero....",
+                    "...Il governo del presidente Erdoğan ha ultimato, proposto o sta portando avanti una serie di grandi opere (Tunnel ferroviario sotto il Bosforo, terzo ponte sul Bosforo, terzo Aeroporto, diverse linee di metropolitana, canale navigabile per decongestionare il Bosforo) le quali, se da una parte costituiscono un potente stimolo per l'economia, dall'altra stanno alterando irreparabilmente l'immagine della città, sfregiata al tempo stesso da una speculazione edilizia ormai senza freni....",
+                    "...Il numero totale di turisti che sono entrati in Turchia attraverso l'Aeroporto Internazionale Atatürk e di Sabiha Gökçen ha raggiunto i 5.346.658 di unità, passando dalle 4.849.353 del 2005....",
+                    "...Il più grande era l'Aeroporto Internazionale Atatürk, che si trova nel quartiere di Yeşilköy sul versante europeo a circa 24 chilometri a ovest dal centro della città....",
+                    "*...Quando fu costruito, l'Aeroporto era situato al margine occidentale dell'area metropolitana ma ora si trova entro i confini della città....",
+                    "...Più piccolo è l'Aeroporto Internazionale di Istanbul-Sabiha Gökçen situato nel distretto di Pendik nella parte asiatica, vicino al circuito di Formula 1, si trova a circa 20 chilometri a est della parte asiatica e a 45 km a est del centro della città europea....",
+                    "...Per rispondere all’insufficienza delle infrastrutture esistenti, è stato recentemente attivato un terzo Aeroporto, situato sulla sponda europea del Mar Nero...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.954968,
+                    41.016293
+                ]
+            },
+            "properties": {
+                "entity": "Acquedotto di Valente",
+                "name_location": "Acquedotto di Valente, Kendir Sokağı, Zeyrek Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34165, Turchia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Nella parte occidentale del quartiere Fatih rimane l'Acquedotto di Valente, costruito alla fine del IV secolo, pur 50 metri più breve che in passato....",
+                    "*...I due più grandi acquedotti di epoca romana sono l'Acquedotto Mazulkemer e l'Acquedotto di Valente...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.969963,
+                    41.010109
+                ]
+            },
+            "properties": {
+                "entity": "Gran Bazar",
+                "name_location": "Gran Bazar, Çarşıkapı Nur-u Osmaniye Caddesi, Mahmutpaşa, Molla Fenari Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34120, Turchia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Infine, la Colonna di Costantino, eretta nel 330 d.C. al centro dell'omonimo foro per celebrare la nuova capitale romana, è ancora in loco, fra l'Ippodromo e il Gran Bazar....",
+                    "*...Istanbul ha numerosi centri commerciali storici, come il Gran Bazar (fondato nel 1461), il Mahmutpasa Bazar (1462) e il Bazaar egiziano (1660)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.945557,
+                    41.028523
+                ]
+            },
+            "properties": {
+                "entity": "Fethiye",
+                "name_location": "Fethiye Caddesi, Fener, Balat Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34087, Turchia",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Fra le chiese del periodo Comneno sopravvissute spiccano la Chiesa del Pantocratore oggi moschea (Molla Zeyrek Camii), la Chiesa della Theotokos Kiriotissa (oggi Moschea Kalenderhane), la Moschea Gül (di identificazione incerta) e la Chiesa di Santa Tecla (Moschea di Atik Mustafa Pascià), mentre la Chiesa di San Salvatore in Chora, (poi \"Kariye Camii\", già Museo, oggi di nuovo moschea) dagli importanti affreschi, la Moschea Arap (\"Moschea degli Arabi\", già Chiesa cattolica di San Paolo e Domenico) e la Chiesa di Theotokos Pammacaristos, già sede del Patriarcato dal 1456 al 1578, poi trasformata in moschea (\"Fethiye camii\") e oggi parzialmente Museo, risalgono nella loro forma attuale al periodo paleologo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.977198,
+                    41.032276
+                ]
+            },
+            "properties": {
+                "entity": "Basilica di Sant'Antonio di Padova",
+                "name_location": "Basilica di Sant'Antonio di Padova, 171A, İstiklal Caddesi, Kuloğlu, Tomtom Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34433, Turchia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Tra le chiese cattoliche vanno ricordate la Cattedrale dello Spirito Santo nel quartiere Pangaltı, sede del vicariato apostolico di Istanbul, e la Basilica di Sant'Antonio di Padova, a Beyoğlu, affacciata su İstiklal Caddesi...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.978248,
+                    41.033893
+                ]
+            },
+            "properties": {
+                "entity": "İstiklal Caddesi",
+                "name_location": "İstiklal Caddesi, Kuloğlu, Kuloğlu Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34435, Turchia",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Tra le chiese cattoliche vanno ricordate la Cattedrale dello Spirito Santo nel quartiere Pangaltı, sede del vicariato apostolico di Istanbul, e la Basilica di Sant'Antonio di Padova, a Beyoğlu, affacciata su İstiklal Caddesi....",
+                    "*...Allo stesso tempo, la zona intorno İstiklal Caddesi (\"Viale dell'Indipendenza\", già \"Gran Via di Pera\") è caratterizzata da grandiosi palazzi che ospitavano ambasciate europee (dopo il trasferimento della capitale scadute al rango di consolati) perlopiù in stile neoclassico e, più tardi, Art Nouveau...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.976892,
+                    41.005252
+                ]
+            },
+            "properties": {
+                "entity": "Moschea Blu",
+                "name_location": "Moschea Blu, 7, Atmeydanı Caddesi, Sultan Ahmet Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34122, Turchia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Una delle più celebri è la Moschea Blu, voluta dal sultano Ahmed I e terminata nel 1616, la quale si trova a pochi passi da Santa Sofia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.078948,
+                    41.084125
+                ]
+            },
+            "properties": {
+                "entity": "Yeni Cami",
+                "name_location": "Yeni Cami, Uygur Sokağı, Otağtepe, Kavacık Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34810, Turchia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Più recente, terminata nel 1665, la Yeni Cami (in Italiano \"Moschea Nuova\") che si trova sul Corno d'Oro all'estremità meridionale del ponte di Galata ed è uno dei siti più visitati di Istanbul...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.951038,
+                    41.025781
+                ]
+            },
+            "properties": {
+                "entity": "Sultani",
+                "name_location": "Yavuz Selim Camii ve Sultani Türbeler, Yavuz Selim Caddesi, Küçükmustafapaşa, Yavuz Sultan Selim Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34083, Turchia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "...Sotto i sultani ottomani, Costantinopoli ritrovò un nuovo periodo di splendore, diventando sede de facto del califfato nel 1517, ma mantenendo la sede del Patriarcato greco-ortodosso (nonostante la forzata conversione della Basilica di Santa Sofia in moschea) e in generale il carattere cosmopolita che la caratterizzò nei secoli precedenti....",
+                    "...Tra le altre importanti moschee, possiamo citare la Moschea di Dolmabahçe (1855) e la Moschea di Eyüp, dove i sultani andavano a pregare subito dopo l'incoronazione....",
+                    "*...I Sultani risiedevano sino alla metà dell'Ottocento nel Palazzo di Topkapı (letteralmente \"Porta del Cannone\")...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.974832,
+                    41.025352
+                ]
+            },
+            "properties": {
+                "entity": "Art Nouveau",
+                "name_location": "Art Nouveau Galata, 4/1, Yüksekkaldırım Caddesi, Kuledibi, Bereketzade, Bereketzade Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34421, Turchia",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...Allo stesso tempo, la zona intorno İstiklal Caddesi (\"Viale dell'Indipendenza\", già \"Gran Via di Pera\") è caratterizzata da grandiosi palazzi che ospitavano ambasciate europee (dopo il trasferimento della capitale scadute al rango di consolati) perlopiù in stile neoclassico e, più tardi, Art Nouveau....",
+                    "...Pini e cembri, palazzi in stile neoclassico e art nouveau in stile ottomano del XIX secolo e inizio del XX secolo, carrozze trainate da cavalli e ristoranti di pesce li rendono una destinazione molto popolare...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.977922,
+                    41.008402
+                ]
+            },
+            "properties": {
+                "entity": "Cisterna Basilica",
+                "name_location": "Yerebatan Sarnıcı, 1, Yerebatan Caddesi, Alemdar Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34110, Turchia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Molto più antica la Yerebatan Sarayı (Cisterna Basilica) una grande cisterna sotterranea per la raccolta delle acque, costruita da Giustiniano I nel 532, la quale oggi si presenta come un enorme spazio sotterraneo di circa 140 metri per 70 metri, le cui volte sono sorrette da dodici file di 28 colonne alte 9 metri e distanziate l'una dall'altra di 4,90 m.\nDell'epoca ottomana sono ancora in funzione il Grande Bazar d'Istanbul e il Bazar delle spezie d'Istanbul, grandi mercati al coperto dove si trovano numerosissimi negozi caratteristici e che attirano costantemente folle di turisti....",
+                    "...Dopo aver raggiunto il centro della città, l'acqua era in seguito raccolta in numerose cisterne, come la famosa cisterna di Filosseno e la cisterna Basilica...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.973228,
+                    41.017494
+                ]
+            },
+            "properties": {
+                "entity": "Eminonu",
+                "name_location": "Eminönü, Reşadiye Caddesi, Sirkeci, Hobyar Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34112, Turchia",
+                "class": "railway",
+                "type": "tram_stop",
+                "snippet": [
+                    "*...Geologicamente, il Parco Gülhane si trova sul pendio di Eminonu...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.946479,
+                    41.031642
+                ]
+            },
+            "properties": {
+                "entity": "Balat",
+                "name_location": "Balat, Merdivenli Yokuş, Fener, Balat Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34087, Turchia",
+                "class": "amenity",
+                "type": "cafe",
+                "snippet": [
+                    "*...La comunità sefardita si stabilì a Balat, superando di numero i locali ebrei romanioti e gli aschenaziti (arrivati anch'essi nel XIV secolo)....",
+                    "*...Per esempio, Kumpaki era abitato da molti armeni (ed è ancora sede del Patriarcato Armeno), Balat aveva una notevole popolazione ebraica, a Fener e Samathia vi erano molti greci, mentre i Levantini si concentravano a Nişantaşı e Beyoğlu....",
+                    "*...Gli ebrei - stanziati nel quartiere di Balat - vivevano nella città già durante il periodo bizantino, e furono gli unici abitanti a cui fu permesso di rimanere a Istanbul dopo la conquista...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.837539,
+                    40.990702
+                ]
+            },
+            "properties": {
+                "entity": "Yenibosna",
+                "name_location": "Yenibosna, Yenibosna Kavşağı, Ataköy 7-8-9-10. Kısım Mahallesi, Bakırköy, İstanbul, Marmara Bölgesi, 34158, Turchia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...La città accolse migliaia di rifugiati musulmani del Caucaso e dei Balcani, tra i quali circassi, bosgnacchi (che rappresentano oggi una cospicua componente della popolazione di Yenibosna e Bayrampaşa), e albanesi (stabilitisi a Arnavutköy)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.921703,
+                    41.024178
+                ]
+            },
+            "properties": {
+                "entity": "Bayrampaşa",
+                "name_location": "Bayrampaşa (Maltepe), Metrobüs, Maltepe Mahallesi, Zeytinburnu, İstanbul, Marmara Bölgesi, 34010, Turchia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...La città accolse migliaia di rifugiati musulmani del Caucaso e dei Balcani, tra i quali circassi, bosgnacchi (che rappresentano oggi una cospicua componente della popolazione di Yenibosna e Bayrampaşa), e albanesi (stabilitisi a Arnavutköy)....",
+                    "*...Amministrativamente il comune metropolitano di Istanbul si estende su tutti i distretti della provincia, comprendendo i distretti interamente urbani di Avcılar, Bağcilar, Bahçelievler, Bakırköy, Bayrampaşa, Beşiktaş, Beylikdüzü, Beyoğlu, Büyükçekmece, Esenler, Esenyurt, Fatih, Gaziosmanpaşa, Güngören, Kağıthane, Küçükçekmece, Sultangazi, Şişli, Zeytinburnu sulla sponda europea del Bosforo, e di Adalar, Ataşehir, Kadıköy, Kartal, Maltepe, Sultanbeyli, Tuzla, Ümraniye, Scutari (Üsküdar) sulla sponda asiatica...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.043375,
+                    41.066781
+                ]
+            },
+            "properties": {
+                "entity": "Arnavutköy",
+                "name_location": "Arnavutköy, Bebek Arnavutköy Caddesi, Arnavutköy Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34345, Turchia",
+                "class": "amenity",
+                "type": "ferry_terminal",
+                "snippet": [
+                    "*...La città accolse migliaia di rifugiati musulmani del Caucaso e dei Balcani, tra i quali circassi, bosgnacchi (che rappresentano oggi una cospicua componente della popolazione di Yenibosna e Bayrampaşa), e albanesi (stabilitisi a Arnavutköy)....",
+                    "*...Molti altri, e di alto livello, si trovano lungo le rive del Bosforo, in particolare a Bebek, Arnavutköy, Yeniköy, Beylerbeyi e Çengelköy, e a Yeşilköy, in riva al Mar di Marmara verso l'ovest della città...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.137185,
+                    41.121059
+                ]
+            },
+            "properties": {
+                "entity": "Polonezköy",
+                "name_location": "Paşabahçe Polonezköy Yolu, Acarlar Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34800, Turchia",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Gruppi di polacchi stabilirono il villaggio di Polonezköy....",
+                    "*...Oltre a essi, esiste un piccolo numero di tedeschi del Bosforo e di polacchi (questi ultimi abitanti nel villaggio di Polonezköy) insediatisi a Istanbul nell'Ottocento...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.029262,
+                    41.03632
+                ]
+            },
+            "properties": {
+                "entity": "Kuzguncuk",
+                "name_location": "Kuzguncuk, Paşa Limanı Caddesi, Kuzguncuk Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34674, Turchia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...In alcuni quartieri, come a Kuzguncuk, una Chiesa armena è posta di fianco a una sinagoga e dall'altra parte della Strada una Chiesa Greco - ortodossa è di fianco a una moschea...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.949392,
+                    41.029216
+                ]
+            },
+            "properties": {
+                "entity": "Phanar",
+                "name_location": "Özel Fener Rum Lisesi, 36, Tevkii Cafer Mektebi Sokağı, Fener, Balat Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34087, Turchia",
+                "class": "building",
+                "type": "college",
+                "snippet": [
+                    "*...La sede del patriarcato ecumenico di Costantinopoli, sede del leader spirituale dei greco-ortodossi, è localizzato nel distretto di Fener (in greco Phanar)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.951759,
+                    41.0108
+                ]
+            },
+            "properties": {
+                "entity": "Tekkè",
+                "name_location": "Gureba Tekke Sokağı, İskenderpaşa Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34096, Turchia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "...Il 2 settembre 1924 le Tekkè e le Tarikat furono bandite e le loro attività dichiarate incompatibili con la laicità della nuova repubblica di Turchia;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.979175,
+                    41.031473
+                ]
+            },
+            "properties": {
+                "entity": "Algeria",
+                "name_location": "Cezayir Sokağı, Firuzağa, Firuzağa Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34435, Turchia",
+                "class": "highway",
+                "type": "steps",
+                "snippet": [
+                    "*...Più di 200.000 ebrei si diressero prima verso Tangeri, l'Algeria, Genova e Marsiglia, per poi proseguire verso Salonicco e infine stabilirsi a Istanbul...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.958873,
+                    41.010951
+                ]
+            },
+            "properties": {
+                "entity": "Genova",
+                "name_location": "Genova Hotel, Zeynep Kamil Sokağı, Laleli, Balabanağa Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34134, Turchia",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...Più di 200.000 ebrei si diressero prima verso Tangeri, l'Algeria, Genova e Marsiglia, per poi proseguire verso Salonicco e infine stabilirsi a Istanbul...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.972474,
+                    41.026696
+                ]
+            },
+            "properties": {
+                "entity": "Neve Shalom",
+                "name_location": "Neve Şalom Sinagogu, 61, Büyük Hendek Caddesi, Kuledibi, Bereketzade, Bereketzade Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34420, Turchia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Più di 20.000 ebrei sefarditi vivono ancora a Istanbul, 20 sinagoghe sono attive, di queste la più importante è la Neve Shalom inaugurata nel 1951 nel quartiere Beyoğlu...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.97397,
+                    41.007452
+                ]
+            },
+            "properties": {
+                "entity": "Filosseno",
+                "name_location": "Cisterna di Filosseno, Işık Sokağı, Binbirdirek Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34122, Turchia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Dopo aver raggiunto il centro della città, l'acqua era in seguito raccolta in numerose cisterne, come la famosa cisterna di Filosseno e la cisterna Basilica...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.979995,
+                    41.009514
+                ]
+            },
+            "properties": {
+                "entity": "Sogukcesme",
+                "name_location": "Soğukçeşme Sokağı, Cankurtaran Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34122, Turchia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Nel luglio 1881 è stata installata la prima rete telefonica di Istanbul, tra il Ministero delle Poste e dei Telegrafi in Sogukcesme e la Postahane-i Amire in Yenicami...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.052949,
+                    40.987214
+                ]
+            },
+            "properties": {
+                "entity": "Marmara Üniversitesi",
+                "name_location": "Università di Marmara, Boğaziçi Çıkmazı Sokağı, Feneryolu Mahallesi, Kadıköy, İstanbul, Marmara Bölgesi, 34724, Turchia",
+                "class": "amenity",
+                "type": "university",
+                "snippet": [
+                    "*...La Marmara Üniversitesi è un'altra grande Università con circa 60000 studenti e 12 campus in tutta l'area urbana...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.050308,
+                    41.079844
+                ]
+            },
+            "properties": {
+                "entity": "Boğaziçi Üniversitesi",
+                "name_location": "Boğaziçi Üniversitesi, Cevdetpaşa Caddesi, Aşiyan, Bebek Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34342, Turchia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...L'Università del Bosforo (in lingua turca Boğaziçi Üniversitesi) è un'altra antica istituzione educativa di Istanbul, situata sul lato europeo del Bosforo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.96539,
+                    41.010293
+                ]
+            },
+            "properties": {
+                "entity": "Bayezıd",
+                "name_location": "Beyazıt Camii, Beyazıt Meydanı, Laleli, Balabanağa Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34134, Turchia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Le biblioteche più importanti in termini di raccolte di documenti storici includono la biblioteca del Palazzo di Topkapı, la biblioteca del Museo Archeologico, la biblioteca del Museo Navale, la biblioteca di stato Bayezıd, la biblioteca Nuruosmaniye, la biblioteca Süleymaniye, la biblioteca dell'Università di Istanbul e quelle di Köprülüzade Fazil Ahmed Paşa, di Atatürk e di Çelik Gülersoy...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.977219,
+                    41.014408
+                ]
+            },
+            "properties": {
+                "entity": "Hürriyet",
+                "name_location": "Hürriyet, Serdar Sokağı, Hocapaşa Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34110, Turchia",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...Hürriyet, Milliyet, Sabah, Radikal, Cumhuriyet, Zaman, Türkiye, Aksam, Bugün, Stella, Dünya, Tercüman, Güneş, Vatan, Posta, Takvim, Vakit, Yeni Safak, Fanatik e Turkish Daily News...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.984409,
+                    41.068435
+                ]
+            },
+            "properties": {
+                "entity": "Milliyet",
+                "name_location": "Milliyet Gazetesi, Çınar 1. Sokak, İzzetpaşa Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34381, Turchia",
+                "class": "office",
+                "type": "newspaper",
+                "snippet": [
+                    "*...Hürriyet, Milliyet, Sabah, Radikal, Cumhuriyet, Zaman, Türkiye, Aksam, Bugün, Stella, Dünya, Tercüman, Güneş, Vatan, Posta, Takvim, Vakit, Yeni Safak, Fanatik e Turkish Daily News...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.230934,
+                    40.88714
+                ]
+            },
+            "properties": {
+                "entity": "Zaman",
+                "name_location": "zaman, Maruzat Sokak, Yeni Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34893, Turchia",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...Hürriyet, Milliyet, Sabah, Radikal, Cumhuriyet, Zaman, Türkiye, Aksam, Bugün, Stella, Dünya, Tercüman, Güneş, Vatan, Posta, Takvim, Vakit, Yeni Safak, Fanatik e Turkish Daily News...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.580635,
+                    41.021524
+                ]
+            },
+            "properties": {
+                "entity": "Bugün",
+                "name_location": "Bugün Tuhafiye, İnönü Caddesi, Dizdariye Mahallesi, Büyükçekmece, İstanbul, Marmara Bölgesi, 34500, Turchia",
+                "class": "shop",
+                "type": "clothes",
+                "snippet": [
+                    "*...Hürriyet, Milliyet, Sabah, Radikal, Cumhuriyet, Zaman, Türkiye, Aksam, Bugün, Stella, Dünya, Tercüman, Güneş, Vatan, Posta, Takvim, Vakit, Yeni Safak, Fanatik e Turkish Daily News...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.954886,
+                    41.007621
+                ]
+            },
+            "properties": {
+                "entity": "Stella",
+                "name_location": "Stella, Azimkar Sokağı, Mesihpaşa Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34130, Turchia",
+                "class": "shop",
+                "type": "clothes",
+                "snippet": [
+                    "*...Hürriyet, Milliyet, Sabah, Radikal, Cumhuriyet, Zaman, Türkiye, Aksam, Bugün, Stella, Dünya, Tercüman, Güneş, Vatan, Posta, Takvim, Vakit, Yeni Safak, Fanatik e Turkish Daily News...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.976791,
+                    41.028931
+                ]
+            },
+            "properties": {
+                "entity": "Tercüman",
+                "name_location": "Tercüman Çıkmazı, Tomtom, Tomtom Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34431, Turchia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Hürriyet, Milliyet, Sabah, Radikal, Cumhuriyet, Zaman, Türkiye, Aksam, Bugün, Stella, Dünya, Tercüman, Güneş, Vatan, Posta, Takvim, Vakit, Yeni Safak, Fanatik e Turkish Daily News...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.930834,
+                    41.005364
+                ]
+            },
+            "properties": {
+                "entity": "Güneş",
+                "name_location": "Guneş, Ramazan Efendi Sokağı, Silivrikapı Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34107, Turchia",
+                "class": "shop",
+                "type": "clothes",
+                "snippet": [
+                    "*...Hürriyet, Milliyet, Sabah, Radikal, Cumhuriyet, Zaman, Türkiye, Aksam, Bugün, Stella, Dünya, Tercüman, Güneş, Vatan, Posta, Takvim, Vakit, Yeni Safak, Fanatik e Turkish Daily News...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.929282,
+                    41.025553
+                ]
+            },
+            "properties": {
+                "entity": "Vatan",
+                "name_location": "Vatan, Beylerbeyi Caddesi, Topçular Mahallesi, Eyüpsultan, İstanbul, Marmara Bölgesi, 34091, Turchia",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Hürriyet, Milliyet, Sabah, Radikal, Cumhuriyet, Zaman, Türkiye, Aksam, Bugün, Stella, Dünya, Tercüman, Güneş, Vatan, Posta, Takvim, Vakit, Yeni Safak, Fanatik e Turkish Daily News...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.154681,
+                    41.082279
+                ]
+            },
+            "properties": {
+                "entity": "Takvim",
+                "name_location": "Takvim Sokağı, Yavuz Selim Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34830, Turchia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "...Il primo quotidiano turco, il Takvim-i Vekayi, è stato stampato il 1º agosto 1831 nel distretto Bâbıâli....",
+                    "*...Hürriyet, Milliyet, Sabah, Radikal, Cumhuriyet, Zaman, Türkiye, Aksam, Bugün, Stella, Dünya, Tercüman, Güneş, Vatan, Posta, Takvim, Vakit, Yeni Safak, Fanatik e Turkish Daily News...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.912606,
+                    40.996732
+                ]
+            },
+            "properties": {
+                "entity": "Vakit",
+                "name_location": "DAR VAKİT DÜRÜM EVİ, 83. Sokak, Telsiz Mahallesi, Zeytinburnu, İstanbul, Marmara Bölgesi, 34020, Turchia",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...Hürriyet, Milliyet, Sabah, Radikal, Cumhuriyet, Zaman, Türkiye, Aksam, Bugün, Stella, Dünya, Tercüman, Güneş, Vatan, Posta, Takvim, Vakit, Yeni Safak, Fanatik e Turkish Daily News...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.845668,
+                    41.059725
+                ]
+            },
+            "properties": {
+                "entity": "Kanal D",
+                "name_location": "Kanal D, Avrupa Otoyolu, 100. Yıl Mahallesi, Bağcılar, İstanbul, Marmara Bölgesi, 34218, Turchia",
+                "class": "amenity",
+                "type": "studio",
+                "snippet": [
+                    "*...Star TV, TV Show, Sky Türk, MTV Türkiye, Türkiye Fox, Fox Sports Türkiye, NTV, Samanyolu TV, Kanal D, ATV, CNBC-e, CNN Türk, Cine5, TGRT Haber, Kanal 7, Kanal Turk, Flash TV e molti altri...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.901989,
+                    40.993597
+                ]
+            },
+            "properties": {
+                "entity": "Haber",
+                "name_location": "Zeytinburnu Haber Gazetesi, 53/1. Sokak, Yeşiltepe Mahallesi, Zeytinburnu, İstanbul, Marmara Bölgesi, 34025, Turchia",
+                "class": "office",
+                "type": "newspaper",
+                "snippet": [
+                    "*...Star TV, TV Show, Sky Türk, MTV Türkiye, Türkiye Fox, Fox Sports Türkiye, NTV, Samanyolu TV, Kanal D, ATV, CNBC-e, CNN Türk, Cine5, TGRT Haber, Kanal 7, Kanal Turk, Flash TV e molti altri...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.791363,
+                    40.995343
+                ]
+            },
+            "properties": {
+                "entity": "Kanal 7",
+                "name_location": "Kanal Sokağı, Gültepe Mahallesi, Küçükçekmece, İstanbul, Marmara Bölgesi, 34295, Turchia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Star TV, TV Show, Sky Türk, MTV Türkiye, Türkiye Fox, Fox Sports Türkiye, NTV, Samanyolu TV, Kanal D, ATV, CNBC-e, CNN Türk, Cine5, TGRT Haber, Kanal 7, Kanal Turk, Flash TV e molti altri...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.971624,
+                    41.008542
+                ]
+            },
+            "properties": {
+                "entity": "Çemberlitaş Hamamı",
+                "name_location": "Çemberlitaş Hammam, 8, Vezirhanı Caddesi, Mahmutpaşa, Molla Fenari Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34440, Turchia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Esso ha rappresentato uno dei luoghi preferiti dove passare il tempo libero durante tutto il periodo ottomano, uno dei più begli esempi è il Çemberlitaş Hamamı (1584), situato presso la piazza Çemberlitaş, l'antico foro di Costantino....",
+                    "*...Durante l'Impero Ottomano, molti Hamam sono stati costruiti accanto alle moschee, come parte della \"külliye\" (complesso)....",
+                    "*...Un bellissimo esempio di ciò è l'Hamam della moschea di Kilic Ali Pasa, costruita da Sinān...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.066861,
+                    40.976774
+                ]
+            },
+            "properties": {
+                "entity": "Sinān",
+                "name_location": "Sinan, Tercüman Çıkmaz Sokağı, Göztepe Mahallesi, Kadıköy, İstanbul, Marmara Bölgesi, 34730, Turchia",
+                "class": "building",
+                "type": "apartments",
+                "snippet": [
+                    "*...Il sultano Solimano il Magnifico commissionò a Sinān, il suo capo ingegnere e architetto, di migliorare il sistema idrico della città....",
+                    "*...Un bellissimo esempio di ciò è l'Hamam della moschea di Kilic Ali Pasa, costruita da Sinān...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.725801,
+                    40.983666
+                ]
+            },
+            "properties": {
+                "entity": "Avcılar",
+                "name_location": "Avcılar, Metrobüs, Üniversite Mahallesi, Avcılar, İstanbul, Marmara Bölgesi, 34320, Turchia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Amministrativamente il comune metropolitano di Istanbul si estende su tutti i distretti della provincia, comprendendo i distretti interamente urbani di Avcılar, Bağcilar, Bahçelievler, Bakırköy, Bayrampaşa, Beşiktaş, Beylikdüzü, Beyoğlu, Büyükçekmece, Esenler, Esenyurt, Fatih, Gaziosmanpaşa, Güngören, Kağıthane, Küçükçekmece, Sultangazi, Şişli, Zeytinburnu sulla sponda europea del Bosforo, e di Adalar, Ataşehir, Kadıköy, Kartal, Maltepe, Sultanbeyli, Tuzla, Ümraniye, Scutari (Üsküdar) sulla sponda asiatica....",
+                    "*...Il Metrobus di Istanbul è una linea di Bus Rapid Transit lunga 50 km con 44 stazioni che percorre l'anello stradale da Avcılar a Zincirlikuyu passando per il Ponte sul Bosforo sino a Söğütlüçeşme, unendo cosi' Europa e Asia, e usando corsie dedicate per gran parte della tratta...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.860619,
+                    41.032209
+                ]
+            },
+            "properties": {
+                "entity": "Bağcilar",
+                "name_location": "Bağcılar, 3. Sokak, Merkez Mahallesi, Bağcılar, İstanbul, Marmara Bölgesi, 34200, Turchia",
+                "class": "railway",
+                "type": "tram_stop",
+                "snippet": [
+                    "*...Amministrativamente il comune metropolitano di Istanbul si estende su tutti i distretti della provincia, comprendendo i distretti interamente urbani di Avcılar, Bağcilar, Bahçelievler, Bakırköy, Bayrampaşa, Beşiktaş, Beylikdüzü, Beyoğlu, Büyükçekmece, Esenler, Esenyurt, Fatih, Gaziosmanpaşa, Güngören, Kağıthane, Küçükçekmece, Sultangazi, Şişli, Zeytinburnu sulla sponda europea del Bosforo, e di Adalar, Ataşehir, Kadıköy, Kartal, Maltepe, Sultanbeyli, Tuzla, Ümraniye, Scutari (Üsküdar) sulla sponda asiatica...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.873018,
+                    40.982717
+                ]
+            },
+            "properties": {
+                "entity": "Bakırköy",
+                "name_location": "Bakırköy, İncirli Caddesi, Kartaltepe Mahallesi, Bakırköy, İstanbul, Marmara Bölgesi, 34145, Turchia",
+                "class": "amenity",
+                "type": "bus_station",
+                "snippet": [
+                    "*...Amministrativamente il comune metropolitano di Istanbul si estende su tutti i distretti della provincia, comprendendo i distretti interamente urbani di Avcılar, Bağcilar, Bahçelievler, Bakırköy, Bayrampaşa, Beşiktaş, Beylikdüzü, Beyoğlu, Büyükçekmece, Esenler, Esenyurt, Fatih, Gaziosmanpaşa, Güngören, Kağıthane, Küçükçekmece, Sultangazi, Şişli, Zeytinburnu sulla sponda europea del Bosforo, e di Adalar, Ataşehir, Kadıköy, Kartal, Maltepe, Sultanbeyli, Tuzla, Ümraniye, Scutari (Üsküdar) sulla sponda asiatica....",
+                    "*...I luoghi più popolari per bagnarsi sono in Bakırköy, Küçükçekmece e Sariyer...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.65917,
+                    41.009088
+                ]
+            },
+            "properties": {
+                "entity": "Beylikdüzü",
+                "name_location": "Beylikdüzü, E-5 Yanyol, Mevlana Mahallesi, Esenyurt, İstanbul, Marmara Bölgesi, 34515, Turchia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Amministrativamente il comune metropolitano di Istanbul si estende su tutti i distretti della provincia, comprendendo i distretti interamente urbani di Avcılar, Bağcilar, Bahçelievler, Bakırköy, Bayrampaşa, Beşiktaş, Beylikdüzü, Beyoğlu, Büyükçekmece, Esenler, Esenyurt, Fatih, Gaziosmanpaşa, Güngören, Kağıthane, Küçükçekmece, Sultangazi, Şişli, Zeytinburnu sulla sponda europea del Bosforo, e di Adalar, Ataşehir, Kadıköy, Kartal, Maltepe, Sultanbeyli, Tuzla, Ümraniye, Scutari (Üsküdar) sulla sponda asiatica...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.888587,
+                    41.037574
+                ]
+            },
+            "properties": {
+                "entity": "Esenler",
+                "name_location": "Esenler, Otogar Bağlantı Yolu Caddesi, Yavuz Selim Mahallesi, Esenler, İstanbul, Marmara Bölgesi, 34220, Turchia",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...Amministrativamente il comune metropolitano di Istanbul si estende su tutti i distretti della provincia, comprendendo i distretti interamente urbani di Avcılar, Bağcilar, Bahçelievler, Bakırköy, Bayrampaşa, Beşiktaş, Beylikdüzü, Beyoğlu, Büyükçekmece, Esenler, Esenyurt, Fatih, Gaziosmanpaşa, Güngören, Kağıthane, Küçükçekmece, Sultangazi, Şişli, Zeytinburnu sulla sponda europea del Bosforo, e di Adalar, Ataşehir, Kadıköy, Kartal, Maltepe, Sultanbeyli, Tuzla, Ümraniye, Scutari (Üsküdar) sulla sponda asiatica...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.915372,
+                    41.057326
+                ]
+            },
+            "properties": {
+                "entity": "Gaziosmanpaşa",
+                "name_location": "Gaziosmanpaşa, Merkez Caddesi, Merkez Mahallesi, Gaziosmanpaşa, İstanbul, Marmara Bölgesi, 34245, Turchia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Amministrativamente il comune metropolitano di Istanbul si estende su tutti i distretti della provincia, comprendendo i distretti interamente urbani di Avcılar, Bağcilar, Bahçelievler, Bakırköy, Bayrampaşa, Beşiktaş, Beylikdüzü, Beyoğlu, Büyükçekmece, Esenler, Esenyurt, Fatih, Gaziosmanpaşa, Güngören, Kağıthane, Küçükçekmece, Sultangazi, Şişli, Zeytinburnu sulla sponda europea del Bosforo, e di Adalar, Ataşehir, Kadıköy, Kartal, Maltepe, Sultanbeyli, Tuzla, Ümraniye, Scutari (Üsküdar) sulla sponda asiatica...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.877455,
+                    41.015247
+                ]
+            },
+            "properties": {
+                "entity": "Güngören",
+                "name_location": "Güngören, Karadeniz Caddesi, Güven Mahallesi, Güngören, İstanbul, Marmara Bölgesi, 34160, Turchia",
+                "class": "railway",
+                "type": "tram_stop",
+                "snippet": [
+                    "*...Amministrativamente il comune metropolitano di Istanbul si estende su tutti i distretti della provincia, comprendendo i distretti interamente urbani di Avcılar, Bağcilar, Bahçelievler, Bakırköy, Bayrampaşa, Beşiktaş, Beylikdüzü, Beyoğlu, Büyükçekmece, Esenler, Esenyurt, Fatih, Gaziosmanpaşa, Güngören, Kağıthane, Küçükçekmece, Sultangazi, Şişli, Zeytinburnu sulla sponda europea del Bosforo, e di Adalar, Ataşehir, Kadıköy, Kartal, Maltepe, Sultanbeyli, Tuzla, Ümraniye, Scutari (Üsküdar) sulla sponda asiatica...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.973654,
+                    41.079051
+                ]
+            },
+            "properties": {
+                "entity": "Kağıthane",
+                "name_location": "Kağıthane, Develi Caddesi, Merkez Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34406, Turchia",
+                "class": "amenity",
+                "type": "bus_station",
+                "snippet": [
+                    "*...Amministrativamente il comune metropolitano di Istanbul si estende su tutti i distretti della provincia, comprendendo i distretti interamente urbani di Avcılar, Bağcilar, Bahçelievler, Bakırköy, Bayrampaşa, Beşiktaş, Beylikdüzü, Beyoğlu, Büyükçekmece, Esenler, Esenyurt, Fatih, Gaziosmanpaşa, Güngören, Kağıthane, Küçükçekmece, Sultangazi, Şişli, Zeytinburnu sulla sponda europea del Bosforo, e di Adalar, Ataşehir, Kadıköy, Kartal, Maltepe, Sultanbeyli, Tuzla, Ümraniye, Scutari (Üsküdar) sulla sponda asiatica...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.891067,
+                    41.090845
+                ]
+            },
+            "properties": {
+                "entity": "Sultangazi",
+                "name_location": "Küçükköy - Sultangazi Kavşağı, Yunus Emre Mahallesi, Sultangazi, İstanbul, Marmara Bölgesi, 34260, Turchia",
+                "class": "highway",
+                "type": "motorway_link",
+                "snippet": [
+                    "*...Amministrativamente il comune metropolitano di Istanbul si estende su tutti i distretti della provincia, comprendendo i distretti interamente urbani di Avcılar, Bağcilar, Bahçelievler, Bakırköy, Bayrampaşa, Beşiktaş, Beylikdüzü, Beyoğlu, Büyükçekmece, Esenler, Esenyurt, Fatih, Gaziosmanpaşa, Güngören, Kağıthane, Küçükçekmece, Sultangazi, Şişli, Zeytinburnu sulla sponda europea del Bosforo, e di Adalar, Ataşehir, Kadıköy, Kartal, Maltepe, Sultanbeyli, Tuzla, Ümraniye, Scutari (Üsküdar) sulla sponda asiatica...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.069304,
+                    40.881067
+                ]
+            },
+            "properties": {
+                "entity": "Adalar",
+                "name_location": "Adalar, Çarşı Caddesi, Burgazada Mahallesi, Isole dei Principi, İstanbul, Marmara Bölgesi, 34975, Turchia",
+                "class": "shop",
+                "type": "convenience",
+                "snippet": [
+                    "*...Amministrativamente il comune metropolitano di Istanbul si estende su tutti i distretti della provincia, comprendendo i distretti interamente urbani di Avcılar, Bağcilar, Bahçelievler, Bakırköy, Bayrampaşa, Beşiktaş, Beylikdüzü, Beyoğlu, Büyükçekmece, Esenler, Esenyurt, Fatih, Gaziosmanpaşa, Güngören, Kağıthane, Küçükçekmece, Sultangazi, Şişli, Zeytinburnu sulla sponda europea del Bosforo, e di Adalar, Ataşehir, Kadıköy, Kartal, Maltepe, Sultanbeyli, Tuzla, Ümraniye, Scutari (Üsküdar) sulla sponda asiatica....",
+                    "*...Le Isole dei Principi (Adalar) sono un gruppo di isole in cui è proibito il trasporto a motore:..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.126651,
+                    40.990794
+                ]
+            },
+            "properties": {
+                "entity": "Ataşehir",
+                "name_location": "Ataşehir, Çitlenbik Caddesi, Gardenya 6 Sitesi, Atatürk Mahallesi, Ataşehir, İstanbul, Marmara Bölgesi, 34758, Turchia",
+                "class": "railway",
+                "type": "construction",
+                "snippet": [
+                    "*...Amministrativamente il comune metropolitano di Istanbul si estende su tutti i distretti della provincia, comprendendo i distretti interamente urbani di Avcılar, Bağcilar, Bahçelievler, Bakırköy, Bayrampaşa, Beşiktaş, Beylikdüzü, Beyoğlu, Büyükçekmece, Esenler, Esenyurt, Fatih, Gaziosmanpaşa, Güngören, Kağıthane, Küçükçekmece, Sultangazi, Şişli, Zeytinburnu sulla sponda europea del Bosforo, e di Adalar, Ataşehir, Kadıköy, Kartal, Maltepe, Sultanbeyli, Tuzla, Ümraniye, Scutari (Üsküdar) sulla sponda asiatica...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.020443,
+                    40.991397
+                ]
+            },
+            "properties": {
+                "entity": "Kadıköy",
+                "name_location": "Kadıköy, Rıhtım Caddesi, Caferağa Mahallesi, Kadıköy, İstanbul, Marmara Bölgesi, 34710, Turchia",
+                "class": "amenity",
+                "type": "ferry_terminal",
+                "snippet": [
+                    "*...Amministrativamente il comune metropolitano di Istanbul si estende su tutti i distretti della provincia, comprendendo i distretti interamente urbani di Avcılar, Bağcilar, Bahçelievler, Bakırköy, Bayrampaşa, Beşiktaş, Beylikdüzü, Beyoğlu, Büyükçekmece, Esenler, Esenyurt, Fatih, Gaziosmanpaşa, Güngören, Kağıthane, Küçükçekmece, Sultangazi, Şişli, Zeytinburnu sulla sponda europea del Bosforo, e di Adalar, Ataşehir, Kadıköy, Kartal, Maltepe, Sultanbeyli, Tuzla, Ümraniye, Scutari (Üsküdar) sulla sponda asiatica....",
+                    "*...Le zone intorno Istiklal Caddesi, Nisantasi, Bebek e Kadıköy offrono tutti i tipi di caffè, ristoranti, pub e discoteche, nonché gallerie d'arte, teatri e Cinema....",
+                    "*...Inoltre due cosiddette linee del tram nostalgico, la T3 e la T2, la prima in Asia e la seconda in Europa, provvedono al trasporto locale rispettivamente a Kadıköy e a Beyoğlu...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.133972,
+                    40.938668
+                ]
+            },
+            "properties": {
+                "entity": "Maltepe",
+                "name_location": "Maltepe (My Office) Golden Plaza, Öz Sokağı, Yaşamkent Sitesi, Altayçeşme Mahallesi, Maltepe, İstanbul, Marmara Bölgesi, 34843, Turchia",
+                "class": "office",
+                "type": "yes",
+                "snippet": [
+                    "*...Amministrativamente il comune metropolitano di Istanbul si estende su tutti i distretti della provincia, comprendendo i distretti interamente urbani di Avcılar, Bağcilar, Bahçelievler, Bakırköy, Bayrampaşa, Beşiktaş, Beylikdüzü, Beyoğlu, Büyükçekmece, Esenler, Esenyurt, Fatih, Gaziosmanpaşa, Güngören, Kağıthane, Küçükçekmece, Sultangazi, Şişli, Zeytinburnu sulla sponda europea del Bosforo, e di Adalar, Ataşehir, Kadıköy, Kartal, Maltepe, Sultanbeyli, Tuzla, Ümraniye, Scutari (Üsküdar) sulla sponda asiatica...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.245561,
+                    40.975455
+                ]
+            },
+            "properties": {
+                "entity": "Sultanbeyli",
+                "name_location": "Sultanbeyli, TEM Otoyolu, Veysel Karani Mahallesi, Sancaktepe, İstanbul, Marmara Bölgesi, 34885, Turchia",
+                "class": "highway",
+                "type": "motorway_junction",
+                "snippet": [
+                    "*...Amministrativamente il comune metropolitano di Istanbul si estende su tutti i distretti della provincia, comprendendo i distretti interamente urbani di Avcılar, Bağcilar, Bahçelievler, Bakırköy, Bayrampaşa, Beşiktaş, Beylikdüzü, Beyoğlu, Büyükçekmece, Esenler, Esenyurt, Fatih, Gaziosmanpaşa, Güngören, Kağıthane, Küçükçekmece, Sultangazi, Şişli, Zeytinburnu sulla sponda europea del Bosforo, e di Adalar, Ataşehir, Kadıköy, Kartal, Maltepe, Sultanbeyli, Tuzla, Ümraniye, Scutari (Üsküdar) sulla sponda asiatica...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.303999,
+                    40.815053
+                ]
+            },
+            "properties": {
+                "entity": "Tuzla",
+                "name_location": "Tuzla, Ahmet Kılıç Bulvarı, Cami, Cami Mahallesi, Tuzla, İstanbul, Marmara Bölgesi, 34940, Turchia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Amministrativamente il comune metropolitano di Istanbul si estende su tutti i distretti della provincia, comprendendo i distretti interamente urbani di Avcılar, Bağcilar, Bahçelievler, Bakırköy, Bayrampaşa, Beşiktaş, Beylikdüzü, Beyoğlu, Büyükçekmece, Esenler, Esenyurt, Fatih, Gaziosmanpaşa, Güngören, Kağıthane, Küçükçekmece, Sultangazi, Şişli, Zeytinburnu sulla sponda europea del Bosforo, e di Adalar, Ataşehir, Kadıköy, Kartal, Maltepe, Sultanbeyli, Tuzla, Ümraniye, Scutari (Üsküdar) sulla sponda asiatica...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.084643,
+                    41.024726
+                ]
+            },
+            "properties": {
+                "entity": "Ümraniye",
+                "name_location": "Ümraniye, Bosna Bulvarı, Tantavi Mahallesi, Ümraniye, İstanbul, Marmara Bölgesi, 34692, Turchia",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Amministrativamente il comune metropolitano di Istanbul si estende su tutti i distretti della provincia, comprendendo i distretti interamente urbani di Avcılar, Bağcilar, Bahçelievler, Bakırköy, Bayrampaşa, Beşiktaş, Beylikdüzü, Beyoğlu, Büyükçekmece, Esenler, Esenyurt, Fatih, Gaziosmanpaşa, Güngören, Kağıthane, Küçükçekmece, Sultangazi, Şişli, Zeytinburnu sulla sponda europea del Bosforo, e di Adalar, Ataşehir, Kadıköy, Kartal, Maltepe, Sultanbeyli, Tuzla, Ümraniye, Scutari (Üsküdar) sulla sponda asiatica...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.01278,
+                    41.025266
+                ]
+            },
+            "properties": {
+                "entity": "Üsküdar",
+                "name_location": "Üsküdar, Rumi Mehmet Paşa Sokağı, Mimar Sinan Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34672, Turchia",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Amministrativamente il comune metropolitano di Istanbul si estende su tutti i distretti della provincia, comprendendo i distretti interamente urbani di Avcılar, Bağcilar, Bahçelievler, Bakırköy, Bayrampaşa, Beşiktaş, Beylikdüzü, Beyoğlu, Büyükçekmece, Esenler, Esenyurt, Fatih, Gaziosmanpaşa, Güngören, Kağıthane, Küçükçekmece, Sultangazi, Şişli, Zeytinburnu sulla sponda europea del Bosforo, e di Adalar, Ataşehir, Kadıköy, Kartal, Maltepe, Sultanbeyli, Tuzla, Ümraniye, Scutari (Üsküdar) sulla sponda asiatica...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.975704,
+                    41.021627
+                ]
+            },
+            "properties": {
+                "entity": "Karaköy",
+                "name_location": "Karaköy, Rıhtım Caddesi, Karaköy, Kemankeş Karamustafa Paşa, Kemankeş Karamustafa Paşa Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34425, Turchia",
+                "class": "amenity",
+                "type": "ferry_terminal",
+                "snippet": [
+                    "*...Galata (il cui nome si dice derivi dalla parola greca \"galà-ktòs\", che vuol dire latte), l'antica colonia genovese sul Corno d'Oro, oggi noto come Karaköy;...",
+                    "*...Il vecchio porto sul Corno d'Oro serve principalmente per la navigazione privata, mentre quello di Karaköy (Galata) è utilizzato dalle navi da crociera di grandi dimensioni...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.124775,
+                    40.926938
+                ]
+            },
+            "properties": {
+                "entity": "Liberty",
+                "name_location": "Liberty, Dilekli Sokağı, Süreyyaplajı, Feyzullah Mahallesi, Maltepe, İstanbul, Marmara Bölgesi, 34843, Turchia",
+                "class": "amenity",
+                "type": "cafe",
+                "snippet": [
+                    "...Beyoğlu, al di là del Corno d'Oro, l'antica Pera, il cui tessuto urbanistico è prevalentemente Liberty;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.975009,
+                    41.023559
+                ]
+            },
+            "properties": {
+                "entity": "Bankalar Caddesi",
+                "name_location": "Bankalar Caddesi, Azapkapı, Arap Cami, Arap Cami Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34421, Turchia",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Nel corso del XIX secolo e nei primi del XX secolo, Bankalar Caddesi (Corso delle Banche) a Galata è stato il centro finanziario dell'Impero ottomano, dove vi era la sede centrale della Banca Ottomana e Borsa Ottomana di Istanbul....",
+                    "*...Bankalar Caddesi ha continuato a essere il principale quartiere finanziario di Istanbul fino al 1990, quando la maggior parte delle banche turche hanno cominciato a spostare il loro quartier generale per presso i moderni quartieri di Levent e Maslak...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.972747,
+                    41.014618
+                ]
+            },
+            "properties": {
+                "entity": "Levent",
+                "name_location": "Levent, Asir Efendi Caddesi, Sirkeci, Hobyar Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34112, Turchia",
+                "class": "shop",
+                "type": "clothes",
+                "snippet": [
+                    "*...Bankalar Caddesi ha continuato a essere il principale quartiere finanziario di Istanbul fino al 1990, quando la maggior parte delle banche turche hanno cominciato a spostare il loro quartier generale per presso i moderni quartieri di Levent e Maslak...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.035795,
+                    41.112809
+                ]
+            },
+            "properties": {
+                "entity": "Istinye",
+                "name_location": "Enka Acik ve Kapali Havuz, Istinye, Katar Caddesi, Poligon Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34460, Turchia",
+                "class": "leisure",
+                "type": "swimming_pool",
+                "snippet": [
+                    "*...Nel 1995, la Borsa di Istanbul si è trasferita nella suo attuale edificio nel quartiere di Istinye....",
+                    "...Nisantasi Istinye (2007) e City (2008) sono due nuovi centri commerciali dedicati ai consumatori di fascia alta e propongono quasi esclusivamente celebri brand di alta moda...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.981408,
+                    41.030307
+                ]
+            },
+            "properties": {
+                "entity": "Antalya",
+                "name_location": "Antalya, 7, Kasatura Sokağı, Firuzağa, Firuzağa Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34425, Turchia",
+                "class": "place",
+                "type": "house",
+                "snippet": [
+                    "*...Nel 2006 un totale di 23.148.669 turisti hanno visitato la Turchia, la maggior parte dei quali sono entrati nel paese attraverso i porti e gli aeroporti di Istanbul e Antalya...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.773069,
+                    40.988531
+                ]
+            },
+            "properties": {
+                "entity": "Küçükçekmece",
+                "name_location": "Küçükçekmece, İstanbul Caddesi, Fatih Mahallesi, Küçükçekmece, İstanbul, Marmara Bölgesi, 34290, Turchia",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Amministrativamente il comune metropolitano di Istanbul si estende su tutti i distretti della provincia, comprendendo i distretti interamente urbani di Avcılar, Bağcilar, Bahçelievler, Bakırköy, Bayrampaşa, Beşiktaş, Beylikdüzü, Beyoğlu, Büyükçekmece, Esenler, Esenyurt, Fatih, Gaziosmanpaşa, Güngören, Kağıthane, Küçükçekmece, Sultangazi, Şişli, Zeytinburnu sulla sponda europea del Bosforo, e di Adalar, Ataşehir, Kadıköy, Kartal, Maltepe, Sultanbeyli, Tuzla, Ümraniye, Scutari (Üsküdar) sulla sponda asiatica....",
+                    "*...I luoghi più popolari per bagnarsi sono in Bakırköy, Küçükçekmece e Sariyer...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.98895,
+                    41.031731
+                ]
+            },
+            "properties": {
+                "entity": "Sariyer",
+                "name_location": "Sariyer, Mebusan Yokuşu, Fındıklı, Pürtelaş Hasan Efendi, Pürtelaş Hasan Efendi Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34437, Turchia",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...I luoghi più popolari per bagnarsi sono in Bakırköy, Küçükçekmece e Sariyer...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.042,
+                    41.253
+                ]
+            },
+            "properties": {
+                "entity": "Kilyos",
+                "name_location": "Kilyos, Seymenağa Sokak, Kumköy (Kilyos) Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34450, Turchia",
+                "class": "man_made",
+                "type": "monitoring_station",
+                "snippet": [
+                    "*...Fuori dalla città vi sono le Isole dei Principi e Kilyos e Şile sul Mar Nero....",
+                    "*...Kilyos è una piccola località balneare tranquilla, situata in Europa, non lontano dall'ingresso settentrionale del Bosforo, sul Mar Nero....",
+                    "*...Kilyos offre una spiaggia con ristoranti di pesce e locali notturni, particolarmente attivo in estate con molte feste notturne e concerti dal vivo sulla spiaggia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.605376,
+                    41.176365
+                ]
+            },
+            "properties": {
+                "entity": "Şile",
+                "name_location": "Sıle TUDES Mareograf İstasyonu (SILE), Üsküdar Caddesi, Çavuş, Çavuş Mahallesi, Şile, İstanbul, Marmara Bölgesi, 34980, Turchia",
+                "class": "man_made",
+                "type": "monitoring_station",
+                "snippet": [
+                    "*...Fuori dalla città vi sono le Isole dei Principi e Kilyos e Şile sul Mar Nero....",
+                    "...Şile è una lontana e rinomata località balneare turca sul Mar Nero, a 50 chilometri da Istanbul, dove possono essere trovate spiagge incontaminate di sabbia bianca...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.869271,
+                    40.974456
+                ]
+            },
+            "properties": {
+                "entity": "galleria Ataköy",
+                "name_location": "Galleria Ataköy, Kennedy Caddesi, Ataköy 1. Kısım Mahallesi, Bakırköy, İstanbul, Marmara Bölgesi, Turchia",
+                "class": "shop",
+                "type": "clothes",
+                "snippet": [
+                    "*...Il primo centro commerciale moderno in Turchia è stata la galleria Ataköy (1987), che è stata seguita da decine di altri centri sorti negli ultimi decenni, come Akmerkez (1993), Metrocity (2003), Mall Cevahir (2005) che è il più grande centro commerciale in Europa, e il Mercato Kanyon (2006)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.025149,
+                    41.07728
+                ]
+            },
+            "properties": {
+                "entity": "Akmerkez",
+                "name_location": "Akmerkez, Nisbetiye Caddesi, Kültür Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34335, Turchia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Il primo centro commerciale moderno in Turchia è stata la galleria Ataköy (1987), che è stata seguita da decine di altri centri sorti negli ultimi decenni, come Akmerkez (1993), Metrocity (2003), Mall Cevahir (2005) che è il più grande centro commerciale in Europa, e il Mercato Kanyon (2006)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.935238,
+                    41.030014
+                ]
+            },
+            "properties": {
+                "entity": "City",
+                "name_location": "İstanbul Surları, Hacı Muhiddin Cami Sokağı, Karagümrük Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34091, Turchia",
+                "class": "historic",
+                "type": "citywalls",
+                "snippet": [
+                    "*...Nisantasi Istinye (2007) e City (2008) sono due nuovi centri commerciali dedicati ai consumatori di fascia alta e propongono quasi esclusivamente celebri brand di alta moda...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.973988,
+                    41.028346
+                ]
+            },
+            "properties": {
+                "entity": "Beyoĝlu",
+                "name_location": "Beyoğlu, Tünel Meydanı Sokağı, Tünel, Asmalı Mescit, Asmalı Mescit Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34430, Turchia",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...Soprattutto nella zona di Beyoĝlu, esistono anche numerose Meyhane, semplici locali dove si va a bere vino e ascoltare musica turca...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.974477,
+                    41.030145
+                ]
+            },
+            "properties": {
+                "entity": "Meyhane",
+                "name_location": "Yare Meyhane, Asmalı Mescit Sokak, Tünel, Asmalı Mescit, Asmalı Mescit Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34430, Turchia",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...Soprattutto nella zona di Beyoĝlu, esistono anche numerose Meyhane, semplici locali dove si va a bere vino e ascoltare musica turca...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.964571,
+                    41.005113
+                ]
+            },
+            "properties": {
+                "entity": "Kumkapı",
+                "name_location": "Kumkapi, Çifte Gelinler Caddesi, Mimar Hayrettin Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, Turchia",
+                "class": "amenity",
+                "type": "bar",
+                "snippet": [
+                    "*...Istanbul è anche famosa per i suoi storici ristoranti di pesce, ad esempio, il quartiere di Kumkapı ha una zona pedonale che è dedicata esclusivamente a questa tipologia di locali...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.04326,
+                    41.076615
+                ]
+            },
+            "properties": {
+                "entity": "Bebek",
+                "name_location": "Bebek, Cevdetpaşa Caddesi, Bebek Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34342, Turchia",
+                "class": "amenity",
+                "type": "bus_station",
+                "snippet": [
+                    "...Bebek, quartiere molto elegante e centro residenziale di lusso posto sulla riva europea tra i due ponti sul Bosforo;...",
+                    "*...Molti altri, e di alto livello, si trovano lungo le rive del Bosforo, in particolare a Bebek, Arnavutköy, Yeniköy, Beylerbeyi e Çengelköy, e a Yeşilköy, in riva al Mar di Marmara verso l'ovest della città....",
+                    "*...Le zone intorno Istiklal Caddesi, Nisantasi, Bebek e Kadıköy offrono tutti i tipi di caffè, ristoranti, pub e discoteche, nonché gallerie d'arte, teatri e Cinema...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.8955,
+                    40.988836
+                ]
+            },
+            "properties": {
+                "entity": "Yeniköy",
+                "name_location": "Yeniköy, Şehit Er Yavuz Bahar Sokağı, Sümer Mahallesi, Zeytinburnu, İstanbul, Marmara Bölgesi, 34025, Turchia",
+                "class": "amenity",
+                "type": "cafe",
+                "snippet": [
+                    "*...Molti altri, e di alto livello, si trovano lungo le rive del Bosforo, in particolare a Bebek, Arnavutköy, Yeniköy, Beylerbeyi e Çengelköy, e a Yeşilköy, in riva al Mar di Marmara verso l'ovest della città...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.044174,
+                    41.035094
+                ]
+            },
+            "properties": {
+                "entity": "Beylerbeyi",
+                "name_location": "Beylerbeyi, Beylerbeyi Köprülü Kavşağı, Kuzguncuk Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34674, Turchia",
+                "class": "highway",
+                "type": "motorway_junction",
+                "snippet": [
+                    "*...Molti altri, e di alto livello, si trovano lungo le rive del Bosforo, in particolare a Bebek, Arnavutköy, Yeniköy, Beylerbeyi e Çengelköy, e a Yeşilköy, in riva al Mar di Marmara verso l'ovest della città...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.82488,
+                    40.962733
+                ]
+            },
+            "properties": {
+                "entity": "Yeşilköy",
+                "name_location": "Yeşilköy, Eski Havaalanı Caddesi, Yeşilköy Mahallesi, Bakırköy, İstanbul, Marmara Bölgesi, 34149, Turchia",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Molti altri, e di alto livello, si trovano lungo le rive del Bosforo, in particolare a Bebek, Arnavutköy, Yeniköy, Beylerbeyi e Çengelköy, e a Yeşilköy, in riva al Mar di Marmara verso l'ovest della città....",
+                    "*...Il più grande era l'Aeroporto Internazionale Atatürk, che si trova nel quartiere di Yeşilköy sul versante europeo a circa 24 chilometri a ovest dal centro della città...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.988834,
+                    41.05337
+                ]
+            },
+            "properties": {
+                "entity": "Nisantasi",
+                "name_location": "Sarar, 54, Rumeli Caddesi, Harbiye, Harbiye Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34374, Turchia",
+                "class": "shop",
+                "type": "clothes",
+                "snippet": [
+                    "...Nisantasi Istinye (2007) e City (2008) sono due nuovi centri commerciali dedicati ai consumatori di fascia alta e propongono quasi esclusivamente celebri brand di alta moda....",
+                    "*...Le zone intorno Istiklal Caddesi, Nisantasi, Bebek e Kadıköy offrono tutti i tipi di caffè, ristoranti, pub e discoteche, nonché gallerie d'arte, teatri e Cinema...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.982759,
+                    41.03561
+                ]
+            },
+            "properties": {
+                "entity": "Sortie",
+                "name_location": "Sortie accessories, 55, İstiklal Caddesi, Katip Mustafa Çelebi Mahallesi, Kuloğlu Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34435, Turchia",
+                "class": "shop",
+                "type": "cosmetics",
+                "snippet": [
+                    "*...I più popolari dei locali estivi a cielo aperto si trovano sul Bosforo, come \"Sortie\", \"Reina\" e \"Anjelique\" nel quartiere Ortaköy...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.021425,
+                    41.127091
+                ]
+            },
+            "properties": {
+                "entity": "Parkorman",
+                "name_location": "Fatih Parkorman Tabiat Parkı Etkinlik Alanı, Büyükdere Caddesi, Maslak Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Turchia",
+                "class": "amenity",
+                "type": "events_venue",
+                "snippet": [
+                    "...Parkorman' in Maslak ha ospitato l'isola di MTV nel 2002 ed è un popolare luogo di ritrovo per concerti dal vivo e feste rave in estate...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.009924,
+                    41.010827
+                ]
+            },
+            "properties": {
+                "entity": "Harem",
+                "name_location": "Harem, Üsküdar Harem Sahil Yolu, Salacak Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34668, Turchia",
+                "class": "amenity",
+                "type": "ferry_terminal",
+                "snippet": [
+                    "*...Il porto mercantile principale di Istanbul si trova nel quartiere di Harem nella parte asiatica della città...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.908303,
+                    41.043295
+                ]
+            },
+            "properties": {
+                "entity": "Varna",
+                "name_location": "Varna Çıkmazı, İsmet Paşa Mahallesi, Bayrampaşa, İstanbul, Marmara Bölgesi, 34040, Turchia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Nel 1883, un imprenditore belga, Georges Nagelmackers, cominciò un servizio ferroviario tra Parigi e Istanbul, con una nave a vapore che trasportava i passeggeri da Varna a Costantinopoli...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.976425,
+                    41.015276
+                ]
+            },
+            "properties": {
+                "entity": "TCDD",
+                "name_location": "TCDD 2451, Sirkeci İstasyon Caddesi, Hocapaşa Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34110, Turchia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...La Stazione di Sirkeci delle Ferrovie dello Stato turche (TCDD), che era stata originariamente aperta nel 1890 come capolinea dell'Orient Express, era il capolinea dei collegamenti ferroviari fra Istanbul e il resto d'Europa, i quali corrono lungo la linea Istanbul-Salonicco, in Grecia, ma è stata chiusa con l'entrata in funzione della linea Marmaray...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.977406,
+                    41.013308
+                ]
+            },
+            "properties": {
+                "entity": "Orient Express",
+                "name_location": "Orient Express Hotel, Hüdavendigar Caddesi, Hocapaşa Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34110, Turchia",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...Il percorso era conosciuto come Orient Express, reso ancor più celebre dalle opere di Agatha Christie e Graham Greene....",
+                    "*...La Stazione di Sirkeci delle Ferrovie dello Stato turche (TCDD), che era stata originariamente aperta nel 1890 come capolinea dell'Orient Express, era il capolinea dei collegamenti ferroviari fra Istanbul e il resto d'Europa, i quali corrono lungo la linea Istanbul-Salonicco, in Grecia, ma è stata chiusa con l'entrata in funzione della linea Marmaray...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.766707,
+                    41.018429
+                ]
+            },
+            "properties": {
+                "entity": "Halkalı",
+                "name_location": "Halkalı, Yarımburgaz Caddesi, Halkalı, İstasyon Mahallesi, Küçükçekmece, İstanbul, Marmara Bölgesi, 34303, Turchia",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "...Questi sono stati progettati per incanalare l'acqua dalla zona Halkalı, nel bordo occidentale della città, al quartiere Beyazıt, nel centro della città....",
+                    "*...La prima correva lungo la sponda del Mar di Marmara tra la stazione centrale della parte europea, il Terminal di Sirkeci, e il sobborgo di Halkalı a ovest del centro della città, con 18 stazioni lungo i suoi 30 km di lunghezza...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.868837,
+                    41.059054
+                ]
+            },
+            "properties": {
+                "entity": "Gebze",
+                "name_location": "Gebze Sokağı, Havaalanı Mahallesi, Esenler, İstanbul, Marmara Bölgesi, 34230, Turchia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...La seconda correva nella parte anatolica, dal terminal ferroviario di Haydarpaşa sino a Gebze all'estremità orientale della conurbazione...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.980008,
+                    41.026789
+                ]
+            },
+            "properties": {
+                "entity": "Tophane",
+                "name_location": "Tophane, Kemeraltı Caddesi, Hacımimi, Hacımimi Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34425, Turchia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Il primo tram è entrato in servizio a Istanbul il 3 settembre 1869 fra Tophane e Ortaköy...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.871425,
+                    41.017085
+                ]
+            },
+            "properties": {
+                "entity": "T1",
+                "name_location": "T1 Kabataş - Bağcılar Tramvay Hattı, Abdi İpekçi Caddesi, Akıncılar Mahallesi, Güngören, İstanbul, Marmara Bölgesi, 34160, Turchia",
+                "class": "railway",
+                "type": "tram",
+                "snippet": [
+                    "*...Un tram veloce (T1) è entrato in servizio nel 1992 nella parte europea della città....",
+                    "*...Nel settembre 2006, una seconda linea di tram (T2) è stata aggiunta sempre in Europa, unendo Zeytinburnu a Bagcilar, ed è stata poi fusa con la T1....",
+                    "*...Oltre che con Marmaray (che collega le linee sul lato europeo e asiatico della città) il sistema è collegato con le linee funicolari F1, Tünel (F2) e F4 e con la rete di superficie delle linee tranviarie T1, T4 e T5...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.973863,
+                    41.028486
+                ]
+            },
+            "properties": {
+                "entity": "T2",
+                "name_location": "T2, Tünel Meydanı Sokağı, Tünel, Asmalı Mescit, Asmalı Mescit Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34431, Turchia",
+                "class": "railway",
+                "type": "tram",
+                "snippet": [
+                    "*...Nel settembre 2006, una seconda linea di tram (T2) è stata aggiunta sempre in Europa, unendo Zeytinburnu a Bagcilar, ed è stata poi fusa con la T1....",
+                    "*...Inoltre due cosiddette linee del tram nostalgico, la T3 e la T2, la prima in Asia e la seconda in Europa, provvedono al trasporto locale rispettivamente a Kadıköy e a Beyoğlu...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.860619,
+                    41.032209
+                ]
+            },
+            "properties": {
+                "entity": "Bagcilar",
+                "name_location": "Bağcılar, 3. Sokak, Merkez Mahallesi, Bağcılar, İstanbul, Marmara Bölgesi, 34200, Turchia",
+                "class": "railway",
+                "type": "tram_stop",
+                "snippet": [
+                    "*...Nel settembre 2006, una seconda linea di tram (T2) è stata aggiunta sempre in Europa, unendo Zeytinburnu a Bagcilar, ed è stata poi fusa con la T1...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.819841,
+                    40.973433
+                ]
+            },
+            "properties": {
+                "entity": "T4",
+                "name_location": "T4, Eski Havaalanı Caddesi, Yeşilköy Mahallesi, Bakırköy, İstanbul, Marmara Bölgesi, 34149, Turchia",
+                "class": "aeroway",
+                "type": "parking_position",
+                "snippet": [
+                    "*...Altre due linee in Europa, la T4 (Topkapı - Mescid-i Selam, considerata pero' una metropolitana leggera) e la T5 (Eminönü - Alibeyköy Cep Bus Terminal) che nel primo tratto corre lungo il Corno d'oro, sono state inaugurate rispettivamente nel 2007 e nel 2021....",
+                    "*...L'altra linea (T4) è stata inaugurata nel 2007 tra Edirnekapi e Mescid-i Selam....",
+                    "*...Oltre che con Marmaray (che collega le linee sul lato europeo e asiatico della città) il sistema è collegato con le linee funicolari F1, Tünel (F2) e F4 e con la rete di superficie delle linee tranviarie T1, T4 e T5...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.9253,
+                    41.021714
+                ]
+            },
+            "properties": {
+                "entity": "Topkapı - Mescid-i Selam",
+                "name_location": "T4 Topkapı - Mescid-i Selam Tramvay Hattı, 10. Yıl Caddesi, Maltepe Mahallesi, Zeytinburnu, İstanbul, Marmara Bölgesi, 34010, Turchia",
+                "class": "railway",
+                "type": "tram",
+                "snippet": [
+                    "*...Altre due linee in Europa, la T4 (Topkapı - Mescid-i Selam, considerata pero' una metropolitana leggera) e la T5 (Eminönü - Alibeyköy Cep Bus Terminal) che nel primo tratto corre lungo il Corno d'oro, sono state inaugurate rispettivamente nel 2007 e nel 2021....",
+                    "*...L'altra linea (T4) è stata inaugurata nel 2007 tra Edirnekapi e Mescid-i Selam...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.969153,
+                    41.018358
+                ]
+            },
+            "properties": {
+                "entity": "T5",
+                "name_location": "T5, Ragip Gümüşpala Caddesi, Eminönü, Rüstempaşa Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34116, Turchia",
+                "class": "railway",
+                "type": "construction",
+                "snippet": [
+                    "*...Altre due linee in Europa, la T4 (Topkapı - Mescid-i Selam, considerata pero' una metropolitana leggera) e la T5 (Eminönü - Alibeyköy Cep Bus Terminal) che nel primo tratto corre lungo il Corno d'oro, sono state inaugurate rispettivamente nel 2007 e nel 2021....",
+                    "*...Oltre che con Marmaray (che collega le linee sul lato europeo e asiatico della città) il sistema è collegato con le linee funicolari F1, Tünel (F2) e F4 e con la rete di superficie delle linee tranviarie T1, T4 e T5...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.973228,
+                    41.017494
+                ]
+            },
+            "properties": {
+                "entity": "Eminönü",
+                "name_location": "Eminönü, Reşadiye Caddesi, Sirkeci, Hobyar Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34112, Turchia",
+                "class": "railway",
+                "type": "tram_stop",
+                "snippet": [
+                    "...Eminönü, corrispondente al cuore storico di Istanbul, nel distretto di Fatih;...",
+                    "*...Altre due linee in Europa, la T4 (Topkapı - Mescid-i Selam, considerata pero' una metropolitana leggera) e la T5 (Eminönü - Alibeyköy Cep Bus Terminal) che nel primo tratto corre lungo il Corno d'oro, sono state inaugurate rispettivamente nel 2007 e nel 2021...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.738754,
+                    41.270849
+                ]
+            },
+            "properties": {
+                "entity": "T3",
+                "name_location": "T3, Devriye Yolu, Tayakadın Mahallesi, Yeniköy Mahallesi, Arnavutköy, İstanbul, Marmara Bölgesi, 34277, Turchia",
+                "class": "aeroway",
+                "type": "taxiway",
+                "snippet": [
+                    "*...Inoltre due cosiddette linee del tram nostalgico, la T3 e la T2, la prima in Asia e la seconda in Europa, provvedono al trasporto locale rispettivamente a Kadıköy e a Beyoğlu...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.971145,
+                    41.008465
+                ]
+            },
+            "properties": {
+                "entity": "Tram",
+                "name_location": "Çemberlitaş, Vezirhanı Caddesi, Mahmutpaşa, Molla Fenari Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34120, Turchia",
+                "class": "railway",
+                "type": "tram_stop",
+                "snippet": [
+                    "...Il primo tram è entrato in servizio a Istanbul il 3 settembre 1869 fra Tophane e Ortaköy....",
+                    "...Un tram veloce (T1) è entrato in servizio nel 1992 nella parte europea della città....",
+                    "...Nel settembre 2006, una seconda linea di tram (T2) è stata aggiunta sempre in Europa, unendo Zeytinburnu a Bagcilar, ed è stata poi fusa con la T1....",
+                    "...Inoltre due cosiddette linee del tram nostalgico, la T3 e la T2, la prima in Asia e la seconda in Europa, provvedono al trasporto locale rispettivamente a Kadıköy e a Beyoğlu....",
+                    "*...E' in costruzione una sesta linea di Tram (o metropolitana leggera), che collegherà la stazione di Kazlıçeşme e quella di Sirkeci utilizzando i binari dismessi della ferrovia suburbana di Istanbul...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.98895,
+                    41.031731
+                ]
+            },
+            "properties": {
+                "entity": "Sarıyer",
+                "name_location": "Sariyer, Mebusan Yokuşu, Fındıklı, Pürtelaş Hasan Efendi, Pürtelaş Hasan Efendi Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34437, Turchia",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...La terza linea funicolare, la F3, conosciuta anche come Vadistanbul Skyrail, è una funicolare lunga 750 metri situata a Sarıyer, sul lato europeo del Bosforo, ed è stata inaugurata il 29 ottobre 2017...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.953876,
+                    41.009586
+                ]
+            },
+            "properties": {
+                "entity": "Aksaray",
+                "name_location": "Aksaray, Ordu Caddesi, Kemalpaşa Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34134, Turchia",
+                "class": "railway",
+                "type": "tram_stop",
+                "snippet": [
+                    "*...La prima linea (M1) è entrata in servizio il 3 settembre 1989 tra Aksaray e Kartaltepe...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.797964,
+                    41.000392
+                ]
+            },
+            "properties": {
+                "entity": "Kartaltepe",
+                "name_location": "Kartaltepe, Süvari Caddesi, Sefaköy, Kartaltepe Mahallesi, Küçükçekmece, İstanbul, Marmara Bölgesi, 34295, Turchia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...La prima linea (M1) è entrata in servizio il 3 settembre 1989 tra Aksaray e Kartaltepe....",
+                    "*...Amministrativamente il comune metropolitano di Istanbul si estende su tutti i distretti della provincia, comprendendo i distretti interamente urbani di Avcılar, Bağcilar, Bahçelievler, Bakırköy, Bayrampaşa, Beşiktaş, Beylikdüzü, Beyoğlu, Büyükçekmece, Esenler, Esenyurt, Fatih, Gaziosmanpaşa, Güngören, Kağıthane, Küçükçekmece, Sultangazi, Şişli, Zeytinburnu sulla sponda europea del Bosforo, e di Adalar, Ataşehir, Kadıköy, Kartal, Maltepe, Sultanbeyli, Tuzla, Ümraniye, Scutari (Üsküdar) sulla sponda asiatica....",
+                    "*...Sono situate nel Mar di Marmara, a sud dei quartieri asiatici di Kartal e Pendik...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.936748,
+                    41.029954
+                ]
+            },
+            "properties": {
+                "entity": "Edirnekapi",
+                "name_location": "Edirnekapı (Vezneciler Yönü), Abacı Aralığı Sokağı, Derviş Ali Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34087, Turchia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...L'altra linea (T4) è stata inaugurata nel 2007 tra Edirnekapi e Mescid-i Selam...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.972566,
+                    41.02782
+                ]
+            },
+            "properties": {
+                "entity": "M2",
+                "name_location": "M2, Şişhane Metro İstasyon Girişi, Meşrutiyet Caddesi, Evliya Çelebi Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34430, Turchia",
+                "class": "railway",
+                "type": "subway_entrance",
+                "snippet": [
+                    "*...Quelle denominate M1ᴀ, M1ʙ, M2, M3, M6, M7, M9 e M11 si trovano sul lato europeo del Bosforo, mentre le linee M4, M5 e M8 sono sul lato asiatico...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.13237,
+                    40.957155
+                ]
+            },
+            "properties": {
+                "entity": "M3",
+                "name_location": "M3, Başıbüyük Mah., Başıbüyük Mahallesi, Maltepe, İstanbul, Marmara Bölgesi, 34854, Turchia",
+                "class": "building",
+                "type": "university",
+                "snippet": [
+                    "*...Quelle denominate M1ᴀ, M1ʙ, M2, M3, M6, M7, M9 e M11 si trovano sul lato europeo del Bosforo, mentre le linee M4, M5 e M8 sono sul lato asiatico....",
+                    "*...Yıl Park-Kazim Karabekir) e M14 (Altunizade-Kazim Karabekir) e i lavori di estensione su M1ʙ, M3, M4, M5, M7, M9 e M11 sono in corso...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.01444,
+                    41.075857
+                ]
+            },
+            "properties": {
+                "entity": "M6",
+                "name_location": "M6, Çarşı Caddesi, Levent Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34330, Turchia",
+                "class": "railway",
+                "type": "subway",
+                "snippet": [
+                    "*...Quelle denominate M1ᴀ, M1ʙ, M2, M3, M6, M7, M9 e M11 si trovano sul lato europeo del Bosforo, mentre le linee M4, M5 e M8 sono sul lato asiatico...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.009679,
+                    41.053096
+                ]
+            },
+            "properties": {
+                "entity": "M7",
+                "name_location": "M7, Balmumcu Kavşağı, Dikilitaş, Yıldız Mahallesi, Dikilitaş Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34347, Turchia",
+                "class": "railway",
+                "type": "subway",
+                "snippet": [
+                    "*...Quelle denominate M1ᴀ, M1ʙ, M2, M3, M6, M7, M9 e M11 si trovano sul lato europeo del Bosforo, mentre le linee M4, M5 e M8 sono sul lato asiatico....",
+                    "*...Yıl Park-Kazim Karabekir) e M14 (Altunizade-Kazim Karabekir) e i lavori di estensione su M1ʙ, M3, M4, M5, M7, M9 e M11 sono in corso...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.818127,
+                    41.013346
+                ]
+            },
+            "properties": {
+                "entity": "M9",
+                "name_location": "M9 Ataköy-Bahariye Metro Hattı, İnönü Caddesi, Mahmutbey Mahallesi, Bağcılar, İstanbul, Marmara Bölgesi, 34218, Turchia",
+                "class": "railway",
+                "type": "construction",
+                "snippet": [
+                    "*...Quelle denominate M1ᴀ, M1ʙ, M2, M3, M6, M7, M9 e M11 si trovano sul lato europeo del Bosforo, mentre le linee M4, M5 e M8 sono sul lato asiatico....",
+                    "*...Yıl Park-Kazim Karabekir) e M14 (Altunizade-Kazim Karabekir) e i lavori di estensione su M1ʙ, M3, M4, M5, M7, M9 e M11 sono in corso...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.972734,
+                    41.082172
+                ]
+            },
+            "properties": {
+                "entity": "M11",
+                "name_location": "M11, Kemerburgaz Caddesi, Merkez Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34406, Turchia",
+                "class": "railway",
+                "type": "subway",
+                "snippet": [
+                    "*...Quelle denominate M1ᴀ, M1ʙ, M2, M3, M6, M7, M9 e M11 si trovano sul lato europeo del Bosforo, mentre le linee M4, M5 e M8 sono sul lato asiatico....",
+                    "*...La rete, ad eccezione della linea M11, è gestita da Metro İstanbul, un'impresa pubblica controllata dalla municipalità metropolitana di Istanbul....",
+                    "*...Yıl Park-Kazim Karabekir) e M14 (Altunizade-Kazim Karabekir) e i lavori di estensione su M1ʙ, M3, M4, M5, M7, M9 e M11 sono in corso...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.131627,
+                    40.955811
+                ]
+            },
+            "properties": {
+                "entity": "M4",
+                "name_location": "M4, Kışla Yolu Caddesi, Başıbüyük Mahallesi, Maltepe, İstanbul, Marmara Bölgesi, 34854, Turchia",
+                "class": "building",
+                "type": "university",
+                "snippet": [
+                    "*...Quelle denominate M1ᴀ, M1ʙ, M2, M3, M6, M7, M9 e M11 si trovano sul lato europeo del Bosforo, mentre le linee M4, M5 e M8 sono sul lato asiatico....",
+                    "*...Yıl Park-Kazim Karabekir) e M14 (Altunizade-Kazim Karabekir) e i lavori di estensione su M1ʙ, M3, M4, M5, M7, M9 e M11 sono in corso...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.105954,
+                    41.024484
+                ]
+            },
+            "properties": {
+                "entity": "M5",
+                "name_location": "M5 Üsküdar - Çekmeköy Metro Hattı, Akdeniz Caddesi, Atakent Mahallesi, Ümraniye, İstanbul, Marmara Bölgesi, 34760, Turchia",
+                "class": "railway",
+                "type": "subway",
+                "snippet": [
+                    "*...Quelle denominate M1ᴀ, M1ʙ, M2, M3, M6, M7, M9 e M11 si trovano sul lato europeo del Bosforo, mentre le linee M4, M5 e M8 sono sul lato asiatico....",
+                    "*...Yıl Park-Kazim Karabekir) e M14 (Altunizade-Kazim Karabekir) e i lavori di estensione su M1ʙ, M3, M4, M5, M7, M9 e M11 sono in corso...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.087125,
+                    40.971478
+                ]
+            },
+            "properties": {
+                "entity": "M8",
+                "name_location": "M8, Saray Sokağı, Kazasker, 19 Mayıs Mahallesi, Kadıköy, İstanbul, Marmara Bölgesi, 34736, Turchia",
+                "class": "railway",
+                "type": "subway",
+                "snippet": [
+                    "*...Quelle denominate M1ᴀ, M1ʙ, M2, M3, M6, M7, M9 e M11 si trovano sul lato europeo del Bosforo, mentre le linee M4, M5 e M8 sono sul lato asiatico...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.974829,
+                    41.080893
+                ]
+            },
+            "properties": {
+                "entity": "Metro İstanbul",
+                "name_location": "M11 İstanbul Havalimanı - Kağıthane Metro Hattı, Lale Sokağı, Merkez Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34406, Turchia",
+                "class": "railway",
+                "type": "subway",
+                "snippet": [
+                    "*...La rete, ad eccezione della linea M11, è gestita da Metro İstanbul, un'impresa pubblica controllata dalla municipalità metropolitana di Istanbul....",
+                    "*...Istanbul (in turco İstanbul, pronuncia ), nome comunemente utilizzato dai Turchi anche prima del 1453, anche se il nome ufficiale è stato Costantinopoli fino al 1930 (in latino:...",
+                    "*...Il nome İstanbul venne dato alla città ufficialmente solo attorno al 1930....",
+                    "*...Il nome İstanbul potrebbe derivare dalla frase greca medievale \"εἰς τήν Πόλιν\" (da leggersi con la pronuncia \"istinˈpolin\"), oppure da quella in dialetto ionico \"εἰς τάν Πόλιν\" (pron....",
+                    "*...Dal mese di marzo 2006, i traghetti vengono gestiti dalla İstanbul Deniz Otobüsleri...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.095847,
+                    40.987256
+                ]
+            },
+            "properties": {
+                "entity": "M12",
+                "name_location": "M12 Ümraniye-Göztepe Metro Hattı, Şabanoğlu Sokağı, İnkılap Mahallesi, Ümraniye, İstanbul, Marmara Bölgesi, 34768, Turchia",
+                "class": "railway",
+                "type": "construction",
+                "snippet": [
+                    "*...M10 (Pendik Merkez-Fevzi Çakmak), M12 (60...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.073997,
+                    41.032033
+                ]
+            },
+            "properties": {
+                "entity": "Altunizade-Kazim Karabekir",
+                "name_location": "M14 Altunizade - Kâzım Karabekir Metro Hattı, Malkoç Caddesi, Kirazlıtepe Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34682, Turchia",
+                "class": "railway",
+                "type": "construction",
+                "snippet": [
+                    "*...Yıl Park-Kazim Karabekir) e M14 (Altunizade-Kazim Karabekir) e i lavori di estensione su M1ʙ, M3, M4, M5, M7, M9 e M11 sono in corso...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.805507,
+                    41.090255
+                ]
+            },
+            "properties": {
+                "entity": "F2",
+                "name_location": "F2, İçyol, Başak Mahallesi, Başakşehir, İstanbul, Marmara Bölgesi, 34480, Turchia",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...La più vecchia di queste linee è la F2, chiamata anche Tünel (letteralmente Tunnel)....",
+                    "*...Oltre che con Marmaray (che collega le linee sul lato europeo e asiatico della città) il sistema è collegato con le linee funicolari F1, Tünel (F2) e F4 e con la rete di superficie delle linee tranviarie T1, T4 e T5...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.987385,
+                    41.048165
+                ]
+            },
+            "properties": {
+                "entity": "Harbiye",
+                "name_location": "Harbiye, Cumhuriyet Caddesi, Ergenekon Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34373, Turchia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...La TF1, detta anche Gondola di Maçka, è situata nel quartiere di Harbiye, nel distretto di Şişli...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.989432,
+                    41.041108
+                ]
+            },
+            "properties": {
+                "entity": "Taşkışla",
+                "name_location": "İTÜ Mimarlık Fakültesi, Taşkışla Caddesi, Taşkışla, Harbiye, Harbiye Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34367, Turchia",
+                "class": "amenity",
+                "type": "university",
+                "snippet": [
+                    "*...Essa opera tra Maçka e Taşkışla ed è entrata in servizio l'11 aprile 1993...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.012953,
+                    41.065906
+                ]
+            },
+            "properties": {
+                "entity": "Zincirlikuyu",
+                "name_location": "Zincirlikuyu, Beylikdüzü - Zincirlikuyu Metrobüs, Zincirlikuyu, Balmumcu Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34394, Turchia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Il Metrobus di Istanbul è una linea di Bus Rapid Transit lunga 50 km con 44 stazioni che percorre l'anello stradale da Avcılar a Zincirlikuyu passando per il Ponte sul Bosforo sino a Söğütlüçeşme, unendo cosi' Europa e Asia, e usando corsie dedicate per gran parte della tratta...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.057759,
+                    41.091027
+                ]
+            },
+            "properties": {
+                "entity": "Ponte sul Bosforo",
+                "name_location": "Ponte Fatih Sultan Mehmet, Rumelihisarı Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34470, Turchia",
+                "class": "highway",
+                "type": "motorway",
+                "snippet": [
+                    "...Il governo del presidente Erdoğan ha ultimato, proposto o sta portando avanti una serie di grandi opere (Tunnel ferroviario sotto il Bosforo, terzo ponte sul Bosforo, terzo Aeroporto, diverse linee di metropolitana, canale navigabile per decongestionare il Bosforo) le quali, se da una parte costituiscono un potente stimolo per l'economia, dall'altra stanno alterando irreparabilmente l'immagine della città, sfregiata al tempo stesso da una speculazione edilizia ormai senza freni....",
+                    "*...Il Metrobus di Istanbul è una linea di Bus Rapid Transit lunga 50 km con 44 stazioni che percorre l'anello stradale da Avcılar a Zincirlikuyu passando per il Ponte sul Bosforo sino a Söğütlüçeşme, unendo cosi' Europa e Asia, e usando corsie dedicate per gran parte della tratta....",
+                    "...È una megalopoli situata nel nord-ovest del paese, la quale si estende lungo lo stretto del Bosforo, alla cui estremità meridionale si situa il porto naturale del Corno d'Oro, e lungo la sponda settentrionale del Mar di Marmara....",
+                    "*...La città, divisa dal Bosforo, si estende sia in Europa (Tracia) sia in Asia (Anatolia), risultando l'unica metropoli al mondo appartenente a due continenti....",
+                    "*...L'attuale area urbana si estende su entrambe le sponde del Bosforo, lo stretto che divide l'Europa dall'Asia e unisce il Mar Nero al Mar di Marmara, e sul Mar di Marmara stesso....",
+                    "*...Il \"Corno d'Oro\" (in Turco 'Halic') è il nome del porto naturale nella parte europea e all'imbocco del Bosforo su cui si affaccia il centro storico....",
+                    "*...La fondazione di Bisanzio, da parte dei coloni greci di Megara, risale al 667 a.C. Grazie alla posizione di controllo sul Bosforo, la città si sviluppò in breve tempo tanto da diventare oggetto di contesa durante le guerre del Peloponneso....",
+                    "*...Il governo del presidente Erdoğan ha ultimato, proposto o sta portando avanti una serie di grandi opere (Tunnel ferroviario sotto il Bosforo, terzo ponte sul Bosforo, terzo Aeroporto, diverse linee di metropolitana, canale navigabile per decongestionare il Bosforo) le quali, se da una parte costituiscono un potente stimolo per l'economia, dall'altra stanno alterando irreparabilmente l'immagine della città, sfregiata al tempo stesso da una speculazione edilizia ormai senza freni....",
+                    "*...Durante l'epoca Ottomana, specialmente nell'Ottocento, decine di chiese greco-ortodosse, armene e cattoliche furono costruite nella città storica, a Galata/Pera e lungo il Bosforo, per venire incontro alle esigenze spirituali delle comunità greche, armene e levantine, a quel tempo numerose e potenti....",
+                    "*...Il Parco di Yıldız si estende alle spalle del Palazzo Çırağan, sulle pendici della riva europea del Bosforo....",
+                    "*...Oltre a essi, esiste un piccolo numero di tedeschi del Bosforo e di polacchi (questi ultimi abitanti nel villaggio di Polonezköy) insediatisi a Istanbul nell'Ottocento....",
+                    "*...L'Università del Bosforo (in lingua turca Boğaziçi Üniversitesi) è un'altra antica istituzione educativa di Istanbul, situata sul lato europeo del Bosforo....",
+                    "*...Amministrativamente il comune metropolitano di Istanbul si estende su tutti i distretti della provincia, comprendendo i distretti interamente urbani di Avcılar, Bağcilar, Bahçelievler, Bakırköy, Bayrampaşa, Beşiktaş, Beylikdüzü, Beyoğlu, Büyükçekmece, Esenler, Esenyurt, Fatih, Gaziosmanpaşa, Güngören, Kağıthane, Küçükçekmece, Sultangazi, Şişli, Zeytinburnu sulla sponda europea del Bosforo, e di Adalar, Ataşehir, Kadıköy, Kartal, Maltepe, Sultanbeyli, Tuzla, Ümraniye, Scutari (Üsküdar) sulla sponda asiatica....",
+                    "*...Bebek, quartiere molto elegante e centro residenziale di lusso posto sulla riva europea tra i due ponti sul Bosforo;...",
+                    "*...Kilyos è una piccola località balneare tranquilla, situata in Europa, non lontano dall'ingresso settentrionale del Bosforo, sul Mar Nero....",
+                    "*...Molti altri, e di alto livello, si trovano lungo le rive del Bosforo, in particolare a Bebek, Arnavutköy, Yeniköy, Beylerbeyi e Çengelköy, e a Yeşilköy, in riva al Mar di Marmara verso l'ovest della città....",
+                    "*...I più popolari dei locali estivi a cielo aperto si trovano sul Bosforo, come \"Sortie\", \"Reina\" e \"Anjelique\" nel quartiere Ortaköy....",
+                    "*...Luoghi come l'Istanbul Arena Maslak e Kurucesme Arena sul Bosforo frequentemente ospitano concerti dal vivo di cantanti famosi e band provenienti da ogni angolo del mondo....",
+                    "*...Il Mar di Marmara, il Corno d'Oro, il Bosforo e il Mar Nero....",
+                    "*...Adesso l'importanza dei traghetti è molto diminuita, ma essi rappresentano sempre un mezzo per i pendolari, turisti e persone che hanno paura dei terremoti, e insieme con il catamarano ad alta velocità Seabus' (Deniz Otobüsü), formano anche il collegamento principale tra la città e le sponde del Bosforo e le Isole dei Principi....",
+                    "*...I traghetti a vapore hanno fatto la loro prima apparizione sul Bosforo nel 1837 ed erano gestiti da aziende private....",
+                    "*...In avanzato stato di progettazione è Kanal Istanbul, un canale fra il Mar di Marmara e il Bosforo che avrebbe un impatto ambientale devastante sulla città e la regione circostante....",
+                    "*...Di là dal Bosforo, il Terminal Haydarpaşa, sulla sponda asiatica, serviva la linea per Ankara (anche la ferrovia ad alta velocità Istanbul–Ankara) e per altre città dell'Anatolia, ma è stato anch'esso chiuso dopo l'apertura di Marmaray....",
+                    "*...La terza linea funicolare, la F3, conosciuta anche come Vadistanbul Skyrail, è una funicolare lunga 750 metri situata a Sarıyer, sul lato europeo del Bosforo, ed è stata inaugurata il 29 ottobre 2017....",
+                    "*...La quarta funicolare, la linea F4, è una funicolare lunga 850 metri situata a Beşiktaş, anch'essa sul lato europeo del Bosforo....",
+                    "*...Quelle denominate M1ᴀ, M1ʙ, M2, M3, M6, M7, M9 e M11 si trovano sul lato europeo del Bosforo, mentre le linee M4, M5 e M8 sono sul lato asiatico....",
+                    "...A causa della geografia unica e difficile di Istanbul, città divisa dallo stretto del Bosforo, le reti europee e asiatiche non si collegano direttamente, ma dal 2013 sono collegate tra loro attraverso la linea B1, chiamata anche Marmaray....",
+                    "*...La linea B1, chiamata originariamente Marmaray (comprendente un tunnel ferroviario sotto il Bosforo) lunga 76,6 km, espleta il collegamento urbano e suburbano fra le zone asiatiche e quelle europee della città lungo il Mar di Marmara....",
+                    "*...Di tanto in tanto Istanbul ospita anche la tappa turca del campionato del mondo formula 1 motonautica F1 sul Bosforo....",
+                    "*...Diverse le gare annuali di vela e yacht svolte sul Bosforo e sul Mar di Marmara....",
+                    "*...Venne quindi eretto un enorme palazzo imperiale, un Foro, un ippodromo, il quale fu testimone nel corso dei secoli di sommosse e assemblee popolari, e un numero impressionante di palazzi e chiese....",
+                    "...Infine, la Colonna di Costantino, eretta nel 330 d.C. al centro dell'omonimo foro per celebrare la nuova capitale romana, è ancora in loco, fra l'Ippodromo e il Gran Bazar....",
+                    "...Esso ha rappresentato uno dei luoghi preferiti dove passare il tempo libero durante tutto il periodo ottomano, uno dei più begli esempi è il Çemberlitaş Hamamı (1584), situato presso la piazza Çemberlitaş, l'antico foro di Costantino...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.032999,
+                    40.991951
+                ]
+            },
+            "properties": {
+                "entity": "Söğütlüçeşme",
+                "name_location": "Söğutlüçeşme, Söğütlüçeşme Caddesi, Hasanpaşa Mahallesi, Kadıköy, İstanbul, Marmara Bölgesi, 34722, Turchia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Il Metrobus di Istanbul è una linea di Bus Rapid Transit lunga 50 km con 44 stazioni che percorre l'anello stradale da Avcılar a Zincirlikuyu passando per il Ponte sul Bosforo sino a Söğütlüçeşme, unendo cosi' Europa e Asia, e usando corsie dedicate per gran parte della tratta...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.966078,
+                    41.030314
+                ]
+            },
+            "properties": {
+                "entity": "Kasimpaşa",
+                "name_location": "Kasımpaşa, Turabi Baba Caddesi, Camiikebir, Camiikebir Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34440, Turchia",
+                "class": "amenity",
+                "type": "ferry_terminal",
+                "snippet": [
+                    "*...Il Kasimpaşa che gioca allo Stadio Recep Tayyip Erdoğan e il Başakşehir, vincitore di un campionato turco, che gioca allo Stadio Başakşehir Fatih Terim...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.973862,
+                    41.010313
+                ]
+            },
+            "properties": {
+                "entity": "Vakıfbank",
+                "name_location": "Vakıfbank, Nur-u Osmaniye Caddesi, Mahmutpaşa, Molla Fenari Mahallesi, Istanbul, Fatih, İstanbul, Marmara Bölgesi, 34120, Turchia",
+                "class": "amenity",
+                "type": "bank",
+                "snippet": [
+                    "*...Nel Campionato di pallavolo ci sono il Vakıfbank, Fenerbahçe oltre alle sezioni del Galatasaray e Istanbul B.B.....",
+                    "*...Eczacıbaşi, il Vakıfbank, Fenerbahçe, il Galatasaray e il Besiktas...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.947812,
+                    41.041443
+                ]
+            },
+            "properties": {
+                "entity": "Fenerbahçe",
+                "name_location": "Fenerbahçe, Hasköy Caddesi, Çıksalın, Piri Paşa, Piri Paşa Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34445, Turchia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Il Galatasaray vincitore di 22 Campionati Turchi e che gioca allo stadio Türk Telekom Arena, il Fenerbahçe vincitore di 19 Campionati Turchi e che gioca allo Stadio Şükrü Saraçoğlu;...",
+                    "*...Nel basket, nella massima lega ci sono l'Efes Pilsen vincitore di 13 Campionati Turchi, il Fenerbahçe vincitore di 6 Campionati Turchi, il Galatasaray vincitore di 5 Campionati Turchi e il Beşiktaş vincitore di 2 Campionati Turchi....",
+                    "*...Nel Campionato di pallavolo ci sono il Vakıfbank, Fenerbahçe oltre alle sezioni del Galatasaray e Istanbul B.B.....",
+                    "...Eczacıbaşi, il Vakıfbank, Fenerbahçe, il Galatasaray e il Besiktas....",
+                    "*...Lo stadio Şükrü Saraçoğlu, casa del Fenerbahçe, è anch'esso un 4 stelle UEFA e ha ospitato la finale di Coppa UEFA 2009....",
+                    "*...Va segnalata inoltre la Chiesa di Santa Maria dei Mongoli, nel quartiere Fener, risalente all'inizio del VII secolo, l'unica Chiesa d'epoca bizantina della città a non essere mai stata convertita in moschea....",
+                    "*...Nel quartiere Fener sorge la cattedrale di San Giorgio, sede dal 1600 del Patriarcato ecumenico di Costantinopoli....",
+                    "*...Costantinopoli aveva una popolazione a maggioranza greca fin dall'VIII secolo a.C. Dopo il 1453, rimase in città un gruppo di eminenti famiglie cristiane ellenofone, i fanarioti, con sede nel quartiere di Fener, situato a Fatih....",
+                    "*...Per esempio, Kumpaki era abitato da molti armeni (ed è ancora sede del Patriarcato Armeno), Balat aveva una notevole popolazione ebraica, a Fener e Samathia vi erano molti greci, mentre i Levantini si concentravano a Nişantaşı e Beyoğlu....",
+                    "*...La sede del patriarcato ecumenico di Costantinopoli, sede del leader spirituale dei greco-ortodossi, è localizzato nel distretto di Fener (in greco Phanar)....",
+                    "...Fener, uno dei quartieri più popolari dentro le mura, un tempo centro dell'etnia greca e ripopolato recentemente da immigrati dal sud-est del paese, sede del Patriarcato greco, e uno dei pochi luoghi dove si è conservata la vecchia Istanbul, nel distretto di Fatih;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.407202,
+                    40.952748
+                ]
+            },
+            "properties": {
+                "entity": "Istanbul Park",
+                "name_location": "İstanbul Park, İstanbul Park Formula-1, Akfırat Mahallesi, Tuzla, İstanbul, Marmara Bölgesi, 34959, Turchia",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...Istanbul ospita numerosi eventi annuali motoristici come il Gran Premio di Turchia di Formula 1 (non più in calendario dal 2012), la MotoGP, il campionato del mondo turismo, la GP2 e la Le Mans Series 1.000 km presso il circuito di Istanbul Park...."
+                ]
+            }
+        }
+    ]
+}

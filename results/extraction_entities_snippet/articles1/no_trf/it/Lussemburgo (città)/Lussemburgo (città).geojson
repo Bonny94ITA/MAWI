@@ -1,0 +1,456 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.121645,
+                    49.609662
+                ]
+            },
+            "properties": {
+                "entity": "Stad",
+                "name_location": "Grande Synagogue de Luxembourg, 45, Avenue Monterey, Ville-Haute, Lussemburgo, Canton Luxembourg, 2163, Lussemburgo",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Lussemburgo (Lëtzebuerg o, colloquialmente, d'Stad in lussemburghese, Luxembourg in francese, Luxemburg in tedesco) è la capitale del Granducato di Lussemburgo, piccolo Stato compreso fra l'Europa occidentale e l'Europa centrale e racchiuso tra il Belgio a ovest e a nord, la Germania a est e la Francia a sud...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.15026,
+                    49.622796
+                ]
+            },
+            "properties": {
+                "entity": "Europa",
+                "name_location": "Corte dei conti europea, 12, Rue Alcide de Gasperi, Quartier Européen Nord, Kirchberg, Lussemburgo, Canton Luxembourg, 1615, Lussemburgo",
+                "class": "office",
+                "type": "government",
+                "snippet": [
+                    "*...Lussemburgo (Lëtzebuerg o, colloquialmente, d'Stad in lussemburghese, Luxembourg in francese, Luxemburg in tedesco) è la capitale del Granducato di Lussemburgo, piccolo Stato compreso fra l'Europa occidentale e l'Europa centrale e racchiuso tra il Belgio a ovest e a nord, la Germania a est e la Francia a sud....",
+                    "*...Sotto la dominazione asburgica le sue fortificazioni vennero ulteriormente rafforzate, facendo così di Lussemburgo una delle più solide roccaforti d'Europa...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.129932,
+                    49.609429
+                ]
+            },
+            "properties": {
+                "entity": "Pétrusse",
+                "name_location": "Pétrusse Casemates, Place de la Constitution, Ville-Haute, Lussemburgo, Canton Luxembourg, 2450, Lussemburgo",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...È situata su uno sperone roccioso alla confluenza della Pétrusse con l'Alzette, e conta 124 528 abitanti al 2021....",
+                    "*...Nel XX secolo, con l'allargarsi della città sono stati edificati più di cinquanta ponti, alcuni dei quali veri e propri modelli di ingegneria, come il ponte Adolphe, con l'arcata in pietra a volta più ampia del mondo, che scavalcano i fiumi Alzette e Pétrusse...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.13341,
+                    49.614474
+                ]
+            },
+            "properties": {
+                "entity": "Alzette",
+                "name_location": "Boulevard de l'Alzette, Pfaffenthal, Lussemburgo, Canton Luxembourg, 2663, Lussemburgo",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...È situata su uno sperone roccioso alla confluenza della Pétrusse con l'Alzette, e conta 124 528 abitanti al 2021....",
+                    "*...Nel XX secolo, con l'allargarsi della città sono stati edificati più di cinquanta ponti, alcuni dei quali veri e propri modelli di ingegneria, come il ponte Adolphe, con l'arcata in pietra a volta più ampia del mondo, che scavalcano i fiumi Alzette e Pétrusse....",
+                    "*...Quando si contempla dal fondo della vallata del fiume Alzette o dalle case del Grund, la parte \"vecchia\" della città di Lussemburgo...",
+                    "...Le fortificazioni, imponenti muraglioni a strapiombo sull'Alzette, erette nel 1632 dagli Spagnoli e ampliate da Vauban nel 1685...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.125186,
+                    49.626823
+                ]
+            },
+            "properties": {
+                "entity": "Eich",
+                "name_location": "Eich, Rue de Mühlenbach, Eich, Lussemburgo, Canton Luxembourg, 1413, Lussemburgo",
+                "class": "amenity",
+                "type": "post_office",
+                "snippet": [
+                    "*...Nel 1921 i confini cittadini vennero ampliati con l'annessione delle borgate di Eich, Hamm, Hollerich e Rollingergrund....",
+                    "*...Beggen, Belair, Bonnevoie-Nord-Verlorenkost, Bonnevoie-Sud, Ville-Haute, Cents, Cessange, Clausen, Dommeldange, Eich, Gare, Gasperich, Grund, Hamm, Hollerich, Kirchberg, Limpertsberg, Merl, Muhlenbach, Neudorf-Weimershof, Pfaffenthal, Pulvermuhl, Rollingergrund-Belair-Nord, Weimerskirch...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.140118,
+                    49.625115
+                ]
+            },
+            "properties": {
+                "entity": "Kirchberg –",
+                "name_location": "Kirchberg, Rue des Maraîchers, Quartier Européen Nord, Kirchberg, Lussemburgo, Canton Luxembourg, 1513, Lussemburgo",
+                "class": "amenity",
+                "type": "post_office",
+                "snippet": [
+                    "*...Oggi, il palazzo Alcide de Gasperi (detto Bâtiment Tour), le torri A et B – situate al Kirchberg – definiscono, con le fortificazioni, la Chiesa Saint-Michel e la cattedrale Notre-Dame, la \"skyline\" della città di Lussemburgo....",
+                    "...Il plateau du Kirchberg è dalla fine degli anni ottanta in piena espansione....",
+                    "*...Beggen, Belair, Bonnevoie-Nord-Verlorenkost, Bonnevoie-Sud, Ville-Haute, Cents, Cessange, Clausen, Dommeldange, Eich, Gare, Gasperich, Grund, Hamm, Hollerich, Kirchberg, Limpertsberg, Merl, Muhlenbach, Neudorf-Weimershof, Pfaffenthal, Pulvermuhl, Rollingergrund-Belair-Nord, Weimerskirch...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.131564,
+                    49.609603
+                ]
+            },
+            "properties": {
+                "entity": "cattedrale Notre-Dame",
+                "name_location": "Cattedrale di Notre-Dame, 7, Rue Notre-Dame, Ville-Haute, Lussemburgo, Canton Luxembourg, 2240, Lussemburgo",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Oggi, il palazzo Alcide de Gasperi (detto Bâtiment Tour), le torri A et B – situate al Kirchberg – definiscono, con le fortificazioni, la Chiesa Saint-Michel e la cattedrale Notre-Dame, la \"skyline\" della città di Lussemburgo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.133485,
+                    49.608955
+                ]
+            },
+            "properties": {
+                "entity": "DP",
+                "name_location": "DP, 9, Rue du Saint-Esprit, Ville-Haute, Lussemburgo, Canton Luxembourg, 1475, Lussemburgo",
+                "class": "office",
+                "type": "political_party",
+                "snippet": [
+                    "*...Il sindaco della città di Lussemburgo è Lydie Polfer (DP), dal 2013...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.132127,
+                    49.597057
+                ]
+            },
+            "properties": {
+                "entity": "Gare",
+                "name_location": "Gare, Pont Jean-Pierre Buchler, Gare, Lussemburgo, Canton Luxembourg, 1122, Lussemburgo",
+                "class": "amenity",
+                "type": "parking",
+                "snippet": [
+                    "*...Beggen, Belair, Bonnevoie-Nord-Verlorenkost, Bonnevoie-Sud, Ville-Haute, Cents, Cessange, Clausen, Dommeldange, Eich, Gare, Gasperich, Grund, Hamm, Hollerich, Kirchberg, Limpertsberg, Merl, Muhlenbach, Neudorf-Weimershof, Pfaffenthal, Pulvermuhl, Rollingergrund-Belair-Nord, Weimerskirch...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.118936,
+                    49.593457
+                ]
+            },
+            "properties": {
+                "entity": "Gasperich",
+                "name_location": "Rue de Gasperich, Gasperich, Lussemburgo, Canton Luxembourg, 2322, Lussemburgo",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Beggen, Belair, Bonnevoie-Nord-Verlorenkost, Bonnevoie-Sud, Ville-Haute, Cents, Cessange, Clausen, Dommeldange, Eich, Gare, Gasperich, Grund, Hamm, Hollerich, Kirchberg, Limpertsberg, Merl, Muhlenbach, Neudorf-Weimershof, Pfaffenthal, Pulvermuhl, Rollingergrund-Belair-Nord, Weimerskirch...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.17858,
+                    49.614027
+                ]
+            },
+            "properties": {
+                "entity": "Hamm",
+                "name_location": "Hamm, Autoroute de Trèves, Hamm, Lussemburgo, Canton Luxembourg, 1113, Lussemburgo",
+                "class": "highway",
+                "type": "motorway_junction",
+                "snippet": [
+                    "*...Nel 1921 i confini cittadini vennero ampliati con l'annessione delle borgate di Eich, Hamm, Hollerich e Rollingergrund....",
+                    "*...Beggen, Belair, Bonnevoie-Nord-Verlorenkost, Bonnevoie-Sud, Ville-Haute, Cents, Cessange, Clausen, Dommeldange, Eich, Gare, Gasperich, Grund, Hamm, Hollerich, Kirchberg, Limpertsberg, Merl, Muhlenbach, Neudorf-Weimershof, Pfaffenthal, Pulvermuhl, Rollingergrund-Belair-Nord, Weimerskirch....",
+                    "...Le squadre principali della città sono il Racing Football Club Union Lëtzebuerg e il Rapid Mansfeldia Hamm Benfica..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.120872,
+                    49.595527
+                ]
+            },
+            "properties": {
+                "entity": "Hollerich",
+                "name_location": "Hollerich, Place Ons Jongen, Gasperich, Lussemburgo, Canton Luxembourg, 1112, Lussemburgo",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...Nel 1921 i confini cittadini vennero ampliati con l'annessione delle borgate di Eich, Hamm, Hollerich e Rollingergrund....",
+                    "*...Beggen, Belair, Bonnevoie-Nord-Verlorenkost, Bonnevoie-Sud, Ville-Haute, Cents, Cessange, Clausen, Dommeldange, Eich, Gare, Gasperich, Grund, Hamm, Hollerich, Kirchberg, Limpertsberg, Merl, Muhlenbach, Neudorf-Weimershof, Pfaffenthal, Pulvermuhl, Rollingergrund-Belair-Nord, Weimerskirch...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.120565,
+                    49.619461
+                ]
+            },
+            "properties": {
+                "entity": "Limpertsberg",
+                "name_location": "Limpertsberg, 53, Avenue Pasteur, Limpertsberg, Lussemburgo, Canton Luxembourg, 2311, Lussemburgo",
+                "class": "amenity",
+                "type": "post_office",
+                "snippet": [
+                    "*...Beggen, Belair, Bonnevoie-Nord-Verlorenkost, Bonnevoie-Sud, Ville-Haute, Cents, Cessange, Clausen, Dommeldange, Eich, Gare, Gasperich, Grund, Hamm, Hollerich, Kirchberg, Limpertsberg, Merl, Muhlenbach, Neudorf-Weimershof, Pfaffenthal, Pulvermuhl, Rollingergrund-Belair-Nord, Weimerskirch...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.126729,
+                    49.626779
+                ]
+            },
+            "properties": {
+                "entity": "Muhlenbach",
+                "name_location": "Rue de Mühlenbach, Rue Victor Ferrant, Eich, Lussemburgo, Canton Luxembourg, 1919, Lussemburgo",
+                "class": "railway",
+                "type": "razed",
+                "snippet": [
+                    "*...Beggen, Belair, Bonnevoie-Nord-Verlorenkost, Bonnevoie-Sud, Ville-Haute, Cents, Cessange, Clausen, Dommeldange, Eich, Gare, Gasperich, Grund, Hamm, Hollerich, Kirchberg, Limpertsberg, Merl, Muhlenbach, Neudorf-Weimershof, Pfaffenthal, Pulvermuhl, Rollingergrund-Belair-Nord, Weimerskirch...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.130662,
+                    49.615487
+                ]
+            },
+            "properties": {
+                "entity": "Pfaffenthal",
+                "name_location": "Pfaffenthal, Rue Laurent Menager, Pfaffenthal, Lussemburgo, Canton Luxembourg, 2344, Lussemburgo",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...Beggen, Belair, Bonnevoie-Nord-Verlorenkost, Bonnevoie-Sud, Ville-Haute, Cents, Cessange, Clausen, Dommeldange, Eich, Gare, Gasperich, Grund, Hamm, Hollerich, Kirchberg, Limpertsberg, Merl, Muhlenbach, Neudorf-Weimershof, Pfaffenthal, Pulvermuhl, Rollingergrund-Belair-Nord, Weimerskirch...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.149478,
+                    49.608926
+                ]
+            },
+            "properties": {
+                "entity": "Pulvermuhl",
+                "name_location": "Veloh n.83 Pulvermühl, Rue de Pulvermühl, Pulvermuhl, Lussemburgo, Canton Luxembourg, 1425, Lussemburgo",
+                "class": "amenity",
+                "type": "bicycle_rental",
+                "snippet": [
+                    "*...Beggen, Belair, Bonnevoie-Nord-Verlorenkost, Bonnevoie-Sud, Ville-Haute, Cents, Cessange, Clausen, Dommeldange, Eich, Gare, Gasperich, Grund, Hamm, Hollerich, Kirchberg, Limpertsberg, Merl, Muhlenbach, Neudorf-Weimershof, Pfaffenthal, Pulvermuhl, Rollingergrund-Belair-Nord, Weimerskirch...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.136602,
+                    49.626295
+                ]
+            },
+            "properties": {
+                "entity": "Weimerskirch",
+                "name_location": "Weimerskirch, Pierre-Éloi Schoué, Rue de Kirchberg, Weimerskirch, Lussemburgo, Canton Luxembourg, 1858, Lussemburgo",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Beggen, Belair, Bonnevoie-Nord-Verlorenkost, Bonnevoie-Sud, Ville-Haute, Cents, Cessange, Clausen, Dommeldange, Eich, Gare, Gasperich, Grund, Hamm, Hollerich, Kirchberg, Limpertsberg, Merl, Muhlenbach, Neudorf-Weimershof, Pfaffenthal, Pulvermuhl, Rollingergrund-Belair-Nord, Weimerskirch...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.128212,
+                    49.607356
+                ]
+            },
+            "properties": {
+                "entity": "Metz",
+                "name_location": "Place de Metz, Gare, Lussemburgo, Canton Luxembourg, 2954, Lussemburgo",
+                "class": "highway",
+                "type": "footway",
+                "snippet": [
+                    "*...Lussemburgo, capitale europea della cultura per l'anno 2007, è una delle quattro città che con Saarbrücken, Metz e Treviri costituiscono il QuattroPole, una rete transfrontaliera che permette la cooperazione urbana fra queste 4 città...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.131564,
+                    49.609603
+                ]
+            },
+            "properties": {
+                "entity": "Cattedrale di Notre-Dame",
+                "name_location": "Cattedrale di Notre-Dame, 7, Rue Notre-Dame, Ville-Haute, Lussemburgo, Canton Luxembourg, 2240, Lussemburgo",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...La Cattedrale di Notre-Dame, edificio in stile tardo gotico con due affilatissime guglie sulle torri....",
+                    "*...Subito dopo venne costruita la nuova cinta muraria e la Chiesa di San Nicola, ora Cattedrale....",
+                    "...Oggi, il palazzo Alcide de Gasperi (detto Bâtiment Tour), le torri A et B – situate al Kirchberg – definiscono, con le fortificazioni, la Chiesa Saint-Michel e la cattedrale Notre-Dame, la \"skyline\" della città di Lussemburgo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.130379,
+                    49.610889
+                ]
+            },
+            "properties": {
+                "entity": "Place Guillaume",
+                "name_location": "Place Guillaume II, Ville-Haute, Lussemburgo, Canton Luxembourg, 1648, Lussemburgo",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...La Place Guillaume è la piazza principale della città dove si affaccia il Municipio, eretto in stile neoclassico nel 1830...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.135638,
+                    49.60968
+                ]
+            },
+            "properties": {
+                "entity": "Musée national d'histoire naturelle",
+                "name_location": "Musée national d'histoire naturelle, 25, Rue Munster, Grund, Lussemburgo, Canton Luxembourg, 2160, Lussemburgo",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Tra questi il Musée national d'histoire et d'art o MNHA, il Musée national d'histoire naturelle o MNHN, il Musée d'art moderne Grand-Duc Jean o Mudam e il Musée d'histoire de la Ville de Luxembourg...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.140283,
+                    49.616861
+                ]
+            },
+            "properties": {
+                "entity": "Mudam",
+                "name_location": "MUDAM, 3, Park Dräi Eechelen, Quartier Européen Sud, Kirchberg, Lussemburgo, Canton Luxembourg, 1499, Lussemburgo",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Tra questi il Musée national d'histoire et d'art o MNHA, il Musée national d'histoire naturelle o MNHN, il Musée d'art moderne Grand-Duc Jean o Mudam e il Musée d'histoire de la Ville de Luxembourg...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1336,
+                    49.609931
+                ]
+            },
+            "properties": {
+                "entity": "Musée d'histoire de la Ville de Luxembourg",
+                "name_location": "Musée d'Histoire de la Ville de Luxembourg, 14, Rue du Saint-Esprit, Ville-Haute, Lussemburgo, Canton Luxembourg, 2090, Lussemburgo",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Tra questi il Musée national d'histoire et d'art o MNHA, il Musée national d'histoire naturelle o MNHN, il Musée d'art moderne Grand-Duc Jean o Mudam e il Musée d'histoire de la Ville de Luxembourg....",
+                    "*...Lussemburgo (Lëtzebuerg o, colloquialmente, d'Stad in lussemburghese, Luxembourg in francese, Luxemburg in tedesco) è la capitale del Granducato di Lussemburgo, piccolo Stato compreso fra l'Europa occidentale e l'Europa centrale e racchiuso tra il Belgio a ovest e a nord, la Germania a est e la Francia a sud...."
+                ]
+            }
+        }
+    ]
+}

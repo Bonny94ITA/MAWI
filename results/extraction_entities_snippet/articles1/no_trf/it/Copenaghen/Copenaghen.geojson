@@ -1,0 +1,1190 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.578741,
+                    55.677647
+                ]
+            },
+            "properties": {
+                "entity": "Gammel Strand",
+                "name_location": "Gammel Strand, Christianshavn, Copenaghen, Københavns Kommune, Region Hovedstaden, 1202, Danimarca",
+                "class": "highway",
+                "type": "living_street",
+                "snippet": [
+                    "*...Copenaghen venne fondata nel X secolo come villaggio di pescatori vichingo situato nei pressi di quella che oggi è Gammel Strand....",
+                    "*...Le prime abitazioni erano probabilmente concentrate su Gammel Strand (letteralmente \"vecchia sponda\")...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57742,
+                    55.685693
+                ]
+            },
+            "properties": {
+                "entity": "Castello di Rosenborg",
+                "name_location": "Castello di Rosenborg, Husalléen, Nyboder, Frederiksstaden, Copenaghen, Københavns Kommune, Region Hovedstaden, 1307, Danimarca",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...I monumenti cittadini come i Giardini di Tivoli, la statua della Sirenetta, i palazzi di Amalienborg e di Christiansborg, il Castello di Rosenborg, la Marmorkirken, Børsen e molti musei, ristoranti e locali notturni sono importanti attrazioni turistiche....",
+                    "*...Cristiano IV promosse anche una serie di ambiziosi progetti di costruzione tra cui il Castello di Rosenborg e il Rundetårn....",
+                    "...Non così alte sono le guglie rinascimentali del castello di Rosenborg e la \"guglia del drago\" dell'ex borsa valori di Cristiano IV, così chiamato perché ricorda le code intrecciate di quattro draghi...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.582588,
+                    55.676323
+                ]
+            },
+            "properties": {
+                "entity": "Børsen",
+                "name_location": "Børsen, Børsgade, Christianshavn, Copenaghen, Københavns Kommune, Region Hovedstaden, 1216, Danimarca",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...I monumenti cittadini come i Giardini di Tivoli, la statua della Sirenetta, i palazzi di Amalienborg e di Christiansborg, il Castello di Rosenborg, la Marmorkirken, Børsen e molti musei, ristoranti e locali notturni sono importanti attrazioni turistiche....",
+                    "...L'Arsenale di Tøjhus e la borsa valori Børsen....",
+                    "*...Børsen e il Castello di Frederiksborg a Hillerød sono importanti esempi dello stile rinascimentale olandese a Copenaghen...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.572327,
+                    55.68015
+                ]
+            },
+            "properties": {
+                "entity": "Università di Copenaghen",
+                "name_location": "Università di Copenaghen, Krystalgade, Vesterbro, Copenaghen, Københavns Kommune, Region Hovedstaden, 1165, Danimarca",
+                "class": "amenity",
+                "type": "university",
+                "snippet": [
+                    "*...La città è sede dell'Università di Copenaghen (fondata nel 1479 e la prima della Danimarca), l'Università tecnica della Danimarca, la Copenhagen Business School e l'Università di informatica....",
+                    "*...L'Università di Copenaghen, una delle più antiche Università d'Europa, fu inaugurata il 1º giugno 1479 da re Cristiano I di Danimarca dopo aver ricevuto l'approvazione di papa Sisto IV....",
+                    "*...La Biblioteca reale è la biblioteca nazionale danese, utilizzata anche come biblioteca dell'Università di Copenaghen....",
+                    "*...Copenaghen è sede dell'Università più antica e più grande di Danimarca, l'Università di Copenaghen, fondata nel 1479...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.631604,
+                    55.661046
+                ]
+            },
+            "properties": {
+                "entity": "Copenhagen Business School",
+                "name_location": "Copenhagen Business School, Krimsvej, Copenaghen, Københavns Kommune, Region Hovedstaden, 1441, Danimarca",
+                "class": "office",
+                "type": "educational_institution",
+                "snippet": [
+                    "*...La città è sede dell'Università di Copenaghen (fondata nel 1479 e la prima della Danimarca), l'Università tecnica della Danimarca, la Copenhagen Business School e l'Università di informatica....",
+                    "*...Altri importanti poli universitari nella capitale danese sono la Copenhagen Business School, con 20.819 studenti,, University College Capital, che conta più di 10.000 studenti, e l'Università Tecnica della Danimarca....",
+                    "...Copenaghen ospita le squadre di calcio FC Copenhagen e Brøndby IF....",
+                    "*...Il nome inglese per la città, Copenhagen (notare la posizione dell'acca rispetto all'esonimo italiano), deriva dalla lingua basso-tedesca Kopenhagen....",
+                    "...Fra le principali orchestre sinfoniche della città bisogna ricordare l'Orchestra Reale Danese, risalente al 1448, l'Orchestra Filarmonica di Copenhagen e l'Orchestra Sinfonica Nazionale Danese....",
+                    "...Il Copenhagen Jazz Festival, che si svolge in estate, è un evento annuale che è il risultato di una significativa scena jazz che è esistita per molti anni....",
+                    "...Entrambe le strutture sono gestite dalla Copenhagen Malmö Port (CMP)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.596634,
+                    55.677674
+                ]
+            },
+            "properties": {
+                "entity": "Atlantico",
+                "name_location": "Nordatlantens Brygge, Strandgade, Christianshavn, Copenaghen, Københavns Kommune, Region Hovedstaden, 1428, Danimarca",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Durante tutto l'anno il meteo è influenzato dalla presenza di sistemi di bassa pressione provenienti dall'Atlantico, che portano a condizioni meteo sempre instabili...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.594252,
+                    55.672908
+                ]
+            },
+            "properties": {
+                "entity": "Kopenhagen",
+                "name_location": "Chiesa del Nostro Redentore, Dronningensgade, Christianshavn, Copenaghen, Københavns Kommune, Region Hovedstaden, 1416, Danimarca",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Il nome inglese per la città, Copenhagen (notare la posizione dell'acca rispetto all'esonimo italiano), deriva dalla lingua basso-tedesca Kopenhagen...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.585994,
+                    55.680574
+                ]
+            },
+            "properties": {
+                "entity": "Kongens Nytorv",
+                "name_location": "Kongens Nytorv, Frederiksstaden, Copenaghen, Københavns Kommune, Region Hovedstaden, 1050, Danimarca",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Sebbene i primi documenti storici relativi Copenaghen risalgano solo alla fine del XII secolo, recenti scoperte archeologiche avvenute in concomitanza con i lavori di realizzazione della metropolitana cittadina hanno portato alla luce i resti di un grande edificio mercantile risalente al 1020 circa nei pressi dell'odierna Kongens Nytorv....",
+                    "*...Per il tempo libero si può passeggiare per Strøget, via pedonale nel centro di Copenaghen, è la più lunga del suo tipo in tutto il mondo, in particolare tra Nytorv e Højbro Plads la sera è possibile assistere alle performance di musicisti, maghi, giocolieri e altri artisti di Strada...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.577765,
+                    55.68181
+                ]
+            },
+            "properties": {
+                "entity": "Pilestræde",
+                "name_location": "Pilestræde, Christianshavn, Copenaghen, Københavns Kommune, Region Hovedstaden, 1119, Danimarca",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Ulteriori scavi realizzati a Pilestræde hanno permesso di scoprire un pozzo databile alla fine del XII secolo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.573044,
+                    55.677923
+                ]
+            },
+            "properties": {
+                "entity": "Strøget",
+                "name_location": "Stroget, Nytorv, Christianshavn, Copenaghen, Københavns Kommune, Region Hovedstaden, 1450, Danimarca",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...I resti di un'antica Chiesa, con tombe risalenti all'XI secolo, sono invece rivenuti vicino al punto in cui Strøget incontra Rådhuspladsen....",
+                    "*...Per il tempo libero si può passeggiare per Strøget, via pedonale nel centro di Copenaghen, è la più lunga del suo tipo in tutto il mondo, in particolare tra Nytorv e Højbro Plads la sera è possibile assistere alle performance di musicisti, maghi, giocolieri e altri artisti di Strada...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.567943,
+                    55.677102
+                ]
+            },
+            "properties": {
+                "entity": "Rådhuspladsen",
+                "name_location": "Rådhuspladsen, Vester Voldgade, Vesterbro, Copenaghen, Københavns Kommune, Region Hovedstaden, 1551, Danimarca",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...I resti di un'antica Chiesa, con tombe risalenti all'XI secolo, sono invece rivenuti vicino al punto in cui Strøget incontra Rådhuspladsen...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.580648,
+                    55.675195
+                ]
+            },
+            "properties": {
+                "entity": "Slotsholmen",
+                "name_location": "Slotsholmen, Christiansborg Slotsplads, Christianshavn, Copenaghen, Københavns Kommune, Region Hovedstaden, 1218, Danimarca",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...Tradizionalmente, la fondazione di Copenaghen è stata fatta coincidere con l'edificazione da parte del vescovo Absalon di una modesta fortezza sulla piccola isola di Slotsholmen nel 1167 dove oggi si trova il Palazzo di Christiansborg....",
+                    "*...Mentre l'attività di pesca prosperava, in particolare riguardo al commercio delle aringhe, Copenaghen iniziò ad espandersi a nord di Slotsholmen....",
+                    "*...Su sua iniziativa, all'inizio del XVII secolo, furono completati due importanti edifici a Slotsholmen:...",
+                    "*...Il centro della città comprende anche Slotsholmen, una piccola isola su cui sorge il palazzo di Christiansborg e Christianshavn con i suoi canali....",
+                    "*...Attualmente è dislocata in quattro siti, il principale dei quali si trova a Slotsholmen....",
+                    "*...Inoltre, furono intrapresi importanti ampliamenti alla base navale di Holmen mentre l'importanza culturale della città fu accresciuta con il Teatro Reale e la Reale Accademia di Belle Arti...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.630916,
+                    55.658645
+                ]
+            },
+            "properties": {
+                "entity": "Roskilde",
+                "name_location": "Kalles Kaffe Roskilde, Krimsvej, Copenaghen, Københavns Kommune, Region Hovedstaden, 1441, Danimarca",
+                "class": "office",
+                "type": "company",
+                "snippet": [
+                    "*...Nel 1186, in una lettera di papa Urbano III veniva dichiarato che il castello di Hafn (Copenaghen) e le terre circostanti, inclusa la città di Hafn, fossero state date ad Absalon, vescovo di Roskilde dal 1158 al 1191 e arcivescovo di Lund dal 1177 al 1201, da parte di re Valdemaro I....",
+                    "*...Alla morte di Absalon, la proprietà sarebbe passata alla diocesi di Roskilde....",
+                    "*...Tuttavia sappiamo che comprende il comune di Copenaghen, Frederiksberg e 16 dei 20 comuni della vecchia contea di Copenaghen e Roskilde, anche se 5 di essi solo parzialmente....",
+                    "*...Copenaghen ha due aeroporti, ll Kastrup (il grande Aeroporto internazionale, con oltre 24 milioni di passeggeri l'anno) e Roskilde Lufthavn (una piccola internazionale di aviazione generale e Aeroporto)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.596927,
+                    55.676377
+                ]
+            },
+            "properties": {
+                "entity": "Christianshavn",
+                "name_location": "Christianshavn, Strandgade, Christianshavn, Copenaghen, Københavns Kommune, Region Hovedstaden, 1428, Danimarca",
+                "class": "leisure",
+                "type": "marina",
+                "snippet": [
+                    "*...A est della città, su ispirazione della pianificazione urbanistica olandese, il re sviluppò il distretto di Christianshavn con canali e bastioni....",
+                    "*...Pertanto furono elaborati piani per demolire la parte vecchia di Christianshavn e radere al suolo le peggiori baracche della città....",
+                    "*...Il centro della città comprende anche Slotsholmen, una piccola isola su cui sorge il palazzo di Christiansborg e Christianshavn con i suoi canali....",
+                    "*...Christianshavn chiude la cintura intorno al centro e sta a sud. Il quartiere ospita tra l'altro il villaggio di Christiania un'ex area militare occupata all'inizio degli anni settanta, divenuta area di elezione del movimento hippy che vi fondò una comune tutto'ora esistente. L'area è stata, nel corso dei decenni, oggetto di diverse controversie...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.572727,
+                    55.679377
+                ]
+            },
+            "properties": {
+                "entity": "cattedrale di Nostra Signora",
+                "name_location": "Cattedrale di Nostra Signora, Dyrkøb, Christianshavn, Copenaghen, Københavns Kommune, Region Hovedstaden, 1166, Danimarca",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "...Intorno al 1200, la Cattedrale di Nostra Signora fu costruita su un'altura a nord-est del e un insediamento urbano iniziò a svilupparsi attorno ad essa....",
+                    "*...La Chiesa più grande, cattedrale di Nostra Signora, fu distrutta dall'artiglieria marina....",
+                    "*...Intorno al 1200, la Cattedrale di Nostra Signora fu costruita su un'altura a nord-est del e un insediamento urbano iniziò a svilupparsi attorno ad essa...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.579427,
+                    55.697433
+                ]
+            },
+            "properties": {
+                "entity": "Søerne",
+                "name_location": "Bogladen ved Søerne, Østerbrogade, Østerbro, Copenaghen, Københavns Kommune, Region Hovedstaden, 1317, Danimarca",
+                "class": "shop",
+                "type": "books",
+                "snippet": [
+                    "*...All'inizio del 1850, i bastioni della città furono aperti per consentire la costruzione di nuove abitazioni intorno ai laghi (Søerne) che confinava con le vecchie difese a ovest...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.556958,
+                    55.672702
+                ]
+            },
+            "properties": {
+                "entity": "Vesterbro",
+                "name_location": "The Real Greek Vesterbro, Vesterbrogade, Kødbyen, Vesterbro, Copenaghen, Københavns Kommune, Region Hovedstaden, 1616, Danimarca",
+                "class": "amenity",
+                "type": "fast_food",
+                "snippet": [
+                    "*...Entro il 1880, i distretti di Nørrebro e Vesterbro si svilupparono al fine di accogliere coloro che provenivano dalle province per favorire il processo di industrializzazione della città....",
+                    "*...Intorno al centro storico della città si estende una fascia di borghi residenziali (Vesterbro, Inner Nørrebro, Inner Østerbro) risalenti principalmente alla fine del XIX secolo....",
+                    "*...Vesterbro (V), letteralmente il quartiere Ovest, in realtà in direzione sud-ovest rispetto al centro. Questo è un quartiere che ha subìto profondo rinnovamento edilizio e sociale negli ultimi vent'anni, diventando il quartiere di elezione degli studenti universitari, che hanno via via sostituito le famiglie di operai. La via più famosa del quartiere è Istegade, ultima reminiscenza di Vesterbro prima del rinnovamento. Kødbyen, noto anche Meat Pack district (l'ex mattatoio) o il distretto della carne, aperto il 28 novembre 1879, pianificato e progettato dall'architetto Hans Jørgen Holm. Dalla fine del XX secolo, il distretto si è lentamente trasformato, ospitando gallerie d'arte, caffè, locali notturni e piccole imprese creative come studi di architettura e di design. Oggi è un polo di ristoranti e negozi alimentari....",
+                    "*...La municipalità indipendente di Frederiksberg è una enclave, incastonata tra i quartieri Vesterbro, Nørrebro e la città di Valby e ha anch'essa connotazione borghese...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.466854,
+                    55.716049
+                ]
+            },
+            "properties": {
+                "entity": "Vestvolden",
+                "name_location": "Vestvolden Voldpunkt 21, Haveforeningen Husumhave, Hf. Husumhave, Husum, Copenaghen, Københavns Kommune, Region Hovedstaden, 2700, Danimarca",
+                "class": "military",
+                "type": "bunker",
+                "snippet": [
+                    "*...Dal 1886, il bastione occidentale (Vestvolden) fu raso al suolo, consentendo importanti estensioni del porto che portarono all'istituzione del porto franco di Copenaghen 1892–94...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.507615,
+                    55.705433
+                ]
+            },
+            "properties": {
+                "entity": "Brønshøj",
+                "name_location": "Brønshøj Apotek, Højenhald, Bellahøj, Brønshøj, Copenaghen, Københavns Kommune, Region Hovedstaden, 2400, Danimarca",
+                "class": "amenity",
+                "type": "pharmacy",
+                "snippet": [
+                    "*...Nuovi insediamenti abitativi sorsero a Brønshøj e Valby, mentre Frederiksberg divenne un'enclave all'interno della città di Copenaghen...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.56404,
+                    55.689393
+                ]
+            },
+            "properties": {
+                "entity": "Frederiksberg",
+                "name_location": "Frederiksberg Rådhusplads, Nørrebro, Copenaghen, Københavns Kommune, Region Hovedstaden, 1371, Danimarca",
+                "class": "highway",
+                "type": "footway",
+                "snippet": [
+                    "*...Nuovi insediamenti abitativi sorsero a Brønshøj e Valby, mentre Frederiksberg divenne un'enclave all'interno della città di Copenaghen....",
+                    "*...Nella prima, tutti e sei gli aerei (che trasportavano una bomba ciascuno) colpirono il loro obiettivo, ma uno degli aerei si è schiantò vicino alla scuola Frederiksberg....",
+                    "*...Tuttavia sappiamo che comprende il comune di Copenaghen, Frederiksberg e 16 dei 20 comuni della vecchia contea di Copenaghen e Roskilde, anche se 5 di essi solo parzialmente....",
+                    "*...Da questo, la terra della città di Copenaghen è definita dai comuni di Copenaghen, Dragør, Frederiksberg e Tårnby, con una popolazione totale di 656 582 all'inizio del 2008....",
+                    "*...La parte più grande e centrale è il Comune di Copenaghen, la seconda è il Comune di Frederiksberg....",
+                    "*...La municipalità indipendente di Frederiksberg è una enclave, incastonata tra i quartieri Vesterbro, Nørrebro e la città di Valby e ha anch'essa connotazione borghese...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.513596,
+                    55.663869
+                ]
+            },
+            "properties": {
+                "entity": "Valby",
+                "name_location": "Valby, Toftebakkevej, Valby Maskinfabrik, Valby, Copenaghen, Københavns Kommune, Region Hovedstaden, 2500, Danimarca",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Nuovi insediamenti abitativi sorsero a Brønshøj e Valby, mentre Frederiksberg divenne un'enclave all'interno della città di Copenaghen....",
+                    "*...Tra il 1901 e il 1902, le zone settentrionali di Amager e Valby vennero incorporate nella città....",
+                    "*...La municipalità indipendente di Frederiksberg è una enclave, incastonata tra i quartieri Vesterbro, Nørrebro e la città di Valby e ha anch'essa connotazione borghese...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.589031,
+                    55.685126
+                ]
+            },
+            "properties": {
+                "entity": "Marmorkirken",
+                "name_location": "Marmorkirken, Frederiksgade, Nyboder, Frederiksstaden, Copenaghen, Københavns Kommune, Region Hovedstaden, 1264, Danimarca",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...I monumenti cittadini come i Giardini di Tivoli, la statua della Sirenetta, i palazzi di Amalienborg e di Christiansborg, il Castello di Rosenborg, la Marmorkirken, Børsen e molti musei, ristoranti e locali notturni sono importanti attrazioni turistiche....",
+                    "*...La parte più antica del centro di Copenaghen viene spesso chiamata Middelalderbyen ossia \"la città medievale\", tuttavia il quartiere più caratteristico della città è Frederiksstaden, sviluppatosi durante il regno di Federico V. Al centro di esso si trova il Palazzo di Amalienborg ed è dominato dalla cupola della Marmorkirken e da diversi eleganti palazzi rococò del XVIII secolo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.580041,
+                    55.675651
+                ]
+            },
+            "properties": {
+                "entity": "palazzo di Christiansborg",
+                "name_location": "Palazzo di Christiansborg, Børsgade, Christianshavn, Copenaghen, Københavns Kommune, Region Hovedstaden, 1061, Danimarca",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...Tradizionalmente, la fondazione di Copenaghen è stata fatta coincidere con l'edificazione da parte del vescovo Absalon di una modesta fortezza sulla piccola isola di Slotsholmen nel 1167 dove oggi si trova il Palazzo di Christiansborg....",
+                    "...Nel 1733 iniziarono i lavori per la realizzazione della residenza reale del Palazzo di Christiansborg, completato nel 1745, mentre nel 1749 fu avviato lo sviluppo del prestigioso quartiere di Frederiksstaden....",
+                    "*...Il centro della città comprende anche Slotsholmen, una piccola isola su cui sorge il palazzo di Christiansborg e Christianshavn con i suoi canali....",
+                    "*...Altre guglie importanti sono quelle del palazzo di Christiansborg, del municipio e dell'ex Chiesa di San Nicola che oggi ospita un'esposizione di arte moderna....",
+                    "*...Tradizionalmente, la fondazione di Copenaghen è stata fatta coincidere con l'edificazione da parte del vescovo Absalon di una modesta fortezza sulla piccola isola di Slotsholmen nel 1167 dove oggi si trova il Palazzo di Christiansborg....",
+                    "*...Nel 1733 iniziarono i lavori per la realizzazione della residenza reale del Palazzo di Christiansborg, completato nel 1745, mentre nel 1749 fu avviato lo sviluppo del prestigioso quartiere di Frederiksstaden....",
+                    "*...I monumenti cittadini come i Giardini di Tivoli, la statua della Sirenetta, i palazzi di Amalienborg e di Christiansborg, il Castello di Rosenborg, la Marmorkirken, Børsen e molti musei, ristoranti e locali notturni sono importanti attrazioni turistiche...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.594252,
+                    55.672908
+                ]
+            },
+            "properties": {
+                "entity": "Chiesa del Nostro Redentore",
+                "name_location": "Chiesa del Nostro Redentore, Dronningensgade, Christianshavn, Copenaghen, Københavns Kommune, Region Hovedstaden, 1416, Danimarca",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...La più caratteristica di tutte è quella barocca della Chiesa del Nostro Redentore con la sua stretta scala a chiocciola esterna che i visitatori possono salire fino in cima....",
+                    "...I resti di un'antica Chiesa, con tombe risalenti all'XI secolo, sono invece rivenuti vicino al punto in cui Strøget incontra Rådhuspladsen....",
+                    "...In breve tempo furono completati i bastioni difensivi e i fossati mentre nel 1177 fu costruita la Chiesa di San Clemente;...",
+                    "*...La Chiesa più grande, cattedrale di Nostra Signora, fu distrutta dall'artiglieria marina....",
+                    "...Altre guglie importanti sono quelle del palazzo di Christiansborg, del municipio e dell'ex Chiesa di San Nicola che oggi ospita un'esposizione di arte moderna....",
+                    "...La maggioranza degli abitanti di Copenaghen fa parte della Chiesa di Danimarca (cristiana luterana)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.545659,
+                    55.691681
+                ]
+            },
+            "properties": {
+                "entity": "Scandinavia",
+                "name_location": "Scandinavia Kiosk, Jagtvej, Nørrebro, Copenaghen, Københavns Kommune, Region Hovedstaden, 2200, Danimarca",
+                "class": "shop",
+                "type": "kiosk",
+                "snippet": [
+                    "*...Situato vicino all'Aeroporto di Copenaghen, attualmente vanta uno dei più grandi centri commerciali della Scandinavia e una varietà di uffici e edifici residenziali;...",
+                    "*...La rete di Crociere da Copenaghen è stata istituita nel 1992 come un partenariato tra il porto di Copenaghen e 45 fornitori professionali, al fine di rafforzare e sviluppare Copenaghen come il porto di maggior successo per crociere in Scandinavia e del Mar Baltico...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.631792,
+                    55.656124
+                ]
+            },
+            "properties": {
+                "entity": "Amager Strand",
+                "name_location": "Amager Strand, Roselillevej, Copenaghen, Københavns Kommune, Region Hovedstaden, 2300, Danimarca",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...La principale di queste è Amager Strand, aperta nel 2005:..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.59254,
+                    55.62865
+                ]
+            },
+            "properties": {
+                "entity": "Tårnby",
+                "name_location": "Tårnby, Øresundsmotorvejen, Våren, Copenaghen, Københavns Kommune, Region Hovedstaden, 2770, Danimarca",
+                "class": "highway",
+                "type": "motorway_junction",
+                "snippet": [
+                    "*...Da questo, la terra della città di Copenaghen è definita dai comuni di Copenaghen, Dragør, Frederiksberg e Tårnby, con una popolazione totale di 656 582 all'inizio del 2008...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.427549,
+                    55.666557
+                ]
+            },
+            "properties": {
+                "entity": "Brøndby",
+                "name_location": "Brøndby Nord Vej, Brøndbyøster, Brøndby Kommune, Hvissinge, Region Hovedstaden, 2605, Danimarca",
+                "class": "highway",
+                "type": "living_street",
+                "snippet": [
+                    "...Copenaghen ospita le squadre di calcio FC Copenhagen e Brøndby IF....",
+                    "*...La periferia di Copenaghen comprende i comuni di Albertslund, Ballerup, Brøndby, Gentofte, Gladsaxe, Glostrup, Herlev, Hvidovre, Høje-Taastrup, Ishøj, Lyngby-Taarbæk, Rødovre e Vallensbæk con una popolazione totale di 504 481 (1º gennaio 2008)....",
+                    "*...Il Brøndby, nato nel 1964 dall'unione di due squadre del sobborgo di Brøndby, che gioca nel Brøndby Stadion. È stato 11 volte campione di Danimarca...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.440906,
+                    55.64904
+                ]
+            },
+            "properties": {
+                "entity": "Glostrup",
+                "name_location": "Psykiatrisk Center Glostrup (afdeling Hvidovre), Brøndbyøstervej, Brøndbyøster, Brøndby Kommune, Glostrup, Region Hovedstaden, 2605, Danimarca",
+                "class": "amenity",
+                "type": "hospital",
+                "snippet": [
+                    "*...La periferia di Copenaghen comprende i comuni di Albertslund, Ballerup, Brøndby, Gentofte, Gladsaxe, Glostrup, Herlev, Hvidovre, Høje-Taastrup, Ishøj, Lyngby-Taarbæk, Rødovre e Vallensbæk con una popolazione totale di 504 481 (1º gennaio 2008)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.458927,
+                    55.716428
+                ]
+            },
+            "properties": {
+                "entity": "Herlev",
+                "name_location": "Herlev Hovedgade, Husum, Copenaghen, Københavns Kommune, Region Hovedstaden, 2700, Danimarca",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...La periferia di Copenaghen comprende i comuni di Albertslund, Ballerup, Brøndby, Gentofte, Gladsaxe, Glostrup, Herlev, Hvidovre, Høje-Taastrup, Ishøj, Lyngby-Taarbæk, Rødovre e Vallensbæk con una popolazione totale di 504 481 (1º gennaio 2008)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.451419,
+                    55.647699
+                ]
+            },
+            "properties": {
+                "entity": "Hvidovre",
+                "name_location": "Hvidovre, Holbækmotorvejen, Brøndbyøster, Brøndby Kommune, Glostrup, Region Hovedstaden, 2650, Danimarca",
+                "class": "highway",
+                "type": "motorway_junction",
+                "snippet": [
+                    "*...La periferia di Copenaghen comprende i comuni di Albertslund, Ballerup, Brøndby, Gentofte, Gladsaxe, Glostrup, Herlev, Hvidovre, Høje-Taastrup, Ishøj, Lyngby-Taarbæk, Rødovre e Vallensbæk con una popolazione totale di 504 481 (1º gennaio 2008)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.552532,
+                    55.664287
+                ]
+            },
+            "properties": {
+                "entity": "Høje-Taastrup",
+                "name_location": "Høje Taastrup-banen, Skjalm Hvides Gade, Kødbyen, Vesterbro, Copenaghen, Københavns Kommune, Region Hovedstaden, 1728, Danimarca",
+                "class": "railway",
+                "type": "light_rail",
+                "snippet": [
+                    "*...La periferia di Copenaghen comprende i comuni di Albertslund, Ballerup, Brøndby, Gentofte, Gladsaxe, Glostrup, Herlev, Hvidovre, Høje-Taastrup, Ishøj, Lyngby-Taarbæk, Rødovre e Vallensbæk con una popolazione totale di 504 481 (1º gennaio 2008)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.402042,
+                    55.629569
+                ]
+            },
+            "properties": {
+                "entity": "Vallensbæk",
+                "name_location": "Vallensbæk S, Køge Bugt Motorvejen, Brøndby Strand, Brøndby Kommune, Copenaghen, Region Hovedstaden, 2660, Danimarca",
+                "class": "highway",
+                "type": "motorway_junction",
+                "snippet": [
+                    "*...La periferia di Copenaghen comprende i comuni di Albertslund, Ballerup, Brøndby, Gentofte, Gladsaxe, Glostrup, Herlev, Hvidovre, Høje-Taastrup, Ishøj, Lyngby-Taarbæk, Rødovre e Vallensbæk con una popolazione totale di 504 481 (1º gennaio 2008)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.576462,
+                    55.679919
+                ]
+            },
+            "properties": {
+                "entity": "Italia",
+                "name_location": "Sole D Italia, Niels Hemmingsens Gade, Christianshavn, Copenaghen, Københavns Kommune, Region Hovedstaden, 1153, Danimarca",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*... Italia 2 825 ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.577094,
+                    55.70773
+                ]
+            },
+            "properties": {
+                "entity": "India",
+                "name_location": "India Østerbro, Østerbrogade, Indre Østerbro, Østerbro, Copenaghen, Københavns Kommune, Region Hovedstaden, 2100, Danimarca",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*... India 2 498 ...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.582913,
+                    55.673572
+                ]
+            },
+            "properties": {
+                "entity": "Biblioteca reale",
+                "name_location": "La Biblioteca reale, Christians Brygge, Christianshavn, Copenaghen, Københavns Kommune, Region Hovedstaden, 1219, Danimarca",
+                "class": "amenity",
+                "type": "library",
+                "snippet": [
+                    "*...La Biblioteca reale è la biblioteca nazionale danese, utilizzata anche come biblioteca dell'Università di Copenaghen...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.574354,
+                    55.67471
+                ]
+            },
+            "properties": {
+                "entity": "Museo nazionale danese",
+                "name_location": "Museo nazionale danese, Ny Vestergade, Postbyen, Christianshavn, Copenaghen, Københavns Kommune, Region Hovedstaden, 1471, Danimarca",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Il Museo nazionale danese possiede la più grande collezione di archeologia e storia della Danimarca comprendendo anche reperti stranieri...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.571766,
+                    55.672534
+                ]
+            },
+            "properties": {
+                "entity": "Ny Carlsberg Glyptotek",
+                "name_location": "Ny Carlsberg Glyptotek, Ved Glyptoteket, Postbyen, Vesterbro, Copenaghen, Københavns Kommune, Region Hovedstaden, 1575, Danimarca",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Un altro importante Museo d'arte di Copenaghen è la Ny Carlsberg Glyptotek fondata dal filantropo Carl Jacobsen e costruita attorno alle sue collezioni personali....",
+                    "*...Tuborg e Carlsberg (anno di fondazione 1847)....",
+                    "*...Copenaghen è anche sede di numerose società internazionali tra cui AP Møller-Mærsk, Novo Nordisk, Carlsberg e Novozymes...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.578788,
+                    55.676753
+                ]
+            },
+            "properties": {
+                "entity": "Museo Thorvaldsen",
+                "name_location": "Museo Thorvaldsen, Prins Jørgens Gård, Christianshavn, Copenaghen, Københavns Kommune, Region Hovedstaden, 1212, Danimarca",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Il Museo Thorvaldsen, dedicato ai lavori dello scultore romantico danese Bertel Thorvaldsen;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.579851,
+                    55.678375
+                ]
+            },
+            "properties": {
+                "entity": "Højbro Plads",
+                "name_location": "Højbro Plads, Lille Kirkestræde, Christianshavn, Copenaghen, Københavns Kommune, Region Hovedstaden, 1072, Danimarca",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Per il tempo libero si può passeggiare per Strøget, via pedonale nel centro di Copenaghen, è la più lunga del suo tipo in tutto il mondo, in particolare tra Nytorv e Højbro Plads la sera è possibile assistere alle performance di musicisti, maghi, giocolieri e altri artisti di Strada...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57625,
+                    55.727009
+                ]
+            },
+            "properties": {
+                "entity": "Tuborg",
+                "name_location": "Tuborg Boulevard, Strandvejen, Copenaghen, Københavns Kommune, Region Hovedstaden, 2900, Danimarca",
+                "class": "highway",
+                "type": "platform",
+                "snippet": [
+                    "*...Tuborg e Carlsberg (anno di fondazione 1847)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.572821,
+                    55.684353
+                ]
+            },
+            "properties": {
+                "entity": "Amager Bryghus",
+                "name_location": "Amager Bryghus Taproom, Nørre Voldgade, Frederiksstaden, Copenaghen, Københavns Kommune, Region Hovedstaden, 1131, Danimarca",
+                "class": "amenity",
+                "type": "bar",
+                "snippet": [
+                    "*...Uno di questi, il birrificio Amager Bryghus, situato a Kastrup, è stato insignito del premio per la produzione della miglior birra danese e una delle migliori birre al mondo....",
+                    "*...È situata sulle isole Selandia e Amager, ed è separata dalla città svedese di Malmö dall’Øresund....",
+                    "*...Tra il 1901 e il 1902, le zone settentrionali di Amager e Valby vennero incorporate nella città....",
+                    "...La costruzione del ponte ha portato un grande numero di cambiamenti nel sistema del trasporto pubblico e un'estensiva ripianificazione dell'isola di Amager, a sud della città....",
+                    "...La principale di queste è Amager Strand, aperta nel 2005:..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.639837,
+                    55.648473
+                ]
+            },
+            "properties": {
+                "entity": "Kastrup",
+                "name_location": "Kastrup Fort, Amager Strandvej, Copenaghen, Københavns Kommune, Region Hovedstaden, 2300, Danimarca",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Uno di questi, il birrificio Amager Bryghus, situato a Kastrup, è stato insignito del premio per la produzione della miglior birra danese e una delle migliori birre al mondo....",
+                    "*...Copenaghen ha due aeroporti, ll Kastrup (il grande Aeroporto internazionale, con oltre 24 milioni di passeggeri l'anno) e Roskilde Lufthavn (una piccola internazionale di aviazione generale e Aeroporto)....",
+                    "...Il Kastrup, noto anche Aeroporto di Copenaghen, è situato a soli 8 km a sud del centro di Copenaghen, ed è collegato con la città dalla linea metropolitana M2...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.570995,
+                    55.683696
+                ]
+            },
+            "properties": {
+                "entity": "Hovedstaden",
+                "name_location": "Dansk Sygeplejeråd kreds hovedstaden, Frederiksborggade, Frederiksstaden, Copenaghen, Københavns Kommune, Region Hovedstaden, 1361, Danimarca",
+                "class": "office",
+                "type": "organization",
+                "snippet": [
+                    "*...Entrambe sono comprese nella regione di Hovedstaden, che contiene la maggior parte dell'area metropolitana della città...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.563874,
+                    55.683482
+                ]
+            },
+            "properties": {
+                "entity": "Indre By",
+                "name_location": "Kulturhuset Indre By, Charlotte Ammundsens Plads, Nørrebro, Copenaghen, Københavns Kommune, Region Hovedstaden, 1366, Danimarca",
+                "class": "amenity",
+                "type": "community_centre",
+                "snippet": [
+                    "*...Il quartiere centro Indre By (K), dove si trovano le altre cose il parlamento danese, il palazzo di Amalienborg, residenza reale, la sede centrale dell'Università, il municipio Rådhuset (lett. casa del consiglio), il pittoresco quartiere di Nyhavn...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.605502,
+                    55.674274
+                ]
+            },
+            "properties": {
+                "entity": "Rådhuset",
+                "name_location": "Rådhuset, Nordområdet, Christiania, Christianshavn, Copenaghen, Københavns Kommune, Region Hovedstaden, 1440, Danimarca",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...Il quartiere centro Indre By (K), dove si trovano le altre cose il parlamento danese, il palazzo di Amalienborg, residenza reale, la sede centrale dell'Università, il municipio Rådhuset (lett. casa del consiglio), il pittoresco quartiere di Nyhavn...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.587952,
+                    55.68063
+                ]
+            },
+            "properties": {
+                "entity": "Nyhavn",
+                "name_location": "Nyhavn, Frederiksstaden, Copenaghen, Københavns Kommune, Region Hovedstaden, 1051, Danimarca",
+                "class": "amenity",
+                "type": "toilets",
+                "snippet": [
+                    "*...Il quartiere centro Indre By (K), dove si trovano le altre cose il parlamento danese, il palazzo di Amalienborg, residenza reale, la sede centrale dell'Università, il municipio Rådhuset (lett. casa del consiglio), il pittoresco quartiere di Nyhavn...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.558895,
+                    55.688551
+                ]
+            },
+            "properties": {
+                "entity": "Nørrebrogade",
+                "name_location": "Nørrebrogade, Nørrebro, Copenaghen, Københavns Kommune, Region Hovedstaden, 1371, Danimarca",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Nørrebro (N), ovvero il quartiere Nord, in realtà orientato a nord-ovest. Questo è il quartiere più multietnico di Copenaghen, tanto che la sua via principale (Nørrebrogade, che a partire dal centro taglia in due il quartiere) è nota anche come Shawarma belt, ovvero Cintura della Shawerma...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.58177,
+                    55.694588
+                ]
+            },
+            "properties": {
+                "entity": "Østerbro",
+                "name_location": "Østerbro Bibliotek, Dag Hammarskjölds Allé, Nyboder, Østerbro, Copenaghen, Københavns Kommune, Region Hovedstaden, 1323, Danimarca",
+                "class": "amenity",
+                "type": "library",
+                "snippet": [
+                    "...Intorno al centro storico della città si estende una fascia di borghi residenziali (Vesterbro, Inner Nørrebro, Inner Østerbro) risalenti principalmente alla fine del XIX secolo....",
+                    "*...Østerbro (Ø), che a dispetto del nome è in realtà fondamentalmente al nord del centro, è il quartiere più tranquillo e borghese...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.607571,
+                    55.675737
+                ]
+            },
+            "properties": {
+                "entity": "Christiania",
+                "name_location": "Christiania, Prinsessegade, Christianshavn, Copenaghen, Københavns Kommune, Region Hovedstaden, 1429, Danimarca",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Christianshavn chiude la cintura intorno al centro e sta a sud. Il quartiere ospita tra l'altro il villaggio di Christiania un'ex area militare occupata all'inizio degli anni settanta, divenuta area di elezione del movimento hippy che vi fondò una comune tutto'ora esistente. L'area è stata, nel corso dei decenni, oggetto di diverse controversie...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.585168,
+                    55.693525
+                ]
+            },
+            "properties": {
+                "entity": "Nykredit",
+                "name_location": "Nykredit, Kristianiagade, Nyboder, Frederiksstaden, Copenaghen, Københavns Kommune, Region Hovedstaden, 1323, Danimarca",
+                "class": "office",
+                "type": "company",
+                "snippet": [
+                    "*...Brand, Danske Bank, Nykredit e Nordea Bank Danmark...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.534348,
+                    55.696984
+                ]
+            },
+            "properties": {
+                "entity": "Novozymes",
+                "name_location": "Novozymes, Hillerødgade, Novozymes, Nørrebro, Copenaghen, Frederiksberg Kommune, Region Hovedstaden, 2400, Danimarca",
+                "class": "man_made",
+                "type": "works",
+                "snippet": [
+                    "*...Copenaghen è anche sede di numerose società internazionali tra cui AP Møller-Mærsk, Novo Nordisk, Carlsberg e Novozymes...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.586188,
+                    55.692601
+                ]
+            },
+            "properties": {
+                "entity": "Oslo",
+                "name_location": "Oslo Plads, Nyboder, Frederiksstaden, Copenaghen, Københavns Kommune, Region Hovedstaden, 1327, Danimarca",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...In un sondaggio del 2006 Copenaghen si è classificata 9ª tra le città più ricche del mondo e con la capitale norvegese Oslo ha il primato degli stipendi lordi più alti, ma le alte tasse li hanno ridotti di molto....",
+                    "...Oslo ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.556624,
+                    55.672635
+                ]
+            },
+            "properties": {
+                "entity": "Valencia",
+                "name_location": "Valencia - Danske Advokater, Vesterbrogade, Kødbyen, Vesterbro, Copenaghen, Københavns Kommune, Region Hovedstaden, 1616, Danimarca",
+                "class": "office",
+                "type": "lawyer",
+                "snippet": [
+                    "*...Nell'ottobre 2021, Copenaghen è stata selezionata per il premio \"Capitale europea del turismo intelligente\" 2022 della Commissione europea insieme a Bordeaux, Dublino, Firenze, Lubiana, Palma di Maiorca e Valencia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.627698,
+                    55.717204
+                ]
+            },
+            "properties": {
+                "entity": "Terminal 3",
+                "name_location": "Copenhagen Ocean Cruise Terminal 3, Oceankaj, Copenaghen, Københavns Kommune, Region Hovedstaden, 2150, Danimarca",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...Inoltre possiede una stazione ferroviaria ubicata sotto il Terminal 3, servita da treni con frequenza di fermate elevata, sulla linea che collega Copenaghen a Malmö in Svezia, e da treni a lunga percorrenza quali InterCity e InterCityExpress gestiti da DSB...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.585463,
+                    55.663906
+                ]
+            },
+            "properties": {
+                "entity": "M1",
+                "name_location": "Metro M1, Ørestads Boulevard, Christianshavn, Copenaghen, Københavns Kommune, Region Hovedstaden, 1411, Danimarca",
+                "class": "railway",
+                "type": "subway",
+                "snippet": [
+                    "*...La città ha quattro linee metropolitane, M1, M2, M3 e M4, con treni automatici senza macchinista;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57648,
+                    55.677402
+                ]
+            },
+            "properties": {
+                "entity": "M3",
+                "name_location": "Cityringen, Borgergade, Frederiksstaden, Copenaghen, Københavns Kommune, Region Hovedstaden, 1300, Danimarca",
+                "class": "railway",
+                "type": "subway",
+                "snippet": [
+                    "*...La città ha quattro linee metropolitane, M1, M2, M3 e M4, con treni automatici senza macchinista;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.58331,
+                    55.703969
+                ]
+            },
+            "properties": {
+                "entity": "M4",
+                "name_location": "Nordhavnslinjen, Jagtvej, Indre Østerbro, Østerbro, Copenaghen, Københavns Kommune, Region Hovedstaden, 2100, Danimarca",
+                "class": "railway",
+                "type": "subway",
+                "snippet": [
+                    "*...La città ha quattro linee metropolitane, M1, M2, M3 e M4, con treni automatici senza macchinista;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.572264,
+                    55.702704
+                ]
+            },
+            "properties": {
+                "entity": "Parken",
+                "name_location": "Parken, Brumleby, Indre Østerbro, Østerbro, Copenaghen, Københavns Kommune, Region Hovedstaden, 2100, Danimarca",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...Il Copenaghen, fondato nel 1992 dalla fusione di due club storici di Copenaghen (il KB ed il B 1903), che gioca nel Parken, lo stadio nazionale danese. Si è laureato 14 volte campione di Danimarca e ha partecipato varie volte alla Champions League...."
+                ]
+            }
+        }
+    ]
+}

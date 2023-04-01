@@ -1,0 +1,859 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.727517,
+                    37.984575
+                ]
+            },
+            "properties": {
+                "entity": "Αθήνα",
+                "name_location": "Athena, 3, Κοτοπούλη, Ομόνοια, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 104 31, Grecia",
+                "class": "amenity",
+                "type": "fast_food",
+                "snippet": [
+                    "*...Αθήνα, traslitterato:..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.730033,
+                    37.969279
+                ]
+            },
+            "properties": {
+                "entity": "Athḕnai",
+                "name_location": "Αθήναι, Μακρυγιάννη, Γαργαρέττα, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 105 58, Grecia",
+                "class": "amenity",
+                "type": "cafe",
+                "snippet": [
+                    "*..., Athḕnai) è un comune greco di 655 780 abitanti, capitale della Repubblica Ellenica, capoluogo dell'unità periferica di Atene Centrale e della periferia dell'Attica...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.727798,
+                    37.971398
+                ]
+            },
+            "properties": {
+                "entity": "Museo dell'Acropoli",
+                "name_location": "Vecchio Museo dell'Acropoli, Περίπατος Ακρόπολης (Νότια κλιτύς), Αστεροσκοπείο, Αναφιώτικα, Άνω Πετράλωνα, 3η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 105 58, Grecia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Nel XXI secolo è stata al centro dell'attenzione di tutto il mondo per aver organizzato con successo i Giochi della XXVIII Olimpiade nel 2004 e per l'inaugurazione del nuovo Museo dell'Acropoli nel 2009, che ha riaperto il dibattito riguardante i Marmi del Partenone....",
+                    "...Museo dell'acropoli di Atene, di Bernard Tschumi ;...",
+                    "*...Museo dell'Acropoli ;...",
+                    "...Popolazioni vi si erano insediate già dal Neolitico intorno al 3500 a.C., ma fu in età micenea che la città iniziò a fiorire diventando sede di un'importante fortezza intorno all'acropoli....",
+                    "*...Atena e Poseidone riunirono il popolo della città sull'Acropoli e dissero che ciascuno dei due avrebbe concesso un dono:...",
+                    "...L'Acropoli ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.726618,
+                    37.971503
+                ]
+            },
+            "properties": {
+                "entity": "Partenone",
+                "name_location": "Partenone, Περίπατος Ακρόπολης (Νότια κλιτύς), Αστεροσκοπείο, Αναφιώτικα, Άνω Πετράλωνα, 3η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 105 58, Grecia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Nel XXI secolo è stata al centro dell'attenzione di tutto il mondo per aver organizzato con successo i Giochi della XXVIII Olimpiade nel 2004 e per l'inaugurazione del nuovo Museo dell'Acropoli nel 2009, che ha riaperto il dibattito riguardante i Marmi del Partenone....",
+                    "*...Ciò è raccontato in parte attraverso le statue del frontone orientale del Partenone...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.791283,
+                    38.091532
+                ]
+            },
+            "properties": {
+                "entity": "Kifisià",
+                "name_location": "Κηφισιά, Atene - Salonicco - Evzoni, Δήμος Κηφισιάς, Περιφερειακή Ενότητα Βορείου Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 145 64, Grecia",
+                "class": "highway",
+                "type": "motorway_junction",
+                "snippet": [
+                    "*...La città si estende dalle pendici del monte Parnete, dove si trovano i cosiddetti sobborghi settentrionali, i più famosi dei quali sono Kifisià e Marousi, fino alla costa, dove si trova il porto del Pireo e i sobborghi meridionali come Glyfada e Palaio Faliro...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.743572,
+                    37.986797
+                ]
+            },
+            "properties": {
+                "entity": "Europa",
+                "name_location": "Europa, Ιπποκράτους, Πευκάκια, Συνοικία Γκύζη, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 114 72, Grecia",
+                "class": "shop",
+                "type": "doors",
+                "snippet": [
+                    "*...È una delle città d'Europa con il maggior numero di giorni di sole all'anno, visto che si possono contare in media 179 giorni durante i quali il sole non è coperto da nuvole nemmeno in un istante, e altri 157 durante i quali il sole è coperto da nuvole solo per mezz'ora....",
+                    "*...La temperatura effettiva percepita è però minore di quella di altre città d'Europa per il basso tasso d'umidità....",
+                    "*...Atene risulta pertanto, insieme a Madrid, una delle città più aride d'Europa....",
+                    "*...Atene possiede uno dei maggiori parchi autobus a metano in Europa e di filobus, per un totale di 293 linee che si sviluppano per circa 8500 chilometri con 8000 fermate....",
+                    "*...La rete di filobus è la più estesa dell'Europa occidentale (392 chilometri)....",
+                    "*...La città è inoltre tagliata da nord a sud tramite la tangenziale del Cefiso (Leoforos Kifisias, dal nome del fiume sul quale è stata in parte costruita, è infatti sopraelevata per un lungo tratto), che costituisce il prolungamento urbano dell'autostrada per le città settentrionali di Lamia, Larissa e Salonicco, e giunge fino al Pireo concludendosi in uno degli svincoli autostradali più grandi d'Europa...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.722236,
+                    37.981655
+                ]
+            },
+            "properties": {
+                "entity": "Corfù",
+                "name_location": "Corfu, 52, Παναγή Τσαλδάρη (Πειραιώς), Μεταξουργείο, Συνοικία Ρουφ, 3η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 105 53, Grecia",
+                "class": "amenity",
+                "type": "fast_food",
+                "snippet": [
+                    "*...Infatti mentre qui le precipitazioni medie annuali si aggirano sui 350–400 mm, a Corfù si superano spesso i 1000–1200 mm...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.720536,
+                    37.976685
+                ]
+            },
+            "properties": {
+                "entity": "Thiseio",
+                "name_location": "Θησείο, Επταχάλκου, Θησείο, Συνοικία Άνω Πετραλώνων, Άνω Πετράλωνα, 3η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 105 53, Grecia",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...È stata riscontrata la responsabilità dell'isola di calore di Atene anche rispetto ad alterazioni delle serie storiche climatologiche di alcune stazioni meteorologiche ateniesi quali Thiseio (Osservatorio Nazionale di Atene), Nea Philadelphia (HNMS) e Hellinikon (HNMS) a causa del suo effetto di innalzamento delle temperature da esse registrate rispetto alle vicine zone rurali....",
+                    "*...3: 48 305 (include i quartieri di Votanikos, Petralona, Kerameikos e Thiseio) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.737948,
+                    37.982806
+                ]
+            },
+            "properties": {
+                "entity": "5000 a.C.\n",
+                "name_location": "Πρασσά Γ., Νεάπολη, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 106 80, Grecia",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...I primi segni di presenza umana si trovano nella Grotta di Scisto, e sono datati tra il 13000 e il 5000 a.C...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.725665,
+                    37.971817
+                ]
+            },
+            "properties": {
+                "entity": "Atena",
+                "name_location": "Άγαλμα Αθηνάς Προμάχου, Περίπατος Ακρόπολης (Βόρεια κλιτύς), Αστεροσκοπείο, Αναφιώτικα, Άνω Πετράλωνα, 3η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 105 58, Grecia",
+                "class": "historic",
+                "type": "archaeological_site",
+                "snippet": [
+                    "*...Tradizionalmente la protettrice della città è la dea Atena, raffigurata sia sullo stemma che sulla bandiera della città....",
+                    "*...Atena....",
+                    "*...Un'altra versione del mito che spiega l'origine del nome di questa città, non designa Atena come fondatrice, ma solo come la dea che le diede il proprio nome e ne diventò la protettrice....",
+                    "*...Atena decise, quindi, di prenderla sotto la sua custodia....",
+                    "*...Atena e Poseidone entrarono in conflitto, perché nessuno dei due voleva concedere la giovane città all'altro;...",
+                    "*...Così Atena propose di lasciar decidere ai cittadini chi ne avrebbe preso la custodia....",
+                    "*...Atena e Poseidone riunirono il popolo della città sull'Acropoli e dissero che ciascuno dei due avrebbe concesso un dono:...",
+                    "*...Poseidone fece comparire un magnifico cavallo, mentre Atena fece nascere dal terreno un ulivo....",
+                    "*...Tutti concordarono con le parole dell'anziano e scelsero il dono di Atena, che diede infine il suo nome alla città....",
+                    "*...Sotto la protezione di Atena, dea della saggezza, Atene diventò una città fiorente, abile anche nelle guerre, per l'intelligenza e per l'attento uso della tattica dei suoi comandanti...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.727629,
+                    37.970586
+                ]
+            },
+            "properties": {
+                "entity": "Teatro di Dioniso",
+                "name_location": "Teatro di Dioniso, Περίπατος Ακρόπολης (Νότια κλιτύς), Αστεροσκοπείο, Αναφιώτικα, Άνω Πετράλωνα, 3η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 105 58, Grecia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Area archeologica del Teatro di Dioniso ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.718221,
+                    37.978634
+                ]
+            },
+            "properties": {
+                "entity": "Ceramico",
+                "name_location": "Αρχαιολογικός Χώρος Κεραμεικού, Σαλαμίνος, Κεραμεικός, Συνοικία Κάτω Πετραλώνων, Άνω Πετράλωνα, 3η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 105 53, Grecia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Area archeologica del Ceramico ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.732013,
+                    37.970187
+                ]
+            },
+            "properties": {
+                "entity": "Arco di Adriano",
+                "name_location": "Arco di Adriano, Βασιλίσσης Αμαλίας, 2η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 105 58, Grecia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Arco di Adriano ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.73302,
+                    37.980355
+                ]
+            },
+            "properties": {
+                "entity": "Panepistimio",
+                "name_location": "Πανεπιστήμιο, Πανεπιστημίου, Ακαδημία, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 105 64, Grecia",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...Esposizioni archeologiche di Syntagma, Panepistimio, Evangelismos e Dafni, nelle omonime stazioni della metropolitana ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.728757,
+                    37.980363
+                ]
+            },
+            "properties": {
+                "entity": "Alpha Bank",
+                "name_location": "Alpha Bank, 74, Αιόλου, Ομόνοια, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 105 59, Grecia",
+                "class": "amenity",
+                "type": "bank",
+                "snippet": [
+                    "*...Sede della Alpha Bank in Odos Stadiou, di Alexandros Tobazis ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.741523,
+                    38.002732
+                ]
+            },
+            "properties": {
+                "entity": "Kypseli",
+                "name_location": "Κυψέλη, Καλογερά, Κυψέλη, 6η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 113 64, Grecia",
+                "class": "railway",
+                "type": "proposed",
+                "snippet": [
+                    "*...Interessanti gli edifici in stile modernistico (ispirato al movimento Bauhaus) sparsi in tutto il centro di Atene e in particolare nelle zone di Kypseli, Exarchia, Kolonaki e Patisia, costruiti dalla fine degli anni venti fino a tutti gli anni trenta, che richiamano gli analoghi edifici Bauhaus di Tel Aviv....",
+                    "*...6: 147 181 (comprendente i quartieri centrali di Platia Attiki, Plateia Amerikis e Kypseli) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.739511,
+                    37.985254
+                ]
+            },
+            "properties": {
+                "entity": "Exarchia",
+                "name_location": "Αστυνομικό Τμήμα Εξαρχείων, Τηλεμάχου, Νεάπολη, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 114 72, Grecia",
+                "class": "amenity",
+                "type": "police",
+                "snippet": [
+                    "*...Interessanti gli edifici in stile modernistico (ispirato al movimento Bauhaus) sparsi in tutto il centro di Atene e in particolare nelle zone di Kypseli, Exarchia, Kolonaki e Patisia, costruiti dalla fine degli anni venti fino a tutti gli anni trenta, che richiamano gli analoghi edifici Bauhaus di Tel Aviv....",
+                    "*...1: 97 570 (comprendente il centro di Atene con il cosiddetto triangolo commerciale: Syntagma, Kolonaki, Ilisia, Exarchia, Omonia, Monastiraki, Plaka e Koukaki) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7408,
+                    37.976914
+                ]
+            },
+            "properties": {
+                "entity": "Kolonaki",
+                "name_location": "Κολωνάκι, Πλατεία Φιλικής Εταιρείας, Κολωνάκι, Συνοικία Κολωνακίου, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 106 73, Grecia",
+                "class": "railway",
+                "type": "proposed",
+                "snippet": [
+                    "*...Interessanti gli edifici in stile modernistico (ispirato al movimento Bauhaus) sparsi in tutto il centro di Atene e in particolare nelle zone di Kypseli, Exarchia, Kolonaki e Patisia, costruiti dalla fine degli anni venti fino a tutti gli anni trenta, che richiamano gli analoghi edifici Bauhaus di Tel Aviv....",
+                    "*...1: 97 570 (comprendente il centro di Atene con il cosiddetto triangolo commerciale: Syntagma, Kolonaki, Ilisia, Exarchia, Omonia, Monastiraki, Plaka e Koukaki) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.707015,
+                    38.002676
+                ]
+            },
+            "properties": {
+                "entity": "Salonicco",
+                "name_location": "Atene - Salonicco - Evzoni, Συνοικία Κολοκυνθούς, 4η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 10443, Grecia",
+                "class": "highway",
+                "type": "motorway",
+                "snippet": [
+                    "*...Essa ospita la maggior parte delle imprese editoriali greche e la maggior parte dei mezzi di comunicazione radiofonica e televisiva, tra cui due reti della televisione di Stato ERT (esiste anche una terza rete, su base regionale, che ha sede a Salonicco)....",
+                    "*...La capitale greca è diventata velocemente uno dei centri economici più importanti dell'Unione europea, ed è la città greca più ricca, insieme a Salonicco, in termini di PIL pro capite....",
+                    "*...La città è inoltre tagliata da nord a sud tramite la tangenziale del Cefiso (Leoforos Kifisias, dal nome del fiume sul quale è stata in parte costruita, è infatti sopraelevata per un lungo tratto), che costituisce il prolungamento urbano dell'autostrada per le città settentrionali di Lamia, Larissa e Salonicco, e giunge fino al Pireo concludendosi in uno degli svincoli autostradali più grandi d'Europa...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.726173,
+                    37.967483
+                ]
+            },
+            "properties": {
+                "entity": "Scuola archeologica italiana",
+                "name_location": "Scuola Archeologica Italiana di Atene, 14, Παρθενώνος, Ακρόπολη, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 117 42, Grecia",
+                "class": "amenity",
+                "type": "college",
+                "snippet": [
+                    "*...Data la sua importanza storica, ad Atene si trovano anche numerose scuole archeologiche straniere, le più importanti delle quali sono la Scuola archeologica tedesca, la Scuola archeologica francese, la Scuola archeologica inglese, la Scuola archeologica americana e la Scuola archeologica italiana....",
+                    "*...È presente anche la Scuola Italiana di Atene, attualmente solo in lingua Italiana....",
+                    "*...Napoli, Italia ....",
+                    "...Il Giro d'Italia 1996, in occasione del centenario della prima olimpiade, partì da Atene...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.726173,
+                    37.967483
+                ]
+            },
+            "properties": {
+                "entity": "Scuola Italiana di Atene",
+                "name_location": "Scuola Archeologica Italiana di Atene, 14, Παρθενώνος, Ακρόπολη, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 117 42, Grecia",
+                "class": "amenity",
+                "type": "college",
+                "snippet": [
+                    "*...È presente anche la Scuola Italiana di Atene, attualmente solo in lingua Italiana...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.736976,
+                    37.977408
+                ]
+            },
+            "properties": {
+                "entity": "Kriezotou",
+                "name_location": "Κριεζώτου, Κολωνάκι, Συνοικία Κολωνακίου, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 106 71, Grecia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Museo Benaki – Pinacoteca Chatzikyriakou-Gkika di via Kriezotou (Syntagma), dedicato alla generazione artistica degli anni trenta, con annessa biblioteca ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.735385,
+                    37.977827
+                ]
+            },
+            "properties": {
+                "entity": "Iliou Melathron",
+                "name_location": "Νομισματικό Μουσείο, 12, Ελευθερίου Βενιζέλου, Κολωνάκι, Συνοικία Κολωνακίου, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 106 71, Grecia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Museo numismatico ospitato nell'Iliou Melathron, la residenza ateniese di Heinrich Schliemann, lo scopritore di Troia e di Micene...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.725263,
+                    37.963016
+                ]
+            },
+            "properties": {
+                "entity": "National Museum of Contemporary Art",
+                "name_location": "Εθνικό Μουσείο Σύγχρονης Τέχνης, Καλλιρόης, Κυνοσάργους, Συνοικία Νέου Κόσμου, 2η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 117 43, Grecia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Nel marzo 2014 aprirà i battenti la nuova sede del Museo d'arte contemporanea, il National Museum of Contemporary Art, in Syngrou Avenue, nell'edificio rinnovato dello storico birrificio Fix...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.724514,
+                    37.962918
+                ]
+            },
+            "properties": {
+                "entity": "Syngrou Avenue",
+                "name_location": "Ανδρέα Συγγρού, Κουκάκι, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 117 41, Grecia",
+                "class": "highway",
+                "type": "trunk",
+                "snippet": [
+                    "*...Nel marzo 2014 aprirà i battenti la nuova sede del Museo d'arte contemporanea, il National Museum of Contemporary Art, in Syngrou Avenue, nell'edificio rinnovato dello storico birrificio Fix...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.507656,
+                    38.048976
+                ]
+            },
+            "properties": {
+                "entity": "Elefsina",
+                "name_location": "Elefsina Refinery Heliport, Atene - Patras, Κοινότητα Μάνδρας, Δημοτική Ενότητα Μάνδρας, Δήμος Μάνδρας - Ειδυλλίας, Περιφερειακή Ενότητα Δυτικής Αττικής, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 190 18, Grecia",
+                "class": "aeroway",
+                "type": "heliport",
+                "snippet": [
+                    "*...Dalla fine della seconda guerra mondiale nella conurbazione di Atene e nella regione dell'Attica sono cresciuti diversi centri industriali, sia nella zona di Elefsina, che lungo l'autostrada verso le città di Lamia e Larissa....",
+                    "*...Che collega Elefsina e l'autostrada per Corinto con l'Aeroporto El...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.76042,
+                    37.988556
+                ]
+            },
+            "properties": {
+                "entity": "Lamia",
+                "name_location": "Λαμίας, Αμπελόκηποι, 7η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 115 23, Grecia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Dalla fine della seconda guerra mondiale nella conurbazione di Atene e nella regione dell'Attica sono cresciuti diversi centri industriali, sia nella zona di Elefsina, che lungo l'autostrada verso le città di Lamia e Larissa....",
+                    "*...La città è inoltre tagliata da nord a sud tramite la tangenziale del Cefiso (Leoforos Kifisias, dal nome del fiume sul quale è stata in parte costruita, è infatti sopraelevata per un lungo tratto), che costituisce il prolungamento urbano dell'autostrada per le città settentrionali di Lamia, Larissa e Salonicco, e giunge fino al Pireo concludendosi in uno degli svincoli autostradali più grandi d'Europa...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.720956,
+                    37.992072
+                ]
+            },
+            "properties": {
+                "entity": "Larissa",
+                "name_location": "Σταθμός Λαρίσης, Θεόδωρου Δηληγιάννη, Σταθμός Λαρίσης, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 104 39, Grecia",
+                "class": "railway",
+                "type": "subway_entrance",
+                "snippet": [
+                    "*...Dalla fine della seconda guerra mondiale nella conurbazione di Atene e nella regione dell'Attica sono cresciuti diversi centri industriali, sia nella zona di Elefsina, che lungo l'autostrada verso le città di Lamia e Larissa....",
+                    "*...La città è inoltre tagliata da nord a sud tramite la tangenziale del Cefiso (Leoforos Kifisias, dal nome del fiume sul quale è stata in parte costruita, è infatti sopraelevata per un lungo tratto), che costituisce il prolungamento urbano dell'autostrada per le città settentrionali di Lamia, Larissa e Salonicco, e giunge fino al Pireo concludendosi in uno degli svincoli autostradali più grandi d'Europa...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.75214,
+                    37.978487
+                ]
+            },
+            "properties": {
+                "entity": "Ilisia",
+                "name_location": "ΙΛΙΣΙΑ, Βασιλίσσης Σοφίας, Κολωνάκι, Συνοικία Κολωνακίου, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 115 21, Grecia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...1: 97 570 (comprendente il centro di Atene con il cosiddetto triangolo commerciale: Syntagma, Kolonaki, Ilisia, Exarchia, Omonia, Monastiraki, Plaka e Koukaki) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.727989,
+                    37.984085
+                ]
+            },
+            "properties": {
+                "entity": "Omonia",
+                "name_location": "Ομόνοια, Πλατεία Ομονοίας, Ομόνοια, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 104 31, Grecia",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...1: 97 570 (comprendente il centro di Atene con il cosiddetto triangolo commerciale: Syntagma, Kolonaki, Ilisia, Exarchia, Omonia, Monastiraki, Plaka e Koukaki) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.726316,
+                    37.976658
+                ]
+            },
+            "properties": {
+                "entity": "Monastiraki",
+                "name_location": "Μοναστηράκι, Ερμού, Μοναστηράκι, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 105 55, Grecia",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...1: 97 570 (comprendente il centro di Atene con il cosiddetto triangolo commerciale: Syntagma, Kolonaki, Ilisia, Exarchia, Omonia, Monastiraki, Plaka e Koukaki) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.722256,
+                    37.963211
+                ]
+            },
+            "properties": {
+                "entity": "Koukaki",
+                "name_location": "ΚΟΥΚΑΚΙ, Δημητρακοπούλου Ν., Κουκάκι, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 117 41, Grecia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...1: 97 570 (comprendente il centro di Atene con il cosiddetto triangolo commerciale: Syntagma, Kolonaki, Ilisia, Exarchia, Omonia, Monastiraki, Plaka e Koukaki) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.727382,
+                    37.9579
+                ]
+            },
+            "properties": {
+                "entity": "Neos",
+                "name_location": "Νέος Κόσμος, Κασομούλη, Κυνοσάργους, Συνοικία Νέου Κόσμου, 2η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 117 44, Grecia",
+                "class": "railway",
+                "type": "tram_stop",
+                "snippet": [
+                    "*...2: 110 069 (include i quartieri di Neos Kosmos, Stadio e Pagrati) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.746978,
+                    37.969281
+                ]
+            },
+            "properties": {
+                "entity": "Pagrati",
+                "name_location": "Pagrati Grove Playground, Σπύρου Μερκούρη, Συνοικία Παγκρατίου, 2η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 116 35, Grecia",
+                "class": "leisure",
+                "type": "playground",
+                "snippet": [
+                    "*...2: 110 069 (include i quartieri di Neos Kosmos, Stadio e Pagrati) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.709409,
+                    37.968956
+                ]
+            },
+            "properties": {
+                "entity": "Petralona",
+                "name_location": "Πετράλωνα, Θεσσαλονίκης, Θησείο, Συνοικία Κάτω Πετραλώνων, Άνω Πετράλωνα, 3η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 118 54, Grecia",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...3: 48 305 (include i quartieri di Votanikos, Petralona, Kerameikos e Thiseio) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.718221,
+                    37.978634
+                ]
+            },
+            "properties": {
+                "entity": "Kerameikos",
+                "name_location": "Αρχαιολογικός Χώρος Κεραμεικού, Σαλαμίνος, Κεραμεικός, Συνοικία Κάτω Πετραλώνων, Άνω Πετράλωνα, 3η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 105 53, Grecia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...3: 48 305 (include i quartieri di Votanikos, Petralona, Kerameikos e Thiseio) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.71404,
+                    38.00261
+                ]
+            },
+            "properties": {
+                "entity": "Sepolia",
+                "name_location": "Σεπόλια, Αντιγόνης, Συνοικία Κολοκυνθούς, 4η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 10443, Grecia",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...4: 87 672 (comprende i quartieri di Colono, Akadimia Platonos, Sepolia e Kato Patisia) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.735545,
+                    38.023549
+                ]
+            },
+            "properties": {
+                "entity": "Ano Patisia",
+                "name_location": "Άνω Πατήσια, Χαλκίδος, Άνω Πατήσια, Ριζούπολη, 5η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 111 43, Grecia",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...5: 95 234 (include i quartieri di Ano Patisia e Prombona) ;...",
+                    "*...Interessanti gli edifici in stile modernistico (ispirato al movimento Bauhaus) sparsi in tutto il centro di Atene e in particolare nelle zone di Kypseli, Exarchia, Kolonaki e Patisia, costruiti dalla fine degli anni venti fino a tutti gli anni trenta, che richiamano gli analoghi edifici Bauhaus di Tel Aviv....",
+                    "...4: 87 672 (comprende i quartieri di Colono, Akadimia Platonos, Sepolia e Kato Patisia) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.763535,
+                    37.986893
+                ]
+            },
+            "properties": {
+                "entity": "Ampelokipi",
+                "name_location": "Αστυνομικό Τμήμα Αμπελοκήπων, 14, Σεβαστουπόλεως, Πολύγωνο, Αμπελόκηποι, 7η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 115 26, Grecia",
+                "class": "amenity",
+                "type": "police",
+                "snippet": [
+                    "*...7: 159 483 (include i quartieri di Ampelokipi, Gyzi, Polygonos, Erythro Stavros, Goudi ed Ellinoroson) ...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.758198,
+                    37.982865
+                ]
+            },
+            "properties": {
+                "entity": "Serbia",
+                "name_location": "Πρεσβεία Σερβίας, 106, Βασιλίσσης Σοφίας, Κουντουριώτικα, Αμπελόκηποι, 7η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 115 27, Grecia",
+                "class": "office",
+                "type": "diplomatic",
+                "snippet": [
+                    "*...Belgrado, Serbia (1966) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.746804,
+                    38.057387
+                ]
+            },
+            "properties": {
+                "entity": "Attiki Odos",
+                "name_location": "Μεταμόρφωση, Atene - Salonicco - Evzoni, Μεταμόρφωση, Δήμος Μεταμορφώσεως, Περιφερειακή Ενότητα Βορείου Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 144 51, Grecia",
+                "class": "highway",
+                "type": "motorway_junction",
+                "snippet": [
+                    "*...A nord Attiki Odos,...",
+                    "*...A est la tangenziale del monte Imetto (Hymettus Ring Road) che si snoda sulle pendici del monte Imetto con una lunga serie di gallerie e collega l'Attiki Odos con i sobborghi meridionali;...",
+                    "*...L'Aeroporto internazionale di Atene Elefthérios Venizélos è situato nel comune di Spata-Artemida, a circa 30 km a est della capitale, ed è collegato al resto della città tramite metropolitana, ferrovia suburbana e la tangenziale Attiki Odos...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.751863,
+                    37.980704
+                ]
+            },
+            "properties": {
+                "entity": "Venizelos",
+                "name_location": "Μουσείο \"Ελευθέριος Βενιζέλος\", Δεινοκράτους, Κολωνάκι, Συνοικία Κολωνακίου, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 115 21, Grecia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Venizelos\")...",
+                    "*...Venizelos;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.740398,
+                    37.968436
+                ]
+            },
+            "properties": {
+                "entity": "Stadio Panathinaiko",
+                "name_location": "Παναθηναϊκό Στάδιο, Άγρας, Συνοικία Παγκρατίου, 2η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 116 35, Grecia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Stadio Panathinaiko, l'antico stadio olimpico, ricostruito nel 1895 per ospitare i Giochi olimpici del 1896...."
+                ]
+            }
+        }
+    ]
+}

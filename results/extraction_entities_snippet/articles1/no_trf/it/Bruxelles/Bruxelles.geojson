@@ -1,0 +1,1529 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.400276,
+                    50.866926
+                ]
+            },
+            "properties": {
+                "entity": "Evere",
+                "name_location": "Evere, Rue Auguste De Boeck - August De Boeckstraat, Evere, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1140, Belgio",
+                "class": "railway",
+                "type": "platform",
+                "snippet": [
+                    "*...A Evere ha inoltre sede il quartier generale della NATO....",
+                    "*...Regione di Bruxelles-Capitale (19 comuni): Anderlecht, Auderghem, Berchem-Sainte-Agathe, Bruxelles, Etterbeek, Evere, Forest, Ganshoren, Ixelles, Jette, Koekelberg, Molenbeek-Saint-Jean, Saint-Gilles, Saint-Josse-ten-Noode, Schaerbeek, Uccle, Watermael-Boitsfort, Woluwe-Saint-Lambert, Woluwe-Saint-Pierre;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.447137,
+                    50.864317
+                ]
+            },
+            "properties": {
+                "entity": "Kraainem",
+                "name_location": "Kraainem, E40, Sint-Stevens-Woluwe, Zaventem, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1932, Belgio",
+                "class": "highway",
+                "type": "motorway_junction",
+                "snippet": [
+                    "*...Tra questi Zaventem (sede dell'Aeroporto internazionale), Kraainem (capolinea della metropolitana) e Tervuren (quartiere residenziale)....",
+                    "*...Provincia del Brabante Fiammingo (15 comuni): Beersel, Dilbeek, Drogenbos, Grimbergen, Halle, Kraainem, Linkebeek, Machelen, Sint-Genesius-Rode, Sint-Pieters-Leeuw, Tervuren, Vilvoorde, Wemmel, Wezembeek-Oppem, Zaventem;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.51365,
+                    50.829605
+                ]
+            },
+            "properties": {
+                "entity": "Tervuren",
+                "name_location": "Tervuren, Leuvensesteenweg, Tervuren, Wezembeek-Oppem, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, Belgio",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...Tra questi Zaventem (sede dell'Aeroporto internazionale), Kraainem (capolinea della metropolitana) e Tervuren (quartiere residenziale)....",
+                    "*...Provincia del Brabante Fiammingo (15 comuni): Beersel, Dilbeek, Drogenbos, Grimbergen, Halle, Kraainem, Linkebeek, Machelen, Sint-Genesius-Rode, Sint-Pieters-Leeuw, Tervuren, Vilvoorde, Wemmel, Wezembeek-Oppem, Zaventem;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.360178,
+                    50.851249
+                ]
+            },
+            "properties": {
+                "entity": "Bruxelles\nIl",
+                "name_location": "Il Centro Belga Dei Fumetti, 20, Rue des Sables - Zandstraat, Quartier Marais-Jacqmain - Wijk Marais-Jacqmain, Pentagone - Vijfhoek, Bruxelles, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1010, Belgio",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Nel 2014 Eurostat includeva 2 607 961 abitanti nell'area urbana funzionale (functional urban area) di Bruxelles\nIl toponimo Bruxelles deriva da Bruocsella o Brucsella, che significa \"casa (sel) nella palude (broek)\";..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.309739,
+                    50.859228
+                ]
+            },
+            "properties": {
+                "entity": "Bruges",
+                "name_location": "Rue de Bruges - Bruggestraat, Cité Nogent - Tuinwijk Nogent, Molenbeek-Saint-Jean - Sint-Jans-Molenbeek, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1080, Belgio",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Il primo nucleo della città di Bruxelles sarebbe sorto nel VI secolo d.C. per iniziativa del vescovo di Cambrai, come punto di collegamento strategico tra le città di Colonia e Bruges...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.397227,
+                    50.869082
+                ]
+            },
+            "properties": {
+                "entity": "Lorena",
+                "name_location": "Les macarons de Lorena, 25, Rue Godefroid Kurth - Godfroid Kurthstraat, Conscience, Evere, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1140, Belgio",
+                "class": "shop",
+                "type": "confectionery",
+                "snippet": [
+                    "*...Nel corso del secolo XII passò dalla corona di Brabante a quella dei duchi di Lorena...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.368059,
+                    50.846761
+                ]
+            },
+            "properties": {
+                "entity": "Francia",
+                "name_location": "Ambassade de France - Ambassade van Frankrijk, 65, Rue Ducale - Hertogstraat, Quartier Royal - Koninklijke Wijk, Pentagone - Vijfhoek, Bruxelles, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, Belgio",
+                "class": "office",
+                "type": "diplomatic",
+                "snippet": [
+                    "*...Successivamente la sua storia risultò indissolubilmente legata alle sorti della regione delle Fiandre, passando attraverso le lotte per il predominio tra l'Austria, la Spagna e la Francia....",
+                    "*...Il resto della produzione si accostò agli aspetti decorativi imperanti nel nord della Francia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.380655,
+                    50.842539
+                ]
+            },
+            "properties": {
+                "entity": "Europa",
+                "name_location": "Palazzo Europa, 155, Rue de la Loi - Wetstraat, Quartier européen - Europese Wijk, Bruxelles, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, Belgio",
+                "class": "office",
+                "type": "government",
+                "snippet": [
+                    "*...Nel 1477, quando divenne capitale dei Paesi Bassi austriaci, era ritenuta una delle città più attraenti e ricche d'Europa, grazie soprattutto alle sue attività commerciali, concentrate sul traffico di tessuti....",
+                    "*...Il Municipio di Bruxelles è uno dei più begli esempi di Palazzi pubblici in Europa, e uno dei più alti capolavori dello stile Gotico brabantino, eretto fra il 1402 e il 1455....",
+                    "*...Statua dell'Europa ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.376335,
+                    50.843987
+                ]
+            },
+            "properties": {
+                "entity": "Maelbeek",
+                "name_location": "Maelbeek - Maalbeek, Rue de la Loi - Wetstraat, Quartier des Squares - Wijk van de Squares, Bruxelles, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1040, Belgio",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Nella sala accettazione dell'Aeroporto internazionale di Zaventem e alla stazione metro di Maelbeek, nel quartiere delle Istituzioni europee, dove vi sono stati 35 morti e centinaia di feriti di 40 nazionalità diverse...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.352826,
+                    50.847005
+                ]
+            },
+            "properties": {
+                "entity": "Maison du Roi",
+                "name_location": "Maison du Roi - Broodhuis, Grand Place, Quartier Saint-Jacques - Sint-Jacobswijk, Quartier du Centre - Centrumwijk, Pentagone - Vijfhoek, Bruxelles, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1212, Belgio",
+                "class": "historic",
+                "type": "building",
+                "snippet": [
+                    "*...La Maison du Roi, era l'antico Mercato coperto del pane, costruito nel XVI secolo in stile gotico brabantino e restaurato nel XIX secolo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.316944,
+                    50.867078
+                ]
+            },
+            "properties": {
+                "entity": "Basilica del Sacro Cuore",
+                "name_location": "Basilica del Sacro Cuore, 1, Parvis de la Basilique - Basiliekvoorplein, Ganshoren, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1083, Belgio",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Basilica del Sacro Cuore a Koekelberg ...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.331067,
+                    50.858902
+                ]
+            },
+            "properties": {
+                "entity": "Koekelberg",
+                "name_location": "Bibliothèque communale francophone de Koekelberg, 26;28, Rue des Tisserands - Weversstraat, Koekelberg, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1081, Belgio",
+                "class": "amenity",
+                "type": "library",
+                "snippet": [
+                    "*...Basilica del Sacro Cuore a Koekelberg ....",
+                    "*...Regione di Bruxelles-Capitale (19 comuni): Anderlecht, Auderghem, Berchem-Sainte-Agathe, Bruxelles, Etterbeek, Evere, Forest, Ganshoren, Ixelles, Jette, Koekelberg, Molenbeek-Saint-Jean, Saint-Gilles, Saint-Josse-ten-Noode, Schaerbeek, Uccle, Watermael-Boitsfort, Woluwe-Saint-Lambert, Woluwe-Saint-Pierre;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.351976,
+                    50.854107
+                ]
+            },
+            "properties": {
+                "entity": "Laeken",
+                "name_location": "Laeken - Laken, Rue de Laeken - Lakensestraat, Quartier Alhambra - Alhambrawijk, Quartier Marais-Jacqmain - Wijk Marais-Jacqmain, Pentagone - Vijfhoek, Bruxelles, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1212, Belgio",
+                "class": "amenity",
+                "type": "bicycle_rental",
+                "snippet": [
+                    "*...Castello reale di Laeken ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.381236,
+                    50.813472
+                ]
+            },
+            "properties": {
+                "entity": "Université Libre de Bruxelles",
+                "name_location": "Université Libre de Bruxelles (Campus du Solbosch), Sentier des Bergeronnettes - Kwikstaartenpad, Solbosch - Solbos, Bruxelles, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, Belgio",
+                "class": "amenity",
+                "type": "university",
+                "snippet": [
+                    "*...Bruxelles ha diverse Università, quattro di queste sono l'Université Libre de Bruxelles (ULB), la Vrije Universiteit Brussel (VUB), le Facultés universitaires Saint-Louis (FUSL) e la Katholieke Universiteit Brussel (KUB) nonché le facoltà di medicina dell'Université catholique de Louvain (UCL), situata nel quartiere Alma presso il grande Ospedale \"Saint Luc\"....",
+                    "*...Archives et bibliothèques de l'Université Libre de Bruxelles ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.382774,
+                    50.815782
+                ]
+            },
+            "properties": {
+                "entity": "ULB",
+                "name_location": "ULB, Avenue Adolphe Buyl - Adolphe Buyllaan, Cimdix, Ixelles - Elsene, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, Belgio",
+                "class": "amenity",
+                "type": "car_sharing",
+                "snippet": [
+                    "*...Bruxelles ha diverse Università, quattro di queste sono l'Université Libre de Bruxelles (ULB), la Vrije Universiteit Brussel (VUB), le Facultés universitaires Saint-Louis (FUSL) e la Katholieke Universiteit Brussel (KUB) nonché le facoltà di medicina dell'Université catholique de Louvain (UCL), situata nel quartiere Alma presso il grande Ospedale \"Saint Luc\"...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.393518,
+                    50.824527
+                ]
+            },
+            "properties": {
+                "entity": "VUB",
+                "name_location": "VUB, Boulevard Général Jacques - Generaal Jacqueslaan, Jardins de la Chasse - Jachthof, Etterbeek, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1040, Belgio",
+                "class": "railway",
+                "type": "tram_stop",
+                "snippet": [
+                    "*...Bruxelles ha diverse Università, quattro di queste sono l'Université Libre de Bruxelles (ULB), la Vrije Universiteit Brussel (VUB), le Facultés universitaires Saint-Louis (FUSL) e la Katholieke Universiteit Brussel (KUB) nonché le facoltà di medicina dell'Université catholique de Louvain (UCL), situata nel quartiere Alma presso il grande Ospedale \"Saint Luc\"...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.361116,
+                    50.854313
+                ]
+            },
+            "properties": {
+                "entity": "Saint-Louis",
+                "name_location": "Saint-Louis, Boulevard du Jardin Botanique - Kruidtuinlaan, Quartier Alhambra - Alhambrawijk, Bruxelles, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1010, Belgio",
+                "class": "highway",
+                "type": "platform",
+                "snippet": [
+                    "*...Bruxelles ha diverse Università, quattro di queste sono l'Université Libre de Bruxelles (ULB), la Vrije Universiteit Brussel (VUB), le Facultés universitaires Saint-Louis (FUSL) e la Katholieke Universiteit Brussel (KUB) nonché le facoltà di medicina dell'Université catholique de Louvain (UCL), situata nel quartiere Alma presso il grande Ospedale \"Saint Luc\"....",
+                    "*...Bibliothèque de Facultés universitaires Saint-Louis ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.296545,
+                    50.81499
+                ]
+            },
+            "properties": {
+                "entity": "CERIA",
+                "name_location": "CERIA - COOVI, Avenue Émile Gryson - Emile Grysonlaan, La Roue - Het Rad, Aa, Anderlecht, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1070, Belgio",
+                "class": "amenity",
+                "type": "college",
+                "snippet": [
+                    "*...Bibliothèque Centrale Francophone du CERIA ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.51778,
+                    50.82938
+                ]
+            },
+            "properties": {
+                "entity": "Musée royal de l'Afrique Centrale",
+                "name_location": "AfricaMuseum, 13, Leuvensesteenweg, Wezembeek-Oppem, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1970, Belgio",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Bibliothèques du Musée royal de l'Afrique Centrale ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.356427,
+                    50.842385
+                ]
+            },
+            "properties": {
+                "entity": "Archives générales du Royaume",
+                "name_location": "Archives générales du Royaume - Algemeen Rijksarchief, 2, Rue de Ruysbroeck - Ruisbroekstraat, Sablon - Zavel, Pentagone - Vijfhoek, Bruxelles, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, Belgio",
+                "class": "office",
+                "type": "government",
+                "snippet": [
+                    "...Bibliothèque des Archives générales du Royaume ;...",
+                    "*...A Bruxelles hanno sede anche gli Archives générales du Royaume (archivio centrale dello stato), la Cinémathèque Royale e la Médiathèque...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.393554,
+                    50.839457
+                ]
+            },
+            "properties": {
+                "entity": "Autoworld",
+                "name_location": "Autoworld, 11, Esplanade du Parc du Cinquantenaire - Esplanade van het Jubelpark, Quartier européen - Europese Wijk, Bruxelles, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, Belgio",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Autoworld ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.358238,
+                    50.84168
+                ]
+            },
+            "properties": {
+                "entity": "Musées Royaux des Beaux-Arts de Belgique",
+                "name_location": "Musées royaux des Beaux-Arts de Belgique - Koninklijke Musea voor Schone Kunsten van België, 3, Rue de la Régence - Regentschapsstraat, Quartier Royal - Koninklijke Wijk, Pentagone - Vijfhoek, Bruxelles, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, Belgio",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "...Bibliothèque et centre de documentation des Musées royaux des Beaux-Arts de Belgique ;...",
+                    "*...Musées Royaux des Beaux-Arts de Belgique ;...",
+                    "*...Bibliothèque et centre de documentation des Musées royaux des Beaux-Arts de Belgique ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.367004,
+                    50.819329
+                ]
+            },
+            "properties": {
+                "entity": "Musée Constantin Meunier",
+                "name_location": "Musée Meunier Museum, 59, Rue de l'Abbaye - Abdijstraat, Bascule, Ixelles - Elsene, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, Belgio",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Musée Constantin Meunier ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.35538,
+                    50.824099
+                ]
+            },
+            "properties": {
+                "entity": "Horta Museum",
+                "name_location": "Musée Horta - Hortamuseum, Rue Américaine - Amerikastraat, Ma Campagne, Saint-Gilles - Sint-Gillis, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1060, Belgio",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Horta Museum ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.360689,
+                    50.84261
+                ]
+            },
+            "properties": {
+                "entity": "Musée Bellevue",
+                "name_location": "Musée BELvue - BELvue Museum, 7, Place des Palais - Paleizenplein, Quartier Royal - Koninklijke Wijk, Pentagone - Vijfhoek, Bruxelles, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, Belgio",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Musée Bellevue ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.335805,
+                    50.841549
+                ]
+            },
+            "properties": {
+                "entity": "Musée bruxellois de la gueuze",
+                "name_location": "Musée Bruxellois de la Gueuze - Brussels Museum van de Geuze, 56, Rue Gheude - Gheudestraat, Cureghem - Kuregem, Anderlecht, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1070, Belgio",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Musée bruxellois de la gueuze ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.359792,
+                    50.843721
+                ]
+            },
+            "properties": {
+                "entity": "Palais des beaux-arts de Bruxelles",
+                "name_location": "Bozar, 23, Rue Ravenstein - Ravensteinstraat, Quartier Royal - Koninklijke Wijk, Pentagone - Vijfhoek, Bruxelles, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, Belgio",
+                "class": "amenity",
+                "type": "arts_centre",
+                "snippet": [
+                    "*...Numerose orchestre e complessi musicali hanno sede a Bruxelles, fra cui l'Orchestra Nazionale del Belgio (con sede nel Palais des beaux-arts de Bruxelles) e La Petite Bande, specializzata nella musica barocca...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.373074,
+                    50.826946
+                ]
+            },
+            "properties": {
+                "entity": "Maison de la Radio",
+                "name_location": "Maison de la Radio - Radiohuis, Place Sainte-Croix - Heilig-Kruisplein, Flagey, Ixelles - Elsene, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, Belgio",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...Brussels Philharmonic (Orchestra della Radio fiamminga), con sede nella Maison de la Radio...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.344683,
+                    50.830234
+                ]
+            },
+            "properties": {
+                "entity": "Louvre",
+                "name_location": "Le Louvre, Parvis Saint-Gilles - Sint-Gillisvoorplein, Saint-Gilles - Sint-Gillis, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1060, Belgio",
+                "class": "amenity",
+                "type": "pub",
+                "snippet": [
+                    "*...Tra le opere più riuscite prodotte nella seconda metà del XV secolo vi fu la Vergine in gloria del 1485, esposta al Louvre e caratterizzata da una composizione simile al trittico...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.353216,
+                    50.845802
+                ]
+            },
+            "properties": {
+                "entity": "Venezia",
+                "name_location": "Venezia, Rue du Marché aux Fromages - Kaasmarkt, Quartier Saint-Jacques - Sint-Jacobswijk, Quartier du Centre - Centrumwijk, Pentagone - Vijfhoek, Bruxelles, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, Belgio",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...Bruxelles vanta il primato dei merletti a fuselli, mentre a Venezia (l'isola di Burano) spetta quello dei merletti ad ago ed addirittura le due città si contendono la palma delle origini della trina che sembrano antecedenti al XVI secolo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.292146,
+                    50.817879
+                ]
+            },
+            "properties": {
+                "entity": "Anderlecht",
+                "name_location": "Anderlecht, Rue Hoorickx - Hoorickxstraat, La Roue - Het Rad, Anderlecht, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1070, Belgio",
+                "class": "railway",
+                "type": "halt",
+                "snippet": [
+                    "*...Regione di Bruxelles-Capitale (19 comuni): Anderlecht, Auderghem, Berchem-Sainte-Agathe, Bruxelles, Etterbeek, Evere, Forest, Ganshoren, Ixelles, Jette, Koekelberg, Molenbeek-Saint-Jean, Saint-Gilles, Saint-Josse-ten-Noode, Schaerbeek, Uccle, Watermael-Boitsfort, Woluwe-Saint-Lambert, Woluwe-Saint-Pierre;...",
+                    "*...Nel calcio la capitale belga è rappresentata dall'Anderlecht, con sede nell'omonima municipalità, che con 34 titoli nazionali è la società più titolata del Belgio e gioca nello Lotto Park (ex stadio Constant Vanden Stock)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.38515,
+                    50.839734
+                ]
+            },
+            "properties": {
+                "entity": "Auderghem",
+                "name_location": "Avenue d'Auderghem - Oudergemselaan, Quartier européen - Europese Wijk, Bruxelles, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1048, Belgio",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Regione di Bruxelles-Capitale (19 comuni): Anderlecht, Auderghem, Berchem-Sainte-Agathe, Bruxelles, Etterbeek, Evere, Forest, Ganshoren, Ixelles, Jette, Koekelberg, Molenbeek-Saint-Jean, Saint-Gilles, Saint-Josse-ten-Noode, Schaerbeek, Uccle, Watermael-Boitsfort, Woluwe-Saint-Lambert, Woluwe-Saint-Pierre;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.290141,
+                    50.872761
+                ]
+            },
+            "properties": {
+                "entity": "Berchem-Sainte-Agathe",
+                "name_location": "Berchem-Sainte-Agathe - Sint-Agatha-Berchem, Place de la Gare - Stationsplein, Berchem-Sainte-Agathe - Sint-Agatha-Berchem, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1082, Belgio",
+                "class": "railway",
+                "type": "halt",
+                "snippet": [
+                    "*...Regione di Bruxelles-Capitale (19 comuni): Anderlecht, Auderghem, Berchem-Sainte-Agathe, Bruxelles, Etterbeek, Evere, Forest, Ganshoren, Ixelles, Jette, Koekelberg, Molenbeek-Saint-Jean, Saint-Gilles, Saint-Josse-ten-Noode, Schaerbeek, Uccle, Watermael-Boitsfort, Woluwe-Saint-Lambert, Woluwe-Saint-Pierre;...",
+                    "*...Hainaut (9 comuni): Ath, Braine-le-Comte, Brugelette, Chièvres, Écaussinnes, Flobecq, Lessines, Seneffe, Soignies ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.389588,
+                    50.822126
+                ]
+            },
+            "properties": {
+                "entity": "Etterbeek",
+                "name_location": "Etterbeek, 263F, Boulevard Général Jacques - Generaal Jacqueslaan, Cimdix, Ixelles - Elsene, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, Belgio",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...Regione di Bruxelles-Capitale (19 comuni): Anderlecht, Auderghem, Berchem-Sainte-Agathe, Bruxelles, Etterbeek, Evere, Forest, Ganshoren, Ixelles, Jette, Koekelberg, Molenbeek-Saint-Jean, Saint-Gilles, Saint-Josse-ten-Noode, Schaerbeek, Uccle, Watermael-Boitsfort, Woluwe-Saint-Lambert, Woluwe-Saint-Pierre;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.320147,
+                    50.817314
+                ]
+            },
+            "properties": {
+                "entity": "Forest",
+                "name_location": "Forest (Bervoets) - Vorst (Bervoets), Boulevard de la Deuxième Armée Britannique - Britse Tweedelegerlaan, Forest - Vorst, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1190, Belgio",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Regione di Bruxelles-Capitale (19 comuni): Anderlecht, Auderghem, Berchem-Sainte-Agathe, Bruxelles, Etterbeek, Evere, Forest, Ganshoren, Ixelles, Jette, Koekelberg, Molenbeek-Saint-Jean, Saint-Gilles, Saint-Josse-ten-Noode, Schaerbeek, Uccle, Watermael-Boitsfort, Woluwe-Saint-Lambert, Woluwe-Saint-Pierre;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.329003,
+                    50.859772
+                ]
+            },
+            "properties": {
+                "entity": "Ganshoren",
+                "name_location": "Rue de Ganshoren - Ganshorensestraat, Koekelberg, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1081, Belgio",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Regione di Bruxelles-Capitale (19 comuni): Anderlecht, Auderghem, Berchem-Sainte-Agathe, Bruxelles, Etterbeek, Evere, Forest, Ganshoren, Ixelles, Jette, Koekelberg, Molenbeek-Saint-Jean, Saint-Gilles, Saint-Josse-ten-Noode, Schaerbeek, Uccle, Watermael-Boitsfort, Woluwe-Saint-Lambert, Woluwe-Saint-Pierre;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.339173,
+                    50.878925
+                ]
+            },
+            "properties": {
+                "entity": "Jette",
+                "name_location": "Jette, 237, Rue Jules Lahaye - Jules Lahayestraat, Esseghem - Essegem, Laeken - Laken, Jette, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1090, Belgio",
+                "class": "shop",
+                "type": "butcher",
+                "snippet": [
+                    "*...Regione di Bruxelles-Capitale (19 comuni): Anderlecht, Auderghem, Berchem-Sainte-Agathe, Bruxelles, Etterbeek, Evere, Forest, Ganshoren, Ixelles, Jette, Koekelberg, Molenbeek-Saint-Jean, Saint-Gilles, Saint-Josse-ten-Noode, Schaerbeek, Uccle, Watermael-Boitsfort, Woluwe-Saint-Lambert, Woluwe-Saint-Pierre;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.345369,
+                    50.830552
+                ]
+            },
+            "properties": {
+                "entity": "Saint-Gilles",
+                "name_location": "Parvis Saint-Gilles - Sint-Gillisvoorplein, Saint-Gilles - Sint-Gillis, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1060, Belgio",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Regione di Bruxelles-Capitale (19 comuni): Anderlecht, Auderghem, Berchem-Sainte-Agathe, Bruxelles, Etterbeek, Evere, Forest, Ganshoren, Ixelles, Jette, Koekelberg, Molenbeek-Saint-Jean, Saint-Gilles, Saint-Josse-ten-Noode, Schaerbeek, Uccle, Watermael-Boitsfort, Woluwe-Saint-Lambert, Woluwe-Saint-Pierre;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.369567,
+                    50.850656
+                ]
+            },
+            "properties": {
+                "entity": "Saint-Josse-ten-Noode",
+                "name_location": "Maison Communale de Saint-Josse-ten-Noode - Gemeentehuis van Sint-Joost-ten-Node, 12-13, Avenue de l'Astronomie - Sterrenkundelaan, Saint-Josse-ten-Noode - Sint-Joost-ten-Node, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1210, Belgio",
+                "class": "amenity",
+                "type": "townhall",
+                "snippet": [
+                    "*...Regione di Bruxelles-Capitale (19 comuni): Anderlecht, Auderghem, Berchem-Sainte-Agathe, Bruxelles, Etterbeek, Evere, Forest, Ganshoren, Ixelles, Jette, Koekelberg, Molenbeek-Saint-Jean, Saint-Gilles, Saint-Josse-ten-Noode, Schaerbeek, Uccle, Watermael-Boitsfort, Woluwe-Saint-Lambert, Woluwe-Saint-Pierre;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.37823,
+                    50.877813
+                ]
+            },
+            "properties": {
+                "entity": "Schaerbeek",
+                "name_location": "Schaerbeek - Schaarbeek, Avenue Monplaisir - Monplaisirlaan, Monplaisir, Schaerbeek - Schaarbeek, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1030, Belgio",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Regione di Bruxelles-Capitale (19 comuni): Anderlecht, Auderghem, Berchem-Sainte-Agathe, Bruxelles, Etterbeek, Evere, Forest, Ganshoren, Ixelles, Jette, Koekelberg, Molenbeek-Saint-Jean, Saint-Gilles, Saint-Josse-ten-Noode, Schaerbeek, Uccle, Watermael-Boitsfort, Woluwe-Saint-Lambert, Woluwe-Saint-Pierre;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.338935,
+                    50.813915
+                ]
+            },
+            "properties": {
+                "entity": "Uccle",
+                "name_location": "ING Uccle-Coghen, 411, Chaussée d'Alsemberg - Alsembergsesteenweg, Brugmann, Uccle - Ukkel, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1180, Belgio",
+                "class": "amenity",
+                "type": "bank",
+                "snippet": [
+                    "*...Regione di Bruxelles-Capitale (19 comuni): Anderlecht, Auderghem, Berchem-Sainte-Agathe, Bruxelles, Etterbeek, Evere, Forest, Ganshoren, Ixelles, Jette, Koekelberg, Molenbeek-Saint-Jean, Saint-Gilles, Saint-Josse-ten-Noode, Schaerbeek, Uccle, Watermael-Boitsfort, Woluwe-Saint-Lambert, Woluwe-Saint-Pierre;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.245808,
+                    50.866081
+                ]
+            },
+            "properties": {
+                "entity": "Dilbeek",
+                "name_location": "Dilbeek, Stationsstraat, Dilbeek, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1700, Belgio",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Provincia del Brabante Fiammingo (15 comuni): Beersel, Dilbeek, Drogenbos, Grimbergen, Halle, Kraainem, Linkebeek, Machelen, Sint-Genesius-Rode, Sint-Pieters-Leeuw, Tervuren, Vilvoorde, Wemmel, Wezembeek-Oppem, Zaventem;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.360173,
+                    50.917743
+                ]
+            },
+            "properties": {
+                "entity": "Grimbergen",
+                "name_location": "Grimbergen, R0, Hellebeekberg, Grimbergen, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1850, Belgio",
+                "class": "highway",
+                "type": "motorway_junction",
+                "snippet": [
+                    "*...Provincia del Brabante Fiammingo (15 comuni): Beersel, Dilbeek, Drogenbos, Grimbergen, Halle, Kraainem, Linkebeek, Machelen, Sint-Genesius-Rode, Sint-Pieters-Leeuw, Tervuren, Vilvoorde, Wemmel, Wezembeek-Oppem, Zaventem;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.240837,
+                    50.734169
+                ]
+            },
+            "properties": {
+                "entity": "Halle",
+                "name_location": "Halle, Graankaai, Nederhem, Halle, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1500, Belgio",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "...Porta di Halle ;...",
+                    "*...Provincia del Brabante Fiammingo (15 comuni): Beersel, Dilbeek, Drogenbos, Grimbergen, Halle, Kraainem, Linkebeek, Machelen, Sint-Genesius-Rode, Sint-Pieters-Leeuw, Tervuren, Vilvoorde, Wemmel, Wezembeek-Oppem, Zaventem;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.339423,
+                    50.773683
+                ]
+            },
+            "properties": {
+                "entity": "Linkebeek",
+                "name_location": "Linkebeek, Marcel en Robert Maassquare - Square Marcel et Robert Maas, Linkebeek, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1630, Belgio",
+                "class": "railway",
+                "type": "halt",
+                "snippet": [
+                    "*...Provincia del Brabante Fiammingo (15 comuni): Beersel, Dilbeek, Drogenbos, Grimbergen, Halle, Kraainem, Linkebeek, Machelen, Sint-Genesius-Rode, Sint-Pieters-Leeuw, Tervuren, Vilvoorde, Wemmel, Wezembeek-Oppem, Zaventem;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.440567,
+                    50.899012
+                ]
+            },
+            "properties": {
+                "entity": "Machelen",
+                "name_location": "Machelen, R0, Diegem, Machelen, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1830, Belgio",
+                "class": "highway",
+                "type": "motorway_junction",
+                "snippet": [
+                    "*...Provincia del Brabante Fiammingo (15 comuni): Beersel, Dilbeek, Drogenbos, Grimbergen, Halle, Kraainem, Linkebeek, Machelen, Sint-Genesius-Rode, Sint-Pieters-Leeuw, Tervuren, Vilvoorde, Wemmel, Wezembeek-Oppem, Zaventem;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.283773,
+                    50.805561
+                ]
+            },
+            "properties": {
+                "entity": "Sint-Pieters-Leeuw",
+                "name_location": "Sint-Pieters-Leeuw, Koning Albert plein, Klein-Bijgaarden, Sint-Pieters-Leeuw, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1600, Belgio",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...Provincia del Brabante Fiammingo (15 comuni): Beersel, Dilbeek, Drogenbos, Grimbergen, Halle, Kraainem, Linkebeek, Machelen, Sint-Genesius-Rode, Sint-Pieters-Leeuw, Tervuren, Vilvoorde, Wemmel, Wezembeek-Oppem, Zaventem;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.471196,
+                    50.842288
+                ]
+            },
+            "properties": {
+                "entity": "Wezembeek-Oppem",
+                "name_location": "Wezembeek-Oppem, Oppemlaan - Avenue d'Oppem, Wezembeek-Oppem, Kraainem, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1970, Belgio",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...Provincia del Brabante Fiammingo (15 comuni): Beersel, Dilbeek, Drogenbos, Grimbergen, Halle, Kraainem, Linkebeek, Machelen, Sint-Genesius-Rode, Sint-Pieters-Leeuw, Tervuren, Vilvoorde, Wemmel, Wezembeek-Oppem, Zaventem;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.338008,
+                    50.736545
+                ]
+            },
+            "properties": {
+                "entity": "Braine-l'Alleud",
+                "name_location": "Oude Eigenbrakelsesteenweg - Ancienne Chaussée de Braine l'Alleud, Goede Lucht - Bon Air, Sint-Genesius-Rode, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1652, Belgio",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Provincia del Brabante Vallone (2 comuni): Braine-l'Alleud, Waterloo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.208365,
+                    50.906426
+                ]
+            },
+            "properties": {
+                "entity": "Asse",
+                "name_location": "Asse, N9k, Asse, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1730, Belgio",
+                "class": "railway",
+                "type": "halt",
+                "snippet": [
+                    "*...Provincia del Brabante Fiammingo (13 comuni): Asse, Gooik, Hoeilaart, Huldenberg, Kampenhout, Kortenberg, Lennik, Meise, Merchtem, Overijse, Pepingen, Steenokkerzeel, Ternat;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.384237,
+                    50.841591
+                ]
+            },
+            "properties": {
+                "entity": "Kortenberg",
+                "name_location": "Cortenbergh - Kortenberg, Avenue d'Auderghem - Oudergemselaan, Quartier européen - Europese Wijk, Bruxelles, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1040, Belgio",
+                "class": "amenity",
+                "type": "bicycle_rental",
+                "snippet": [
+                    "*...Provincia del Brabante Fiammingo (13 comuni): Asse, Gooik, Hoeilaart, Huldenberg, Kampenhout, Kortenberg, Lennik, Meise, Merchtem, Overijse, Pepingen, Steenokkerzeel, Ternat;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.337079,
+                    50.858528
+                ]
+            },
+            "properties": {
+                "entity": "Merchtem",
+                "name_location": "Merchtem, Rue Piers - Piersstraat, Rive Gauche - Linkeroever, Molenbeek-Saint-Jean - Sint-Jans-Molenbeek, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1080, Belgio",
+                "class": "highway",
+                "type": "platform",
+                "snippet": [
+                    "*...Provincia del Brabante Fiammingo (13 comuni): Asse, Gooik, Hoeilaart, Huldenberg, Kampenhout, Kortenberg, Lennik, Meise, Merchtem, Overijse, Pepingen, Steenokkerzeel, Ternat;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.348177,
+                    50.843304
+                ]
+            },
+            "properties": {
+                "entity": "Ittre",
+                "name_location": "Hôtel d'Ittre, 21, Rue du Poinçon - Priemstraat, Quartier Midi-Lemonnier - Zuid-Lemonnierwijk, Pentagone - Vijfhoek, Bruxelles, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, Belgio",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...Provincia del Brabante Vallone (11 comuni): Beauvechain, Braine-le-Château, Chaumont-Gistoux, Grez-Doiceau, Ittre, La Hulpe, Lasne, Ottignies-Louvain-la-Neuve, Rixensart, Tubize, Wavre;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.211632,
+                    50.706778
+                ]
+            },
+            "properties": {
+                "entity": "Tubize",
+                "name_location": "Tubize Caltex, Rue de Bruxelles, Tubize, Nivelles, Brabant wallon, Wallonie, Belgio",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Provincia del Brabante Vallone (11 comuni): Beauvechain, Braine-le-Château, Chaumont-Gistoux, Grez-Doiceau, Ittre, La Hulpe, Lasne, Ottignies-Louvain-la-Neuve, Rixensart, Tubize, Wavre;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.426175,
+                    50.816547
+                ]
+            },
+            "properties": {
+                "entity": "Wavre",
+                "name_location": "Chaussée de Wavre - Waversesteenweg, Auderghem - Oudergem, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1160, Belgio",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Provincia del Brabante Vallone (11 comuni): Beauvechain, Braine-le-Château, Chaumont-Gistoux, Grez-Doiceau, Ittre, La Hulpe, Lasne, Ottignies-Louvain-la-Neuve, Rixensart, Tubize, Wavre;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.323252,
+                    50.848027
+                ]
+            },
+            "properties": {
+                "entity": "Enghien",
+                "name_location": "Rue d'Enghien - Edingenstraat, Cité Edmond Machtens, Molenbeek-Saint-Jean - Sint-Jans-Molenbeek, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1080, Belgio",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Provincia dell'Hainaut (2 comuni): Enghien, Silly...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.966549,
+                    50.743577
+                ]
+            },
+            "properties": {
+                "entity": "Galmaarden",
+                "name_location": "Galmaarden, Stationsstraat, Galmaarden, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1570, Belgio",
+                "class": "railway",
+                "type": "halt",
+                "snippet": [
+                    "*...Brabante Fiammingo (17 comuni): Affligem, Bever, Boortmeerbeek, Galmaarden, Haacht, Herne, Hoegaarden, Kapelle-op-den-Bos, Keerbergen, Landen, Liedekerke, Linter, Londerzeel, Opwijk, Roosdaal, Tienen, Tremelo;...",
+                    "*...Bruxelles ha diverse Università, quattro di queste sono l'Université Libre de Bruxelles (ULB), la Vrije Universiteit Brussel (VUB), le Facultés universitaires Saint-Louis (FUSL) e la Katholieke Universiteit Brussel (KUB) nonché le facoltà di medicina dell'Université catholique de Louvain (UCL), situata nel quartiere Alma presso il grande Ospedale \"Saint Luc\"...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.381104,
+                    50.836793
+                ]
+            },
+            "properties": {
+                "entity": "Haacht",
+                "name_location": "Primus Haacht, Place Jourdan - Jourdanplein, Etterbeek, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1040, Belgio",
+                "class": "amenity",
+                "type": "bar",
+                "snippet": [
+                    "*...Brabante Fiammingo (17 comuni): Affligem, Bever, Boortmeerbeek, Galmaarden, Haacht, Herne, Hoegaarden, Kapelle-op-den-Bos, Keerbergen, Landen, Liedekerke, Linter, Londerzeel, Opwijk, Roosdaal, Tienen, Tremelo;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.013681,
+                    50.724262
+                ]
+            },
+            "properties": {
+                "entity": "Herne",
+                "name_location": "Herne, Breemstraat, Herne, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1540, Belgio",
+                "class": "railway",
+                "type": "halt",
+                "snippet": [
+                    "*...Brabante Fiammingo (17 comuni): Affligem, Bever, Boortmeerbeek, Galmaarden, Haacht, Herne, Hoegaarden, Kapelle-op-den-Bos, Keerbergen, Landen, Liedekerke, Linter, Londerzeel, Opwijk, Roosdaal, Tienen, Tremelo;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.236167,
+                    50.764182
+                ]
+            },
+            "properties": {
+                "entity": "Keerbergen",
+                "name_location": "Hof te Vosholen, 155, Pijnbroekstraat, Mekingen, Sint-Pieters-Leeuw, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1600, Belgio",
+                "class": "building",
+                "type": "farm",
+                "snippet": [
+                    "*...Brabante Fiammingo (17 comuni): Affligem, Bever, Boortmeerbeek, Galmaarden, Haacht, Herne, Hoegaarden, Kapelle-op-den-Bos, Keerbergen, Landen, Liedekerke, Linter, Londerzeel, Opwijk, Roosdaal, Tienen, Tremelo;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.351164,
+                    50.836149
+                ]
+            },
+            "properties": {
+                "entity": "Landen",
+                "name_location": "Prolétaires de tous les pays, unissez-vous - Proletariërs aller landen, verenigt u, 1, Place Poelaert - Poelaertplein, Sablon - Zavel, Pentagone - Vijfhoek, Bruxelles, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1060, Belgio",
+                "class": "tourism",
+                "type": "artwork",
+                "snippet": [
+                    "*...Brabante Fiammingo (17 comuni): Affligem, Bever, Boortmeerbeek, Galmaarden, Haacht, Herne, Hoegaarden, Kapelle-op-den-Bos, Keerbergen, Landen, Liedekerke, Linter, Londerzeel, Opwijk, Roosdaal, Tienen, Tremelo;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.095028,
+                    50.882649
+                ]
+            },
+            "properties": {
+                "entity": "Liedekerke",
+                "name_location": "Liedekerke, Affligemsestraat, Liedekerke, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1770, Belgio",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Brabante Fiammingo (17 comuni): Affligem, Bever, Boortmeerbeek, Galmaarden, Haacht, Herne, Hoegaarden, Kapelle-op-den-Bos, Keerbergen, Landen, Liedekerke, Linter, Londerzeel, Opwijk, Roosdaal, Tienen, Tremelo;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.300312,
+                    51.007461
+                ]
+            },
+            "properties": {
+                "entity": "Londerzeel",
+                "name_location": "Londerzeel, Stationsstraat, Londerzeel, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1840, Belgio",
+                "class": "amenity",
+                "type": "post_office",
+                "snippet": [
+                    "*...Brabante Fiammingo (17 comuni): Affligem, Bever, Boortmeerbeek, Galmaarden, Haacht, Herne, Hoegaarden, Kapelle-op-den-Bos, Keerbergen, Landen, Liedekerke, Linter, Londerzeel, Opwijk, Roosdaal, Tienen, Tremelo;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.187228,
+                    50.974775
+                ]
+            },
+            "properties": {
+                "entity": "Opwijk",
+                "name_location": "Opwijk, Stationsstraat, Opwijk, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1745, Belgio",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Brabante Fiammingo (17 comuni): Affligem, Bever, Boortmeerbeek, Galmaarden, Haacht, Herne, Hoegaarden, Kapelle-op-den-Bos, Keerbergen, Landen, Liedekerke, Linter, Londerzeel, Opwijk, Roosdaal, Tienen, Tremelo;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.133752,
+                    50.846253
+                ]
+            },
+            "properties": {
+                "entity": "Roosdaal",
+                "name_location": "Bouw.Punt De Doncker Roosdaal, Knoddelstraat, Borchtlombeek, Roosdaal, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1761, Belgio",
+                "class": "shop",
+                "type": "supermarket",
+                "snippet": [
+                    "*...Brabante Fiammingo (17 comuni): Affligem, Bever, Boortmeerbeek, Galmaarden, Haacht, Herne, Hoegaarden, Kapelle-op-den-Bos, Keerbergen, Landen, Liedekerke, Linter, Londerzeel, Opwijk, Roosdaal, Tienen, Tremelo;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.421449,
+                    50.644912
+                ]
+            },
+            "properties": {
+                "entity": "Genappe",
+                "name_location": "Genappe Dernier QG, Chaussée de Bruxelles, Vieux-Genappe, Genappe, Nivelles, Brabant wallon, Wallonie, 1472, Belgio",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Brabante Vallone (14 comuni): Chastre, Court-Saint-Étienne, Genappe, Hélécine, Incourt, Jodoigne, Mont-Saint-Guibert, Nivelles, Orp-Jauche, Perwez, Ramillies, Rebecq, Villers-la-Ville, Walhain;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.408794,
+                    50.823628
+                ]
+            },
+            "properties": {
+                "entity": "Nivelles",
+                "name_location": "Drève de Nivelles - Nijvelsedreef, Auderghem - Oudergem, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1160, Belgio",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Brabante Vallone (14 comuni): Chastre, Court-Saint-Étienne, Genappe, Hélécine, Incourt, Jodoigne, Mont-Saint-Guibert, Nivelles, Orp-Jauche, Perwez, Ramillies, Rebecq, Villers-la-Ville, Walhain;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.34235,
+                    50.852676
+                ]
+            },
+            "properties": {
+                "entity": "Aalst",
+                "name_location": "Rue d'Alost - Aalststraat, Dansaert, Quartier de la Senne - Zennewijk, Pentagone - Vijfhoek, Bruxelles, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1080, Belgio",
+                "class": "highway",
+                "type": "living_street",
+                "snippet": [
+                    "*...Fiandre Orientali (15 comuni): Aalst, Brakel, Buggenhout, Denderleeuw, Erpe-Mere, Geraardsbergen, Haaltert, Herzele, Lebbeke, Lede, Lierde, Ninove, Sint-Lievens-Houtem, Wichelen, Zottegem;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.160101,
+                    50.984591
+                ]
+            },
+            "properties": {
+                "entity": "Lebbeke",
+                "name_location": "Steenweg op Lebbeke, Opwijk, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 9280, Belgio",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Fiandre Orientali (15 comuni): Aalst, Brakel, Buggenhout, Denderleeuw, Erpe-Mere, Geraardsbergen, Haaltert, Herzele, Lebbeke, Lede, Lierde, Ninove, Sint-Lievens-Houtem, Wichelen, Zottegem;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.302407,
+                    50.845833
+                ]
+            },
+            "properties": {
+                "entity": "Lierde",
+                "name_location": "Rue Jean Van Lierde - Jean Van Lierdestraat, Scheutveld, Moortebeek, Anderlecht, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1070, Belgio",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Fiandre Orientali (15 comuni): Aalst, Brakel, Buggenhout, Denderleeuw, Erpe-Mere, Geraardsbergen, Haaltert, Herzele, Lebbeke, Lede, Lierde, Ninove, Sint-Lievens-Houtem, Wichelen, Zottegem;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.338348,
+                    50.849113
+                ]
+            },
+            "properties": {
+                "entity": "Ninove",
+                "name_location": "Place de Ninove - Ninoofseplein, Dansaert, Quartier de la Senne - Zennewijk, Pentagone - Vijfhoek, Bruxelles, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1080, Belgio",
+                "class": "highway",
+                "type": "living_street",
+                "snippet": [
+                    "*...Fiandre Orientali (15 comuni): Aalst, Brakel, Buggenhout, Denderleeuw, Erpe-Mere, Geraardsbergen, Haaltert, Herzele, Lebbeke, Lede, Lierde, Ninove, Sint-Lievens-Houtem, Wichelen, Zottegem;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.341106,
+                    50.840174
+                ]
+            },
+            "properties": {
+                "entity": "Hainaut",
+                "name_location": "Boulevard Maurice Lemonnier - Maurice Lemonnierlaan, Quartier Midi-Lemonnier - Zuid-Lemonnierwijk, Pentagone - Vijfhoek, Bruxelles, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1060, Belgio",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "...Provincia dell'Hainaut (2 comuni): Enghien, Silly....",
+                    "*...Hainaut (9 comuni): Ath, Braine-le-Comte, Brugelette, Chièvres, Écaussinnes, Flobecq, Lessines, Seneffe, Soignies ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.345008,
+                    50.844481
+                ]
+            },
+            "properties": {
+                "entity": "Soignies",
+                "name_location": "Rue de Soignies - Zinnikstraat, Quartier Midi-Lemonnier - Zuid-Lemonnierwijk, Pentagone - Vijfhoek, Bruxelles, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1060, Belgio",
+                "class": "highway",
+                "type": "living_street",
+                "snippet": [
+                    "*...Hainaut (9 comuni): Ath, Braine-le-Comte, Brugelette, Chièvres, Écaussinnes, Flobecq, Lessines, Seneffe, Soignies ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.359708,
+                    50.841179
+                ]
+            },
+            "properties": {
+                "entity": "Namur",
+                "name_location": "Rue de Namur - Naamsestraat, Quartier Royal - Koninklijke Wijk, Pentagone - Vijfhoek, Bruxelles, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, Belgio",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Namur (2 comuni): Gembloux, Sombreffe...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.373264,
+                    50.839505
+                ]
+            },
+            "properties": {
+                "entity": "Gembloux",
+                "name_location": "Hôtel de Gembloux, Rue de Trèves - Trierstraat, Quartier Léopold - Leopoldswijk, Ixelles - Elsene, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1047, Belgio",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...Namur (2 comuni): Gembloux, Sombreffe...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.483259,
+                    50.898336
+                ]
+            },
+            "properties": {
+                "entity": "Aeroporto di Bruxelles-Zaventem",
+                "name_location": "Aeroporto di Bruxelles-National, Luchthaven Brussel Nationaal, Zaventem, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1930, Belgio",
+                "class": "aeroway",
+                "type": "terminal",
+                "snippet": [
+                    "*...Bruxelles è servita dall'Aeroporto di Bruxelles-Zaventem, situato nella municipalità di Zaventem, e dall'Aeroporto di Charleroi-Bruxelles Sud, posto vicino alla città di Charleroi in Vallonia....",
+                    "*...Tra questi Zaventem (sede dell'Aeroporto internazionale), Kraainem (capolinea della metropolitana) e Tervuren (quartiere residenziale)....",
+                    "...Nella sala accettazione dell'Aeroporto internazionale di Zaventem e alla stazione metro di Maelbeek, nel quartiere delle Istituzioni europee, dove vi sono stati 35 morti e centinaia di feriti di 40 nazionalità diverse....",
+                    "...Provincia del Brabante Fiammingo (15 comuni): Beersel, Dilbeek, Drogenbos, Grimbergen, Halle, Kraainem, Linkebeek, Machelen, Sint-Genesius-Rode, Sint-Pieters-Leeuw, Tervuren, Vilvoorde, Wemmel, Wezembeek-Oppem, Zaventem;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.351822,
+                    50.846472
+                ]
+            },
+            "properties": {
+                "entity": "Ville de Bruxelles",
+                "name_location": "Hôtel de Ville de Bruxelles - Stadhuis van Brussel, 8, Grand Place, Quartier Saint-Jacques - Sint-Jacobswijk, Quartier du Centre - Centrumwijk, Pentagone - Vijfhoek, Bruxelles, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1212, Belgio",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Bruxelles è amministrata dalla regione di Bruxelles-Capitale, suddivisa in 19 comuni, tra cui quello del centro storico, il Comune di Bruxelles (Ville de Bruxelles/Stad Brussels)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.352781,
+                    50.846976
+                ]
+            },
+            "properties": {
+                "entity": "Stad Brussels",
+                "name_location": "Musée de la ville de Bruxelles - Museum van de Stad Brussel, Grand Place, Quartier Saint-Jacques - Sint-Jacobswijk, Quartier du Centre - Centrumwijk, Pentagone - Vijfhoek, Bruxelles, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1212, Belgio",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Bruxelles è amministrata dalla regione di Bruxelles-Capitale, suddivisa in 19 comuni, tra cui quello del centro storico, il Comune di Bruxelles (Ville de Bruxelles/Stad Brussels)....",
+                    "*...Bruxelles (; in olandese Brussel, ;...",
+                    "...Bruxelles ha diverse Università, quattro di queste sono l'Université Libre de Bruxelles (ULB), la Vrije Universiteit Brussel (VUB), le Facultés universitaires Saint-Louis (FUSL) e la Katholieke Universiteit Brussel (KUB) nonché le facoltà di medicina dell'Université catholique de Louvain (UCL), situata nel quartiere Alma presso il grande Ospedale \"Saint Luc\"...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.401632,
+                    50.840605
+                ]
+            },
+            "properties": {
+                "entity": "Woluwe-Saint-Lambert",
+                "name_location": "BNP Paribas Fortis, 6, Rue Bâtonnier Braffort - Stafhouder Braffortstraat, Woluwe-Saint-Lambert - Sint-Lambrechts-Woluwe, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1200, Belgio",
+                "class": "amenity",
+                "type": "bank",
+                "snippet": [
+                    "...Regione di Bruxelles-Capitale (19 comuni): Anderlecht, Auderghem, Berchem-Sainte-Agathe, Bruxelles, Etterbeek, Evere, Forest, Ganshoren, Ixelles, Jette, Koekelberg, Molenbeek-Saint-Jean, Saint-Gilles, Saint-Josse-ten-Noode, Schaerbeek, Uccle, Watermael-Boitsfort, Woluwe-Saint-Lambert, Woluwe-Saint-Pierre;...",
+                    "*...La Royal White Star Bruxelles, nata da varie fusioni e scissioni, con sede nella municipalità di Woluwe-Saint-Lambert ma che gioca allo Stade Fallon, è fallita nel 2016...."
+                ]
+            }
+        }
+    ]
+}

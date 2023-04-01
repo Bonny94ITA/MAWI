@@ -1,0 +1,1204 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.317092,
+                    59.961733
+                ]
+            },
+            "properties": {
+                "entity": "Estonia",
+                "name_location": "Генеральное консульство Эстонской Республики, 14, Большая Монетная улица, Петроградская сторона, Посадский округ, San Pietroburgo, Северо-Западный федеральный округ, 197101, Russia",
+                "class": "office",
+                "type": "diplomatic",
+                "snippet": [
+                    "*...È situata vicino al confine con la Finlandia e l'Estonia, sulla riva più orientale del golfo di Finlandia, equidistante da Helsinki e Tallinn...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.611967,
+                    59.749777
+                ]
+            },
+            "properties": {
+                "entity": "Kolpino",
+                "name_location": "Kolpino, Stazione, Октябрьская улица, Балканы, Kolpino, San Pietroburgo, Северо-Западный федеральный округ, 196655, Russia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...L'area del soggetto federale è di , che comprende San Pietroburgo (con gli ottantuno circondari comunali), nove città comunali (Kolpino, Krasnoe Selo, Kronštadt, Lomonosov, Pavlovsk, Petergof, Puškin, Sestroreck, Zelenogorsk) e ventuno insediamenti comunali....",
+                    "*...La città si estende per un territorio di , mentre l'intero soggetto federale cittadino conta  nel quale, oltre alla città propria, si trovano le 9 cittadine suburbane di Kolpino, Krasnoe Selo, Kronštadt, Lomonosov, Pavlovsk, Petergof, Puškin, Sestroreck e Zelenogorsk...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.103424,
+                    59.732337
+                ]
+            },
+            "properties": {
+                "entity": "Krasnoe Selo",
+                "name_location": "Красное Село, улица Первого Мая, Фабричный посёлок, Красное Село, San Pietroburgo, Северо-Западный федеральный округ, 198320, Russia",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...L'area del soggetto federale è di , che comprende San Pietroburgo (con gli ottantuno circondari comunali), nove città comunali (Kolpino, Krasnoe Selo, Kronštadt, Lomonosov, Pavlovsk, Petergof, Puškin, Sestroreck, Zelenogorsk) e ventuno insediamenti comunali....",
+                    "*...La città si estende per un territorio di , mentre l'intero soggetto federale cittadino conta  nel quale, oltre alla città propria, si trovano le 9 cittadine suburbane di Kolpino, Krasnoe Selo, Kronštadt, Lomonosov, Pavlovsk, Petergof, Puškin, Sestroreck e Zelenogorsk...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.075588,
+                    59.817368
+                ]
+            },
+            "properties": {
+                "entity": "Kronštadt",
+                "name_location": "Съезд на КАД A118, Кронштадт, Сергиево, округ Константиновское, San Pietroburgo, Северо-Западный федеральный округ, 188507, Russia",
+                "class": "highway",
+                "type": "secondary_link",
+                "snippet": [
+                    "*...L'area del soggetto federale è di , che comprende San Pietroburgo (con gli ottantuno circondari comunali), nove città comunali (Kolpino, Krasnoe Selo, Kronštadt, Lomonosov, Pavlovsk, Petergof, Puškin, Sestroreck, Zelenogorsk) e ventuno insediamenti comunali....",
+                    "*...Nello storico primo viaggio di uno zar nel mar Baltico, a bordo della fregata Standard, Pietro trovò adatta ad un'installazione militare a protezione del porto l'isola posta quindici miglia al largo della foce che presto diventerà Kronštadt....",
+                    "*...Un altro sobborgo notevole è Kronštadt con le sue fortificazioni del XIX secolo e monumenti navali, che occupa l'isola Kotlin nel golfo di Finlandia....",
+                    "*...La città si estende per un territorio di , mentre l'intero soggetto federale cittadino conta  nel quale, oltre alla città propria, si trovano le 9 cittadine suburbane di Kolpino, Krasnoe Selo, Kronštadt, Lomonosov, Pavlovsk, Petergof, Puškin, Sestroreck e Zelenogorsk....",
+                    "*...Il porto di Bolshoi, il porto di Kronštadt e di Lomonosov...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.327679,
+                    59.932056
+                ]
+            },
+            "properties": {
+                "entity": "Lomonosov",
+                "name_location": "Ломоносов, 1/28, улица Ломоносова, Апраксин двор, округ № 78, San Pietroburgo, Северо-Западный федеральный округ, 191023, Russia",
+                "class": "amenity",
+                "type": "bar",
+                "snippet": [
+                    "*...L'area del soggetto federale è di , che comprende San Pietroburgo (con gli ottantuno circondari comunali), nove città comunali (Kolpino, Krasnoe Selo, Kronštadt, Lomonosov, Pavlovsk, Petergof, Puškin, Sestroreck, Zelenogorsk) e ventuno insediamenti comunali....",
+                    "*...La città si estende per un territorio di , mentre l'intero soggetto federale cittadino conta  nel quale, oltre alla città propria, si trovano le 9 cittadine suburbane di Kolpino, Krasnoe Selo, Kronštadt, Lomonosov, Pavlovsk, Petergof, Puškin, Sestroreck e Zelenogorsk....",
+                    "*...Il porto di Bolshoi, il porto di Kronštadt e di Lomonosov....",
+                    "*...Le principali industrie locali sono il cantiere navale del Baltico, la Lomo, le Officine Kirov e l'Ėlektrosila...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.441616,
+                    59.698031
+                ]
+            },
+            "properties": {
+                "entity": "Pavlovsk",
+                "name_location": "Павловск, Садовая улица, Садовая улица, Павловск, San Pietroburgo, Северо-Западный федеральный округ, 196620, Russia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...L'area del soggetto federale è di , che comprende San Pietroburgo (con gli ottantuno circondari comunali), nove città comunali (Kolpino, Krasnoe Selo, Kronštadt, Lomonosov, Pavlovsk, Petergof, Puškin, Sestroreck, Zelenogorsk) e ventuno insediamenti comunali....",
+                    "*...Pavlovsk, con la reggia, caratterizzata da un palazzo a cupola voluta da Paolo I e da uno dei più grandi parchi in stile inglese d'Europa....",
+                    "*...La città si estende per un territorio di , mentre l'intero soggetto federale cittadino conta  nel quale, oltre alla città propria, si trovano le 9 cittadine suburbane di Kolpino, Krasnoe Selo, Kronštadt, Lomonosov, Pavlovsk, Petergof, Puškin, Sestroreck e Zelenogorsk...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.914173,
+                    59.89173
+                ]
+            },
+            "properties": {
+                "entity": "Petergof",
+                "name_location": "Петергоф, Аллея фонтанов, Петергоф, San Pietroburgo, Северо-Западный федеральный округ, 198516, Russia",
+                "class": "amenity",
+                "type": "ferry_terminal",
+                "snippet": [
+                    "*...L'area del soggetto federale è di , che comprende San Pietroburgo (con gli ottantuno circondari comunali), nove città comunali (Kolpino, Krasnoe Selo, Kronštadt, Lomonosov, Pavlovsk, Petergof, Puškin, Sestroreck, Zelenogorsk) e ventuno insediamenti comunali....",
+                    "*...La città si estende per un territorio di , mentre l'intero soggetto federale cittadino conta  nel quale, oltre alla città propria, si trovano le 9 cittadine suburbane di Kolpino, Krasnoe Selo, Kronštadt, Lomonosov, Pavlovsk, Petergof, Puškin, Sestroreck e Zelenogorsk...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.331622,
+                    59.937258
+                ]
+            },
+            "properties": {
+                "entity": "Puškin",
+                "name_location": "Пушкин, площадь Искусств, Дворцовый округ, San Pietroburgo, Северо-Западный федеральный округ, 191011, Russia",
+                "class": "historic",
+                "type": "memorial",
+                "snippet": [
+                    "*...L'area del soggetto federale è di , che comprende San Pietroburgo (con gli ottantuno circondari comunali), nove città comunali (Kolpino, Krasnoe Selo, Kronštadt, Lomonosov, Pavlovsk, Petergof, Puškin, Sestroreck, Zelenogorsk) e ventuno insediamenti comunali....",
+                    "...Gli appartamenti di alcuni pietroburghesi famosi sono stati trasformati in musei, tra cui quelli di Aleksandr Puškin, Fëdor Dostoevskij (Museo letterario memoriale Fëdor Michajlovič Dostoevskij), Nikolaj Rimskij-Korsakov, Fëdor Šaljapin, Aleksandr Blok, Vladimir Nabokov (Museo letterario Vladimir Nabokov), Anna Achmatova,\nMichail Michajlovič Zoščenko, Iosif Aleksandrovič Brodskij, così come alcuni del palazzi e parchi dei sobborghi meridionali (il Palazzo di Alessandro, il Palazzo di Caterina e il Palazzo di Marmo)....",
+                    "*...La città si estende per un territorio di , mentre l'intero soggetto federale cittadino conta  nel quale, oltre alla città propria, si trovano le 9 cittadine suburbane di Kolpino, Krasnoe Selo, Kronštadt, Lomonosov, Pavlovsk, Petergof, Puškin, Sestroreck e Zelenogorsk...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.345495,
+                    59.946822
+                ]
+            },
+            "properties": {
+                "entity": "Zelenogorsk",
+                "name_location": "Зеленогорск, 10, улица Чайковского, Литейный округ, San Pietroburgo, Северо-Западный федеральный округ, 191028, Russia",
+                "class": "shop",
+                "type": "florist",
+                "snippet": [
+                    "*...L'area del soggetto federale è di , che comprende San Pietroburgo (con gli ottantuno circondari comunali), nove città comunali (Kolpino, Krasnoe Selo, Kronštadt, Lomonosov, Pavlovsk, Petergof, Puškin, Sestroreck, Zelenogorsk) e ventuno insediamenti comunali....",
+                    "*...La città si estende per un territorio di , mentre l'intero soggetto federale cittadino conta  nel quale, oltre alla città propria, si trovano le 9 cittadine suburbane di Kolpino, Krasnoe Selo, Kronštadt, Lomonosov, Pavlovsk, Petergof, Puškin, Sestroreck e Zelenogorsk...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.945157,
+                    60.087308
+                ]
+            },
+            "properties": {
+                "entity": "Sestra",
+                "name_location": "Сестрорецкая рыббаза ООО \"Сестра\", улица Инструментальщиков, Разлив, Сестрорецк, San Pietroburgo, Северо-Западный федеральный округ, 197706, Russia",
+                "class": "shop",
+                "type": "seafood",
+                "snippet": [
+                    "*...Oltre alla Neva e ai suoi affluenti, altri importanti fiumi del soggetto federale di San Pietroburgo sono il Sestra, l'Ochta e l'Ižora...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.57757,
+                    59.81426
+                ]
+            },
+            "properties": {
+                "entity": "Ižora",
+                "name_location": "Ижора, 21 к2А, Садовая улица, Металлострой, San Pietroburgo, Северо-Западный федеральный округ, 196641, Russia",
+                "class": "shop",
+                "type": "car_repair",
+                "snippet": [
+                    "*...Oltre alla Neva e ai suoi affluenti, altri importanti fiumi del soggetto federale di San Pietroburgo sono il Sestra, l'Ochta e l'Ižora...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.052961,
+                    60.100744
+                ]
+            },
+            "properties": {
+                "entity": "Sestroreckij",
+                "name_location": "Сестрорецкий разлив, дорога на Глухое озеро, Сестрорецк, San Pietroburgo, Северо-Западный федеральный округ, 197706, Russia",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...Il lago più grande è il Sestroreckij razliv a nord, seguito dal Laсhtinskij razliv e da altri più piccoli....",
+                    "*...L'area del soggetto federale è di , che comprende San Pietroburgo (con gli ottantuno circondari comunali), nove città comunali (Kolpino, Krasnoe Selo, Kronštadt, Lomonosov, Pavlovsk, Petergof, Puškin, Sestroreck, Zelenogorsk) e ventuno insediamenti comunali....",
+                    "*...La città si estende per un territorio di , mentre l'intero soggetto federale cittadino conta  nel quale, oltre alla città propria, si trovano le 9 cittadine suburbane di Kolpino, Krasnoe Selo, Kronštadt, Lomonosov, Pavlovsk, Petergof, Puškin, Sestroreck e Zelenogorsk...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.342077,
+                    59.986427
+                ]
+            },
+            "properties": {
+                "entity": "Sankt-Peterburg",
+                "name_location": "Санкт-Петербург, Лесной проспект, округ Сампсониевское, San Pietroburgo, Северо-Западный федеральный округ, 172002, Russia",
+                "class": "amenity",
+                "type": "bank",
+                "snippet": [
+                    "...Sankt-Peterburg, ) è la seconda città della Russia per dimensioni e popolazione, con più di 5 milioni di abitanti, città federale, il porto più importante del Paese ed inoltre la città con più di un milione di abitanti più a nord del mondo....",
+                    "*...San Pietroburgo (in russo: Санкт-Петербург?, traslitterato: Sankt-Peterburg), dal 27 maggio (16 maggio del Calendario giuliano) 1703 al 1º settembre 1914 e dal 6 settembre 1991 ad oggi....",
+                    "*...In sequenza i nomi Sankt-Peterburg, Leningrad, Petrograd, Piter....",
+                    "*...Allo scoppio della prima guerra mondiale, il nome Sankt-Peterburg venne visto come troppo germanico e la città venne quindi ribattezzata Petrograd (Pietrogrado) su iniziativa dello zar Nicola II (1894-1917)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.294022,
+                    59.962292
+                ]
+            },
+            "properties": {
+                "entity": "Petrograd",
+                "name_location": "Petrograd, Ораниенбаумская улица, Петроградская сторона, Петровский округ, San Pietroburgo, Северо-Западный федеральный округ, 197198, Russia",
+                "class": "craft",
+                "type": "electronics_repair",
+                "snippet": [
+                    "*...Pietrogrado (in russo: Петроград?, traslitterato: Petrograd), dal 1º settembre (19 agosto del Calendario giuliano) 1914 al 26 gennaio 1924....",
+                    "*...In sequenza i nomi Sankt-Peterburg, Leningrad, Petrograd, Piter....",
+                    "*...Allo scoppio della prima guerra mondiale, il nome Sankt-Peterburg venne visto come troppo germanico e la città venne quindi ribattezzata Petrograd (Pietrogrado) su iniziativa dello zar Nicola II (1894-1917)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.342077,
+                    59.986427
+                ]
+            },
+            "properties": {
+                "entity": "Sankt Peterburg",
+                "name_location": "Санкт-Петербург, Лесной проспект, округ Сампсониевское, San Pietroburgo, Северо-Западный федеральный округ, 172002, Russia",
+                "class": "amenity",
+                "type": "bank",
+                "snippet": [
+                    "*...Il nome originale di Sankt Peterburg era stato conferito in lingua olandese, poiché Pietro il Grande aveva vissuto e studiato sotto mentite spoglie nei Paesi Bassi per un periodo di tempo ed era divenuto un grande ammiratore della corte e dell'architettura nederlandese...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.35468,
+                    59.936067
+                ]
+            },
+            "properties": {
+                "entity": "City",
+                "name_location": "City, 16, улица Маяковского, Литейный округ, San Pietroburgo, Северо-Западный федеральный округ, 191000, Russia",
+                "class": "shop",
+                "type": "hairdresser",
+                "snippet": [
+                    "*...La \"Torre Leader\" (), L'\"Aleksandr Nevskij\" () e l'\"Atlantic City\" (), tutti e tre sono situati lontano dal centro storico...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.316449,
+                    59.950054
+                ]
+            },
+            "properties": {
+                "entity": "Fortezza di Pietro",
+                "name_location": "Fortezza di Pietro e Paolo, Кронверкская набережная, Петроградская сторона, округ Кронверкское, San Pietroburgo, Северо-Западный федеральный округ, 197101, Russia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...L'insieme della Fortezza di Pietro e Paolo con la Cattedrale di Pietro e Paolo prendono una posizione dominante sull'isola delle Lepri lungo la riva destra del fiume Neva...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.320735,
+                    59.932775
+                ]
+            },
+            "properties": {
+                "entity": "Strelka",
+                "name_location": "Belka & Strelka, 7, Казанская улица, Апраксин двор, округ № 78, San Pietroburgo, Северо-Западный федеральный округ, 191186, Russia",
+                "class": "shop",
+                "type": "beauty",
+                "snippet": [
+                    "*...La Piazza della Borsa, anche nota come la Punta (Strelka) dell'isola Vasil'evskij, che divide il fiume Neva in due grandi bracci, la Grande Neva (Bol'šaja Neva) e la Piccola Neva (Malaja Neva), è collegata all'Isola di Pietrogrado attraverso il ponte della Borsa (Birževoj most)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.302778,
+                    59.941834
+                ]
+            },
+            "properties": {
+                "entity": "Birževoj",
+                "name_location": "Биржевой проезд, округ № 7, San Pietroburgo, Северо-Западный федеральный округ, 199034, Russia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...La Piazza della Borsa, anche nota come la Punta (Strelka) dell'isola Vasil'evskij, che divide il fiume Neva in due grandi bracci, la Grande Neva (Bol'šaja Neva) e la Piccola Neva (Malaja Neva), è collegata all'Isola di Pietrogrado attraverso il ponte della Borsa (Birževoj most)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.29531,
+                    59.938935
+                ]
+            },
+            "properties": {
+                "entity": "Palazzo Menšikov",
+                "name_location": "Palazzo Menšikov, 15, Университетская набережная, округ № 7, San Pietroburgo, Северо-Западный федеральный округ, 199034, Russia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...La costa meridionale dell'isola Vasil'evskij, lungo la Grande Neva, presenta alcuni degli edifici più antichi della città, risalenti al XVIII secolo, tra cui il Kunstkamera, i Dodici collegi, il Palazzo Menšikov e l'Accademia russa di belle arti...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.315487,
+                    59.941208
+                ]
+            },
+            "properties": {
+                "entity": "Museo dell'Ermitage",
+                "name_location": "Museo dell'Ermitage, Дворцовая набережная, Дворцовый округ, San Pietroburgo, Северо-Западный федеральный округ, 191186, Russia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Al sud, sulla riva sinistra del Neva, collegata all'isola Vasil'evskij attraverso il Ponte del Palazzo (Dvorcovskij Most), si trovano il palazzo dell'Ammiragliato, il vasto complesso dell'Museo dell'Ermitage che si estende lungo il lungoneva del Palazzo e che comprende il barocco Palazzo d'Inverno, ex residenza ufficiale degli zar, così come il neoclassico Palazzo di Marmo neoclassico....",
+                    "*...La città non è solo sede del famoso Museo dell'Ermitage e del Museo di Stato Russo con la sua ricca collezione di arte russa ma anche di palazzi e monumenti prestigiosi....",
+                    "*...Il più grande di essi è il Museo dell'Ermitage, all'interno della ex residenza imperiale e con una vasta collezione di arte...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.315189,
+                    59.940463
+                ]
+            },
+            "properties": {
+                "entity": "Palazzo d'Inverno",
+                "name_location": "Palazzo d'Inverno, 38 литА, Дворцовая набережная, Дворцовый округ, San Pietroburgo, Северо-Западный федеральный округ, 191186, Russia",
+                "class": "historic",
+                "type": "palace",
+                "snippet": [
+                    "*...Al sud, sulla riva sinistra del Neva, collegata all'isola Vasil'evskij attraverso il Ponte del Palazzo (Dvorcovskij Most), si trovano il palazzo dell'Ammiragliato, il vasto complesso dell'Museo dell'Ermitage che si estende lungo il lungoneva del Palazzo e che comprende il barocco Palazzo d'Inverno, ex residenza ufficiale degli zar, così come il neoclassico Palazzo di Marmo neoclassico....",
+                    "*...Il Palazzo d'Inverno si affaccia sulla Piazza del Palazzo, la piazza principale della città dove vi è la Colonna di Alessandro....",
+                    "*...Le attrazioni architettoniche del XVIII e XIX secolo comprendono poi la Fortezza di San Pietro e San Paolo, la Cattedrale della Resurrezione, l'Istituto Smol'nyj, la piazza del Palazzo con il Palazzo d'Inverno, la Prospettiva Nevskij, il palazzo della borsa e la sede dell'Università statale, ospitata nel Collegio dei dodici sull'Isola Vasil'evskij (o Isola di Basilio), la Chiesa di Nostra Signora di Misericordia, la piazza dei Decabristi anche detta del Senato, con la celebre statua equestre del Cavaliere di bronzo, il Teatro Mariinskij, la via Rossi, dedicata all'omonimo architetto italiano, la piazza Ostrovskij, la piazza delle Arti, il Castello degli ingegneri, e la Sinagoga grande corale...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.312967,
+                    59.871322
+                ]
+            },
+            "properties": {
+                "entity": "Grandi",
+                "name_location": "Гранди, 23 к1, Варшавская улица, округ Новоизмайловское, San Pietroburgo, Северо-Западный федеральный округ, 196128, Russia",
+                "class": "shop",
+                "type": "tailor",
+                "snippet": [
+                    "...Le isole più grandi sono l'isola Vasil'evskij, l'isola Krestovskij e l'isola dei Decabristi....",
+                    "...Già nel tardo XIX secolo, la città era divenuta il centro culturale della nazione, con compositori (come I cinque grandi), artisti....",
+                    "...La Piazza della Borsa, anche nota come la Punta (Strelka) dell'isola Vasil'evskij, che divide il fiume Neva in due grandi bracci, la Grande Neva (Bol'šaja Neva) e la Piccola Neva (Malaja Neva), è collegata all'Isola di Pietrogrado attraverso il ponte della Borsa (Birževoj most)....",
+                    "*...I Grandi magazzini Passage (il termine russo Passaž è la traslitterazione dal francese), la Chiesa cattolica di Santa Caterina, la \"casa dei libri\" (ex edificio dell'azienda Singer in stile Art Nouveau), il Grand Hotel Europa, la Chiesa Luterana di San Pietro e San Paolo, la biblioteca nazionale russa, il Teatro Aleksandrinskij la statua di Caterina la Grande, la Cattedrale di Kazan', il palazzo Stroganov, il palazzo Aničkov e il palazzo Beloselskij-Belozerskij sono tutti situati lungo quel viale....",
+                    "...Pavlovsk, con la reggia, caratterizzata da un palazzo a cupola voluta da Paolo I e da uno dei più grandi parchi in stile inglese d'Europa....",
+                    "...Per vari motivi (compresa la distruzione su larga scala durante la seconda guerra mondiale e la costruzione di edifici moderni nel dopoguerra nei più grandi centri storici d'Europa), San Pietroburgo è diventata una riserva unica degli stili architettonici europei degli ultimi tre secoli....",
+                    "...A San Pietroburgo ha sede la Biblioteca nazionale russa, già \"Saltykov-Ščedrin\", che è una delle più grandi biblioteche del mondo con 35 milioni di \"pezzi\", di cui più di 15 milioni di libri, 13 milioni di periodici, 617 000 annate di giornali e 450 000 manoscritti....",
+                    "...A San Pietroburgo si esibiscono due grandi orchestre sinfoniche:...",
+                    "...San Pietroburgo vanta tre grandi porti cargo:...",
+                    "...La Zecca di San Pietroburgo Zecca (Monetnyj Dvor), fondata nel 1724, è una delle più grandi zecche del mondo e produce monete russe, medaglie e distintivi....",
+                    "...Con due terminal principali (uno nazionale, uno internazionale), Pulkovo è ampiamente considerato come uno degli aeroporti più grandi e più moderni nella Federazione Russa...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.334669,
+                    59.935738
+                ]
+            },
+            "properties": {
+                "entity": "Passaž",
+                "name_location": "Пассаж, 48, Невский проспект, Дворцовый округ, San Pietroburgo, Северо-Западный федеральный округ, 191023, Russia",
+                "class": "shop",
+                "type": "mall",
+                "snippet": [
+                    "*...I Grandi magazzini Passage (il termine russo Passaž è la traslitterazione dal francese), la Chiesa cattolica di Santa Caterina, la \"casa dei libri\" (ex edificio dell'azienda Singer in stile Art Nouveau), il Grand Hotel Europa, la Chiesa Luterana di San Pietro e San Paolo, la biblioteca nazionale russa, il Teatro Aleksandrinskij la statua di Caterina la Grande, la Cattedrale di Kazan', il palazzo Stroganov, il palazzo Aničkov e il palazzo Beloselskij-Belozerskij sono tutti situati lungo quel viale...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.336182,
+                    59.931796
+                ]
+            },
+            "properties": {
+                "entity": "Teatro Aleksandrinskij",
+                "name_location": "Teatro Aleksandrinskij, 6, площадь Островского, Апраксин двор, округ № 78, San Pietroburgo, Северо-Западный федеральный округ, 191011, Russia",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...I Grandi magazzini Passage (il termine russo Passaž è la traslitterazione dal francese), la Chiesa cattolica di Santa Caterina, la \"casa dei libri\" (ex edificio dell'azienda Singer in stile Art Nouveau), il Grand Hotel Europa, la Chiesa Luterana di San Pietro e San Paolo, la biblioteca nazionale russa, il Teatro Aleksandrinskij la statua di Caterina la Grande, la Cattedrale di Kazan', il palazzo Stroganov, il palazzo Aničkov e il palazzo Beloselskij-Belozerskij sono tutti situati lungo quel viale....",
+                    "*...I più importanti teatri di prosa sono il Teatro Aleksandrinskij e il Malyj dramatičeskij Teatr...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.339849,
+                    59.932985
+                ]
+            },
+            "properties": {
+                "entity": "palazzo Aničkov",
+                "name_location": "Palazzo Aničkov, 39, Невский проспект, Апраксин двор, округ № 78, San Pietroburgo, Северо-Западный федеральный округ, 191168, Russia",
+                "class": "historic",
+                "type": "palace",
+                "snippet": [
+                    "*...I Grandi magazzini Passage (il termine russo Passaž è la traslitterazione dal francese), la Chiesa cattolica di Santa Caterina, la \"casa dei libri\" (ex edificio dell'azienda Singer in stile Art Nouveau), il Grand Hotel Europa, la Chiesa Luterana di San Pietro e San Paolo, la biblioteca nazionale russa, il Teatro Aleksandrinskij la statua di Caterina la Grande, la Cattedrale di Kazan', il palazzo Stroganov, il palazzo Aničkov e il palazzo Beloselskij-Belozerskij sono tutti situati lungo quel viale....",
+                    "...Tuttavia, vi è stato un controverso progetto approvato dalle autorità cittadine, e conosciuto come \"Centro Ochta\", per costruire un palazzo di 396 metri....",
+                    "...La costa meridionale dell'isola Vasil'evskij, lungo la Grande Neva, presenta alcuni degli edifici più antichi della città, risalenti al XVIII secolo, tra cui il Kunstkamera, i Dodici collegi, il Palazzo Menšikov e l'Accademia russa di belle arti....",
+                    "*...Al sud, sulla riva sinistra del Neva, collegata all'isola Vasil'evskij attraverso il Ponte del Palazzo (Dvorcovskij Most), si trovano il palazzo dell'Ammiragliato, il vasto complesso dell'Museo dell'Ermitage che si estende lungo il lungoneva del Palazzo e che comprende il barocco Palazzo d'Inverno, ex residenza ufficiale degli zar, così come il neoclassico Palazzo di Marmo neoclassico....",
+                    "...Il Palazzo d'Inverno si affaccia sulla Piazza del Palazzo, la piazza principale della città dove vi è la Colonna di Alessandro....",
+                    "...Inizia all'Ammiragliato e corre verso est vicino alla Piazza del Palazzo....",
+                    "...Sul terreno tra la Neva e la prospettiva Nevskij si trovano la Chiesa del Salvatore sul Sangue Versato, il palazzo Michajlovskij (che ospita il Museo Russo), il Campo di Marte, il castello Michajlovskij, il Giardino d'estate, il Palazzo di Tauride, l'Istituto Smol'nyj e il convento Smol'nyj....",
+                    "...Molti punti di riferimento importanti sono situati ad ovest e a sud del Palazzo dell'Ammiragliato, tra cui la Cattedrale della Trinità - Izmajlovskij, il Palazzo Mariinskij, l'Hotel Astoria, il famoso Teatro Mariinskij, la Cattedrale di Sant'Isacco e la Piazza del Senato (nota anche come piazza dei Decabristi), con la statua del Cavaliere di Bronzo, monumento equestre del XVIII secolo dedicato a Pietro il Grande, che è considerato uno tra i simboli più riconoscibili della città....",
+                    "...Carskoe Selo, con il Palazzo di Caterina in stile barocco e il neoclassico Palazzo di Alessandro;...",
+                    "...Pavlovsk, con la reggia, caratterizzata da un palazzo a cupola voluta da Paolo I e da uno dei più grandi parchi in stile inglese d'Europa....",
+                    "...Molto apprezzato è anche il Giardino Tauride, che contorna l'omonimo palazzo....",
+                    "...Le attrazioni architettoniche del XVIII e XIX secolo comprendono poi la Fortezza di San Pietro e San Paolo, la Cattedrale della Resurrezione, l'Istituto Smol'nyj, la piazza del Palazzo con il Palazzo d'Inverno, la Prospettiva Nevskij, il palazzo della borsa e la sede dell'Università statale, ospitata nel Collegio dei dodici sull'Isola Vasil'evskij (o Isola di Basilio), la Chiesa di Nostra Signora di Misericordia, la piazza dei Decabristi anche detta del Senato, con la celebre statua equestre del Cavaliere di bronzo, il Teatro Mariinskij, la via Rossi, dedicata all'omonimo architetto italiano, la piazza Ostrovskij, la piazza delle Arti, il Castello degli ingegneri, e la Sinagoga grande corale....",
+                    "...Gli appartamenti di alcuni pietroburghesi famosi sono stati trasformati in musei, tra cui quelli di Aleksandr Puškin, Fëdor Dostoevskij (Museo letterario memoriale Fëdor Michajlovič Dostoevskij), Nikolaj Rimskij-Korsakov, Fëdor Šaljapin, Aleksandr Blok, Vladimir Nabokov (Museo letterario Vladimir Nabokov), Anna Achmatova,\nMichail Michajlovič Zoščenko, Iosif Aleksandrovič Brodskij, così come alcuni del palazzi e parchi dei sobborghi meridionali (il Palazzo di Alessandro, il Palazzo di Caterina e il Palazzo di Marmo)....",
+                    "...Altri musei importanti sono il Museo navale militare centrale fino al 2013 ospitato nel palazzo della Antica Borsa di San Pietroburgo, il Museo dell'Artico e dell'Antartico e il Museo memoriale Suvorov...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.332311,
+                    59.938711
+                ]
+            },
+            "properties": {
+                "entity": "palazzo Michajlovskij",
+                "name_location": "Palazzo Michajlovskij, 2-4 литД, Инженерная улица, Дворцовый округ, San Pietroburgo, Северо-Западный федеральный округ, 191186, Russia",
+                "class": "historic",
+                "type": "palace",
+                "snippet": [
+                    "*...Sul terreno tra la Neva e la prospettiva Nevskij si trovano la Chiesa del Salvatore sul Sangue Versato, il palazzo Michajlovskij (che ospita il Museo Russo), il Campo di Marte, il castello Michajlovskij, il Giardino d'estate, il Palazzo di Tauride, l'Istituto Smol'nyj e il convento Smol'nyj...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.37593,
+                    59.947941
+                ]
+            },
+            "properties": {
+                "entity": "Palazzo di Tauride",
+                "name_location": "Palazzo di Tauride, 47, Шпалерная улица, Пески, округ Смольнинское, San Pietroburgo, Северо-Западный федеральный округ, 191015, Russia",
+                "class": "historic",
+                "type": "palace",
+                "snippet": [
+                    "*...Sul terreno tra la Neva e la prospettiva Nevskij si trovano la Chiesa del Salvatore sul Sangue Versato, il palazzo Michajlovskij (che ospita il Museo Russo), il Campo di Marte, il castello Michajlovskij, il Giardino d'estate, il Palazzo di Tauride, l'Istituto Smol'nyj e il convento Smol'nyj...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.30585,
+                    59.916467
+                ]
+            },
+            "properties": {
+                "entity": "Cattedrale della Trinità",
+                "name_location": "Cattedrale della Trinità, 7А, Измайловский проспект, округ Измайловское, San Pietroburgo, Северо-Западный федеральный округ, 190005, Russia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Molti punti di riferimento importanti sono situati ad ovest e a sud del Palazzo dell'Ammiragliato, tra cui la Cattedrale della Trinità - Izmajlovskij, il Palazzo Mariinskij, l'Hotel Astoria, il famoso Teatro Mariinskij, la Cattedrale di Sant'Isacco e la Piazza del Senato (nota anche come piazza dei Decabristi), con la statua del Cavaliere di Bronzo, monumento equestre del XVIII secolo dedicato a Pietro il Grande, che è considerato uno tra i simboli più riconoscibili della città...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.308781,
+                    59.933045
+                ]
+            },
+            "properties": {
+                "entity": "Hotel Astoria",
+                "name_location": "Астория, 39, Большая Морская улица, Адмиралтейский округ, San Pietroburgo, Северо-Западный федеральный округ, 190107, Russia",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...Molti punti di riferimento importanti sono situati ad ovest e a sud del Palazzo dell'Ammiragliato, tra cui la Cattedrale della Trinità - Izmajlovskij, il Palazzo Mariinskij, l'Hotel Astoria, il famoso Teatro Mariinskij, la Cattedrale di Sant'Isacco e la Piazza del Senato (nota anche come piazza dei Decabristi), con la statua del Cavaliere di Bronzo, monumento equestre del XVIII secolo dedicato a Pietro il Grande, che è considerato uno tra i simboli più riconoscibili della città...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.295836,
+                    59.925393
+                ]
+            },
+            "properties": {
+                "entity": "Teatro Mariinskij",
+                "name_location": "Мариинский театр, 1, Театральная площадь, Адмиралтейский округ, San Pietroburgo, Северо-Западный федеральный округ, 190999, Russia",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...Molti punti di riferimento importanti sono situati ad ovest e a sud del Palazzo dell'Ammiragliato, tra cui la Cattedrale della Trinità - Izmajlovskij, il Palazzo Mariinskij, l'Hotel Astoria, il famoso Teatro Mariinskij, la Cattedrale di Sant'Isacco e la Piazza del Senato (nota anche come piazza dei Decabristi), con la statua del Cavaliere di Bronzo, monumento equestre del XVIII secolo dedicato a Pietro il Grande, che è considerato uno tra i simboli più riconoscibili della città....",
+                    "*...Le attrazioni architettoniche del XVIII e XIX secolo comprendono poi la Fortezza di San Pietro e San Paolo, la Cattedrale della Resurrezione, l'Istituto Smol'nyj, la piazza del Palazzo con il Palazzo d'Inverno, la Prospettiva Nevskij, il palazzo della borsa e la sede dell'Università statale, ospitata nel Collegio dei dodici sull'Isola Vasil'evskij (o Isola di Basilio), la Chiesa di Nostra Signora di Misericordia, la piazza dei Decabristi anche detta del Senato, con la celebre statua equestre del Cavaliere di bronzo, il Teatro Mariinskij, la via Rossi, dedicata all'omonimo architetto italiano, la piazza Ostrovskij, la piazza delle Arti, il Castello degli ingegneri, e la Sinagoga grande corale....",
+                    "*...Il principale Teatro dell'opera di San Pietroburgo è il famoso Teatro Mariinskij, chiamato \"Kirov\" in età sovietica....",
+                    "...L'Orchestra filarmonica di San Pietroburgo, con sede nella Filarmonica di San Pietroburgo, e l'Orchestra sinfonica del Teatro Mariinskij...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.21435,
+                    59.948274
+                ]
+            },
+            "properties": {
+                "entity": "Mojka",
+                "name_location": "Мойка, ремонт, улица Кораблестроителей, Морской, округ Морской, San Pietroburgo, Северо-Западный федеральный округ, 199058, Russia",
+                "class": "shop",
+                "type": "car_repair",
+                "snippet": [
+                    "*...Vi sono centinaia di piccoli ponti a San Pietroburgo che si estendono sui numerosi canali e affluenti della Neva, dei quali tra i più importanti annoveriamo, i fiumi Mojka, Fontanka, Smolenka e Karpovka, e i canali Griboedov e Obvodnyj...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.410619,
+                    59.865096
+                ]
+            },
+            "properties": {
+                "entity": "Smolenka",
+                "name_location": "Смоленка, 52 к1, проспект Славы, округ № 72, San Pietroburgo, Северо-Западный федеральный округ, 192249, Russia",
+                "class": "shop",
+                "type": "fireplace",
+                "snippet": [
+                    "*...Vi sono centinaia di piccoli ponti a San Pietroburgo che si estendono sui numerosi canali e affluenti della Neva, dei quali tra i più importanti annoveriamo, i fiumi Mojka, Fontanka, Smolenka e Karpovka, e i canali Griboedov e Obvodnyj...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.981369,
+                    59.860536
+                ]
+            },
+            "properties": {
+                "entity": "Peterhof",
+                "name_location": "Михайловка, Чаяновская улица, Михайловское, Михайловка, Петергоф, San Pietroburgo, Северо-Западный федеральный округ, 198515, Russia",
+                "class": "leisure",
+                "type": "golf_course",
+                "snippet": [
+                    "*...Peterhof, con le maestose fontane a cascata fontana e parchi;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.429564,
+                    59.723024
+                ]
+            },
+            "properties": {
+                "entity": "Carskoe Selo",
+                "name_location": "Царское Село, Железнодорожная улица, Новая Деревня, Puškin, San Pietroburgo, Северо-Западный федеральный округ, 198608, Russia",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Carskoe Selo, con il Palazzo di Caterina in stile barocco e il neoclassico Palazzo di Alessandro;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.395541,
+                    59.716045
+                ]
+            },
+            "properties": {
+                "entity": "Palazzo di Caterina",
+                "name_location": "palazzo di caterina, 9, Садовая улица, София, Puškin, San Pietroburgo, Северо-Западный федеральный округ, 196601, Russia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Carskoe Selo, con il Palazzo di Caterina in stile barocco e il neoclassico Palazzo di Alessandro;...",
+                    "*...Gli appartamenti di alcuni pietroburghesi famosi sono stati trasformati in musei, tra cui quelli di Aleksandr Puškin, Fëdor Dostoevskij (Museo letterario memoriale Fëdor Michajlovič Dostoevskij), Nikolaj Rimskij-Korsakov, Fëdor Šaljapin, Aleksandr Blok, Vladimir Nabokov (Museo letterario Vladimir Nabokov), Anna Achmatova,\nMichail Michajlovič Zoščenko, Iosif Aleksandrovič Brodskij, così come alcuni del palazzi e parchi dei sobborghi meridionali (il Palazzo di Alessandro, il Palazzo di Caterina e il Palazzo di Marmo)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.39205,
+                    59.721274
+                ]
+            },
+            "properties": {
+                "entity": "Palazzo di Alessandro",
+                "name_location": "Palazzo di Alessandro, 2, Дворцовая улица, Puškin, San Pietroburgo, Северо-Западный федеральный округ, 196601, Russia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Carskoe Selo, con il Palazzo di Caterina in stile barocco e il neoclassico Palazzo di Alessandro;...",
+                    "*...Gli appartamenti di alcuni pietroburghesi famosi sono stati trasformati in musei, tra cui quelli di Aleksandr Puškin, Fëdor Dostoevskij (Museo letterario memoriale Fëdor Michajlovič Dostoevskij), Nikolaj Rimskij-Korsakov, Fëdor Šaljapin, Aleksandr Blok, Vladimir Nabokov (Museo letterario Vladimir Nabokov), Anna Achmatova,\nMichail Michajlovič Zoščenko, Iosif Aleksandrovič Brodskij, così come alcuni del palazzi e parchi dei sobborghi meridionali (il Palazzo di Alessandro, il Palazzo di Caterina e il Palazzo di Marmo)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.770763,
+                    59.997282
+                ]
+            },
+            "properties": {
+                "entity": "Kotlin",
+                "name_location": "Котлин, 12А, Флотская улица, Кронштадт, San Pietroburgo, Северо-Западный федеральный округ, 197760, Russia",
+                "class": "leisure",
+                "type": "sports_centre",
+                "snippet": [
+                    "*...Un altro sobborgo notevole è Kronštadt con le sue fortificazioni del XIX secolo e monumenti navali, che occupa l'isola Kotlin nel golfo di Finlandia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.316449,
+                    59.950054
+                ]
+            },
+            "properties": {
+                "entity": "Fortezza di San Pietro",
+                "name_location": "Fortezza di Pietro e Paolo, Кронверкская набережная, Петроградская сторона, округ Кронверкское, San Pietroburgo, Северо-Западный федеральный округ, 197101, Russia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Le attrazioni architettoniche del XVIII e XIX secolo comprendono poi la Fortezza di San Pietro e San Paolo, la Cattedrale della Resurrezione, l'Istituto Smol'nyj, la piazza del Palazzo con il Palazzo d'Inverno, la Prospettiva Nevskij, il palazzo della borsa e la sede dell'Università statale, ospitata nel Collegio dei dodici sull'Isola Vasil'evskij (o Isola di Basilio), la Chiesa di Nostra Signora di Misericordia, la piazza dei Decabristi anche detta del Senato, con la celebre statua equestre del Cavaliere di bronzo, il Teatro Mariinskij, la via Rossi, dedicata all'omonimo architetto italiano, la piazza Ostrovskij, la piazza delle Arti, il Castello degli ingegneri, e la Sinagoga grande corale...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.336193,
+                    59.930135
+                ]
+            },
+            "properties": {
+                "entity": "Vaganova",
+                "name_location": "Академия русского балета имени А. Я. Вагановой, улица Зодчего Росси, Апраксин двор, округ № 78, San Pietroburgo, Северо-Западный федеральный округ, 191011, Russia",
+                "class": "amenity",
+                "type": "university",
+                "snippet": [
+                    "*...L'istruzione artistica è assicurata dal Conservatorio di San Pietroburgo, dall'Accademia di danza Vaganova e dall'Accademia russa di belle arti...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.334818,
+                    59.933221
+                ]
+            },
+            "properties": {
+                "entity": "Biblioteca nazionale russa",
+                "name_location": "Biblioteca nazionale russa, площадь Островского, Апраксин двор, округ № 78, San Pietroburgo, Северо-Западный федеральный округ, 191011, Russia",
+                "class": "amenity",
+                "type": "library",
+                "snippet": [
+                    "...I Grandi magazzini Passage (il termine russo Passaž è la traslitterazione dal francese), la Chiesa cattolica di Santa Caterina, la \"casa dei libri\" (ex edificio dell'azienda Singer in stile Art Nouveau), il Grand Hotel Europa, la Chiesa Luterana di San Pietro e San Paolo, la biblioteca nazionale russa, il Teatro Aleksandrinskij la statua di Caterina la Grande, la Cattedrale di Kazan', il palazzo Stroganov, il palazzo Aničkov e il palazzo Beloselskij-Belozerskij sono tutti situati lungo quel viale....",
+                    "*...A San Pietroburgo ha sede la Biblioteca nazionale russa, già \"Saltykov-Ščedrin\", che è una delle più grandi biblioteche del mondo con 35 milioni di \"pezzi\", di cui più di 15 milioni di libri, 13 milioni di periodici, 617 000 annate di giornali e 450 000 manoscritti....",
+                    "*...I Grandi magazzini Passage (il termine russo Passaž è la traslitterazione dal francese), la Chiesa cattolica di Santa Caterina, la \"casa dei libri\" (ex edificio dell'azienda Singer in stile Art Nouveau), il Grand Hotel Europa, la Chiesa Luterana di San Pietro e San Paolo, la biblioteca nazionale russa, il Teatro Aleksandrinskij la statua di Caterina la Grande, la Cattedrale di Kazan', il palazzo Stroganov, il palazzo Aničkov e il palazzo Beloselskij-Belozerskij sono tutti situati lungo quel viale...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.343128,
+                    59.93472
+                ]
+            },
+            "properties": {
+                "entity": "Museo Fabergé",
+                "name_location": "Museo Fabergé, набережная реки Фонтанки, Дворцовый округ, San Pietroburgo, Северо-Западный федеральный округ, 191002, Russia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...In città si trovano ormeggiate due navi storiche oggi trasformate in musei l'incrociatore Aurora e il rompighiaccio Krasin nonché il Museo Fabergé...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.34515,
+                    59.930321
+                ]
+            },
+            "properties": {
+                "entity": "Malyj dramatičeskij Teatr",
+                "name_location": "Академический Малый драматический театр – Театр Европы, 18/5, улица Рубинштейна, Владимирский округ, San Pietroburgo, Северо-Западный федеральный округ, 191002, Russia",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...I più importanti teatri di prosa sono il Teatro Aleksandrinskij e il Malyj dramatičeskij Teatr...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.248689,
+                    59.885419
+                ]
+            },
+            "properties": {
+                "entity": "Officine Kirov",
+                "name_location": "Officine Kirov, улица Зои Космодемьянской, Нарвский округ, San Pietroburgo, Северо-Западный федеральный округ, 198099, Russia",
+                "class": "man_made",
+                "type": "works",
+                "snippet": [
+                    "*...Le principali industrie locali sono il cantiere navale del Baltico, la Lomo, le Officine Kirov e l'Ėlektrosila....",
+                    "*...Il principale Teatro dell'opera di San Pietroburgo è il famoso Teatro Mariinskij, chiamato \"Kirov\" in età sovietica...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.314778,
+                    59.881665
+                ]
+            },
+            "properties": {
+                "entity": "Ėlektrosila",
+                "name_location": "О’Кей, ВСР, Ближняя Рогатка, округ Московская застава, San Pietroburgo, Северо-Западный федеральный округ, 196128, Russia",
+                "class": "shop",
+                "type": "supermarket",
+                "snippet": [
+                    "*...Le principali industrie locali sono il cantiere navale del Baltico, la Lomo, le Officine Kirov e l'Ėlektrosila...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.327351,
+                    59.942373
+                ]
+            },
+            "properties": {
+                "entity": "Sovkomflot",
+                "name_location": "Совкомфлот, набережная реки Мойки, Дворцовый округ, San Pietroburgo, Северо-Западный федеральный округ, 191041, Russia",
+                "class": "office",
+                "type": "logistics",
+                "snippet": [
+                    "*...A San Pietroburgo ha sede anche la Sovkomflot, la compagnia marittima statale adibita al trasporto di petrolio e GNL...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.33218,
+                    59.933102
+                ]
+            },
+            "properties": {
+                "entity": "Bolshoi",
+                "name_location": "Большой Гостиный Двор, 35, Невский проспект, Апраксин двор, округ № 78, San Pietroburgo, Северо-Западный федеральный округ, 191168, Russia",
+                "class": "shop",
+                "type": "department_store",
+                "snippet": [
+                    "*...Il porto di Bolshoi, il porto di Kronštadt e di Lomonosov...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.235701,
+                    59.925929
+                ]
+            },
+            "properties": {
+                "entity": "Morskoy Vokzal",
+                "name_location": "Морской Вокзал, 1, площадь Морской Славы, Гавань, округ Гавань, San Pietroburgo, Северо-Западный федеральный округ, 199106, Russia",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...Le navi da crociera internazionali sono servite al porto passeggeri di Morskoy Vokzal a sud-ovest dell'isola Vasil'evskij...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.366834,
+                    59.93999
+                ]
+            },
+            "properties": {
+                "entity": "Baltika",
+                "name_location": "Балтика, 15, Виленский переулок, Пески, округ Смольнинское, San Pietroburgo, Северо-Западный федеральный округ, 191014, Russia",
+                "class": "amenity",
+                "type": "bank",
+                "snippet": [
+                    "...Essa è conosciuta come la \"capitale della birra\" della Russia, a causa dell'offerta e della qualità delle acque locali, contribuendo per oltre il 30% della produzione nazionale di birra con le sue cinque fabbriche, tra cui la seconda più grande fabbrica di birra d'Europa, la Baltika...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.344624,
+                    59.934142
+                ]
+            },
+            "properties": {
+                "entity": "Scandinavia",
+                "name_location": "Scandinavia, 38, набережная реки Фонтанки, Литейный округ, San Pietroburgo, Северо-Западный федеральный округ, 191022, Russia",
+                "class": "office",
+                "type": "construction_company",
+                "snippet": [
+                    "*...San Pietroburgo è un importante corridoio di trasporto che collega la Scandinavia alla Russia ed Europa dell'Est...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.329359,
+                    59.946389
+                ]
+            },
+            "properties": {
+                "entity": "E20",
+                "name_location": "Троицкий мост, Дворцовый округ, San Pietroburgo, Северо-Западный федеральный округ, 191186, Russia",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...La città è un nodo delle rotte europee internazionali E18 verso Helsinki, E20 verso Tallinn, E95 verso Pskov, Kiev e Odessa ed E105 verso Petrozavodsk, Murmansk e Kirkenes (a nord) e verso Mosca e Charkiv (sud)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.329359,
+                    59.946389
+                ]
+            },
+            "properties": {
+                "entity": "E95",
+                "name_location": "Троицкий мост, Дворцовый округ, San Pietroburgo, Северо-Западный федеральный округ, 191186, Russia",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...La città è un nodo delle rotte europee internazionali E18 verso Helsinki, E20 verso Tallinn, E95 verso Pskov, Kiev e Odessa ed E105 verso Petrozavodsk, Murmansk e Kirkenes (a nord) e verso Mosca e Charkiv (sud)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.068837,
+                    59.859179
+                ]
+            },
+            "properties": {
+                "entity": "Pskov",
+                "name_location": "Коттедж Псков, 6 с11, улица Глинки, Сергиевская слобода, Стрельна, San Pietroburgo, Северо-Западный федеральный округ, 198218, Russia",
+                "class": "building",
+                "type": "hotel",
+                "snippet": [
+                    "*...La città è un nodo delle rotte europee internazionali E18 verso Helsinki, E20 verso Tallinn, E95 verso Pskov, Kiev e Odessa ed E105 verso Petrozavodsk, Murmansk e Kirkenes (a nord) e verso Mosca e Charkiv (sud)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.399239,
+                    59.717754
+                ]
+            },
+            "properties": {
+                "entity": "Odessa",
+                "name_location": "Одесса, Средняя улица, Puškin, San Pietroburgo, Северо-Западный федеральный округ, 196601, Russia",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...La città è un nodo delle rotte europee internazionali E18 verso Helsinki, E20 verso Tallinn, E95 verso Pskov, Kiev e Odessa ed E105 verso Petrozavodsk, Murmansk e Kirkenes (a nord) e verso Mosca e Charkiv (sud)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.329359,
+                    59.946389
+                ]
+            },
+            "properties": {
+                "entity": "E105",
+                "name_location": "Троицкий мост, Дворцовый округ, San Pietroburgo, Северо-Западный федеральный округ, 191186, Russia",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...La città è un nodo delle rotte europee internazionali E18 verso Helsinki, E20 verso Tallinn, E95 verso Pskov, Kiev e Odessa ed E105 verso Petrozavodsk, Murmansk e Kirkenes (a nord) e verso Mosca e Charkiv (sud)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.486862,
+                    59.948143
+                ]
+            },
+            "properties": {
+                "entity": "Murmansk",
+                "name_location": "Город-герой Мурманск, проспект Наставников, округ Пороховые, San Pietroburgo, Северо-Западный федеральный округ, 195030, Russia",
+                "class": "tourism",
+                "type": "artwork",
+                "snippet": [
+                    "*...La città è un nodo delle rotte europee internazionali E18 verso Helsinki, E20 verso Tallinn, E95 verso Pskov, Kiev e Odessa ed E105 verso Petrozavodsk, Murmansk e Kirkenes (a nord) e verso Mosca e Charkiv (sud)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.364855,
+                    59.944625
+                ]
+            },
+            "properties": {
+                "entity": "Germania",
+                "name_location": "Генеральное консульство Федеративной Республики Германия, 39, Фурштатская улица, округ Смольнинское, San Pietroburgo, Северо-Западный федеральный округ, 191123, Russia",
+                "class": "office",
+                "type": "diplomatic",
+                "snippet": [
+                    "...Tra gli altri parchi degni di nota vi sono il Parco della Vittoria marittima sull'isola Krestovskij e il Parco della Vittoria nel sud, realizzato per commemorare la vittoria sulla Germania nazista durante la seconda guerra mondiale....",
+                    "*...San Pietroburgo gode di collegamenti ferroviari internazionali verso Helsinki in Finlandia, Berlino in Germania e in tutte le ex repubbliche dell'URSS...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.184488,
+                    59.944026
+                ]
+            },
+            "properties": {
+                "entity": "Terminal 1",
+                "name_location": "Морской фасад №1, морской пассажирский порт, 18 с1, проспект Крузенштерна, Морской, округ Морской, San Pietroburgo, Северо-Западный федеральный округ, 199225, Russia",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...Tuttavia, poiché si prevede che entro il 2025 l'Aeroporto Pulkovo gestirà circa 17 milioni di passeggeri all'anno, sono stati avanzati dei piani per costruire una nuova estensione direttamente a nord del Terminal 1 (nazionale)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.217761,
+                    59.998839
+                ]
+            },
+            "properties": {
+                "entity": "Asia",
+                "name_location": "Asia, 24 к2, Яхтенная улица, Северо-Приморская часть, округ № 65, San Pietroburgo, Северо-Западный федеральный округ, 197345, Russia",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...L'Aeroporto vanta dei collegamenti aerei con Europa, Medio Oriente ed Asia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.320658,
+                    59.93629
+                ]
+            },
+            "properties": {
+                "entity": "Zenit Arena",
+                "name_location": "Зенит-Арена, Невский проспект, Дворцовый округ, San Pietroburgo, Северо-Западный федеральный округ, 191186, Russia",
+                "class": "shop",
+                "type": "sports",
+                "snippet": [
+                    "*...È sede dell'FC Zenit San Pietroburgo e del Dinamo San Pietroburgo, società di calcio rispettivamente con gli stadi Zenit Arena e Stadio Petrovskij, mentre la principale squadra di hockey su ghiaccio è lo SKA San Pietroburgo...."
+                ]
+            }
+        }
+    ]
+}

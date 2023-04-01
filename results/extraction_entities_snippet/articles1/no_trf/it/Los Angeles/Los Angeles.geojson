@@ -1,0 +1,1288 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.462465,
+                    34.818351
+                ]
+            },
+            "properties": {
+                "entity": "L.A.",
+                "name_location": "A, Los Angeles County, California, Stati Uniti d'America",
+                "class": "highway",
+                "type": "unclassified",
+                "snippet": [
+                    "*..., abbreviato in L.A., è una città degli Stati Uniti  capoluogo dell'omonima contea nello Stato della California...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.898451,
+                    34.014393
+                ]
+            },
+            "properties": {
+                "entity": "New York",
+                "name_location": "New York, West Covina, Los Angeles County, California, 91792, Stati Uniti d'America",
+                "class": "highway",
+                "type": "service",
+                "snippet": [
+                    "*...Con 4 041 707 abitanti nel 2020, è la città più grande dello stato della California, degli Stati Uniti occidentali e la seconda più popolosa del Paese dopo New York....",
+                    "*...Abitanti censiti (in migliaia)\nLos Angeles è la seconda città degli Stati Uniti per popolazione dopo New York....",
+                    "*...La municipalità di Los Angeles costituisce, assieme a numerosi altri centri delle contee di Los Angeles e Orange una vastissima area urbana che con oltre 13 milioni di abitanti è la seconda degli Stati Uniti dopo quella di New York e tra le prime del mondo....",
+                    "*...Come a New York, a Chicago, a Filadelfia o a San Francisco, la comunità italoamericana è numerosa, anche se percentualmente inferiore (2,8%)....",
+                    "*...Nonostante l'eccezionale estensione territoriale e demografica, Los Angeles possiede una metropolitana piccola (con solo 6 linee) e quindi molto lontana dai numeri di New York o Chicago, questo dovuto, soprattutto in passato, a una cultura massiccia e sproporzionata della mobilità privata, più che in altre città americane....",
+                    "*...Diversamente dalla città con più abitanti del paese, New York, Los Angeles e gran parte dei suoi sobborghi più importanti si trovano tutti all'interno dei confini di una sola contea...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.219339,
+                    34.026792
+                ]
+            },
+            "properties": {
+                "entity": "Pacifico",
+                "name_location": "Puertos Del Pacifico, 1240, South Soto Street, Los Angeles, Los Angeles County, California, 90023, Stati Uniti d'America",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...È da notare come il contrasto fra l'aria calda del vicino deserto del Mojave e quella più fredda del Pacifico diano luogo, specialmente tra la fine della primavera e l'inizio dell'estate, a delle nebbie fitte e a cielo coperto, soprattutto lungo la costa....",
+                    "*...Le attrazioni più note di Los Angeles sono, oltre alle lunghe spiagge del Pacifico, il quartiere di Hollywood, la Stahl house, i negozi di Rodeo Drive, il centro commerciale The Grove e le ville dei divi dello spettacolo a Beverly Hills, Bel Air e Malibù e i parchi tematici di Disneyland (che in realtà si trova nella città di Anaheim nella confinante Contea di Orange), Universal Studios e Paramount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.230114,
+                    33.96553
+                ]
+            },
+            "properties": {
+                "entity": "Santa Ana",
+                "name_location": "Santa Ana Street, Walnut Park, South Gate, Los Angeles County, California, 90201, Stati Uniti d'America",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Di solito durante l'autunno e i primi giorni invernali la città gode di un clima secco e caldo grazie ai venti di Santa Ana, che hanno origine nell'entroterra della California meridionale e che spesso provocano grandi incendi boschivi...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.171679,
+                    34.08729
+                ]
+            },
+            "properties": {
+                "entity": "Portolá",
+                "name_location": "Portola Avenue, El Sereno, Los Angeles, Los Angeles County, California, 90032, Stati Uniti d'America",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "...Nel 1769, l'esploratore catalano Gaspar de Portolá guidò una spedizione nella California meridionale assieme ai francescani Junípero Serra e Juan Crespi....",
+                    "*...Portolá chiamò un fiume, che avevano scoperto il 31 luglio, El Río de Nuestra Señora la Reina de los Ángeles de Porciúncula in onore dell’importante festività francescana del Perdono di Assisi che si sarebbe celebrata l’indomani 1º agosto...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.522163,
+                    34.162195
+                ]
+            },
+            "properties": {
+                "entity": "Crespi",
+                "name_location": "Crespi Carmelite High School, Alonzo Avenue, Tarzana, Los Angeles, Los Angeles County, California, 91316, Stati Uniti d'America",
+                "class": "amenity",
+                "type": "school",
+                "snippet": [
+                    "...Nel 1769, l'esploratore catalano Gaspar de Portolá guidò una spedizione nella California meridionale assieme ai francescani Junípero Serra e Juan Crespi....",
+                    "*...Lungo il fiume, fratel Crespi aveva notato un luogo adatto per costruire una missione, ma nel 1771 fratel Serra ne fondò una a Whittier Narrows....",
+                    "...Il 4 settembre 1781, 45 coloni messicani uscirono dalla missione di San Gabriel per fondare un nuovo insediamento nel sito vicino al fiume che era stato individuato da fratel Crespi...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.340893,
+                    34.107213
+                ]
+            },
+            "properties": {
+                "entity": "Serra",
+                "name_location": "Paseo del Serra, Whitley Heights Historic District, Hollywood, Los Angeles, Los Angeles County, California, 90028, Stati Uniti d'America",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "...Nel 1769, l'esploratore catalano Gaspar de Portolá guidò una spedizione nella California meridionale assieme ai francescani Junípero Serra e Juan Crespi....",
+                    "*...Lungo il fiume, fratel Crespi aveva notato un luogo adatto per costruire una missione, ma nel 1771 fratel Serra ne fondò una a Whittier Narrows...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.109774,
+                    34.091835
+                ]
+            },
+            "properties": {
+                "entity": "San Gabriel",
+                "name_location": "San Gabriel High School, Ramona Street, Alhambra, Los Angeles County, California, 91776, Stati Uniti d'America",
+                "class": "amenity",
+                "type": "school",
+                "snippet": [
+                    "*...Dopo un'inondazione nel 1776, la missione fu trasferita a San Gabriel....",
+                    "*...Il 4 settembre 1781, 45 coloni messicani uscirono dalla missione di San Gabriel per fondare un nuovo insediamento nel sito vicino al fiume che era stato individuato da fratel Crespi....",
+                    "...L'indipendenza del Messico dalla Spagna fu raggiunta nel 1821, ma un cambiamento ben maggiore avvenne nel 1847, quando, dopo la Battaglia del Rio San Gabriel nell'odierna Montebello e il conseguente trattato di Cahuenga (13 gennaio 1847), la California cadde sotto il controllo statunitense....",
+                    "*...Downtown, Eastside, South Los Angeles, South Bay/Harbor, Hollywood, Mid-City, Westside, valle di San Fernando e valle di San Gabriel...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.237825,
+                    34.057593
+                ]
+            },
+            "properties": {
+                "entity": "Olvera Street",
+                "name_location": "Olvera Street, El Pueblo, Chinatown, Los Angeles, Los Angeles County, California, 90012, Stati Uniti d'America",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Oggi i caratteri generali del Pueblo sono conservati in un piccolo quartiere storico, denominato anche Olvera Street....",
+                    "*...Enclavi etniche come Chinatown, Historic Filipinotown, Koreatown, Little Armenia, Little Ethiopia, Little Persia, Little Tokyo, Thai Town, Olvera Street testimoniano il carattere variegato della città...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.185086,
+                    34.008747
+                ]
+            },
+            "properties": {
+                "entity": "Montebello",
+                "name_location": "Montebello, East Washington Boulevard, Commerce, Los Angeles County, California, 90270, Stati Uniti d'America",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...L'indipendenza del Messico dalla Spagna fu raggiunta nel 1821, ma un cambiamento ben maggiore avvenne nel 1847, quando, dopo la Battaglia del Rio San Gabriel nell'odierna Montebello e il conseguente trattato di Cahuenga (13 gennaio 1847), la California cadde sotto il controllo statunitense...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.348668,
+                    34.12023
+                ]
+            },
+            "properties": {
+                "entity": "Mulholland Drive",
+                "name_location": "Mulholland Drive, Hollywood Hills, Los Angeles, Los Angeles County, California, 90068, Stati Uniti d'America",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Mulholland Drive, una delle strade più panoramiche di Los Angeles, prese il nome proprio da William Mulholland...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.254423,
+                    34.051063
+                ]
+            },
+            "properties": {
+                "entity": "U.S. Bank Tower",
+                "name_location": "U.S. Bank Tower, 633, Bunker Hill Steps, Bunker Hill, Downtown, Los Angeles, Los Angeles County, California, 90071, Stati Uniti d'America",
+                "class": "building",
+                "type": "tower",
+                "snippet": [
+                    "*...U.S. Bank Tower ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.340469,
+                    34.10269
+                ]
+            },
+            "properties": {
+                "entity": "Kodak Theatre",
+                "name_location": "Dolby Theatre, 6801, Hollywood Boulevard, Whitley Heights Historic District, Hollywood, Los Angeles, Los Angeles County, California, 90028, Stati Uniti d'America",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...Kodak Theatre ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.249913,
+                    34.055429
+                ]
+            },
+            "properties": {
+                "entity": "Walt Disney Concert Hall",
+                "name_location": "Walt Disney Concert Hall, West 2nd Street, Bunker Hill, Downtown, Los Angeles, Los Angeles County, California, 90071, Stati Uniti d'America",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...Walt Disney Concert Hall ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.240994,
+                    33.938705
+                ]
+            },
+            "properties": {
+                "entity": "Watts Towers",
+                "name_location": "Watts Towers, East 107th Street, Watts, Los Angeles, Los Angeles County, California, 90002, Stati Uniti d'America",
+                "class": "man_made",
+                "type": "tower",
+                "snippet": [
+                    "*...Watts Towers ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.326172,
+                    34.101635
+                ]
+            },
+            "properties": {
+                "entity": "Hollywood Boulevard",
+                "name_location": "Hollywood Boulevard, Whitley Heights Historic District, Hollywood, Los Angeles, Los Angeles County, California, 90028, Stati Uniti d'America",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Hollywood Boulevard ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.238556,
+                    34.056851
+                ]
+            },
+            "properties": {
+                "entity": "Los Ángeles Historical Monument",
+                "name_location": "El Pueblo de Los Angeles Historical Monument, Olvera Street, El Pueblo, Chinatown, Los Angeles, Los Angeles County, California, 90012, Stati Uniti d'America",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...El Pueblo de Los Ángeles Historical Monument ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.535755,
+                    34.043954
+                ]
+            },
+            "properties": {
+                "entity": "Miami",
+                "name_location": "West Miami Way, Pacific Palisades, Los Angeles, Los Angeles County, California, 90402, Stati Uniti d'America",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Negli Stati Uniti, solo Miami ha una maggiore percentuale di abitanti nati all'estero...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.421393,
+                    33.942168
+                ]
+            },
+            "properties": {
+                "entity": "LAX",
+                "name_location": "Los Angeles International Airport, Vista Del Mar, Los Angeles, Los Angeles County, California, 90293, Stati Uniti d'America",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "*...L'Aeroporto internazionale di Los Angeles (LAX) è la maggior porta d'ingresso nel paese per gli immigrati...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.448505,
+                    34.209576
+                ]
+            },
+            "properties": {
+                "entity": "guatemalteca",
+                "name_location": "Guatemalteca, Van Nuys Boulevard, Van Nuys Neighborhood Council District, Los Angeles, Los Angeles County, California, 91402, Stati Uniti d'America",
+                "class": "amenity",
+                "type": "cafe",
+                "snippet": [
+                    "*...La popolazione di origine ispanica (soprattutto messicana, guatemalteca, salvadoregna, honduregna e nicaragueense) aumenta in misura considerevole di anno in anno, al punto che ormai il 46,53% è di origine latina e la città è praticamente bilingue...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.236054,
+                    34.06346
+                ]
+            },
+            "properties": {
+                "entity": "Chinatown",
+                "name_location": "Chinatown, North Spring Street, Naud Junction, Chinatown, Los Angeles, Los Angeles County, California, 90086, Stati Uniti d'America",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "...Chinatown ;...",
+                    "*...Enclavi etniche come Chinatown, Historic Filipinotown, Koreatown, Little Armenia, Little Ethiopia, Little Persia, Little Tokyo, Thai Town, Olvera Street testimoniano il carattere variegato della città...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.240083,
+                    34.048879
+                ]
+            },
+            "properties": {
+                "entity": "Little Tokyo",
+                "name_location": "Little Tokyo, Japanese Village Plaza, Little Tokyo Historic District, Downtown, Los Angeles, Los Angeles County, California, 90013, Stati Uniti d'America",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Enclavi etniche come Chinatown, Historic Filipinotown, Koreatown, Little Armenia, Little Ethiopia, Little Persia, Little Tokyo, Thai Town, Olvera Street testimoniano il carattere variegato della città...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.214668,
+                    34.041015
+                ]
+            },
+            "properties": {
+                "entity": "Chicago",
+                "name_location": "South Chicago Street, Brooklyn Heights, Boyle Heights, Los Angeles, Los Angeles County, California, 90023, Stati Uniti d'America",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Come a New York, a Chicago, a Filadelfia o a San Francisco, la comunità italoamericana è numerosa, anche se percentualmente inferiore (2,8%)....",
+                    "*...Nonostante l'eccezionale estensione territoriale e demografica, Los Angeles possiede una metropolitana piccola (con solo 6 linee) e quindi molto lontana dai numeri di New York o Chicago, questo dovuto, soprattutto in passato, a una cultura massiccia e sproporzionata della mobilità privata, più che in altre città americane...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.259411,
+                    34.043362
+                ]
+            },
+            "properties": {
+                "entity": "San Francisco",
+                "name_location": "Federal Reserve Bank of San Francisco Los Angeles Branch, South Grand Avenue, Financial District, Downtown, Los Angeles, Los Angeles County, California, 90015, Stati Uniti d'America",
+                "class": "building",
+                "type": "commercial",
+                "snippet": [
+                    "*...Come a New York, a Chicago, a Filadelfia o a San Francisco, la comunità italoamericana è numerosa, anche se percentualmente inferiore (2,8%)....",
+                    "*...I processi di competenza statale sono impugnabili davanti alla Corte d'appello per il secondo distretto, che si trova sempre nel Civic Center e, in ultimo grado, alla Corte suprema della California, che ha sede a San Francisco, ma tiene udienza anche a Los Angeles (sempre nel Civic Center)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.320558,
+                    34.003934
+                ]
+            },
+            "properties": {
+                "entity": "Greater Los Angeles",
+                "name_location": "YWCA Greater Los Angeles, 2501, West Vernon Avenue, Los Angeles, Los Angeles County, California, 90008, Stati Uniti d'America",
+                "class": "amenity",
+                "type": "community_centre",
+                "snippet": [
+                    "*...Greater Los Angeles include una serie di enclavi e comunità vicine...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.242713,
+                    34.050503
+                ]
+            },
+            "properties": {
+                "entity": "Downtown Los Angeles",
+                "name_location": "DoubleTree by Hilton Hotel Los Angeles Downtown, 120, South Los Angeles Street, Little Tokyo Historic District, Downtown, Los Angeles, Los Angeles County, California, 90012, Stati Uniti d'America",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...Downtown Los Angeles, East Los Angeles e Nord-est Los Angeles, South Los Angeles, la zona del porto, Greater Hollywood, West Hollywood, Wilshire, il Westside, la valle di San Fernando e Valli Crescenta...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.184373,
+                    34.02316
+                ]
+            },
+            "properties": {
+                "entity": "East Los Angeles",
+                "name_location": "East Los Angeles Doctors Hospital, 4060, Whittier Boulevard, East Los Angeles, Los Angeles County, California, 90023, Stati Uniti d'America",
+                "class": "amenity",
+                "type": "hospital",
+                "snippet": [
+                    "*...Downtown Los Angeles, East Los Angeles e Nord-est Los Angeles, South Los Angeles, la zona del porto, Greater Hollywood, West Hollywood, Wilshire, il Westside, la valle di San Fernando e Valli Crescenta...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.243408,
+                    34.050208
+                ]
+            },
+            "properties": {
+                "entity": "South Los Angeles",
+                "name_location": "South Los Angeles Street, Little Tokyo Historic District, Downtown, Los Angeles, Los Angeles County, California, 90013, Stati Uniti d'America",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Downtown Los Angeles, East Los Angeles e Nord-est Los Angeles, South Los Angeles, la zona del porto, Greater Hollywood, West Hollywood, Wilshire, il Westside, la valle di San Fernando e Valli Crescenta....",
+                    "*...Downtown, Eastside, South Los Angeles, South Bay/Harbor, Hollywood, Mid-City, Westside, valle di San Fernando e valle di San Gabriel...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.280837,
+                    34.102803
+                ]
+            },
+            "properties": {
+                "entity": "West Hollywood",
+                "name_location": "Prospect Studios, 4151, Talmadge Street, Los Feliz, Los Angeles, Los Angeles County, California, 90227, Stati Uniti d'America",
+                "class": "amenity",
+                "type": "studio",
+                "snippet": [
+                    "*...Downtown Los Angeles, East Los Angeles e Nord-est Los Angeles, South Los Angeles, la zona del porto, Greater Hollywood, West Hollywood, Wilshire, il Westside, la valle di San Fernando e Valli Crescenta....",
+                    "*...All'interno e sui confini di Los Angeles si trovano molte municipalità autonome (come Long Beach, Santa Monica, West Hollywood, Pasadena, Beverly Hills, Malibù), che il pubblico comunque associa alla metropoli, in quanto fanno parte dell'agglomerato urbano e sono incluse nella Contea di Los Angeles....",
+                    "*...Il Dipartimento dello sceriffo provvede al servizio di polizia per le unincorporated areas e per alcune municipalità della contea (come Calabasas, Temple City, West Hollywood e Compton) che, prive di un dipartimento di polizia cittadino, hanno stipulato un'apposita convenzione con l'ufficio dello sceriffo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.259297,
+                    34.050778
+                ]
+            },
+            "properties": {
+                "entity": "Wilshire",
+                "name_location": "Figueroa at Wilshire, West 6th Street, Financial District, Downtown, Los Angeles, Los Angeles County, California, 90071, Stati Uniti d'America",
+                "class": "building",
+                "type": "commercial",
+                "snippet": [
+                    "*...Downtown Los Angeles, East Los Angeles e Nord-est Los Angeles, South Los Angeles, la zona del porto, Greater Hollywood, West Hollywood, Wilshire, il Westside, la valle di San Fernando e Valli Crescenta...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.411396,
+                    34.005347
+                ]
+            },
+            "properties": {
+                "entity": "Westside",
+                "name_location": "Westside, Sepulveda Boulevard, Culver City, Los Angeles County, California, 90066, Stati Uniti d'America",
+                "class": "shop",
+                "type": "car_repair",
+                "snippet": [
+                    "*...Downtown Los Angeles, East Los Angeles e Nord-est Los Angeles, South Los Angeles, la zona del porto, Greater Hollywood, West Hollywood, Wilshire, il Westside, la valle di San Fernando e Valli Crescenta....",
+                    "...Downtown, Eastside, South Los Angeles, South Bay/Harbor, Hollywood, Mid-City, Westside, valle di San Fernando e valle di San Gabriel...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.355919,
+                    34.0325
+                ]
+            },
+            "properties": {
+                "entity": "West Adams",
+                "name_location": "West Adams Boulevard, West Adams, Los Angeles, Los Angeles County, California, 90016, Stati Uniti d'America",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Alcune note comunità all'interno di Los Angeles includono West Adams, Watts, Leimert Park, Baldwin Hills, Crenshaw, Venice, il distretto finanziario, Silver Lake, Hollywood, Koreatown, Westwood e le aree più ricche di Bel Air, Benedict Canyon, Hollywood Hills, Los Feliz, Hancock Park, Calabasas, Pacific Palisades, Beverly Hills, Holmby Hills, Century City, Brentwood, Toluca Lake, Studio City e Laurel Canyon...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.305447,
+                    34.061794
+                ]
+            },
+            "properties": {
+                "entity": "Koreatown",
+                "name_location": "Koreatown, Wilshire Boulevard, Koreatown, Los Angeles, Los Angeles County, California, 90010, Stati Uniti d'America",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...Enclavi etniche come Chinatown, Historic Filipinotown, Koreatown, Little Armenia, Little Ethiopia, Little Persia, Little Tokyo, Thai Town, Olvera Street testimoniano il carattere variegato della città....",
+                    "*...Alcune note comunità all'interno di Los Angeles includono West Adams, Watts, Leimert Park, Baldwin Hills, Crenshaw, Venice, il distretto finanziario, Silver Lake, Hollywood, Koreatown, Westwood e le aree più ricche di Bel Air, Benedict Canyon, Hollywood Hills, Los Feliz, Hancock Park, Calabasas, Pacific Palisades, Beverly Hills, Holmby Hills, Century City, Brentwood, Toluca Lake, Studio City e Laurel Canyon....",
+                    "*...Diverse zone molto note della città sono Venice Beach, il Downtown financial district, Los Feliz, Silver Lake, Van Nuys, Hollywood, Hancock Park, Koreatown e i distretti (caratterizzati da un reddito pro capite particolarmente elevato) di Bel Air, Westwood, Brentwood e la famosissima Beverly Hills...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.424579,
+                    34.036818
+                ]
+            },
+            "properties": {
+                "entity": "Westwood",
+                "name_location": "Westwood/Rancho Park, Exposition Boulevard, Rancho Park, Palms, Los Angeles, Los Angeles County, California, 90067, Stati Uniti d'America",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...Alcune note comunità all'interno di Los Angeles includono West Adams, Watts, Leimert Park, Baldwin Hills, Crenshaw, Venice, il distretto finanziario, Silver Lake, Hollywood, Koreatown, Westwood e le aree più ricche di Bel Air, Benedict Canyon, Hollywood Hills, Los Feliz, Hancock Park, Calabasas, Pacific Palisades, Beverly Hills, Holmby Hills, Century City, Brentwood, Toluca Lake, Studio City e Laurel Canyon....",
+                    "*...Diverse zone molto note della città sono Venice Beach, il Downtown financial district, Los Feliz, Silver Lake, Van Nuys, Hollywood, Hancock Park, Koreatown e i distretti (caratterizzati da un reddito pro capite particolarmente elevato) di Bel Air, Westwood, Brentwood e la famosissima Beverly Hills...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.435471,
+                    34.080956
+                ]
+            },
+            "properties": {
+                "entity": "Bel Air",
+                "name_location": "Bel Air Road, Los Angeles, Los Angeles County, California, 90095, Stati Uniti d'America",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Alcune note comunità all'interno di Los Angeles includono West Adams, Watts, Leimert Park, Baldwin Hills, Crenshaw, Venice, il distretto finanziario, Silver Lake, Hollywood, Koreatown, Westwood e le aree più ricche di Bel Air, Benedict Canyon, Hollywood Hills, Los Feliz, Hancock Park, Calabasas, Pacific Palisades, Beverly Hills, Holmby Hills, Century City, Brentwood, Toluca Lake, Studio City e Laurel Canyon....",
+                    "*...Diverse zone molto note della città sono Venice Beach, il Downtown financial district, Los Feliz, Silver Lake, Van Nuys, Hollywood, Hancock Park, Koreatown e i distretti (caratterizzati da un reddito pro capite particolarmente elevato) di Bel Air, Westwood, Brentwood e la famosissima Beverly Hills....",
+                    "*...Le attrazioni più note di Los Angeles sono, oltre alle lunghe spiagge del Pacifico, il quartiere di Hollywood, la Stahl house, i negozi di Rodeo Drive, il centro commerciale The Grove e le ville dei divi dello spettacolo a Beverly Hills, Bel Air e Malibù e i parchi tematici di Disneyland (che in realtà si trova nella città di Anaheim nella confinante Contea di Orange), Universal Studios e Paramount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.323688,
+                    34.10537
+                ]
+            },
+            "properties": {
+                "entity": "Hollywood Hills",
+                "name_location": "Best Western Plus Hollywood Hills Hotel, 6141, Franklin Avenue, Hollywood, Los Angeles, Los Angeles County, California, 90028, Stati Uniti d'America",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...Alcune note comunità all'interno di Los Angeles includono West Adams, Watts, Leimert Park, Baldwin Hills, Crenshaw, Venice, il distretto finanziario, Silver Lake, Hollywood, Koreatown, Westwood e le aree più ricche di Bel Air, Benedict Canyon, Hollywood Hills, Los Feliz, Hancock Park, Calabasas, Pacific Palisades, Beverly Hills, Holmby Hills, Century City, Brentwood, Toluca Lake, Studio City e Laurel Canyon...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.710475,
+                    34.139357
+                ]
+            },
+            "properties": {
+                "entity": "Calabasas",
+                "name_location": "Alcatel-Lucent USA inc, Calabasas, CA, 26801, Agoura Road, Calabasas, Los Angeles County, California, 91301, Stati Uniti d'America",
+                "class": "building",
+                "type": "industrial",
+                "snippet": [
+                    "*...Alcune note comunità all'interno di Los Angeles includono West Adams, Watts, Leimert Park, Baldwin Hills, Crenshaw, Venice, il distretto finanziario, Silver Lake, Hollywood, Koreatown, Westwood e le aree più ricche di Bel Air, Benedict Canyon, Hollywood Hills, Los Feliz, Hancock Park, Calabasas, Pacific Palisades, Beverly Hills, Holmby Hills, Century City, Brentwood, Toluca Lake, Studio City e Laurel Canyon....",
+                    "*...Alcune grosse compagnie con sede in altri centri della contea di Los Angeles sono la Shakey's Pizza (ad Alhambra), l'Academy of Motion Picture Arts and Sciences (a Beverly Hills), la City National Bank (a Beverly Hills), la Hilton Hotels (a Beverly Hills), la DiC Entertainment (a Burbank), La Walt Disney Company (altra società dell'elenco Fortune 500 - a Burbank), la Warner Brothers (sempre Burbank), la Countrywide Financial Corporation (nell'elenco Fortune 500 -a Calabasas), la THQ (a Calabasas), la Belkin (a Compton), la National Public Radio West (a Culver City), la Sony Pictures Entertainment (società madre della Columbia Pictures, a Culver City), la Computer Sciences Corporation (nell'elenco Fortune 500 - a El Segundo), la DirecTV (a El Segundo), la Mattel (nell'elenco Fortune 500 - a El Segundo), la Unocal (nell'elenco Fortune 500 - a El Segundo), la DreamWorks SKG (a Glendale), la Sea Launch (a Long Beach), la ICANN (a Marina Del Rey), la Cunard Line (a Santa Clarita), la Princess Cruises (a Santa Clarita), la Activision (a Santa Monica) e la RAND (sempre a Santa Monica)....",
+                    "*...Il Dipartimento dello sceriffo provvede al servizio di polizia per le unincorporated areas e per alcune municipalità della contea (come Calabasas, Temple City, West Hollywood e Compton) che, prive di un dipartimento di polizia cittadino, hanno stipulato un'apposita convenzione con l'ufficio dello sceriffo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.277187,
+                    33.98756
+                ]
+            },
+            "properties": {
+                "entity": "Brentwood",
+                "name_location": "Brentwood Street, South Park, Los Angeles, Los Angeles County, California, 90003, Stati Uniti d'America",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Alcune note comunità all'interno di Los Angeles includono West Adams, Watts, Leimert Park, Baldwin Hills, Crenshaw, Venice, il distretto finanziario, Silver Lake, Hollywood, Koreatown, Westwood e le aree più ricche di Bel Air, Benedict Canyon, Hollywood Hills, Los Feliz, Hancock Park, Calabasas, Pacific Palisades, Beverly Hills, Holmby Hills, Century City, Brentwood, Toluca Lake, Studio City e Laurel Canyon....",
+                    "*...Diverse zone molto note della città sono Venice Beach, il Downtown financial district, Los Feliz, Silver Lake, Van Nuys, Hollywood, Hancock Park, Koreatown e i distretti (caratterizzati da un reddito pro capite particolarmente elevato) di Bel Air, Westwood, Brentwood e la famosissima Beverly Hills...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.34358,
+                    34.147874
+                ]
+            },
+            "properties": {
+                "entity": "Toluca Lake",
+                "name_location": "West Toluca Lake Lane, Burbank, Los Angeles County, California, 91522, Stati Uniti d'America",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Alcune note comunità all'interno di Los Angeles includono West Adams, Watts, Leimert Park, Baldwin Hills, Crenshaw, Venice, il distretto finanziario, Silver Lake, Hollywood, Koreatown, Westwood e le aree più ricche di Bel Air, Benedict Canyon, Hollywood Hills, Los Feliz, Hancock Park, Calabasas, Pacific Palisades, Beverly Hills, Holmby Hills, Century City, Brentwood, Toluca Lake, Studio City e Laurel Canyon...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.390963,
+                    34.022971
+                ]
+            },
+            "properties": {
+                "entity": "Studio City",
+                "name_location": "The Culver Studios, Van Buren Place, Downtown Culver City, Culver City, Los Angeles County, California, 90232, Stati Uniti d'America",
+                "class": "amenity",
+                "type": "studio",
+                "snippet": [
+                    "*...Alcune note comunità all'interno di Los Angeles includono West Adams, Watts, Leimert Park, Baldwin Hills, Crenshaw, Venice, il distretto finanziario, Silver Lake, Hollywood, Koreatown, Westwood e le aree più ricche di Bel Air, Benedict Canyon, Hollywood Hills, Los Feliz, Hancock Park, Calabasas, Pacific Palisades, Beverly Hills, Holmby Hills, Century City, Brentwood, Toluca Lake, Studio City e Laurel Canyon...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.494843,
+                    34.012866
+                ]
+            },
+            "properties": {
+                "entity": "Santa Monica",
+                "name_location": "Santa Monica, CA -Santa Monica Pier (SMN), 2nd Street, Santa Monica, Los Angeles County, California, 90401, Stati Uniti d'America",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...All'interno e sui confini di Los Angeles si trovano molte municipalità autonome (come Long Beach, Santa Monica, West Hollywood, Pasadena, Beverly Hills, Malibù), che il pubblico comunque associa alla metropoli, in quanto fanno parte dell'agglomerato urbano e sono incluse nella Contea di Los Angeles....",
+                    "*...Alcune grosse compagnie con sede in altri centri della contea di Los Angeles sono la Shakey's Pizza (ad Alhambra), l'Academy of Motion Picture Arts and Sciences (a Beverly Hills), la City National Bank (a Beverly Hills), la Hilton Hotels (a Beverly Hills), la DiC Entertainment (a Burbank), La Walt Disney Company (altra società dell'elenco Fortune 500 - a Burbank), la Warner Brothers (sempre Burbank), la Countrywide Financial Corporation (nell'elenco Fortune 500 -a Calabasas), la THQ (a Calabasas), la Belkin (a Compton), la National Public Radio West (a Culver City), la Sony Pictures Entertainment (società madre della Columbia Pictures, a Culver City), la Computer Sciences Corporation (nell'elenco Fortune 500 - a El Segundo), la DirecTV (a El Segundo), la Mattel (nell'elenco Fortune 500 - a El Segundo), la Unocal (nell'elenco Fortune 500 - a El Segundo), la DreamWorks SKG (a Glendale), la Sea Launch (a Long Beach), la ICANN (a Marina Del Rey), la Cunard Line (a Santa Clarita), la Princess Cruises (a Santa Clarita), la Activision (a Santa Monica) e la RAND (sempre a Santa Monica)....",
+                    "*...Il luna park posto sul molo di Santa Monica è uno dei ritrovi più frequentati e uno dei più grandi al mondo su palafitte...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.141278,
+                    34.14296
+                ]
+            },
+            "properties": {
+                "entity": "Pasadena",
+                "name_location": "Pasadena, CA - Hilton, Los Robles Avenue, Pasadena, Los Angeles County, California, 91101, Stati Uniti d'America",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...All'interno e sui confini di Los Angeles si trovano molte municipalità autonome (come Long Beach, Santa Monica, West Hollywood, Pasadena, Beverly Hills, Malibù), che il pubblico comunque associa alla metropoli, in quanto fanno parte dell'agglomerato urbano e sono incluse nella Contea di Los Angeles....",
+                    "*...Le cause federali sono appellate alla Corte d'appello del nono circuito, che li discute a Pasadena....",
+                    "*...Los Angeles ha ospitato due volte i Giochi olimpici dell'era moderna (X nel 1932, XXIII nel 1984) e nel 1994 è stata la principale sede dei Mondiali di calcio degli Stati Uniti ospitando otto incontri fra cui la finale del 3º posto e la finalissima (17 luglio) fra Brasile e Italia (allo stadio Rose Bowl di Pasadena)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.403509,
+                    34.072304
+                ]
+            },
+            "properties": {
+                "entity": "Beverly Hills",
+                "name_location": "Beverly Hills, Park Way, The Flats, Beverly Hills, Los Angeles County, California, 90212, Stati Uniti d'America",
+                "class": "amenity",
+                "type": "fountain",
+                "snippet": [
+                    "...Alcune note comunità all'interno di Los Angeles includono West Adams, Watts, Leimert Park, Baldwin Hills, Crenshaw, Venice, il distretto finanziario, Silver Lake, Hollywood, Koreatown, Westwood e le aree più ricche di Bel Air, Benedict Canyon, Hollywood Hills, Los Feliz, Hancock Park, Calabasas, Pacific Palisades, Beverly Hills, Holmby Hills, Century City, Brentwood, Toluca Lake, Studio City e Laurel Canyon....",
+                    "*...All'interno e sui confini di Los Angeles si trovano molte municipalità autonome (come Long Beach, Santa Monica, West Hollywood, Pasadena, Beverly Hills, Malibù), che il pubblico comunque associa alla metropoli, in quanto fanno parte dell'agglomerato urbano e sono incluse nella Contea di Los Angeles....",
+                    "*...Diverse zone molto note della città sono Venice Beach, il Downtown financial district, Los Feliz, Silver Lake, Van Nuys, Hollywood, Hancock Park, Koreatown e i distretti (caratterizzati da un reddito pro capite particolarmente elevato) di Bel Air, Westwood, Brentwood e la famosissima Beverly Hills....",
+                    "*...Alcune grosse compagnie con sede in altri centri della contea di Los Angeles sono la Shakey's Pizza (ad Alhambra), l'Academy of Motion Picture Arts and Sciences (a Beverly Hills), la City National Bank (a Beverly Hills), la Hilton Hotels (a Beverly Hills), la DiC Entertainment (a Burbank), La Walt Disney Company (altra società dell'elenco Fortune 500 - a Burbank), la Warner Brothers (sempre Burbank), la Countrywide Financial Corporation (nell'elenco Fortune 500 -a Calabasas), la THQ (a Calabasas), la Belkin (a Compton), la National Public Radio West (a Culver City), la Sony Pictures Entertainment (società madre della Columbia Pictures, a Culver City), la Computer Sciences Corporation (nell'elenco Fortune 500 - a El Segundo), la DirecTV (a El Segundo), la Mattel (nell'elenco Fortune 500 - a El Segundo), la Unocal (nell'elenco Fortune 500 - a El Segundo), la DreamWorks SKG (a Glendale), la Sea Launch (a Long Beach), la ICANN (a Marina Del Rey), la Cunard Line (a Santa Clarita), la Princess Cruises (a Santa Clarita), la Activision (a Santa Monica) e la RAND (sempre a Santa Monica)....",
+                    "*...Le attrazioni più note di Los Angeles sono, oltre alle lunghe spiagge del Pacifico, il quartiere di Hollywood, la Stahl house, i negozi di Rodeo Drive, il centro commerciale The Grove e le ville dei divi dello spettacolo a Beverly Hills, Bel Air e Malibù e i parchi tematici di Disneyland (che in realtà si trova nella città di Anaheim nella confinante Contea di Orange), Universal Studios e Paramount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.69977,
+                    34.077915
+                ]
+            },
+            "properties": {
+                "entity": "Malibù",
+                "name_location": "California Wildlife Center, Malibu, Piuma Ridge Trail (Backbone Trail), Crater Camp, Los Angeles County, California, 90263, Stati Uniti d'America",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...All'interno e sui confini di Los Angeles si trovano molte municipalità autonome (come Long Beach, Santa Monica, West Hollywood, Pasadena, Beverly Hills, Malibù), che il pubblico comunque associa alla metropoli, in quanto fanno parte dell'agglomerato urbano e sono incluse nella Contea di Los Angeles....",
+                    "*...Le attrazioni più note di Los Angeles sono, oltre alle lunghe spiagge del Pacifico, il quartiere di Hollywood, la Stahl house, i negozi di Rodeo Drive, il centro commerciale The Grove e le ville dei divi dello spettacolo a Beverly Hills, Bel Air e Malibù e i parchi tematici di Disneyland (che in realtà si trova nella città di Anaheim nella confinante Contea di Orange), Universal Studios e Paramount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.166611,
+                    34.03944
+                ]
+            },
+            "properties": {
+                "entity": "Eastside",
+                "name_location": "Eastside Boys Club, North McDonnell Avenue, Belvedere, East Los Angeles, Los Angeles County, California, 90022, Stati Uniti d'America",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...Downtown, Eastside, South Los Angeles, South Bay/Harbor, Hollywood, Mid-City, Westside, valle di San Fernando e valle di San Gabriel...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.350137,
+                    34.040615
+                ]
+            },
+            "properties": {
+                "entity": "Mid-City",
+                "name_location": "Mid City Complete Auto Center, 5054, West Washington Boulevard, West Adams, Los Angeles, Los Angeles County, California, 90016, Stati Uniti d'America",
+                "class": "shop",
+                "type": "car_repair",
+                "snippet": [
+                    "*...Downtown, Eastside, South Los Angeles, South Bay/Harbor, Hollywood, Mid-City, Westside, valle di San Fernando e valle di San Gabriel....",
+                    "*...L'amministrazione cittadina darebbe, in altre parole, la priorità ai problemi delle aree più densamente popolate, come Mid-City e Downtown, a discapito dei sobborghi;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.473952,
+                    33.986087
+                ]
+            },
+            "properties": {
+                "entity": "Venice Beach",
+                "name_location": "Venice Beach, Venice Beach Bike Path, Venice, Los Angeles, Los Angeles County, California, 90292, Stati Uniti d'America",
+                "class": "amenity",
+                "type": "police",
+                "snippet": [
+                    "*...Diverse zone molto note della città sono Venice Beach, il Downtown financial district, Los Feliz, Silver Lake, Van Nuys, Hollywood, Hancock Park, Koreatown e i distretti (caratterizzati da un reddito pro capite particolarmente elevato) di Bel Air, Westwood, Brentwood e la famosissima Beverly Hills....",
+                    "*...Da non dimenticare è il quartiere di Venice Beach, conosciuto non solo per i negozi affacciati sulla spiaggia, ma anche per un percorso di piste ciclabili e per i numerosi artisti di Strada....",
+                    "*...Venice (Los Angeles) ;...",
+                    "*...Alcune note comunità all'interno di Los Angeles includono West Adams, Watts, Leimert Park, Baldwin Hills, Crenshaw, Venice, il distretto finanziario, Silver Lake, Hollywood, Koreatown, Westwood e le aree più ricche di Bel Air, Benedict Canyon, Hollywood Hills, Los Feliz, Hancock Park, Calabasas, Pacific Palisades, Beverly Hills, Holmby Hills, Century City, Brentwood, Toluca Lake, Studio City e Laurel Canyon...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.604661,
+                    34.181093
+                ]
+            },
+            "properties": {
+                "entity": "Robinsons-May",
+                "name_location": "Robinsons May, Promenade Entrance, The Promenade, Warner Center, Los Angeles, Los Angeles County, California, 91367, Stati Uniti d'America",
+                "class": "shop",
+                "type": "vacant",
+                "snippet": [
+                    "*...Altre società di Los Angeles sono la Twentieth Century Fox, la Herbalife, la Univision, la Metro Interactive LLC, la Premier America, la CB Richard Ellis, la Gibson, Dunn & Crutcher LLP, la Guess, la O'Melveny & Myers LLP, la Paul, Hastings, Janofsky & Walker LLP, la Tokyopop, la The Jim Henson Company, la Paramount Pictures, la Robinsons-May, la Sunkist, Fox Sports Net, la Health Net Inc...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.149088,
+                    34.098619
+                ]
+            },
+            "properties": {
+                "entity": "Alhambra",
+                "name_location": "West Alhambra Road, Alhambra, Los Angeles County, California, 91030, Stati Uniti d'America",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Alcune grosse compagnie con sede in altri centri della contea di Los Angeles sono la Shakey's Pizza (ad Alhambra), l'Academy of Motion Picture Arts and Sciences (a Beverly Hills), la City National Bank (a Beverly Hills), la Hilton Hotels (a Beverly Hills), la DiC Entertainment (a Burbank), La Walt Disney Company (altra società dell'elenco Fortune 500 - a Burbank), la Warner Brothers (sempre Burbank), la Countrywide Financial Corporation (nell'elenco Fortune 500 -a Calabasas), la THQ (a Calabasas), la Belkin (a Compton), la National Public Radio West (a Culver City), la Sony Pictures Entertainment (società madre della Columbia Pictures, a Culver City), la Computer Sciences Corporation (nell'elenco Fortune 500 - a El Segundo), la DirecTV (a El Segundo), la Mattel (nell'elenco Fortune 500 - a El Segundo), la Unocal (nell'elenco Fortune 500 - a El Segundo), la DreamWorks SKG (a Glendale), la Sea Launch (a Long Beach), la ICANN (a Marina Del Rey), la Cunard Line (a Santa Clarita), la Princess Cruises (a Santa Clarita), la Activision (a Santa Monica) e la RAND (sempre a Santa Monica)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.361942,
+                    34.06266
+                ]
+            },
+            "properties": {
+                "entity": "City National Bank",
+                "name_location": "City National Bank, 1600, Wilshire Boulevard, Carthay, Los Angeles, Los Angeles County, California, 90048, Stati Uniti d'America",
+                "class": "building",
+                "type": "commercial",
+                "snippet": [
+                    "*...Alcune grosse compagnie con sede in altri centri della contea di Los Angeles sono la Shakey's Pizza (ad Alhambra), l'Academy of Motion Picture Arts and Sciences (a Beverly Hills), la City National Bank (a Beverly Hills), la Hilton Hotels (a Beverly Hills), la DiC Entertainment (a Burbank), La Walt Disney Company (altra società dell'elenco Fortune 500 - a Burbank), la Warner Brothers (sempre Burbank), la Countrywide Financial Corporation (nell'elenco Fortune 500 -a Calabasas), la THQ (a Calabasas), la Belkin (a Compton), la National Public Radio West (a Culver City), la Sony Pictures Entertainment (società madre della Columbia Pictures, a Culver City), la Computer Sciences Corporation (nell'elenco Fortune 500 - a El Segundo), la DirecTV (a El Segundo), la Mattel (nell'elenco Fortune 500 - a El Segundo), la Unocal (nell'elenco Fortune 500 - a El Segundo), la DreamWorks SKG (a Glendale), la Sea Launch (a Long Beach), la ICANN (a Marina Del Rey), la Cunard Line (a Santa Clarita), la Princess Cruises (a Santa Clarita), la Activision (a Santa Monica) e la RAND (sempre a Santa Monica)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.306793,
+                    34.182141
+                ]
+            },
+            "properties": {
+                "entity": "Burbank",
+                "name_location": "County Courts, Burbank, 3rd Street, Burbank, Los Angeles County, California, 91503, Stati Uniti d'America",
+                "class": "building",
+                "type": "public",
+                "snippet": [
+                    "*...Alcune grosse compagnie con sede in altri centri della contea di Los Angeles sono la Shakey's Pizza (ad Alhambra), l'Academy of Motion Picture Arts and Sciences (a Beverly Hills), la City National Bank (a Beverly Hills), la Hilton Hotels (a Beverly Hills), la DiC Entertainment (a Burbank), La Walt Disney Company (altra società dell'elenco Fortune 500 - a Burbank), la Warner Brothers (sempre Burbank), la Countrywide Financial Corporation (nell'elenco Fortune 500 -a Calabasas), la THQ (a Calabasas), la Belkin (a Compton), la National Public Radio West (a Culver City), la Sony Pictures Entertainment (società madre della Columbia Pictures, a Culver City), la Computer Sciences Corporation (nell'elenco Fortune 500 - a El Segundo), la DirecTV (a El Segundo), la Mattel (nell'elenco Fortune 500 - a El Segundo), la Unocal (nell'elenco Fortune 500 - a El Segundo), la DreamWorks SKG (a Glendale), la Sea Launch (a Long Beach), la ICANN (a Marina Del Rey), la Cunard Line (a Santa Clarita), la Princess Cruises (a Santa Clarita), la Activision (a Santa Monica) e la RAND (sempre a Santa Monica)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.224304,
+                    33.897926
+                ]
+            },
+            "properties": {
+                "entity": "Compton",
+                "name_location": "Compton, North Willowbrook Avenue, Compton, Los Angeles County, California, 90222, Stati Uniti d'America",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...Alcune grosse compagnie con sede in altri centri della contea di Los Angeles sono la Shakey's Pizza (ad Alhambra), l'Academy of Motion Picture Arts and Sciences (a Beverly Hills), la City National Bank (a Beverly Hills), la Hilton Hotels (a Beverly Hills), la DiC Entertainment (a Burbank), La Walt Disney Company (altra società dell'elenco Fortune 500 - a Burbank), la Warner Brothers (sempre Burbank), la Countrywide Financial Corporation (nell'elenco Fortune 500 -a Calabasas), la THQ (a Calabasas), la Belkin (a Compton), la National Public Radio West (a Culver City), la Sony Pictures Entertainment (società madre della Columbia Pictures, a Culver City), la Computer Sciences Corporation (nell'elenco Fortune 500 - a El Segundo), la DirecTV (a El Segundo), la Mattel (nell'elenco Fortune 500 - a El Segundo), la Unocal (nell'elenco Fortune 500 - a El Segundo), la DreamWorks SKG (a Glendale), la Sea Launch (a Long Beach), la ICANN (a Marina Del Rey), la Cunard Line (a Santa Clarita), la Princess Cruises (a Santa Clarita), la Activision (a Santa Monica) e la RAND (sempre a Santa Monica)....",
+                    "*...Il Dipartimento dello sceriffo provvede al servizio di polizia per le unincorporated areas e per alcune municipalità della contea (come Calabasas, Temple City, West Hollywood e Compton) che, prive di un dipartimento di polizia cittadino, hanno stipulato un'apposita convenzione con l'ufficio dello sceriffo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.388463,
+                    34.0278
+                ]
+            },
+            "properties": {
+                "entity": "Culver City",
+                "name_location": "Culver City, Washington Boulevard, Downtown Culver City, Culver City, Los Angeles County, California, 90034, Stati Uniti d'America",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Alcune grosse compagnie con sede in altri centri della contea di Los Angeles sono la Shakey's Pizza (ad Alhambra), l'Academy of Motion Picture Arts and Sciences (a Beverly Hills), la City National Bank (a Beverly Hills), la Hilton Hotels (a Beverly Hills), la DiC Entertainment (a Burbank), La Walt Disney Company (altra società dell'elenco Fortune 500 - a Burbank), la Warner Brothers (sempre Burbank), la Countrywide Financial Corporation (nell'elenco Fortune 500 -a Calabasas), la THQ (a Calabasas), la Belkin (a Compton), la National Public Radio West (a Culver City), la Sony Pictures Entertainment (società madre della Columbia Pictures, a Culver City), la Computer Sciences Corporation (nell'elenco Fortune 500 - a El Segundo), la DirecTV (a El Segundo), la Mattel (nell'elenco Fortune 500 - a El Segundo), la Unocal (nell'elenco Fortune 500 - a El Segundo), la DreamWorks SKG (a Glendale), la Sea Launch (a Long Beach), la ICANN (a Marina Del Rey), la Cunard Line (a Santa Clarita), la Princess Cruises (a Santa Clarita), la Activision (a Santa Monica) e la RAND (sempre a Santa Monica)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.387097,
+                    33.91656
+                ]
+            },
+            "properties": {
+                "entity": "El Segundo",
+                "name_location": "El Segundo, East El Segundo Boulevard, El Segundo, Los Angeles County, California, 90245, Stati Uniti d'America",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Alcune grosse compagnie con sede in altri centri della contea di Los Angeles sono la Shakey's Pizza (ad Alhambra), l'Academy of Motion Picture Arts and Sciences (a Beverly Hills), la City National Bank (a Beverly Hills), la Hilton Hotels (a Beverly Hills), la DiC Entertainment (a Burbank), La Walt Disney Company (altra società dell'elenco Fortune 500 - a Burbank), la Warner Brothers (sempre Burbank), la Countrywide Financial Corporation (nell'elenco Fortune 500 -a Calabasas), la THQ (a Calabasas), la Belkin (a Compton), la National Public Radio West (a Culver City), la Sony Pictures Entertainment (società madre della Columbia Pictures, a Culver City), la Computer Sciences Corporation (nell'elenco Fortune 500 - a El Segundo), la DirecTV (a El Segundo), la Mattel (nell'elenco Fortune 500 - a El Segundo), la Unocal (nell'elenco Fortune 500 - a El Segundo), la DreamWorks SKG (a Glendale), la Sea Launch (a Long Beach), la ICANN (a Marina Del Rey), la Cunard Line (a Santa Clarita), la Princess Cruises (a Santa Clarita), la Activision (a Santa Monica) e la RAND (sempre a Santa Monica)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.258842,
+                    34.123159
+                ]
+            },
+            "properties": {
+                "entity": "Glendale",
+                "name_location": "Glendale, West Cerritos Avenue, Glendale, Los Angeles County, California, 90039, Stati Uniti d'America",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Alcune grosse compagnie con sede in altri centri della contea di Los Angeles sono la Shakey's Pizza (ad Alhambra), l'Academy of Motion Picture Arts and Sciences (a Beverly Hills), la City National Bank (a Beverly Hills), la Hilton Hotels (a Beverly Hills), la DiC Entertainment (a Burbank), La Walt Disney Company (altra società dell'elenco Fortune 500 - a Burbank), la Warner Brothers (sempre Burbank), la Countrywide Financial Corporation (nell'elenco Fortune 500 -a Calabasas), la THQ (a Calabasas), la Belkin (a Compton), la National Public Radio West (a Culver City), la Sony Pictures Entertainment (società madre della Columbia Pictures, a Culver City), la Computer Sciences Corporation (nell'elenco Fortune 500 - a El Segundo), la DirecTV (a El Segundo), la Mattel (nell'elenco Fortune 500 - a El Segundo), la Unocal (nell'elenco Fortune 500 - a El Segundo), la DreamWorks SKG (a Glendale), la Sea Launch (a Long Beach), la ICANN (a Marina Del Rey), la Cunard Line (a Santa Clarita), la Princess Cruises (a Santa Clarita), la Activision (a Santa Monica) e la RAND (sempre a Santa Monica)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.192206,
+                    33.888657
+                ]
+            },
+            "properties": {
+                "entity": "Long Beach",
+                "name_location": "Metro;Long Beach, East Alondra Boulevard, Compton, Los Angeles County, California, 90221, Stati Uniti d'America",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...All'interno e sui confini di Los Angeles si trovano molte municipalità autonome (come Long Beach, Santa Monica, West Hollywood, Pasadena, Beverly Hills, Malibù), che il pubblico comunque associa alla metropoli, in quanto fanno parte dell'agglomerato urbano e sono incluse nella Contea di Los Angeles....",
+                    "*...Considerati insieme, i porti di Los Angeles e Long Beach costituiscono il maggiore scalo marittimo del Nord America e del mondo....",
+                    "*...Alcune grosse compagnie con sede in altri centri della contea di Los Angeles sono la Shakey's Pizza (ad Alhambra), l'Academy of Motion Picture Arts and Sciences (a Beverly Hills), la City National Bank (a Beverly Hills), la Hilton Hotels (a Beverly Hills), la DiC Entertainment (a Burbank), La Walt Disney Company (altra società dell'elenco Fortune 500 - a Burbank), la Warner Brothers (sempre Burbank), la Countrywide Financial Corporation (nell'elenco Fortune 500 -a Calabasas), la THQ (a Calabasas), la Belkin (a Compton), la National Public Radio West (a Culver City), la Sony Pictures Entertainment (società madre della Columbia Pictures, a Culver City), la Computer Sciences Corporation (nell'elenco Fortune 500 - a El Segundo), la DirecTV (a El Segundo), la Mattel (nell'elenco Fortune 500 - a El Segundo), la Unocal (nell'elenco Fortune 500 - a El Segundo), la DreamWorks SKG (a Glendale), la Sea Launch (a Long Beach), la ICANN (a Marina Del Rey), la Cunard Line (a Santa Clarita), la Princess Cruises (a Santa Clarita), la Activision (a Santa Monica) e la RAND (sempre a Santa Monica)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.450996,
+                    33.97239
+                ]
+            },
+            "properties": {
+                "entity": "Marina Del Rey",
+                "name_location": "Marina del Rey, Admiralty Way, Marina del Rey, Los Angeles County, California, 90292, Stati Uniti d'America",
+                "class": "leisure",
+                "type": "marina",
+                "snippet": [
+                    "*...Alcune grosse compagnie con sede in altri centri della contea di Los Angeles sono la Shakey's Pizza (ad Alhambra), l'Academy of Motion Picture Arts and Sciences (a Beverly Hills), la City National Bank (a Beverly Hills), la Hilton Hotels (a Beverly Hills), la DiC Entertainment (a Burbank), La Walt Disney Company (altra società dell'elenco Fortune 500 - a Burbank), la Warner Brothers (sempre Burbank), la Countrywide Financial Corporation (nell'elenco Fortune 500 -a Calabasas), la THQ (a Calabasas), la Belkin (a Compton), la National Public Radio West (a Culver City), la Sony Pictures Entertainment (società madre della Columbia Pictures, a Culver City), la Computer Sciences Corporation (nell'elenco Fortune 500 - a El Segundo), la DirecTV (a El Segundo), la Mattel (nell'elenco Fortune 500 - a El Segundo), la Unocal (nell'elenco Fortune 500 - a El Segundo), la DreamWorks SKG (a Glendale), la Sea Launch (a Long Beach), la ICANN (a Marina Del Rey), la Cunard Line (a Santa Clarita), la Princess Cruises (a Santa Clarita), la Activision (a Santa Monica) e la RAND (sempre a Santa Monica)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.509232,
+                    34.36819
+                ]
+            },
+            "properties": {
+                "entity": "Santa Clarita",
+                "name_location": "Santa Clarita (Shell Gas Station), Shepard Canyon, Santa Clarita, Los Angeles County, California, 91321, Stati Uniti d'America",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Alcune grosse compagnie con sede in altri centri della contea di Los Angeles sono la Shakey's Pizza (ad Alhambra), l'Academy of Motion Picture Arts and Sciences (a Beverly Hills), la City National Bank (a Beverly Hills), la Hilton Hotels (a Beverly Hills), la DiC Entertainment (a Burbank), La Walt Disney Company (altra società dell'elenco Fortune 500 - a Burbank), la Warner Brothers (sempre Burbank), la Countrywide Financial Corporation (nell'elenco Fortune 500 -a Calabasas), la THQ (a Calabasas), la Belkin (a Compton), la National Public Radio West (a Culver City), la Sony Pictures Entertainment (società madre della Columbia Pictures, a Culver City), la Computer Sciences Corporation (nell'elenco Fortune 500 - a El Segundo), la DirecTV (a El Segundo), la Mattel (nell'elenco Fortune 500 - a El Segundo), la Unocal (nell'elenco Fortune 500 - a El Segundo), la DreamWorks SKG (a Glendale), la Sea Launch (a Long Beach), la ICANN (a Marina Del Rey), la Cunard Line (a Santa Clarita), la Princess Cruises (a Santa Clarita), la Activision (a Santa Monica) e la RAND (sempre a Santa Monica)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.401061,
+                    34.067267
+                ]
+            },
+            "properties": {
+                "entity": "Rodeo Drive",
+                "name_location": "Rodeo Drive, Beverly Hills, Los Angeles County, California, 90212, Stati Uniti d'America",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "...Rodeo Drive ;...",
+                    "*...Le attrazioni più note di Los Angeles sono, oltre alle lunghe spiagge del Pacifico, il quartiere di Hollywood, la Stahl house, i negozi di Rodeo Drive, il centro commerciale The Grove e le ville dei divi dello spettacolo a Beverly Hills, Bel Air e Malibù e i parchi tematici di Disneyland (che in realtà si trova nella città di Anaheim nella confinante Contea di Orange), Universal Studios e Paramount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.156486,
+                    34.072234
+                ]
+            },
+            "properties": {
+                "entity": "Grove",
+                "name_location": "Orange Grove Avenue, Alhambra, Los Angeles County, California, 91803, Stati Uniti d'America",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "...Le attrazioni più note di Los Angeles sono, oltre alle lunghe spiagge del Pacifico, il quartiere di Hollywood, la Stahl house, i negozi di Rodeo Drive, il centro commerciale The Grove e le ville dei divi dello spettacolo a Beverly Hills, Bel Air e Malibù e i parchi tematici di Disneyland (che in realtà si trova nella città di Anaheim nella confinante Contea di Orange), Universal Studios e Paramount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.929718,
+                    34.008997
+                ]
+            },
+            "properties": {
+                "entity": "Anaheim",
+                "name_location": "Anaheim and Puente Road, City of Industry, El Monte, Los Angeles County, California, 91748, Stati Uniti d'America",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Le attrazioni più note di Los Angeles sono, oltre alle lunghe spiagge del Pacifico, il quartiere di Hollywood, la Stahl house, i negozi di Rodeo Drive, il centro commerciale The Grove e le ville dei divi dello spettacolo a Beverly Hills, Bel Air e Malibù e i parchi tematici di Disneyland (che in realtà si trova nella città di Anaheim nella confinante Contea di Orange), Universal Studios e Paramount....",
+                    "...Anaheim Ducks della NHL (hockey su ghiaccio) ...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.061665,
+                    34.110528
+                ]
+            },
+            "properties": {
+                "entity": "Temple City",
+                "name_location": "Temple City Boulevard, Temple City, Los Angeles County, California, 91780, Stati Uniti d'America",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Il Dipartimento dello sceriffo provvede al servizio di polizia per le unincorporated areas e per alcune municipalità della contea (come Calabasas, Temple City, West Hollywood e Compton) che, prive di un dipartimento di polizia cittadino, hanno stipulato un'apposita convenzione con l'ufficio dello sceriffo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.285183,
+                    34.063205
+                ]
+            },
+            "properties": {
+                "entity": "Los Angeles County Superior Court",
+                "name_location": "Los Angeles County Superior Court, South Commonwealth Avenue, Westlake, Los Angeles, Los Angeles County, California, 90057, Stati Uniti d'America",
+                "class": "amenity",
+                "type": "courthouse",
+                "snippet": [
+                    "*...La Los Angeles County Superior Court ha giurisdizione su tutte le cause regolate dal diritto statale, mentre la U.S. District Court for the Central District of California si occupa delle materie di competenza federale...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.246094,
+                    34.054897
+                ]
+            },
+            "properties": {
+                "entity": "Civic Center",
+                "name_location": "Civic Center/Grand Park, North Hill Street, Civic Center, Downtown, Los Angeles, Los Angeles County, California, 90012, Stati Uniti d'America",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...Entrambe le corti si trovano in un grande complesso di edifici pubblici nel Civic Center....",
+                    "*...I processi di competenza statale sono impugnabili davanti alla Corte d'appello per il secondo distretto, che si trova sempre nel Civic Center e, in ultimo grado, alla Corte suprema della California, che ha sede a San Francisco, ma tiene udienza anche a Los Angeles (sempre nel Civic Center)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.243076,
+                    34.020054
+                ]
+            },
+            "properties": {
+                "entity": "Washington",
+                "name_location": "Washington, Long Beach Avenue, Nevin, Los Angeles, Los Angeles County, California, 90021, Stati Uniti d'America",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...Ultimo grado di giudizio del sistema federale è Corte Suprema che si trova a Washington...."
+                ]
+            }
+        }
+    ]
+}

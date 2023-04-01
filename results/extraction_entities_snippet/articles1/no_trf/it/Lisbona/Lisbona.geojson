@@ -1,0 +1,1890 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.14331,
+                    38.70722
+                ]
+            },
+            "properties": {
+                "entity": "Europa",
+                "name_location": "Europa, Rua Nova do Carvalho, Cais do Sodré, Misericórdia, Lisbona, 1249-002, Portogallo",
+                "class": "amenity",
+                "type": "bar",
+                "snippet": [
+                    "*...Situata sull'estremità occidentale della penisola iberica, presso l'estuario del fiume Tago, è geograficamente la capitale (nonché la zona geografica) più occidentale dell'Europa continentale....",
+                    "*...La città è la sesta più visitata dell'Europa meridionale dopo Roma, Barcellona, Madrid, Atene e Milano, con 1 740 000 turisti nel 2009....",
+                    "*...Durante il Neolitico la regione è stata abitata da popolazioni di origine iberica che a quel tempo occupavano anche altre regioni dell'Europa atlantica....",
+                    "*...All'inizio del XVIII secolo, con una popolazione stimata di circa 250 000 abitanti, Lisbona era una delle città più grandi d'Europa....",
+                    "*...Per l'occasione fu costruito un quartiere completamente nuovo, Parque das Nações, e il ponte Vasco da Gama, il più lungo d'Europa con i suoi 17,2 km...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.144681,
+                    38.727134
+                ]
+            },
+            "properties": {
+                "entity": "Madrid",
+                "name_location": "Hotel 3K Madrid, 24, Rua do Conde de Redondo, Coração de Jesus, Santo António, Lisbona, 1150-106, Portogallo",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...La città è la sesta più visitata dell'Europa meridionale dopo Roma, Barcellona, Madrid, Atene e Milano, con 1 740 000 turisti nel 2009....",
+                    "...Madrid ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.139873,
+                    38.715668
+                ]
+            },
+            "properties": {
+                "entity": "Milano",
+                "name_location": "Milano, Rua das Portas de Santo Antão, Santa Justa, Santa Maria Maior, Lisbona, 1150-268, Portogallo",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...La città è la sesta più visitata dell'Europa meridionale dopo Roma, Barcellona, Madrid, Atene e Milano, con 1 740 000 turisti nel 2009...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.143465,
+                    38.713546
+                ]
+            },
+            "properties": {
+                "entity": "São Roque",
+                "name_location": "Museu-Igreja de São Roque, Largo Trindade Coelho, Encarnação, Misericórdia, Lisbona, 1200-470, Portogallo",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...São Jorge, São Vicente, Sant'Ana, Santo André, das Chagas, Santa Catarina, São Roque....",
+                    "...Chiesa di São Roque ;...",
+                    "...Museu de São Roque (Sito) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.13264,
+                    38.709527
+                ]
+            },
+            "properties": {
+                "entity": "Sé de Lisboa",
+                "name_location": "Sé de Lisboa, 29, Cruzes da Sé, Sé, Alfama, Santa Maria Maior, Lisbona, 1100-192, Portogallo",
+                "class": "building",
+                "type": "apartments",
+                "snippet": [
+                    "*...In passato si credeva che Lisbona fosse stata fondata dai Fenici e questo sembrerebbe accreditato dai recenti ritrovamenti di reperti fenici risalenti all'VIII secolo a.C. sotto la medievale Sé de Lisboa, la cattedrale della città moderna...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.232833,
+                    38.821969
+                ]
+            },
+            "properties": {
+                "entity": "Troia",
+                "name_location": "Rua Pinhal de Troia, Casal do Freixo, Alto do Miradouro, Almargem do Bispo, Pêro Pinheiro e Montelavar, Sintra, Lisbona, 1685-605, Portogallo",
+                "class": "highway",
+                "type": "unclassified",
+                "snippet": [
+                    "*...I greci conoscevano Lisbona con il nome di \"Olisipo\", che, secondo il mito, fu fondata da Ulisse durante il suo viaggio di ritorno da Troia ad Itaca...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.13614,
+                    38.70894
+                ]
+            },
+            "properties": {
+                "entity": "Rua da Prata",
+                "name_location": "Rua da Prata, Baixa, Santa Maria Maior, Lisbona, 1149-027, Portogallo",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Durante il periodo di Augusto furono erette delle mura difensive, un grande Teatro, delle terme (sotto l'attuale Rua da Prata), numerosi templi, una necropoli (sotto l'attuale Praça da Figueira), un grande foro e numerose abitazioni nella zona tra il castello di San Giorgio e l'attuale centro cittadino...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.138122,
+                    38.713241
+                ]
+            },
+            "properties": {
+                "entity": "Praça da Figueira",
+                "name_location": "Praça da Figueira, São Cristóvão e São Lourenço, Santa Maria Maior, Lisbona, 1100-090, Portogallo",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Durante il periodo di Augusto furono erette delle mura difensive, un grande Teatro, delle terme (sotto l'attuale Rua da Prata), numerosi templi, una necropoli (sotto l'attuale Praça da Figueira), un grande foro e numerose abitazioni nella zona tra il castello di San Giorgio e l'attuale centro cittadino....",
+                    "...Praça da Figueira ;...",
+                    "*...Praça da Figueira ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.150884,
+                    38.734723
+                ]
+            },
+            "properties": {
+                "entity": "Reno",
+                "name_location": "SANA Reno Hotel, 195;197, Avenida Duque de Ávila, São Sebastião da Pedreira, Campo Pequeno, Avenidas Novas, Lisbona, 1050-082, Portogallo",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...Fu tuttavia con la sconfitta della pirateria e le innovazioni tecnologiche che la città assunse grande importanza come punto strategico per il commercio con la Cornovaglia, la zona del Reno e anche con l'interno della penisola iberica...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.141193,
+                    38.7484
+                ]
+            },
+            "properties": {
+                "entity": "Braga",
+                "name_location": "Braga, 56, Avenida de Roma, Alvalade, Lisbona, 1700-348, Portogallo",
+                "class": "shop",
+                "type": "hairdresser",
+                "snippet": [
+                    "*...Bracara Augusta (oggi Braga) ed Emerita Augusta, capitale della Lusitania romana (oggi Mérida in Spagna)....",
+                    "*...Sul finire della dominazione romana, Olisipo subì numerose invasioni da parte di Alani e Vandali, che dominarono la regione tra il 409 d.C. ed il 429 d.C. Tra il 409 d.C. e il 585 d.C. la regione di Olisipo fu dominata per lunghi periodi dagli svevi, che avevano istituito un regno in Gallaecia (l'attuale Galizia a nord del Portogallo) con capitale Bracara Augusta (oggi Braga)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.415651,
+                    38.961214
+                ]
+            },
+            "properties": {
+                "entity": "Lusitania",
+                "name_location": "Lusitania, Rua Doutor Eduardo Burnay, Ericeira, Mafra, Lisbona, 2655-001, Portogallo",
+                "class": "office",
+                "type": "insurance",
+                "snippet": [
+                    "*...Bracara Augusta (oggi Braga) ed Emerita Augusta, capitale della Lusitania romana (oggi Mérida in Spagna)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.157088,
+                    38.736458
+                ]
+            },
+            "properties": {
+                "entity": "Spagna",
+                "name_location": "Ambasciata di Spagna, Rua Armando Cortez, Campolide, Lisbona, 1070-238, Portogallo",
+                "class": "office",
+                "type": "diplomatic",
+                "snippet": [
+                    "*...Bracara Augusta (oggi Braga) ed Emerita Augusta, capitale della Lusitania romana (oggi Mérida in Spagna)....",
+                    "*...Nel 1580 il Portogallo perse la sua indipendenza in favore della Spagna in seguito alla guerra di successione portoghese entrando a far parte dell'Unione Iberica....",
+                    "...Il sovrano Filippo IV di Spagna venne dichiarato decaduto e venne proclamato Giovanni IV del Portogallo della dinastia dei Braganza quale nuovo sovrano...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.143115,
+                    38.712929
+                ]
+            },
+            "properties": {
+                "entity": "Olisipo",
+                "name_location": "Livraria Olisipo, Largo Trindade Coelho, Bairro Alto, Misericórdia, Lisbona, 1200-156, Portogallo",
+                "class": "shop",
+                "type": "books",
+                "snippet": [
+                    "...I greci conoscevano Lisbona con il nome di \"Olisipo\", che, secondo il mito, fu fondata da Ulisse durante il suo viaggio di ritorno da Troia ad Itaca....",
+                    "*...Olisipo si schierò subito con i romani e inviò soldati a combattere a fianco dei legionari contro le tribù celtiche del nord-ovest....",
+                    "*...Come compenso Olisipo fu integrata nella Repubblica romana nel 205 a.C. in qualità di comune romano col nome di Felicitas Julia;...",
+                    "...Olisipo, come la maggior parte delle grandi città occidentali dell'Impero romano, fu un centro per la diffusione del Cristianesimo....",
+                    "*...Sul finire della dominazione romana, Olisipo subì numerose invasioni da parte di Alani e Vandali, che dominarono la regione tra il 409 d.C. ed il 429 d.C. Tra il 409 d.C. e il 585 d.C. la regione di Olisipo fu dominata per lunghi periodi dagli svevi, che avevano istituito un regno in Gallaecia (l'attuale Galizia a nord del Portogallo) con capitale Bracara Augusta (oggi Braga)....",
+                    "*...Nel 585 d.C. Olisipo fu aggregata al regno visigoto di Toledo che arrivò così a comprendere l'intera penisola iberica...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.161877,
+                    38.776222
+                ]
+            },
+            "properties": {
+                "entity": "Toledo",
+                "name_location": "Toledo, Rua Alexandre Ferreira, Carriche, Lumiar, Lisbona, 1750-011, Portogallo",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...Nel 585 d.C. Olisipo fu aggregata al regno visigoto di Toledo che arrivò così a comprendere l'intera penisola iberica...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.130463,
+                    38.710276
+                ]
+            },
+            "properties": {
+                "entity": "Alfama",
+                "name_location": "Memmo Alfama, Travessa das Merceeiras, Sé, Alfama, Santa Maria Maior, Lisbona, 1100-072, Portogallo",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...Durante la dominazione musulmana si sviluppa il quartiere dell'Alfama, il più antico di Lisbona e tra i pochi ad aver conservato la sua fisionomia medievale avendo subito solo danni di lieve entità in seguito al terremoto del 1755....",
+                    "*...Analogamente, Lisbona continuò ad ospitare una popolazione ebraica, distribuita in vari quartieri (judiarias), ovvero la Judiaria Grande, la Judiaria Nova e la Judiaria da Alfama (le ultime due sorsero nel XIV secolo)....",
+                    "*...Tra i pochi quartieri di Lisbona ad essere poco danneggiati dal terremoto vi fu l'Alfama....",
+                    "*...Il Castello di São Jorge, che sorge nel sito dell'acropoli della città antica e domina l'Alfama, il quartiere più anticamente abitato della città e l'unico della città vecchia sopravvissuto al terremoto;...",
+                    "*...Parallelamente alla suddivisione ufficiale della città in freguesias, la città di Lisbona è divisa informalmente in \"bairros\" storici che non hanno confini definiti in maniera ufficiale, come Amoreiras, Chiado, Bairro Alto, Bica, Alfama, Mouraria, Restelo, Intendente, Chelas e Lapa...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.215921,
+                    38.736397
+                ]
+            },
+            "properties": {
+                "entity": "Cordova",
+                "name_location": "Rua Cidade de Córdova, Alfragide, Amadora, Lisbona, 2610-025, Portogallo",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Politicamente Lisbona è nel corso del IX secolo sottoposta al califfato di Cordova...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.444457,
+                    38.807015
+                ]
+            },
+            "properties": {
+                "entity": "Badajoz",
+                "name_location": "Rua José Fernandes Badajoz, Mucifal, Selão, Colares, Sintra, Lisbona, 2705-216, Portogallo",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Nel primo decennio dopo l'anno mille, Lisbona, in seguito alla frammentazione del califfato, passò sotto il controllo della prima taifa di Badajoz, creata dal saqaliba Sabur....",
+                    "*...La taifa di Lisbona sopravvive fino al 1034, quando viene nuovamente conquistata dalla taifa di Badajoz, retta dalla nuova dinastia degli Aftasidi....",
+                    "*...Infine passa a far parte della autoproclamata seconda taifa di Badajoz, sorta in seguito alla crisi della dinastia almoravide...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.135296,
+                    38.714992
+                ]
+            },
+            "properties": {
+                "entity": "Mouraria",
+                "name_location": "Typical Mouraria, Rua Marquês de Ponte de Lima, Mouraria, Santa Maria Maior, Lisbona, 1100-335, Portogallo",
+                "class": "tourism",
+                "type": "guest_house",
+                "snippet": [
+                    "*...Anche dopo la conquista cristiana una significativa popolazione musulmana continuò a risiedere nella città di Lisbona, abitando nel quartiere della Mouraria, posto sulle pendici nord-occidentali della collina dove sorge il castello di San Giorgio....",
+                    "*...Parallelamente alla suddivisione ufficiale della città in freguesias, la città di Lisbona è divisa informalmente in \"bairros\" storici che non hanno confini definiti in maniera ufficiale, come Amoreiras, Chiado, Bairro Alto, Bica, Alfama, Mouraria, Restelo, Intendente, Chelas e Lapa...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.129559,
+                    38.710178
+                ]
+            },
+            "properties": {
+                "entity": "Judiaria",
+                "name_location": "Arco do Rosário, São Miguel, Alfama, Santa Maria Maior, Lisbona, 1100-542, Portogallo",
+                "class": "highway",
+                "type": "steps",
+                "snippet": [
+                    "*...Analogamente, Lisbona continuò ad ospitare una popolazione ebraica, distribuita in vari quartieri (judiarias), ovvero la Judiaria Grande, la Judiaria Nova e la Judiaria da Alfama (le ultime due sorsero nel XIV secolo)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.170944,
+                    38.703604
+                ]
+            },
+            "properties": {
+                "entity": "India",
+                "name_location": "Avenida da Índia, Prazeres, Estrela, Lisbona, 1350-027, Portogallo",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...Tra il XV ed il XVII secolo da Lisbona partirono moltissimi viaggi di esplorazione, che permisero a Bartolomeo Diaz di doppiare il Capo di Buona Speranza e a Vasco da Gama di raggiungere l'India nel 1497....",
+                    "*...La città divenne il centro del commercio europeo con l'Africa, l'India, l'Estremo Oriente e, più tardi, il Brasile....",
+                    "*...Nel 1998 si tenne a Lisbona l'Expo, giusto in tempo per commemorare il 500º anniversario del viaggio di Vasco da Gama in India...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.135117,
+                    38.710547
+                ]
+            },
+            "properties": {
+                "entity": "Africa",
+                "name_location": "Guest House Brazil-Africa, 8-2, Travessa das Pedras Negras, Sé, Alfama, Santa Maria Maior, Lisbona, 1100, Portogallo",
+                "class": "tourism",
+                "type": "guest_house",
+                "snippet": [
+                    "*...La città divenne il centro del commercio europeo con l'Africa, l'India, l'Estremo Oriente e, più tardi, il Brasile...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.164674,
+                    38.742603
+                ]
+            },
+            "properties": {
+                "entity": "Brasile",
+                "name_location": "Ambasciata del Brasile, 144, Estrada das Laranjeiras, Sete Rios, Avenidas Novas, Lisbona, 1649-021, Portogallo",
+                "class": "office",
+                "type": "diplomatic",
+                "snippet": [
+                    "*...La città divenne il centro del commercio europeo con l'Africa, l'India, l'Estremo Oriente e, più tardi, il Brasile....",
+                    "*...Nei primi anni del XIX secolo il Portogallo fu invaso dalle truppe di Napoleone Bonaparte, che costrinsero la regina Maria I e il figlio, Principe Reggente João (futuro re Giovanni VI) a fuggire temporaneamente in Brasile nel 1808....",
+                    "...San Paolo del Brasile ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.215917,
+                    38.691613
+                ]
+            },
+            "properties": {
+                "entity": "Torre di Belém",
+                "name_location": "Torre di Belém, Avenida de Brasília, Pedrouços, Belém, Lisbona, 1400-038, Portogallo",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...La Torre di Belém e il Mosteiro dos Jerónimos, entrambi inseriti tra i siti del patrimonio mondiale dell'umanità dell'UNESCO....",
+                    "*...La Torre di Belém da dove Vasco de Gama partì alla conquista dell'impero;...",
+                    "*...Torre di Belém ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.137305,
+                    38.706604
+                ]
+            },
+            "properties": {
+                "entity": "Ribeira",
+                "name_location": "Avenida da Ribeira das Naus, São Nicolau, Santa Maria Maior, Lisbona, 1100-038, Portogallo",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...L'indipendenza fu proclamata nel 1640, quando la viceregina del Portogallo Margherita di Savoia venne posta agli arresti da un gruppo di congiurati nel palazzo della Ribeira a Lisbona....",
+                    "*...Tra gli edifici più importanti che andarono distrutti vi furono il palazzo della Ribeira, dimora della famiglia reale (scampata al terremoto in quanto quel giorno fuori città), e l'Hospital Real de Todos os Santos, il più grande edificio pubblico del tempo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.136177,
+                    38.709383
+                ]
+            },
+            "properties": {
+                "entity": "Baixa Pombalina",
+                "name_location": "2ª Esquadra - Baixa Pombalina, 38, Rua da Prata, Baixa, Santa Maria Maior, Lisbona, 1100-413, Portogallo",
+                "class": "amenity",
+                "type": "police",
+                "snippet": [
+                    "*...Dalla sua iniziativa sorse il quartiere centrale della Baixa, anche chiamato Baixa Pombalina....",
+                    "*...I sopravvissuti, per sfuggire al fuoco, si radunarono nella Baixa, vicino al fiume...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.144831,
+                    38.71901
+                ]
+            },
+            "properties": {
+                "entity": "Avenida",
+                "name_location": "Avenida, Avenida da Liberdade, São José, Santo António, Lisbona, 1269-038, Portogallo",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...Nel 1879 fu inaugurata l'Avenida da Liberdade, in sostituzione di un precedente Giardino pubblico, che divenne ben presto il salotto di Lisbona....",
+                    "...Avenida da Liberdade ;...",
+                    "*...Il 13 giugno, per festeggiare S. Antonio si organizza una parata spettacolare lungo Avenida da Liberdade:...",
+                    "*...Anche gli sposi sfilano per Avenida da Liberdade...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.13544,
+                    38.707455
+                ]
+            },
+            "properties": {
+                "entity": "Terreiro do Paço",
+                "name_location": "Terreiro do Paço, Praça do Comércio, Madalena, Santa Maria Maior, Lisbona, 1100-148, Portogallo",
+                "class": "railway",
+                "type": "subway_entrance",
+                "snippet": [
+                    "*...Il 1º febbraio 1908, mentre attraversava il Terreiro do Paço, l'attuale Praça do Comércio, accompagnato dalla sua famiglia, il re Carlo I di Portogallo fu assassinato con due colpi di pistola da due attentatori repubblicani...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.136283,
+                    38.707555
+                ]
+            },
+            "properties": {
+                "entity": "Praça do Comércio",
+                "name_location": "Praça do Comércio, Madalena, Santa Maria Maior, Lisbona, 1100-148, Portogallo",
+                "class": "highway",
+                "type": "footway",
+                "snippet": [
+                    "*...Il 1º febbraio 1908, mentre attraversava il Terreiro do Paço, l'attuale Praça do Comércio, accompagnato dalla sua famiglia, il re Carlo I di Portogallo fu assassinato con due colpi di pistola da due attentatori repubblicani....",
+                    "*...Praça do Comércio ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.096756,
+                    38.763782
+                ]
+            },
+            "properties": {
+                "entity": "Parque das Nações",
+                "name_location": "Parque das Nações, Rua do Mar do Norte, Bairro Oriente, Parque das Nações, Lisbona, 1990-274, Portogallo",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Per l'occasione fu costruito un quartiere completamente nuovo, Parque das Nações, e il ponte Vasco da Gama, il più lungo d'Europa con i suoi 17,2 km....",
+                    "*...Il Parque das Nações, moderno quartiere che ha ospitato l'Expo '98....",
+                    "...Parque das Nações ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.41639,
+                    38.985465
+                ]
+            },
+            "properties": {
+                "entity": "Oceano Atlantico",
+                "name_location": "Rua do Oceano Atlântico, Ericeira, Mafra, Lisbona, 2655-210, Portogallo",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Il Tago e l'Oceano Atlantico regalano alla città una gran luce e grandi cieli;...",
+                    "*...È un importante centro economico, con un settore finanziario in crescita e uno tra i più importanti porti affacciati sull'Atlantico....",
+                    "*...La città e i dintorni di Lisbona godono di un clima Atlantico, con inverni miti ed estati moderatamente calde, ma ben ventilate...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.203485,
+                    38.697351
+                ]
+            },
+            "properties": {
+                "entity": "Mosteiro dos Jerónimos",
+                "name_location": "Mosteiro dos Jerónimos, Rua de Belém, Belém, Lisbona, 1300-085, Portogallo",
+                "class": "railway",
+                "type": "tram_stop",
+                "snippet": [
+                    "*...La Torre di Belém e il Mosteiro dos Jerónimos, entrambi inseriti tra i siti del patrimonio mondiale dell'umanità dell'UNESCO....",
+                    "*...Una tappa imperdibile per i visitatori amanti della gastronomia è senz'altro la famosa ed antichissima Antiga Confeitaria de Belém situata nell'omonimo quartiere, a pochi metri dal Mosteiro dos Jerónimos....",
+                    "*...Da non trascurare il Planetario Calouste Gulbenkian, situato nell'ambito del Museo Navale, a pochi passi dal famoso Mosteiro dos Jerónimos, nel quartiere di Belém...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.149996,
+                    38.724448
+                ]
+            },
+            "properties": {
+                "entity": "Praça Marquês de Pombal",
+                "name_location": "Praça Marquês de Pombal, Coração de Jesus, Santo António, Lisbona, 1250-160, Portogallo",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...La Praça Marquês de Pombal con il suo monumento dedicato al nobile che ricostruì la città dopo il terremoto, dalla quale parte il \"Parco Eduardo VII\", il più grande Parco della città, con annesso Giardino botanico;...",
+                    "...Praça Marquês de Pombal ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.4438,
+                    38.79399
+                ]
+            },
+            "properties": {
+                "entity": "Convento do Carmo",
+                "name_location": "Convento de Sant' Ana da Ordem do Carmo, Caminho do Carmo, Colares, Sintra, Lisbona, 2705-180, Portogallo",
+                "class": "historic",
+                "type": "monastery",
+                "snippet": [
+                    "*...Convento do Carmo ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.164732,
+                    38.717971
+                ]
+            },
+            "properties": {
+                "entity": "Memória",
+                "name_location": "Memória, Rua do 4 de Infantaria, Santo Condestável, Campo de Ourique, Lisbona, 1350-011, Portogallo",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...Igreja da Memória ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.174761,
+                    38.708169
+                ]
+            },
+            "properties": {
+                "entity": "São Jerónimo",
+                "name_location": "Rua Feliciano de Sousa, Quinta do Cabrinha, Alcântara, Lisbona, 1300-023, Portogallo",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Ermida de São Jerónimo ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.200433,
+                    38.698203
+                ]
+            },
+            "properties": {
+                "entity": "Palácio Nacional de Belém",
+                "name_location": "Palácio Nacional de Belém, Praça Afonso de Albuquerque, Belém, Lisbona, 1300-083, Portogallo",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Palácio Nacional de Belém ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.258246,
+                    38.750524
+                ]
+            },
+            "properties": {
+                "entity": "Palazzo Nazionale",
+                "name_location": "Palazzo Nazionale di Queluz, Rua Heliodoro Salgado, Queluz, Queluz e Belas, Sintra, Lisbona, 2745-068, Portogallo",
+                "class": "historic",
+                "type": "castle",
+                "snippet": [
+                    "*...Palazzo Nazionale di Ajuda ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.199904,
+                    38.709392
+                ]
+            },
+            "properties": {
+                "entity": "Ajuda",
+                "name_location": "Ajuda, Rua dos Marcos, Bairro do Alto da Ajuda, Ajuda, Lisbona, 1349-016, Portogallo",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Palazzo Nazionale di Ajuda ;...",
+                    "*...Giardino botanico di Ajuda ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.106304,
+                    38.732491
+                ]
+            },
+            "properties": {
+                "entity": "Palácio do Grilo",
+                "name_location": "Palácio do Grilo, 34, Rua do Grilo, Beato, Lisbona, 1950-147, Portogallo",
+                "class": "historic",
+                "type": "castle",
+                "snippet": [
+                    "*...Palácio do Grilo ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.139373,
+                    38.712115
+                ]
+            },
+            "properties": {
+                "entity": "Elevador de Santa Justa",
+                "name_location": "Elevador de Santa Justa, Rua de Santa Justa, Baixa, Santa Maria Maior, Lisbona, 1100-062, Portogallo",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Elevador de Santa Justa ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.104722,
+                    38.786015
+                ]
+            },
+            "properties": {
+                "entity": "Ponte Vasco da Gama",
+                "name_location": "Ponte Vasco da Gama, Sacavém e Prior Velho, Loures, Lisbona, 2685-150, Portogallo",
+                "class": "highway",
+                "type": "motorway",
+                "snippet": [
+                    "...Il ponte 25 Aprile, inaugurato nel 1966, e il ponte Vasco da Gama, lungo 17,2 km e inaugurato il 29 marzo 1998 in occasione di Expo '98....",
+                    "...Per l'occasione fu costruito un quartiere completamente nuovo, Parque das Nações, e il ponte Vasco da Gama, il più lungo d'Europa con i suoi 17,2 km....",
+                    "*...Ponte Vasco da Gama ;...",
+                    "*...Il ponte 25 Aprile, inaugurato nel 1966, e il ponte Vasco da Gama, lungo 17,2 km e inaugurato il 29 marzo 1998 in occasione di Expo '98....",
+                    "*...Per l'occasione fu costruito un quartiere completamente nuovo, Parque das Nações, e il ponte Vasco da Gama, il più lungo d'Europa con i suoi 17,2 km...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.146795,
+                    38.741114
+                ]
+            },
+            "properties": {
+                "entity": "Campo Pequeno",
+                "name_location": "Campo Pequeno, Ciclovia Avenida da República, São Sebastião da Pedreira, Campo Pequeno, Avenidas Novas, Lisbona, 1050-189, Portogallo",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...Arena di Campo Pequeno ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.35574,
+                    38.704698
+                ]
+            },
+            "properties": {
+                "entity": "Império",
+                "name_location": "Império, Rua Gil Eanes, Penedo, São Domingos de Rana, Cascais, Lisbona, 2785, Portogallo",
+                "class": "amenity",
+                "type": "dentist",
+                "snippet": [
+                    "*...Praça do Império ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.199229,
+                    38.696855
+                ]
+            },
+            "properties": {
+                "entity": "Praça Afonso de Albuquerque",
+                "name_location": "Praça Afonso de Albuquerque, Belém, Lisbona, 1300-300, Portogallo",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Praça Afonso de Albuquerque ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.159556,
+                    38.715777
+                ]
+            },
+            "properties": {
+                "entity": "Jardim da Estrela",
+                "name_location": "Jardim da Estrela, Rua de São Jorge, Santo Condestável, Santa Isabel, Campo de Ourique, Lisbona, 1250-017, Portogallo",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Jardim da Estrela ;...",
+                    "*...Basilica da Estrela ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.156387,
+                    38.72145
+                ]
+            },
+            "properties": {
+                "entity": "Jardim das Amoreiras",
+                "name_location": "Jardim das Amoreiras, Rua das Amoreiras, Rato, Santo António, Lisbona, 1250-090, Portogallo",
+                "class": "railway",
+                "type": "tram_stop",
+                "snippet": [
+                    "*...Jardim das Amoreiras ;...",
+                    "*...Parallelamente alla suddivisione ufficiale della città in freguesias, la città di Lisbona è divisa informalmente in \"bairros\" storici che non hanno confini definiti in maniera ufficiale, come Amoreiras, Chiado, Bairro Alto, Bica, Alfama, Mouraria, Restelo, Intendente, Chelas e Lapa...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.142691,
+                    38.73534
+                ]
+            },
+            "properties": {
+                "entity": "Jardim do Arco do Cego",
+                "name_location": "Bicicletas Gira Estação 417, Avenida Duque de Ávila, São Sebastião da Pedreira, Campo Pequeno, Avenidas Novas, Lisbona, 1000-141, Portogallo",
+                "class": "amenity",
+                "type": "bicycle_rental",
+                "snippet": [
+                    "*...Jardim do Arco do Cego ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.19031,
+                    38.722553
+                ]
+            },
+            "properties": {
+                "entity": "Parque Florestal de Monsanto",
+                "name_location": "Parque Florestal de Monsanto, Estrada dos Cabos de Ávila, Carnaxide, Carnaxide e Queijas, Oeiras, Lisbona, 2610-008, Portogallo",
+                "class": "leisure",
+                "type": "nature_reserve",
+                "snippet": [
+                    "*...Parque Florestal de Monsanto ...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1299,
+                    38.717306
+                ]
+            },
+            "properties": {
+                "entity": "Graça",
+                "name_location": "Graça, Largo da Graça, São Vicente de Fora, Graça, São Vicente, Lisbona, 1170-165, Portogallo",
+                "class": "railway",
+                "type": "tram_stop",
+                "snippet": [
+                    "*...Miradouro Sophia de Mello Breyner Andresen o Miradouro da Graça ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.147633,
+                    38.709527
+                ]
+            },
+            "properties": {
+                "entity": "Jardim do Alto de Santa Catarina",
+                "name_location": "Jardim do Alto de Santa Catarina, Rua de Santa Catarina, Santa Catarina, Misericórdia, Lisbona, 1200-128, Portogallo",
+                "class": "leisure",
+                "type": "garden",
+                "snippet": [
+                    "*...Jardim do Alto de Santa Catarina ;...",
+                    "*...São Jorge, São Vicente, Sant'Ana, Santo André, das Chagas, Santa Catarina, São Roque...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.130666,
+                    38.711317
+                ]
+            },
+            "properties": {
+                "entity": "Miradouro de Santa Luzia",
+                "name_location": "Miradouro de Santa Luzia, Rua do Limoeiro, Alfama, Santa Maria Maior, Lisbona, 1100-487, Portogallo",
+                "class": "railway",
+                "type": "tram_stop",
+                "snippet": [
+                    "*...Miradouro de Santa Luzia ;...",
+                    "*...Miradouro Sophia de Mello Breyner Andresen o Miradouro da Graça ;...",
+                    "...Miradouro da Senhora do Monte ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.132029,
+                    38.718167
+                ]
+            },
+            "properties": {
+                "entity": "Senhora do Monte",
+                "name_location": "Calçada da Senhora do Monte, São Vicente de Fora, Graça, São Vicente, Lisbona, 1100-362, Portogallo",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Miradouro da Senhora do Monte ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.141529,
+                    38.719597
+                ]
+            },
+            "properties": {
+                "entity": "Jardim do Torel",
+                "name_location": "Parque Infantil do Jardim do Torel, Calçada do Moinho de Vento, São José, Santo António, Lisbona, 1150-206, Portogallo",
+                "class": "leisure",
+                "type": "playground",
+                "snippet": [
+                    "*...Jardim do Torel ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.191687,
+                    38.706164
+                ]
+            },
+            "properties": {
+                "entity": "S. Giovanni",
+                "name_location": "Rua Giovanni Antinori, Ajuda, Lisbona, 1300-166, Portogallo",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...A giugno si festeggiano S. Antonio di Padova (nato a Lisbona) il 13 giugno, S. Giovanni il 24 e S. Pietro il 29...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.161466,
+                    38.704785
+                ]
+            },
+            "properties": {
+                "entity": "Museo Nazionale di Arte Antica",
+                "name_location": "Museo Nazionale di Arte Antica, 59, Rua das Janelas Verdes, Santos-o-Velho, Estrela, Lisbona, 1249-017, Portogallo",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Lisbona possiede numerose Università pubbliche e private, biblioteche e musei, tra i quali il Museo Nazionale di Arte Antica, il Museo Calouste Gulbenkian e Oceanario...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.141145,
+                    38.710679
+                ]
+            },
+            "properties": {
+                "entity": "Livraria Bertrand",
+                "name_location": "Livraria Bertrand, 73, Rua Garrett, Chiado, Santa Maria Maior, Lisbona, 1200-203, Portogallo",
+                "class": "shop",
+                "type": "books",
+                "snippet": [
+                    "*...A Lisbona si trova inoltre la libreria in attività più antica del mondo, la sede storica della Livraria Bertrand, situata in Rua Garrett nel quartiere Chiado...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.140478,
+                    38.710835
+                ]
+            },
+            "properties": {
+                "entity": "Rua Garrett",
+                "name_location": "Rua Garrett, Chiado, Santa Maria Maior, Lisbona, 1200-203, Portogallo",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...A Lisbona si trova inoltre la libreria in attività più antica del mondo, la sede storica della Livraria Bertrand, situata in Rua Garrett nel quartiere Chiado...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.152182,
+                    38.750976
+                ]
+            },
+            "properties": {
+                "entity": "Biblioteca nazionale del Portogallo",
+                "name_location": "Biblioteca nazionale del Portogallo, 83, Campo Grande, Alvalade, Lisbona, 1749-081, Portogallo",
+                "class": "amenity",
+                "type": "library",
+                "snippet": [
+                    "*...A Lisbona hanno sede anche la Biblioteca nazionale del Portogallo e l'archivio di stato portoghese, l'Archivio nazionale Torre do Tombo....",
+                    "*...Lisbona (in portoghese Lisboa, ) è la capitale e la principale città del Portogallo....",
+                    "*...Sul finire della dominazione romana, Olisipo subì numerose invasioni da parte di Alani e Vandali, che dominarono la regione tra il 409 d.C. ed il 429 d.C. Tra il 409 d.C. e il 585 d.C. la regione di Olisipo fu dominata per lunghi periodi dagli svevi, che avevano istituito un regno in Gallaecia (l'attuale Galizia a nord del Portogallo) con capitale Bracara Augusta (oggi Braga)....",
+                    "...Il 25 ottobre 1147 Alfonso I di Portogallo, al comando di un esercito comprendente forze portoghesi e crociati, dopo un assedio che durava dal 1º luglio, conquista Lisbona....",
+                    "...Nel 1255 divenne capitale del regno del Portogallo in virtù della sua posizione centrale....",
+                    "...Nel 1290 vi venne fondata la prima Università del Portogallo, chiamata Estudo Geral (nel XVI secolo tuttavia tale istituzione fu trasferita a Coimbra ed oggi è conosciuta come Università di Coimbra)....",
+                    "*...Nel 1580 il Portogallo perse la sua indipendenza in favore della Spagna in seguito alla guerra di successione portoghese entrando a far parte dell'Unione Iberica....",
+                    "*...L'indipendenza fu proclamata nel 1640, quando la viceregina del Portogallo Margherita di Savoia venne posta agli arresti da un gruppo di congiurati nel palazzo della Ribeira a Lisbona....",
+                    "...Il sovrano Filippo IV di Spagna venne dichiarato decaduto e venne proclamato Giovanni IV del Portogallo della dinastia dei Braganza quale nuovo sovrano....",
+                    "*...Nei primi anni del XIX secolo il Portogallo fu invaso dalle truppe di Napoleone Bonaparte, che costrinsero la regina Maria I e il figlio, Principe Reggente João (futuro re Giovanni VI) a fuggire temporaneamente in Brasile nel 1808....",
+                    "...Il 1º febbraio 1908, mentre attraversava il Terreiro do Paço, l'attuale Praça do Comércio, accompagnato dalla sua famiglia, il re Carlo I di Portogallo fu assassinato con due colpi di pistola da due attentatori repubblicani....",
+                    "...In seguito Lisbona fu Teatro della rivolta repubblicana del 5 ottobre 1910 che depose il successore di Carlo I, Manuele II del Portogallo, inaugurando la Prima Repubblica portoghese....",
+                    "*...Dopo questa rivoluzione, tuttavia, il Portogallo rimase in una situazione politicamente molto confusa, sostanzialmente in una guerra civile....",
+                    "*...Durante la seconda guerra mondiale tuttavia il Portogallo rimane neutrale, rendendo quindi Lisbona il maggior porto di partenza per i profughi che si andavano a rifugiare negli Stati Uniti d'America....",
+                    "*...Il 25 aprile 1974 Lisbona fu Teatro della rivoluzione dei Garofani che mise fine all'Estado Novo e instaurò la nuova democrazia in Portogallo....",
+                    "*...È una pasticceria storica, nota in tutto il Portogallo per avere inventato la ricetta dei pastéis de nata (altrimenti chiamati pastéis de Belém se prodotti da questa pasticceria)....",
+                    "*...Il pasticcino è comunque diffuso in tutto il Portogallo e se ne può trovare una variante con il canestrello fatto di pasta frolla....",
+                    "*...La mezza maratona di Lisbona è una corsa su Strada che si svolge nella capitale del Portogallo ogni anno a marzo, facente parte del circuito IAAF Gold Label Road Race..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.196466,
+                    38.767304
+                ]
+            },
+            "properties": {
+                "entity": "Sito",
+                "name_location": "Posto de Comando do MFA, Estrada Militar, Bairro Padre Cruz, Carnide, Lisbona, Odivelas, Lisbona, 1675-122, Portogallo",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "...Venne realizzata una nuova cinta muraria (cerca moura) e un castello sul sito dell'attuale castello di San Giorgio....",
+                    "...Il Castello di São Jorge, che sorge nel sito dell'acropoli della città antica e domina l'Alfama, il quartiere più anticamente abitato della città e l'unico della città vecchia sopravvissuto al terremoto;...",
+                    "...Museo Berardo - Museu Colecção Berardo (Sito) ;...",
+                    "...Museo nazionale d'arte antica - Museu nacional de arte antiga (Sito) ;...",
+                    "*...Museo Nazionale di Arte Contemporanea - Museu Nacional de Arte Contemporânea do Chiado (Sito) ;...",
+                    "*...Oceanario di Lisbona - Oceanário de Lisboa (Sito) ;...",
+                    "*...Museo Nazionale dell'Azulejo - Museu Nacional do Azulejo (Sito) ;...",
+                    "*...Museo delle carrozze - Museu Nacional dos Coches (Sito) ;...",
+                    "*...Centro Cultural de Belém (Sito) ;...",
+                    "*...Acquario Vasco da Gama - Aquário Vasco da Gama (Sito) ;...",
+                    "...Fundação Árpád Szenes-Vieira da Silva (Sito) ;...",
+                    "*...Museo dell'acqua - Museu da Água (Sito) ;...",
+                    "*...Museo della Carris - Museu da Carris (Sito) ;...",
+                    "...Museu do Oriente (Sito) ;...",
+                    "*...Museu de São Roque (Sito) ;...",
+                    "*...Museo del fado - Museu do Fado (Sito) ;...",
+                    "*...Museo di Lisbona - Museu de Lisboa (Sito) ;...",
+                    "*...Museo delle arti decorative - Museu Escola de Artes Decorativas (Sito) ;...",
+                    "*...Museo militare di Lisbona - Museu Militar de Lisboa (Sito) ;...",
+                    "*...Museo nazionale di archeologia - Museu Nacional de Arqueologia (Sito) ;...",
+                    "...Museo nazionale di etnologia - Museu Nacional de Etnologia (Sito) ;...",
+                    "*...Museo nazionale del Teatro e della danza - Museu Nacional do Teatro e da Dança (Sito) ;...",
+                    "*...Museo nazionale del costume - Museu Nacional do Traje (Sito) ;...",
+                    "*...Pavilhão do Conhecimento (Sito) ;...",
+                    "*...Museo della Marina - Museu de Marinha (Sito) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.096439,
+                    38.76111
+                ]
+            },
+            "properties": {
+                "entity": "Oceanário de Lisboa",
+                "name_location": "Oceanário de Lisboa, Alameda dos Oceanos, Parque das Nações, Lisbona, 1990-212, Portogallo",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Oceanario di Lisbona - Oceanário de Lisboa (Sito) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.113855,
+                    38.724917
+                ]
+            },
+            "properties": {
+                "entity": "Azulejo - Museu Nacional",
+                "name_location": "Igreja e Convento da Madre de Deus, Rua da Madre de Deus, São João, Penha de França, Lisbona, 1900-439, Portogallo",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Museo Nazionale dell'Azulejo - Museu Nacional do Azulejo (Sito) ;...",
+                    "...Il locale è rimasto immutato nel tempo e conserva moltissimi azulejo che i visitatori possono osservare seduti nelle sale interne....",
+                    "...Museo Calouste Gulbenkian - Museu Calouste Gulbenkian ;...",
+                    "...Museo Berardo - Museu Colecção Berardo (Sito) ;...",
+                    "...Museo nazionale d'arte antica - Museu nacional de arte antiga (Sito) ;...",
+                    "...Museo Nazionale di Arte Contemporanea - Museu Nacional de Arte Contemporânea do Chiado (Sito) ;...",
+                    "...Museo delle carrozze - Museu Nacional dos Coches (Sito) ;...",
+                    "...Museo del design e della moda - Museu do Design e da Moda ;...",
+                    "*...Museo dell'elettricità - Museu da Electricidade ;...",
+                    "*...Museo dell'acqua - Museu da Água (Sito) ;...",
+                    "...Museo della Carris - Museu da Carris (Sito) ;...",
+                    "...Museu do Oriente (Sito) ;...",
+                    "...Museu de São Roque (Sito) ;...",
+                    "...Museo del fado - Museu do Fado (Sito) ;...",
+                    "...Museo di Lisbona - Museu de Lisboa (Sito) ;...",
+                    "...Museo delle arti decorative - Museu Escola de Artes Decorativas (Sito) ;...",
+                    "...Museo militare di Lisbona - Museu Militar de Lisboa (Sito) ;...",
+                    "...Museo nazionale di archeologia - Museu Nacional de Arqueologia (Sito) ;...",
+                    "...Museo nazionale di etnologia - Museu Nacional de Etnologia (Sito) ;...",
+                    "...Museo nazionale del Teatro e della danza - Museu Nacional do Teatro e da Dança (Sito) ;...",
+                    "...Museo nazionale del costume - Museu Nacional do Traje (Sito) ;...",
+                    "...Museo della Società Geografica di Lisbona -  Museu Etnográfico da Sociedade de Geografia de Lisboa ;...",
+                    "...Museo della marionetta - Museu da Marioneta ;...",
+                    "...Museo di arte popolare - Museu de Arte Popular ;...",
+                    "...Museo della Marina - Museu de Marinha (Sito) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.197987,
+                    38.696864
+                ]
+            },
+            "properties": {
+                "entity": "Museu Nacional dos Coches",
+                "name_location": "Museo Nazionale delle Carrozze, 136, Avenida da Índia, Belém, Lisbona, 1300-300, Portogallo",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Museo delle carrozze - Museu Nacional dos Coches (Sito) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.208539,
+                    38.695305
+                ]
+            },
+            "properties": {
+                "entity": "Centro Cultural de Belém",
+                "name_location": "Centro Cultural de Belém, Avenida da Índia, Pedrouços, Belém, Lisbona, 1400-038, Portogallo",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Centro Cultural de Belém (Sito) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.138543,
+                    38.737795
+                ]
+            },
+            "properties": {
+                "entity": "Electricidade",
+                "name_location": "Pavilhão de Eletricidade, Avenida António José de Almeida, Areeiro, Lisbona, 1000-159, Portogallo",
+                "class": "building",
+                "type": "university",
+                "snippet": [
+                    "*...Museo dell'elettricità - Museu da Electricidade ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.284496,
+                    38.74054
+                ]
+            },
+            "properties": {
+                "entity": "Água",
+                "name_location": "ÁGUA, Eras Geológicas, Quinta do Bré, Ribeira Acima, Barcarena, Oeiras, Lisbona, 2730-173, Portogallo",
+                "class": "building",
+                "type": "roof",
+                "snippet": [
+                    "*...Museo dell'acqua - Museu da Água (Sito) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.160086,
+                    38.713345
+                ]
+            },
+            "properties": {
+                "entity": "Carris",
+                "name_location": "Carris Tickets (bus, Tram), Praça da Estrela, Lapa, Estrela, Lisbona, 1200-667, Portogallo",
+                "class": "amenity",
+                "type": "cafe",
+                "snippet": [
+                    "*...Museo della Carris - Museu da Carris (Sito) ;...",
+                    "*...Lisbona ha un sistema di trasporto pubblico basato sulla metropolitana e su una rete di autobus, una di tram (di cui il più famoso è la \"linea 28\") e tre funicolari (che vengono chiamate dalla popolazione locale con il nominativo di \"elevadores\"), gestite principalmente dalla Carris, azienda di trasporto pubblico cittadina...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.12766,
+                    38.711025
+                ]
+            },
+            "properties": {
+                "entity": "Museu do Fado",
+                "name_location": "Museu do Fado, 1, Largo do Chafariz de Dentro, São Miguel, Alfama, Santa Maria Maior, Lisbona, 1100-139, Portogallo",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Museo del fado - Museu do Fado (Sito) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.124381,
+                    38.713077
+                ]
+            },
+            "properties": {
+                "entity": "Museu Militar de Lisboa",
+                "name_location": "Museu Militar de Lisboa, Largo do Museu de Artilharia, Santo Estêvão, Santa Maria Maior, Lisbona, 1100-366, Portogallo",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Museo militare di Lisbona - Museu Militar de Lisboa (Sito) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.207079,
+                    38.697366
+                ]
+            },
+            "properties": {
+                "entity": "Museu Nacional de Arqueologia",
+                "name_location": "Museo archeologico nazionale, Praça do Império, Belém, Lisbona, 1400-206, Portogallo",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Museo nazionale di archeologia - Museu Nacional de Arqueologia (Sito) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.20841,
+                    38.704702
+                ]
+            },
+            "properties": {
+                "entity": "Museu Nacional de Etnologia",
+                "name_location": "Museu Nacional de Etnologia, Rua Rui Pereira, Restelo, Belém, Lisbona, 1400-203, Portogallo",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Museo nazionale di etnologia - Museu Nacional de Etnologia (Sito) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.166944,
+                    38.774752
+                ]
+            },
+            "properties": {
+                "entity": "Museu Nacional do Teatro",
+                "name_location": "Museu Nacional do Teatro e da Dança, 10, Estrada do Lumiar, Paço do Lumiar, Lumiar, Lisbona, 1600-483, Portogallo",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Museo nazionale del Teatro e della danza - Museu Nacional do Teatro e da Dança (Sito) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.164811,
+                    38.775151
+                ]
+            },
+            "properties": {
+                "entity": "Museu Nacional do Traje",
+                "name_location": "Museu Nacional do Traje e da Moda, Largo Júlio de Castilho, Carriche, Lumiar, Lisbona, 1600-483, Portogallo",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Museo nazionale del costume - Museu Nacional do Traje (Sito) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.095582,
+                    38.762281
+                ]
+            },
+            "properties": {
+                "entity": "Pavilhão do Conhecimento",
+                "name_location": "Pavilhão do Conhecimento, 1, Largo José Mariano Gago, Parque das Nações, Lisbona, 1990-073, Portogallo",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Pavilhão do Conhecimento (Sito) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.140757,
+                    38.716611
+                ]
+            },
+            "properties": {
+                "entity": "Sociedade de Geografia de Lisboa",
+                "name_location": "Museu da Sociedade de Geografia de Lisboa, 100, Rua das Portas de Santo Antão, Santa Justa, Santa Maria Maior, Lisbona, 1150-269, Portogallo",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Museo della Società Geografica di Lisbona -  Museu Etnográfico da Sociedade de Geografia de Lisboa ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.208317,
+                    38.693657
+                ]
+            },
+            "properties": {
+                "entity": "Museu de Arte Popular",
+                "name_location": "Museo di arte popolare, Avenida de Brasília, Belém, Lisbona, 1449-003, Portogallo",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Museo di arte popolare - Museu de Arte Popular ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.141714,
+                    38.709407
+                ]
+            },
+            "properties": {
+                "entity": "Teatro Nacional de São Carlos",
+                "name_location": "Teatro Nacional de São Carlos, 9, Rua Serpa Pinto, Chiado, Santa Maria Maior, Lisbona, 1200-442, Portogallo",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "...Teatro Nacional de São Carlos ;...",
+                    "*...Il Teatro dell'opera di Lisbona è il Teatro Nacional de São Carlos, mentre il maggior Teatro di prosa è il Teatro Nacional D. Maria II...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.139771,
+                    38.714779
+                ]
+            },
+            "properties": {
+                "entity": "Teatro Nacional D. Maria II",
+                "name_location": "Teatro Nacional Dona Maria II, 1, Praça Dom Pedro IV, Santa Justa, Santa Maria Maior, Lisbona, 1100-201, Portogallo",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...Il Teatro dell'opera di Lisbona è il Teatro Nacional de São Carlos, mentre il maggior Teatro di prosa è il Teatro Nacional D. Maria II...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.14624,
+                    38.714262
+                ]
+            },
+            "properties": {
+                "entity": "Bairro Alto",
+                "name_location": "Bairro Alto, Calçada do Tijolo, Bairro Alto, Misericórdia, Lisbona, 1200-385, Portogallo",
+                "class": "amenity",
+                "type": "community_centre",
+                "snippet": [
+                    "*...Parallelamente alla suddivisione ufficiale della città in freguesias, la città di Lisbona è divisa informalmente in \"bairros\" storici che non hanno confini definiti in maniera ufficiale, come Amoreiras, Chiado, Bairro Alto, Bica, Alfama, Mouraria, Restelo, Intendente, Chelas e Lapa...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.26606,
+                    39.041841
+                ]
+            },
+            "properties": {
+                "entity": "Bica",
+                "name_location": "Bica, Largo Engenheiro Carlos Alves, Turcifal, Torres Vedras, Lisbona, 2565-775, Portogallo",
+                "class": "natural",
+                "type": "spring",
+                "snippet": [
+                    "*...Parallelamente alla suddivisione ufficiale della città in freguesias, la città di Lisbona è divisa informalmente in \"bairros\" storici che non hanno confini definiti in maniera ufficiale, come Amoreiras, Chiado, Bairro Alto, Bica, Alfama, Mouraria, Restelo, Intendente, Chelas e Lapa...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.114329,
+                    38.753273
+                ]
+            },
+            "properties": {
+                "entity": "Chelas",
+                "name_location": "14º Esquadra, Chelas, Rua Luiz Pacheco, Bairro das Amendoeiras, Marvila, Lisbona, 1950-244, Portogallo",
+                "class": "amenity",
+                "type": "police",
+                "snippet": [
+                    "*...Parallelamente alla suddivisione ufficiale della città in freguesias, la città di Lisbona è divisa informalmente in \"bairros\" storici che non hanno confini definiti in maniera ufficiale, come Amoreiras, Chiado, Bairro Alto, Bica, Alfama, Mouraria, Restelo, Intendente, Chelas e Lapa...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.158485,
+                    38.710966
+                ]
+            },
+            "properties": {
+                "entity": "Lapa",
+                "name_location": "Lapa, Rua de Borges Carneiro, Lapa, Estrela, Lisbona, 1200-780, Portogallo",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Parallelamente alla suddivisione ufficiale della città in freguesias, la città di Lisbona è divisa informalmente in \"bairros\" storici che non hanno confini definiti in maniera ufficiale, come Amoreiras, Chiado, Bairro Alto, Bica, Alfama, Mouraria, Restelo, Intendente, Chelas e Lapa...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.123532,
+                    38.713081
+                ]
+            },
+            "properties": {
+                "entity": "Santa Apolónia",
+                "name_location": "Santa Apolónia, Rua Teixeira Lopes, Santo Estêvão, Santa Maria Maior, Lisbona, 1100-395, Portogallo",
+                "class": "amenity",
+                "type": "taxi",
+                "snippet": [
+                    "*...Per quanto riguarda il trasporto ferroviario gestito da Comboios de Portugal, tra le stazioni presenti sul territorio cittadino vi sono la stazione di Lisbona Oriente, Santa Apolónia e Cais do Sodré...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.142207,
+                    38.706617
+                ]
+            },
+            "properties": {
+                "entity": "Cais do Sodré",
+                "name_location": "Cais do Sodré, Misericórdia, Lisbona, 1200-130, Portogallo",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...Per quanto riguarda il trasporto ferroviario gestito da Comboios de Portugal, tra le stazioni presenti sul territorio cittadino vi sono la stazione di Lisbona Oriente, Santa Apolónia e Cais do Sodré...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.141198,
+                    38.712999
+                ]
+            },
+            "properties": {
+                "entity": "Buenos Aires",
+                "name_location": "Café Buenos Aires na Fábrica, 22, Rua do Duque, Sacramento, Santa Maria Maior, Lisbona, 1200-158, Portogallo",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...Buenos Aires ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.184662,
+                    38.752681
+                ]
+            },
+            "properties": {
+                "entity": "Estádio da Luz",
+                "name_location": "Estádio do Sport Lisboa e Benfica, Avenida Lusíada, São Domingos de Benfica, Lisbona, 1500-065, Portogallo",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...Parigi\nLe due squadre principali della città sono il Benfica, che gioca nell'Estádio da Luz, nella freguesia di São Domingos de Benfica e lo Sporting Clube de Portugal, che gioca nell'Estádio José Alvalade, nella freguesia di Lumiar...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.181786,
+                    38.74557
+                ]
+            },
+            "properties": {
+                "entity": "São Domingos de Benfica",
+                "name_location": "São Domingos de Benfica, Estrada de Benfica, São Domingos de Benfica, Lisbona, 1500-158, Portogallo",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Parigi\nLe due squadre principali della città sono il Benfica, che gioca nell'Estádio da Luz, nella freguesia di São Domingos de Benfica e lo Sporting Clube de Portugal, che gioca nell'Estádio José Alvalade, nella freguesia di Lumiar....",
+                    "*...Il Casa Pia Atlético Clube, che gioca nell'Estádio Pina Manique, nella freguesia di Benfica....",
+                    "*...Lo Sporting Clube de Portugal e lo Sport Lisboa e Benfica, entrambe militanti nel Campeonato Nacional de Futsal, sono le sezioni di calcio a 5 delle società polisportive aventi sede a Lisbona Sporting Clube de Portugal e Sport Lisboa e Benfica....",
+                    "*...La sezione rugby dello Sport Lisboa e Benfica...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.161365,
+                    38.770417
+                ]
+            },
+            "properties": {
+                "entity": "Lumiar",
+                "name_location": "Lumiar, Rua Luís de Freitas Branco, Alto da Faia, Lumiar, Lisbona, 1600-489, Portogallo",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Parigi\nLe due squadre principali della città sono il Benfica, che gioca nell'Estádio da Luz, nella freguesia di São Domingos de Benfica e lo Sporting Clube de Portugal, che gioca nell'Estádio José Alvalade, nella freguesia di Lumiar...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.206346,
+                    38.703999
+                ]
+            },
+            "properties": {
+                "entity": "Estádio do Restelo",
+                "name_location": "Estádio do Restelo, Rua Gonçalves Zarco, Restelo, Belém, Lisbona, 1400-204, Portogallo",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...A queste si aggiungono il Belenenses, che gioca nell'Estádio do Restelo, nella freguesia di Belém;...",
+                    "*...Parallelamente alla suddivisione ufficiale della città in freguesias, la città di Lisbona è divisa informalmente in \"bairros\" storici che non hanno confini definiti in maniera ufficiale, come Amoreiras, Chiado, Bairro Alto, Bica, Alfama, Mouraria, Restelo, Intendente, Chelas e Lapa...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.27747,
+                    38.71558
+                ]
+            },
+            "properties": {
+                "entity": "Oeiras",
+                "name_location": "Oeiras, Autoestrada da Costa do Estoril, Quinta da Moura, Barcarena, Oeiras, Lisbona, 2760-084, Portogallo",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...Il Belenenses SAD, che gioca nell'Éstadio Nacional do Jamor, ad Oeiras;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.201857,
+                    38.736994
+                ]
+            },
+            "properties": {
+                "entity": "Estádio Pina Manique",
+                "name_location": "Estádio Pina Manique, Estrada de Monsanto, Benfica, Lisbona, 1500-462, Portogallo",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Il Casa Pia Atlético Clube, che gioca nell'Estádio Pina Manique, nella freguesia di Benfica...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.102555,
+                    38.7422
+                ]
+            },
+            "properties": {
+                "entity": "Clube Oriental de Lisboa",
+                "name_location": "Clube Oriental de Lisboa, 4, Praça David Leandro da Silva, Poço do Bispo, Marvila, Lisbona, 1950-408, Portogallo",
+                "class": "building",
+                "type": "retail",
+                "snippet": [
+                    "*...Vi sono inoltre numerosi club minori, quali l'Atlético Clube de Portugal ed il Clube Oriental de Lisboa....",
+                    "*...Lisbona (in portoghese Lisboa, ) è la capitale e la principale città del Portogallo....",
+                    "...1566-1634) contenuta nel suo Livro das Grandezas de Lisboa e ripresa da autori successivi....",
+                    "...In passato si credeva che Lisbona fosse stata fondata dai Fenici e questo sembrerebbe accreditato dai recenti ritrovamenti di reperti fenici risalenti all'VIII secolo a.C. sotto la medievale Sé de Lisboa, la cattedrale della città moderna....",
+                    "...Igreja de Santo António de Lisboa ;...",
+                    "...Università\na) Pubbliche - Università di Lisbona, Università Tecnica di Lisbona, Nuova Università di Lisbona, ISCTE-Instituto Universitário de Lisboa\nb) Private - Università Europea di Lisbona, Superior de Novas Profissões, Instituto Superior de Psicologia Aplicada (ISPA), Instituto Português de Administração e Marketing (IPAM), Universidade Lusiada de Lisboa, Universidade Catolica Portuguesa\nL'Accademia delle scienze di Lisbona è stata fondata nel 1779....",
+                    "...Oceanario di Lisbona - Oceanário de Lisboa (Sito) ;...",
+                    "...Museo di Lisbona - Museu de Lisboa (Sito) ;...",
+                    "...Museo militare di Lisbona - Museu Militar de Lisboa (Sito) ;...",
+                    "...Museo della Società Geografica di Lisbona -  Museu Etnográfico da Sociedade de Geografia de Lisboa ;...",
+                    "...Lo Sporting Clube de Portugal e lo Sport Lisboa e Benfica, entrambe militanti nel Campeonato Nacional de Futsal, sono le sezioni di calcio a 5 delle società polisportive aventi sede a Lisbona Sporting Clube de Portugal e Sport Lisboa e Benfica....",
+                    "...La sezione rugby del Centro Desportivo Universitário de Lisboa;...",
+                    "...La sezione rugby dello Sport Lisboa e Benfica....",
+                    "...Nel football americano la città è rappresentata da diverse squadre, la principale delle quali, i Lisboa Navigators, ha vinto 6 volte il titolo nazionale...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.192968,
+                    38.782046
+                ]
+            },
+            "properties": {
+                "entity": "Strada",
+                "name_location": "ODV-00001 - Strada Outlet, Avenida Doutor Augusto Pais Martins, Pombais, Odivelas, Lisbona, 2675-504, Portogallo",
+                "class": "amenity",
+                "type": "charging_station",
+                "snippet": [
+                    "*...La mezza maratona di Lisbona è una corsa su Strada che si svolge nella capitale del Portogallo ogni anno a marzo, facente parte del circuito IAAF Gold Label Road Race..."
+                ]
+            }
+        }
+    ]
+}

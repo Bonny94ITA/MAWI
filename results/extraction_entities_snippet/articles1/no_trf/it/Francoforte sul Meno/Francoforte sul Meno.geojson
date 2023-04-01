@@ -1,0 +1,541 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.682145,
+                    50.108054
+                ]
+            },
+            "properties": {
+                "entity": "Frankfurt am Main",
+                "name_location": "Eiserner Steg, Sachsenhausen, Sachsenhausen Nord, Süd, Francoforte sul Meno, Assia, 60594, Germania",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Frankfurt am Main ), o semplicemente Francoforte, è una città extracircondariale della Germania sud-occidentale, situata nello Stato federato dell'Assia, la quinta tedesca per numero di abitanti dopo Berlino, Amburgo, Monaco e Colonia....",
+                    "...A Francoforte hanno sede l'Università Goethe di Francoforte, la Frankfurt University of Applied Sciences, la Frankfurt School of Finance and Management e la Pädagogische Akademie Frankfurt am Main....",
+                    "*...Soprannominata anche \"Bankfurt\", \"Mainhattan\" (gioco di parole tra Main, il fiume Meno, e Manhattan, cuore finanziario di New York) o \"Big Äppel\" (altro riferimento a New York, dove l'Äppelwoi è un tipico prodotto locale), è il centro finanziario della Germania e uno dei principali al mondo essendo sede della Banca centrale europea, della Banca Federale Tedesca e della Borsa di Francoforte (terza al mondo per volume di scambi azionari)....",
+                    "...Uno dei pochi grattacieli aperti al pubblico è il Main Tower, con una piattaforma di prospettiva a 200 metri d'altezza...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.688871,
+                    50.102554
+                ]
+            },
+            "properties": {
+                "entity": "Germania",
+                "name_location": "Zur Germania, 16, Textorstraße, Sachsenhausen, Sachsenhausen Nord, Süd, Francoforte sul Meno, Assia, 60594, Germania",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...Frankfurt am Main ), o semplicemente Francoforte, è una città extracircondariale della Germania sud-occidentale, situata nello Stato federato dell'Assia, la quinta tedesca per numero di abitanti dopo Berlino, Amburgo, Monaco e Colonia....",
+                    "*...Soprannominata anche \"Bankfurt\", \"Mainhattan\" (gioco di parole tra Main, il fiume Meno, e Manhattan, cuore finanziario di New York) o \"Big Äppel\" (altro riferimento a New York, dove l'Äppelwoi è un tipico prodotto locale), è il centro finanziario della Germania e uno dei principali al mondo essendo sede della Banca centrale europea, della Banca Federale Tedesca e della Borsa di Francoforte (terza al mondo per volume di scambi azionari)....",
+                    "*...Inoltre la città è famosa anche per avere la foresta urbana più estesa di Germania, oltre che per il suo importantissimo zoo....",
+                    "*...Francoforte è situata pressappoco al centro della Germania....",
+                    "*...Nei pressi dell'attuale città sorsero almeno tre forti militari in epoca romana fin dalla dinastia dei Flavi (vedi campagne germaniche di Domiziano), facente oggi parte del limes germanico-retico in Germania patrimonio dell'UNESCO....",
+                    "*...Nel 1949 la città perse però la votazione per la capitale della Germania dell'ovest che divenne Bonn, favorita dal primo cancelliere tedesco Konrad Adenauer....",
+                    "*...Pur non essendo capitale della Germania dell'ovest Francoforte vide un forte sviluppo economico nel dopoguerra diventando centro bancario, finanziario e fieristico della Germania oltre a nodo principale del traffico stradale, ferroviario e aereo....",
+                    "*...Nel quartiere Westend sorge la Sinagoga Westend, inaugurata nel 1910, uno degli edifici di culto ebraici più grandi e imponenti della Germania, uno dei pochi ad essere sopravvissuto alle distruzioni del periodo nazista....",
+                    "*...Francoforte è conosciuta come il centro finanziario tedesco, ospitando le sedi centrali di numerose fra le banche più importanti in Germania, varie banche estere, la borsa più importante in Germania, nonché la BCE - Banca Centrale Europea....",
+                    "*...La Stazione di Francoforte sul Meno Hauptbahnhof è la più grande dell'Assia e una delle più grandi di tutta la Germania, ma soprattutto è la maggiore per transito passeggeri in Europa, rivestendo dunque una certa importanza per la città...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.648028,
+                    50.131462
+                ]
+            },
+            "properties": {
+                "entity": "Monaco",
+                "name_location": "Honorarkonsulat von Monaco, 86, Frauenlobstraße, Bockenheim, Innenstadt 2, Francoforte sul Meno, Assia, 60487, Germania",
+                "class": "office",
+                "type": "diplomatic",
+                "snippet": [
+                    "*...Frankfurt am Main ), o semplicemente Francoforte, è una città extracircondariale della Germania sud-occidentale, situata nello Stato federato dell'Assia, la quinta tedesca per numero di abitanti dopo Berlino, Amburgo, Monaco e Colonia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.662538,
+                    50.108786
+                ]
+            },
+            "properties": {
+                "entity": "Manhattan",
+                "name_location": "Manhattan Hotel, Düsseldorfer Straße, Bahnhofsviertel, Innenstadt 1, Francoforte sul Meno, Assia, 60329, Germania",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...Soprannominata anche \"Bankfurt\", \"Mainhattan\" (gioco di parole tra Main, il fiume Meno, e Manhattan, cuore finanziario di New York) o \"Big Äppel\" (altro riferimento a New York, dove l'Äppelwoi è un tipico prodotto locale), è il centro finanziario della Germania e uno dei principali al mondo essendo sede della Banca centrale europea, della Banca Federale Tedesca e della Borsa di Francoforte (terza al mondo per volume di scambi azionari)....",
+                    "*...Per il suo particolare skyline Francoforte viene anche soprannominata Mainhattan, alludendo alla vera Manhattan di New York...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.695621,
+                    50.106109
+                ]
+            },
+            "properties": {
+                "entity": "New York",
+                "name_location": "Harry's New York Bar, Walther-von-Cronberg-Platz, Sachsenhausen, Sachsenhausen Nord, Süd, Francoforte sul Meno, Assia, 60594, Germania",
+                "class": "amenity",
+                "type": "bar",
+                "snippet": [
+                    "*...Soprannominata anche \"Bankfurt\", \"Mainhattan\" (gioco di parole tra Main, il fiume Meno, e Manhattan, cuore finanziario di New York) o \"Big Äppel\" (altro riferimento a New York, dove l'Äppelwoi è un tipico prodotto locale), è il centro finanziario della Germania e uno dei principali al mondo essendo sede della Banca centrale europea, della Banca Federale Tedesca e della Borsa di Francoforte (terza al mondo per volume di scambi azionari)....",
+                    "*...Per il suo particolare skyline Francoforte viene anche soprannominata Mainhattan, alludendo alla vera Manhattan di New York...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.710439,
+                    50.204094
+                ]
+            },
+            "properties": {
+                "entity": "Äppelwoi",
+                "name_location": "Äppelwoi-Stübche Grillmayer, 15, Zur Obermühle, Nieder-Erlenbach, Francoforte sul Meno, Assia, 60437, Germania",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...Soprannominata anche \"Bankfurt\", \"Mainhattan\" (gioco di parole tra Main, il fiume Meno, e Manhattan, cuore finanziario di New York) o \"Big Äppel\" (altro riferimento a New York, dove l'Äppelwoi è un tipico prodotto locale), è il centro finanziario della Germania e uno dei principali al mondo essendo sede della Banca centrale europea, della Banca Federale Tedesca e della Borsa di Francoforte (terza al mondo per volume di scambi azionari)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.664753,
+                    50.108452
+                ]
+            },
+            "properties": {
+                "entity": "Taunus",
+                "name_location": "Taunusstraße, Bahnhofsviertel, Innenstadt 1, Francoforte sul Meno, Assia, 60329, Germania",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...A pochi chilometri a nord della città sorge la catena montuosa del Taunus....",
+                    "*...A causa della vicinanza con le montagne del Taunus in inverno le temperature massime a volte non superano gli ...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.660547,
+                    50.104235
+                ]
+            },
+            "properties": {
+                "entity": "Darmstadt",
+                "name_location": "Finanzservicestelle (EG) / Regierungspräsidium Darmstadt, Abtlg. Arbeitsschutz und Umwelt Frankfurt, 114, Gutleutstraße, Gutleutviertel, Innenstadt 1, Francoforte sul Meno, Assia, 60327, Germania",
+                "class": "building",
+                "type": "office",
+                "snippet": [
+                    "*...Città vicine sono Magonza e Wiesbaden, a circa 20 chilometri ad ovest, la confinante Offenbach e Darmstadt, sita 25 chilometri a sud...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.677427,
+                    50.170236
+                ]
+            },
+            "properties": {
+                "entity": "Bonames",
+                "name_location": "Frankfurt Frankfurter Berg, Homburger Landstraße, Frankfurter Berg, Nord-Ost, Francoforte sul Meno, Assia, 60433, Germania",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Il quartiere Bonames nel X distretto prende il suo nome dal latino bona mansio...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.669872,
+                    50.104786
+                ]
+            },
+            "properties": {
+                "entity": "Bonn",
+                "name_location": "Villa Bonn, 44, Untermainkai, Bahnhofsviertel, Innenstadt 1, Francoforte sul Meno, Assia, 60329, Germania",
+                "class": "historic",
+                "type": "manor",
+                "snippet": [
+                    "*...Nel 1949 la città perse però la votazione per la capitale della Germania dell'ovest che divenne Bonn, favorita dal primo cancelliere tedesco Konrad Adenauer...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.679157,
+                    50.138516
+                ]
+            },
+            "properties": {
+                "entity": "Hessischer Rundfunk",
+                "name_location": "Hessischer Rundfunk, Kaiser-Sigmund-Straße, Dornbusch, Mitte-Nord, Francoforte sul Meno, Assia, 60320, Germania",
+                "class": "amenity",
+                "type": "fuel",
+                "snippet": [
+                    "*...A Francoforte era stato già costruito un edificio parlamentare che oggi è usato come sala da concerti della società radiofonica e televisiva dell'Assia (Hessischer Rundfunk)....",
+                    "...Nella Alte Oper si esibisce la hr-Sinfonieorchester, l'orchestra sinfonica della Hessischer Rundfunk, l'ente radiofonico pubblico dell'Assia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.685344,
+                    50.110667
+                ]
+            },
+            "properties": {
+                "entity": "Kaiserdom",
+                "name_location": "Kaiserdom St. Bartholomäus, 1, Domplatz, Altstadt, Innenstadt 1, Francoforte sul Meno, Assia, 60311, Germania",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Nel centro della città si trovano inoltre il Kaiserdom e il Römerberg....",
+                    "*...Il Duomo Imperiale, o Kaiserdom pur non essendo una sede vescovile, è chiamato Duomo imperiale per essere stato il luogo dell'elezione e dell'incoronazione degli imperatori del Sacro Romano Impero nei secoli. La cosiddetta Königsweg (via dei re) conduceva dal duomo al municipio sul Römerberg e veniva anticamente percorso dal nuovo imperatore, insieme a una processione, per essere festeggiato con un banchetto. Davanti al duomo si trova un Giardino archeologico contenente ruderi di un bagno romano e resti di costruzioni dell'epoca carolingia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.681966,
+                    50.110611
+                ]
+            },
+            "properties": {
+                "entity": "Römerberg",
+                "name_location": "Römerberg, Altstadt, Innenstadt 1, Francoforte sul Meno, Assia, 60311, Germania",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "...Nel centro della città si trovano inoltre il Kaiserdom e il Römerberg....",
+                    "*...Il Duomo Imperiale, o Kaiserdom pur non essendo una sede vescovile, è chiamato Duomo imperiale per essere stato il luogo dell'elezione e dell'incoronazione degli imperatori del Sacro Romano Impero nei secoli. La cosiddetta Königsweg (via dei re) conduceva dal duomo al municipio sul Römerberg e veniva anticamente percorso dal nuovo imperatore, insieme a una processione, per essere festeggiato con un banchetto. Davanti al duomo si trova un Giardino archeologico contenente ruderi di un bagno romano e resti di costruzioni dell'epoca carolingia....",
+                    "...Il Römerberg è la piazza centrale della città. Tra le diverse case ricostruite si trovano il municipio (Römer) e la  Alte Nikolaikirche (vecchia Chiesa di San Nicola)....",
+                    "*...Tra i pochi edifici ricostruiti ci furono il Römer, la Paulskirche e la casa di Goethe....",
+                    "*...Il Römerberg è la piazza centrale della città. Tra le diverse case ricostruite si trovano il municipio (Römer) e la  Alte Nikolaikirche (vecchia Chiesa di San Nicola)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.67223,
+                    50.112413
+                ]
+            },
+            "properties": {
+                "entity": "Main Tower",
+                "name_location": "Main Tower, 52-58, Neue Mainzer Straße, Innenstadt, Innenstadt 1, Francoforte sul Meno, Assia, 60311, Germania",
+                "class": "tourism",
+                "type": "viewpoint",
+                "snippet": [
+                    "*...Uno dei pochi grattacieli aperti al pubblico è il Main Tower, con una piattaforma di prospettiva a 200 metri d'altezza...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.69192,
+                    50.124673
+                ]
+            },
+            "properties": {
+                "entity": "Mainhattan",
+                "name_location": "Mainhattan Drive, Friedberger Landstraße, Nordend Ost, Innenstadt 3, Francoforte sul Meno, Assia, 60316, Germania",
+                "class": "amenity",
+                "type": "driving_school",
+                "snippet": [
+                    "...Soprannominata anche \"Bankfurt\", \"Mainhattan\" (gioco di parole tra Main, il fiume Meno, e Manhattan, cuore finanziario di New York) o \"Big Äppel\" (altro riferimento a New York, dove l'Äppelwoi è un tipico prodotto locale), è il centro finanziario della Germania e uno dei principali al mondo essendo sede della Banca centrale europea, della Banca Federale Tedesca e della Borsa di Francoforte (terza al mondo per volume di scambi azionari)....",
+                    "*...Per il suo particolare skyline Francoforte viene anche soprannominata Mainhattan, alludendo alla vera Manhattan di New York...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.687315,
+                    50.107993
+                ]
+            },
+            "properties": {
+                "entity": "Portikus",
+                "name_location": "Portikus, 2, Alte Brücke, Sachsenhausen Nord, Süd, Francoforte sul Meno, Assia, 60594, Germania",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Il Portikus è uno spazio espositivo di arte contemporanea, costruito sui resti della biblioteca del 1825 Stadbibliotek, distrutta nella Seconda Guerra mondiale...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.570818,
+                    50.089607
+                ]
+            },
+            "properties": {
+                "entity": "Schwanheim",
+                "name_location": "Schwanheim, B 40, Schwanheim, West, Francoforte sul Meno, Assia, 60529, Germania",
+                "class": "highway",
+                "type": "motorway_junction",
+                "snippet": [
+                    "*...Nel quartiere direzionale di Schwanheim da rilevare l'edificio per uffici Olivetti, opera moderna di Egon Eiermann...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.649837,
+                    50.117467
+                ]
+            },
+            "properties": {
+                "entity": "Bockenheim",
+                "name_location": "Goethe Universität - Campus Bockenheim, Gräfstraße, Bockenheim, Innenstadt 2, Francoforte sul Meno, Assia, 60486, Germania",
+                "class": "amenity",
+                "type": "university",
+                "snippet": [
+                    "*...La principale via residenziale e dello shopping del quartiere di Bockenheim a Francoforte è la Leipziger Straße...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.646266,
+                    50.122435
+                ]
+            },
+            "properties": {
+                "entity": "Leipziger Straße",
+                "name_location": "Leipziger Straße, Einkaufsmeile Leipziger Straße, Bockenheim, Innenstadt 2, Francoforte sul Meno, Assia, 60487, Germania",
+                "class": "railway",
+                "type": "platform",
+                "snippet": [
+                    "*...La principale via residenziale e dello shopping del quartiere di Bockenheim a Francoforte è la Leipziger Straße...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.679912,
+                    50.119697
+                ]
+            },
+            "properties": {
+                "entity": "Italia",
+                "name_location": "Blumenhaus Italia, Oeder Weg, Nordend West, Innenstadt 3, Francoforte sul Meno, Assia, 60318, Germania",
+                "class": "shop",
+                "type": "florist",
+                "snippet": [
+                    "*...La maggior parte degli immigrati vengono dalla Turchia, dall'ex-Jugoslavia e dall'Italia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.671237,
+                    50.115305
+                ]
+            },
+            "properties": {
+                "entity": "Alte Oper",
+                "name_location": "Alte Oper, Opernplatz, Innenstadt, Innenstadt 1, Francoforte sul Meno, Assia, 60313, Germania",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...Distrutto nei bombardamenti della seconda Guerra mondiale, fu ricostruito con il nome di Alte Oper (\"vecchia opera\") e serve oggi come sala da concerto....",
+                    "*...Nella Alte Oper si esibisce la hr-Sinfonieorchester, l'orchestra sinfonica della Hessischer Rundfunk, l'ente radiofonico pubblico dell'Assia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.664412,
+                    50.101269
+                ]
+            },
+            "properties": {
+                "entity": "Westhafen",
+                "name_location": "Westhafen Tower, 1, Westhafenplatz, Gutleutviertel, Innenstadt 1, Francoforte sul Meno, Assia, 60327, Germania",
+                "class": "building",
+                "type": "commercial",
+                "snippet": [
+                    "*...La città è un importante centro per il commercio sia navale, basato sui porti di Westhafen e Osthafen sul Meno, che aereo, essendo l'Aeroporto il terzo scalo più importante d'Europa dopo l'Aeroporto di Londra-Heathrow e l'Aeroporto di Parigi-Roissy...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.66046,
+                    50.121698
+                ]
+            },
+            "properties": {
+                "entity": "Fulda",
+                "name_location": "Heinrich Fulda, Feldbergstraße, Westend Süd, Innenstadt 2, Francoforte sul Meno, Assia, 60323, Germania",
+                "class": "historic",
+                "type": "memorial",
+                "snippet": [
+                    "*...Da qui diverse linee portano a Kassel (Main-Weser-Bahn), Fulda (Kinzigtalbahn), Parigi, Saarbrücken via Mannheim (Riedbahn), Hanau–Aschaffenburg via Offenbach e Colonia (Ferrovia Colonia-Francoforte) così come due linee, una per riva del Reno, in direzione nord...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.67203,
+                    50.105885
+                ]
+            },
+            "properties": {
+                "entity": "Saarbrücken",
+                "name_location": "Eisenbahn-Bundesamt, Außenstelle Frankfurt/Saarbrücken, Standort Frankfurt, 23-25, Untermainkai, Bahnhofsviertel, Innenstadt 1, Francoforte sul Meno, Assia, 60329, Germania",
+                "class": "office",
+                "type": "government",
+                "snippet": [
+                    "*...Da qui diverse linee portano a Kassel (Main-Weser-Bahn), Fulda (Kinzigtalbahn), Parigi, Saarbrücken via Mannheim (Riedbahn), Hanau–Aschaffenburg via Offenbach e Colonia (Ferrovia Colonia-Francoforte) così come due linee, una per riva del Reno, in direzione nord...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.606798,
+                    50.094222
+                ]
+            },
+            "properties": {
+                "entity": "RMV",
+                "name_location": "RMV, Autogenstraße, Griesheim, West, Francoforte sul Meno, Assia, 65933, Germania",
+                "class": "amenity",
+                "type": "vending_machine",
+                "snippet": [
+                    "*...Il consorzio RMV (Rhein-Main Verkehrsverbund) trasporta ogni anno sulle sue linee S-Bahn e U-Bahn circa 100 milioni di passeggeri...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.592386,
+                    50.056364
+                ]
+            },
+            "properties": {
+                "entity": "Rhein-Main Verkehrsverbund",
+                "name_location": "Rhein-Main-Verkehrsverbund, 7, Bessie-Coleman-Straße, Gateway Gardens, Flughafen, Süd, Francoforte sul Meno, Assia, 60549, Germania",
+                "class": "amenity",
+                "type": "vending_machine",
+                "snippet": [
+                    "*...Il consorzio RMV (Rhein-Main Verkehrsverbund) trasporta ogni anno sulle sue linee S-Bahn e U-Bahn circa 100 milioni di passeggeri...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.628926,
+                    50.107807
+                ]
+            },
+            "properties": {
+                "entity": "Tel Aviv",
+                "name_location": "Tel-Aviv-Platz, Europaviertel, Gallus, Innenstadt 1, Francoforte sul Meno, Assia, 60486, Germania",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Tel Aviv, dal 1980 solo contratto di amicizia ;..."
+                ]
+            }
+        }
+    ]
+}

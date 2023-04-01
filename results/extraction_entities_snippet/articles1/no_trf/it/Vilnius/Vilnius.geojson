@@ -1,0 +1,335 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.284742,
+                    54.669888
+                ]
+            },
+            "properties": {
+                "entity": "Вильна",
+                "name_location": "Vilnius, Geležinkelio g., Naujamiestis, Naujamiesčio seniūnija, Vilna, Comune urbano di Vilnius, Contea di Vilnius, 01047, Lituania",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*..., Vil'njus oppure Вильна, Vil'na;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.284742,
+                    54.669888
+                ]
+            },
+            "properties": {
+                "entity": "Vilna",
+                "name_location": "Vilnius, Geležinkelio g., Naujamiestis, Naujamiesčio seniūnija, Vilna, Comune urbano di Vilnius, Contea di Vilnius, 01047, Lituania",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...In italiano Vilna, è la capitale e la città più popolosa della Lituania, capoluogo dell'omonima contea...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.29288,
+                    54.684911
+                ]
+            },
+            "properties": {
+                "entity": "Vilnia",
+                "name_location": "Hotel Vilnia, 1, Maironio g., Senamiestis, Senamiesčio seniūnija, Vilna, Comune urbano di Vilnius, Contea di Vilnius, 01124, Lituania",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...Si ritiene che Vilnius, analogamente a molte altre città, debba l'origine del suo nome al fiume su cui sorge, la Vilnia....",
+                    "*...Vilnius si trova nel sud est della Lituania, alla confluenza dei fiumi Vilnia e Neris...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.309211,
+                    54.70165
+                ]
+            },
+            "properties": {
+                "entity": "Neris",
+                "name_location": "Petro Vileišio st., Antakalnio g., Antakalnis, Antakalnio seniūnija, Vilna, Comune urbano di Vilnius, Contea di Vilnius, 10305, Lituania",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Vilnius si trova nel sud est della Lituania, alla confluenza dei fiumi Vilnia e Neris....",
+                    "*...Anche se il fiume Neris sarebbe navigabile, non esistono regolari trasporti via acqua...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.151408,
+                    54.655263
+                ]
+            },
+            "properties": {
+                "entity": "Kaunas",
+                "name_location": "Kaunas, Gariūnų g., Gariūnai, Panerių seniūnija, Vilna, Comune urbano di Vilnius, Contea di Vilnius, 02300, Lituania",
+                "class": "highway",
+                "type": "motorway_junction",
+                "snippet": [
+                    "*...Kaunas è a 102 km di distanza, Šiauliai a 214 km e Panevėžys a 135 km....",
+                    "*...Le autorità lituane, dalla nuova capitale, Kaunas, rifiutarono di riconoscere l'annessione di Vilnius alla Polonia e le relazioni diplomatiche tra i due paesi vennero interrotte fino al 1938....",
+                    "*...Le autorità lituane entrarono a Vilnius poco dopo e le strutture governative cominciarono ad esservi spostate da Kaunas....",
+                    "*...Vilnius è il punto di partenza delle autostrade Vilnius - Kaunas - Klaipėda e Vilnius-Panevežys....",
+                    "*...Numerosi convogli regionali ed espressi raggiungono Kaunas, Klaipėda, Šiaulai, Ignalina, Varėna e Telšiai....",
+                    "*...La squadra calcistica più importante della città è lo FK Žalgiris, da non confondere con il Kauno Žalgiris della città di Kaunas...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.075578,
+                    54.959359
+                ]
+            },
+            "properties": {
+                "entity": "Šiauliai",
+                "name_location": "Šiauliai, Vilniaus g., Šiauliai, Jauniūnų seniūnija, Širvintų rajono savivaldybė, Contea di Vilnius, 19150, Lituania",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Kaunas è a 102 km di distanza, Šiauliai a 214 km e Panevėžys a 135 km...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.241283,
+                    54.695282
+                ]
+            },
+            "properties": {
+                "entity": "Ucraini",
+                "name_location": "Via Eroi Ucraini, Žvėrynas, Žvėryno seniūnija, Vilna, Comune urbano di Vilnius, Contea di Vilnius, 08111, Lituania",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Ebrei scomparsi (già in netto calo negli anni), e l'8,6% di altre nazionalità come Bielorussi o Ucraini...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.405129,
+                    54.315081
+                ]
+            },
+            "properties": {
+                "entity": "Šalčininkai",
+                "name_location": "Šalčininkai, Saulėtoji g., Šalčininkai, Šalčininkų seniūnija, Šalčininkų rajono savivaldybė, Contea di Vilnius, 17120, Lituania",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Il Comune distrettuale di Vilnius e i comuni di Šalčininkai, Širvintos, Švenčionys, Trakai, Ukmergė ed Elektrėnai...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.185994,
+                    54.639844
+                ]
+            },
+            "properties": {
+                "entity": "Trakai",
+                "name_location": "Trakai, Savanorių pr., Aukštieji Paneriai, Panerių seniūnija, Vilna, Comune urbano di Vilnius, Contea di Vilnius, 02301, Lituania",
+                "class": "highway",
+                "type": "motorway_junction",
+                "snippet": [
+                    "*...Il Comune distrettuale di Vilnius e i comuni di Šalčininkai, Širvintos, Švenčionys, Trakai, Ukmergė ed Elektrėnai...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.812518,
+                    55.176017
+                ]
+            },
+            "properties": {
+                "entity": "Ukmergė",
+                "name_location": "Ukmergė (Vytinė), A2, Jačionys, Pivonijos seniūnija, Ukmergės rajono savivaldybė, Contea di Vilnius, 20195, Lituania",
+                "class": "highway",
+                "type": "motorway_junction",
+                "snippet": [
+                    "*...Il Comune distrettuale di Vilnius e i comuni di Šalčininkai, Širvintos, Švenčionys, Trakai, Ukmergė ed Elektrėnai...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.673845,
+                    54.79
+                ]
+            },
+            "properties": {
+                "entity": "Elektrėnai",
+                "name_location": "Elektrėnai, A1, Migūčionys, Elektrėnų seniūnija, Comune di Elektrėnai, Contea di Vilnius, 26141, Lituania",
+                "class": "highway",
+                "type": "motorway_junction",
+                "snippet": [
+                    "*...Il Comune distrettuale di Vilnius e i comuni di Šalčininkai, Širvintos, Švenčionys, Trakai, Ukmergė ed Elektrėnai...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.289595,
+                    54.674299
+                ]
+            },
+            "properties": {
+                "entity": "Porta dell'Aurora",
+                "name_location": "Icona di Nostra Signora della Porta dell'Aurora, Aušros Vartų g., Senamiestis, Senamiesčio seniūnija, Vilna, Comune urbano di Vilnius, Contea di Vilnius, 01304, Lituania",
+                "class": "tourism",
+                "type": "artwork",
+                "snippet": [
+                    "*...Tutte le porte saranno demolite verso la fine del XVIII secolo, tranne la Porta dell'Aurora, nella cui cappella è venerata un'effigie della Vergine Maria Madre della Misericordia ritenuta miracolosa, meta di pellegrinaggio...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.301075,
+                    54.670469
+                ]
+            },
+            "properties": {
+                "entity": "Rasu kapines",
+                "name_location": "Rasų kapinės, Rasų g., Rasos, Rasų seniūnija, Vilna, Comune urbano di Vilnius, Contea di Vilnius, 11350, Lituania",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Nel 1769 fu fondato il Cimitero di Rasos, conosciuto con il nome lituano di Rasu kapines...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.288524,
+                    54.674161
+                ]
+            },
+            "properties": {
+                "entity": "Aušros Vartai",
+                "name_location": "Aušros vartai, Bazilijonų g., Senamiestis, Senamiesčio seniūnija, Vilna, Comune urbano di Vilnius, Contea di Vilnius, 01304, Lituania",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...I russi distrussero le mura cittadine e, trascorso il periodo tra il 1799 ed il 1805, rimase in piedi solo la famosa Porta Orientale (Aušros Vartai, oppure Medininku Vartai in lituano, Ostra Brama in polacco)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.28956,
+                    54.674308
+                ]
+            },
+            "properties": {
+                "entity": "Ostra Brama",
+                "name_location": "Aušros Vartai, Aušros Vartų g., Senamiestis, Senamiesčio seniūnija, Vilna, Comune urbano di Vilnius, Contea di Vilnius, 01304, Lituania",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...I russi distrussero le mura cittadine e, trascorso il periodo tra il 1799 ed il 1805, rimase in piedi solo la famosa Porta Orientale (Aušros Vartai, oppure Medininku Vartai in lituano, Ostra Brama in polacco)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.177071,
+                    54.629718
+                ]
+            },
+            "properties": {
+                "entity": "Paneriai",
+                "name_location": "Paneriai, Agrastų g., Aukštieji Paneriai, Panerių seniūnija, Vilna, Comune urbano di Vilnius, Contea di Vilnius, 02243, Lituania",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...Gli ebrei rappresentano la stragrande maggioranze delle 100 000 vittime delle esecuzioni di massa a Paneriai, circa 10 km ad ovest del centro della Città Vecchia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.17495,
+                    55.244867
+                ]
+            },
+            "properties": {
+                "entity": "Ignalina",
+                "name_location": "Ignalinos aerodromas, 4403, Pamurmė, Didžiasalis, Ignalinos seniūnija, Ignalinos rajono savivaldybė, Contea di Utena, 18204, Lituania",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "*...Numerosi convogli regionali ed espressi raggiungono Kaunas, Klaipėda, Šiaulai, Ignalina, Varėna e Telšiai...."
+                ]
+            }
+        }
+    ]
+}

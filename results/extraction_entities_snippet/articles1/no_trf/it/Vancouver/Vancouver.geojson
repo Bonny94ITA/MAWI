@@ -1,0 +1,900 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.853953,
+                    49.199685
+                ]
+            },
+            "properties": {
+                "entity": "Pacifica",
+                "name_location": "Pacifica, 13277, 108 Avenue, City Centre, Surrey, Metro Vancouver Regional District, Columbia Britannica, V3T 0G4, Canada",
+                "class": "office",
+                "type": "financial",
+                "snippet": [
+                    "*...Vancouver (AFI: ) è una città canadese, sulla costa Pacifica della provincia canadese della Columbia Britannica, situata nella parte meridionale della provincia, uno dei maggiori porti dell'Oceano Pacifico, delimitata dallo Stretto di Georgia, dal fiume Fraser, e dalla catena montuosa delle Montagne Costiere....",
+                    "...È la maggiore città canadese sulla costa pacifica ed è proprio l'Oceano Pacifico a caratterizzare il clima, rendendolo tra i più miti del paese nordamericano...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.598543,
+                    49.140793
+                ]
+            },
+            "properties": {
+                "entity": "Fraser",
+                "name_location": "Fraser Hall, East Road, Forest Knolls, Township of Langley, Metro Vancouver Regional District, Columbia Britannica, V1M 2J6, Canada",
+                "class": "building",
+                "type": "residential",
+                "snippet": [
+                    "*...Vancouver (AFI: ) è una città canadese, sulla costa Pacifica della provincia canadese della Columbia Britannica, situata nella parte meridionale della provincia, uno dei maggiori porti dell'Oceano Pacifico, delimitata dallo Stretto di Georgia, dal fiume Fraser, e dalla catena montuosa delle Montagne Costiere....",
+                    "*...È adiacente allo stretto di Georgia e all'isola di Vancouver (Vancouver Island), a sud è delimitata dalla foce del fiume Fraser e al nord dai fiordi Burrard Inlet, Indian Arm e le montagne costiere....",
+                    "*...Il commerciante Simon Fraser della Compagnia del Nord-Ovest e il suo equipaggio furono i primi europei nel 1808 a mettere piede sul sito della città odierna, avendo prima disceso il fiume Fraser....",
+                    "*...La corsa all'oro nel 1861 portò 25 000 uomini, provenienti soprattutto dalla California, alla foce del Fraser e di quella che sarebbe diventata Vancouver....",
+                    "*...Il primo insediamento europeo fu creato nel 1862 presso McLeery's Farm sul fiume Fraser, appena ad est dell'antico villaggio di Musqueam in quello che ora è Mariole....",
+                    "*...Dal 1º gennaio 1929 la popolazione di Vancouver era di 228 193 abitanti tanto da occupare tutta la penisola tra il Burrard Inlet e il fiume Fraser....",
+                    "...Vancouver è sede di due Università notevoli, l'Università della Columbia Britannica e la Simon Fraser University...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.001156,
+                    49.225294
+                ]
+            },
+            "properties": {
+                "entity": "Greater Vancouver Regional District",
+                "name_location": "Metro Vancouver, 4730, Kingsway, Metrotown, Burnaby, Metro Vancouver Regional District, Columbia Britannica, V5H 2B3, Canada",
+                "class": "amenity",
+                "type": "townhall",
+                "snippet": [
+                    "*...Vancouver fa infatti parte della regione metropolitana conosciuta come \"Greater Vancouver Regional District\" (GVRD) o Metro Vancouver, i cui 2 463 431 abitanti nel 2016 la rendono la più grande area metropolitana nel Canada occidentale, e la terza più grande nel paese...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.108942,
+                    49.277909
+                ]
+            },
+            "properties": {
+                "entity": "Canada",
+                "name_location": "Rogers Arena, 800, Griffiths Way, Gastown, Downtown, Vancouver, Metro Vancouver Regional District, Columbia Britannica, V6B 1V4, Canada",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...Vancouver fa infatti parte della regione metropolitana conosciuta come \"Greater Vancouver Regional District\" (GVRD) o Metro Vancouver, i cui 2 463 431 abitanti nel 2016 la rendono la più grande area metropolitana nel Canada occidentale, e la terza più grande nel paese....",
+                    "*...Come in buona parte del Canada, anche Vancouver etnicamente è molto diversificata:...",
+                    "*...Nel 2007 Vancouver era la città più cara del Canada dopo Toronto e l'89ª a livello globale....",
+                    "*...Dal punto di vista climatico, Vancouver va contro lo stereotipo canadese ed è, tra quelle medio-grandi, la città del Canada ad avere le temperature più miti....",
+                    "*...Mary Ellen Smith divenne la prima donna eletta in una legislatura provinciale in Canada nel 1918....",
+                    "*...La ragione dell'elevato numero di senzatetto sta principalmente nel fatto che, essendo climaticamente la città più vivibile del Canada, molti vagabondi vi si stabiliscono....",
+                    "*...Meno delle maggiori città del Canada, anche Vancouver dispone della cosiddetta \"città sotterranea\" e cioè l'insieme di gallerie piene di negozi ed attività commerciali di vario genere che passano da un palazzo all'altro....",
+                    "*...Con la sua posizione sulla costa del Pacifico e al capolinea occidentale delle autostrade e delle linee ferroviarie transcontinentali del Canada, Vancouver è uno dei più grandi centri industriali della nazione....",
+                    "*...Port Metro Vancouver, il porto più grande e diversificato del Canada, scambia più di 172 miliardi di dollari ogni anno con oltre 160 diverse economie commerciali....",
+                    "*...E la più grande pubblicazione solo online del Canada occidentale, Daily Hive....",
+                    "*...Il porto di Vancouver è il porto più grande del Canada e il terzo porto più grande delle Americhe (per tonnellaggio)....",
+                    "*...Vancouver è la città più stressata per quanto riguarda l'accessibilità degli alloggi in Canada....",
+                    "*...Un fattore che spiega i prezzi elevati degli immobili potrebbe essere la politica del governo canadese che consente il lavaggio della neve, che consente agli stranieri di acquistare proprietà in Canada proteggendo la loro identità dalle autorità fiscali, rendendo le transazioni immobiliari un modo efficace per condurre il riciclaggio di denaro....",
+                    "...Alcuni punti di riferimento di Vancouver ancora in piedi, tra cui il sistema di trasporto pubblico SkyTrain e Canada Place, sono stati costruiti come parte dell'esposizione....",
+                    "*...Vancouver è una delle città più dinamiche e trasformiste di tutto il Canada ed offre diversi divertimenti e svaghi....",
+                    "*...L'Aeroporto, un tempo di importanza minore, negli ultimi anni, grazie alla crescita economica ed ai XXI Giochi olimpici invernali del 2010, sta subendo lavori di ampliamento ed il suo traffico è in costante aumento, sia sulle tratte USA - Canada che sulle tratte intercontinentali....",
+                    "*...La città è collegata al resto del Canada tramite l'autostrada HWY1 meglio nota come \"Trans-Canada HighWay\"....",
+                    "*...Il treno, sebbene in Canada come in USA sia un mezzo di trasporto poco considerato, ha un suo Terminal dedicato nella Pacific Central Station...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.119953,
+                    49.28208
+                ]
+            },
+            "properties": {
+                "entity": "New York",
+                "name_location": "Kate Spade New York, Howe Street, Yaletown, Downtown, Vancouver, Metro Vancouver Regional District, Columbia Britannica, V7Y 1K8, Canada",
+                "class": "shop",
+                "type": "clothes",
+                "snippet": [
+                    "*...La popolazione metropolitana è proiettata a raggiungere i 3 milioni di abitanti entro il 2021, mentre la densità di popolazione è tra le più alte del Nord America, e la pone al quarto posto (dopo New York, San Francisco e Città del Messico);...",
+                    "*...La città è diventata il più grande polo di produzione cinematografica del Nord America dopo Los Angeles e New York, tanto da guadagnarsi il soprannome di \"Hollywood del Nord\" (\"Hollywood North\")....",
+                    "*...L'enorme quantità di grattacieli commerciali e residenziali costruiti dal 1997 e fino al 2004, hanno fatto posizionare Vancouver al 3º posto nella graduatoria delle 'città verticali\" del Nord America, con una densità di grattacieli per chilometro quadrato che la colloca terza dietro a New York e San Francisco...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.119671,
+                    49.280017
+                ]
+            },
+            "properties": {
+                "entity": "Hollywood North",
+                "name_location": "Hollywood North, 856, Seymour Street, Yaletown, Downtown, Vancouver, Metro Vancouver Regional District, Columbia Britannica, V6B 3L5, Canada",
+                "class": "amenity",
+                "type": "bar",
+                "snippet": [
+                    "*...La città è diventata il più grande polo di produzione cinematografica del Nord America dopo Los Angeles e New York, tanto da guadagnarsi il soprannome di \"Hollywood del Nord\" (\"Hollywood North\")....",
+                    "*...Negli ultimi anni Vancouver è divenuta famosa anche per un soprannome datole dagli americani Hollywood North...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.237059,
+                    49.266236
+                ]
+            },
+            "properties": {
+                "entity": "Toronto",
+                "name_location": "Toronto Road, University Endowment Lands, Metro Vancouver Regional District, Columbia Britannica, V6T 1W4, Canada",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Nel 2007 Vancouver era la città più cara del Canada dopo Toronto e l'89ª a livello globale....",
+                    "*...La \"città sotterranea\" di Vancouver è comunque molto limitata (circa  di gallerie), specialmente se rapportata a realtà quali Montréal e Toronto...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.985641,
+                    49.201232
+                ]
+            },
+            "properties": {
+                "entity": "Burrard Inlet",
+                "name_location": "Burrard Inlet Rail Services, 5489, Byrne Creek Urban Trail, Big Bend, Burnaby, Metro Vancouver Regional District, Columbia Britannica, V5J 0A2, Canada",
+                "class": "office",
+                "type": "company",
+                "snippet": [
+                    "*...È adiacente allo stretto di Georgia e all'isola di Vancouver (Vancouver Island), a sud è delimitata dalla foce del fiume Fraser e al nord dai fiordi Burrard Inlet, Indian Arm e le montagne costiere....",
+                    "*...Point Grey, nel 1791, fu il primo punto esplorato da un europeo, più precisamente dallo spagnolo José María Narváez, seguito da George Vancouver, che si spinse fino al porto interno di Burrard Inlet nel 1792 e diede diversi nomi inglesi ai luoghi....",
+                    "*...Dal 1º gennaio 1929 la popolazione di Vancouver era di 228 193 abitanti tanto da occupare tutta la penisola tra il Burrard Inlet e il fiume Fraser...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.112501,
+                    49.262991
+                ]
+            },
+            "properties": {
+                "entity": "California",
+                "name_location": "Sushi California, 388, West Broadway, Mount Pleasant, Vancouver, Metro Vancouver Regional District, Columbia Britannica, V5Y 1P5, Canada",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...La corsa all'oro nel 1861 portò 25 000 uomini, provenienti soprattutto dalla California, alla foce del Fraser e di quella che sarebbe diventata Vancouver...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.183397,
+                    49.2346
+                ]
+            },
+            "properties": {
+                "entity": "Musqueam",
+                "name_location": "Musqueam, West 41st Avenue, Dunbar-Southlands, Vancouver, Metro Vancouver Regional District, Columbia Britannica, V6N 3E0, Canada",
+                "class": "amenity",
+                "type": "post_office",
+                "snippet": [
+                    "*...Il primo insediamento europeo fu creato nel 1862 presso McLeery's Farm sul fiume Fraser, appena ad est dell'antico villaggio di Musqueam in quello che ora è Mariole...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.096092,
+                    49.32581
+                ]
+            },
+            "properties": {
+                "entity": "Cumberland",
+                "name_location": "Cumberland Crescent, Marine-Hamilton, North Vancouver, Metro Vancouver Regional District, Columbia Britannica, V7P, Canada",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Il primo sciopero generale si è verificato a seguito della morte di un altro leader laburista, Ginger Goodwin, nel 1918, presso le miniere di carbone di Cumberland sull'Isola di Vancouver...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.090399,
+                    49.229499
+                ]
+            },
+            "properties": {
+                "entity": "South Vancouver",
+                "name_location": "Vancouver Public Library South Hill Branch, 6076, Fraser Street, South Hill, Sunset, Vancouver, Metro Vancouver Regional District, Columbia Britannica, Canada",
+                "class": "amenity",
+                "type": "library",
+                "snippet": [
+                    "*...La fusione con Point Grey e South Vancouver hanno dato alla città i suoi definitivi contorni, tanto da rappresentare oggi la terza più grande metropoli del paese...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.005151,
+                    49.229426
+                ]
+            },
+            "properties": {
+                "entity": "Hong Kong",
+                "name_location": "Hong Kong, 4500, Kingsway, Metrotown, Burnaby, Metro Vancouver Regional District, Columbia Britannica, V5H 2A6, Canada",
+                "class": "shop",
+                "type": "clothes",
+                "snippet": [
+                    "*...La popolazione di origine asiatica è talmente numerosa che la città viene spesso soprannominata \"Hong Kouver\", in merito al fatto che qui si sono stabiliti molti facoltosi cinesi fuggiti da Hong Kong prima che questa fosse restituita alla Cina nel 1997....",
+                    "*...A partire dal 1997 in poi, con l'arrivo in città di nuovi e facoltosi immigrati, specialmente da Hong Kong, la città ha velocemente iniziato a crescere e così, vista la necessità e le numerose richieste, si è cominciato a costruire nuovi edifici residenziali nel centro....",
+                    "*...Dagli anni '90, lo sviluppo di condomini a molti piani nel centro della penisola è stato finanziato, in parte, dall'afflusso di capitali dagli immigrati di Hong Kong a causa del passaggio di consegne dell'ex colonia alla Cina nel 1997...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.07612,
+                    49.232915
+                ]
+            },
+            "properties": {
+                "entity": "East Side",
+                "name_location": "East Side Craft House, East 41st Avenue, Kensington-Cedar Cottage, Vancouver, Metro Vancouver Regional District, Columbia Britannica, V5P 1J8, Canada",
+                "class": "amenity",
+                "type": "pub",
+                "snippet": [
+                    "*...Nonostante la città goda di un elevato tenore e qualità di vita, fenomeni come il vagabondaggio e i senzatetto, sono molto diffusi, specialmente nel East Side e a sud del Downtown, tanto da essere indicati nelle maggiori guide turistiche come possibili fonti di problemi per i visitatori...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.135337,
+                    49.272363
+                ]
+            },
+            "properties": {
+                "entity": "Italia",
+                "name_location": "Duso's Italia, 1689, Johnston Street, Granville Island, Fairview, Vancouver, Metro Vancouver Regional District, Columbia Britannica, V6H, Canada",
+                "class": "shop",
+                "type": "deli",
+                "snippet": [
+                    "*...Nonostante tali crimini vengano considerati un problema serio dalla Polizia Canadese, la percentuale di essi, specialmente se rapportata ai vicini USA ma anche all'Italia, è da considerarsi molto bassa...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.059933,
+                    49.281177
+                ]
+            },
+            "properties": {
+                "entity": "East Hastings Street",
+                "name_location": "East Hastings Street, Grandview-Woodland, Vancouver, Metro Vancouver Regional District, Columbia Britannica, V5L, Canada",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...Le aree più a rischio si trovano nella zona compresa tra East Hastings Street e Nord Main Street...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0699,
+                    49.266486
+                ]
+            },
+            "properties": {
+                "entity": "East End",
+                "name_location": "East End Pharmacy, 2021, Commercial Street, Kensington-Cedar Cottage, Vancouver, Metro Vancouver Regional District, Columbia Britannica, V5N, Canada",
+                "class": "amenity",
+                "type": "pharmacy",
+                "snippet": [
+                    "*...Anche l'area dell'East End si compone di alcune zone a rischio, ma come sopracitato, se comparate con gli USA e l'Europa, queste zone possono essere definite a \"rischio ridotto\"...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.106444,
+                    49.279847
+                ]
+            },
+            "properties": {
+                "entity": "Europa",
+                "name_location": "Europa, 63, Keefer Place, Chinatown, Downtown, Vancouver, Metro Vancouver Regional District, Columbia Britannica, V6B 0C9, Canada",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...Anche l'area dell'East End si compone di alcune zone a rischio, ma come sopracitato, se comparate con gli USA e l'Europa, queste zone possono essere definite a \"rischio ridotto\"...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.489447,
+                    49.090852
+                ]
+            },
+            "properties": {
+                "entity": "Asia",
+                "name_location": "Asia, 5048, 264 Street, Gloucester, Township of Langley, Metro Vancouver Regional District, Columbia Britannica, V4W 2V1, Canada",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Negli ultimi anni Vancouver è diventata una città importante come ponte con l'Asia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.246242,
+                    49.257831
+                ]
+            },
+            "properties": {
+                "entity": "Università della Columbia Britannica",
+                "name_location": "Università della Columbia Britannica, University Boulevard, West Point Grey, Electoral Area A, Metro Vancouver Regional District, Columbia Britannica, V6R 3E9, Canada",
+                "class": "amenity",
+                "type": "university",
+                "snippet": [
+                    "*...Vancouver è sede di due Università notevoli, l'Università della Columbia Britannica e la Simon Fraser University....",
+                    "*...Vancouver (AFI: ) è una città canadese, sulla costa Pacifica della provincia canadese della Columbia Britannica, situata nella parte meridionale della provincia, uno dei maggiori porti dell'Oceano Pacifico, delimitata dallo Stretto di Georgia, dal fiume Fraser, e dalla catena montuosa delle Montagne Costiere....",
+                    "*...La sua economia ha tradizionalmente fatto leva sulle risorse della Columbia Britannica (forestali, minerarie, pesca e agricoltura), ma tuttavia è andata diversificandosi nel tempo, e oggi Vancouver ha un'importante e vitale industria nel settore dei servizi e del turismo....",
+                    "*...Vancouver si presenta quindi come una delle città più giovani della Columbia Britannica....",
+                    "*...La costruzione della ferrovia fu tra le condizioni preliminari per l'adesione della Columbia Britannica alla Confederazione canadese nel 1871...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.119592,
+                    49.276739
+                ]
+            },
+            "properties": {
+                "entity": "Montréal",
+                "name_location": "BMO, 1004, Hamilton Street, Yaletown, Downtown, Vancouver, Metro Vancouver Regional District, Columbia Britannica, V6B 5P6, Canada",
+                "class": "amenity",
+                "type": "bank",
+                "snippet": [
+                    "*...La \"città sotterranea\" di Vancouver è comunque molto limitata (circa  di gallerie), specialmente se rapportata a realtà quali Montréal e Toronto...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.117931,
+                    49.281873
+                ]
+            },
+            "properties": {
+                "entity": "Scotia Tower",
+                "name_location": "Scotia Tower, 753, Seymour Street, Yaletown, Downtown, Vancouver, Metro Vancouver Regional District, Columbia Britannica, V6B 2B7, Canada",
+                "class": "building",
+                "type": "commercial",
+                "snippet": [
+                    "*...Fino alla metà degli anni novanta del XX secolo, la città di Vancouver disponeva di un ridottissimo numero di grattacieli, tra cui spiccava la Scotia Tower, sede locale della Banca della Nova Scotia ( - 34 piani)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.112064,
+                    49.284767
+                ]
+            },
+            "properties": {
+                "entity": "Harbour Centre",
+                "name_location": "Harbour Centre, 555, West Hastings Street, Gastown, Downtown, Vancouver, Metro Vancouver Regional District, Columbia Britannica, V6B 4N6, Canada",
+                "class": "building",
+                "type": "office",
+                "snippet": [
+                    "*...Harbour Centre  - 28 piani;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.112666,
+                    49.286114
+                ]
+            },
+            "properties": {
+                "entity": "Granville Square",
+                "name_location": "Granville Square/PwC Place, Waterfront Station (underground walkway), Gastown, Downtown, Vancouver, Metro Vancouver Regional District, Columbia Britannica, V6B 5A7, Canada",
+                "class": "amenity",
+                "type": "parking",
+                "snippet": [
+                    "*...Granville Square  - 30 piani;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.841321,
+                    49.181221
+                ]
+            },
+            "properties": {
+                "entity": "City of Surrey",
+                "name_location": "City of Surrey District Energy Boiler Plant, Whalley Boulevard, City Centre, Surrey, Metro Vancouver Regional District, Columbia Britannica, V3T 0L5, Canada",
+                "class": "building",
+                "type": "industrial",
+                "snippet": [
+                    "*...City of Surrey ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.117885,
+                    49.28285
+                ]
+            },
+            "properties": {
+                "entity": "Aritzia",
+                "name_location": "Aritzia, Granville Street, Yaletown, Downtown, Vancouver, Metro Vancouver Regional District, Columbia Britannica, V7Y 1A1, Canada",
+                "class": "shop",
+                "type": "clothes",
+                "snippet": [
+                    "*...La forte attenzione della città allo stile di vita e alla cultura della salute la rende anche un hub per molti marchi di lifestyle con Lululemon, Arc'teryx, Kit and Ace, Mountain Equipment Co-op, Herschel Supply Co., Aritzia, Reigning Champ e Nature's Path Foods tutti fondata e con sede a Vancouver...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.12613,
+                    49.285234
+                ]
+            },
+            "properties": {
+                "entity": "Reigning Champ",
+                "name_location": "Reigning Champ, 1148, Robson Street, Davie Village, West End, Vancouver, Metro Vancouver Regional District, Columbia Britannica, V6E, Canada",
+                "class": "shop",
+                "type": "clothes",
+                "snippet": [
+                    "*...La forte attenzione della città allo stile di vita e alla cultura della salute la rende anche un hub per molti marchi di lifestyle con Lululemon, Arc'teryx, Kit and Ace, Mountain Equipment Co-op, Herschel Supply Co., Aritzia, Reigning Champ e Nature's Path Foods tutti fondata e con sede a Vancouver...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.136624,
+                    49.294575
+                ]
+            },
+            "properties": {
+                "entity": "Stanley Park",
+                "name_location": "Stanley Park Causeway, Coal Harbour, Downtown, Vancouver, Metro Vancouver Regional District, Columbia Britannica, V6G, Canada",
+                "class": "highway",
+                "type": "trunk",
+                "snippet": [
+                    "*...Molti visitano i giardini della città, lo Stanley Park, il Queen Elizabeth Park, il VanDusen Botanical Garden e le montagne, l'oceano, le foreste e i parchi che circondano la città...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.003244,
+                    49.262281
+                ]
+            },
+            "properties": {
+                "entity": "Alaska",
+                "name_location": "Alaska Street, West Central Valley, Burnaby, Metro Vancouver Regional District, Columbia Britannica, V5C 5L6, Canada",
+                "class": "highway",
+                "type": "unclassified",
+                "snippet": [
+                    "*...Ogni anno oltre un milione di persone attraversa Vancouver in vacanza in nave da crociera, spesso dirette in Alaska...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.120278,
+                    49.274091
+                ]
+            },
+            "properties": {
+                "entity": "Yaletown",
+                "name_location": "Yaletown, 1146, Pacific Boulevard, Yaletown, Downtown, Vancouver, Metro Vancouver Regional District, Columbia Britannica, V6Z 2Y0, Canada",
+                "class": "amenity",
+                "type": "post_office",
+                "snippet": [
+                    "*...Tale sviluppo si è concentrato nei distretti di Yaletown e Coal Harbor e intorno a molte delle stazioni SkyTrain a est del centro cittadino...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.849875,
+                    49.276427
+                ]
+            },
+            "properties": {
+                "entity": "Napoli",
+                "name_location": "Spacca Napoli, Saint Johns Street, Port Moody, Metro Vancouver Regional District, Columbia Britannica, V3H 2C1, Canada",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...La via più famosa della città è senz'altro Robson Street, situata nel cuore del Downtown, e può essere paragonata a via Toledo a Napoli, via Monte Napoleone a Milano o via del Corso a Roma;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.130298,
+                    49.278676
+                ]
+            },
+            "properties": {
+                "entity": "Milano",
+                "name_location": "Milano, 1003, Burnaby Street, Davie Village, West End, Vancouver, Metro Vancouver Regional District, Columbia Britannica, V6E, Canada",
+                "class": "building",
+                "type": "apartments",
+                "snippet": [
+                    "*...La via più famosa della città è senz'altro Robson Street, situata nel cuore del Downtown, e può essere paragonata a via Toledo a Napoli, via Monte Napoleone a Milano o via del Corso a Roma;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.946807,
+                    49.18146
+                ]
+            },
+            "properties": {
+                "entity": "Roma",
+                "name_location": "Roma, Queensborough, New Westminster, Metro Vancouver Regional District, Columbia Britannica, V3M 6E7, Canada",
+                "class": "highway",
+                "type": "construction",
+                "snippet": [
+                    "*...La via più famosa della città è senz'altro Robson Street, situata nel cuore del Downtown, e può essere paragonata a via Toledo a Napoli, via Monte Napoleone a Milano o via del Corso a Roma;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.115489,
+                    49.278551
+                ]
+            },
+            "properties": {
+                "entity": "Robson Street",
+                "name_location": "Robson Street, Yaletown, Downtown, Vancouver, Metro Vancouver Regional District, Columbia Britannica, V6B 0E7, Canada",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...La via più famosa della città è senz'altro Robson Street, situata nel cuore del Downtown, e può essere paragonata a via Toledo a Napoli, via Monte Napoleone a Milano o via del Corso a Roma;...",
+                    "*...Un'altra Strada molto praticata è Davie Street, parallela alla Robson Street, trasgressiva nei gusti e nelle tendenze, piena di locali etnici e mèta d'incontri notturni...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.13882,
+                    49.257155
+                ]
+            },
+            "properties": {
+                "entity": "Granville Street",
+                "name_location": "Granville Street, South Granville, Fairview, Vancouver, Metro Vancouver Regional District, Columbia Britannica, V6H, Canada",
+                "class": "highway",
+                "type": "trunk",
+                "snippet": [
+                    "*...Altra famosa Strada di Vancouver è la Granville Street, che per quasi la totalità della sua lunghezza è circondata da locali cinematografici, teatri, pub e locali notturni dove in qualsiasi ora della giornata si esibiscono artisti provenienti anche dall'estero...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.134861,
+                    49.270638
+                ]
+            },
+            "properties": {
+                "entity": "Granville Island",
+                "name_location": "Granville Island, Railspur Alley, Granville Island, Fairview, Vancouver, Metro Vancouver Regional District, Columbia Britannica, V6H, Canada",
+                "class": "amenity",
+                "type": "bicycle_rental",
+                "snippet": [
+                    "*...Granville Island, situata tra il centro e Kitsilano, è un'altra zona di teatri, ristoranti e mercati pubblici...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.167764,
+                    49.263932
+                ]
+            },
+            "properties": {
+                "entity": "Kitsilano",
+                "name_location": "Kitsilano, 2768, West Broadway, Kitsilano, Vancouver, Metro Vancouver Regional District, Columbia Britannica, V6K 2G0, Canada",
+                "class": "amenity",
+                "type": "post_office",
+                "snippet": [
+                    "*...Granville Island, situata tra il centro e Kitsilano, è un'altra zona di teatri, ristoranti e mercati pubblici...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.115117,
+                    49.315533
+                ]
+            },
+            "properties": {
+                "entity": "North Vancouver",
+                "name_location": "North Vancouver, Philip Avenue, Norgate, District of North Vancouver, Metro Vancouver Regional District, Columbia Britannica, V7P, Canada",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "...City of North Vancouver ;...",
+                    "...District of North Vancouver ;...",
+                    "*...Un'ottima rete di trasporto pubblico che comprende la metropolitana, autobus e traghetti che fanno la spola quotidianamente tra il Downtown e il quartiere di North Vancouver...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.114238,
+                    49.342724
+                ]
+            },
+            "properties": {
+                "entity": "Capilano Suspension Bridge",
+                "name_location": "Capilano Suspension Bridge, Capilano, District of North Vancouver, Metro Vancouver Regional District, Columbia Britannica, V7R 1T5, Canada",
+                "class": "highway",
+                "type": "steps",
+                "snippet": [
+                    "*...Un'alternativa molto più economica al ben noto Capilano Suspension Bridge è il Lynn Park, posto sempre sulla sponda di Vancouver Nord, ma più a est...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.019223,
+                    49.342632
+                ]
+            },
+            "properties": {
+                "entity": "Lynn Park",
+                "name_location": "Lynn Canyon Park Small Picnic Shelter, Park Road, Lynn Valley, District of North Vancouver, Metro Vancouver Regional District, Columbia Britannica, V7J, Canada",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...Un'alternativa molto più economica al ben noto Capilano Suspension Bridge è il Lynn Park, posto sempre sulla sponda di Vancouver Nord, ma più a est...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.179994,
+                    49.192965
+                ]
+            },
+            "properties": {
+                "entity": "Aeroporto Internazionale",
+                "name_location": "Aeroporto Internazionale di Vancouver, Gilbert Road, Sea Island, Richmond, Metro Vancouver Regional District, Columbia Britannica, V7C 0B3, Canada",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "*...La città di Vancouver dispone di un Aeroporto Internazionale (YVR)....",
+                    "*...L'Aeroporto, un tempo di importanza minore, negli ultimi anni, grazie alla crescita economica ed ai XXI Giochi olimpici invernali del 2010, sta subendo lavori di ampliamento ed il suo traffico è in costante aumento, sia sulle tratte USA - Canada che sulle tratte intercontinentali...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.10163,
+                    49.273045
+                ]
+            },
+            "properties": {
+                "entity": "Terminal",
+                "name_location": "Terminal Avenue, Downtown, Vancouver, Metro Vancouver Regional District, Columbia Britannica, V6A 3Z7, Canada",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Il treno, sebbene in Canada come in USA sia un mezzo di trasporto poco considerato, ha un suo Terminal dedicato nella Pacific Central Station...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.09787,
+                    49.273699
+                ]
+            },
+            "properties": {
+                "entity": "Pacific Central Station",
+                "name_location": "Pacific Central Station, 1150, Station Street, Strathcona, Vancouver, Metro Vancouver Regional District, Columbia Britannica, V6A 4C7, Canada",
+                "class": "building",
+                "type": "train_station",
+                "snippet": [
+                    "*...Il treno, sebbene in Canada come in USA sia un mezzo di trasporto poco considerato, ha un suo Terminal dedicato nella Pacific Central Station...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.108942,
+                    49.277909
+                ]
+            },
+            "properties": {
+                "entity": "Rogers Arena",
+                "name_location": "Rogers Arena, 800, Griffiths Way, Gastown, Downtown, Vancouver, Metro Vancouver Regional District, Columbia Britannica, V6B 1V4, Canada",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...A livello sportivo la città è sede della squadra di hockey su ghiaccio dei Vancouver Canucks, i quali hanno la loro \"casa\" nello stadio denominato Rogers Arena;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.117362,
+                    49.279568
+                ]
+            },
+            "properties": {
+                "entity": "Memphis",
+                "name_location": "Memphis Blues BBQ House, 430, Robson Street, Yaletown, Downtown, Vancouver, Metro Vancouver Regional District, Columbia Britannica, V6B 0H3, Canada",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...Nel 2001 la sede della squadra fu trasferita a Memphis, Tennessee...."
+                ]
+            }
+        }
+    ]
+}

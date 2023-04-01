@@ -1,0 +1,464 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.936555,
+                    60.166981
+                ]
+            },
+            "properties": {
+                "entity": "Uusimaa",
+                "name_location": "Kiinteistöliitto Uusimaa, 24, Annankatu, Kamppi, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Etelä-Suomen aluehallintovirasto, Manner-Suomi, 00100, Finlandia",
+                "class": "office",
+                "type": "company",
+                "snippet": [
+                    "*...Si trova nella regione dell'Uusimaa ed è bilingue finlandese e svedese...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.932439,
+                    60.167969
+                ]
+            },
+            "properties": {
+                "entity": "Estonia",
+                "name_location": "Kuuban tasavallan suurlähetystö, 61, Fredrikinkatu, Kamppi, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Etelä-Suomen aluehallintovirasto, Manner-Suomi, 00100, Finlandia",
+                "class": "office",
+                "type": "diplomatic",
+                "snippet": [
+                    "*...Helsinki è geograficamente situata nella parte meridionale del Paese sulle rive del golfo di Finlandia, parte del mar Baltico, di fronte alla capitale dell'Estonia, Tallinn, e si estende su più isole....",
+                    "*...Per rivaleggiare con Tallinn, re Gustav ordinò ai mercati di Porvoo, Ekenäs, Rauma e Ulvila di trasferirsi a Helsinki ma con la conquista dell'Estonia (1561) da parte della Svezia, cessò la necessità di espandere la città, ed Helsinki rimase un povero paesino...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.966861,
+                    60.268569
+                ]
+            },
+            "properties": {
+                "entity": "Vantaa",
+                "name_location": "Rosendalinkuja, Vantaa, Rosendalinkuja, Tammisto, Aviapoliksen suuralue, Vantaa, Helsingin seutukunta, Uusimaa, Etelä-Suomen aluehallintovirasto, Manner-Suomi, 00690, Finlandia",
+                "class": "amenity",
+                "type": "motorcycle_parking",
+                "snippet": [
+                    "*...L'area metropolitana di Helsinki include l'area urbana della città, Espoo, Vantaa, Kauniainen e paesi limitrofi....",
+                    "*...Il villaggio era affiancato già da un porto, menzionato per la prima volta con il nome di Helsinge (\"stretto\", \"golfo\", \"approdo\") nel 1351 in un documento del re Magnus II di Svezia che garantiva i diritti per la pesca del salmone sul fiume Vantaa al monastero estone di Padise....",
+                    "*...L'Aeroporto internazionale che serve la città si trova a Vantaa, a circa 20 km dal centro cittadino...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.733147,
+                    60.212162
+                ]
+            },
+            "properties": {
+                "entity": "Kauniainen",
+                "name_location": "Kauniainen, Helsingintie, 3, Kauniainen, Helsingin seutukunta, Uusimaa, Etelä-Suomen aluehallintovirasto, Manner-Suomi, 02700, Finlandia",
+                "class": "railway",
+                "type": "crossing",
+                "snippet": [
+                    "*...L'area metropolitana di Helsinki include l'area urbana della città, Espoo, Vantaa, Kauniainen e paesi limitrofi...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.801153,
+                    60.174564
+                ]
+            },
+            "properties": {
+                "entity": "Nord",
+                "name_location": "Pohjantie, Revontuli, Tapiolan keskus, Tapiola, Suur-Tapiola, Espoo, Helsingin seutukunta, Uusimaa, Etelä-Suomen aluehallintovirasto, Manner-Suomi, 02100, Finlandia",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "...È l'area metropolitana più a nord nel mondo, con il suo milione di abitanti è la città e capitale più a nord degli Stati membri dell'Unione europea....",
+                    "*...Helsset è il termine usato dai sami del Nord per Helsinki...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.941355,
+                    60.171779
+                ]
+            },
+            "properties": {
+                "entity": "Helsingfors",
+                "name_location": "Helsinki, 1, Kaivokatu, Keskusta, Kluuvi, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Etelä-Suomen aluehallintovirasto, Manner-Suomi, 00100, Finlandia",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...Helsinki (pronuncia italiana , in finlandese  ; in svedese Helsingfors, , ) è la capitale della Finlandia....",
+                    "*...Helsinki venne fondata nel 1550 su ordine del re di Svezia Gustav Vasa con il nome di Helsingfors sul sito di Forsby, alla foce del fiume Vanda....",
+                    "...Helsingfors IFK ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.964341,
+                    60.219706
+                ]
+            },
+            "properties": {
+                "entity": "Forsby",
+                "name_location": "Koskela, 6, Voudintie, Koskela, Keskinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Etelä-Suomen aluehallintovirasto, Manner-Suomi, 00600, Finlandia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Helsinki venne fondata nel 1550 su ordine del re di Svezia Gustav Vasa con il nome di Helsingfors sul sito di Forsby, alla foce del fiume Vanda...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.043051,
+                    60.290861
+                ]
+            },
+            "properties": {
+                "entity": "Vanda",
+                "name_location": "Vantaan kaupunginmuseo, 1, Hertaksentie, Kukkaketo, Tikkurila, Tikkurilan suuralue, Vantaa, Helsingin seutukunta, Uusimaa, Etelä-Suomen aluehallintovirasto, Manner-Suomi, 01300, Finlandia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Helsinki venne fondata nel 1550 su ordine del re di Svezia Gustav Vasa con il nome di Helsingfors sul sito di Forsby, alla foce del fiume Vanda...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.928957,
+                    60.182211
+                ]
+            },
+            "properties": {
+                "entity": "Helsinge",
+                "name_location": "Helsinginkatu, Töölö, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Etelä-Suomen aluehallintovirasto, Manner-Suomi, 00260, Finlandia",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...Il villaggio era affiancato già da un porto, menzionato per la prima volta con il nome di Helsinge (\"stretto\", \"golfo\", \"approdo\") nel 1351 in un documento del re Magnus II di Svezia che garantiva i diritti per la pesca del salmone sul fiume Vantaa al monastero estone di Padise...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.953733,
+                    60.171209
+                ]
+            },
+            "properties": {
+                "entity": "Porvoo",
+                "name_location": "Aleksanteri I ja Porvoon valtiopäivät 1809, Snellmaninkatu, Torikorttelit, Kruununhaka, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Etelä-Suomen aluehallintovirasto, Manner-Suomi, 00170, Finlandia",
+                "class": "historic",
+                "type": "memorial",
+                "snippet": [
+                    "*...Per rivaleggiare con Tallinn, re Gustav ordinò ai mercati di Porvoo, Ekenäs, Rauma e Ulvila di trasferirsi a Helsinki ma con la conquista dell'Estonia (1561) da parte della Svezia, cessò la necessità di espandere la città, ed Helsinki rimase un povero paesino...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.95197,
+                    60.159646
+                ]
+            },
+            "properties": {
+                "entity": "Russia",
+                "name_location": "Venäjän federaation suurlähetystö, 1 B, Tehtaankatu, Ullanlinna, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Etelä-Suomen aluehallintovirasto, Manner-Suomi, 00140, Finlandia",
+                "class": "office",
+                "type": "diplomatic",
+                "snippet": [
+                    "*...Dopo che la sovranità della Finlandia passò alla Russia, nel 1809, lo zar Alessandro I decise di spostare la capitale finlandese da Turku a Helsinki nel 1812, in quanto la relativa debolezza dell'influenza svedese sulla città, e la sua vicinanza a San Pietroburgo, avrebbero reso il controllo del governo locale più semplice....",
+                    "*...Turku, che ne abbandonò l'uso nel 1972, e Vyborg, ora in Russia, che ne terminò l'utilizzo nel 1957...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.098423,
+                    60.283435
+                ]
+            },
+            "properties": {
+                "entity": "Turku",
+                "name_location": "Turku-Helsinki moottoritie, Lempola, Lohja, Helsingin seutukunta, Uusimaa, Etelä-Suomen aluehallintovirasto, Manner-Suomi, 08350, Finlandia",
+                "class": "highway",
+                "type": "motorway",
+                "snippet": [
+                    "*...Dopo che la sovranità della Finlandia passò alla Russia, nel 1809, lo zar Alessandro I decise di spostare la capitale finlandese da Turku a Helsinki nel 1812, in quanto la relativa debolezza dell'influenza svedese sulla città, e la sua vicinanza a San Pietroburgo, avrebbero reso il controllo del governo locale più semplice....",
+                    "*...Per ridurre ulteriormente l'influenza svedese nella regione, nel 1827 fu spostata da Turku a Helsinki l'unica Università del paese....",
+                    "*...Turku, che ne abbandonò l'uso nel 1972, e Vyborg, ora in Russia, che ne terminò l'utilizzo nel 1957...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.946613,
+                    60.220182
+                ]
+            },
+            "properties": {
+                "entity": "Käpylä",
+                "name_location": "Käpylä, Käpylän asemaraitti, Patola, Käpylä, Keskinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Etelä-Suomen aluehallintovirasto, Manner-Suomi, 00620, Finlandia",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...Nei quartieri di Käpylä e Töölö sono invece ancora presenti antiche costruzioni in legno...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.92819,
+                    60.17374
+                ]
+            },
+            "properties": {
+                "entity": "Etu-Töölö",
+                "name_location": "SUHK Etu-Töölö (Suomen Urheiluhierontakeskus), 10, Nervanderinkatu, Töölö, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Etelä-Suomen aluehallintovirasto, Manner-Suomi, 00100, Finlandia",
+                "class": "shop",
+                "type": "massage",
+                "snippet": [
+                    "*...La Kristuskyrkan (Chiesa di Cristo), nel centro storico di Helsinki localizzata nel distretto di Etu-Töölö a breve distanza dal parlamento e dal Museo Nazionale è un tipico esempio di stile neogotico finlandese, l'edificio interamente costruito in pietra, mattoni in cotto e rame è opera dell'architetto Atte V. Willberg (1928)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.932919,
+                    60.17255
+                ]
+            },
+            "properties": {
+                "entity": "Eduskunta",
+                "name_location": "Eduskunta, 30, Mannerheimintie, Keskusta, Kluuvi, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Etelä-Suomen aluehallintovirasto, Manner-Suomi, 00100, Finlandia",
+                "class": "office",
+                "type": "government",
+                "snippet": [
+                    "*...L'edificio del Eduskunta, il parlamento, progettato da Johan Sigfrid Sirén, risale invece al 1931 e rappresenta un esempio di classicismo nordico...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.937835,
+                    60.170232
+                ]
+            },
+            "properties": {
+                "entity": "Lasipalatsi",
+                "name_location": "Lasipalatsi, Mannerheimintie, Keskusta, Kluuvi, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Etelä-Suomen aluehallintovirasto, Manner-Suomi, 00101, Finlandia",
+                "class": "railway",
+                "type": "tram_stop",
+                "snippet": [
+                    "*...I principali esempi di funzionalismo sono lo Stadio Olimpico (1938) e il Lasipalatsi (1935)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.933116,
+                    60.173959
+                ]
+            },
+            "properties": {
+                "entity": "Kansallismuseo",
+                "name_location": "Kansallismuseo, H. F. Antellin aukio, Etu-Töölö, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Etelä-Suomen aluehallintovirasto, Manner-Suomi, 00100, Finlandia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Museo nazionale di Finlandia (Kansallismuseo)..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.944068,
+                    60.170017
+                ]
+            },
+            "properties": {
+                "entity": "Ateneum",
+                "name_location": "Ateneum, 2, Kaivokatu, Keskusta, Kluuvi, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Etelä-Suomen aluehallintovirasto, Manner-Suomi, 00100, Finlandia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Ateneum ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.93069,
+                    60.169444
+                ]
+            },
+            "properties": {
+                "entity": "Tennispalatsi",
+                "name_location": "Tennispalatsi, 15, Salomonkatu, Kamppi, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Etelä-Suomen aluehallintovirasto, Manner-Suomi, 00100, Finlandia",
+                "class": "amenity",
+                "type": "cinema",
+                "snippet": [
+                    "*...Museo d'Arte Comunale di Helsinki, Tennispalatsi ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.98794,
+                    60.145074
+                ]
+            },
+            "properties": {
+                "entity": "Museo Suomenlinna",
+                "name_location": "Suomenlinna-museo, C 74, Susisaaren silta, Suomenlinna, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Etelä-Suomen aluehallintovirasto, Manner-Suomi, 00190, Finlandia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Museo Suomenlinna ;...",
+                    "*...Nel 1748 il governo svedese iniziò la costruzione della fortezza di Sveaborg (Suomenlinna in finlandese), come protezione contro l'espansionismo russo....",
+                    "*...Al primo assedio Suomenlinna cadde....",
+                    "*...All'interno della fortezza di Suomenlinna son presenti numerosi musei:...",
+                    "*...Vi sono inoltre dei collegamenti marittimi interni che conducono a degli isolotti limitrofi alla capitale, tra cui Suomenlinna...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.985534,
+                    60.144193
+                ]
+            },
+            "properties": {
+                "entity": "Ehrensvärd-Museo",
+                "name_location": "Ehrensvärd-museo, B 40, Poliisikoulun tunneli, Suomenlinna, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Etelä-Suomen aluehallintovirasto, Manner-Suomi, 00190, Finlandia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Ehrensvärd-Museo ;...",
+                    "...La Kristuskyrkan (Chiesa di Cristo), nel centro storico di Helsinki localizzata nel distretto di Etu-Töölö a breve distanza dal parlamento e dal Museo Nazionale è un tipico esempio di stile neogotico finlandese, l'edificio interamente costruito in pietra, mattoni in cotto e rame è opera dell'architetto Atte V. Willberg (1928)....",
+                    "...Lo Jugendstil tedesco fu adottato a Helsinki assumendo delle caratteristiche proprie (stile nazional-romantico), con esempi eleganti quali la Jugendsali (1904) di Lars Sonck e il Museo nazionale (1910) degli architetti Gesellius, Lindgren e Saarinen....",
+                    "...Più recenti sono invece le realizzazioni del Museo d'arte contemporanea Kiasma (1998), progettato da Steven Holl, la Casa della Musica (Musiikitalo) (2011), tutta rivestita da quadroni di marmo di Carrara e la Cappella della preghiera di Kamppi, interamente realizzata in legno e aperta al pubblico nel 2012....",
+                    "...Museo nazionale di Finlandia (Kansallismuseo)...",
+                    "...Museo della Scuola ;...",
+                    "...Museo dei Tram ;...",
+                    "...Museo della Centrale Elettrica ;...",
+                    "...Museo delle Culture ;...",
+                    "...Museo di Scienze Naturali ;...",
+                    "...Museo dell'Arte Edilizia Finlandese ;...",
+                    "...Museo dello Sport Finlandese ;...",
+                    "...Museo della Tecnica ;...",
+                    "...Museo dell'Auto di Helsinki ;...",
+                    "*...Mannerheim - Museo ;...",
+                    "...Museo del Quotidiano ;...",
+                    "...Museo della numismatica della Banca di Finlandia ;...",
+                    "...Museo dell'Università di Helsinki Arppeanum ;...",
+                    "...Museo d'Arte Contemporanea Kiasma ;...",
+                    "...Museo d'Arte Sinebrychoff ;...",
+                    "...Museo d'Arte Comunale di Helsinki, Tennispalatsi ;...",
+                    "...Museo Suomenlinna ;...",
+                    "...Museo dei Giocattoli ;...",
+                    "...Museo della Guerra Maneesi ;...",
+                    "...Museo dell'Artiglieria Costiera ;...",
+                    "...Museo della Dogana ...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.065422,
+                    60.322935
+                ]
+            },
+            "properties": {
+                "entity": "Europa",
+                "name_location": "Euroopanaukio, Rautkallio, Havukoski, Koivukylän suuralue, Vantaa, Helsingin seutukunta, Uusimaa, Etelä-Suomen aluehallintovirasto, Manner-Suomi, Finlandia",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "...Questa è la più grande Chiesa ortodossa dell'Europa occidentale e, con le sue tipiche cupole a cipolla dorate, rappresenta uno dei segni più evidenti della presenza russa in Finlandia....",
+                    "...1975 La Conferenza sulla Sicurezza e la Cooperazione in Europa ;...",
+                    "*...Il trasporto pubblico ad Helsinki è tra i più costosi in Europa....",
+                    "*...Gli Helsinki Roosters, una delle squadre più titolate d'Europa, in quanto 21 volte campioni nazionali, vincitori di 5 campionati femminili, di un EFAF Eurobowl, di una IFAF Europe Champions League e di una IFAF Northern European Football League ;..."
+                ]
+            }
+        }
+    ]
+}

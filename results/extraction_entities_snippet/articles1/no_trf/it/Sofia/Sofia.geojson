@@ -1,0 +1,692 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.322257,
+                    42.69809
+                ]
+            },
+            "properties": {
+                "entity": "Serdica",
+                "name_location": "Антична Сердика, пл. Независимост, Оборище, Sofia, Столична, София-град, 1000, Bulgaria",
+                "class": "railway",
+                "type": "subway_entrance",
+                "snippet": [
+                    "*...Affonda le sue radici all'epoca dei Traci, che la chiamarono Serdica....",
+                    "*...La Chiesa di San Giorgio (in bulgaro: Ротонда „Свети Георги\"?, traslitterato: Rotonda \"Sveti Georgi\") è una Chiesa a pianta circolare di epoca paleocristiana. Costruita in laterizio rosso, è considerata il più antico edificio della capitale bulgara. Fu costruita nel IV secolo e venne decorata con affreschi nel X secolo e poi ancora nel XII secolo. Durante il periodo ottomano fu convertita in moschea. Oggi è un Museo, e si trova circondata dai resti dell'antica Serdica e da un albergo. Degli affreschi di 22 profeti, risalenti al XII-XIV secolo, ricoprono la cupola...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.270931,
+                    42.655024
+                ]
+            },
+            "properties": {
+                "entity": "Bojana",
+                "name_location": "Национален исторически музей, 16, Витошко лале, ж.к. Манастирски ливади - запад, Sofia, Столична, София-град, 1618, Bulgaria",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Tra le principali attrazioni troviamo la Chiesa di Bojana (inserita tra i Patrimoni dell'Umanità dell'UNESCO nel 1979), la Chiesa di San Giorgio, la Chiesa di Santa Sofia e la cattedrale di Aleksandăr Nevski....",
+                    "...La Chiesa di Bojana, situata nel quartiere omonimo a sud del centro, è dal 1979 patrimonio dell'umanità...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.186299,
+                    42.624836
+                ]
+            },
+            "properties": {
+                "entity": "Vladajski",
+                "name_location": "Владайски манастир, 1;6, м. Св. Петка, Владая, Витоша, Столична, София-град, 1641, Bulgaria",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Cinque passi montani portano alla città, il Vladajski, il Dragomanski, il Petrohanski, il Botevgradski e Vitinya...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.324458,
+                    42.699649
+                ]
+            },
+            "properties": {
+                "entity": "Iskăr",
+                "name_location": "Искър, Оборище, Sofia, Столична, София-град, 1377, Bulgaria",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Attraverso i quartieri orientali scorre il fiume Iskăr, ma in questo suo tratto non ha ancora una grande portata....",
+                    "*...Iskăr (Искър) (Busmanci)\n10. Kremikovci (Кремиковци) (Buhovo, Željava, Jana, Gorni Borgov, Dolni Borgov)\n16...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.322755,
+                    42.696668
+                ]
+            },
+            "properties": {
+                "entity": "Rotonda",
+                "name_location": "Ротонда, пл. Света Неделя, Център, Средец, Sofia, Столична, София-град, 1301, Bulgaria",
+                "class": "amenity",
+                "type": "cafe",
+                "snippet": [
+                    "*...La Chiesa di San Giorgio (in bulgaro: Ротонда „Свети Георги\"?, traslitterato: Rotonda \"Sveti Georgi\") è una Chiesa a pianta circolare di epoca paleocristiana. Costruita in laterizio rosso, è considerata il più antico edificio della capitale bulgara. Fu costruita nel IV secolo e venne decorata con affreschi nel X secolo e poi ancora nel XII secolo. Durante il periodo ottomano fu convertita in moschea. Oggi è un Museo, e si trova circondata dai resti dell'antica Serdica e da un albergo. Degli affreschi di 22 profeti, risalenti al XII-XIV secolo, ricoprono la cupola...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.357723,
+                    42.859006
+                ]
+            },
+            "properties": {
+                "entity": "Sveti Georgi",
+                "name_location": "Свети Георги, Искърско дефиле, в.з. Ласка, Владо Тричков, Своге, Софийска, 2299, Bulgaria",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...La Chiesa di San Giorgio (in bulgaro: Ротонда „Свети Георги\"?, traslitterato: Rotonda \"Sveti Georgi\") è una Chiesa a pianta circolare di epoca paleocristiana. Costruita in laterizio rosso, è considerata il più antico edificio della capitale bulgara. Fu costruita nel IV secolo e venne decorata con affreschi nel X secolo e poi ancora nel XII secolo. Durante il periodo ottomano fu convertita in moschea. Oggi è un Museo, e si trova circondata dai resti dell'antica Serdica e da un albergo. Degli affreschi di 22 profeti, risalenti al XII-XIV secolo, ricoprono la cupola...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.322572,
+                    42.6995
+                ]
+            },
+            "properties": {
+                "entity": "Banja Baši",
+                "name_location": "Баня баши джамия, бул. Княгиня Мария Луиза, Оборище, Sofia, Столична, София-град, 1000, Bulgaria",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...La moschea Banja Baši, costruita dal celebre architetto ottomano Sinān nel XVI secolo, è la principale testimonianza della dominazione turca sulla città...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.322918,
+                    42.697786
+                ]
+            },
+            "properties": {
+                "entity": "Largo",
+                "name_location": "Ларгото, Оборище, Sofia, Столична, София-град, Bulgaria",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...La Presidenza della Repubblica, così come il Consiglio dei Ministri, è situata in piazza Indipendenza, popolarmente conosciuto come Largo o il Triangolo del Potere...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.346236,
+                    42.711327
+                ]
+            },
+            "properties": {
+                "entity": "Bălgarska",
+                "name_location": "Първа българска армия, НПЗ Хаджи Димитър, кв. Орландовци, Сердика, Sofia, Столична, София-град, 1510, Bulgaria",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Ci sono inoltre altre istituzioni nazionali (l'Istituto statistico nazionale, l'amministrazione centrale della viabilità e altre), varie istituzioni economiche (Българска стопанска камара, Bălgarska stopanska kamara, la Camera dell'Economia Bulgara) ed altri organi, il cui compito principale è l'attuazione del processo di riforma del Paese (Agenzia per la privatizzazione, Agenzia per la privatizzazione di massa, Agenzia per gli investimenti stranieri)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.493854,
+                    42.777602
+                ]
+            },
+            "properties": {
+                "entity": "Възраждане",
+                "name_location": "Възраждане, кв. Кремиковци, район Кремиковци, Столична, София-град, 1849, Bulgaria",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Văzraždane (Възраждане)\n5...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.350934,
+                    42.671288
+                ]
+            },
+            "properties": {
+                "entity": "Izgrev",
+                "name_location": "ж.к. Изгрев, бул. Драган Цанков, ж.к. Изгрев, Изгрев, Sofia, Столична, София-град, 1113, Bulgaria",
+                "class": "railway",
+                "type": "subway_entrance",
+                "snippet": [
+                    "*...Izgrev (Изгрев)\n6...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.350934,
+                    42.671288
+                ]
+            },
+            "properties": {
+                "entity": "Изгрев",
+                "name_location": "ж.к. Изгрев, бул. Драган Цанков, ж.к. Изгрев, Изгрев, Sofia, Столична, София-град, 1113, Bulgaria",
+                "class": "railway",
+                "type": "subway_entrance",
+                "snippet": [
+                    "*...Izgrev (Изгрев)\n6...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.283669,
+                    42.698652
+                ]
+            },
+            "properties": {
+                "entity": "Ilinden",
+                "name_location": "Илинден, ж.к. Красна поляна 1, Красна поляна, Sofia, Столична, София-град, 1330, Bulgaria",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Ilinden (Илинден)\n8...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.283669,
+                    42.698652
+                ]
+            },
+            "properties": {
+                "entity": "Илинден",
+                "name_location": "Илинден, ж.к. Красна поляна 1, Красна поляна, Sofia, Столична, София-град, 1330, Bulgaria",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Ilinden (Илинден)\n8...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.292743,
+                    42.693429
+                ]
+            },
+            "properties": {
+                "entity": "Красна Поляна",
+                "name_location": "ТД на НАП София - офис Красна Поляна, 1А, бул. Възкресение, ж.к. Разсадник Коньовица, Красна поляна, Sofia, Столична, София-град, 1330, Bulgaria",
+                "class": "office",
+                "type": "government",
+                "snippet": [
+                    "*...Krasna Poljana (Красна Поляна)..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.28522,
+                    42.678262
+                ]
+            },
+            "properties": {
+                "entity": "Krasno Selo",
+                "name_location": "ж.к. Красно село, бул. Гоце Делчев, ж.к. Красно село, Красно село, Sofia, Столична, София-град, 1620, Bulgaria",
+                "class": "railway",
+                "type": "subway_entrance",
+                "snippet": [
+                    "*...Krasno Selo (Красно Село)\n11. Losenec (Лозенец)\n12...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.28522,
+                    42.678262
+                ]
+            },
+            "properties": {
+                "entity": "Красно Село",
+                "name_location": "ж.к. Красно село, бул. Гоце Делчев, ж.к. Красно село, Красно село, Sofia, Столична, София-град, 1620, Bulgaria",
+                "class": "railway",
+                "type": "subway_entrance",
+                "snippet": [
+                    "*...Krasno Selo (Красно Село)\n11. Losenec (Лозенец)\n12...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.323577,
+                    42.681012
+                ]
+            },
+            "properties": {
+                "entity": "Лозенец",
+                "name_location": "Лозенец, ж.к. Лозенец, Лозенец, Sofia, Столична, София-град, 1042, Bulgaria",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Krasno Selo (Красно Село)\n11. Losenec (Лозенец)\n12...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.250091,
+                    42.773458
+                ]
+            },
+            "properties": {
+                "entity": "Младост",
+                "name_location": "Младост, Волуяк, Връбница, Столична, София-град, 1331, Bulgaria",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Mladost (Младост)\n14...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.293625,
+                    42.70055
+                ]
+            },
+            "properties": {
+                "entity": "Надежда",
+                "name_location": "Надежда, ж.к. Разсадник Коньовица, Красна поляна, Sofia, Столична, София-град, 1309, Bulgaria",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Nadežda (Надежда)\n17...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.330198,
+                    42.696213
+                ]
+            },
+            "properties": {
+                "entity": "Оборище",
+                "name_location": "Оборище, Център, Средец, Sofia, Столична, София-град, 1169, Bulgaria",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Oborište (Оборище)\n19...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.354744,
+                    42.697873
+                ]
+            },
+            "properties": {
+                "entity": "Подуяне",
+                "name_location": "Подуяне, бул. Генерал Данаил Николаев, ж.к. Хаджи Димитър, Подуяне, Sofia, Столична, София-град, 1505, Bulgaria",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...Podujane (Подуяне)\n20. Serdika (Сердика)\n21...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.321158,
+                    42.69781
+                ]
+            },
+            "properties": {
+                "entity": "Сердика",
+                "name_location": "Сердика, бул. Тодор Александров, ж.к. Зона Б-5-3, Възраждане, Sofia, Столична, София-град, 1000, Bulgaria",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Podujane (Подуяне)\n20. Serdika (Сердика)\n21...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.371326,
+                    42.680948
+                ]
+            },
+            "properties": {
+                "entity": "Slatina",
+                "name_location": "Слатина, Гео Милев, ж.к. Христо Смирненски, Слатина, Sofia, Столична, София-град, 1574, Bulgaria",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Slatina (Слатина)..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.371326,
+                    42.680948
+                ]
+            },
+            "properties": {
+                "entity": "Слатина",
+                "name_location": "Слатина, Гео Милев, ж.к. Христо Смирненски, Слатина, Sofia, Столична, София-град, 1574, Bulgaria",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Slatina (Слатина)..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.331633,
+                    42.693627
+                ]
+            },
+            "properties": {
+                "entity": "Studentski",
+                "name_location": "Национален студентски дом, 10, пл. Народно събрание, Център, Средец, Sofia, Столична, София-град, 1000, Bulgaria",
+                "class": "amenity",
+                "type": "community_centre",
+                "snippet": [
+                    "*...Studentski (Студентски)\n23...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.331633,
+                    42.693627
+                ]
+            },
+            "properties": {
+                "entity": "Студентски",
+                "name_location": "Национален студентски дом, 10, пл. Народно събрание, Център, Средец, Sofia, Столична, София-град, 1000, Bulgaria",
+                "class": "amenity",
+                "type": "community_centre",
+                "snippet": [
+                    "*...Studentski (Студентски)\n23...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3386,
+                    42.802337
+                ]
+            },
+            "properties": {
+                "entity": "Sredec",
+                "name_location": "Средец, кв. Кумарица, Нови Искър, Столична, София-град, 1280, Bulgaria",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Sredec (Средец)\n24...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3386,
+                    42.802337
+                ]
+            },
+            "properties": {
+                "entity": "Средец",
+                "name_location": "Средец, кв. Кумарица, Нови Искър, Столична, София-град, 1280, Bulgaria",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Sredec (Средец)\n24...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.323356,
+                    42.698922
+                ]
+            },
+            "properties": {
+                "entity": "Triadica",
+                "name_location": "Триадица, Оборище, Sofia, Столична, София-град, 1377, Bulgaria",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Triadica (Триадица)\nAltri 5 distretti includono anche frazioni separate dal tessuto urbano metropolitano:..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.323356,
+                    42.698922
+                ]
+            },
+            "properties": {
+                "entity": "Триадица",
+                "name_location": "Триадица, Оборище, Sofia, Столична, София-град, 1377, Bulgaria",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Triadica (Триадица)\nAltri 5 distretti includono anche frazioni separate dal tessuto urbano metropolitano:..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.316268,
+                    42.658178
+                ]
+            },
+            "properties": {
+                "entity": "Витоша",
+                "name_location": "Витоша, бул. Черни връх, кв. Хладилника, Триадица, Sofia, Столична, София-град, 1407, Bulgaria",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...2. Vitoša (Витоша) (Vladaja, Mărčaevo)\n3...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.302836,
+                    42.722302
+                ]
+            },
+            "properties": {
+                "entity": "Mramor",
+                "name_location": "Мрамор, ж.к. Триъгълника-Надежда, ж.к. Триъгълника - Надежда, Надежда, Sofia, Столична, София-град, 1220, Bulgaria",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Vrăbnica (Връбница) (Volujak, Mramor)..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.324458,
+                    42.699649
+                ]
+            },
+            "properties": {
+                "entity": "Искър",
+                "name_location": "Искър, Оборище, Sofia, Столична, София-град, 1377, Bulgaria",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Iskăr (Искър) (Busmanci)\n10. Kremikovci (Кремиковци) (Buhovo, Željava, Jana, Gorni Borgov, Dolni Borgov)\n16...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.433514,
+                    42.675931
+                ]
+            },
+            "properties": {
+                "entity": "Busmanci",
+                "name_location": "кв. Бусманци, пл. Елин Пелин, кв. Абдовица, Бусманци, район Искър, Столична, София-град, 1520, Bulgaria",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Iskăr (Искър) (Busmanci)\n10. Kremikovci (Кремиковци) (Buhovo, Željava, Jana, Gorni Borgov, Dolni Borgov)\n16...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.187945,
+                    42.692698
+                ]
+            },
+            "properties": {
+                "entity": "Malo Bučino",
+                "name_location": "Мало Бучино, Автомагистрала Струма, Овча Купел, Столична, София-град, 1362, Bulgaria",
+                "class": "highway",
+                "type": "motorway_junction",
+                "snippet": [
+                    "*...Ovča kupel (Овча купел) (Malo Bučino)\nTutti i distretti hanno un proprio sindaco (in bulgaro: кмет?, traslitterato:..."
+                ]
+            }
+        }
+    ]
+}

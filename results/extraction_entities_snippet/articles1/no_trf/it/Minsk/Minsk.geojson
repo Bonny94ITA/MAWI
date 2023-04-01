@@ -1,0 +1,425 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.55411,
+                    53.897715
+                ]
+            },
+            "properties": {
+                "entity": "Miensk",
+                "name_location": "Стары Менск, праспект Незалежнасці, Ленінскі раён, Minsk, 220030, Bielorussia",
+                "class": "amenity",
+                "type": "cafe",
+                "snippet": [
+                    "*..., Miensk;...",
+                    "*...Il nome \"Minsk\", noto anche come Miensk in bielorusso, deriva più probabilmente dalla parola мена (miena, \"baratto\" in italiano), basato sulla lunga storia di commerci della città...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.509454,
+                    54.245254
+                ]
+            },
+            "properties": {
+                "entity": "Nioman",
+                "name_location": "вуліца Нармандыя-Нёман, Барысаў, Барысаўскі раён, Мінская вобласць, 222517, Bielorussia",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...La città di Minsk si trova sul versante sud-orientale dei Colli di Minsk, una regione collinare che va dal sud-ovest, corso superiore del fiume Nioman, al nord-est, fino al lago Lukomskaje...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.334708,
+                    53.744955
+                ]
+            },
+            "properties": {
+                "entity": "Fanipaĺ",
+                "name_location": "Фаніпаль, Баранавіцкі напрамак, Фаніпаль, Дзяржынскі раён, Мінская вобласць, 222750, Bielorussia",
+                "class": "building",
+                "type": "train_station",
+                "snippet": [
+                    "*...L'area urbana di Minsk non conta grossi centri conurbati, i maggiori dei quali non superano i 15 000 abitanti, tra i quali i principali Fanipaĺ, Zasłaŭje ed i villaggi urbani di Mačuliščy e Rudziensk\nMinsk, secondo la classificazione dei climi di Köppen, ha un clima umido continentale con calde estati semiboreali...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.440838,
+                    53.923705
+                ]
+            },
+            "properties": {
+                "entity": "Mačuliščy",
+                "name_location": "Мачулищи, вуліца Іосіфа Жыновіча, Дамброўка, Фрунзенскі раён, Minsk, 220055, Bielorussia",
+                "class": "shop",
+                "type": "supermarket",
+                "snippet": [
+                    "*...L'area urbana di Minsk non conta grossi centri conurbati, i maggiori dei quali non superano i 15 000 abitanti, tra i quali i principali Fanipaĺ, Zasłaŭje ed i villaggi urbani di Mačuliščy e Rudziensk\nMinsk, secondo la classificazione dei climi di Köppen, ha un clima umido continentale con calde estati semiboreali...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.574847,
+                    53.908386
+                ]
+            },
+            "properties": {
+                "entity": "Kiev",
+                "name_location": "Кіеў, плошча Перамогі, Партызанскі раён, Minsk, 119049, Bielorussia",
+                "class": "historic",
+                "type": "memorial",
+                "snippet": [
+                    "*...La prima menzione scritta di Minsk risale al 1066, ed è correlata alle lotte dinastiche tra il principato di Polack e quello di Kiev...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.56664,
+                    53.905724
+                ]
+            },
+            "properties": {
+                "entity": "Janka Kupala",
+                "name_location": "Янка Купала, праспект Незалежнасці, Валокі Полацкія, Цэнтральны раён, Minsk, 220009, Bielorussia",
+                "class": "historic",
+                "type": "memorial",
+                "snippet": [
+                    "*...Teatro nazionale \"Janka Kupala\" ...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.546951,
+                    53.867781
+                ]
+            },
+            "properties": {
+                "entity": "Aeradromnaja",
+                "name_location": "Аэрадромная, праспект Міру, Мінск-Свет, Кастрычніцкі раён, Minsk, 220065, Bielorussia",
+                "class": "railway",
+                "type": "construction",
+                "snippet": [
+                    "*...Essi sono Aeradromnaja, Akademgorodok, Angarskaja, Azjaryša, Červonyj Bor, Čyžovka, Drazdy, Dražnja, Harkauskaja, Kuntsauščina, Kurasovščina, Loshitsa, Malinovka, Maly Trostenets, Masjukovščina, Povdnyovij Zagad, Paunočnyj Posjolok, Serabranka, Shabanyj, Sokol, Sosnyj, Stsypjanka, Suharova, Sjarova, Uručča, Ushod, Ushodny, Velikaja Slepjanka, Vesnjanka, Zagad, Zelënyj Lug...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.686195,
+                    53.924594
+                ]
+            },
+            "properties": {
+                "entity": "Akademgorodok",
+                "name_location": "Акадэмгарадок, вуліца Францыска Скарыны, Першамайскі раён, Minsk, 220503, Bielorussia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Essi sono Aeradromnaja, Akademgorodok, Angarskaja, Azjaryša, Červonyj Bor, Čyžovka, Drazdy, Dražnja, Harkauskaja, Kuntsauščina, Kurasovščina, Loshitsa, Malinovka, Maly Trostenets, Masjukovščina, Povdnyovij Zagad, Paunočnyj Posjolok, Serabranka, Shabanyj, Sokol, Sosnyj, Stsypjanka, Suharova, Sjarova, Uručča, Ushod, Ushodny, Velikaja Slepjanka, Vesnjanka, Zagad, Zelënyj Lug...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.572905,
+                    53.85529
+                ]
+            },
+            "properties": {
+                "entity": "Loshitsa",
+                "name_location": "Схема Лошыцкі сядзібна-паркавы комплекс, Галоўная гістарычная алея, Лошыца, Ленінскі раён, Minsk, 220028, Bielorussia",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...Essi sono Aeradromnaja, Akademgorodok, Angarskaja, Azjaryša, Červonyj Bor, Čyžovka, Drazdy, Dražnja, Harkauskaja, Kuntsauščina, Kurasovščina, Loshitsa, Malinovka, Maly Trostenets, Masjukovščina, Povdnyovij Zagad, Paunočnyj Posjolok, Serabranka, Shabanyj, Sokol, Sosnyj, Stsypjanka, Suharova, Sjarova, Uručča, Ushod, Ushodny, Velikaja Slepjanka, Vesnjanka, Zagad, Zelënyj Lug...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.596397,
+                    53.87587
+                ]
+            },
+            "properties": {
+                "entity": "Serabranka",
+                "name_location": "Серабранка, праспект Ракасоўскага, Серабранка-8, Серабранка, Ленінскі раён, Minsk, 220094, Bielorussia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Essi sono Aeradromnaja, Akademgorodok, Angarskaja, Azjaryša, Červonyj Bor, Čyžovka, Drazdy, Dražnja, Harkauskaja, Kuntsauščina, Kurasovščina, Loshitsa, Malinovka, Maly Trostenets, Masjukovščina, Povdnyovij Zagad, Paunočnyj Posjolok, Serabranka, Shabanyj, Sokol, Sosnyj, Stsypjanka, Suharova, Sjarova, Uručča, Ushod, Ushodny, Velikaja Slepjanka, Vesnjanka, Zagad, Zelënyj Lug...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.134331,
+                    53.516488
+                ]
+            },
+            "properties": {
+                "entity": "VOLAT",
+                "name_location": "Волат, вуліца Чапаева, Мар’іна Горка, Пухавіцкі раён, Мінская вобласць, 222810, Bielorussia",
+                "class": "shop",
+                "type": "hardware",
+                "snippet": [
+                    "*...Minsky Zavod Koljosnykh Tjagachey (VOLAT) - produttore di chassis per i mezzi d`opera speciali;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.606474,
+                    53.889382
+                ]
+            },
+            "properties": {
+                "entity": "MTZ",
+                "name_location": "Аптэка МТЗ, 10А, Стаханаўская вуліца, Трактаразаводскі пасёлак, Партызанскі раён, Minsk, 220070, Bielorussia",
+                "class": "amenity",
+                "type": "pharmacy",
+                "snippet": [
+                    "*...Minsky Traktarny Zavod (MTZ) - produttore di trattori medie e grandi;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.604577,
+                    53.889628
+                ]
+            },
+            "properties": {
+                "entity": "MMZ",
+                "name_location": "Гасцініца ММЗ, вуліца Шчарбакова, Трактаразаводскі пасёлак, Партызанскі раён, Minsk, 220070, Bielorussia",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...Minsky Motorniy Zavod (MMZ) - produttore di motori diesel per i trattori, autocarri, bus e tanti altri;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.574163,
+                    53.919986
+                ]
+            },
+            "properties": {
+                "entity": "Minsktrans",
+                "name_location": "Минсктранс, вуліца Веры Харужай, Камароўка, Савецкі раён, Minsk, 220123, Bielorussia",
+                "class": "shop",
+                "type": "ticket",
+                "snippet": [
+                    "*...L`operatore maggiore è Minsktrans - società municipale di Governo della Città di Minsk...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.553161,
+                    53.888821
+                ]
+            },
+            "properties": {
+                "entity": "BŽD",
+                "name_location": "Багажнае аддзяленне станцыі Мінск-пасажырскі Мінскага аддзялення БЧ, 9А, Вакзальная вуліца, Уборкі, Кастрычніцкі раён, Minsk, 220007, Bielorussia",
+                "class": "building",
+                "type": "industrial",
+                "snippet": [
+                    "*...La capitale bielorussa, sia per l'importanza che per la posizione geografica, è il centro nevralgico dei trasporti ferroviari nazionali, gestiti dalla Belorusskaja železnaja doroga (BŽD) (in bielorusso БЧ -Belaruskaja Čygunka-)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.548178,
+                    53.894711
+                ]
+            },
+            "properties": {
+                "entity": "Plošad Lenina",
+                "name_location": "Плошча Леніна, праспект Незалежнасці, Маскоўскі раён, Minsk, 721816, Bielorussia",
+                "class": "railway",
+                "type": "subway_entrance",
+                "snippet": [
+                    "*...Dalla rinnovata stazione centrale Minsk-Pasažyrski, (sita nella centralissima Plošad Lenina - Piazza Lenin), partono ogni giorno numerosi treni internazionali che sovente coprono distanze notevoli, come ad esempio Irkutsk (in Siberia)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.532939,
+                    53.917261
+                ]
+            },
+            "properties": {
+                "entity": "Siberia",
+                "name_location": "Сибирь, праспект Пераможцаў, Людамонт, Цэнтральны раён, Minsk, 220035, Bielorussia",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...Dalla rinnovata stazione centrale Minsk-Pasažyrski, (sita nella centralissima Plošad Lenina - Piazza Lenin), partono ogni giorno numerosi treni internazionali che sovente coprono distanze notevoli, come ad esempio Irkutsk (in Siberia)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.068526,
+                    53.996571
+                ]
+            },
+            "properties": {
+                "entity": "Smoleviči",
+                "name_location": "Смалявічы, Аэрадромная вуліца, Забалоцкі сельскі Савет, Смалявіцкі раён, Мінская вобласць, 222201, Bielorussia",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "*...E Minsk-II, sito a Shemetovo, nella vicina raion di Smoleviči...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.536783,
+                    53.97285
+                ]
+            },
+            "properties": {
+                "entity": "Minsk-II",
+                "name_location": "Мінск — Калачы — Мядзель, Папярнянскі сельскі Савет, Мінскі раён, Мінская вобласць, 220053, Bielorussia",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...E Minsk-II, sito a Shemetovo, nella vicina raion di Smoleviči....",
+                    "*...Tutti i voli si fanno dall'Aeroporto Nazionale di Minsk (Minsk-II)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.538139,
+                    53.91594
+                ]
+            },
+            "properties": {
+                "entity": "город-герой",
+                "name_location": "Стэла \"Мінск-Горад Герой\", праспект Пераможцаў, Людамонт, Цэнтральны раён, Minsk, 722197, Bielorussia",
+                "class": "historic",
+                "type": "monument",
+                "snippet": [
+                    "...Minsk è stata insignita, con altre città dell'Unione Sovietica, del titolo di Città eroina (in russo: город-герой?, traslitterato: gorod-geroj) nel 1974, per la resistenza all'invasione nazista durante la Seconda guerra mondiale...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.538139,
+                    53.91594
+                ]
+            },
+            "properties": {
+                "entity": "gorod-geroj",
+                "name_location": "Стэла \"Мінск-Горад Герой\", праспект Пераможцаў, Людамонт, Цэнтральны раён, Minsk, 722197, Bielorussia",
+                "class": "historic",
+                "type": "monument",
+                "snippet": [
+                    "*...Minsk è stata insignita, con altre città dell'Unione Sovietica, del titolo di Città eroina (in russo: город-герой?, traslitterato: gorod-geroj) nel 1974, per la resistenza all'invasione nazista durante la Seconda guerra mondiale...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.503355,
+                    53.93473
+                ]
+            },
+            "properties": {
+                "entity": "Fk Minsk",
+                "name_location": "ФК Мінск, вуліца Крупцы, Крупцы, Вяснянка, Цэнтральны раён, Minsk, 220020, Bielorussia",
+                "class": "club",
+                "type": "sport",
+                "snippet": [
+                    "*...Le principali squadre calcistiche di Minsk sono la Dinamo Minsk, l'MTZ-RIPO Minsk, l'Fk Minsk ed il Futbol'ny Klub Krumkačy...."
+                ]
+            }
+        }
+    ]
+}

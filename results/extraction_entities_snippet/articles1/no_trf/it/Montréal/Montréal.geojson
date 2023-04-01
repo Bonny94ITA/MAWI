@@ -1,0 +1,1291 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.568257,
+                    45.498398
+                ]
+            },
+            "properties": {
+                "entity": "Canada",
+                "name_location": "Passerelle du complexe Place du Canada, Ville-Marie, René-Lévesque, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H3B 4C9, Canada",
+                "class": "highway",
+                "type": "footway",
+                "snippet": [
+                    "*...Montréal (AFI: ), in inglese Montreal (), è la più popolosa città della provincia del Québec nonché la seconda più popolosa città del Canada....",
+                    "...Fu anche sede dei giochi della XXI Olimpiade nel 1976 e, per quanto riguarda i grandi eventi periodici, ospita dal 1978 il Gran Premio automobilistico del Canada, prova del calendario di Formula 1 che si tiene sul circuito Gilles Villeneuve che si trova sull'isola cittadina di Notre-Dame....",
+                    "*...La seconda metà del XIX secolo portò il rapido sviluppo delle ferrovie, tanto che la Canadian Pacific Railway vi installò la sua sede sociale nel 1880, facendo della città il nodo ferroviario del Canada....",
+                    "...Il Parlamento del Canada Unito vi era situato tra 1843 e 1849, fino al suo incendio da parte di rivoluzionari inglesi, chiamati alle armi da un articolo volto ad alimentare odio del giornale di lingua inglese The Gazette....",
+                    "*...Il forte sviluppo delle banche e degli altri istituti finanziari nello stesso periodo diede lo slancio che permise a Montréal di diventare il centro finanziario del Canada durante tutta la prima metà del XX secolo....",
+                    "*...Un'idea diffusa tra i federalisti del Québec vuole che l'arrivo al potere degli indipendentisti nella città, nella seconda metà del XX secolo, abbia sancito per la città la fine del titolo di metropoli economica del Canada a favore di Toronto (Paul-André Linteau, Montréal, Boréal, 1992, scienza politica)....",
+                    "*...È operativa dal 1971 nella zona di Sherbrooke la più grande raffineria di petrolio del Canada....",
+                    "*...Come nel resto del Canada, lo sport più seguito a Montréal è l'hockey su ghiaccio...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.557189,
+                    45.496915
+                ]
+            },
+            "properties": {
+                "entity": "Ottawa",
+                "name_location": "Rue Ottawa, Vieux-Montréal, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H3C 1N9, Canada",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...È una città completamente insulare, in quanto sorge sull'arcipelago Hochelaga, gruppo di isole alla confluenza dei fiumi Ottawa e San Lorenzo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.555333,
+                    45.506223
+                ]
+            },
+            "properties": {
+                "entity": "Métropole",
+                "name_location": "Édifice Métropole, Boulevard Saint-Laurent, Vieux-Montréal, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2Y 3Y7, Canada",
+                "class": "building",
+                "type": "office",
+                "snippet": [
+                    "*...La sua lingua principale è il francese, nella quale è chiamata la Métropole...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.555653,
+                    45.539904
+                ]
+            },
+            "properties": {
+                "entity": "Hochelaga",
+                "name_location": "Rue Hochelaga, Hochelaga, Mercier–Hochelaga-Maisonneuve, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1W 1G1, Canada",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "...È una città completamente insulare, in quanto sorge sull'arcipelago Hochelaga, gruppo di isole alla confluenza dei fiumi Ottawa e San Lorenzo....",
+                    "*...Il villaggio fortificato di Hochelaga, degli Irochesi del San Lorenzo, si trovava sull'isola durante le visite di Jacques Cartier nell'ottobre 1535....",
+                    "*...Tuttavia, all'epoca della fondazione della città di Québec da parte di Samuel de Champlain il 3 luglio 1608, non rimanevano più tracce del villaggio di Hochelaga;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.563315,
+                    45.526077
+                ]
+            },
+            "properties": {
+                "entity": "Notre-Dame de Montréal",
+                "name_location": "Hôpital Notre-Dame | CUSSS du Centre-Sud-de-l'Île-de-Montréal, 1560, Rue Sherbrooke Est, Parc-Lafontaine, Le Plateau-Mont-Royal, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2L 4M1, Canada",
+                "class": "amenity",
+                "type": "hospital",
+                "snippet": [
+                    "*...I francesi vi si insediarono tuttavia soltanto il 17 maggio 1642, quando un gruppo di sacerdoti, religiose e coloni della società Notre-Dame de Montréal, guidati da Paul Chomedey de Maisonneuve, fondarono il villaggio di Ville-Marie...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.568627,
+                    45.501603
+                ]
+            },
+            "properties": {
+                "entity": "Ville-Marie",
+                "name_location": "Place Ville-Marie, Place Monseigneur-Charbonneau, Ville-Marie, René-Lévesque, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H3B 2E3, Canada",
+                "class": "building",
+                "type": "office",
+                "snippet": [
+                    "*...I francesi vi si insediarono tuttavia soltanto il 17 maggio 1642, quando un gruppo di sacerdoti, religiose e coloni della società Notre-Dame de Montréal, guidati da Paul Chomedey de Maisonneuve, fondarono il villaggio di Ville-Marie....",
+                    "*...Isola di Montréal: Baie-d'Urfé, Beaconsfield, Côte-Saint-Luc, Dollard-des-Ormeaux, Dorval, Hampstead, Kirkland, L'Île-Dorval, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount; ne fa parte anche Montréal vera e propria che a sua volta comprende i seguenti arrondissement (o borough in inglese): Ahuntsic-Cartierville, Anjou, Côte-des-Neiges - Notre-Dame-de-Grâce, L'Île-Bizard - Sainte-Geneviève, LaSalle, Lachine, Le Plateau-Mont-Royal, Le Sud-Ouest, Mercier - Hochelaga-Maisonneuve, Montréal-Nord, Outremont, Pierrefonds-Roxboro, Rivière-des-Prairies - Pointe-aux-Trembles, Rosemont - La Petite-Patrie, Saint-Laurent, Saint-Léonard, Verdun, Ville-Marie, Villeray - Saint-Michel - Parc-Extension, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.595187,
+                    45.581601
+                ]
+            },
+            "properties": {
+                "entity": "Aunis",
+                "name_location": "Rue de l'Aunis, Port-Maurice, Saint-Léonard, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1R 3A9, Canada",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Nel 1680 si contavano 493 abitanti a Montréal; 75 provenienti da Parigi, 68 dalla Normandia, 54 dall'Aunis (La Rochelle), 35 dall'Angiò, 34 dal Poitou, 28 da Le Mans, 23 dalla Saintonge, 17 dalla Bretagna, 16 dalla Contea del Perche, 13 da Angoulême, 12 dalla Champagne e 10 dalla Piccardia, inoltre erano presenti certamente piccole minoranze non classificate (immigrati e neri) \nNell'agosto 1701 1 300 amerindi del Nord-est America si riunirono a Montréal (che contava allora 1 200 abitanti) per stipulare una pace tra le loro varie nazioni e con i francesi...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.571005,
+                    45.529477
+                ]
+            },
+            "properties": {
+                "entity": "Rochelle",
+                "name_location": "La Rochelle, 1565, Rue Rachel Est, Parc-Lafontaine, Le Plateau-Mont-Royal, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2J 2K5, Canada",
+                "class": "building",
+                "type": "apartments",
+                "snippet": [
+                    "...Nel 1680 si contavano 493 abitanti a Montréal; 75 provenienti da Parigi, 68 dalla Normandia, 54 dall'Aunis (La Rochelle), 35 dall'Angiò, 34 dal Poitou, 28 da Le Mans, 23 dalla Saintonge, 17 dalla Bretagna, 16 dalla Contea del Perche, 13 da Angoulême, 12 dalla Champagne e 10 dalla Piccardia, inoltre erano presenti certamente piccole minoranze non classificate (immigrati e neri) \nNell'agosto 1701 1 300 amerindi del Nord-est America si riunirono a Montréal (che contava allora 1 200 abitanti) per stipulare una pace tra le loro varie nazioni e con i francesi...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.581963,
+                    45.582914
+                ]
+            },
+            "properties": {
+                "entity": "Mans",
+                "name_location": "Rue du Mans, Grande-Prairie, Saint-Léonard, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1S 1M2, Canada",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "...Nel 1680 si contavano 493 abitanti a Montréal; 75 provenienti da Parigi, 68 dalla Normandia, 54 dall'Aunis (La Rochelle), 35 dall'Angiò, 34 dal Poitou, 28 da Le Mans, 23 dalla Saintonge, 17 dalla Bretagna, 16 dalla Contea del Perche, 13 da Angoulême, 12 dalla Champagne e 10 dalla Piccardia, inoltre erano presenti certamente piccole minoranze non classificate (immigrati e neri) \nNell'agosto 1701 1 300 amerindi del Nord-est America si riunirono a Montréal (che contava allora 1 200 abitanti) per stipulare una pace tra le loro varie nazioni e con i francesi...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.609083,
+                    45.50909
+                ]
+            },
+            "properties": {
+                "entity": "Champagne",
+                "name_location": "Salle Claude-Champagne, Sentier de la pente de ski, Édouard-Montpetit, Outremont, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2V 2T2, Canada",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...Nel 1680 si contavano 493 abitanti a Montréal; 75 provenienti da Parigi, 68 dalla Normandia, 54 dall'Aunis (La Rochelle), 35 dall'Angiò, 34 dal Poitou, 28 da Le Mans, 23 dalla Saintonge, 17 dalla Bretagna, 16 dalla Contea del Perche, 13 da Angoulême, 12 dalla Champagne e 10 dalla Piccardia, inoltre erano presenti certamente piccole minoranze non classificate (immigrati e neri) \nNell'agosto 1701 1 300 amerindi del Nord-est America si riunirono a Montréal (che contava allora 1 200 abitanti) per stipulare una pace tra le loro varie nazioni e con i francesi...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.581853,
+                    45.467179
+                ]
+            },
+            "properties": {
+                "entity": "Vérendrye",
+                "name_location": "Boulevard de La Vérendrye, Côte-Saint-Paul, Le Sud-Ouest, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4E 4H2, Canada",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Fu il punto di partenza per l'esplorazione dell'interno da parte di esploratori francesi come Louis Jolliet, La Salle, Vérendrye e Duluth...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.581804,
+                    45.514351
+                ]
+            },
+            "properties": {
+                "entity": "Duluth",
+                "name_location": "Avenue Duluth Ouest, Saint-Louis, Le Plateau-Mont-Royal, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2W 1T7, Canada",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Fu il punto di partenza per l'esplorazione dell'interno da parte di esploratori francesi come Louis Jolliet, La Salle, Vérendrye e Duluth...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.633215,
+                    45.450966
+                ]
+            },
+            "properties": {
+                "entity": "Toronto",
+                "name_location": "Boulevard Montréal-Toronto, Saint-Henri, Le Sud-Ouest, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4B 1Z3, Canada",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Un'idea diffusa tra i federalisti del Québec vuole che l'arrivo al potere degli indipendentisti nella città, nella seconda metà del XX secolo, abbia sancito per la città la fine del titolo di metropoli economica del Canada a favore di Toronto (Paul-André Linteau, Montréal, Boréal, 1992, scienza politica)....",
+                    "*...La causa di questo trasferimento, secondo i cittadini indipendentisti del Québec, è lo sviluppo della via marittima del San Lorenzo, che darà luogo a un vero e proprio boom economico nell'Ontario dei Grandi Laghi, come anche alcune politiche economiche federali favorevoli all'incremento di Toronto....",
+                    "*...Nonostante sia stata superata dagli anni novanta dalla rivale di sempre Toronto, Montréal rimane una delle città più ricche del mondo per salario assegnato e per reddito pro capite...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.566572,
+                    45.498757
+                ]
+            },
+            "properties": {
+                "entity": "1000 Gauchetière",
+                "name_location": "1000, Rue de La Gauchetière Ouest, Ville-Marie, René-Lévesque, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H3A 4W5, Canada",
+                "class": "place",
+                "type": "house",
+                "snippet": [
+                    "*...L'edificio più alto della città, 1000 Gauchetière, ha 51 piani ed è alto circa 205 m.\nPer numero di abitanti, Montréal è la quarta città francofona più popolosa del mondo dopo Parigi (Francia), Abidjan \n(Costa d'Avorio) e Kinshasa (Repubblica Democratica del Congo)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.572117,
+                    45.527933
+                ]
+            },
+            "properties": {
+                "entity": "Lanaudière",
+                "name_location": "Rue De Lanaudière, Parc-Lafontaine, Le Plateau-Mont-Royal, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2J 2K2, Canada",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...La fascia esterna comprende Montérégie, Laurentians e Lanaudière....",
+                    "...Lanaudière: L'Assomption, Mascouche, Repentigny, Saint-Sulpice, Terrebonne...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.830893,
+                    45.443336
+                ]
+            },
+            "properties": {
+                "entity": "Beaconsfield",
+                "name_location": "Beaconsfield, Avenue Duke-of-Kent, Pointe-Claire, Agglomération de Montréal, Montréal (région administrative), Québec, H9R 2Z8, Canada",
+                "class": "leisure",
+                "type": "golf_course",
+                "snippet": [
+                    "*...Isola di Montréal: Baie-d'Urfé, Beaconsfield, Côte-Saint-Luc, Dollard-des-Ormeaux, Dorval, Hampstead, Kirkland, L'Île-Dorval, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount; ne fa parte anche Montréal vera e propria che a sua volta comprende i seguenti arrondissement (o borough in inglese): Ahuntsic-Cartierville, Anjou, Côte-des-Neiges - Notre-Dame-de-Grâce, L'Île-Bizard - Sainte-Geneviève, LaSalle, Lachine, Le Plateau-Mont-Royal, Le Sud-Ouest, Mercier - Hochelaga-Maisonneuve, Montréal-Nord, Outremont, Pierrefonds-Roxboro, Rivière-des-Prairies - Pointe-aux-Trembles, Rosemont - La Petite-Patrie, Saint-Laurent, Saint-Léonard, Verdun, Ville-Marie, Villeray - Saint-Michel - Parc-Extension, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.643237,
+                    45.474396
+                ]
+            },
+            "properties": {
+                "entity": "Côte-Saint-Luc",
+                "name_location": "Chemin de la Côte-Saint-Luc, Loyola, Côte-des-Neiges–Notre-Dame-de-Grâce, Hampstead, Agglomération de Montréal, Montréal (région administrative), Québec, H3X 2H2, Canada",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Isola di Montréal: Baie-d'Urfé, Beaconsfield, Côte-Saint-Luc, Dollard-des-Ormeaux, Dorval, Hampstead, Kirkland, L'Île-Dorval, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount; ne fa parte anche Montréal vera e propria che a sua volta comprende i seguenti arrondissement (o borough in inglese): Ahuntsic-Cartierville, Anjou, Côte-des-Neiges - Notre-Dame-de-Grâce, L'Île-Bizard - Sainte-Geneviève, LaSalle, Lachine, Le Plateau-Mont-Royal, Le Sud-Ouest, Mercier - Hochelaga-Maisonneuve, Montréal-Nord, Outremont, Pierrefonds-Roxboro, Rivière-des-Prairies - Pointe-aux-Trembles, Rosemont - La Petite-Patrie, Saint-Laurent, Saint-Léonard, Verdun, Ville-Marie, Villeray - Saint-Michel - Parc-Extension, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.885511,
+                    45.440327
+                ]
+            },
+            "properties": {
+                "entity": "Kirkland",
+                "name_location": "Kirkland, Voie de Service Nord, Kirkland, Agglomération de Montréal, Montréal (région administrative), Québec, H9J 2R6, Canada",
+                "class": "building",
+                "type": "construction",
+                "snippet": [
+                    "*...Isola di Montréal: Baie-d'Urfé, Beaconsfield, Côte-Saint-Luc, Dollard-des-Ormeaux, Dorval, Hampstead, Kirkland, L'Île-Dorval, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount; ne fa parte anche Montréal vera e propria che a sua volta comprende i seguenti arrondissement (o borough in inglese): Ahuntsic-Cartierville, Anjou, Côte-des-Neiges - Notre-Dame-de-Grâce, L'Île-Bizard - Sainte-Geneviève, LaSalle, Lachine, Le Plateau-Mont-Royal, Le Sud-Ouest, Mercier - Hochelaga-Maisonneuve, Montréal-Nord, Outremont, Pierrefonds-Roxboro, Rivière-des-Prairies - Pointe-aux-Trembles, Rosemont - La Petite-Patrie, Saint-Laurent, Saint-Léonard, Verdun, Ville-Marie, Villeray - Saint-Michel - Parc-Extension, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.562147,
+                    45.635176
+                ]
+            },
+            "properties": {
+                "entity": "Montreal East",
+                "name_location": "Héliport, Montréal-est (Aim), Boulevard Henri-Bourassa Est, Marc-Aurèle-Fortin, Anjou, Montréal-Est, Agglomération de Montréal, Montréal (région administrative), Québec, H1E 1N9, Canada",
+                "class": "aeroway",
+                "type": "helipad",
+                "snippet": [
+                    "*...Isola di Montréal: Baie-d'Urfé, Beaconsfield, Côte-Saint-Luc, Dollard-des-Ormeaux, Dorval, Hampstead, Kirkland, L'Île-Dorval, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount; ne fa parte anche Montréal vera e propria che a sua volta comprende i seguenti arrondissement (o borough in inglese): Ahuntsic-Cartierville, Anjou, Côte-des-Neiges - Notre-Dame-de-Grâce, L'Île-Bizard - Sainte-Geneviève, LaSalle, Lachine, Le Plateau-Mont-Royal, Le Sud-Ouest, Mercier - Hochelaga-Maisonneuve, Montréal-Nord, Outremont, Pierrefonds-Roxboro, Rivière-des-Prairies - Pointe-aux-Trembles, Rosemont - La Petite-Patrie, Saint-Laurent, Saint-Léonard, Verdun, Ville-Marie, Villeray - Saint-Michel - Parc-Extension, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount....",
+                    "*...Montréal (AFI: ), in inglese Montreal (), è la più popolosa città della provincia del Québec nonché la seconda più popolosa città del Canada....",
+                    "*...A Montreal v'è la principale sede che si occupa di educazione sportiva per le scuole di tutto il Québec, la Réseau du sport étudiant du Québec....",
+                    "...I Montreal Alouettes sono la squadra di football canadese della città....",
+                    "...Dal 1969 al 2004, anno del trasferimento a Washington, sono esistiti i Montreal Expos, squadra di baseball della MLB, prima franchigia non statunitense della lega...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.640433,
+                    45.454466
+                ]
+            },
+            "properties": {
+                "entity": "Montreal West",
+                "name_location": "Montréal-Ouest, Rue Elmhurst, Upper Lachine, Côte-des-Neiges–Notre-Dame-de-Grâce, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4B 1R8, Canada",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Isola di Montréal: Baie-d'Urfé, Beaconsfield, Côte-Saint-Luc, Dollard-des-Ormeaux, Dorval, Hampstead, Kirkland, L'Île-Dorval, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount; ne fa parte anche Montréal vera e propria che a sua volta comprende i seguenti arrondissement (o borough in inglese): Ahuntsic-Cartierville, Anjou, Côte-des-Neiges - Notre-Dame-de-Grâce, L'Île-Bizard - Sainte-Geneviève, LaSalle, Lachine, Le Plateau-Mont-Royal, Le Sud-Ouest, Mercier - Hochelaga-Maisonneuve, Montréal-Nord, Outremont, Pierrefonds-Roxboro, Rivière-des-Prairies - Pointe-aux-Trembles, Rosemont - La Petite-Patrie, Saint-Laurent, Saint-Léonard, Verdun, Ville-Marie, Villeray - Saint-Michel - Parc-Extension, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.572707,
+                    45.500957
+                ]
+            },
+            "properties": {
+                "entity": "Mount Royal",
+                "name_location": "Place Mount-Royal, Ville-Marie, René-Lévesque, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H3A 1P2, Canada",
+                "class": "highway",
+                "type": "unclassified",
+                "snippet": [
+                    "*...Isola di Montréal: Baie-d'Urfé, Beaconsfield, Côte-Saint-Luc, Dollard-des-Ormeaux, Dorval, Hampstead, Kirkland, L'Île-Dorval, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount; ne fa parte anche Montréal vera e propria che a sua volta comprende i seguenti arrondissement (o borough in inglese): Ahuntsic-Cartierville, Anjou, Côte-des-Neiges - Notre-Dame-de-Grâce, L'Île-Bizard - Sainte-Geneviève, LaSalle, Lachine, Le Plateau-Mont-Royal, Le Sud-Ouest, Mercier - Hochelaga-Maisonneuve, Montréal-Nord, Outremont, Pierrefonds-Roxboro, Rivière-des-Prairies - Pointe-aux-Trembles, Rosemont - La Petite-Patrie, Saint-Laurent, Saint-Léonard, Verdun, Ville-Marie, Villeray - Saint-Michel - Parc-Extension, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.80219,
+                    45.447595
+                ]
+            },
+            "properties": {
+                "entity": "Pointe-Claire",
+                "name_location": "Pointe-Claire, Avenue Donegani, Pointe-Claire, Agglomération de Montréal, Montréal (région administrative), Québec, H9R 2V4, Canada",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Isola di Montréal: Baie-d'Urfé, Beaconsfield, Côte-Saint-Luc, Dollard-des-Ormeaux, Dorval, Hampstead, Kirkland, L'Île-Dorval, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount; ne fa parte anche Montréal vera e propria che a sua volta comprende i seguenti arrondissement (o borough in inglese): Ahuntsic-Cartierville, Anjou, Côte-des-Neiges - Notre-Dame-de-Grâce, L'Île-Bizard - Sainte-Geneviève, LaSalle, Lachine, Le Plateau-Mont-Royal, Le Sud-Ouest, Mercier - Hochelaga-Maisonneuve, Montréal-Nord, Outremont, Pierrefonds-Roxboro, Rivière-des-Prairies - Pointe-aux-Trembles, Rosemont - La Petite-Patrie, Saint-Laurent, Saint-Léonard, Verdun, Ville-Marie, Villeray - Saint-Michel - Parc-Extension, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.950328,
+                    45.407885
+                ]
+            },
+            "properties": {
+                "entity": "Sainte-Anne-de-Bellevue",
+                "name_location": "Sainte-Anne-de-Bellevue, Rue Demers, Sainte-Anne-de-Bellevue, Agglomération de Montréal, Montréal (région administrative), Québec, H9X 1L9, Canada",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Isola di Montréal: Baie-d'Urfé, Beaconsfield, Côte-Saint-Luc, Dollard-des-Ormeaux, Dorval, Hampstead, Kirkland, L'Île-Dorval, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount; ne fa parte anche Montréal vera e propria che a sua volta comprende i seguenti arrondissement (o borough in inglese): Ahuntsic-Cartierville, Anjou, Côte-des-Neiges - Notre-Dame-de-Grâce, L'Île-Bizard - Sainte-Geneviève, LaSalle, Lachine, Le Plateau-Mont-Royal, Le Sud-Ouest, Mercier - Hochelaga-Maisonneuve, Montréal-Nord, Outremont, Pierrefonds-Roxboro, Rivière-des-Prairies - Pointe-aux-Trembles, Rosemont - La Petite-Patrie, Saint-Laurent, Saint-Léonard, Verdun, Ville-Marie, Villeray - Saint-Michel - Parc-Extension, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.546532,
+                    45.583947
+                ]
+            },
+            "properties": {
+                "entity": "Senneville",
+                "name_location": "Langelier / Senneville, Boulevard Langelier, Mercier–Hochelaga-Maisonneuve, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1M 1M4, Canada",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Isola di Montréal: Baie-d'Urfé, Beaconsfield, Côte-Saint-Luc, Dollard-des-Ormeaux, Dorval, Hampstead, Kirkland, L'Île-Dorval, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount; ne fa parte anche Montréal vera e propria che a sua volta comprende i seguenti arrondissement (o borough in inglese): Ahuntsic-Cartierville, Anjou, Côte-des-Neiges - Notre-Dame-de-Grâce, L'Île-Bizard - Sainte-Geneviève, LaSalle, Lachine, Le Plateau-Mont-Royal, Le Sud-Ouest, Mercier - Hochelaga-Maisonneuve, Montréal-Nord, Outremont, Pierrefonds-Roxboro, Rivière-des-Prairies - Pointe-aux-Trembles, Rosemont - La Petite-Patrie, Saint-Laurent, Saint-Léonard, Verdun, Ville-Marie, Villeray - Saint-Michel - Parc-Extension, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.588189,
+                    45.487152
+                ]
+            },
+            "properties": {
+                "entity": "Westmount",
+                "name_location": "Westmount Square, Avenue Wood, Westmount, Agglomération de Montréal, Montréal (région administrative), Québec, H3Z 3J8, Canada",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...Isola di Montréal: Baie-d'Urfé, Beaconsfield, Côte-Saint-Luc, Dollard-des-Ormeaux, Dorval, Hampstead, Kirkland, L'Île-Dorval, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount; ne fa parte anche Montréal vera e propria che a sua volta comprende i seguenti arrondissement (o borough in inglese): Ahuntsic-Cartierville, Anjou, Côte-des-Neiges - Notre-Dame-de-Grâce, L'Île-Bizard - Sainte-Geneviève, LaSalle, Lachine, Le Plateau-Mont-Royal, Le Sud-Ouest, Mercier - Hochelaga-Maisonneuve, Montréal-Nord, Outremont, Pierrefonds-Roxboro, Rivière-des-Prairies - Pointe-aux-Trembles, Rosemont - La Petite-Patrie, Saint-Laurent, Saint-Léonard, Verdun, Ville-Marie, Villeray - Saint-Michel - Parc-Extension, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.65495,
+                    45.538845
+                ]
+            },
+            "properties": {
+                "entity": "Ahuntsic-Cartierville",
+                "name_location": "CDEC Ahuntsic-Cartierville, 433, Rue Chabanel Ouest, Saint-Simon, Ahuntsic-Cartierville, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2N 2J4, Canada",
+                "class": "office",
+                "type": "government",
+                "snippet": [
+                    "*...Isola di Montréal: Baie-d'Urfé, Beaconsfield, Côte-Saint-Luc, Dollard-des-Ormeaux, Dorval, Hampstead, Kirkland, L'Île-Dorval, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount; ne fa parte anche Montréal vera e propria che a sua volta comprende i seguenti arrondissement (o borough in inglese): Ahuntsic-Cartierville, Anjou, Côte-des-Neiges - Notre-Dame-de-Grâce, L'Île-Bizard - Sainte-Geneviève, LaSalle, Lachine, Le Plateau-Mont-Royal, Le Sud-Ouest, Mercier - Hochelaga-Maisonneuve, Montréal-Nord, Outremont, Pierrefonds-Roxboro, Rivière-des-Prairies - Pointe-aux-Trembles, Rosemont - La Petite-Patrie, Saint-Laurent, Saint-Léonard, Verdun, Ville-Marie, Villeray - Saint-Michel - Parc-Extension, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.597337,
+                    45.617427
+                ]
+            },
+            "properties": {
+                "entity": "Anjou",
+                "name_location": "Anjou, Boulevard Louis-Hippolyte-Lafontaine, Marc-Aurèle-Fortin, Rivière-des-Prairies–Pointe-aux-Trembles, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1E 2Z6, Canada",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Isola di Montréal: Baie-d'Urfé, Beaconsfield, Côte-Saint-Luc, Dollard-des-Ormeaux, Dorval, Hampstead, Kirkland, L'Île-Dorval, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount; ne fa parte anche Montréal vera e propria che a sua volta comprende i seguenti arrondissement (o borough in inglese): Ahuntsic-Cartierville, Anjou, Côte-des-Neiges - Notre-Dame-de-Grâce, L'Île-Bizard - Sainte-Geneviève, LaSalle, Lachine, Le Plateau-Mont-Royal, Le Sud-Ouest, Mercier - Hochelaga-Maisonneuve, Montréal-Nord, Outremont, Pierrefonds-Roxboro, Rivière-des-Prairies - Pointe-aux-Trembles, Rosemont - La Petite-Patrie, Saint-Laurent, Saint-Léonard, Verdun, Ville-Marie, Villeray - Saint-Michel - Parc-Extension, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.566144,
+                    45.470906
+                ]
+            },
+            "properties": {
+                "entity": "LaSalle",
+                "name_location": "LaSalle, BUS, Verdun-Centre, Verdun, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4G 3M3, Canada",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Isola di Montréal: Baie-d'Urfé, Beaconsfield, Côte-Saint-Luc, Dollard-des-Ormeaux, Dorval, Hampstead, Kirkland, L'Île-Dorval, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount; ne fa parte anche Montréal vera e propria che a sua volta comprende i seguenti arrondissement (o borough in inglese): Ahuntsic-Cartierville, Anjou, Côte-des-Neiges - Notre-Dame-de-Grâce, L'Île-Bizard - Sainte-Geneviève, LaSalle, Lachine, Le Plateau-Mont-Royal, Le Sud-Ouest, Mercier - Hochelaga-Maisonneuve, Montréal-Nord, Outremont, Pierrefonds-Roxboro, Rivière-des-Prairies - Pointe-aux-Trembles, Rosemont - La Petite-Patrie, Saint-Laurent, Saint-Léonard, Verdun, Ville-Marie, Villeray - Saint-Michel - Parc-Extension, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.811891,
+                    45.509781
+                ]
+            },
+            "properties": {
+                "entity": "Pierrefonds-Roxboro",
+                "name_location": "Pierrefonds-Roxboro, Avenue Jean-Brillant, Pierrefonds-Est/Roxboro, Pierrefonds-Roxboro, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H8Y 2N9, Canada",
+                "class": "building",
+                "type": "construction",
+                "snippet": [
+                    "*...Isola di Montréal: Baie-d'Urfé, Beaconsfield, Côte-Saint-Luc, Dollard-des-Ormeaux, Dorval, Hampstead, Kirkland, L'Île-Dorval, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount; ne fa parte anche Montréal vera e propria che a sua volta comprende i seguenti arrondissement (o borough in inglese): Ahuntsic-Cartierville, Anjou, Côte-des-Neiges - Notre-Dame-de-Grâce, L'Île-Bizard - Sainte-Geneviève, LaSalle, Lachine, Le Plateau-Mont-Royal, Le Sud-Ouest, Mercier - Hochelaga-Maisonneuve, Montréal-Nord, Outremont, Pierrefonds-Roxboro, Rivière-des-Prairies - Pointe-aux-Trembles, Rosemont - La Petite-Patrie, Saint-Laurent, Saint-Léonard, Verdun, Ville-Marie, Villeray - Saint-Michel - Parc-Extension, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.509358,
+                    45.67408
+                ]
+            },
+            "properties": {
+                "entity": "Pointe-aux-Trembles",
+                "name_location": "Pointe-aux-Trembles, Rue Prince Arthur, Pointe-aux-Trembles, Rivière-des-Prairies–Pointe-aux-Trembles, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1A 5J4, Canada",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Isola di Montréal: Baie-d'Urfé, Beaconsfield, Côte-Saint-Luc, Dollard-des-Ormeaux, Dorval, Hampstead, Kirkland, L'Île-Dorval, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount; ne fa parte anche Montréal vera e propria che a sua volta comprende i seguenti arrondissement (o borough in inglese): Ahuntsic-Cartierville, Anjou, Côte-des-Neiges - Notre-Dame-de-Grâce, L'Île-Bizard - Sainte-Geneviève, LaSalle, Lachine, Le Plateau-Mont-Royal, Le Sud-Ouest, Mercier - Hochelaga-Maisonneuve, Montréal-Nord, Outremont, Pierrefonds-Roxboro, Rivière-des-Prairies - Pointe-aux-Trembles, Rosemont - La Petite-Patrie, Saint-Laurent, Saint-Léonard, Verdun, Ville-Marie, Villeray - Saint-Michel - Parc-Extension, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.590845,
+                    45.550268
+                ]
+            },
+            "properties": {
+                "entity": "Rosemont - La Petite-Patrie",
+                "name_location": "Caisse Desjardins de Rosemont–La Petite-Patrie, 2597, Rue Beaubien Est, Rosemont–La Petite-Patrie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1Y 1G4, Canada",
+                "class": "amenity",
+                "type": "bank",
+                "snippet": [
+                    "*...Isola di Montréal: Baie-d'Urfé, Beaconsfield, Côte-Saint-Luc, Dollard-des-Ormeaux, Dorval, Hampstead, Kirkland, L'Île-Dorval, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount; ne fa parte anche Montréal vera e propria che a sua volta comprende i seguenti arrondissement (o borough in inglese): Ahuntsic-Cartierville, Anjou, Côte-des-Neiges - Notre-Dame-de-Grâce, L'Île-Bizard - Sainte-Geneviève, LaSalle, Lachine, Le Plateau-Mont-Royal, Le Sud-Ouest, Mercier - Hochelaga-Maisonneuve, Montréal-Nord, Outremont, Pierrefonds-Roxboro, Rivière-des-Prairies - Pointe-aux-Trembles, Rosemont - La Petite-Patrie, Saint-Laurent, Saint-Léonard, Verdun, Ville-Marie, Villeray - Saint-Michel - Parc-Extension, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.564888,
+                    45.51077
+                ]
+            },
+            "properties": {
+                "entity": "Saint-Laurent",
+                "name_location": "Saint Laurent, Piste Claire Morissette, Quartier des Spectacles, René-Lévesque, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2X 0C4, Canada",
+                "class": "railway",
+                "type": "subway_entrance",
+                "snippet": [
+                    "*...Isola di Montréal: Baie-d'Urfé, Beaconsfield, Côte-Saint-Luc, Dollard-des-Ormeaux, Dorval, Hampstead, Kirkland, L'Île-Dorval, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount; ne fa parte anche Montréal vera e propria che a sua volta comprende i seguenti arrondissement (o borough in inglese): Ahuntsic-Cartierville, Anjou, Côte-des-Neiges - Notre-Dame-de-Grâce, L'Île-Bizard - Sainte-Geneviève, LaSalle, Lachine, Le Plateau-Mont-Royal, Le Sud-Ouest, Mercier - Hochelaga-Maisonneuve, Montréal-Nord, Outremont, Pierrefonds-Roxboro, Rivière-des-Prairies - Pointe-aux-Trembles, Rosemont - La Petite-Patrie, Saint-Laurent, Saint-Léonard, Verdun, Ville-Marie, Villeray - Saint-Michel - Parc-Extension, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.59693,
+                    45.572638
+                ]
+            },
+            "properties": {
+                "entity": "Saint-Léonard",
+                "name_location": "Nissan Gabriel Saint-Léonard, Boulevard Métropolitain, Port-Maurice, Saint-Léonard, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1R 2Y5, Canada",
+                "class": "shop",
+                "type": "car",
+                "snippet": [
+                    "*...Isola di Montréal: Baie-d'Urfé, Beaconsfield, Côte-Saint-Luc, Dollard-des-Ormeaux, Dorval, Hampstead, Kirkland, L'Île-Dorval, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount; ne fa parte anche Montréal vera e propria che a sua volta comprende i seguenti arrondissement (o borough in inglese): Ahuntsic-Cartierville, Anjou, Côte-des-Neiges - Notre-Dame-de-Grâce, L'Île-Bizard - Sainte-Geneviève, LaSalle, Lachine, Le Plateau-Mont-Royal, Le Sud-Ouest, Mercier - Hochelaga-Maisonneuve, Montréal-Nord, Outremont, Pierrefonds-Roxboro, Rivière-des-Prairies - Pointe-aux-Trembles, Rosemont - La Petite-Patrie, Saint-Laurent, Saint-Léonard, Verdun, Ville-Marie, Villeray - Saint-Michel - Parc-Extension, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.571836,
+                    45.459313
+                ]
+            },
+            "properties": {
+                "entity": "Verdun",
+                "name_location": "Verdun, Rue de Verdun, Verdun-Centre, Verdun, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4G 1M3, Canada",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Isola di Montréal: Baie-d'Urfé, Beaconsfield, Côte-Saint-Luc, Dollard-des-Ormeaux, Dorval, Hampstead, Kirkland, L'Île-Dorval, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount; ne fa parte anche Montréal vera e propria che a sua volta comprende i seguenti arrondissement (o borough in inglese): Ahuntsic-Cartierville, Anjou, Côte-des-Neiges - Notre-Dame-de-Grâce, L'Île-Bizard - Sainte-Geneviève, LaSalle, Lachine, Le Plateau-Mont-Royal, Le Sud-Ouest, Mercier - Hochelaga-Maisonneuve, Montréal-Nord, Outremont, Pierrefonds-Roxboro, Rivière-des-Prairies - Pointe-aux-Trembles, Rosemont - La Petite-Patrie, Saint-Laurent, Saint-Léonard, Verdun, Ville-Marie, Villeray - Saint-Michel - Parc-Extension, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.553262,
+                    45.511293
+                ]
+            },
+            "properties": {
+                "entity": "Brossard",
+                "name_location": "Maison Joseph-Brossard, 454, Rue Saint-Louis, Vieux-Montréal, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2Y 1A9, Canada",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...Agglomerato urbano di Longueuil: Boucherville, Brossard, Longueuil, Borough of Greenfield Park, Borough of Saint-Hubert, Borough of Vieux-Longueuil, Saint-Lambert, Saint-Bruno-de-Montarville...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.583923,
+                    45.491695
+                ]
+            },
+            "properties": {
+                "entity": "Chomedey",
+                "name_location": "Rue Chomedey, Montagne, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H3H 0A7, Canada",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "...I francesi vi si insediarono tuttavia soltanto il 17 maggio 1642, quando un gruppo di sacerdoti, religiose e coloni della società Notre-Dame de Montréal, guidati da Paul Chomedey de Maisonneuve, fondarono il villaggio di Ville-Marie....",
+                    "*...Laval (quartieri, neighbourhood): Auteuil, Chomedey, Duvernay, Fabreville, Îles Laval, Laval-Ouest, Laval-des-Rapides, Laval-sur-le-Lac, Pont-Viau, Saint-François, Saint-Vincent-de-Paul, Sainte-Dorothée, Sainte-Rose, Vimont...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.57317,
+                    45.483109
+                ]
+            },
+            "properties": {
+                "entity": "Duvernay",
+                "name_location": "Rue Duvernay Ouest, Petite-Bourgogne, Le Sud-Ouest, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H3J 1N9, Canada",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Laval (quartieri, neighbourhood): Auteuil, Chomedey, Duvernay, Fabreville, Îles Laval, Laval-Ouest, Laval-des-Rapides, Laval-sur-le-Lac, Pont-Viau, Saint-François, Saint-Vincent-de-Paul, Sainte-Dorothée, Sainte-Rose, Vimont...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.674631,
+                    45.557144
+                ]
+            },
+            "properties": {
+                "entity": "Pont-Viau",
+                "name_location": "Pont Viau, Ahuntsic-Cartierville, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2C 0A8, Canada",
+                "class": "highway",
+                "type": "cycleway",
+                "snippet": [
+                    "*...Laval (quartieri, neighbourhood): Auteuil, Chomedey, Duvernay, Fabreville, Îles Laval, Laval-Ouest, Laval-des-Rapides, Laval-sur-le-Lac, Pont-Viau, Saint-François, Saint-Vincent-de-Paul, Sainte-Dorothée, Sainte-Rose, Vimont...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.558683,
+                    45.504434
+                ]
+            },
+            "properties": {
+                "entity": "Saint-François",
+                "name_location": "Rue Saint-François-Xavier, Vieux-Montréal, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2Y 1M6, Canada",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Laval (quartieri, neighbourhood): Auteuil, Chomedey, Duvernay, Fabreville, Îles Laval, Laval-Ouest, Laval-des-Rapides, Laval-sur-le-Lac, Pont-Viau, Saint-François, Saint-Vincent-de-Paul, Sainte-Dorothée, Sainte-Rose, Vimont...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.67015,
+                    45.547414
+                ]
+            },
+            "properties": {
+                "entity": "Saint-Vincent-de-Paul",
+                "name_location": "Société Saint-Vincent-de-Paul Saint-André-Apôtre, 10534, Rue Waverly, Ahuntsic-Cartierville, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H3L 2W6, Canada",
+                "class": "office",
+                "type": "charity",
+                "snippet": [
+                    "*...Laval (quartieri, neighbourhood): Auteuil, Chomedey, Duvernay, Fabreville, Îles Laval, Laval-Ouest, Laval-des-Rapides, Laval-sur-le-Lac, Pont-Viau, Saint-François, Saint-Vincent-de-Paul, Sainte-Dorothée, Sainte-Rose, Vimont...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.554297,
+                    45.518718
+                ]
+            },
+            "properties": {
+                "entity": "Sainte-Rose",
+                "name_location": "Rue Sainte-Rose, Village gai, Sainte-Marie, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2L 3B5, Canada",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Laval (quartieri, neighbourhood): Auteuil, Chomedey, Duvernay, Fabreville, Îles Laval, Laval-Ouest, Laval-des-Rapides, Laval-sur-le-Lac, Pont-Viau, Saint-François, Saint-Vincent-de-Paul, Sainte-Dorothée, Sainte-Rose, Vimont...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.577498,
+                    45.513443
+                ]
+            },
+            "properties": {
+                "entity": "Vimont",
+                "name_location": "Pavillon Vimont, Avenue des Pins, Saint-Louis, Le Plateau-Mont-Royal, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2W 1R5, Canada",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...Laval (quartieri, neighbourhood): Auteuil, Chomedey, Duvernay, Fabreville, Îles Laval, Laval-Ouest, Laval-des-Rapides, Laval-sur-le-Lac, Pont-Viau, Saint-François, Saint-Vincent-de-Paul, Sainte-Dorothée, Sainte-Rose, Vimont...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.599721,
+                    45.489113
+                ]
+            },
+            "properties": {
+                "entity": "Hudson",
+                "name_location": "Rue Hudson, Westmount, Agglomération de Montréal, Montréal (région administrative), Québec, H3Y 3B1, Canada",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Montérégie: Beauharnois, Beloeil, Calixa-Lavallée, Candiac, Carignan, Chambly, Charlemagne, Châteauguay, Contrecoeur, Delson, Hudson, Kahnawake La Prairie, Léry, Les Cèdres, L'Île-Cadieux, L'Île-Perrot, McMasterville, Mercier, Mont-Saint-Hilaire, Notre-Dame-de-l'Île-Perrot, Otterburn Park, Pincourt, Pointe-des-Cascades, Richelieu, Saint-Amable, Saint-Basile-le-Grand, Saint-Bruno-de-Montarville, ainte-Catherine, Saint-Constant, Saint-Isidore, Saint-Jean-Baptiste, Sainte-Julie, Saint-Lazare, Saint-Mathias-sur-Richelieu, Saint-Mathieu, Saint-Mathieu-de-Beloeil, Saint-Philippe, Salaberry-de-Valleyfield, Terrasse-Vaudreuil, Varennes, Vaudreuil-Dorion, Vaudreuil-sur-le-Lac, Verchères...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.553504,
+                    45.509353
+                ]
+            },
+            "properties": {
+                "entity": "Léry",
+                "name_location": "Édifice Chaussegros-de-Léry, Rue Notre-Dame Est, Vieux-Montréal, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2Y 1C8, Canada",
+                "class": "office",
+                "type": "government",
+                "snippet": [
+                    "*...Montérégie: Beauharnois, Beloeil, Calixa-Lavallée, Candiac, Carignan, Chambly, Charlemagne, Châteauguay, Contrecoeur, Delson, Hudson, Kahnawake La Prairie, Léry, Les Cèdres, L'Île-Cadieux, L'Île-Perrot, McMasterville, Mercier, Mont-Saint-Hilaire, Notre-Dame-de-l'Île-Perrot, Otterburn Park, Pincourt, Pointe-des-Cascades, Richelieu, Saint-Amable, Saint-Basile-le-Grand, Saint-Bruno-de-Montarville, ainte-Catherine, Saint-Constant, Saint-Isidore, Saint-Jean-Baptiste, Sainte-Julie, Saint-Lazare, Saint-Mathias-sur-Richelieu, Saint-Mathieu, Saint-Mathieu-de-Beloeil, Saint-Philippe, Salaberry-de-Valleyfield, Terrasse-Vaudreuil, Varennes, Vaudreuil-Dorion, Vaudreuil-sur-le-Lac, Verchères...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.680274,
+                    45.516779
+                ]
+            },
+            "properties": {
+                "entity": "Les Cèdres",
+                "name_location": "Centre d'hébergement Les Cèdres, 1275, Boulevard de la Côte-Vertu, Dutrisac, Saint-Laurent, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4L 4V2, Canada",
+                "class": "amenity",
+                "type": "social_facility",
+                "snippet": [
+                    "*...Montérégie: Beauharnois, Beloeil, Calixa-Lavallée, Candiac, Carignan, Chambly, Charlemagne, Châteauguay, Contrecoeur, Delson, Hudson, Kahnawake La Prairie, Léry, Les Cèdres, L'Île-Cadieux, L'Île-Perrot, McMasterville, Mercier, Mont-Saint-Hilaire, Notre-Dame-de-l'Île-Perrot, Otterburn Park, Pincourt, Pointe-des-Cascades, Richelieu, Saint-Amable, Saint-Basile-le-Grand, Saint-Bruno-de-Montarville, ainte-Catherine, Saint-Constant, Saint-Isidore, Saint-Jean-Baptiste, Sainte-Julie, Saint-Lazare, Saint-Mathias-sur-Richelieu, Saint-Mathieu, Saint-Mathieu-de-Beloeil, Saint-Philippe, Salaberry-de-Valleyfield, Terrasse-Vaudreuil, Varennes, Vaudreuil-Dorion, Vaudreuil-sur-le-Lac, Verchères...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.602822,
+                    45.597203
+                ]
+            },
+            "properties": {
+                "entity": "Mercier",
+                "name_location": "Rue Honoré Mercier, Grande-Prairie, Saint-Léonard, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1P 2L9, Canada",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "...Isola di Montréal: Baie-d'Urfé, Beaconsfield, Côte-Saint-Luc, Dollard-des-Ormeaux, Dorval, Hampstead, Kirkland, L'Île-Dorval, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount; ne fa parte anche Montréal vera e propria che a sua volta comprende i seguenti arrondissement (o borough in inglese): Ahuntsic-Cartierville, Anjou, Côte-des-Neiges - Notre-Dame-de-Grâce, L'Île-Bizard - Sainte-Geneviève, LaSalle, Lachine, Le Plateau-Mont-Royal, Le Sud-Ouest, Mercier - Hochelaga-Maisonneuve, Montréal-Nord, Outremont, Pierrefonds-Roxboro, Rivière-des-Prairies - Pointe-aux-Trembles, Rosemont - La Petite-Patrie, Saint-Laurent, Saint-Léonard, Verdun, Ville-Marie, Villeray - Saint-Michel - Parc-Extension, Montreal East, Montreal West, Mount Royal, Pointe-Claire, Sainte-Anne-de-Bellevue, Senneville, Westmount....",
+                    "*...Montérégie: Beauharnois, Beloeil, Calixa-Lavallée, Candiac, Carignan, Chambly, Charlemagne, Châteauguay, Contrecoeur, Delson, Hudson, Kahnawake La Prairie, Léry, Les Cèdres, L'Île-Cadieux, L'Île-Perrot, McMasterville, Mercier, Mont-Saint-Hilaire, Notre-Dame-de-l'Île-Perrot, Otterburn Park, Pincourt, Pointe-des-Cascades, Richelieu, Saint-Amable, Saint-Basile-le-Grand, Saint-Bruno-de-Montarville, ainte-Catherine, Saint-Constant, Saint-Isidore, Saint-Jean-Baptiste, Sainte-Julie, Saint-Lazare, Saint-Mathias-sur-Richelieu, Saint-Mathieu, Saint-Mathieu-de-Beloeil, Saint-Philippe, Salaberry-de-Valleyfield, Terrasse-Vaudreuil, Varennes, Vaudreuil-Dorion, Vaudreuil-sur-le-Lac, Verchères...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.552824,
+                    45.507648
+                ]
+            },
+            "properties": {
+                "entity": "Saint-Amable",
+                "name_location": "Rue Saint-Amable, Vieux-Montréal, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2Y 3A5, Canada",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Montérégie: Beauharnois, Beloeil, Calixa-Lavallée, Candiac, Carignan, Chambly, Charlemagne, Châteauguay, Contrecoeur, Delson, Hudson, Kahnawake La Prairie, Léry, Les Cèdres, L'Île-Cadieux, L'Île-Perrot, McMasterville, Mercier, Mont-Saint-Hilaire, Notre-Dame-de-l'Île-Perrot, Otterburn Park, Pincourt, Pointe-des-Cascades, Richelieu, Saint-Amable, Saint-Basile-le-Grand, Saint-Bruno-de-Montarville, ainte-Catherine, Saint-Constant, Saint-Isidore, Saint-Jean-Baptiste, Sainte-Julie, Saint-Lazare, Saint-Mathias-sur-Richelieu, Saint-Mathieu, Saint-Mathieu-de-Beloeil, Saint-Philippe, Salaberry-de-Valleyfield, Terrasse-Vaudreuil, Varennes, Vaudreuil-Dorion, Vaudreuil-sur-le-Lac, Verchères...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.55427,
+                    45.506071
+                ]
+            },
+            "properties": {
+                "entity": "Saint-Jean-Baptiste",
+                "name_location": "Rue Saint-Jean-Baptiste, Vieux-Montréal, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2Y 2Z7, Canada",
+                "class": "highway",
+                "type": "unclassified",
+                "snippet": [
+                    "*...Montérégie: Beauharnois, Beloeil, Calixa-Lavallée, Candiac, Carignan, Chambly, Charlemagne, Châteauguay, Contrecoeur, Delson, Hudson, Kahnawake La Prairie, Léry, Les Cèdres, L'Île-Cadieux, L'Île-Perrot, McMasterville, Mercier, Mont-Saint-Hilaire, Notre-Dame-de-l'Île-Perrot, Otterburn Park, Pincourt, Pointe-des-Cascades, Richelieu, Saint-Amable, Saint-Basile-le-Grand, Saint-Bruno-de-Montarville, ainte-Catherine, Saint-Constant, Saint-Isidore, Saint-Jean-Baptiste, Sainte-Julie, Saint-Lazare, Saint-Mathias-sur-Richelieu, Saint-Mathieu, Saint-Mathieu-de-Beloeil, Saint-Philippe, Salaberry-de-Valleyfield, Terrasse-Vaudreuil, Varennes, Vaudreuil-Dorion, Vaudreuil-sur-le-Lac, Verchères...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.509176,
+                    45.61162
+                ]
+            },
+            "properties": {
+                "entity": "Sainte-Julie",
+                "name_location": "Rue Sainte-Julie, Montréal-Est, Agglomération de Montréal, Montréal (région administrative), Québec, H1B 2T7, Canada",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Montérégie: Beauharnois, Beloeil, Calixa-Lavallée, Candiac, Carignan, Chambly, Charlemagne, Châteauguay, Contrecoeur, Delson, Hudson, Kahnawake La Prairie, Léry, Les Cèdres, L'Île-Cadieux, L'Île-Perrot, McMasterville, Mercier, Mont-Saint-Hilaire, Notre-Dame-de-l'Île-Perrot, Otterburn Park, Pincourt, Pointe-des-Cascades, Richelieu, Saint-Amable, Saint-Basile-le-Grand, Saint-Bruno-de-Montarville, ainte-Catherine, Saint-Constant, Saint-Isidore, Saint-Jean-Baptiste, Sainte-Julie, Saint-Lazare, Saint-Mathias-sur-Richelieu, Saint-Mathieu, Saint-Mathieu-de-Beloeil, Saint-Philippe, Salaberry-de-Valleyfield, Terrasse-Vaudreuil, Varennes, Vaudreuil-Dorion, Vaudreuil-sur-le-Lac, Verchères...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.585462,
+                    45.521883
+                ]
+            },
+            "properties": {
+                "entity": "Varennes",
+                "name_location": "Rue de Varennes, Mile End, Le Plateau-Mont-Royal, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2T 2A8, Canada",
+                "class": "highway",
+                "type": "service",
+                "snippet": [
+                    "*...Montérégie: Beauharnois, Beloeil, Calixa-Lavallée, Candiac, Carignan, Chambly, Charlemagne, Châteauguay, Contrecoeur, Delson, Hudson, Kahnawake La Prairie, Léry, Les Cèdres, L'Île-Cadieux, L'Île-Perrot, McMasterville, Mercier, Mont-Saint-Hilaire, Notre-Dame-de-l'Île-Perrot, Otterburn Park, Pincourt, Pointe-des-Cascades, Richelieu, Saint-Amable, Saint-Basile-le-Grand, Saint-Bruno-de-Montarville, ainte-Catherine, Saint-Constant, Saint-Isidore, Saint-Jean-Baptiste, Sainte-Julie, Saint-Lazare, Saint-Mathias-sur-Richelieu, Saint-Mathieu, Saint-Mathieu-de-Beloeil, Saint-Philippe, Salaberry-de-Valleyfield, Terrasse-Vaudreuil, Varennes, Vaudreuil-Dorion, Vaudreuil-sur-le-Lac, Verchères...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.59208,
+                    45.542136
+                ]
+            },
+            "properties": {
+                "entity": "Verchères",
+                "name_location": "École Madeleine-de-Verchères, Rue de Bellechasse, Rosemont–La Petite-Patrie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2G 2V4, Canada",
+                "class": "amenity",
+                "type": "school",
+                "snippet": [
+                    "*...Montérégie: Beauharnois, Beloeil, Calixa-Lavallée, Candiac, Carignan, Chambly, Charlemagne, Châteauguay, Contrecoeur, Delson, Hudson, Kahnawake La Prairie, Léry, Les Cèdres, L'Île-Cadieux, L'Île-Perrot, McMasterville, Mercier, Mont-Saint-Hilaire, Notre-Dame-de-l'Île-Perrot, Otterburn Park, Pincourt, Pointe-des-Cascades, Richelieu, Saint-Amable, Saint-Basile-le-Grand, Saint-Bruno-de-Montarville, ainte-Catherine, Saint-Constant, Saint-Isidore, Saint-Jean-Baptiste, Sainte-Julie, Saint-Lazare, Saint-Mathias-sur-Richelieu, Saint-Mathieu, Saint-Mathieu-de-Beloeil, Saint-Philippe, Salaberry-de-Valleyfield, Terrasse-Vaudreuil, Varennes, Vaudreuil-Dorion, Vaudreuil-sur-le-Lac, Verchères...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.586862,
+                    45.594108
+                ]
+            },
+            "properties": {
+                "entity": "Blainville",
+                "name_location": "Rue De Blainville, Grande-Prairie, Saint-Léonard, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1P 2B1, Canada",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "...Laurentians: Blainville, Bois-des-Filion, Boisbriand, Deux-Montagnes, Lorraine, Mirabel, Oka, Pointe-Calumet, Rosemère, Sainte-Anne-des-Plaines, Saint-Eustache, Saint-Jérôme, Saint-Joseph-du-Lac, Sainte-Marthe-sur-le-Lac, Sainte-Thérèse...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.562799,
+                    45.511999
+                ]
+            },
+            "properties": {
+                "entity": "Boisbriand",
+                "name_location": "Rue De Boisbriand, Habitations Jeanne-Mance, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2X 3X9, Canada",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Laurentians: Blainville, Bois-des-Filion, Boisbriand, Deux-Montagnes, Lorraine, Mirabel, Oka, Pointe-Calumet, Rosemère, Sainte-Anne-des-Plaines, Saint-Eustache, Saint-Jérôme, Saint-Joseph-du-Lac, Sainte-Marthe-sur-le-Lac, Sainte-Thérèse...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.940182,
+                    45.447837
+                ]
+            },
+            "properties": {
+                "entity": "Deux-Montagnes",
+                "name_location": "Bataille du Lac-des-Deux-Montagnes, Chemin de Senneville, Senneville, Agglomération de Montréal, Montréal (région administrative), Québec, H9K 1C7, Canada",
+                "class": "historic",
+                "type": "memorial",
+                "snippet": [
+                    "*...Laurentians: Blainville, Bois-des-Filion, Boisbriand, Deux-Montagnes, Lorraine, Mirabel, Oka, Pointe-Calumet, Rosemère, Sainte-Anne-des-Plaines, Saint-Eustache, Saint-Jérôme, Saint-Joseph-du-Lac, Sainte-Marthe-sur-le-Lac, Sainte-Thérèse...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.55376,
+                    45.506905
+                ]
+            },
+            "properties": {
+                "entity": "Sainte-Thérèse",
+                "name_location": "Rue Sainte-Thérèse, Vieux-Montréal, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2Y 3A5, Canada",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Laurentians: Blainville, Bois-des-Filion, Boisbriand, Deux-Montagnes, Lorraine, Mirabel, Oka, Pointe-Calumet, Rosemère, Sainte-Anne-des-Plaines, Saint-Eustache, Saint-Jérôme, Saint-Joseph-du-Lac, Sainte-Marthe-sur-le-Lac, Sainte-Thérèse...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.61502,
+                    45.533149
+                ]
+            },
+            "properties": {
+                "entity": "Milano",
+                "name_location": "Milano, 6896, Boulevard Saint-Laurent, Rosemont–La Petite-Patrie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2S 0B2, Canada",
+                "class": "shop",
+                "type": "supermarket",
+                "snippet": [
+                    "*...Secondo uno studio della London School of Economics in collaborazione con il Qatar Research Fund, la metropoli del Quebec rimane uno dei 20 centri finanziari più influenti del mondo (si pensi che Parigi è classificata 24ª e Milano solo 50ª) e addirittura tra i primi 5 per l'industria mineraria ed energetica...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.562652,
+                    45.507906
+                ]
+            },
+            "properties": {
+                "entity": "Hydro-Québec",
+                "name_location": "Hydro-Québec, 75, Boulevard René-Lévesque Ouest, Quartier Chinois, René-Lévesque, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2Z 1A4, Canada",
+                "class": "office",
+                "type": "government",
+                "snippet": [
+                    "*...Montréal è la sede delle grandi compagnie del Québec (Hydro-Québec, Bombardier, Banque Nationale, Quebecor, Desjardins), è anche sede dell'Organizzazione internazionale dell'aviazione civile (ICAO) e dell'Associazione internazionale del trasporto aereo (IATA)....",
+                    "...Montréal (AFI: ), in inglese Montreal (), è la più popolosa città della provincia del Québec nonché la seconda più popolosa città del Canada....",
+                    "*...Tuttavia, all'epoca della fondazione della città di Québec da parte di Samuel de Champlain il 3 luglio 1608, non rimanevano più tracce del villaggio di Hochelaga;...",
+                    "*...Un'idea diffusa tra i federalisti del Québec vuole che l'arrivo al potere degli indipendentisti nella città, nella seconda metà del XX secolo, abbia sancito per la città la fine del titolo di metropoli economica del Canada a favore di Toronto (Paul-André Linteau, Montréal, Boréal, 1992, scienza politica)....",
+                    "*...La causa di questo trasferimento, secondo i cittadini indipendentisti del Québec, è lo sviluppo della via marittima del San Lorenzo, che darà luogo a un vero e proprio boom economico nell'Ontario dei Grandi Laghi, come anche alcune politiche economiche federali favorevoli all'incremento di Toronto....",
+                    "*...Il 1º gennaio 2002 tutti i municipi situati sull'isola di Montréal, che totalizzano una popolazione di 1 871 774 abitanti, 3 695 000 con l'agglomerazione, e con molte altre isole periferiche che componevano fino a oggi la Comunità urbana di Montréal, furono fusi da una legge del governo del Québec per formare la nuova città di Montréal....",
+                    "*...Dopo l'elezione di un governo liberale del Québec, il 20 giugno 2004 si tenne un referendum per la separazione dei comuni precedentemente annessi a Montréal....",
+                    "*...Montréal è il centro culturalmente più attivo del Québec (Cinema, editoria, radio-televisione, Teatro ecc.) ed è un importante polo universitario e di ricerca....",
+                    "...Attualmente è sede dell'Università McGill, dell'Università Concordia, dell'Università del Québec a Montréal e dell'Università di Montréal....",
+                    "*...A Montreal v'è la principale sede che si occupa di educazione sportiva per le scuole di tutto il Québec, la Réseau du sport étudiant du Québec....",
+                    "*...L'area metropolitana di Montréal (Région du Grand Montréal) è l'area metropolitana più popolata di tutto il Québec, con 4 000 000 abitanti dai dati del 2008....",
+                    "...La Metropolitana di Montréal, nota come \"Le Métro de Montréal\", è la metropolitana che serve l'omonima città canadese, nello Stato del Québec...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.560303,
+                    45.500912
+                ]
+            },
+            "properties": {
+                "entity": "Quebecor",
+                "name_location": "Quebecor, 612, Rue Saint-Jacques, Vieux-Montréal, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2Y 1S1, Canada",
+                "class": "building",
+                "type": "commercial",
+                "snippet": [
+                    "*...Montréal è la sede delle grandi compagnie del Québec (Hydro-Québec, Bombardier, Banque Nationale, Quebecor, Desjardins), è anche sede dell'Organizzazione internazionale dell'aviazione civile (ICAO) e dell'Associazione internazionale del trasporto aereo (IATA)....",
+                    "*...Secondo uno studio della London School of Economics in collaborazione con il Qatar Research Fund, la metropoli del Quebec rimane uno dei 20 centri finanziari più influenti del mondo (si pensi che Parigi è classificata 24ª e Milano solo 50ª) e addirittura tra i primi 5 per l'industria mineraria ed energetica...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.565823,
+                    45.507229
+                ]
+            },
+            "properties": {
+                "entity": "Desjardins",
+                "name_location": "Desjardins, Rue Jeanne-Mance, Quartier des Spectacles, Place Desjardins, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H5B 1E5, Canada",
+                "class": "amenity",
+                "type": "bank",
+                "snippet": [
+                    "*...Montréal è la sede delle grandi compagnie del Québec (Hydro-Québec, Bombardier, Banque Nationale, Quebecor, Desjardins), è anche sede dell'Organizzazione internazionale dell'aviazione civile (ICAO) e dell'Associazione internazionale del trasporto aereo (IATA)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.561768,
+                    45.500728
+                ]
+            },
+            "properties": {
+                "entity": "IATA",
+                "name_location": "IATA, 800, Rue Gauvin, Vieux-Montréal, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4Z 1A1, Canada",
+                "class": "office",
+                "type": "ngo",
+                "snippet": [
+                    "*...Montréal è la sede delle grandi compagnie del Québec (Hydro-Québec, Bombardier, Banque Nationale, Quebecor, Desjardins), è anche sede dell'Organizzazione internazionale dell'aviazione civile (ICAO) e dell'Associazione internazionale del trasporto aereo (IATA)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.64891,
+                    45.427221
+                ]
+            },
+            "properties": {
+                "entity": "Seagram",
+                "name_location": "Lafleur / Distillerie Seagram, Avenue Lafleur, Sault-Saint-Louis, LaSalle, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H8R 1Z8, Canada",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Le aziende private operano nel settore aeronautico, meccanico, dei videogiochi, dei trasporti, alimentare, degli alcolici (in città ha sede la Seagram)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.568187,
+                    45.518184
+                ]
+            },
+            "properties": {
+                "entity": "Sherbrooke",
+                "name_location": "Sherbrooke (Rigaud), Rue de Rigaud, Parc-Lafontaine, Le Plateau-Mont-Royal, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2L 4P3, Canada",
+                "class": "railway",
+                "type": "subway_entrance",
+                "snippet": [
+                    "*...È operativa dal 1971 nella zona di Sherbrooke la più grande raffineria di petrolio del Canada...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.615174,
+                    45.561009
+                ]
+            },
+            "properties": {
+                "entity": "Cirque du Soleil",
+                "name_location": "Cirque du Soleil, 2e Avenue, Villeray–Saint-Michel–Parc-Extension, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1Z 2C7, Canada",
+                "class": "building",
+                "type": "commercial",
+                "snippet": [
+                    "*...Montréal ospita importanti aziende del settore culturale, tra cui il Cirque du Soleil, ivi fondato, con sede nella zona del porto;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.525815,
+                    45.505123
+                ]
+            },
+            "properties": {
+                "entity": "Casino de Montréal",
+                "name_location": "Casino de Montréal, 1, Avenue du Casino, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H3C 4W7, Canada",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Il Casino de Montréal, uno dei più grandi e famosi casinò del mondo, completa il poderoso quadro economico e occupazionale della città che continua negli anni ad attirare un numero impressionante di persone in cerca di lavoro...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.84271,
+                    45.48336
+                ]
+            },
+            "properties": {
+                "entity": "Mirabel",
+                "name_location": "Rue Mirabel, Dollard-des-Ormeaux, Agglomération de Montréal, Montréal (région administrative), Québec, H9A 3J5, Canada",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "...Laurentians: Blainville, Bois-des-Filion, Boisbriand, Deux-Montagnes, Lorraine, Mirabel, Oka, Pointe-Calumet, Rosemère, Sainte-Anne-des-Plaines, Saint-Eustache, Saint-Jérôme, Saint-Joseph-du-Lac, Sainte-Marthe-sur-le-Lac, Sainte-Thérèse....",
+                    "*...Altri 2 aeroporti di caratura internazionale sono il Mirabel (nella vicina municipalità di Mirabel) e il Saint-Hubert (nella vicina municipalità di Longueuil)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.569555,
+                    45.501813
+                ]
+            },
+            "properties": {
+                "entity": "Montréal Centrale",
+                "name_location": "Gare centrale de Montréal, Rue Cathcart, Ville-Marie, René-Lévesque, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H3B 5K4, Canada",
+                "class": "railway",
+                "type": "buffer_stop",
+                "snippet": [
+                    "*...La principale stazione ferroviaria è Montréal Centrale...."
+                ]
+            }
+        }
+    ]
+}

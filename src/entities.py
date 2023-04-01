@@ -147,7 +147,7 @@ def check_well_formed(ent: Span):
                     count = count - 1
 
                 if count == 0:
-                    print("NOT FOUND")
+                    return ent
                 else:
                     start_ent = nbor.i
                     end_ent = ent.end
