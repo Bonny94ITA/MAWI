@@ -1,0 +1,538 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.116408,
+                    41.434798
+                ]
+            },
+            "properties": {
+                "entity": "Serra de Collserola",
+                "name_location": "Parc de Collserola, Sant Cugat del Vallès, Vallès Occidental, Barcelona, Catalonia, 08196, Spain",
+                "class": "leisure",
+                "type": "nature_reserve",
+                "snippet": [
+                    "...It is one of the largest metropolises on the Mediterranean Sea, located on the coast between the mouths of the rivers Llobregat and Besòs, and bounded to the west by the Serra de Collserola mountain range...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.15262,
+                    41.397252
+                ]
+            },
+            "properties": {
+                "entity": "Europe",
+                "name_location": "Ducasse Industrial Europe, 200, 4º 1ª, Carrer de Balmes, Galvany, Sant Gervasi - Galvany, Sarrià - Sant Gervasi, Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",
+                "class": "office",
+                "type": "company",
+                "snippet": [
+                    "*...Barcelona is a major cultural, economic, and financial centre in southwestern Europe, as well as the main biotech hub in Spain....",
+                    "*...Barcelona is a transport hub, with the Port of Barcelona being one of Europe's principal seaports and busiest European passenger port, an international airport, Barcelona–El Prat Airport, which handles over 50 million passengers per year, an extensive motorway network, and a high-speed rail line with a link to France and the rest of Europe....",
+                    "*...The Bank of Barcelona or Taula de canvi, often viewed as the oldest public bank in Europe, was established by the city magistrates in 1401....",
+                    "*...Barcelona is one of the most densely populated cities in Europe....",
+                    "*...The most important region of origin of migrants is Europe, with many coming from Italy (26,676) or France (13,506)....",
+                    "*...The Barcelona metropolitan area comprises over 66% of the people of Catalonia, one of the richer regions in Europe and the fourth richest region per capita in Spain, with a GDP per capita amounting to €28,400 (16% more than the EU average)....",
+                    "*...Furthermore, Barcelona was Europe's fourth best business city and fastest improving European city, with growth improved by 17% per year as of 2009[update]....",
+                    "*...It also has several congress halls, notably Fira de Barcelona – the second largest trade fair and exhibition centre in Europe, that host a quickly growing number of national and international events each year (at present above 50)....",
+                    "*...Barcelona was the 20th-most-visited city in the world by international visitors and the fifth most visited city in Europe after London, Paris, Istanbul and Rome, with 5.5 million international visitors in 2011....",
+                    "*...Barcelona's oldest and main online newspaper VilaWeb is also the oldest one in Europe (with Catalan and English editions)....",
+                    "*...Barcelona has three UEFA elite stadiums: FC Barcelona's Camp Nou, the largest stadium in Europe with a capacity of 99,354; the publicly owned Estadi Olímpic Lluís Companys, with a capacity of 55,926; used for the 1992 Olympics; and Estadi Cornellà-El Prat, with a capacity of 40,500....",
+                    "*...It is Europe's ninth largest container port, with a trade volume of 1.72 million TEU's in 2013....",
+                    "*...The Port Vell area also houses the Maremagnum (a commercial mall), a multiplex Cinema, the IMAX Port Vell and one of Europe's largest aquariums – Aquarium Barcelona, containing 8,000 fish and 11 sharks contained in 22 basins filled with 4 million litres of sea water....",
+                    "*...Catalan modernista architecture (related to the movement known as Art Nouveau in the rest of Europe) developed between 1885 and 1950 and left an important legacy in Barcelona....",
+                    "*...PortAventura World, one of the largest resort in Europe, with 5,837,509 visitors per year, is located one hour's drive from Barcelona...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.079047,
+                    41.296944
+                ]
+            },
+            "properties": {
+                "entity": "El Prat Airport",
+                "name_location": "Barcelona El Prat Josep Tarradellas Airport, Carretera de la Platja, el Prat de Llobregat, Baix Llobregat, Barcelona, Catalonia, 08820, Spain",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "*...Barcelona is a transport hub, with the Port of Barcelona being one of Europe's principal seaports and busiest European passenger port, an international airport, Barcelona–El Prat Airport, which handles over 50 million passengers per year, an extensive motorway network, and a high-speed rail line with a link to France and the rest of Europe....",
+                    "*...Another common abbreviation is 'BCN', which is also the IATA airport code of the Barcelona-El Prat Airport....",
+                    "*...Barcelona is served by Barcelona-El Prat Airport, about 17 km (11 mi) south-west of the centre of Barcelona...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.16689,
+                    41.3888
+                ]
+            },
+            "properties": {
+                "entity": "Ciudad Condal",
+                "name_location": "Ciudad Condal, 18, Rambla de Catalunya, la Dreta de l'Eixample, Eixample, Barcelona, Barcelonès, Barcelona, Catalonia, 08007, Spain",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...The city is referred to as the Ciutat Comtal in Catalan and Ciudad Condal in Spanish (i.e., \"Comital City\" or \"City of Counts\"), owing to its past as the seat of the Count of Barcelona...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.19642,
+                    41.389472
+                ]
+            },
+            "properties": {
+                "entity": "Hispania",
+                "name_location": "Hispania Tours, 8, Carrer de Joan Miró, la Vila Olímpica del Poblenou, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",
+                "class": "amenity",
+                "type": "motorcycle_rental",
+                "snippet": [
+                    "*...The city was conquered by the Visigoths in the early 5th century, becoming for a few years the capital of all Hispania...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.722676,
+                    41.228784
+                ]
+            },
+            "properties": {
+                "entity": "Taula de",
+                "name_location": "Taula de Salut Mental Garraf (CSM), 23, Carrer de Sant Josep, Nucli Antic, Sínia Soler, Vilanova i la Geltrú, Garraf, Barcelona, Catalonia, 08800, Spain",
+                "class": "amenity",
+                "type": "clinic",
+                "snippet": [
+                    "*...The Bank of Barcelona or Taula de canvi, often viewed as the oldest public bank in Europe, was established by the city magistrates in 1401...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.145854,
+                    41.395889
+                ]
+            },
+            "properties": {
+                "entity": "Americas",
+                "name_location": "Las Americas, Galvany, Sant Gervasi - Galvany, Sarrià - Sant Gervasi, Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",
+                "class": "amenity",
+                "type": "parking",
+                "snippet": [
+                    "*...Madrid became the centre of political power whilst the colonisation of the Americas reduced the financial importance (at least in relative terms) of Mediterranean trade...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.004936,
+                    42.126907
+                ]
+            },
+            "properties": {
+                "entity": "Montjuïc",
+                "name_location": "Montjuïc, Pont de Sant Joan, Borredà, Berguedà, Barcelona, Catalonia, 08619, Spain",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...Archeological evidence in the form of coins from the 3rd Century BC have been found on the hills at the foot of Montjuïc with the name Bárkeno written in an ancient script in the Iberian language....",
+                    "*...In the 18th century, a fortress was built at Montjuïc that overlooked the harbour....",
+                    "*...The escarpment of Montjuïc (173 metres or 568 feet), situated to the southeast, overlooks the harbour and is topped by Montjuïc Castle, a fortress built in the 17–18th centuries to control the city as a replacement for the Ciutadella....",
+                    "*...Today, the fortress is a museum and Montjuïc is home to several sporting and cultural venues, as well as Barcelona's biggest park and gardens....",
+                    "*...Half of the municipality or 50.2 km2, all of it located on the municipal edge is made up of the ten least densely populated neighbourhoods containing less than 10% of the city's population, the uninhabited Zona Franca industrial area and Montjuïc forest park....",
+                    "...Sants-Montjuïc ;...",
+                    "*...FGC operates the Funicular de Tibidabo up the hill of Tibidabo and the Funicular de Vallvidrera (FGC), while TMB runs the Funicular de Montjuïc up Montjuïc....",
+                    "*...The city has two aerial cable cars: the Montjuïc Cable Car, which serves Montjuïc castle, and the Port Vell Aerial Tramway that runs via Torre Jaume I and Torre Sant Sebastià over the port....",
+                    "*...Of Barcelona's parks, Montjuïc is the largest, with 203 ha located on the mountain of the same name...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.173132,
+                    41.38133
+                ]
+            },
+            "properties": {
+                "entity": "La Rambla",
+                "name_location": "La Rambla, Gothic Quarter, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...On 17 August 2017, a van was driven into pedestrians on La Rambla, killing 14 and injuring at least 100, one of whom later died....",
+                    "*...The major thoroughfare of La Rambla is home to mime artists and street performers....",
+                    "*...The famous boulevard of La Rambla, whilst no longer an important vehicular route, remains an important pedestrian route...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.212602,
+                    41.444774
+                ]
+            },
+            "properties": {
+                "entity": "Santa Coloma de Gramenet",
+                "name_location": "Comunidad Islámica de Santa Coloma de Gramenet Tajdid (La Renovación), Carrer de Sant Francesc, Santa Coloma de Gramenet, Barcelonès, Barcelona, Catalonia, 08923, Spain",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...The city borders on the municipalities of Santa Coloma de Gramenet and Sant Adrià de Besòs to the north; the Mediterranean Sea to the east; El Prat de Llobregat and L'Hospitalet de Llobregat to the south; and Sant Feliu de Llobregat, Sant Just Desvern, Esplugues de Llobregat, Sant Cugat del Vallès, and Montcada..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.09591,
+                    41.337302
+                ]
+            },
+            "properties": {
+                "entity": "El Prat de Llobregat",
+                "name_location": "el Prat de Llobregat, Camí del Sorral, el Prat de Llobregat, Baix Llobregat, Barcelona, Catalonia, 08820, Spain",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...The city borders on the municipalities of Santa Coloma de Gramenet and Sant Adrià de Besòs to the north; the Mediterranean Sea to the east; El Prat de Llobregat and L'Hospitalet de Llobregat to the south; and Sant Feliu de Llobregat, Sant Just Desvern, Esplugues de Llobregat, Sant Cugat del Vallès, and Montcada..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.166915,
+                    41.386209
+                ]
+            },
+            "properties": {
+                "entity": "Asia",
+                "name_location": "Àsia, 10, Carrer de Balmes, la Dreta de l'Eixample, Eixample, Barcelona, Barcelonès, Barcelona, Catalonia, 08002, Spain",
+                "class": "shop",
+                "type": "supermarket",
+                "snippet": [
+                    "*...Other significant migrant groups come from Asia as from China and the Philippines....",
+                    "*...The airport mainly serves domestic and European destinations, although some airlines offer destinations in Latin America, Asia and the United States...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.151788,
+                    41.37194
+                ]
+            },
+            "properties": {
+                "entity": "Fira de Barcelona",
+                "name_location": "Fira de Barcelona, Carrer del Nord, la Font de la Guatlla, Sants-Montjuïc, Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",
+                "class": "amenity",
+                "type": "exhibition_centre",
+                "snippet": [
+                    "*...It also has several congress halls, notably Fira de Barcelona – the second largest trade fair and exhibition centre in Europe, that host a quickly growing number of national and international events each year (at present above 50)....",
+                    "*...The total exhibition floor space of Fira de Barcelona venues is 405,000 m2 (41 ha), not counting Gran Via centre on the Plaza de Europa...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.161538,
+                    41.411773
+                ]
+            },
+            "properties": {
+                "entity": "Camp Nou",
+                "name_location": "Camp Municipal de Futbol Nou Sardenya - Europa, 42, Carrer de les Camèlies, la Salut, Gràcia, Barcelona, Barcelonès, Barcelona, Catalonia, 08024, Spain",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...Barcelona has three UEFA elite stadiums: FC Barcelona's Camp Nou, the largest stadium in Europe with a capacity of 99,354; the publicly owned Estadi Olímpic Lluís Companys, with a capacity of 55,926; used for the 1992 Olympics; and Estadi Cornellà-El Prat, with a capacity of 40,500...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.193041,
+                    41.428813
+                ]
+            },
+            "properties": {
+                "entity": "Camp Municipal Narcís Sala",
+                "name_location": "Camp Municipal Narcís Sala, Carrer de Santa Coloma, Sant Andreu de Palomar, Sant Andreu, Barcelona, Barcelonès, Barcelona, Catalonia, 08030, Spain",
+                "class": "leisure",
+                "type": "sports_centre",
+                "snippet": [
+                    "*...Furthermore, the city has several smaller stadiums such as Mini Estadi (also owned by FC Barcelona) with a capacity of 15,000, Camp Municipal Narcís Sala with a capacity of 6,563 and Nou Sardenya with a capacity of 7,000...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.152568,
+                    41.363467
+                ]
+            },
+            "properties": {
+                "entity": "Palau San Jordi",
+                "name_location": "Palau Sant Jordi, Passeig Olímpic, el Poble-sec, Sants-Montjuïc, Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "...Barcelona was the host city for the 2013 World Aquatics Championships, which were held at the Palau San Jordi...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.074142,
+                    41.31749
+                ]
+            },
+            "properties": {
+                "entity": "Barcelona Airport",
+                "name_location": "Barcelona Airport Hotel, Carrer de Canudas, Parc de Negocis Mas Blau I, el Prat de Llobregat, Baix Llobregat, Barcelona, Catalonia, 08820, Spain",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...The airport is connected to the city by highway, metro (Airport T1 and Airport T2 stations), commuter train (Barcelona Airport railway station) and scheduled bus service....",
+                    "...Barcelona is a transport hub, with the Port of Barcelona being one of Europe's principal seaports and busiest European passenger port, an international airport, Barcelona–El Prat Airport, which handles over 50 million passengers per year, an extensive motorway network, and a high-speed rail line with a link to France and the rest of Europe....",
+                    "...Another common abbreviation is 'BCN', which is also the IATA airport code of the Barcelona-El Prat Airport....",
+                    "...Barcelona is served by Barcelona-El Prat Airport, about 17 km (11 mi) south-west of the centre of Barcelona....",
+                    "...It is the second-largest airport in Spain, and the largest on the Mediterranean coast, which handled more than 50.17 million passengers in 2018, showing an annual upward trend....",
+                    "...The airport mainly serves domestic and European destinations, although some airlines offer destinations in Latin America, Asia and the United States....",
+                    "...Some low-cost airlines, also use Girona-Costa Brava Airport, about 90 km (56 mi) to the north, Reus Airport, 77 km (48 mi) to the south, or Lleida-Alguaire Airport, about 150 km (93 mi) to the west, of the city....",
+                    "...Sabadell Airport is a smaller airport in the nearby town of Sabadell, devoted to pilot training, aerotaxi and private flights....",
+                    "...A separate private bus line, known as Aerobús, links the airport with the city centre, with its own fare structure...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.074692,
+                    41.378726
+                ]
+            },
+            "properties": {
+                "entity": "Trambaix",
+                "name_location": "Trambaix T3, Carretera Reial, Sant Just Desvern, Baix Llobregat, Barcelona, Catalonia, 09870, Spain",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...The city's two modern tram systems, Trambaix and Trambesòs, are operated by TRAMMET...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.399629,
+                    41.588899
+                ]
+            },
+            "properties": {
+                "entity": "Line 7",
+                "name_location": "Magic Line, Dosrius, Maresme, Barcelona, Catalonia, 08319, Spain",
+                "class": "highway",
+                "type": "path",
+                "snippet": [
+                    "*...A heritage tram line, the Tramvia Blau, also operates between the metro Line 7 and the Funicular del Tibidabo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.131009,
+                    41.416489
+                ]
+            },
+            "properties": {
+                "entity": "Funicular del Tibidabo",
+                "name_location": "Funicular del Tibidabo, Carrer de Bonaventura Roig, Sant Gervasi - la Bonanova, Sarrià - Sant Gervasi, Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",
+                "class": "railway",
+                "type": "funicular",
+                "snippet": [
+                    "...A heritage tram line, the Tramvia Blau, also operates between the metro Line 7 and the Funicular del Tibidabo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.180107,
+                    41.372073
+                ]
+            },
+            "properties": {
+                "entity": "Torre Jaume",
+                "name_location": "Torre Jaume I, Moll de Barcelona, el Raval, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",
+                "class": "man_made",
+                "type": "tower",
+                "snippet": [
+                    "*...The city has two aerial cable cars: the Montjuïc Cable Car, which serves Montjuïc castle, and the Port Vell Aerial Tramway that runs via Torre Jaume I and Torre Sant Sebastià over the port...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.128913,
+                    41.379399
+                ]
+            },
+            "properties": {
+                "entity": "Gran Via de Carles III",
+                "name_location": "Gran Via de Carles III, la Maternitat i Sant Ramon, les Corts, Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",
+                "class": "highway",
+                "type": "primary_link",
+                "snippet": [
+                    "...The city is circled by three half ring roads or bypasses, Ronda de Dalt (B-20) (on the mountain side), Ronda del Litoral (B-10) (along the coast) and Ronda del Mig (separated into two parts: Travessera de Dalt in the north and the Gran Via de Carles III), two partially covered fast highways with several exits that bypass the city....",
+                    "*...The total exhibition floor space of Fira de Barcelona venues is 405,000 m2 (41 ha), not counting Gran Via centre on the Plaza de Europa....",
+                    "...The city's main arteries include Diagonal Avenue, which crosses it diagonally, Meridiana Avenue which leads to Glòries and connects with Diagonal Avenue and Gran Via de les Corts Catalanes, which crosses the city from east to west, passing through its centre...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.16922,
+                    41.389873
+                ]
+            },
+            "properties": {
+                "entity": "Gran Via de les Corts Catalanes",
+                "name_location": "Gran Via de les Corts Catalanes (lateral mar), la Dreta de l'Eixample, Eixample, Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...The city's main arteries include Diagonal Avenue, which crosses it diagonally, Meridiana Avenue which leads to Glòries and connects with Diagonal Avenue and Gran Via de les Corts Catalanes, which crosses the city from east to west, passing through its centre...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.149959,
+                    41.370557
+                ]
+            },
+            "properties": {
+                "entity": "Barcelona Pavilion",
+                "name_location": "Barcelona Pavilion, Plaça de Carles Buïgas, el Poble-sec, Sants-Montjuïc, Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Barcelona was also home to Mies van der Rohe's Barcelona Pavilion....",
+                    "...The Barcelona pavilion was intended as a temporary structure and was torn down in 1930 less than a year after it was constructed...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.177773,
+                    41.3758
+                ]
+            },
+            "properties": {
+                "entity": "Columbus Monument",
+                "name_location": "Columbus Monument, Plaça del Portal de la Pau, Gothic Quarter, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...The Columbus Monument ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.183398,
+                    41.388076
+                ]
+            },
+            "properties": {
+                "entity": "Castle of the Three Dragons",
+                "name_location": "Castle of the Three Dragons, 1, Passeig de Picasso, la Ribera, Sant Pere, Santa Caterina i la Ribera, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalonia, 08003, Spain",
+                "class": "historic",
+                "type": "castle",
+                "snippet": [
+                    "...In 2011 the Museum of Natural Sciences ended up with a merge of five institutions: the Museum of Natural Sciences of Barcelona (the main site, at the Forum Building), the Martorell Museum (the historical seat of the Museum, opened to the public from 1924 to 2010 as a geology museum), the Laboratori de Natura, at the Castle of the Three Dragons (from 1920 to 2010: the Zoology Museum), the Historical Botanical Garden of Barcelona, founded 1930, and the Botanical garden of Barcelona, founded 1999...."
+                ]
+            }
+        }
+    ]
+}

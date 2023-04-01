@@ -1,0 +1,727 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.275785,
+                    53.423545
+                ]
+            },
+            "properties": {
+                "entity": "River Mersey",
+                "name_location": "River Mersey Cable Bridge, Fairy Lane, Sale Moor, Sale, Trafford, Greater Manchester, England, M33 2JU, United Kingdom",
+                "class": "man_made",
+                "type": "pipeline",
+                "snippet": [
+                    "...Historically part of Lancashire, areas of Cheshire south of the River Mersey were incorporated into Manchester in the 20th century, including Wythenshawe in 1931....",
+                    "...In 1931, the Cheshire civil parishes of Baguley, Northenden and Northen Etchells from the south of the River Mersey were added....",
+                    "*...The River Mersey flows through the south of Manchester....",
+                    "...Due to being already highly urban, the city contains limited portions of protected green-belt area within greenfield throughout the borough, with minimal development opportunities, at Clayton Vale, Heaton Park, Chorlton Water Park along with the Chorlton Ees & Ivy Green nature reserve and the floodplain surrounding the River Mersey, as well as the southern area around Manchester Airport...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.245366,
+                    53.484968
+                ]
+            },
+            "properties": {
+                "entity": "Manchester Cathedral",
+                "name_location": "Manchester Cathedral, Victoria Street, Medieval Quarter, City Centre, Manchester, Greater Manchester, England, M3 1SU, United Kingdom",
+                "class": "amenity",
+                "type": "bicycle_rental",
+                "snippet": [
+                    "*...The Brigantes were the major Celtic tribe in what is now known as Northern England; they had a stronghold in the locality at a sandstone outcrop on which Manchester Cathedral now stands, opposite the bank of the  River Irwell....",
+                    "*...By 1421 Thomas de la Warre founded and constructed a collegiate church for the parish, now Manchester Cathedral; the domestic premises of the college house Chetham's School of Music and Chetham's Library....",
+                    "*...Manchester Cathedral, Royal Exchange and Free Trade Hall were among the buildings seriously damaged; restoration of the cathedral took 20 years....",
+                    "*...She probably envisioned Manchester Cathedral churchyard as the burial place for Jane's parents and the birthplace of Jane herself...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.066642,
+                    53.381491
+                ]
+            },
+            "properties": {
+                "entity": "Manor House",
+                "name_location": "Manor House, Barnsfold Road, Hawk Green, Stockport, Greater Manchester, England, SK6 7JB, United Kingdom",
+                "class": "building",
+                "type": "residential",
+                "snippet": [
+                    "...In the Domesday Book of 1086, Manchester is recorded as within the hundred of Salford and held as tenant in chief by a Norman named Roger of Poitou, later being held by the family of Grelley, lord of the manor and residents of Manchester Castle until 1215 before a Manor House was built...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.343906,
+                    53.405116
+                ]
+            },
+            "properties": {
+                "entity": "Bridgewater Canal",
+                "name_location": "Bridgewater Canal (for Cyclists and Walkers), Park Road, Broadheath, West Timperley, Trafford, Greater Manchester, England, WA14 5AU, United Kingdom",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "...The Bridgewater Canal, Britain's first wholly artificial waterway, was opened in 1761, bringing coal from mines at Worsley to central Manchester...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.247115,
+                    53.476378
+                ]
+            },
+            "properties": {
+                "entity": "Manchester Railway",
+                "name_location": "Manchester Central Convention Complex, Windmill Street, Petersfield, City Centre, Manchester, Greater Manchester, England, M2 3GX, United Kingdom",
+                "class": "amenity",
+                "type": "conference_centre",
+                "snippet": [
+                    "*...Trade, and feeding the growing population, required a large transport and distribution infrastructure: the canal system was extended, and Manchester became one end of the world's first intercity passenger railway—the Liverpool and Manchester Railway....",
+                    "...Manchester Liverpool Road was the world's first purpose-built passenger and goods railway station and served as the Manchester terminus on the Liverpool & Manchester Railway – the world's first inter-city passenger railway...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.282671,
+                    53.471794
+                ]
+            },
+            "properties": {
+                "entity": "Manchester Ship Canal",
+                "name_location": "Manchester Ship Canal, Trafford Road, Ordsall, Salford, Greater Manchester, England, M50 3XB, United Kingdom",
+                "class": "historic",
+                "type": "memorial",
+                "snippet": [
+                    "...The Manchester Ship Canal opened in 1894, creating the Port of Manchester and linking the city to the Irish Sea, 36 miles (58 km) to the west....",
+                    "...The Manchester Ship Canal was built between 1888 and 1894, in some sections by canalisation of the Rivers Irwell and Mersey, running 36 miles (58 km) from Salford to Eastham Locks on the tidal Mersey....",
+                    "...An extensive canal network, including the Manchester Ship Canal, was built to carry freight from the Industrial Revolution onward; the canals are still maintained, though now largely repurposed for leisure use...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.311696,
+                    53.454777
+                ]
+            },
+            "properties": {
+                "entity": "Trafford Park",
+                "name_location": "Trafford Park, Hattons Court, Mosley, Stretford, Trafford, Greater Manchester, England, M32 0AP, United Kingdom",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...On the canal's banks, just outside the borough, the world's first industrial estate was created at Trafford Park....",
+                    "*...For example, casting and machining expertise at Beyer, Peacock & Company's locomotive works in Gorton was switched to bomb making; Dunlop's rubber works in Chorlton-on-Medlock made barrage balloons; and just outside the city in Trafford Park, engineers Metropolitan-Vickers made Avro Manchester and Avro Lancaster bombers and Ford built the Rolls-Royce Merlin engines to power them....",
+                    "*...Trafford Park in the neighbouring borough of Trafford is home to Imperial War Museum North...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.112524,
+                    53.472346
+                ]
+            },
+            "properties": {
+                "entity": "Europe",
+                "name_location": "Brother International Europe, Tame Street, Guide Bridge, Audenshaw, Tameside, Greater Manchester, England, M34 5TX, United Kingdom",
+                "class": "building",
+                "type": "office",
+                "snippet": [
+                    "*...It attracted educated visitors from all parts of Britain and Europe....",
+                    "*...Beetham Tower was the tallest UK building outside of London and the highest residential accommodation in Europe when completed in 2006....",
+                    "*...Manchester's Irish Festival, including a St Patrick's Day parade, is one of Europe's largest....",
+                    "*...The area also attracts large numbers of Chinese students to the city who, in attending the local universities, contribute to Manchester having the third-largest Chinese population in Europe....",
+                    "*...KPMG's competitive alternative report also found that Manchester was Europe's most affordable city featured, ranking slightly better than the Dutch cities of Rotterdam and Amsterdam, which all have a cost-of-living index of less than 95....",
+                    "*...The award-winning Heaton Park in the north of the city borough is one of the largest municipal parks in Europe, covering 610 acres (250 ha) of parkland....",
+                    "*...Services cover many destinations in Europe, North America, the Caribbean, Africa, the Middle East, and Asia (with more destinations from Manchester than any other airport in Britain)....",
+                    "*...With over 21,000 seats, it is the largest arena of its type in Europe....",
+                    "*...The University of Law, the largest provider of vocation legal training in Europe, has a campus in the city....",
+                    "*...The three universities are grouped around Oxford Road on the southern side of the city centre, which forms Europe's largest urban higher-education precinct...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.244429,
+                    53.479249
+                ]
+            },
+            "properties": {
+                "entity": "Manchester Town Hall",
+                "name_location": "Manchester Town Hall, Albert Square, Civic Quarter, City Centre, Manchester, Greater Manchester, England, M2 5DB, United Kingdom",
+                "class": "amenity",
+                "type": "townhall",
+                "snippet": [
+                    "*...Many of the great public buildings (including Manchester Town Hall) date from then....",
+                    "*...Manchester Town Hall, in Albert Square, was built in the Gothic revival style and is seen as one of the most important Victorian buildings in England...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.284414,
+                    53.371315
+                ]
+            },
+            "properties": {
+                "entity": "Manchester Airport",
+                "name_location": "Manchester Airport, Thorley Lane / opposite Sydney Avenue, Thorley Lane, Ringway, Wythenshawe, Manchester, Greater Manchester, England, WA15 8UL, United Kingdom",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "...That year, Ringway, the village where the Manchester Airport is located, was added to the city....",
+                    "*...Due to being already highly urban, the city contains limited portions of protected green-belt area within greenfield throughout the borough, with minimal development opportunities, at Clayton Vale, Heaton Park, Chorlton Water Park along with the Chorlton Ees & Ivy Green nature reserve and the floodplain surrounding the River Mersey, as well as the southern area around Manchester Airport....",
+                    "*...A Concorde is on display near Manchester Airport....",
+                    "*...Manchester Airport serves Manchester, Northern England and North Wales...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.192484,
+                    53.531153
+                ]
+            },
+            "properties": {
+                "entity": "M60",
+                "name_location": "M60, Charlestown, Manchester, Greater Manchester, England, M24 1NS, United Kingdom",
+                "class": "highway",
+                "type": "motorway",
+                "snippet": [
+                    "*...The M60 and M56 motorways pass through Northenden and Wythenshawe respectively in the south of Manchester...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.2752,
+                    53.424096
+                ]
+            },
+            "properties": {
+                "entity": "Chorlton Water Park",
+                "name_location": "Chorlton Water Park, Godbert Avenue, Manchester, Greater Manchester, England, M21 7JH, United Kingdom",
+                "class": "leisure",
+                "type": "nature_reserve",
+                "snippet": [
+                    "*...Due to being already highly urban, the city contains limited portions of protected green-belt area within greenfield throughout the borough, with minimal development opportunities, at Clayton Vale, Heaton Park, Chorlton Water Park along with the Chorlton Ees & Ivy Green nature reserve and the floodplain surrounding the River Mersey, as well as the southern area around Manchester Airport....",
+                    "*...Manchester has six designated local nature reserves: Chorlton Water Park, Blackley Forest, Clayton Vale and Chorlton Ees, Ivy Green, Boggart Hole Clough and Highfield Country Park...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.244932,
+                    53.47951
+                ]
+            },
+            "properties": {
+                "entity": "Albert Square",
+                "name_location": "Albert Square, Civic Quarter, City Centre, Manchester, Greater Manchester, England, United Kingdom",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Manchester Town Hall, in Albert Square, was built in the Gothic revival style and is seen as one of the most important Victorian buildings in England....",
+                    "*...Albert Square has monuments to Prince Albert, Bishop James Fraser, Oliver Heywood, William Gladstone and John Bright...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.238398,
+                    53.486535
+                ]
+            },
+            "properties": {
+                "entity": "CIS Tower",
+                "name_location": "Miller Street Tower, Dantzic Street, NOMA, City Centre, Manchester, Greater Manchester, England, M60 0AG, United Kingdom",
+                "class": "building",
+                "type": "office",
+                "snippet": [
+                    "...Manchester also has a number of skyscrapers built in the 1960s and 1970s, the tallest being the CIS Tower near Manchester Victoria station until the Beetham Tower was completed in 2006...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.242974,
+                    53.487902
+                ]
+            },
+            "properties": {
+                "entity": "Manchester Victoria",
+                "name_location": "Manchester Victoria, Hunts Bank, Medieval Quarter, City Centre, Manchester, Greater Manchester, England, M3 1DA, United Kingdom",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Manchester also has a number of skyscrapers built in the 1960s and 1970s, the tallest being the CIS Tower near Manchester Victoria station until the Beetham Tower was completed in 2006....",
+                    "*...Today, the city is well served by its rail network although it is now working to capacity, and is at the centre of an extensive county-wide railway network, including the West Coast Main Line, with two mainline stations: Manchester Piccadilly and Manchester Victoria....",
+                    "*...The Manchester station group – comprising Manchester Piccadilly, Manchester Victoria, Manchester Oxford Road and Deansgate – is the third busiest in the United Kingdom, with 44.9 million passengers recorded in 2017/2018...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.250462,
+                    53.475526
+                ]
+            },
+            "properties": {
+                "entity": "Beetham Tower",
+                "name_location": "Hilton Manchester Deansgate, 303, Deansgate, St. Johns, City Centre, Manchester, Greater Manchester, England, M3 4LQ, United Kingdom",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...Beetham Tower was the tallest UK building outside of London and the highest residential accommodation in Europe when completed in 2006....",
+                    "...Manchester also has a number of skyscrapers built in the 1960s and 1970s, the tallest being the CIS Tower near Manchester Victoria station until the Beetham Tower was completed in 2006...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.240103,
+                    53.473468
+                ]
+            },
+            "properties": {
+                "entity": "Oxford Road",
+                "name_location": "Oxford Road, Petersfield, City Centre, Manchester, Greater Manchester, England, M1 5WH, United Kingdom",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...The largest skyscraper is now Deansgate Square South Tower, at 201 metres (659 feet).The Green Building, opposite Oxford Road station, is a pioneering eco-friendly housing project, while the recently completed One Angel Square, is one of the most sustainable large buildings in the world....",
+                    "...The Manchester station group – comprising Manchester Piccadilly, Manchester Victoria, Manchester Oxford Road and Deansgate – is the third busiest in the United Kingdom, with 44.9 million passengers recorded in 2017/2018....",
+                    "*...Work on two new through platforms at Piccadilly and an extensive upgrade at Oxford Road had not commenced as of 2019....",
+                    "*...Manchester city centre, specifically the Castlefield Corridor, suffers from constrained rail capacity that frequently leads to delays and cancellations – a 2018 report found that all three major Manchester stations are among the top ten worst stations in the United Kingdom for punctuality, with Oxford Road deemed the worst in the country....",
+                    "...The Dancehouse on Oxford Road is dedicated to dance productions....",
+                    "*...The three universities are grouped around Oxford Road on the southern side of the city centre, which forms Europe's largest urban higher-education precinct....",
+                    "...From 1975, BBC programmes including Mastermind, and Real Story, were made at New Broadcasting House on Oxford Road...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.237381,
+                    53.488086
+                ]
+            },
+            "properties": {
+                "entity": "Angel Square",
+                "name_location": "One Angel Square, 1, Angel Street, NOMA, Strangeways, Manchester, Greater Manchester, England, M60 0AG, United Kingdom",
+                "class": "building",
+                "type": "office",
+                "snippet": [
+                    "*...The largest skyscraper is now Deansgate Square South Tower, at 201 metres (659 feet).The Green Building, opposite Oxford Road station, is a pioneering eco-friendly housing project, while the recently completed One Angel Square, is one of the most sustainable large buildings in the world...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.226049,
+                    53.416015
+                ]
+            },
+            "properties": {
+                "entity": "Whitehall",
+                "name_location": "Whitehall Road, Didsbury, Manchester, Greater Manchester, England, M20 6RT, United Kingdom",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Designed by Edwin Lutyens, it echoes the original on Whitehall in London...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.247123,
+                    53.479627
+                ]
+            },
+            "properties": {
+                "entity": "Lincoln Square",
+                "name_location": "Lincoln Square, Civic Quarter, City Centre, Manchester, Greater Manchester, England, United Kingdom",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...A larger-than-life statue of Abraham Lincoln by George Gray Barnard in the eponymous Lincoln Square (having stood for many years in Platt Fields) was presented to the city by Mr and Mrs Charles Phelps Taft of Cincinnati, Ohio, to mark the part Lancashire played in the cotton famine and American Civil War of 1861–1865...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.257895,
+                    53.477186
+                ]
+            },
+            "properties": {
+                "entity": "Manchester Liverpool Road",
+                "name_location": "Manchester Liverpool Road railway station, Liverpool Road, Castlefield, City Centre, Manchester, Greater Manchester, England, M3 4JH, United Kingdom",
+                "class": "railway",
+                "type": "disused_station",
+                "snippet": [
+                    "...Manchester Liverpool Road railway station was the world's first inter-city passenger railway station....",
+                    "*...Manchester Liverpool Road was the world's first purpose-built passenger and goods railway station and served as the Manchester terminus on the Liverpool & Manchester Railway – the world's first inter-city passenger railway....",
+                    "*...Manchester Liverpool Road railway station was the world's first inter-city passenger railway station....",
+                    "*...The Science and Industry Museum, housed in the former Liverpool Road railway station, has a large collection of steam locomotives, industrial machinery, aircraft and a replica of the world's first stored computer program (known as the Manchester Baby)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.34421,
+                    53.464971
+                ]
+            },
+            "properties": {
+                "entity": "Trafford Centre",
+                "name_location": "Trafford Centre, Manchester, Barton Dock Road, Dumplington, Urmston, Trafford, Greater Manchester, England, M41 7GD, United Kingdom",
+                "class": "amenity",
+                "type": "charging_station",
+                "snippet": [
+                    "...A new line to the Trafford Centre opened in 2020...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.240028,
+                    53.479465
+                ]
+            },
+            "properties": {
+                "entity": "Asia",
+                "name_location": "BEA - Bank of East Asia, 3-5, Charlotte Street, Chinatown, City Centre, Manchester, Greater Manchester, England, M1 4HB, United Kingdom",
+                "class": "amenity",
+                "type": "bank",
+                "snippet": [
+                    "*...Services cover many destinations in Europe, North America, the Caribbean, Africa, the Middle East, and Asia (with more destinations from Manchester than any other airport in Britain)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.246052,
+                    53.475367
+                ]
+            },
+            "properties": {
+                "entity": "Bridgewater Hall",
+                "name_location": "Bridgewater Hall, Lower Mosley Street, Petersfield, City Centre, Manchester, Greater Manchester, England, M2 3WS, United Kingdom",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...The main classical music venue was the Free Trade Hall on Peter Street until the opening in 1996 of the 2,500 seat Bridgewater Hall...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.240764,
+                    53.479739
+                ]
+            },
+            "properties": {
+                "entity": "Mosley Street",
+                "name_location": "Mosley Street, Chinatown, City Centre, Manchester, Greater Manchester, England, M2 3HZ, United Kingdom",
+                "class": "highway",
+                "type": "service",
+                "snippet": [
+                    "*...The municipally owned Manchester Art Gallery in Mosley Street houses a permanent collection of European painting and one of Britain's main collections of Pre-Raphaelite paintings...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.221355,
+                    53.450709
+                ]
+            },
+            "properties": {
+                "entity": "Platt Fields Park",
+                "name_location": "Rusholme, Wilmslow Road / Platt Fields Park (Stop A), Wilmslow Road, Victoria Park, Rusholme, Manchester, Greater Manchester, England, M14 5LL, United Kingdom",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Other exhibition spaces and museums in Manchester include Islington Mill in Salford, the National Football Museum at Urbis, Castlefield Gallery, the Manchester Costume Gallery at Platt Fields Park, the People's History Museum and the Manchester Jewish Museum...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.301194,
+                    53.488958
+                ]
+            },
+            "properties": {
+                "entity": "Buile Hill Park",
+                "name_location": "Sensory Garden (Friends of Buile Hill Park), Seedley Terrace, Seedley, Eccles, Salford, Greater Manchester, England, M6 8RP, United Kingdom",
+                "class": "leisure",
+                "type": "garden",
+                "snippet": [
+                    "*...Anglo-American author Frances Hodgson Burnett was born in the city's Cheetham Hill district in 1849, and wrote much of her classic children's novel The Secret Garden while visiting nearby Salford's Buile Hill Park...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.238409,
+                    53.476222
+                ]
+            },
+            "properties": {
+                "entity": "Canal Street",
+                "name_location": "Canal Street, Gay Village, City Centre, Manchester, Greater Manchester, England, M1 6JB, United Kingdom",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Public houses in the Canal Street area have had an LGBTQ+ clientele since at least 1940, and now form the centre of Manchester's LGBTQ+ community...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.212309,
+                    53.446925
+                ]
+            },
+            "properties": {
+                "entity": "Old Hall Lane",
+                "name_location": "Old Hall Lane, Fallowfield, Manchester, Greater Manchester, England, M14 6HJ, United Kingdom",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Established in 1515, as a free grammar school next to what is now the cathedral, it moved in 1931 to Old Hall Lane in Fallowfield, south Manchester, to accommodate the growing student body...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.202616,
+                    53.48471
+                ]
+            },
+            "properties": {
+                "entity": "National Squash Centre",
+                "name_location": "National Squash Centre & Regional Arena, Rowsley Street, Bradford, Manchester, Greater Manchester, England, M11 3DU, United Kingdom",
+                "class": "leisure",
+                "type": "sports_centre",
+                "snippet": [
+                    "*...Sporting facilities built for the 2002 Commonwealth Games include the City of Manchester Stadium, National Squash Centre and Manchester Aquatics Centre...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.235467,
+                    53.469529
+                ]
+            },
+            "properties": {
+                "entity": "Manchester Aquatics Centre",
+                "name_location": "Manchester Aquatics Centre, 2, Booth Street East, Brunswick, Chorlton-on-Medlock, Manchester, Greater Manchester, England, M13 9SS, United Kingdom",
+                "class": "leisure",
+                "type": "swimming_pool",
+                "snippet": [
+                    "*...Sporting facilities built for the 2002 Commonwealth Games include the City of Manchester Stadium, National Squash Centre and Manchester Aquatics Centre...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.156278,
+                    53.46766
+                ]
+            },
+            "properties": {
+                "entity": "Fleet Street",
+                "name_location": "Fleet Street, Abbey Hey, Gorton, Manchester, Greater Manchester, England, M18 8TE, United Kingdom",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...At its height, 1,500 journalists were employed, earning the city the nickname \"second Fleet Street\"...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.236423,
+                    53.458018
+                ]
+            },
+            "properties": {
+                "entity": "North East",
+                "name_location": "Moss Lane East/Lloyd St North, Moss Lane East, Moss Side, Manchester, Greater Manchester, England, M14 4ST, United Kingdom",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "...Another attempt was made with the North West Enquirer, which hoped to provide a true \"regional\" newspaper for the North West, much in the same vein as the Yorkshire Post does for Yorkshire or The Northern Echo does for the North East; it folded in October 2006...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.250129,
+                    53.478405
+                ]
+            },
+            "properties": {
+                "entity": "Quay Street",
+                "name_location": "Quay Street, Spinningfields, City Centre, Manchester, Greater Manchester, England, M3 3HN, United Kingdom",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...Now based at MediaCityUK, the company's former headquarters at Granada Studios on Quay Street with its distinctive illuminated sign were a prominent landmark on the Manchester skyline for several decades...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.234856,
+                    53.482983
+                ]
+            },
+            "properties": {
+                "entity": "Northern Quarter",
+                "name_location": "Carhartt, 10-14, Hilton Street, Northern Quarter, City Centre, Manchester, Greater Manchester, England, M1 1JF, United Kingdom",
+                "class": "shop",
+                "type": "clothes",
+                "snippet": [
+                    "*...The Cutting It series set in the city's Northern Quarter and The Street were set in Manchester as was Life on Mars...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.132222,
+                    53.545854
+                ]
+            },
+            "properties": {
+                "entity": "Mars",
+                "name_location": "Mars Street, Busk, Chadderton, Oldham, Greater Manchester, England, OL9 6NB, United Kingdom",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...The Cutting It series set in the city's Northern Quarter and The Street were set in Manchester as was Life on Mars...."
+                ]
+            }
+        }
+    ]
+}

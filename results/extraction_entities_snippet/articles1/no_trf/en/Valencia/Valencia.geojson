@@ -1,0 +1,398 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.35715,
+                    39.471647
+                ]
+            },
+            "properties": {
+                "entity": "Europe",
+                "name_location": "Edificio Europa, 30, Avinguda d'Aragó, Mestalla, el Pla del Real, Valencia, Comarca de València, Valencia, Valencian Community, 46010, Spain",
+                "class": "building",
+                "type": "commercial",
+                "snippet": [
+                    "*...The city's port is the 5th-busiest container port in Europe and the second busiest container port on the Mediterranean Sea....",
+                    "*...Valencia has one of the mildest winters in Europe, owing to its southern location on the Mediterranean Sea and the Foehn phenomenon, locally known as ponentà....",
+                    "*...The 18th century was the age of the Enlightenment in Europe, and its humanistic ideals influenced such men as Gregory Maians and Pérez Bayer in Valencia, who maintained correspondence with the leading French and German thinkers of the time....",
+                    "*...The Central Market (Mercat Central) in Valencian Art Nouveau style, is one of the largest in Europe....",
+                    "*...L'Oceanogràfic, the largest aquarium in Europe, with a variety of ocean beings from different environments: from the Mediterranean, fishes from the ocean and reef inhabitants, sharks, mackerel swarms, dolphinarium, inhabitants of the polar regions (belugas, walruses, penguins), coast inhabitants (sea lions, etc. L'Oceanogràfic exhibits also smaller animals as coral, jellyfish, sea anemones, etc....",
+                    "*...Valencia is also internationally famous for its football club, Valencia CF, one of the most successful clubs in Europe and La Liga, winning the Spanish league a total of six times including in 2002 and 2004 (the year it also won the UEFA Cup), and was a UEFA Champions League runner-up in 2000 and 2001...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.793725,
+                    38.476237
+                ]
+            },
+            "properties": {
+                "entity": "Medina",
+                "name_location": "Medina, Plaza de los Trabajadores del Calzado, Casco Antiguo de Elda, Elda, el Vinalopó Mitjà / El Vinalopó Medio, Alacant / Alicante, Valencian Community, 03600, Spain",
+                "class": "shop",
+                "type": "hairdresser",
+                "snippet": [
+                    "*...During the rule of the Muslim kingdoms in Spain, it had the title Medina at-Tarab ('City of Joy') according to one transliteration, or Medina at-Turab ('City of Sands') according to another, since it was located on the banks of the River Turia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.342739,
+                    39.305485
+                ]
+            },
+            "properties": {
+                "entity": "Parc Natural de",
+                "name_location": "Parc Natural de l'Albufera, el Palmar, Pobles del Sud, Valencia, Comarca de València, Valencia, Valencian Community, 46430, Spain",
+                "class": "leisure",
+                "type": "nature_reserve",
+                "snippet": [
+                    "...The City Council bought the lake from the Crown of Spain for 1,072,980 pesetas in 1911, and today it forms the main portion of the Parc Natural de l'Albufera (Albufera Nature Reserve), with a surface area of 21,120 hectares (52,200 acres)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.36971,
+                    39.4718
+                ]
+            },
+            "properties": {
+                "entity": "Palau de Justícia",
+                "name_location": "Palau de Justícia, Carrer del Palau de Justícia, Sant Francesc, Ciutat Vella, Valencia, Comarca de València, Valencia, Valencian Community, 46004, Spain",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "...The Palau de Justícia is an example of the affluence manifested in the most prosperous times of Bourbon rule (1758–1802) during the rule of Charles III...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.377374,
+                    39.466316
+                ]
+            },
+            "properties": {
+                "entity": "North Station",
+                "name_location": "North Station, 24, Carrer de Xàtiva, Russafa, l'Eixample, Valencia, Comarca de València, Valencia, Valencian Community, 46007, Spain",
+                "class": "building",
+                "type": "train_station",
+                "snippet": [
+                    "...Among the most architecturally successful buildings of the era were those designed in the Art Nouveau style, such as the North Station (Estació del Nord) and the Central and Columbus markets....",
+                    "...The Estació del Nord (North Station) is the major railway terminus in Valencia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.44067,
+                    38.778678
+                ]
+            },
+            "properties": {
+                "entity": "Central",
+                "name_location": "Central, Muro de Alcoy, el Comtat, Alacant / Alicante, Valencian Community, 03830, Spain",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Among the most architecturally successful buildings of the era were those designed in the Art Nouveau style, such as the North Station (Estació del Nord) and the Central and Columbus markets....",
+                    "...The Central Market (Mercat Central) in Valencian Art Nouveau style, is one of the largest in Europe....",
+                    "...The largest plaza in Valencia is the Plaça del Ajuntament; it is home to the City Hall (Ajuntament) on its western side and the central post office (Edifici de Correus) on its eastern side, a Cinema that shows classic movies, and many restaurants and bars...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.481209,
+                    39.487865
+                ]
+            },
+            "properties": {
+                "entity": "Valencia Airport",
+                "name_location": "Valencia International Airport, Llegadas, Manises, l'Horta Sud, Valencia, Valencian Community, 46940, Spain",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "*...Valencia Airport is situated 9 km (5.6 mi) west of Valencia city centre...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.586535,
+                    38.293605
+                ]
+            },
+            "properties": {
+                "entity": "Alicante Airport",
+                "name_location": "1A-1B to Alicante-Airport, Avinguda Illice, Torrellano, Elx / Elche, el Baix Vinalopó, Alacant / Alicante, Valencian Community, 03320, Spain",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Alicante Airport is situated about 133 km (83 mi) south of center of Valencia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.400842,
+                    39.495596
+                ]
+            },
+            "properties": {
+                "entity": "Palau de congressos",
+                "name_location": "Palau de Congressos, Carrer de Miguel Ángel Blanco, Beniferri, Pobles de l'Oest, Valencia, Comarca de València, Valencia, Valencian Community, 46015, Spain",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "...The city has numerous convention centres and venues for trade events, among them the Feria Valencia Convention and Exhibition Centre (Institución Ferial de Valencia) and the Palau de congressos (Conference Palace), and several 5-star hotels to accommodate business travelers...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.355909,
+                    39.458032
+                ]
+            },
+            "properties": {
+                "entity": "Palau de les Arts",
+                "name_location": "Reina Sofia Palace of the Arts, Avinguda del Professor López Piñero (Historiador de la Medicina), Ciutat de les Arts i de les Ciències, Quatre Carreres, Valencia, Comarca de València, Valencia, Valencian Community, 46023, Spain",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "...In 2012, Boston's Berklee College of Music opened a satellite campus at the Palau de les Arts Reina Sofia, its first and only international campus outside the U.S. Since 2003, Valencia has also hosted the music courses of Musikeon, the leading musical institution in the Spanish-speaking world....",
+                    "...Palau de les Arts Reina Sofía, a flamboyant opera and music palace with four halls and a total area of 37,000 m2 (398,000 sq ft)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.395963,
+                    39.480333
+                ]
+            },
+            "properties": {
+                "entity": "Americas",
+                "name_location": "Capricho de las Américas, 4, Carrer del Doctor Calatayud Baya, Campanar, Valencia, Comarca de València, Valencia, Valencian Community, 46015, Spain",
+                "class": "amenity",
+                "type": "cafe",
+                "snippet": [
+                    "*...Valencia was also the birthplace of the cold xufa beverage known as orxata, popular in many parts of the world, including the Americas...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.375124,
+                    39.475576
+                ]
+            },
+            "properties": {
+                "entity": "Valencia Cathedral",
+                "name_location": "Valencia Cathedral, Carrer de la Barcella, la Seu, Ciutat Vella, Valencia, Comarca de València, Valencia, Valencian Community, 46003, Spain",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Major monuments include Valencia Cathedral, the Torres de Serrans, the Torres de Quart (ca:Torres de Quart), the Lonja de la Seda (declared a World Heritage Site by UNESCO in 1996), and the Ciutat de les Arts i les Ciències (City of Arts and Sciences), an entertainment-based cultural and architectural complex designed by Santiago Calatrava and Félix Candela....",
+                    "...The Valencia Cathedral was called Iglesia Major in the early days of the Reconquista, then Iglesia de la Seu (Seu is from the Latin sedes, i.e., (archiepiscopal) See), and by virtue of the papal concession of 16 October 1866, it was called the Basilica Metropolitana...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.376467,
+                    39.467508
+                ]
+            },
+            "properties": {
+                "entity": "Estació Del Nord",
+                "name_location": "Estació del Nord, Carrer de Xàtiva, Sant Francesc, Ciutat Vella, Valencia, Comarca de València, Valencia, Valencian Community, 46002, Spain",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "...Among the most architecturally successful buildings of the era were those designed in the Art Nouveau style, such as the North Station (Estació del Nord) and the Central and Columbus markets....",
+                    "...The Estació del Nord (North Station) is the major railway terminus in Valencia....",
+                    "*...The main railway station Estació Del Nord is built in Valencian Art Nouveau (a Spanish version of Art Nouveau) style...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.375608,
+                    39.475326
+                ]
+            },
+            "properties": {
+                "entity": "Torre del Micalet",
+                "name_location": "Torre del Micalet, Plaça de la Reina, la Seu, Ciutat Vella, Valencia, Comarca de València, Valencia, Valencian Community, 46003, Spain",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Bishop Vidal de Blanes built the chapter hall, and James I added the tower, called El Miguelete in Castilian Spanish or Torre del Micalet in the Valencian language because it was blessed on St. Michael's day in 1418.[citation needed]..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.375517,
+                    39.473776
+                ]
+            },
+            "properties": {
+                "entity": "Plaza de la Reina",
+                "name_location": "Plaça de la Reina, la Seu, Ciutat Vella, Valencia, Comarca de València, Valencia, Valencian Community, 46001, Spain",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "...Around the corner is the Plaza de la Reina, with the cathedral, orange trees, and many bars and restaurants...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.411165,
+                    39.47827
+                ]
+            },
+            "properties": {
+                "entity": "Valencia Bioparc",
+                "name_location": "Bioparc València, Avinguda de Pio Baroja, Sant Pau, Campanar, Valencia, Comarca de València, Valencia, Valencian Community, 46920, Spain",
+                "class": "tourism",
+                "type": "zoo",
+                "snippet": [
+                    "...The Valencia Bioparc is a zoo, also located in the Turia riverbed...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.367403,
+                    39.476698
+                ]
+            },
+            "properties": {
+                "entity": "Pla del Real",
+                "name_location": "Carrer del Pla del Real, Exposició, el Pla del Real, Valencia, Comarca de València, Valencia, Valencian Community, 46010, Spain",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "...The Jardins del Real or Jardins de Vivers (Del Real Gardens) are located in the Pla del Real district, on just the former site of the Del Real Palace....",
+                    "...Pla del Real: Exposició, Mestalla, Jaume Roig, Ciutat Universitària ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.374421,
+                    39.473292
+                ]
+            },
+            "properties": {
+                "entity": "Palace of the Marqués de Dos Aguas",
+                "name_location": "Palace of the Marques de Dos Aguas, Carrer de Vidal, Sant Francesc, Ciutat Vella, Valencia, Comarca de València, Valencia, Valencian Community, 46001, Spain",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...González Martí National Museum of Ceramics and Decorative Arts, housed in the Palace of the Marqués de Dos Aguas ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.362591,
+                    39.490981
+                ]
+            },
+            "properties": {
+                "entity": "Estadi Ciutat de València",
+                "name_location": "Estadi Ciutat de València, Carrer d'Alfauir, Sant Llorenç, Rascanya, Valencia, Comarca de València, Valencia, Valencian Community, 46020, Spain",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...The club's city rival, Levante UD, plays its home games at Estadi Ciutat de València...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.391298,
+                    39.434195
+                ]
+            },
+            "properties": {
+                "entity": "La Torre",
+                "name_location": "la Torre, Entrada al Barri Veterà, la Torre, Pobles del Sud, Valencia, Comarca de València, Valencia, Valencian Community, 46910, Spain",
+                "class": "man_made",
+                "type": "tower",
+                "snippet": [
+                    "*...Towns south of Valencia city: Forn d'Alcedo, Castellar-l'Oliveral, Pinedo, El Saler, El Palmar, El Perellonet, La Torre ...."
+                ]
+            }
+        }
+    ]
+}

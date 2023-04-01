@@ -1,0 +1,473 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.285396,
+                    54.70164
+                ]
+            },
+            "properties": {
+                "entity": "Vilnius District Municipality",
+                "name_location": "Vilnius district municipality, 50, Rinktinės g., Šnipiškės, Šnipiškių seniūnija, Vilnius, Vilnius city municipality, Vilnius County, 09207, Lithuania",
+                "class": "amenity",
+                "type": "townhall",
+                "snippet": [
+                    "...It is the seat of Lithuania's national government and the Vilnius District Municipality....",
+                    "...Vilnius District Municipality (Lithuanian: Vilniaus rajono savivaldybė) is one of the largest municipalities in Lithuania....",
+                    "...As a result of its large Polish population, Vilnius District Municipality Council mostly consists from members of the Electoral Action of Poles in Lithuania....",
+                    "...However, such problems as traffic jams, expensive car parking spaces, air pollution, high costs of maintenance, limitations for reconstructions repels rich Vilnians from living in these neighbourhoods, who often buy or build private houses in more distant parts of Vilnius (Balsiai, Bajorai, Pavilnys, Kalnėnai, Pilaitė and others) or nearby areas of the Vilnius District Municipality...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.289448,
+                    54.686178
+                ]
+            },
+            "properties": {
+                "entity": "Palace of the Grand Dukes",
+                "name_location": "Palace of the Grand Dukes of Lithuania, 3, Cathedral Square, Old Town, Senamiesčio seniūnija, Vilnius, Vilnius city municipality, Vilnius County, 01143, Lithuania",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "...In 1548 Sigismund II finished the Renaissance style reconstruction of the Palace of the Grand Dukes of Lithuania which was started by his father, Sigismund I.\n\"I saw as many jewels as I did not expect to find accumulated in one place; with them the treasures of Venice and the Pope, which I have also seen, cannot be compared.\"\n—\nPapal nuncio Berardo Bongiovanni recalling about Sigismund II Augustus's treasury kept in the Grand Ducal Palace in 1560....",
+                    "...On 28–29 November 2013, Vilnius hosted the Eastern Partnership Summit in the Palace of the Grand Dukes of Lithuania....",
+                    "...Musicians were presented at the Palace of the Grand Dukes of Lithuania as early as the 14th century as Grand Duke Gediminas daughter Aldona of Lithuania already was a large sympathizer of music and took court musicians, singers with her to Kraków after marrying King Casimir III the Great....",
+                    "...Italian artists organized the first opera in Lithuania on 4 September 1636 at the Palace of the Grand Dukes by the order of Grand Duke Władysław IV Vasa....",
+                    "...Pilies Street, the main artery, links the Palace of the Grand Dukes of Lithuania with Vilnius Town Hall....",
+                    "...The historic buildings are in Gothic (e.g. Church of St. Anne), Renaissance (e.g. Palace of the Grand Dukes of Lithuania), Baroque (e.g. Church of St. Peter and St. Paul with over 2,000 stucco figures interior, Vilnius University's main campus, which features 13 courtyards framed by 15th century buildings and splashed with 300-year-old frescoes, and the Church of St. Johns) and Classical styles (e.g. Vilnius Cathedral, Vilnius Town Hall, Šuazeliai Palace, Verkiai Palace) with splendid exteriors and interiors...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.264833,
+                    54.691736
+                ]
+            },
+            "properties": {
+                "entity": "Central Lithuania",
+                "name_location": "The Central Electoral Commission of the Republic of Lithuania, 8, Gynėjų g., Naujamiestis, Naujamiesčio seniūnija, Vilnius, Vilnius city municipality, Vilnius County, 01109, Lithuania",
+                "class": "office",
+                "type": "government",
+                "snippet": [
+                    "...The city and its surroundings were designated as a separate state, called the Republic of Central Lithuania....",
+                    "*...On 20 February 1922, after the highly contested election in Central Lithuania, the entire area was annexed by Poland, with the city becoming the capital of the Wilno Voivodeship (Wilno being the name of Vilnius in Polish)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.286896,
+                    54.678095
+                ]
+            },
+            "properties": {
+                "entity": "Vilnius Town Hall",
+                "name_location": "Vilnius Town Hall, 31, Didžioji g., Old Town, Senamiesčio seniūnija, Vilnius, Vilnius city municipality, Vilnius County, 01128, Lithuania",
+                "class": "amenity",
+                "type": "townhall",
+                "snippet": [
+                    "...A forced labour camp (Kailis) was also set up behind the Vilnius Town Hall as a factory to produce winter clothing for the Wehrmacht and another one later for vehicle repair (HKP 562) on 47 & 49 Subačiaus Street....",
+                    "...The theatre was initially located in the Oskierka Palace, but later moved to the Radziwiłł Palace and the Vilnius Town Hall....",
+                    "...The magisterial authority was headquartered at the Vilnius Town Hall....",
+                    "*...Pilies Street, the main artery, links the Palace of the Grand Dukes of Lithuania with Vilnius Town Hall....",
+                    "*...The historic buildings are in Gothic (e.g. Church of St. Anne), Renaissance (e.g. Palace of the Grand Dukes of Lithuania), Baroque (e.g. Church of St. Peter and St. Paul with over 2,000 stucco figures interior, Vilnius University's main campus, which features 13 courtyards framed by 15th century buildings and splashed with 300-year-old frescoes, and the Church of St. Johns) and Classical styles (e.g. Vilnius Cathedral, Vilnius Town Hall, Šuazeliai Palace, Verkiai Palace) with splendid exteriors and interiors...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.287795,
+                    54.685887
+                ]
+            },
+            "properties": {
+                "entity": "Vilnius Cathedral",
+                "name_location": "Cathedral Basilica of St Stanislaus and St Vladislav, 2, Cathedral Square, Old Town, Senamiesčio seniūnija, Vilnius, Vilnius city municipality, Vilnius County, 01143, Lithuania",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "...During the inaugurations of Lithuanian monarchs until 1569, the Gediminas' Cap was placed on the monarch's heads by the Bishop of Vilnius in Vilnius Cathedral....",
+                    "...The oldest works of art which remained from the early Gothic period (14th century) are paintings dedicated to churches and liturgy (e.g. frescoes in the Crypts of Vilnius Cathedral, decorated hymns books)....",
+                    "...In the Renaissance period, portrait tombstones and medals were highly valued (e.g. marle tomb of Albertas Goštautas, 1548, by B. Z. da Gianotti, tomb of Povilas Alšėniškis, 1555, by G. Cini, both located in the Vilnius Cathedral)....",
+                    "...Every year on 16 February (day of the Act of Independence of Lithuania) and on 11 March (day of the Act of the Re-Establishment of the State of Lithuania) festive events are organized in Vilnius with official ceremonies conducted by the heads of state and the holy masses of the Lithuanian Catholic Church in the Vilnius Cathedral....",
+                    "...The historic buildings are in Gothic (e.g. Church of St. Anne), Renaissance (e.g. Palace of the Grand Dukes of Lithuania), Baroque (e.g. Church of St. Peter and St. Paul with over 2,000 stucco figures interior, Vilnius University's main campus, which features 13 courtyards framed by 15th century buildings and splashed with 300-year-old frescoes, and the Church of St. Johns) and Classical styles (e.g. Vilnius Cathedral, Vilnius Town Hall, Šuazeliai Palace, Verkiai Palace) with splendid exteriors and interiors....",
+                    "*...The crypts of Vilnius Cathedral are a place where prominent figures of Lithuania and the Catholic Church are buried....",
+                    "...Today Vilnius is the seat of the Roman Catholic Archdiocese of Vilnius, with the main church institutions and Archdiocesan Cathedral (Vilnius Cathedral) located here....",
+                    "...Church Heritage Museum (Lithuanian: Bažnytinio paveldo muziejus) exhibits the oldest and largest of all the churches of the Grand Duchy of Lithuania treasure trove of the Vilnius Cathedral and liturgical artefacts from other churches of the Roman Catholic Archdiocese of Vilnius...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.262618,
+                    54.670506
+                ]
+            },
+            "properties": {
+                "entity": "Naujamiestis",
+                "name_location": "New Town, Kauno g., Naujamiestis, Naujamiesčio seniūnija, Vilnius, Vilnius city municipality, Vilnius County, 03203, Lithuania",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "...On the previously rural outskirts as well as in the very vicinity of the Old Town (industrial zones in Paupys, Markučiai, Naujamiestis), industrial areas were (re)designed and large Soviet plants were built, following a program of industrialization.[citation needed]\nIn November 1980, the number of inhabitants of Vilnius exceeded 500,000....",
+                    "*...In 1995, the world's first bronze cast of Frank Zappa was installed in the Naujamiestis district with the permission of the government....",
+                    "...Naujamiestis – includes bus and train stations ;...",
+                    "...Neighbourhoods around the old town (Antakalnis, Žirmūnai, Naujamiestis, Žvėrynas) offer a wide variety prices flats, decent amount of greenery suitable for walks, bicycle roads and therefore are the most popular among the middle class residents...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.290297,
+                    54.682287
+                ]
+            },
+            "properties": {
+                "entity": "Literatų Street",
+                "name_location": "Literatų street project, Literatų g., Old Town, Senamiesčio seniūnija, Vilnius, Vilnius city municipality, Vilnius County, 01123, Lithuania",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Over 200 tiles and commemorative plaques to writers, who have lived and worked in Vilnius, and foreign authors, who have shared a connection with Vilnius and Lithuania, adorn walls on Literatų Street (Lithuanian: Literatų gatvė) in the Old Town, presenting a broad overview of the history of Lithuanian literature...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.279748,
+                    54.687113
+                ]
+            },
+            "properties": {
+                "entity": "Gediminas Avenue",
+                "name_location": "Gediminas Avenue, Old Town, Senamiesčio seniūnija, Vilnius, Vilnius city municipality, Vilnius County, 01103, Lithuania",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Lithuanian Academy of Music and Theatre is headquartered in Gediminas Avenue and also has its department at the Slushko Palace in Antakalnis....",
+                    "*...The President of the Republic of Lithuania resides at the Presidential Palace in Daukanto Square, while the Prime Minister's seat is at the Government of Lithuania office in Gediminas Avenue....",
+                    "*...The present-day Seimas of the Republic of Lithuania is also located in Vilnius and meets at the Seimas Palace in Gediminas Avenue....",
+                    "*...The Constitutional Court of Lithuania (Lithuanian: Lietuvos Respublikos Konstitucinis Teismas), an advisory body with ultimate authority on the constitutionality of laws meets in the Constitutional Court's Palace in Gediminas Avenue....",
+                    "*...Martynas Mažvydas National Library of Lithuania (Lithuanian: Lietuvos nacionalinė Martyno Mažvydo biblioteka), located in Gediminas Avenue and founded in 1919, is a national cultural institution which collects, organizes and preserves Lithuania's written cultural heritage content, develops the collection of Lithuanian and foreign documents relevant to research, educational and cultural needs of Lithuania, and provides library information services to the public....",
+                    "*...The first stationary radio station in Vilnius Rozgłośnia Wileńska was launched in Žvėrynas microdistrict on 28 November 1927, but was later moved to the present-day Gediminas Avenue in 1935...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.297305,
+                    54.691142
+                ]
+            },
+            "properties": {
+                "entity": "Slushko Palace",
+                "name_location": "Słuszko palace, 10, T. Kosciuškos g., Old Town, Senamiesčio seniūnija, Vilnius, Vilnius city municipality, Vilnius County, 01100, Lithuania",
+                "class": "historic",
+                "type": "manor",
+                "snippet": [
+                    "...Lithuanian Academy of Music and Theatre is headquartered in Gediminas Avenue and also has its department at the Slushko Palace in Antakalnis...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.281097,
+                    54.643085
+                ]
+            },
+            "properties": {
+                "entity": "Vilnius International Airport",
+                "name_location": "Vilnius International Airport, 2, Rodūnios kel., Kirtimai, Naujininkų seniūnija, Vilnius, Vilnius city municipality, Vilnius County, 02188, Lithuania",
+                "class": "aeroway",
+                "type": "terminal",
+                "snippet": [
+                    "*...Naujininkai – includes Kirtimai, Salininkai, Vilnius International Airport ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.405129,
+                    54.315081
+                ]
+            },
+            "properties": {
+                "entity": "Šalčininkai",
+                "name_location": "Šalčininkai, Saulėtoji g., Šalčininkai, Šalčininkų seniūnija, Šalčininkų rajono savivaldybė, Vilnius County, 17120, Lithuania",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Vilnius district borders with the Republic of Belarus and neighbours with Švenčionys, Moletai, Širvintos, Elektrėnai, Trakai and Šalčininkai districts...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.286379,
+                    54.682971
+                ]
+            },
+            "properties": {
+                "entity": "Presidential Palace",
+                "name_location": "Presidential Palace of the Republic of Lithuania, 3, S. Daukanto a., Old Town, Senamiesčio seniūnija, Vilnius, Vilnius city municipality, Vilnius County, 01122, Lithuania",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...The President of the Republic of Lithuania resides at the Presidential Palace in Daukanto Square, while the Prime Minister's seat is at the Government of Lithuania office in Gediminas Avenue....",
+                    "...State ceremonies are often held in Daukanto Square, facing the Presidential Palace...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.286264,
+                    54.683627
+                ]
+            },
+            "properties": {
+                "entity": "Daukanto Square",
+                "name_location": "Simonas Daukantas Square, Old Town, Senamiesčio seniūnija, Vilnius, Vilnius city municipality, Vilnius County, Lithuania",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...The President of the Republic of Lithuania resides at the Presidential Palace in Daukanto Square, while the Prime Minister's seat is at the Government of Lithuania office in Gediminas Avenue....",
+                    "*...State ceremonies are often held in Daukanto Square, facing the Presidential Palace...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.289323,
+                    54.683423
+                ]
+            },
+            "properties": {
+                "entity": "Pilies Street",
+                "name_location": "Pilies Street, Old Town, Senamiesčio seniūnija, Vilnius, Vilnius city municipality, Vilnius County, 01403, Lithuania",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Pilies Street, the main artery, links the Palace of the Grand Dukes of Lithuania with Vilnius Town Hall...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.286638,
+                    54.685624
+                ]
+            },
+            "properties": {
+                "entity": "Cathedral Square",
+                "name_location": "Cathedral Square, Old Town, Senamiesčio seniūnija, Vilnius, Vilnius city municipality, Vilnius County, Lithuania",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "...However, some places were damaged during Lithuania's occupations and wars, including the Cathedral Square that covers the foundations of the Royal Palace – demolished after the 3rd partition of the Polish–Lithuanian Commonwealth in 1795, a square in the east from the Church of All Saints where the Convent of the Barefoot Carmelites previously stood alongside a Vice-Chancellor Stefan Pac's established Baroque Church of St. Joseph the Betrothed, both demolished by the tsar's order....",
+                    "*...Cathedral Square in Old Town is surrounded by a number of the city's most historically significant sites....",
+                    "...The Grand Hotel Kempinski Vilnius, with a direct view of the Cathedral Square, is considered as the most luxurious hotel in Vilnius and offers presidential rooms for around €3,000 per night (more than three times the average monthly net salary in Vilnius) and is frequently chosen by the heads of state, movie stars, famous musicians and other celebrities during their visits to Lithuania...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.268842,
+                    54.699475
+                ]
+            },
+            "properties": {
+                "entity": "Šnipiškės",
+                "name_location": "Šnipiškės, Lvivo g., Šnipiškės, Šnipiškių seniūnija, Vilnius, Vilnius city municipality, Vilnius County, 08130, Lithuania",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "...Šnipiškės ;...",
+                    "...Šnipiškės eldership has received a significant amount of investment during the 2010s....",
+                    "...In the 16th a palace dedicated to the Muscovites and Tatars messengers was built by the magistrate of Vilnius to the north of Šnipiškės, as during their visits, they acted noisily and the townspeople did not want them around....",
+                    "*...In the 18th century, a Jesuit's Church of St. Raphael the Archangel and monastery as well as solid palaces of the rich and multi-story brick houses of ordinary townspeople were built in Šnipiškės....",
+                    "...A small part of the territory (8 ha) of Šnipiškės west of the Kalvarijų market, called Skansenas, occupied mostly by poor condition wooden houses, emerged in the late 19th century....",
+                    "...During the 1960s, the Šnipiškės area was named the New City Centre: the first city pedestrian zone organized and before the 1990 a number of buildings, including the largest shopping centre in what was then Lithuanian SSR, the highest and the largest hotel, planetarium, museum of Revolution, Pioneer's Palace as well as number of ministries of the Lithuanian SSR were built....",
+                    "...However, the broader territory of Šnipiškės, stretching to the north of what is now Konstitucijos Avenue, remained mainly underdeveloped until the early 2000s when the new Vilnius city municipality building was built in the area, that inspired transformation of the surroundings: the new Europa square formed with a new shopping center \"Europa\", 33-story \"Europa\" business tower and 27-story \"Europa\" apartment building...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.337841,
+                    54.723504
+                ]
+            },
+            "properties": {
+                "entity": "Sunrise Valley",
+                "name_location": "Sunrise valley Science & technology park (business center), 15, Saulėtekio al., Saulėtekis, Antakalnis Eldership, Vilnius, Vilnius city municipality, Vilnius County, 10222, Lithuania",
+                "class": "building",
+                "type": "office",
+                "snippet": [
+                    "...Sunrise Valley Science and Technology Park (Lithuanian: Saulėtekio slėnio mokslo ir technologijų parkas) is a non-profit organization, founded in 2003....",
+                    "...Over 20,000 students study in the Vilnius University and Vilnius Gediminas Technical University facilities in the Sunrise Valley and 5,000 scientists performs their research in the corresponding science centres there....",
+                    "...Vilnius Gediminas Technical University has three research centres in the Sunrise Valley: Civil Engineering Research Centre, Technology Centre for Building Information and Digital Modelling, Competence Centre of Intermodal Transport and Logistics....",
+                    "*...According to legend, Grand Duke Gediminas (c. 1275–1341) was hunting in the sacred forest near the Valley of Šventaragis, near where the Vilnia River flows into the Neris River....",
+                    "...Santara Valley (Lithuanian: Santaros slėnis) is a second science and research valley in Vilnius, which focuses on the medicine, biopharmaceutical and bioinformatics areas....",
+                    "...Vilnius University Faculty of Medicine Science Centre, costing €37.1 million, will be completed in the valley in 2021....",
+                    "...The most notable modern university library is the National Open Access Scientific Communication and Information Center of Vilnius University (Lithuanian: Vilniaus universiteto bibliotekos Mokslinės komunikacijos ir informacijos centras) in Saulėtekis Valley, which was opened in 2013 and offers over 800 workplaces in total area of 14,043.61 m2 (151,164.2 sq ft)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.27852,
+                    54.643439
+                ]
+            },
+            "properties": {
+                "entity": "Vilnius Airport",
+                "name_location": "P2 parking spot, Vilnius Airport, Vikingų g., Kirtimai, Naujininkų seniūnija, Vilnius, Vilnius city municipality, Vilnius County, 02188, Lithuania",
+                "class": "amenity",
+                "type": "parking",
+                "snippet": [
+                    "*...Vilnius Airport also has one of the fastest wireless public internet (Wi-Fi) among the European airports....",
+                    "...The best-rated tourist services in Vilnius are restaurants (cafés) services quality, old town attractions, hotels (or other accommodation places) services, trips to Trakai, parks (green zones), connection with the Vilnius Airport, food in hotels, restaurants, cafés....",
+                    "*...Vilnius Airport serves most Lithuanian international flights to many major European destinations...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.28956,
+                    54.674308
+                ]
+            },
+            "properties": {
+                "entity": "[Gate of Dawn",
+                "name_location": "Gate of Dawn, Aušros Vartų g., Old Town, Senamiesčio seniūnija, Vilnius, Vilnius city municipality, Vilnius County, 01304, Lithuania",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "...A famous Russian Orthodox Monastery of the Holy Spirit, is near the [Gate of Dawn....",
+                    "...During Russian rule, the city walls were destroyed, and by 1805 only the Gate of Dawn remained....",
+                    "...The Chapel of the Gate of Dawn is visited by thousands of Christian pilgrims annually....",
+                    "...Initially, the gates were part of the defensive Wall of Vilnius, however in the 16th century they were given to the Carmelites, who installed a chapel in the gates with a prominent 17th century Catholic painting Our Lady of the Gate of Dawn...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.297583,
+                    54.687083
+                ]
+            },
+            "properties": {
+                "entity": "Bleak Hill",
+                "name_location": "Crooked Hill, T. Kosciuškos g., Old Town, Senamiesčio seniūnija, Vilnius, Vilnius city municipality, Vilnius County, 09232, Lithuania",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...Seven of them were beheaded on the Bleak Hill; the other seven were crucified and thrown into the Neris or Vilnia River...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.273291,
+                    54.693217
+                ]
+            },
+            "properties": {
+                "entity": "White Bridge",
+                "name_location": "White Bridge, Šnipiškės, Šnipiškių seniūnija, Vilnius, Vilnius city municipality, Vilnius County, 03502, Lithuania",
+                "class": "highway",
+                "type": "path",
+                "snippet": [
+                    "...The green area next to the White Bridge is another popular area to enjoy good weather, and has become venue for several music and large screen events...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.290645,
+                    54.68677
+                ]
+            },
+            "properties": {
+                "entity": "Gediminas Tower",
+                "name_location": "Gediminas Tower, 5, Arsenalo g., Old Town, Senamiesčio seniūnija, Vilnius, Vilnius city municipality, Vilnius County, 01143, Lithuania",
+                "class": "tourism",
+                "type": "viewpoint",
+                "snippet": [
+                    "*...Many old town apartment buildings there offers direct views to the iconic churches or the biggest landmarks of the city (e.g. especially desired Gediminas Tower), enclosed inner courtyards, high ceilings, attics, non-standard layouts and luxurious historic interiors....",
+                    "*...On 20 October 2013, Bernardinai Garden, near Gediminas Tower, previously known as Sereikiškės Park, was opened after reconstruction...."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,1745 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.117381,
+                    51.511379
+                ]
+            },
+            "properties": {
+                "entity": "River Thames",
+                "name_location": "George III and the River Thames, The Edmond J. Safra Fountain Court, St Clement Danes, Covent Garden, City of Westminster, Greater London, England, WC2R 0RN, United Kingdom",
+                "class": "tourism",
+                "type": "artwork",
+                "snippet": [
+                    "...It stands on the River Thames in south-east England at the head of a 50-mile (80 km) estuary down to the North Sea, and has been a major settlement for two millennia....",
+                    "...Coates suggested this was a name given to the part of the River Thames that flows through London, from which the settlement gained the Celtic form of its name, *Lowonidonjon....",
+                    "...Her Majesty's Coastguard and the Royal National Lifeboat Institution operate on the River Thames, which is under the jurisdiction of the Port of London Authority from Teddington Lock to the sea....",
+                    "...Greater London is split for some purposes into Inner London and Outer London, and by the River Thames into North and South, with an informal central London area....",
+                    "...It is widely spoken by people of all classes in London and south-eastern England, associated with the River Thames and its estuary....",
+                    "...Access to canals and rivers has improved recently, including the creation of the Thames Path, some 28 miles (45 km) of which is within Greater London, and The Wandle Trail; this runs 12 miles (19 km) through South London along the River Wandle, a tributary of the River Thames...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.125298,
+                    51.526395
+                ]
+            },
+            "properties": {
+                "entity": "North Sea",
+                "name_location": "North Sea Fish, 7-8, Leigh Street, King's Cross, London Borough of Camden, London, Greater London, England, WC1H 9EW, United Kingdom",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "...It stands on the River Thames in south-east England at the head of a 50-mile (80 km) estuary down to the North Sea, and has been a major settlement for two millennia....",
+                    "*...London became the main North Sea port, with migrants arriving from England and abroad....",
+                    "...The Thames Barrier was completed in the 1980s to protect London against tidal surges from the North Sea...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.076902,
+                    51.508543
+                ]
+            },
+            "properties": {
+                "entity": "Tower of London",
+                "name_location": "Chapel of Saint Peter ad Vincula, Tower Hill, Tower Liberty, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, EC3N 4AB, United Kingdom",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "...London has four World Heritage Sites: the Tower of London; Kew Gardens; the combined Palace of Westminster, Westminster Abbey, and St Margaret's Church; and also the historic settlement in Greenwich, where the Royal Observatory, Greenwich defines the prime meridian (0° longitude) and Greenwich Mean Time....",
+                    "...William built the Tower of London, the first of many such in England rebuilt in stone in the south-eastern corner of the city, to intimidate the inhabitants....",
+                    "...Few structures in central London pre-date the Great Fire of 1666, these being a few trace Roman remains, the Tower of London and a few scattered Tudor survivors in the city....",
+                    "...Tower of London: 2,785,249 ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.284819,
+                    51.477523
+                ]
+            },
+            "properties": {
+                "entity": "Kew Gardens",
+                "name_location": "Kew Gardens, Layton Place, Kew, London Borough of Richmond upon Thames, London, Greater London, England, TW9 3PP, United Kingdom",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...London has four World Heritage Sites: the Tower of London; Kew Gardens; the combined Palace of Westminster, Westminster Abbey, and St Margaret's Church; and also the historic settlement in Greenwich, where the Royal Observatory, Greenwich defines the prime meridian (0° longitude) and Greenwich Mean Time....",
+                    "*...Close to Richmond Park is Kew Gardens, which has the world's largest collection of living plants...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.000846,
+                    51.477362
+                ]
+            },
+            "properties": {
+                "entity": "Royal Observatory",
+                "name_location": "Royal Observatory Greenwich, Blackheath Avenue, East Greenwich, Royal Borough of Greenwich, London, Greater London, England, SE10 8XJ, United Kingdom",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "...London has four World Heritage Sites: the Tower of London; Kew Gardens; the combined Palace of Westminster, Westminster Abbey, and St Margaret's Church; and also the historic settlement in Greenwich, where the Royal Observatory, Greenwich defines the prime meridian (0° longitude) and Greenwich Mean Time...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.142986,
+                    51.500841
+                ]
+            },
+            "properties": {
+                "entity": "Buckingham Palace",
+                "name_location": "Buckingham Palace, Ambassador's Court, Victoria, London, Greater London, England, SW1A 1AA, United Kingdom",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Other landmarks include Buckingham Palace, the London Eye, Piccadilly Circus, St Paul's Cathedral, Tower Bridge, and Trafalgar Square....",
+                    "*...Another broke into the grounds of Buckingham Palace, reportedly killing some of Queen Elizabeth II's prized pink flamingos...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.128656,
+                    51.507548
+                ]
+            },
+            "properties": {
+                "entity": "Trafalgar Square",
+                "name_location": "Trafalgar Square, Seven Dials, Covent Garden, London, Greater London, England, WC2N 5NJ, United Kingdom",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...Other landmarks include Buckingham Palace, the London Eye, Piccadilly Circus, St Paul's Cathedral, Tower Bridge, and Trafalgar Square....",
+                    "*...The coordinates of the nominal centre of London, traditionally the original Eleanor Cross at Charing Cross near the junction of Trafalgar Square and Whitehall, are about ....",
+                    "*...Nelson's Column (built to commemorate Admiral Horatio Nelson) is a nationally recognised monument in Trafalgar Square, one of the focal points of central London....",
+                    "*...In 1824, the National Gallery was founded to house the British national collection of Western paintings; this now occupies a prominent position in Trafalgar Square...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.279603,
+                    51.556069
+                ]
+            },
+            "properties": {
+                "entity": "Wembley Stadium",
+                "name_location": "Wembley Stadium, Pacific Crescent, London Borough of Brent, London, Greater London, England, HA9 0SL, United Kingdom",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Important sporting events held in London include the FA Cup Final (held annually at Wembley Stadium), Wimbledon Tennis Championships and the London Marathon....",
+                    "*...The 1948 Summer Olympics were held at the original Wembley Stadium, while London was still recovering from the war....",
+                    "*...From 1924, the original Wembley Stadium was the home of the English national football team....",
+                    "*...The new Wembley Stadium serves the same purposes and has a capacity of 90,000...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.129104,
+                    51.488614
+                ]
+            },
+            "properties": {
+                "entity": "Vauxhall Bridge",
+                "name_location": "Vauxhall Bridge, Millbank, City of Westminster, Greater London, England, SW1P 4RP, United Kingdom",
+                "class": "highway",
+                "type": "cycleway",
+                "snippet": [
+                    "*...In 1993, remains of a Bronze Age bridge were found on the south foreshore upstream from Vauxhall Bridge....",
+                    "*...In 2010, foundations of a large timber structure, dated to 4800–4500 BCE, were found on the Thames's south foreshore downstream from Vauxhall Bridge...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.059745,
+                    51.538111
+                ]
+            },
+            "properties": {
+                "entity": "851",
+                "name_location": "London Fields East Side, Haggerston, London Borough of Hackney, London, Greater London, England, E8 3RY, United Kingdom",
+                "class": "highway",
+                "type": "cycleway",
+                "snippet": [
+                    "*...Three are recorded; those in 851 and 886 succeeded, while the last, in 994, was rebuffed...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.125362,
+                    51.49992
+                ]
+            },
+            "properties": {
+                "entity": "Westminster Hall",
+                "name_location": "Westminster Hall, Westminster, Millbank, City of Westminster, Greater London, England, SW1A 0PW, United Kingdom",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...In 1097, William II began building Westminster Hall, close by the abbey of the same name...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.025,
+                    51.44455
+                ]
+            },
+            "properties": {
+                "entity": "South Eastern Railway",
+                "name_location": "South Eastern Railway, Adenmore Road, Ladywell, London Borough of Lewisham, London, Greater London, England, SE6 4FD, United Kingdom",
+                "class": "amenity",
+                "type": "vending_machine",
+                "snippet": [
+                    "*...It remained until 1853, when the Hanseatic cities of Lübeck, Bremen and Hamburg sold the property to South Eastern Railway...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.335034,
+                    51.445118
+                ]
+            },
+            "properties": {
+                "entity": "Mediterranean",
+                "name_location": "Mediterranean, 103-109, Heath Road, Twickenham, London Borough of Richmond upon Thames, London, Greater London, England, TW1 4AZ, United Kingdom",
+                "class": "shop",
+                "type": "supermarket",
+                "snippet": [
+                    "*...The commercial route to Italy and the Mediterranean was normally through Antwerp and over the Alps; any ships passing through the Strait of Gibraltar to or from England were likely to be Italian or Ragusan...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.138775,
+                    51.513109
+                ]
+            },
+            "properties": {
+                "entity": "Carnaby Street",
+                "name_location": "Carnaby Street, Soho, Islington, London, Greater London, England, W1F 9QG, United Kingdom",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Starting mainly in the mid-1960s, London became a centre for worldwide youth culture, exemplified by the Swinging London sub-culture associated with the King's Road, Chelsea and Carnaby Street...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.023008,
+                    51.506269
+                ]
+            },
+            "properties": {
+                "entity": "Canary Wharf",
+                "name_location": "Fisherman's Walk West, Fisherman's Walk, Canary Wharf, Poplar, London Borough of Tower Hamlets, London, Greater London, England, E14 4QR, United Kingdom",
+                "class": "amenity",
+                "type": "bicycle_rental",
+                "snippet": [
+                    "*...The principal ports for London moved downstream to Felixstowe and Tilbury, with the London Docklands area becoming a focus for regeneration, including the Canary Wharf development....",
+                    "*...The City of London is the main financial district, and Canary Wharf has recently developed into a new financial and commercial hub in the Docklands to the east....",
+                    "*...The density of London varies, with high employment density in the central area and Canary Wharf, high residential densities in inner London, and lower densities in Outer London....",
+                    "*...London's skyscrapers, such as 30 St Mary Axe, Tower 42, the Broadgate Tower and One Canada Square, are mostly in the two financial districts, the City of London and Canary Wharf....",
+                    "*...What was formerly the Millennium Dome, by the Thames to the east of Canary Wharf, is now an entertainment venue called the O2 Arena....",
+                    "*...London has five major business districts: the city, Westminster, Canary Wharf, Camden & Islington and Lambeth & Southwark....",
+                    "*...London's finance industry is based in the City of London and Canary Wharf, the two major business districts in London....",
+                    "*...At major piers including Canary Wharf, London Bridge City, Battersea Power Station and London Eye (Waterloo), services depart at least every 20 minutes during commuter times...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.09856,
+                    51.508131
+                ]
+            },
+            "properties": {
+                "entity": "Millennium Bridge",
+                "name_location": "Millennium Bridge, Bankside, The Borough, London Borough of Southwark, London, Greater London, England, SE1 9JE, United Kingdom",
+                "class": "highway",
+                "type": "footway",
+                "snippet": [
+                    "*...To mark the 21st century, the Millennium Dome, London Eye and Millennium Bridge were constructed....",
+                    "...In 2000, this collection moved to Tate Modern, a new gallery housed in the former Bankside Power Station which is accessed by pedestrians north of the Thames via the Millennium Bridge...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.078655,
+                    51.504794
+                ]
+            },
+            "properties": {
+                "entity": "City Hall",
+                "name_location": "City Hall, The Queen's Walk, Butler's Wharf, The Borough, London Borough of Southwark, London, Greater London, England, SE1 2AP, United Kingdom",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...The headquarters of the GLA is City Hall, Newham....",
+                    "*...Other notable modern buildings include The Scalpel, originally a nickname coined by the Financial Times due to its distinctive angular design but subsequently designated as its official name, 20 Fenchurch Street, dubbed \"The Walkie-Talkie\" because of its distinctive shape that resembles a two-way radio handset, the former City Hall in Southwark with its distinctive oval shape, the Art Deco BBC Broadcasting House plus the Postmodernist British Library in Somers Town/Kings Cross and No 1 Poultry by James Stirling...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.104425,
+                    51.518975
+                ]
+            },
+            "properties": {
+                "entity": "Port of London Authority",
+                "name_location": "Port of London Authority, 47-53, Charterhouse Street, West Smithfield, City of London, Greater London, England, EC1M 6PB, United Kingdom",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "...Her Majesty's Coastguard and the Royal National Lifeboat Institution operate on the River Thames, which is under the jurisdiction of the Port of London Authority from Teddington Lock to the sea....",
+                    "...In the east, the Port of London expanded downstream....",
+                    "*...The East End is the area closest to the original Port of London, known for its high immigrant population, as well as for being one of the poorest areas in London....",
+                    "...The Port of London is the second largest in the UK, handling 45 million tonnes of cargo each year....",
+                    "...The Port of London, once the largest in the world, is now only the second-largest in the United Kingdom, handling 45 million tonnes of cargo each year as of 2009...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.127705,
+                    51.503493
+                ]
+            },
+            "properties": {
+                "entity": "10 Downing Street",
+                "name_location": "10 Downing Street, 10, Downing Street, Westminster, Covent Garden, London, Greater London, England, SW1A 2AA, United Kingdom",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Many government departments, as well as the prime minister's residence at 10 Downing Street, are based close to the Palace of Westminster, particularly along Whitehall...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.124481,
+                    51.499389
+                ]
+            },
+            "properties": {
+                "entity": "Palace of Westminster",
+                "name_location": "Palace of Westminster, The Landing Place, Westminster, Millbank, London, Greater London, England, SW1A 0AA, United Kingdom",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...London has four World Heritage Sites: the Tower of London; Kew Gardens; the combined Palace of Westminster, Westminster Abbey, and St Margaret's Church; and also the historic settlement in Greenwich, where the Royal Observatory, Greenwich defines the prime meridian (0° longitude) and Greenwich Mean Time....",
+                    "*...It became the basis of a new Palace of Westminster....",
+                    "...Many government departments, as well as the prime minister's residence at 10 Downing Street, are based close to the Palace of Westminster, particularly along Whitehall....",
+                    "...The capital of England was moved to London from Winchester as the Palace of Westminster developed in the 12th and 13th centuries to become the permanent location of the royal court, and thus the political capital of the nation...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.126512,
+                    51.506118
+                ]
+            },
+            "properties": {
+                "entity": "Great Scotland Yard",
+                "name_location": "Great Scotland Yard, Westminster, Covent Garden, London, Greater London, England, SW1A 2HN, United Kingdom",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...The Met is also referred to as Scotland Yard after the location of its original headquarters in a road called Great Scotland Yard in Whitehall...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.072403,
+                    51.510656
+                ]
+            },
+            "properties": {
+                "entity": "Docklands Light Railway",
+                "name_location": "Docklands Light Railway, Mansell Street, East Smithfield, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8AX, United Kingdom",
+                "class": "railway",
+                "type": "light_rail",
+                "snippet": [
+                    "*...The British Transport Police are responsible for police services on National Rail, London Underground, Docklands Light Railway and Tramlink services....",
+                    "...The Docklands Light Railway (DLR), which opened in 1987, is a second, more local metro system using smaller and lighter tram-type vehicles that serve the Docklands, Greenwich and Lewisham....",
+                    "...The principal ports for London moved downstream to Felixstowe and Tilbury, with the London Docklands area becoming a focus for regeneration, including the Canary Wharf development....",
+                    "*...The City of London is the main financial district, and Canary Wharf has recently developed into a new financial and commercial hub in the Docklands to the east....",
+                    "*...The Docklands Light Railway (DLR), which opened in 1987, is a second, more local metro system using smaller and lighter tram-type vehicles that serve the Docklands, Greenwich and Lewisham...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.097813,
+                    51.498544
+                ]
+            },
+            "properties": {
+                "entity": "Inner London",
+                "name_location": "Inner London Crown Court, Newington Causeway, Elephant and Castle, London Borough of Southwark, London, Greater London, England, SE1 6DR, United Kingdom",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Greater London is split for some purposes into Inner London and Outer London, and by the River Thames into North and South, with an informal central London area....",
+                    "...The density of London varies, with high employment density in the central area and Canary Wharf, high residential densities in inner London, and lower densities in Outer London....",
+                    "*...Children younger than 14 constituted 20.6% of the population in Outer London in 2018, and 18% in Inner London....",
+                    "*...The 15–24 age group was 11.1% in Outer and 10.2% in Inner London, those aged 25–44 years 30.6% in Outer London and 39.7% in Inner London, those aged 45–64 years 24% and 20.7% in Outer and Inner London respectively....",
+                    "*...Those aged 65 and over are 13.6% in Outer London, but only 9.3% in Inner London....",
+                    "...The inner ring road (around the city centre), the North and South Circular roads (just within the suburbs), and the outer orbital motorway (the M25, just outside the built-up area in most places) encircle the city and are intersected by a number of busy radial routes—but very few motorways penetrate into inner London...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.112287,
+                    51.498886
+                ]
+            },
+            "properties": {
+                "entity": "Lambeth North",
+                "name_location": "Lambeth North, Westminster Bridge Road, Waterloo, London Borough of Lambeth, London, Greater London, England, SE1 7HA, United Kingdom",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Based on the centre of gravity of its map, the geographical centre of London is in the London Borough of Lambeth, 0.1 miles (150 m) to the north-east of Lambeth North tube station....",
+                    "...It stands on the River Thames in south-east England at the head of a 50-mile (80 km) estuary down to the North Sea, and has been a major settlement for two millennia....",
+                    "...Yet English maritime enterprise hardly reached beyond the seas of north-west Europe....",
+                    "...London became the main North Sea port, with migrants arriving from England and abroad....",
+                    "...The Thames Barrier was completed in the 1980s to protect London against tidal surges from the North Sea....",
+                    "*...Greater London is split for some purposes into Inner London and Outer London, and by the River Thames into North and South, with an informal central London area....",
+                    "...Marble Arch and Wellington Arch, at the north and south ends of Park Lane, respectively, have royal connections, as do the Albert Memorial and Royal Albert Hall in Kensington....",
+                    "...Epping Forest is also known for its fallow deer, which can frequently be seen in herds to the north of the Forest....",
+                    "...Large Hindu communities are found in the north-western boroughs of Harrow and Brent, the latter hosting what was until 2006 Europe's largest Hindu temple, Neasden Temple....",
+                    "...The majority of British Jews live in London, with notable Jewish communities in Stamford Hill, Stanmore, Golders Green, Finchley, Hampstead, Hendon and Edgware, all in North London....",
+                    "...A museum in Bletchley Park, where Turing was based during World War II, is in Bletchley, 40 miles (64 km) north of central London, as is The National Museum of Computing....",
+                    "...Stansted Airport, north-east of London in Essex, has flights that serve the greatest number of European destinations of any UK airport and is the main base of Ryanair, the world's largest international airline by number of international passengers....",
+                    "...Luton Airport, to the north of London in Bedfordshire, is used by several budget airlines (especially easyJet and Wizz Air) for short-haul flights....",
+                    "...Most rail lines terminate around the centre of London, running into eighteen terminal stations, with the exception of the Thameslink trains connecting Bedford in the north and Brighton in the south via Luton and Gatwick airports....",
+                    "...There are plans for a second high speed line linking London to the Midlands, North West England, and Yorkshire....",
+                    "*...The Woolwich Ferry, with 2.5 million passengers every year, is a frequent service linking the North and South Circular Roads....",
+                    "*...The inner ring road (around the city centre), the North and South Circular roads (just within the suburbs), and the outer orbital motorway (the M25, just outside the built-up area in most places) encircle the city and are intersected by a number of busy radial routes—but very few motorways penetrate into inner London....",
+                    "...The nation's most popular biscuit to dunk in tea, chocolate digestives have been manufactured by McVitie's at their Harlesden factory in north-west London since 1925....",
+                    "...In 2000, this collection moved to Tate Modern, a new gallery housed in the former Bankside Power Station which is accessed by pedestrians north of the Thames via the Millennium Bridge....",
+                    "...The largest parks in the central area of London are three of the eight Royal Parks, namely Hyde Park and its neighbour Kensington Gardens in the west, and Regent's Park to the north....",
+                    "...Primrose Hill, immediately to the north of Regent's Park, at 256 feet (78 m) is a popular spot from which to view the city skyline....",
+                    "...Some more informal, semi-natural open spaces also exist, including the 320-hectare (790-acre) Hampstead Heath of North London, and Epping Forest, which covers 2,476 hectares (6,118 acres) in the east....",
+                    "...While rugby league is more popular in the north of England, there are two professional rugby league clubs in London – the London Broncos in the second-tier RFL Championship, who play at the Trailfinders Sports Ground in West Ealing, and the third-tier League 1 team, the London Skolars from Wood Green, Haringey...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.225489,
+                    51.486486
+                ]
+            },
+            "properties": {
+                "entity": "Thames Valley",
+                "name_location": "Thames-Lee Valley Water Main, Springvale Terrace, Brook Green, London Borough of Hammersmith and Fulham, London, Greater London, England, W14 0AE, United Kingdom",
+                "class": "man_made",
+                "type": "pipeline",
+                "snippet": [
+                    "...The Thames Valley is a flood plain surrounded by gently rolling hills including Parliament Hill, Addington Hills, and Primrose Hill...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.162971,
+                    51.556953
+                ]
+            },
+            "properties": {
+                "entity": "Parliament Hill",
+                "name_location": "Parliament Hill, Belsize Park, London Borough of Camden, London, Greater London, England, NW3 2SY, United Kingdom",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...The Thames Valley is a flood plain surrounded by gently rolling hills including Parliament Hill, Addington Hills, and Primrose Hill...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.036747,
+                    51.502798
+                ]
+            },
+            "properties": {
+                "entity": "Thames Barrier",
+                "name_location": "Thames Barrier, North Woolwich Road, Silvertown, London Borough of Newham, London, Greater London, England, E16 2FJ, United Kingdom",
+                "class": "amenity",
+                "type": "shelter",
+                "snippet": [
+                    "...The Thames Barrier was completed in the 1980s to protect London against tidal surges from the North Sea....",
+                    "...In 1974 a decade of work began on the construction of the Thames Barrier across the Thames at Woolwich to deal with this threat...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.118593,
+                    51.502835
+                ]
+            },
+            "properties": {
+                "entity": "London Riverside",
+                "name_location": "London Aquarium, Westminster Bridge Road, Waterloo, London Borough of Lambeth, London, Greater London, England, SE1 7PB, United Kingdom",
+                "class": "tourism",
+                "type": "aquarium",
+                "snippet": [
+                    "...The surrounding East London area saw much of London's early industrial development; now, brownfield sites throughout the area are being redeveloped as part of the Thames Gateway including the London Riverside and Lower Lea Valley, which was developed into the Olympic Park for the 2012 Olympics and Paralympics...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.012713,
+                    51.544187
+                ]
+            },
+            "properties": {
+                "entity": "Olympic Park",
+                "name_location": "Olympic Park Avenue, Stratford Marsh, London Borough of Newham, London, Greater London, England, E20 1JP, United Kingdom",
+                "class": "highway",
+                "type": "unclassified",
+                "snippet": [
+                    "...The surrounding East London area saw much of London's early industrial development; now, brownfield sites throughout the area are being redeveloped as part of the Thames Gateway including the London Riverside and Lower Lea Valley, which was developed into the Olympic Park for the 2012 Olympics and Paralympics...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.147658,
+                    51.483485
+                ]
+            },
+            "properties": {
+                "entity": "Battersea Power Station",
+                "name_location": "Battersea Power Station, Sopwith Way, London Borough of Wandsworth, London, Greater London, England, SW11 8AE, United Kingdom",
+                "class": "amenity",
+                "type": "bicycle_rental",
+                "snippet": [
+                    "*...The 1939 Battersea Power Station by the river in the south-west is a local landmark, while some railway termini are excellent examples of Victorian architecture, most notably St. Pancras and Paddington....",
+                    "*...At major piers including Canary Wharf, London Bridge City, Battersea Power Station and London Eye (Waterloo), services depart at least every 20 minutes during commuter times...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.125863,
+                    51.532121
+                ]
+            },
+            "properties": {
+                "entity": "St. Pancras",
+                "name_location": "St Pancras, The Circle, King's Cross, London Borough of Camden, London, Greater London, England, N1C 4QP, United Kingdom",
+                "class": "railway",
+                "type": "subway_entrance",
+                "snippet": [
+                    "*...The 1939 Battersea Power Station by the river in the south-west is a local landmark, while some railway termini are excellent examples of Victorian architecture, most notably St. Pancras and Paddington....",
+                    "...Since 2007, high-speed trains link St. Pancras International with Lille, Calais, Paris, Disneyland Paris, Brussels, Amsterdam and other European tourist destinations via the High Speed 1 rail link and the Channel Tunnel...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.067134,
+                    51.602381
+                ]
+            },
+            "properties": {
+                "entity": "Park Lane",
+                "name_location": "Park Lane, Tottenham, London Borough of Haringey, London, Greater London, England, N17 0JQ, United Kingdom",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Marble Arch and Wellington Arch, at the north and south ends of Park Lane, respectively, have royal connections, as do the Albert Memorial and Royal Albert Hall in Kensington...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.177684,
+                    51.502398
+                ]
+            },
+            "properties": {
+                "entity": "Albert Memorial",
+                "name_location": "The Albert Memorial, South Carriage Drive, Knightsbridge, London, Greater London, England, SW7 5ET, United Kingdom",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...Marble Arch and Wellington Arch, at the north and south ends of Park Lane, respectively, have royal connections, as do the Albert Memorial and Royal Albert Hall in Kensington...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.176398,
+                    51.501631
+                ]
+            },
+            "properties": {
+                "entity": "Royal Albert Hall",
+                "name_location": "Royal Albert Hall, Kensington Gore, Knightsbridge, London, Greater London, England, SW7 2AN, United Kingdom",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Marble Arch and Wellington Arch, at the north and south ends of Park Lane, respectively, have royal connections, as do the Albert Memorial and Royal Albert Hall in Kensington....",
+                    "...The Royal Ballet, English National Ballet, Royal Opera, and English National Opera are based in London and perform at the Royal Opera House, the London Coliseum, Sadler's Wells Theatre, and the Royal Albert Hall, as well as touring the country....",
+                    "...First held in 1949, since 2017 the British Academy Film Awards (BAFTAs) have taken place at the Royal Albert Hall....",
+                    "...The city is also home to many orchestras and concert halls, such as the Barbican Arts Centre (principal base of the London Symphony Orchestra and the London Symphony Chorus), the Southbank Centre (London Philharmonic Orchestra and the Philharmonia Orchestra), Cadogan Hall (Royal Philharmonic Orchestra) and the Royal Albert Hall (The Proms)....",
+                    "...The UK's largest pipe organ is at the Royal Albert Hall...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.079759,
+                    51.521313
+                ]
+            },
+            "properties": {
+                "entity": "Broadgate Tower",
+                "name_location": "Broadgate Tower, 20, Primrose Street, Bishopsgate, City of London, Greater London, England, EC2A 2AG, United Kingdom",
+                "class": "building",
+                "type": "commercial",
+                "snippet": [
+                    "...London's skyscrapers, such as 30 St Mary Axe, Tower 42, the Broadgate Tower and One Canada Square, are mostly in the two financial districts, the City of London and Canary Wharf....",
+                    "...London has four World Heritage Sites: the Tower of London; Kew Gardens; the combined Palace of Westminster, Westminster Abbey, and St Margaret's Church; and also the historic settlement in Greenwich, where the Royal Observatory, Greenwich defines the prime meridian (0° longitude) and Greenwich Mean Time....",
+                    "...Other landmarks include Buckingham Palace, the London Eye, Piccadilly Circus, St Paul's Cathedral, Tower Bridge, and Trafalgar Square....",
+                    "...William built the Tower of London, the first of many such in England rebuilt in stone in the south-eastern corner of the city, to intimidate the inhabitants....",
+                    "*...In the 12th century, the institutions of central government, which had hitherto followed the royal English court around the country, grew in size and sophistication and became increasingly fixed, for most purposes at Westminster, although the royal treasury, having been moved from Winchester, came to rest in the Tower....",
+                    "...Few structures in central London pre-date the Great Fire of 1666, these being a few trace Roman remains, the Tower of London and a few scattered Tudor survivors in the city....",
+                    "...A dead otter was found at The Highway, in Wapping, about a mile from the Tower Bridge, which would suggest that they have begun to move back after being absent a hundred years from the city....",
+                    "...Notable mosques include the East London Mosque in Tower Hamlets, which is allowed to give the Islamic call to prayer through loudspeakers, the London Central Mosque on the edge of Regent's Park and the Baitul Futuh of the Ahmadiyya Muslim Community....",
+                    "...There are large Bengali Muslim communities in the eastern boroughs of Tower Hamlets and Newham....",
+                    "...Tower of London: 2,785,249 ;...",
+                    "...The majority of primary and secondary schools and further-education colleges in London are controlled by the London boroughs or otherwise state-funded; leading examples include Ashbourne College, Bethnal Green Academy, Brampton Manor Academy, City and Islington College, City of Westminster College, David Game College, Ealing, Hammersmith and West London College, Leyton Sixth Form College, London Academy of Excellence, Tower Hamlets College, and Newham Collegiate Sixth Form Centre...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.086446,
+                    51.504342
+                ]
+            },
+            "properties": {
+                "entity": "Shard London Bridge",
+                "name_location": "The Shard, 32, London Bridge Street, London Bridge Quarter, The Borough, London Borough of Southwark, London, Greater London, England, SE1 9SG, United Kingdom",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Nevertheless, there are a number of tall skyscrapers in central London (see Tall buildings in London), including the 95-storey Shard London Bridge, the tallest building in the United Kingdom...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.085392,
+                    51.511351
+                ]
+            },
+            "properties": {
+                "entity": "Fenchurch Street",
+                "name_location": "Fenchurch Street, St. Benet's Place, Cornhill, City of London, Greater London, England, EC3V 0EE, United Kingdom",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Other notable modern buildings include The Scalpel, originally a nickname coined by the Financial Times due to its distinctive angular design but subsequently designated as its official name, 20 Fenchurch Street, dubbed \"The Walkie-Talkie\" because of its distinctive shape that resembles a two-way radio handset, the former City Hall in Southwark with its distinctive oval shape, the Art Deco BBC Broadcasting House plus the Postmodernist British Library in Somers Town/Kings Cross and No 1 Poultry by James Stirling...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.003203,
+                    51.502937
+                ]
+            },
+            "properties": {
+                "entity": "Millennium Dome",
+                "name_location": "The O2, Up at The O2, Greenwich Peninsula, Royal Borough of Greenwich, London, Greater London, England, SE10 0DX, United Kingdom",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "...To mark the 21st century, the Millennium Dome, London Eye and Millennium Bridge were constructed....",
+                    "...What was formerly the Millennium Dome, by the Thames to the east of Canary Wharf, is now an entertainment venue called the O2 Arena...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.067505,
+                    51.509131
+                ]
+            },
+            "properties": {
+                "entity": "Highway",
+                "name_location": "The Highway, East Smithfield, Wapping, London Borough of Tower Hamlets, London, Greater London, England, E1W 2AQ, United Kingdom",
+                "class": "highway",
+                "type": "trunk",
+                "snippet": [
+                    "*...A dead otter was found at The Highway, in Wapping, about a mile from the Tower Bridge, which would suggest that they have begun to move back after being absent a hundred years from the city...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.076717,
+                    51.503641
+                ]
+            },
+            "properties": {
+                "entity": "Tower Bridge",
+                "name_location": "Tower Bridge, Tower Bridge Road, Butler's Wharf, Bermondsey, London Borough of Southwark, London, Greater London, England, SE1 2UP, United Kingdom",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "...Other landmarks include Buckingham Palace, the London Eye, Piccadilly Circus, St Paul's Cathedral, Tower Bridge, and Trafalgar Square....",
+                    "...A dead otter was found at The Highway, in Wapping, about a mile from the Tower Bridge, which would suggest that they have begun to move back after being absent a hundred years from the city...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.165866,
+                    51.52029
+                ]
+            },
+            "properties": {
+                "entity": "London Underground",
+                "name_location": "London Underground Ltd, 280, Old Marylebone Road, Marylebone, London, Greater London, England, W1H 4AD, United Kingdom",
+                "class": "office",
+                "type": "yes",
+                "snippet": [
+                    "...The London Underground is the oldest rapid transit system in the world....",
+                    "*...On 7 July 2005, three London Underground trains and a double-decker bus were bombed in a series of terrorist attacks....",
+                    "*...The British Transport Police are responsible for police services on National Rail, London Underground, Docklands Light Railway and Tramlink services....",
+                    "...Among the strange sights in London have been a whale in the Thames, while the BBC Two programme Natural World: Unnatural History of London shows feral pigeons using the London Underground to get around the city, a seal that takes fish from fishmongers outside Billingsgate Fish Market, and foxes that will \"sit\" if given sausages....",
+                    "...In 2007 the Mayor of London assumed responsibility for some local lines, which now form the London Overground network, adding to the existing responsibility for the London Underground, trams and buses....",
+                    "...The lines that formed the London Underground, as well as trams and buses, became part of an integrated transport system in 1933 when the London Passenger Transport Board or London Transport was created....",
+                    "...Opened in 1863, the London Underground, commonly referred to as the Tube or just the Underground, is the oldest and third longest metro system in the world....",
+                    "...Both structures are on the south bank of the Thames, where the now-underground River Effra flows into the Thames....",
+                    "...Since the Victorian era the Thames has been extensively embanked, and many of its London tributaries now flow underground....",
+                    "*...Opened in 1863, the London Underground, commonly referred to as the Tube or just the Underground, is the oldest and third longest metro system in the world....",
+                    "...The system serves 272 stations. and was formed from several private companies, including the world's first underground electric line, the City and South London Railway, which opened in 1890....",
+                    "*...Over four million journeys are made every day on the Underground network, over 1 billion each year....",
+                    "...South London, particularly, has a high concentration of railways as it has fewer Underground lines....",
+                    "*...The London government initially expected the Congestion Charge Zone to increase daily peak period Underground and bus users, reduce road traffic, increase traffic speeds, and reduce queues; however, the increase in private for hire vehicles has affected these expectations....",
+                    "...The first gay bar in London in the modern sense was The Cave of the Golden Calf, established as a night club in an underground location at 9 Heddon Street, just off Regent Street, in 1912 and became a haunt for the wealthy, aristocratic and bohemian...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.319854,
+                    51.419692
+                ]
+            },
+            "properties": {
+                "entity": "Bushy Park",
+                "name_location": "Bushy Park Road, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, TW11 9DL, United Kingdom",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Herds of red and fallow deer also roam freely within much of Richmond and Bushy Park....",
+                    "*...A number of large parks lie outside the city centre, including Hampstead Heath and the remaining Royal Parks of Greenwich Park to the southeast and Bushy Park and Richmond Park (the largest) to the southwest, Hampton Court Park is also a royal park, but, because it contains a palace, it is administered by the Historic Royal Palaces, unlike the eight Royal Parks...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.089647,
+                    51.506136
+                ]
+            },
+            "properties": {
+                "entity": "Southwark Cathedral",
+                "name_location": "Southwark Cathedral, Montague Close, Bermondsey Village, The Borough, London Borough of Southwark, London, Greater London, England, SE1 9DA, United Kingdom",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...The well-known St Paul's Cathedral in the City and Southwark Cathedral south of the river are Anglican administrative centres, while the Archbishop of Canterbury, principal bishop of the Church of England and worldwide Anglican Communion, has his main residence at Lambeth Palace in the London Borough of Lambeth...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.120077,
+                    51.495558
+                ]
+            },
+            "properties": {
+                "entity": "Lambeth Palace",
+                "name_location": "Lambeth Palace, Lambeth Palace Road, Lambeth, London Borough of Lambeth, London, Greater London, England, SE1 7JT, United Kingdom",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...The well-known St Paul's Cathedral in the City and Southwark Cathedral south of the river are Anglican administrative centres, while the Archbishop of Canterbury, principal bishop of the Church of England and worldwide Anglican Communion, has his main residence at Lambeth Palace in the London Borough of Lambeth...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.139945,
+                    51.496907
+                ]
+            },
+            "properties": {
+                "entity": "Westminster Cathedral",
+                "name_location": "Westminster Cathedral, Victoria Street, Westminster, Victoria, London, Greater London, England, SW1E 5NH, United Kingdom",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...The Abbey is not to be confused with nearby Westminster Cathedral, the largest Roman Catholic cathedral in England and Wales...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.065362,
+                    51.517398
+                ]
+            },
+            "properties": {
+                "entity": "East London Mosque",
+                "name_location": "East London Mosque, 82-92, Whitechapel Road, St. George in the East, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 1JQ, United Kingdom",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "...Notable mosques include the East London Mosque in Tower Hamlets, which is allowed to give the Islamic call to prayer through loudspeakers, the London Central Mosque on the edge of Regent's Park and the Baitul Futuh of the Ahmadiyya Muslim Community...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.049654,
+                    51.508252
+                ]
+            },
+            "properties": {
+                "entity": "Tower Hamlets",
+                "name_location": "Tower Hamlets Canoe Club, 3-4, Shadwell Pierhead, Ratcliffe, Shadwell, London Borough of Tower Hamlets, London, Greater London, England, E1W 3TD, United Kingdom",
+                "class": "club",
+                "type": "sport",
+                "snippet": [
+                    "*...Notable mosques include the East London Mosque in Tower Hamlets, which is allowed to give the Islamic call to prayer through loudspeakers, the London Central Mosque on the edge of Regent's Park and the Baitul Futuh of the Ahmadiyya Muslim Community....",
+                    "*...There are large Bengali Muslim communities in the eastern boroughs of Tower Hamlets and Newham....",
+                    "...The majority of primary and secondary schools and further-education colleges in London are controlled by the London boroughs or otherwise state-funded; leading examples include Ashbourne College, Bethnal Green Academy, Brampton Manor Academy, City and Islington College, City of Westminster College, David Game College, Ealing, Hammersmith and West London College, Leyton Sixth Form College, London Academy of Excellence, Tower Hamlets College, and Newham Collegiate Sixth Form Centre...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.164143,
+                    51.589467
+                ]
+            },
+            "properties": {
+                "entity": "East End",
+                "name_location": "East End Road, Finchley, London Borough of Barnet, London, Greater London, England, N2 8AB, United Kingdom",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "...The East End is the area closest to the original Port of London, known for its high immigrant population, as well as for being one of the poorest areas in London....",
+                    "...It is mainly attributed to the East End and wider East London, having originated there in the 18th century, although it has been suggested that the Cockney style of speech is much older....",
+                    "...John Camden Hotten, in his Slang Dictionary of 1859, makes reference to Cockney \"use of a peculiar slang language\" (Cockney rhyming slang) when describing the costermongers of the East End....",
+                    "...Since the start of the 21st century the Cockney dialect is less common in parts of the East End itself, with modern strongholds including other parts of London and suburbs in the home counties....",
+                    "...There are also parks administered by London's borough Councils, including Victoria Park in the East End and Battersea Park in the centre...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.111958,
+                    51.513662
+                ]
+            },
+            "properties": {
+                "entity": "Fleet Street",
+                "name_location": "Fleet Street, South Bank, Holborn, Islington, London, Greater London, England, EC4Y 1BD, United Kingdom",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...Coffee-houses became a popular place to debate ideas, as growing literacy and development of the printing press made news widely available, with Fleet Street becoming the centre of the British press....",
+                    "*...Many national newspapers are edited in London; the term Fleet Street (where most national newspapers operated) remains a metonym for the British national press....",
+                    "*...London has been the setting for films including Oliver Twist (1948), Scrooge (1951), Peter Pan (1953), The 101 Dalmatians (1961), My Fair Lady (1964), Mary Poppins (1964), Blowup (1966), A Clockwork Orange (1971), The Long Good Friday (1980), The Great Mouse Detective (1986), Notting Hill (1999), Love Actually (2003), V for Vendetta (2005), Sweeney Todd: The Demon Barber of Fleet Street (2008) and The King's Speech (2010)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.453545,
+                    51.4698
+                ]
+            },
+            "properties": {
+                "entity": "Heathrow Airport",
+                "name_location": "Hilton Garden Inn London Heathrow Terminals 2 and 3, Terminal 2, London Borough of Hillingdon, Greater London, England, TW6 1AH, United Kingdom",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...Heathrow Airport, in Hillingdon, West London, was for many years the busiest airport in the world for international traffic, and is the major hub of the nation's flag carrier, British Airways. In March 2008 its fifth terminal was opened. In 2014, Dubai gained from Heathrow the leading position in terms of international passenger traffic....",
+                    "*...It is a new railway line running east to west through London and into the Home Counties with a branch to Heathrow Airport....",
+                    "*...Temperature extremes in London range from 40.2 °C (104.4 °F) at Heathrow on 19 July 2022 down to −16.1 °C (3.0 °F) at Northolt on 1 January 1962....",
+                    "*...This can be seen below when comparing London Heathrow, 15 miles (24 km) west of London, with the London Weather Centre...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.161,
+                    51.155229
+                ]
+            },
+            "properties": {
+                "entity": "Gatwick Airport",
+                "name_location": "Gatwick Airport, London Road, Lowfield Heath, Crawley, West Sussex, England, RH6 0NQ, United Kingdom",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Gatwick Airport, south of London in West Sussex, handles flights to more destinations than any other UK airport and is the main base of easyJet, the UK's largest airline by number of passengers...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.109698,
+                    51.503906
+                ]
+            },
+            "properties": {
+                "entity": "Waterloo East",
+                "name_location": "Waterloo East, Wootton Street, South Bank, Waterloo, London Borough of Lambeth, London, Greater London, England, SE1 8TG, United Kingdom",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...London has Britain's busiest station by number of passengers—Waterloo, with over 184 million people using the interchange station complex (which includes Waterloo East station) each year...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.099497,
+                    51.519608
+                ]
+            },
+            "properties": {
+                "entity": "Elizabeth Line",
+                "name_location": "Farringdon Elizabeth Line (Barbican ticket hall), Lindsey Street, West Smithfield, London Borough of Islington, City of London, Greater London, England, EC1A 9HP, United Kingdom",
+                "class": "building",
+                "type": "train_station",
+                "snippet": [
+                    "...With the need for more rail capacity in London, the Elizabeth Line (also known as Crossrail) opened in May 2022...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.129518,
+                    51.510025
+                ]
+            },
+            "properties": {
+                "entity": "Leicester Square",
+                "name_location": "Leicester Square, Seven Dials, Covent Garden, London, Greater London, England, WC2H 7LH, United Kingdom",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Within the City of Westminster in London, the entertainment district of the West End has its focus around Leicester Square, where London and world film premieres are held, and Piccadilly Circus, with its giant electronic advertisements...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.123377,
+                    51.511692
+                ]
+            },
+            "properties": {
+                "entity": "Covent Garden",
+                "name_location": "Covent Garden, Seven Dials, Covent Garden, London, Greater London, England, WC2E 8HB, United Kingdom",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...London's theatre district is here, as are many cinemas, bars, clubs, and restaurants, including the city's Chinatown district (in Soho), and just to the east is Covent Garden, an area housing speciality shops....",
+                    "*...Many hotels in London provide a traditional afternoon tea service, such as the Oscar Wilde Lounge at the Hotel Café Royal in Piccadilly, and a themed tea service is also available, for example an Alice in Wonderland themed afternoon tea served at the Egerton House Hotel, and Charlie and the Chocolate Factory themed afternoon tea at One Aldwych in Covent Garden....",
+                    "*...The Blitz Kids (which included Boy George) frequented the Tuesday club-night at Blitz in Covent Garden, helping launch the New Romantic subcultural movement in the late 1970s...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12255,
+                    51.512913
+                ]
+            },
+            "properties": {
+                "entity": "Royal Opera House",
+                "name_location": "Royal Opera House, Bow Street, St Clement Danes, Covent Garden, Islington, London, Greater London, England, WC2E 9DD, United Kingdom",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...The Royal Ballet, English National Ballet, Royal Opera, and English National Opera are based in London and perform at the Royal Opera House, the London Coliseum, Sadler's Wells Theatre, and the Royal Albert Hall, as well as touring the country....",
+                    "...London's two main opera houses are the Royal Opera House and the London Coliseum (home to the English National Opera)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.131698,
+                    51.516338
+                ]
+            },
+            "properties": {
+                "entity": "Oxford Street",
+                "name_location": "Oxford Street, St Giles, Bloomsbury, Islington, London, Greater London, England, W1D 1AP, United Kingdom",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...Europe's busiest shopping area is Oxford Street, a shopping street nearly 1 mile (1.6 km) long, making it the longest shopping street in the UK...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.136225,
+                    51.509844
+                ]
+            },
+            "properties": {
+                "entity": "Regent Street",
+                "name_location": "Regent Street, St. James's, Mayfair, London, Greater London, England, W1J 0AD, United Kingdom",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...Opened in 1760 with its flagship store on Regent Street since 1881, Hamleys is the oldest toy store in the world....",
+                    "*...The first gay bar in London in the modern sense was The Cave of the Golden Calf, established as a night club in an underground location at 9 Heddon Street, just off Regent Street, in 1912 and became a haunt for the wealthy, aristocratic and bohemian...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.156735,
+                    51.522586
+                ]
+            },
+            "properties": {
+                "entity": "Baker Street",
+                "name_location": "Baker Street, Marylebone Road, Marylebone, London, Greater London, England, NW1 5LD, United Kingdom",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...Madame Tussauds wax museum opened in Baker Street in 1835...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.071311,
+                    51.518271
+                ]
+            },
+            "properties": {
+                "entity": "Brick Lane",
+                "name_location": "Brick Lane, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 6RH, United Kingdom",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Gastronomic centres include the Bangladeshi restaurants of Brick Lane and the Chinese restaurants of Chinatown...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.135717,
+                    51.510177
+                ]
+            },
+            "properties": {
+                "entity": "Hotel Café Royal",
+                "name_location": "Hotel Café Royal, Sherwood Street, Soho, City of Westminster, Greater London, England, W1F 7BN, United Kingdom",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "...Many hotels in London provide a traditional afternoon tea service, such as the Oscar Wilde Lounge at the Hotel Café Royal in Piccadilly, and a themed tea service is also available, for example an Alice in Wonderland themed afternoon tea served at the Egerton House Hotel, and Charlie and the Chocolate Factory themed afternoon tea at One Aldwych in Covent Garden...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.167561,
+                    51.496874
+                ]
+            },
+            "properties": {
+                "entity": "Egerton House Hotel",
+                "name_location": "Egerton House Hotel, 17-19, Egerton Terrace, Hans Town, Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, England, SW3 2BX, United Kingdom",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "...Many hotels in London provide a traditional afternoon tea service, such as the Oscar Wilde Lounge at the Hotel Café Royal in Piccadilly, and a themed tea service is also available, for example an Alice in Wonderland themed afternoon tea served at the Egerton House Hotel, and Charlie and the Chocolate Factory themed afternoon tea at One Aldwych in Covent Garden...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13932,
+                    51.510727
+                ]
+            },
+            "properties": {
+                "entity": "9 Heddon Street",
+                "name_location": "Heddon Street Kitchen, 3-9, Heddon Street, St. James's, Mayfair, London, Greater London, England, W1B 4BD, United Kingdom",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...The first gay bar in London in the modern sense was The Cave of the Golden Calf, established as a night club in an underground location at 9 Heddon Street, just off Regent Street, in 1912 and became a haunt for the wealthy, aristocratic and bohemian...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.133096,
+                    51.512484
+                ]
+            },
+            "properties": {
+                "entity": "Old Compton Street",
+                "name_location": "Old Compton Street, Soho, London, Greater London, England, W1D 4JF, United Kingdom",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...While London has been an LGBT tourism destination, after homosexuality was decriminalised in England in 1967 gay bar culture became more visible, and from the early 1970s Soho (and in particular Old Compton Street) became the centre of the London LGBT community...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.091774,
+                    51.500819
+                ]
+            },
+            "properties": {
+                "entity": "Tabard",
+                "name_location": "Tabard Street, Bermondsey Village, The Borough, London Borough of Southwark, London, Greater London, England, SE1 4AY, United Kingdom",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...The pilgrims in Geoffrey Chaucer's late 14th-century Canterbury Tales set out for Canterbury from London—specifically, from the Tabard inn, Southwark...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.086,
+                    51.510116
+                ]
+            },
+            "properties": {
+                "entity": "Great Fire",
+                "name_location": "Great Fire of London Monument, Fish Street Hill, Cornhill, City of London, Greater London, England, EC3R 8AH, United Kingdom",
+                "class": "historic",
+                "type": "memorial",
+                "snippet": [
+                    "...The Great Fire of London broke out in 1666 in Pudding Lane in the city and quickly swept through the wooden buildings....",
+                    "...Few structures in central London pre-date the Great Fire of 1666, these being a few trace Roman remains, the Tower of London and a few scattered Tudor survivors in the city....",
+                    "...The Monument in the City of London provides views of the surrounding area while commemorating the Great Fire of London, which originated nearby....",
+                    "...Writers closely associated with the city are the diarist Samuel Pepys, noted for his eyewitness account of the Great Fire; Charles Dickens, whose representation of a foggy, snowy, grimy London of street sweepers and pickpockets has been a major influence on people's vision of early Victorian London; and Virginia Woolf, regarded as one of the foremost modernist literary figures of the 20th century...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.226013,
+                    51.510623
+                ]
+            },
+            "properties": {
+                "entity": "Television Centre",
+                "name_location": "White City House, 2, Wood Crescent, London Borough of Hammersmith and Fulham, London, Greater London, England, W12 7FR, United Kingdom",
+                "class": "club",
+                "type": "yes",
+                "snippet": [
+                    "*...London is a major centre for television production, with studios including Television Centre, ITV Studios, Sky Campus and Fountain Studios; the latter hosted the original talent shows, Pop Idol, The X Factor, and Britain's Got Talent, before each format was exported around the world...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.099342,
+                    51.507429
+                ]
+            },
+            "properties": {
+                "entity": "Bankside Power Station",
+                "name_location": "Tate Modern, Bankside, The Borough, London Borough of Southwark, London, Greater London, England, SE1 9TG, United Kingdom",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...In 2000, this collection moved to Tate Modern, a new gallery housed in the former Bankside Power Station which is accessed by pedestrians north of the Thames via the Millennium Bridge...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.157202,
+                    51.493775
+                ]
+            },
+            "properties": {
+                "entity": "Cadogan Hall",
+                "name_location": "Cadogan Hall, 5, Sloane Terrace, Hans Town, Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, England, SW1X 9DQ, United Kingdom",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...The city is also home to many orchestras and concert halls, such as the Barbican Arts Centre (principal base of the London Symphony Orchestra and the London Symphony Chorus), the Southbank Centre (London Philharmonic Orchestra and the Philharmonia Orchestra), Cadogan Hall (Royal Philharmonic Orchestra) and the Royal Albert Hall (The Proms)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.165689,
+                    51.514264
+                ]
+            },
+            "properties": {
+                "entity": "Hyde Park's",
+                "name_location": "Miss Daisy’s Hyde Park, Saint George's Fields, Paddington, London, Greater London, England, W2 2YB, United Kingdom",
+                "class": "amenity",
+                "type": "kindergarten",
+                "snippet": [
+                    "*...Several music festivals, including the Wireless Festival, Lovebox and Hyde Park's British Summer Time, are held in London....",
+                    "*...The largest parks in the central area of London are three of the eight Royal Parks, namely Hyde Park and its neighbour Kensington Gardens in the west, and Regent's Park to the north....",
+                    "*...Hyde Park in particular is popular for sports and sometimes hosts open-air concerts....",
+                    "*...Close to Hyde Park are smaller Royal Parks, Green Park and St. James's Park...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.178226,
+                    51.531988
+                ]
+            },
+            "properties": {
+                "entity": "Abbey Road Studios",
+                "name_location": "Abbey Road Studios, 3, Abbey Road, St. John's Wood, London, Greater London, England, NW8 9AY, United Kingdom",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...The city is home to the original Hard Rock Cafe and the Abbey Road Studios, where The Beatles recorded many of their hits...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.171813,
+                    51.510506
+                ]
+            },
+            "properties": {
+                "entity": "Kensington Gardens",
+                "name_location": "Kensington Gardens, West Carriage Drive, Knightsbridge, London, Greater London, England, W2 2NB, United Kingdom",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...The largest parks in the central area of London are three of the eight Royal Parks, namely Hyde Park and its neighbour Kensington Gardens in the west, and Regent's Park to the north...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.140773,
+                    51.506449
+                ]
+            },
+            "properties": {
+                "entity": "Green Park",
+                "name_location": "Green Park, Arlington Street, St. James's, Mayfair, London, Greater London, England, SW1A 1RP, United Kingdom",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Close to Hyde Park are smaller Royal Parks, Green Park and St. James's Park...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.135194,
+                    51.502655
+                ]
+            },
+            "properties": {
+                "entity": "St. James's Park",
+                "name_location": "St James's Park, Blue Bridge, St. James's, Victoria, London, Greater London, England, SW1H 9AP, United Kingdom",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...Close to Hyde Park are smaller Royal Parks, Green Park and St. James's Park...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.131039,
+                    51.505185
+                ]
+            },
+            "properties": {
+                "entity": "Royal Parks",
+                "name_location": "Royal parks artillery memorial, The Mall, St. James's, Covent Garden, City of Westminster, Greater London, England, SW1Y 5AH, United Kingdom",
+                "class": "amenity",
+                "type": "cafe",
+                "snippet": [
+                    "*...The largest parks in the central area of London are three of the eight Royal Parks, namely Hyde Park and its neighbour Kensington Gardens in the west, and Regent's Park to the north....",
+                    "*...Close to Hyde Park are smaller Royal Parks, Green Park and St. James's Park....",
+                    "*...A number of large parks lie outside the city centre, including Hampstead Heath and the remaining Royal Parks of Greenwich Park to the southeast and Bushy Park and Richmond Park (the largest) to the southwest, Hampton Court Park is also a royal park, but, because it contains a palace, it is administered by the Historic Royal Palaces, unlike the eight Royal Parks....",
+                    "*...Areas that provide for walks include Wimbledon Common, Epping Forest, Hampton Court Park, Hampstead Heath, the eight Royal Parks, canals and disused railway tracks...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.258841,
+                    51.462569
+                ]
+            },
+            "properties": {
+                "entity": "Richmond Park",
+                "name_location": "Richmond Park Academy, Park Avenue, East Sheen, London Borough of Richmond upon Thames, London, Greater London, England, SW14 8RG, United Kingdom",
+                "class": "amenity",
+                "type": "school",
+                "snippet": [
+                    "*...A number of large parks lie outside the city centre, including Hampstead Heath and the remaining Royal Parks of Greenwich Park to the southeast and Bushy Park and Richmond Park (the largest) to the southwest, Hampton Court Park is also a royal park, but, because it contains a palace, it is administered by the Historic Royal Palaces, unlike the eight Royal Parks....",
+                    "*...Close to Richmond Park is Kew Gardens, which has the world's largest collection of living plants...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.078979,
+                    51.507844
+                ]
+            },
+            "properties": {
+                "entity": "Historic Royal Palaces",
+                "name_location": "Historic Royal Palaces, Tower Wharf, Tower Liberty, Wapping, London Borough of Tower Hamlets, London, Greater London, England, EC3N 4DT, United Kingdom",
+                "class": "building",
+                "type": "house",
+                "snippet": [
+                    "...A number of large parks lie outside the city centre, including Hampstead Heath and the remaining Royal Parks of Greenwich Park to the southeast and Bushy Park and Richmond Park (the largest) to the southwest, Hampton Court Park is also a royal park, but, because it contains a palace, it is administered by the Historic Royal Palaces, unlike the eight Royal Parks...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.05269,
+                    51.535005
+                ]
+            },
+            "properties": {
+                "entity": "Victoria Park",
+                "name_location": "Victoria Park (Canal Gate), Regent's Canal towpath, Victoria Park Village, Haggerston, London Borough of Tower Hamlets, London, Greater London, England, E8 4RW, United Kingdom",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...There are also parks administered by London's borough Councils, including Victoria Park in the East End and Battersea Park in the centre...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.154439,
+                    51.482612
+                ]
+            },
+            "properties": {
+                "entity": "Battersea Park",
+                "name_location": "Battersea Park (Chelsea), Terrace Walk, Battersea, London Borough of Wandsworth, London, Greater London, England, SW11 4PL, United Kingdom",
+                "class": "amenity",
+                "type": "parking",
+                "snippet": [
+                    "*...There are also parks administered by London's borough Councils, including Victoria Park in the East End and Battersea Park in the centre...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.193764,
+                    51.452775
+                ]
+            },
+            "properties": {
+                "entity": "Wandle Trail",
+                "name_location": "Wandle Trail, Earlsfield, London Borough of Wandsworth, London, Greater London, England, SW18 4GB, United Kingdom",
+                "class": "highway",
+                "type": "cycleway",
+                "snippet": [
+                    "...Access to canals and rivers has improved recently, including the creation of the Thames Path, some 28 miles (45 km) of which is within Greater London, and The Wandle Trail; this runs 12 miles (19 km) through South London along the River Wandle, a tributary of the River Thames...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.131633,
+                    51.506399
+                ]
+            },
+            "properties": {
+                "entity": "Jubilee Walkway",
+                "name_location": "Jubilee Walkway, Carlton House Terrace, St. James's, Covent Garden, City of Westminster, Greater London, England, SW1Y 5AF, United Kingdom",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...Other long-distance paths, linking green spaces, have also been created, including the Capital Ring, the Green Chain Walk, London Outer Orbital Path (\"Loop\"), Jubilee Walkway, Lea Valley Walk, and the Diana, Princess of Wales Memorial Walk...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.162068,
+                    51.519413
+                ]
+            },
+            "properties": {
+                "entity": "Crystal Palace",
+                "name_location": "Crystal Palace, Crawford Street, Marylebone, London, Greater London, England, W1H 2HA, United Kingdom",
+                "class": "shop",
+                "type": "hairdresser",
+                "snippet": [
+                    "*...London's most popular sport is football, and it has seven clubs in the Premier League in the 2022–23 season: Arsenal, Brentford, Chelsea, Crystal Palace, Fulham, Tottenham Hotspur, and West Ham United...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.171056,
+                    51.552786
+                ]
+            },
+            "properties": {
+                "entity": "Rosslyn Park",
+                "name_location": "Rosslyn Park Mews, Belsize Park, London Borough of Camden, London, Greater London, England, NW3 5NJ, United Kingdom",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Ealing Trailfinders, London Sottish and Richmond play in the RFU Championship; other rugby union clubs in the city include Scottish, Rosslyn Park F.C., Westcombe Park R.F.C. and Blackheath F.C. Twickenham Stadium in south-west London hosts home matches for the England national rugby union team and has a capacity of 82,000 now that the new south stand has been completed...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.215003,
+                    51.434217
+                ]
+            },
+            "properties": {
+                "entity": "All England Club",
+                "name_location": "The All England Lawn Tennis Club, St Mary's Walk, Wimbledon Village, London Borough of Merton, London, Greater London, England, SW19 5JA, United Kingdom",
+                "class": "leisure",
+                "type": "sports_centre",
+                "snippet": [
+                    "...One of London's best-known annual sports competitions is the Wimbledon Tennis Championships, held at the All England Club in the south-western suburb of Wimbledon since 1877...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.266836,
+                    51.468086
+                ]
+            },
+            "properties": {
+                "entity": "Mortlake",
+                "name_location": "Mortlake, Sheen Lane, Mortlake, London Borough of Richmond upon Thames, London, Greater London, England, SW14 8LN, United Kingdom",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Other key events are the annual mass-participation London Marathon, in which some 35,000 runners attempt a 26.2-mile (42.2 km) course around the city, and the University Boat Race on the Thames from Putney to Mortlake..."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,220 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.979113,
+                    56.92316
+                ]
+            },
+            "properties": {
+                "entity": "Riga International Airport",
+                "name_location": "Riga International Airport, Muzeju iela, Mārupes pagasts, Mārupes novads, Vidzeme, LV-1053, Latvia",
+                "class": "aeroway",
+                "type": "terminal",
+                "snippet": [
+                    "*...The city is served by Riga International Airport, the largest and busiest airport in the Baltic states....",
+                    "...Riga has one active airport that serves commercial airlines—the Riga International Airport (RIX), built in 1973....",
+                    "*...The annual number of passengers has grown from 310,000 in 1993 to 4.7 million in 2014, making Riga International Airport the largest in the Baltic States...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.113354,
+                    56.963355
+                ]
+            },
+            "properties": {
+                "entity": "Baltics",
+                "name_location": "KPMG Latvia, 1, Roberta Hirša iela, Skanste, Riga, Vidzeme, LV-1045, Latvia",
+                "class": "office",
+                "type": "accountant",
+                "snippet": [
+                    "*...Riga employed German as its official language of administration until the installation of Russian in 1891 as the official language in the Baltic provinces, as part of the policy of Russification of the non-Russian-speaking territories of the Russian Empire, including Congress Poland, Finland and the Baltics, undertaken by Tsar Alexander III....",
+                    "*...(The mass deportation totalled 131,500 across the Baltics.)...",
+                    "*...Riga Port is one of the largest in the Baltics...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.182765,
+                    56.937948
+                ]
+            },
+            "properties": {
+                "entity": "Riga Port",
+                "name_location": "Idea Port Riga, 91, Dārzciema iela, Dārzciems, Riga, Vidzeme, LV-1073, Latvia",
+                "class": "office",
+                "type": "company",
+                "snippet": [
+                    "*...Riga Port is one of the largest in the Baltics...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.157913,
+                    56.955636
+                ]
+            },
+            "properties": {
+                "entity": "Daugava Stadium",
+                "name_location": "Daugava Stadium, Kroņu iela, Purvciems, Riga, Vidzeme, LV-1012, Latvia",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...FS Metta-LU – founded in 2006. Metta play their home games at Daugava Stadium....",
+                    "...Daugava Stadium – a stadium built in 1958, used for both football and athletics ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.116215,
+                    56.961263
+                ]
+            },
+            "properties": {
+                "entity": "Skonto Stadium",
+                "name_location": "Skonto Stadium, Antonijas iela, Centre, Riga, Vidzeme, LV-1010, Latvia",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...Skonto Stadium – a football stadium, built in 2000. It is the main stadium used for games of the Latvian national football team and the home stadium of Riga FC. The stadium was previously the home stadium of Skonto FC prior to the team's dissolution...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.100784,
+                    56.944454
+                ]
+            },
+            "properties": {
+                "entity": "Stone Bridge",
+                "name_location": "Stone Bridge, Uzvaras bulvāris, Āgenskalns, Riga, Vidzeme, LV-1048, Latvia",
+                "class": "man_made",
+                "type": "bridge",
+                "snippet": [
+                    "...The Stone Bridge (Akmens tilts) connects Old Riga and Pārdaugava; the Island Bridge (Salu tilts) connects Maskavas Forštate and Pārdaugava via Zaķusala; and the Shroud Bridge (Vanšu tilts) connects Old Riga and Pārdaugava via Ķīpsala...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.123985,
+                    56.93524
+                ]
+            },
+            "properties": {
+                "entity": "Island Bridge",
+                "name_location": "Island Bridge, Zaķusalas krastmala, Salas, Riga, Vidzeme, LV-1050, Latvia",
+                "class": "man_made",
+                "type": "bridge",
+                "snippet": [
+                    "...The Stone Bridge (Akmens tilts) connects Old Riga and Pārdaugava; the Island Bridge (Salu tilts) connects Maskavas Forštate and Pārdaugava via Zaķusala; and the Shroud Bridge (Vanšu tilts) connects Old Riga and Pārdaugava via Ķīpsala...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.157192,
+                    56.915799
+                ]
+            },
+            "properties": {
+                "entity": "Southern Bridge",
+                "name_location": "Southern Bridge, Dienvidu tilts, Ķengarags, Riga, Vidzeme, LV-1019, Latvia",
+                "class": "man_made",
+                "type": "bridge",
+                "snippet": [
+                    "*...In 2008, the first stage of the new Southern Bridge (Dienvidu tilts) route across the Daugava was completed, and was opened to traffic on 17 November....",
+                    "...The Southern Bridge was the biggest construction project in the Baltic states in 20 years, and its purpose was to reduce traffic congestion in the city centre...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.119723,
+                    56.94682
+                ]
+            },
+            "properties": {
+                "entity": "Riga Central Station",
+                "name_location": "Riga Central Station, 2, Stacijas laukums, Centre, Riga, Vidzeme, LV-1050, Latvia",
+                "class": "building",
+                "type": "train_station",
+                "snippet": [
+                    "...The main railway station is the Riga Central Station...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.117282,
+                    56.945822
+                ]
+            },
+            "properties": {
+                "entity": "Rail Baltica",
+                "name_location": "Rail Baltica, Gogoļa iela, Centre, Riga, Vidzeme, LV-1050, Latvia",
+                "class": "railway",
+                "type": "construction",
+                "snippet": [
+                    "*...A TEN-T project called Rail Baltica envisages building a high-speed railway line via Riga connecting Tallinn to Warsaw using standard gauge, expected to be put into operation in 2024...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.118001,
+                    56.965681
+                ]
+            },
+            "properties": {
+                "entity": "Jupiter",
+                "name_location": "Jupiter Tower, 7 k-1, Skanstes iela, Skanste, Riga, Vidzeme, LV-1013, Latvia",
+                "class": "building",
+                "type": "office",
+                "snippet": [
+                    "*...Karlis Kaufmanis (1910–2003), astronomer, he lectured that the Star of Bethlehem was a conjunction in 7 BC of the planets Jupiter and Saturn ;..."
+                ]
+            }
+        }
+    ]
+}

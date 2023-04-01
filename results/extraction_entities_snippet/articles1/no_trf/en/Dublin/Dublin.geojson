@@ -1,0 +1,1554 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.261553,
+                    53.346837
+                ]
+            },
+            "properties": {
+                "entity": "River Liffey",
+                "name_location": "Liffey River Cruises, Bachelors Walk, North City ED, Dublin, County Dublin, Leinster, D01 C953, Ireland",
+                "class": "man_made",
+                "type": "pier",
+                "snippet": [
+                    "...On a bay at the mouth of the River Liffey, it is in the province of Leinster, bordered on the south by the Dublin Mountains, a part of the Wicklow Mountains range....",
+                    "...Áth Cliath is a place name referring to a fording point of the River Liffey near Father Mathew Bridge....",
+                    "...Dublin is situated at the mouth of the River Liffey and encompasses a land area of approximately 117.8 square kilometres (45.5 sq mi) in east-central Ireland....",
+                    "*...The River Liffey divides the city in two, between the Northside and the Southside....",
+                    "...A north–south division once, to some extent, traditionally existed, with the River Liffey as the divider....",
+                    "...The Ha'penny Bridge, an iron footbridge over the River Liffey, is one of the most photographed sights in Dublin and is considered to be one of Dublin's most iconic landmarks....",
+                    "...The Phoenix Park is about 3 km (2 miles) west of the city centre, north of the River Liffey....",
+                    "...The best known area for nightlife is Temple Bar, south of the River Liffey...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.238965,
+                    53.247273
+                ]
+            },
+            "properties": {
+                "entity": "Dublin Mountains",
+                "name_location": "Dublin Mountains Way, Tiknock, Glencullen ED, Dún Laoghaire-Rathdown, Dublin 18, Leinster, D18 PF72, Ireland",
+                "class": "highway",
+                "type": "track",
+                "snippet": [
+                    "...On a bay at the mouth of the River Liffey, it is in the province of Leinster, bordered on the south by the Dublin Mountains, a part of the Wicklow Mountains range....",
+                    "...It is bordered by the Dublin Mountains, a low mountain range and sub range of the Wicklow Mountains, to the south and surrounded by flat farmland to the north and west...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.261709,
+                    53.236596
+                ]
+            },
+            "properties": {
+                "entity": "Wicklow Mountains",
+                "name_location": "Wicklow Way, Ballybrack, Glencullen ED, Dún Laoghaire-Rathdown, Dublin 18, Leinster, D18 C8W7, Ireland",
+                "class": "highway",
+                "type": "path",
+                "snippet": [
+                    "...On a bay at the mouth of the River Liffey, it is in the province of Leinster, bordered on the south by the Dublin Mountains, a part of the Wicklow Mountains range....",
+                    "...It is bordered by the Dublin Mountains, a low mountain range and sub range of the Wicklow Mountains, to the south and surrounded by flat farmland to the north and west...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.266351,
+                    53.343761
+                ]
+            },
+            "properties": {
+                "entity": "Dublin Castle",
+                "name_location": "Dublin Castle Gift Shop, Palace Street, Royal Exchange A Ward 1986, Dublin, County Dublin, Leinster, D02 DX00, Ireland",
+                "class": "shop",
+                "type": "gift",
+                "snippet": [
+                    "*...This tidal pool was located where the River Poddle entered the Liffey, on the site of the castle gardens at the rear of Dublin Castle....",
+                    "*...The Dubhlinn lay where the Castle Garden is now located, opposite the Chester Beatty Library within Dublin Castle....",
+                    "*...Dublin Castle, which became the centre of Anglo-Norman power in Ireland, was founded in 1204 as a major defensive work on the orders of King John of England....",
+                    "*...These include the Medieval Quarter (in the area of Dublin Castle, Christ Church and St Patrick's Cathedral and the old city walls), the Georgian Quarter (including the area around St Stephen's Green, Trinity College, and Merrion Square), the Docklands Quarter (around the Dublin Docklands and Silicon Docks), the Cultural Quarter (around Temple Bar), and Creative Quarter (between South William Street and George's Street)....",
+                    "*...One of the oldest is Dublin Castle, which was first founded as a major defensive work on the orders of England's King John in 1204, shortly after the Norman invasion of Ireland in 1169, when it was commanded that a castle be built with strong walls and good ditches for the defence of the city, the administration of justice, and the protection of the King's treasure...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.275749,
+                    53.345537
+                ]
+            },
+            "properties": {
+                "entity": "Dublin Bridge",
+                "name_location": "Father Mathew Bridge, Ins Quay C Ward 1986, Dublin, Dublin 7, Leinster, D07 HK38, Ireland",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...The Viking settlement of about 841, Dyflin, and a Gaelic settlement, Áth Cliath (\"ford of hurdles\") further up the river, at the present-day Father Mathew Bridge (also known as Dublin Bridge), at the bottom of Church Street...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.274712,
+                    53.349191
+                ]
+            },
+            "properties": {
+                "entity": "Church Street",
+                "name_location": "Church Street, Ins Quay C Ward 1986, Dublin, Dublin 7, Leinster, D07 E128, Ireland",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...The Viking settlement of about 841, Dyflin, and a Gaelic settlement, Áth Cliath (\"ford of hurdles\") further up the river, at the present-day Father Mathew Bridge (also known as Dublin Bridge), at the bottom of Church Street...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.265614,
+                    53.340671
+                ]
+            },
+            "properties": {
+                "entity": "Aungier Street",
+                "name_location": "Aungier Street, Royal Exchange B Ward 1986, Dublin, Dublin 2, Leinster, D02 WN47, Ireland",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Baile Átha Cliath was an early Christian monastery, believed to have been in the area of Aungier Street, currently occupied by Whitefriar Street Carmelite Church....",
+                    "*...While some medieval streets and layouts (including the areas around Temple Bar, Aungier Street, Capel Street and Thomas Street) were less affected by the wave of Georgian reconstruction, much of Dublin's architecture and layout dates from this period....",
+                    "*...Dublin Business School (DBS) is Ireland's largest private third level institution with over 9,000 students located on Aungier Street, and Griffith College Dublin has its main facility in Portobello...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.239505,
+                    53.348251
+                ]
+            },
+            "properties": {
+                "entity": "Convention Centre Dublin",
+                "name_location": "The Convention Centre Dublin, 1, North Wall Quay, North Wall, North Dock B ED, Dublin, County Dublin, Leinster, D01 T1W6, Ireland",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...The area of Dublin Bay has been inhabited by humans since prehistoric times, fish traps discovered from excavations during the construction of the Convention Centre Dublin indicate human habitation as far back as 6,000 years ago while further traps were also discovered closer to the old settlement of the city of Dublin on the south quays near St. James's Gate which also indicate mesolithic human activity....",
+                    "...Completed projects include the Convention Centre, the 3Arena, and the Bord Gáis Energy Theatre...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.288428,
+                    53.34356
+                ]
+            },
+            "properties": {
+                "entity": "St. James's Gate",
+                "name_location": "James's Gate, James Street, James's Street, Ushers B ED, Dublin, County Dublin, Leinster, D08 K6CH, Ireland",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...The area of Dublin Bay has been inhabited by humans since prehistoric times, fish traps discovered from excavations during the construction of the Convention Centre Dublin indicate human habitation as far back as 6,000 years ago while further traps were also discovered closer to the old settlement of the city of Dublin on the south quays near St. James's Gate which also indicate mesolithic human activity....",
+                    "...A number of Dublin's traditional industries, such as food processing, textile manufacturing, brewing, and distilling have gradually declined, although Guinness has been brewed at the St. James's Gate Brewery since 1759...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.270296,
+                    53.344961
+                ]
+            },
+            "properties": {
+                "entity": "Wood Quay",
+                "name_location": "Wood Quay, Liffey Cycle Route, Wood Quay A ED, Dublin, County Dublin, Leinster, D07 P497, Ireland",
+                "class": "tourism",
+                "type": "artwork",
+                "snippet": [
+                    "*...The subsequent Scandinavian settlement centred on the River Poddle, a tributary of the Liffey in an area now known as Wood Quay....",
+                    "*...Council meetings occur at Dublin City Hall, while most of its administrative activities are based in the Civic Offices on Wood Quay...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.129138,
+                    53.387983
+                ]
+            },
+            "properties": {
+                "entity": "Irish Sea",
+                "name_location": "Irish Sea Underwater, Dublin Road, Bayside, Sutton DED 1986, Sutton, Fingal, County Dublin, Leinster, D13 Y228, Ireland",
+                "class": "tourism",
+                "type": "artwork",
+                "snippet": [
+                    "*...Prisoners from slave raids and kidnappings, which captured men, women and children, brought revenue to the Gaelic Irish Sea raiders, as well as to the Vikings who had initiated the practice...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.262413,
+                    53.345626
+                ]
+            },
+            "properties": {
+                "entity": "Temple Bar",
+                "name_location": "Temple Bar, Royal Exchange A Ward 1986, Dublin, Dublin 2, Leinster, D02 HY86, Ireland",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Evidence indicating that Anglo-Saxons occupied Dublin before the Vikings arrived in 841 has been found in an archaeological dig in Temple Bar....",
+                    "*...While some medieval streets and layouts (including the areas around Temple Bar, Aungier Street, Capel Street and Thomas Street) were less affected by the wave of Georgian reconstruction, much of Dublin's architecture and layout dates from this period....",
+                    "*...These include the Medieval Quarter (in the area of Dublin Castle, Christ Church and St Patrick's Cathedral and the old city walls), the Georgian Quarter (including the area around St Stephen's Green, Trinity College, and Merrion Square), the Docklands Quarter (around the Dublin Docklands and Silicon Docks), the Cultural Quarter (around Temple Bar), and Creative Quarter (between South William Street and George's Street)....",
+                    "*...Dublin has long had an 'underground' arts scene, with Temple Bar hosting artists in the 1980s, and spaces such as the Project Arts Centre acting as a hub for collectives and new exhibitions....",
+                    "*...The best known area for nightlife is Temple Bar, south of the River Liffey...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.26879,
+                    53.348456
+                ]
+            },
+            "properties": {
+                "entity": "Capel Street",
+                "name_location": "Capel Street, North City Ward 1986, Dublin, Dublin 1, Leinster, D01 E0H2, Ireland",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...While some medieval streets and layouts (including the areas around Temple Bar, Aungier Street, Capel Street and Thomas Street) were less affected by the wave of Georgian reconstruction, much of Dublin's architecture and layout dates from this period...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.277627,
+                    53.342799
+                ]
+            },
+            "properties": {
+                "entity": "Thomas Street",
+                "name_location": "Thomas Street, Merchants Quay A Ward 1986, Dublin, Dublin 8, Leinster, D08 C2W7, Ireland",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...While some medieval streets and layouts (including the areas around Temple Bar, Aungier Street, Capel Street and Thomas Street) were less affected by the wave of Georgian reconstruction, much of Dublin's architecture and layout dates from this period...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.250879,
+                    53.341021
+                ]
+            },
+            "properties": {
+                "entity": "Merrion Square",
+                "name_location": "Merrion Square West, Mansion House B ED, Dublin, Dublin 2, Leinster, D02 FR90, Ireland",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Dublin grew even more dramatically during the 18th century, with the construction of many new districts and buildings, such as Merrion Square, Parliament House and the Royal Exchange....",
+                    "*...These include the Medieval Quarter (in the area of Dublin Castle, Christ Church and St Patrick's Cathedral and the old city walls), the Georgian Quarter (including the area around St Stephen's Green, Trinity College, and Merrion Square), the Docklands Quarter (around the Dublin Docklands and Silicon Docks), the Cultural Quarter (around Temple Bar), and Creative Quarter (between South William Street and George's Street)....",
+                    "*...At Merrion Square, the coldest month is February, with an average minimum temperature of 4.1 °C (39.4 °F), and the warmest month is July, with an average maximum temperature of 20.1 °C (68.2 °F)....",
+                    "*...The average minimum temperature at Merrion Square in July is 13.5 °C (56.3 °F), and the lowest July temperature ever recorded at the station was 7.8 °C (46.0 °F) on 3 July 1974....",
+                    "...Cumulatively, this led to a large decline in the number of people living in the centre of the city, and by 1985 the city had approximately 150 acres of derelict land which had been earmarked for development and 10 million square feet (900 thousand square metres) of office space....",
+                    "...Dublin is situated at the mouth of the River Liffey and encompasses a land area of approximately 117.8 square kilometres (45.5 sq mi) in east-central Ireland....",
+                    "...Largely complete by 1230, the castle was of typical Norman courtyard design, with a central square without a keep, bounded on all sides by tall defensive walls and protected at each corner by a circular tower....",
+                    "...The park, the second largest municipal park in Dublin, is part of a former 2-square-kilometre (0.8 sq mi; 500-acre) estate assembled by members of the Guinness family, beginning with Benjamin Lee Guinness in 1835 (the largest municipal park is nearby (North)...",
+                    "*...Suburban Dublin has several modern retail centres, including Dundrum Town Centre, Blanchardstown Centre, the Square in Tallaght, Liffey Valley Shopping Centre in Clondalkin, Omni Shopping Centre in Santry, Nutgrove Shopping Centre in Rathfarnham, Northside Shopping Centre in Coolock and Swords Pavilions in Swords...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.262333,
+                    53.353617
+                ]
+            },
+            "properties": {
+                "entity": "Garden of Remembrance",
+                "name_location": "#263 Parnell Square, Garden of Remembrance, Parnell Square East, Rotunda A ED, Dublin, County Dublin, Leinster, D01 P5W9, Ireland",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "...One of the memorials to commemorate that time is the Garden of Remembrance...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.258069,
+                    53.340255
+                ]
+            },
+            "properties": {
+                "entity": "Mansion House",
+                "name_location": "The Mansion House, 20, Dawson Street, Mansion House B Ward 1986, Dublin, County Dublin, Leinster, D02 AF30, Ireland",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...It is presided over by the Lord Mayor, who is elected for a yearly term and resides in Dublin's Mansion House....",
+                    "...The First Dáil originally met in the Mansion House in 1919....",
+                    "...Other landmarks and monuments include Christ Church Cathedral and St Patrick's Cathedral, the Mansion House, the Molly Malone statue, the complex of buildings around Leinster House, including part of the National Museum of Ireland and the National Library of Ireland, The Custom House and Áras an Uachtaráin...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.267048,
+                    53.34395
+                ]
+            },
+            "properties": {
+                "entity": "Dublin City Hall",
+                "name_location": "The Right Place, Exchange Court, Royal Exchange A Ward 1986, Dublin, County Dublin, Leinster, D02 VW57, Ireland",
+                "class": "amenity",
+                "type": "cafe",
+                "snippet": [
+                    "*...Council meetings occur at Dublin City Hall, while most of its administrative activities are based in the Civic Offices on Wood Quay...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.255088,
+                    53.340826
+                ]
+            },
+            "properties": {
+                "entity": "Oireachtas",
+                "name_location": "Oireachtas gift shop, Kildare Street, Mansion House B ED, Dublin, County Dublin, Leinster, D02 CY95, Ireland",
+                "class": "shop",
+                "type": "gift",
+                "snippet": [
+                    "*...The Government of the Irish Free State rebuilt the city centre and located the new parliament, the Oireachtas, in Leinster House....",
+                    "*...As the capital city, Dublin is the seat of the national parliament of Ireland, the Oireachtas....",
+                    "*...The President resides in Áras an Uachtaráin in Phoenix Park, while both houses of the Oireachtas meet in Leinster House, a former ducal residence on Kildare Street...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.254572,
+                    53.342093
+                ]
+            },
+            "properties": {
+                "entity": "Kildare Street",
+                "name_location": "Kildare Street, Mansion House B Ward 1986, Dublin, Dublin 2, Leinster, D02 CY95, Ireland",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...The President resides in Áras an Uachtaráin in Phoenix Park, while both houses of the Oireachtas meet in Leinster House, a former ducal residence on Kildare Street....",
+                    "*...Three branches of the National Museum of Ireland are located in Dublin: Archaeology in Kildare Street, Decorative Arts and History in Collins Barracks and Natural History in Merrion Street...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.259291,
+                    53.344771
+                ]
+            },
+            "properties": {
+                "entity": "College Green",
+                "name_location": "College Green, Mansion House A Ward 1986, Dublin, Dublin 2, Leinster, D02 VR66, Ireland",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...The old Irish Houses of Parliament of the Kingdom of Ireland, which dissolved in 1801, are located in College Green....",
+                    "*...It is situated in the city centre, on College Green, and has over 18,000 students...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.258084,
+                    53.348804
+                ]
+            },
+            "properties": {
+                "entity": "Dublin Central",
+                "name_location": "Abbey Street Methodist Church, Abbey Street Lower, North City ED, Dublin, County Dublin, Leinster, D01 V0Y3, Ireland",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...For elections to Dáil Éireann, there are five constituencies that are wholly or predominantly in the Dublin City area: Dublin Central (4 seats), Dublin Bay North (5 seats), Dublin North-West (3 seats), Dublin South-Central (4 seats) and Dublin Bay South (4 seats)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.172471,
+                    53.320201
+                ]
+            },
+            "properties": {
+                "entity": "Dublin Bay South",
+                "name_location": "South Dublin Bay Special Area of Conservation, Great South Wall, Pembroke East A ED, Dublin, Dublin 4, Leinster, D03 X330, Ireland",
+                "class": "leisure",
+                "type": "nature_reserve",
+                "snippet": [
+                    "*...For elections to Dáil Éireann, there are five constituencies that are wholly or predominantly in the Dublin City area: Dublin Central (4 seats), Dublin Bay North (5 seats), Dublin North-West (3 seats), Dublin South-Central (4 seats) and Dublin Bay South (4 seats)....",
+                    "*...The area of Dublin Bay has been inhabited by humans since prehistoric times, fish traps discovered from excavations during the construction of the Convention Centre Dublin indicate human habitation as far back as 6,000 years ago while further traps were also discovered closer to the old settlement of the city of Dublin on the south quays near St. James's Gate which also indicate mesolithic human activity....",
+                    "*...Two secondary rivers further divide the city: the River Tolka, running southeast into Dublin Bay, and the River Dodder running northeast to near the mouth of the Liffey, and these and the Liffey have multiple tributaries...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.279443,
+                    53.338385
+                ]
+            },
+            "properties": {
+                "entity": "Southside",
+                "name_location": "Southside Angling, 125, Cork Street, Merchants Quay C ED, Dublin, County Dublin, Leinster, D08 XH90, Ireland",
+                "class": "shop",
+                "type": "outdoor",
+                "snippet": [
+                    "*...The River Liffey divides the city in two, between the Northside and the Southside....",
+                    "...Two canals – the Grand Canal on the southside and the Royal Canal on the northside – ring the inner city on their way from the west and the River Shannon....",
+                    "...The southside was, in recent times, generally seen as being more affluent and genteel than the northside...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.272479,
+                    53.356376
+                ]
+            },
+            "properties": {
+                "entity": "Royal Canal",
+                "name_location": "Royal Canal Bank, Arran Quay A Ward 1986, Dublin, Dublin 7, Leinster, D07 A562, Ireland",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "...Two canals – the Grand Canal on the southside and the Royal Canal on the northside – ring the inner city on their way from the west and the River Shannon....",
+                    "...The inner orbital route runs approximately around the heart of the Georgian city and the outer orbital route runs primarily along the natural circle formed by Dublin's two canals, the Grand Canal and the Royal Canal, as well as the North and South Circular Roads...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.24718,
+                    53.347849
+                ]
+            },
+            "properties": {
+                "entity": "Dublin Docklands",
+                "name_location": "Dublin Docklands Development Authority, Custom House Quay, North Dock C ED, Dublin, County Dublin, Leinster, D01 KF84, Ireland",
+                "class": "office",
+                "type": "government",
+                "snippet": [
+                    "...These include the Medieval Quarter (in the area of Dublin Castle, Christ Church and St Patrick's Cathedral and the old city walls), the Georgian Quarter (including the area around St Stephen's Green, Trinity College, and Merrion Square), the Docklands Quarter (around the Dublin Docklands and Silicon Docks), the Cultural Quarter (around Temple Bar), and Creative Quarter (between South William Street and George's Street)....",
+                    "...The Celtic Tiger also led to a temporary boom in construction, with large redevelopment projects in the Dublin Docklands and Spencer Dock....",
+                    "*...The 3Arena venue in the Dublin Docklands plays host to visiting global performers...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.262077,
+                    53.342906
+                ]
+            },
+            "properties": {
+                "entity": "South William Street",
+                "name_location": "William Street South, Royal Exchange B Ward 1986, Dublin, Dublin 2, Leinster, D02 VH59, Ireland",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...These include the Medieval Quarter (in the area of Dublin Castle, Christ Church and St Patrick's Cathedral and the old city walls), the Georgian Quarter (including the area around St Stephen's Green, Trinity College, and Merrion Square), the Docklands Quarter (around the Dublin Docklands and Silicon Docks), the Cultural Quarter (around Temple Bar), and Creative Quarter (between South William Street and George's Street)....",
+                    "*...The areas around Leeson Street, Harcourt Street, South William Street and Camden/George's Street are popular nightlife spots for locals...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.348618,
+                    53.295379
+                ]
+            },
+            "properties": {
+                "entity": "east coast",
+                "name_location": "East Coast Print and Publicity, GB3, Sitecast Industrial Estate, Tymon North, Tallaght-Tymon DED 1986, Tallaght, South Dublin, County Dublin, Leinster, D24 PX63, Ireland",
+                "class": "building",
+                "type": "industrial",
+                "snippet": [
+                    "...Dublin's sheltered location on the east coast makes it the driest place in Ireland, receiving only about half the rainfall of the west coast...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.248239,
+                    53.344535
+                ]
+            },
+            "properties": {
+                "entity": "Atlantic",
+                "name_location": "Atlantic, Magennis Place, Mansion House A Ward 1986, Dublin, County Dublin, Leinster, D02 Y729, Ireland",
+                "class": "office",
+                "type": "yes",
+                "snippet": [
+                    "*...Strong Atlantic winds are most common in autumn...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.261041,
+                    53.352457
+                ]
+            },
+            "properties": {
+                "entity": "Spire",
+                "name_location": "Blu Apple Kitchen, 35, O'Connell Street Upper, Rotunda A Ward 1986, Dublin, County Dublin, Leinster, D01 K2X5, Ireland",
+                "class": "shop",
+                "type": "deli",
+                "snippet": [
+                    "*...One of Dublin's newest monuments is the Spire of Dublin, officially entitled the \"Monument of Light.\"...",
+                    "...It is a 121.2-metre (398 ft) conical spire made of stainless steel, located on O'Connell Street where it meets Henry Street and North Earl Street....",
+                    "...The spire was designed by Ian Ritchie Architects, who sought an \"Elegant and dynamic simplicity bridging art and technology\"...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.260588,
+                    53.350955
+                ]
+            },
+            "properties": {
+                "entity": "O'Connell Street",
+                "name_location": "O'Connell Street, O'Connell Street Upper, North City ED, Dublin, County Dublin, Leinster, D01 P5P5, Ireland",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...It is a 121.2-metre (398 ft) conical spire made of stainless steel, located on O'Connell Street where it meets Henry Street and North Earl Street...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.261973,
+                    53.349537
+                ]
+            },
+            "properties": {
+                "entity": "Henry Street",
+                "name_location": "Henry Street, North City Ward 1986, Dublin, Dublin 1, Leinster, D01 F5P2, Ireland",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...It is a 121.2-metre (398 ft) conical spire made of stainless steel, located on O'Connell Street where it meets Henry Street and North Earl Street....",
+                    "*...The city has numerous shopping districts, particularly around Grafton Street and Henry Street...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.259119,
+                    53.349979
+                ]
+            },
+            "properties": {
+                "entity": "North Earl Street",
+                "name_location": "North Earl Street, North City Ward 1986, Dublin, Dublin 1, Leinster, D01 KX67, Ireland",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...It is a 121.2-metre (398 ft) conical spire made of stainless steel, located on O'Connell Street where it meets Henry Street and North Earl Street...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.254251,
+                    53.340307
+                ]
+            },
+            "properties": {
+                "entity": "Leinster House",
+                "name_location": "Leinster House, Kildare Street, Mansion House B ED, Dublin, County Dublin, Leinster, D02 XR20, Ireland",
+                "class": "office",
+                "type": "government",
+                "snippet": [
+                    "*...The Government of the Irish Free State rebuilt the city centre and located the new parliament, the Oireachtas, in Leinster House....",
+                    "*...The President resides in Áras an Uachtaráin in Phoenix Park, while both houses of the Oireachtas meet in Leinster House, a former ducal residence on Kildare Street....",
+                    "*...Although both it and Leinster House were intended to be temporary locations, they became the permanent homes of parliament from then on....",
+                    "*...Other landmarks and monuments include Christ Church Cathedral and St Patrick's Cathedral, the Mansion House, the Molly Malone statue, the complex of buildings around Leinster House, including part of the National Museum of Ireland and the National Library of Ireland, The Custom House and Áras an Uachtaráin...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.294713,
+                    53.348351
+                ]
+            },
+            "properties": {
+                "entity": "Phoenix Park",
+                "name_location": "Phoenix Park Hotel, Infirmary Road, Arran Quay D Ward 1986, Dublin, County Dublin, Leinster, D08 YFF1, Ireland",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...The President resides in Áras an Uachtaráin in Phoenix Park, while both houses of the Oireachtas meet in Leinster House, a former ducal residence on Kildare Street....",
+                    "...Public parks include the Phoenix Park, Herbert Park, St Stephen's Green, Saint Anne's Park and Bull Island....",
+                    "...The Phoenix Park is about 3 km (2 miles) west of the city centre, north of the River Liffey....",
+                    "*...The Great Ireland Run takes place in Dublin's Phoenix Park in mid-April...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.259209,
+                    53.343953
+                ]
+            },
+            "properties": {
+                "entity": "Grafton Street",
+                "name_location": "Grafton Street, Mansion House A Ward 1986, Dublin, Dublin 2, Leinster, D02 C671, Ireland",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...St Stephen's Green is adjacent to one of Dublin's main shopping streets, Grafton Street, and to a shopping centre named after it, while on its surrounding streets are the offices of a number of public bodies....",
+                    "*...There are many pubs across the city centre, with the area around St. Stephen's Green and Grafton Street, especially Harcourt Street, Camden Street, Wexford Street and Leeson Street, the location of many nightclubs and pubs....",
+                    "*...The city has numerous shopping districts, particularly around Grafton Street and Henry Street...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.231571,
+                    53.358039
+                ]
+            },
+            "properties": {
+                "entity": "Dublin Port Tunnel",
+                "name_location": "Dublin Tunnel, Fairview, Clontarf West D Ward 1986, Dublin, Dublin 3, Leinster, D03 AY74, Ireland",
+                "class": "highway",
+                "type": "motorway",
+                "snippet": [
+                    "...The first phase of a proposed eastern bypass for the city is the Dublin Port Tunnel, which officially opened in 2006 to mainly cater for heavy vehicles....",
+                    "*...The tunnel connects Dublin Port and the M1 motorway close to Dublin Airport....",
+                    "*...Dublin Connolly is connected by bus to Dublin Port and ferries run by Irish Ferries and Stena Line to Holyhead for connecting trains on the North Wales Coast Line to Chester, Crewe and London Euston....",
+                    "*...Dublin Connolly to Dublin Port can be reached via Amiens Street, Dublin into Store Street or by Luas via Busáras where Dublin Bus operates services to the Ferry Terminal...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.227991,
+                    53.408219
+                ]
+            },
+            "properties": {
+                "entity": "M1 motorway",
+                "name_location": "Airport Motorway, Priorswood A Ward 1986, Dublin, Fingal, Dublin 17, Leinster, K67 XF78, Ireland",
+                "class": "highway",
+                "type": "motorway",
+                "snippet": [
+                    "...The tunnel connects Dublin Port and the M1 motorway close to Dublin Airport...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.220084,
+                    53.422739
+                ]
+            },
+            "properties": {
+                "entity": "Dublin Airport",
+                "name_location": "Dublin Airport, Airport Motorway, Balgriffin DED 1986, Fingal, County Dublin, Leinster, K67 T8P0, Ireland",
+                "class": "highway",
+                "type": "motorway_junction",
+                "snippet": [
+                    "*...The tunnel connects Dublin Port and the M1 motorway close to Dublin Airport....",
+                    "*...A metro service is proposed under the name of Metrolink, and planned to run from Dublin's northside to Sandyford via Dublin Airport and St. Stephen's Green....",
+                    "*...Dublin Airport (owned and operated by DAA) is located north of Dublin city, near Swords in the administrative county of Fingal....",
+                    "*...Dublin Airport is the 11th busiest in the European Union, and by far the busiest airport on the island of Ireland....",
+                    "*...In 2014, Dublin Airport was the 18th busiest airport in Europe, serving over 21 million passengers....",
+                    "*...From 2010 to 2016, Dublin Airport saw an increase of nearly 9.5 million passengers in its annual traffic, as the number of commercial aircraft movements has similarly followed a growth trend from 163,703 in 2013 to 191,233 in 2015...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.26105,
+                    53.350472
+                ]
+            },
+            "properties": {
+                "entity": "Dublin Bus",
+                "name_location": "Dublin Bus Head Office, 59, O'Connell Street Upper, North City ED, Dublin, County Dublin, Leinster, D01 RX04, Ireland",
+                "class": "office",
+                "type": "company",
+                "snippet": [
+                    "*...The majority of these are provided by Dublin Bus, with a modest number having been transferred to Go Ahead Ireland in 2018....",
+                    "*...A \"Real Time Passenger Information\" system was introduced at Dublin Bus bus stops in 2012 in which signs relay display the projected time of the next buses' arrival based on its GPS position....",
+                    "*...Dublin Connolly to Dublin Port can be reached via Amiens Street, Dublin into Store Street or by Luas via Busáras where Dublin Bus operates services to the Ferry Terminal...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.074327,
+                    53.388987
+                ]
+            },
+            "properties": {
+                "entity": "Howth",
+                "name_location": "Howth, Howth Road, Ben Eadair A ED, Howth, Fingal, County Dublin, Leinster, D13 EY10, Ireland",
+                "class": "building",
+                "type": "train_station",
+                "snippet": [
+                    "*...One of the five lines is the electrified Dublin Area Rapid Transit (DART) line, which runs primarily along the coast of Dublin, comprising 31 stations, from Malahide and Howth southwards as far as Greystones in County Wicklow...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.236486,
+                    53.347504
+                ]
+            },
+            "properties": {
+                "entity": "Irish Rail",
+                "name_location": "Irish Rail, North Wall Quay, North Wall, North Dock B ED, Dublin, County Dublin, Leinster, D01 F7X3, Ireland",
+                "class": "office",
+                "type": "company",
+                "snippet": [
+                    "*...Commuter rail operates on the other four lines using Irish Rail diesel multiple units....",
+                    "*...In 2013, passengers for DART and Dublin Suburban lines were 16 million and 11.7 million, respectively (around 75% of all Irish Rail passengers)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.259823,
+                    53.348307
+                ]
+            },
+            "properties": {
+                "entity": "Red Line",
+                "name_location": "Luas Green Line to Red Line Connection, O'Connell Street Lower, North City ED, Dublin, County Dublin, Leinster, D01 W2V3, Ireland",
+                "class": "railway",
+                "type": "tram",
+                "snippet": [
+                    "*...The network consists of two interconnecting lines; the Red Line links the Docklands and city centre with the south-western suburbs of Tallaght and Saggart, while the Green Line connects northern inner city suburbs and the main city centre with suburbs to the south of the city including Sandyford and Brides Glen...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.259927,
+                    53.348843
+                ]
+            },
+            "properties": {
+                "entity": "Green Line",
+                "name_location": "Luas Green Line, Sackville Place, North City ED, Dublin, County Dublin, Leinster, D01 V0C7, Ireland",
+                "class": "railway",
+                "type": "tram",
+                "snippet": [
+                    "...The network consists of two interconnecting lines; the Red Line links the Docklands and city centre with the south-western suburbs of Tallaght and Saggart, while the Green Line connects northern inner city suburbs and the main city centre with suburbs to the south of the city including Sandyford and Brides Glen....",
+                    "...Construction of a 6 km extension to the Green Line, bringing it into the north of the city, commenced in June 2013 and was opened for passenger travel on 9 December 2017...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.250693,
+                    53.350324
+                ]
+            },
+            "properties": {
+                "entity": "Amiens Street",
+                "name_location": "Amiens Street, Mountjoy A Ward 1986, Dublin, Dublin 1, Leinster, D01 FK19, Ireland",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Dublin Connolly to Dublin Port can be reached via Amiens Street, Dublin into Store Street or by Luas via Busáras where Dublin Bus operates services to the Ferry Terminal...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.447911,
+                    53.30111
+                ]
+            },
+            "properties": {
+                "entity": "Casement Aerodrome",
+                "name_location": "Casement Aerodrome, Baldonnel, Naas Road, Saggart DED 1986, Saggart, South Dublin, County Dublin, Leinster, D22 W1H9, Ireland",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "*...Dublin is also served by Weston Airport and other small facilities, by a range of helicopter operators, and the military and some State services use Casement Aerodrome nearby...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.258791,
+                    53.339488
+                ]
+            },
+            "properties": {
+                "entity": "St. Stephen's Green",
+                "name_location": "St. Stephen's Green, Mansion House B ED, Dublin, Dublin 2, Leinster, D02 TK33, Ireland",
+                "class": "highway",
+                "type": "unclassified",
+                "snippet": [
+                    "...A metro service is proposed under the name of Metrolink, and planned to run from Dublin's northside to Sandyford via Dublin Airport and St. Stephen's Green....",
+                    "*...The Royal College of Surgeons in Ireland (RCSI) conducts a medical school which is both a university (since 2019) and a recognised college of the NUI, and is situated at St. Stephen's Green in the city centre; there are also large medical schools within UCD and Trinity College....",
+                    "...There are many pubs across the city centre, with the area around St. Stephen's Green and Grafton Street, especially Harcourt Street, Camden Street, Wexford Street and Leeson Street, the location of many nightclubs and pubs....",
+                    "*...A metro service is proposed under the name of Metrolink, and planned to run from Dublin's northside to Sandyford via Dublin Airport and St. Stephen's Green....",
+                    "*...There are many pubs across the city centre, with the area around St. Stephen's Green and Grafton Street, especially Harcourt Street, Camden Street, Wexford Street and Leeson Street, the location of many nightclubs and pubs...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.269824,
+                    53.344533
+                ]
+            },
+            "properties": {
+                "entity": "Fishamble Street",
+                "name_location": "Fishamble Street, Temple Bar, Royal Exchange A Ward 1986, Dublin, Dublin 8, Leinster, D08 XW20, Ireland",
+                "class": "highway",
+                "type": "unclassified",
+                "snippet": [
+                    "*...Handel's oratorio Messiah was first performed at Neal's Music Hall, in Fishamble Street, on 13 April 1742...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.238618,
+                    53.342876
+                ]
+            },
+            "properties": {
+                "entity": "Grand Canal Dock",
+                "name_location": "Grand Canal Dock, Grand Canal Square, Dublin Docklands, South Dock ED, Dublin, County Dublin, Leinster, D02 E295, Ireland",
+                "class": "amenity",
+                "type": "bicycle_rental",
+                "snippet": [
+                    "...The Grand Canal Theatre is a newer 2,111 capacity theatre which opened in 2010 in the Grand Canal Dock area....",
+                    "...Two canals – the Grand Canal on the southside and the Royal Canal on the northside – ring the inner city on their way from the west and the River Shannon....",
+                    "...The inner orbital route runs approximately around the heart of the Georgian city and the outer orbital route runs primarily along the natural circle formed by Dublin's two canals, the Grand Canal and the Royal Canal, as well as the North and South Circular Roads....",
+                    "*...The best known theatres include the Gaiety, Abbey, Olympia, Gate, and Grand Canal...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.265021,
+                    53.350752
+                ]
+            },
+            "properties": {
+                "entity": "Asia",
+                "name_location": "Star Asia Foods, Parnell Street, North City ED, Dublin, County Dublin, Leinster, D01 H578, Ireland",
+                "class": "shop",
+                "type": "supermarket",
+                "snippet": [
+                    "*...The collections date from 2700 BCE onwards and are drawn from Asia, the Middle East, North Africa and Europe...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.26489,
+                    53.354525
+                ]
+            },
+            "properties": {
+                "entity": "Hugh Lane Municipal Gallery",
+                "name_location": "Hugh Lane Gallery, 22, Parnell Square North, Rotunda B ED, Dublin, County Dublin, Leinster, D01 E7C1, Ireland",
+                "class": "tourism",
+                "type": "gallery",
+                "snippet": [
+                    "...In addition public art galleries are found across the city and are free to visit, including the Irish Museum of Modern Art, the National Gallery, the Hugh Lane Municipal Gallery, the Douglas Hyde Gallery, the Project Arts Centre and the exhibition space of the Royal Hibernian Academy...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.250102,
+                    53.341809
+                ]
+            },
+            "properties": {
+                "entity": "Merrion Street",
+                "name_location": "Merrion Street Lower, Mansion House A Ward 1986, Dublin, Dublin 2, Leinster, D02 KD51, Ireland",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Three branches of the National Museum of Ireland are located in Dublin: Archaeology in Kildare Street, Decorative Arts and History in Collins Barracks and Natural History in Merrion Street...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.262607,
+                    53.337642
+                ]
+            },
+            "properties": {
+                "entity": "Harcourt Street",
+                "name_location": "Harcourt Street, Royal Exchange B Ward 1986, Dublin, Dublin 2, Leinster, D02 VH98, Ireland",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...There are many pubs across the city centre, with the area around St. Stephen's Green and Grafton Street, especially Harcourt Street, Camden Street, Wexford Street and Leeson Street, the location of many nightclubs and pubs....",
+                    "*...The areas around Leeson Street, Harcourt Street, South William Street and Camden/George's Street are popular nightlife spots for locals...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.265158,
+                    53.334399
+                ]
+            },
+            "properties": {
+                "entity": "Camden Street",
+                "name_location": "Camden Street, Camden Street Lower, Saint Kevin's ED, Dublin, County Dublin, Leinster, D02 WK72, Ireland",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...There are many pubs across the city centre, with the area around St. Stephen's Green and Grafton Street, especially Harcourt Street, Camden Street, Wexford Street and Leeson Street, the location of many nightclubs and pubs...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.265603,
+                    53.337494
+                ]
+            },
+            "properties": {
+                "entity": "Wexford Street",
+                "name_location": "Wexford Street, Royal Exchange B Ward 1986, Dublin, Dublin 2, Leinster, D02 CH68, Ireland",
+                "class": "highway",
+                "type": "secondary_link",
+                "snippet": [
+                    "*...There are many pubs across the city centre, with the area around St. Stephen's Green and Grafton Street, especially Harcourt Street, Camden Street, Wexford Street and Leeson Street, the location of many nightclubs and pubs...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.256149,
+                    53.335108
+                ]
+            },
+            "properties": {
+                "entity": "Leeson Street",
+                "name_location": "Leeson Street, Leeson Walk, Saint Kevins Ward 1986, Dublin, County Dublin, Leinster, D02 CC60, Ireland",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...There are many pubs across the city centre, with the area around St. Stephen's Green and Grafton Street, especially Harcourt Street, Camden Street, Wexford Street and Leeson Street, the location of many nightclubs and pubs....",
+                    "*...The areas around Leeson Street, Harcourt Street, South William Street and Camden/George's Street are popular nightlife spots for locals...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.262508,
+                    53.350102
+                ]
+            },
+            "properties": {
+                "entity": "Moore Street",
+                "name_location": "Moore Street, North City Ward 1986, Dublin, Dublin 1, Leinster, D01 TV20, Ireland",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...While the city has seen the loss of some traditional market sites, Moore Street remains one of the city's oldest trading districts...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.243644,
+                    53.288238
+                ]
+            },
+            "properties": {
+                "entity": "Dundrum Town Centre",
+                "name_location": "First Floor Restaurant & Bar, Sandyford Road, Dundrum, Dundrum-Sandyford DED 1986, Dún Laoghaire-Rathdown, County Dublin, Leinster, D16 W0C0, Ireland",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...Suburban Dublin has several modern retail centres, including Dundrum Town Centre, Blanchardstown Centre, the Square in Tallaght, Liffey Valley Shopping Centre in Clondalkin, Omni Shopping Centre in Santry, Nutgrove Shopping Centre in Rathfarnham, Northside Shopping Centre in Coolock and Swords Pavilions in Swords...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.387462,
+                    53.391419
+                ]
+            },
+            "properties": {
+                "entity": "Blanchardstown Centre",
+                "name_location": "Blanchardstown Centre, Blanchardstown-Coolmine DED 1986, Blanchardstown, Fingal, Dublin 15, Leinster, D15 ED86, Ireland",
+                "class": "highway",
+                "type": "unclassified",
+                "snippet": [
+                    "*...Suburban Dublin has several modern retail centres, including Dundrum Town Centre, Blanchardstown Centre, the Square in Tallaght, Liffey Valley Shopping Centre in Clondalkin, Omni Shopping Centre in Santry, Nutgrove Shopping Centre in Rathfarnham, Northside Shopping Centre in Coolock and Swords Pavilions in Swords...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.390352,
+                    53.353111
+                ]
+            },
+            "properties": {
+                "entity": "Liffey Valley Shopping Centre",
+                "name_location": "Liffey Valley Shopping Centre, Bóthar na Life, Palmerstown West DED 1986, South Dublin, County Dublin, Leinster, D20 VP26, Ireland",
+                "class": "shop",
+                "type": "mall",
+                "snippet": [
+                    "*...Suburban Dublin has several modern retail centres, including Dundrum Town Centre, Blanchardstown Centre, the Square in Tallaght, Liffey Valley Shopping Centre in Clondalkin, Omni Shopping Centre in Santry, Nutgrove Shopping Centre in Rathfarnham, Northside Shopping Centre in Coolock and Swords Pavilions in Swords...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.248641,
+                    53.391586
+                ]
+            },
+            "properties": {
+                "entity": "Omni Shopping Centre",
+                "name_location": "Santry Post Office, Swords Road, Santry, Whitehall C Ward 1896, Dublin, County Dublin, Leinster, D09 KP73, Ireland",
+                "class": "amenity",
+                "type": "post_office",
+                "snippet": [
+                    "*...Suburban Dublin has several modern retail centres, including Dundrum Town Centre, Blanchardstown Centre, the Square in Tallaght, Liffey Valley Shopping Centre in Clondalkin, Omni Shopping Centre in Santry, Nutgrove Shopping Centre in Rathfarnham, Northside Shopping Centre in Coolock and Swords Pavilions in Swords...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.267149,
+                    53.291685
+                ]
+            },
+            "properties": {
+                "entity": "Nutgrove Shopping Centre",
+                "name_location": "Nutgrove Shopping Centre, Nutgrove Avenue, Whitehall, Rathfarnham South ED, Dundrum, Dún Laoghaire-Rathdown, County Dublin, Leinster, D14 F5X7, Ireland",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Suburban Dublin has several modern retail centres, including Dundrum Town Centre, Blanchardstown Centre, the Square in Tallaght, Liffey Valley Shopping Centre in Clondalkin, Omni Shopping Centre in Santry, Nutgrove Shopping Centre in Rathfarnham, Northside Shopping Centre in Coolock and Swords Pavilions in Swords...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.213837,
+                    53.395412
+                ]
+            },
+            "properties": {
+                "entity": "Northside Shopping Centre",
+                "name_location": "Alfa Medics, Oscar Traynor Road, Kilmore C Ward 1986, Dublin, County Dublin, Leinster, D05 N7F2, Ireland",
+                "class": "amenity",
+                "type": "doctors",
+                "snippet": [
+                    "*...Suburban Dublin has several modern retail centres, including Dundrum Town Centre, Blanchardstown Centre, the Square in Tallaght, Liffey Valley Shopping Centre in Clondalkin, Omni Shopping Centre in Santry, Nutgrove Shopping Centre in Rathfarnham, Northside Shopping Centre in Coolock and Swords Pavilions in Swords...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.235308,
+                    53.332443
+                ]
+            },
+            "properties": {
+                "entity": "Lansdowne Road",
+                "name_location": "Lansdowne Road, Pembroke West A Ward, Dublin, Dublin 4, Leinster, D04 D687, Ireland",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...During the redevelopment of Lansdowne Road, Croke Park played host to the Irish Rugby Union Team and Republic of Ireland national football team as well as hosting the Heineken Cup rugby 2008–09 semi-final between Munster and Leinster, which set a world record attendance for a club rugby match....",
+                    "*...IRFU Stadium Lansdowne Road was laid out in 1874....",
+                    "...Lansdowne Road/Aviva Stadium hosted the Heineken Cup final in 1999, 2003, and 2013, and is also due to host the 2023 final...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.250981,
+                    53.360358
+                ]
+            },
+            "properties": {
+                "entity": "Croke Park",
+                "name_location": "Croke Park, Jones's Road, Ballybough B ED, Dublin, Dublin 3, Leinster, D01 WY49, Ireland",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...Croke Park is the largest sport stadium in Ireland....",
+                    "*...During the redevelopment of Lansdowne Road, Croke Park played host to the Irish Rugby Union Team and Republic of Ireland national football team as well as hosting the Heineken Cup rugby 2008–09 semi-final between Munster and Leinster, which set a world record attendance for a club rugby match...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.216414,
+                    53.373115
+                ]
+            },
+            "properties": {
+                "entity": "Parnell Park",
+                "name_location": "Parnell Park, Clancarthy Road, Donnycarney, Clontarf West B ED, Dublin, County Dublin, Leinster, D05 Y4T8, Ireland",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...The Dublin GAA team plays most of their home league hurling games at Parnell Park...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.228178,
+                    53.335233
+                ]
+            },
+            "properties": {
+                "entity": "Aviva Stadium",
+                "name_location": "Aviva Stadium, Lansdowne Road, Pembroke West A Ward, Dublin, County Dublin, Leinster, D04 F3C7, Ireland",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...A joint venture between the Irish Rugby Football Union, the FAI and the Government, saw it redeveloped into a new state-of-the-art 50,000 seat Aviva Stadium, which opened in May 2010....",
+                    "...Lansdowne Road/Aviva Stadium hosted the Heineken Cup final in 1999, 2003, and 2013, and is also due to host the 2023 final....",
+                    "...Rugby union team Leinster Rugby play their competitive home games in the RDS Arena & the Aviva Stadium while Donnybrook Stadium hosts their friendlies and A games, Ireland A and Women, Leinster Schools and Youths and the home club games of All Ireland League clubs Old Wesley and Bective Rangers....",
+                    "*...Aviva Stadium hosted the 2011 UEFA Europa League Final...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.233223,
+                    53.320853
+                ]
+            },
+            "properties": {
+                "entity": "Donnybrook Stadium",
+                "name_location": "Energia Park, Donnybrook Road, Pembroke West B ED, Dublin, County Dublin, Leinster, D04 T8X2, Ireland",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...Rugby union team Leinster Rugby play their competitive home games in the RDS Arena & the Aviva Stadium while Donnybrook Stadium hosts their friendlies and A games, Ireland A and Women, Leinster Schools and Youths and the home club games of All Ireland League clubs Old Wesley and Bective Rangers...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3738,
+                    53.28336
+                ]
+            },
+            "properties": {
+                "entity": "Tallaght Stadium",
+                "name_location": "Tallaght Stadium, Whitestown Way, Tallaght-Oldbawn DED 1986, Tallaght, South Dublin, County Dublin, Leinster, D24 XC9W, Ireland",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...The first Irish side to reach the group stages of a European competition (2011–12 UEFA Europa League group stage) are Shamrock Rovers, who play at Tallaght Stadium in South Dublin....",
+                    "*...Tolka Park, Dalymount Park, UCD Bowl and Tallaght Stadium, along with the Carlisle Grounds in Bray, hosted all Group 3 games in the intermediary round of the 2011 UEFA Regions' Cup...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.316733,
+                    53.340871
+                ]
+            },
+            "properties": {
+                "entity": "Richmond Park",
+                "name_location": "Richmond Park, Kilmainham Bank, Kilmainham C ED, Dublin, County Dublin, Leinster, D08 FF97, Ireland",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...St Patrick's Athletic play at Richmond Park; University College Dublin at the UCD Bowl in Dún Laoghaire–Rathdown; and Shelbourne at Tolka Park...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.228121,
+                    53.310448
+                ]
+            },
+            "properties": {
+                "entity": "UCD Bowl",
+                "name_location": "UCD Bowl, Greenfield Park, Greenfield, Roebuck, Clonskeagh-Belfield DED 1986, Dublin, Dún Laoghaire-Rathdown, County Dublin, Leinster, D04 XT65, Ireland",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "...St Patrick's Athletic play at Richmond Park; University College Dublin at the UCD Bowl in Dún Laoghaire–Rathdown; and Shelbourne at Tolka Park....",
+                    "*...Tolka Park, Dalymount Park, UCD Bowl and Tallaght Stadium, along with the Carlisle Grounds in Bray, hosted all Group 3 games in the intermediary round of the 2011 UEFA Regions' Cup...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.251982,
+                    53.367557
+                ]
+            },
+            "properties": {
+                "entity": "Tolka Park",
+                "name_location": "Tolka Park, Richmond Road, Drumcondra South A ED, Dublin, Dublin 3, Leinster, D09 E9R3, Ireland",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...St Patrick's Athletic play at Richmond Park; University College Dublin at the UCD Bowl in Dún Laoghaire–Rathdown; and Shelbourne at Tolka Park....",
+                    "*...Tolka Park, Dalymount Park, UCD Bowl and Tallaght Stadium, along with the Carlisle Grounds in Bray, hosted all Group 3 games in the intermediary round of the 2011 UEFA Regions' Cup...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.208264,
+                    53.362714
+                ]
+            },
+            "properties": {
+                "entity": "Castle Avenue",
+                "name_location": "Castle Avenue, Clontarf East D Ward 1986, Dublin, Dublin 3, Leinster, D03 WR23, Ireland",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Dublin has two ODI cricket grounds in Castle Avenue (Clontarf Cricket Club) and Malahide Cricket Club Ground...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.305521,
+                    53.303924
+                ]
+            },
+            "properties": {
+                "entity": "College Park",
+                "name_location": "College Park, Kimmage, Templeogue-Kimmage Manor DED 1986, South Dublin, Dublin 6W, Leinster, D12 P5YP, Ireland",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...College Park has Test status and played host to Ireland's first Test cricket match, a women's match against Pakistan in 2000....",
+                    "*...Leinster Lightning play their home inter-provincial matches in Dublin at College Park...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.230197,
+                    53.340479
+                ]
+            },
+            "properties": {
+                "entity": "Shelbourne Park",
+                "name_location": "Shelbourne Park, Fitzwilliam Quay, Ringsend, Pembroke East A Ward 1986, Dublin, County Dublin, Leinster, D04 W5C3, Ireland",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...The Dublin area hosts greyhound racing at Shelbourne Park and horse racing at Leopardstown...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.280282,
+                    53.330801
+                ]
+            },
+            "properties": {
+                "entity": "National Stadium",
+                "name_location": "National Stadium, South Circular Road, Merchants Quay E ED, Dublin, County Dublin, Leinster, D08 KVY4, Ireland",
+                "class": "amenity",
+                "type": "public",
+                "snippet": [
+                    "...The national boxing arena is located in The National Stadium on the South Circular Road...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.24503,
+                    53.400884
+                ]
+            },
+            "properties": {
+                "entity": "Morton Stadium",
+                "name_location": "Morton Stadium, Swords Road, Santry, Airport ED, Fingal, County Dublin, Leinster, D09 X6X4, Ireland",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...There are also Gaelic Handball, hockey and athletics stadia, most notably Morton Stadium in Santry, which held the athletics events of the 2003 Special Olympics...."
+                ]
+            }
+        }
+    ]
+}

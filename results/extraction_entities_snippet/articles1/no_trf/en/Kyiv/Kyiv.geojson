@@ -1,0 +1,336 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.538062,
+                    50.445827
+                ]
+            },
+            "properties": {
+                "entity": "Кїєвъ",
+                "name_location": "Kyiv, 26/1, Mykhaila Hrushevskoho Street, Урядовий квартал, Lypky, Клов, Pecherskyi district, Kyiv, 01021, Ukraine",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...Old East Slavic chronicles, such as the Laurentian Codex and Novgorod Chronicle, used the spellings Києвъ, Къıєвъ, or Кїєвъ...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.467397,
+                    50.473091
+                ]
+            },
+            "properties": {
+                "entity": "Kyiv region",
+                "name_location": "Kyiv Region Clinical Hospital 1, 1, Загорівська вулиця, Загорівщина, Lukyanivka, Shevchenkivskyi district, Kyiv, 04052, Ukraine",
+                "class": "amenity",
+                "type": "hospital",
+                "snippet": [
+                    "...With the 1569 Union of Lublin, when the Polish–Lithuanian Commonwealth was established, the Lithuanian-controlled lands of the Kyiv region (Podolia, Volhynia, and Podlachia) were transferred from the Grand Duchy of Lithuania to the Crown of the Kingdom of Poland, and Kyiv became the capital of Kyiv Voivodeship...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.89998,
+                    51.307844
+                ]
+            },
+            "properties": {
+                "entity": "Chernobyl Nuclear Power Plant",
+                "name_location": "Chernobyl Nuclear Power Plant Zone of Alienation, Vyshhorod Raion, Kyiv Oblast, Ukraine",
+                "class": "military",
+                "type": "danger_area",
+                "snippet": [
+                    "...The catastrophic accident at the Chernobyl Nuclear Power Plant in 1986 occurred only 100 km (62 mi) north of the city...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.786113,
+                    50.504877
+                ]
+            },
+            "properties": {
+                "entity": "Hrushevskoho Street",
+                "name_location": "Hrushevskoho Street, 10-й мікрорайон, Pereizd, Brovary, Броварська міська громада, Brovary Raion, Kyiv Oblast, 07400, Ukraine",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Most key buildings of the national government are along Hrushevskoho Street (vulytsia Mykhaila Hrushevskoho) and Institute Street (vulytsia Instytutska)....",
+                    "*...Hrushevskoho Street is named after the Ukrainian academician, politician, historian, and statesman Mykhailo Hrushevskyi, who wrote an academic book titled: \"Bar Starostvo: Historical Notes: XV-XVIII\" about the history of Bar, Ukraine...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.524607,
+                    50.450358
+                ]
+            },
+            "properties": {
+                "entity": "Khreshchatyk Street",
+                "name_location": "Khreshchatyk Street, Урядовий квартал, Бегічевська Гора, Клов, Pecherskyi district, Kyiv, 01028, Ukraine",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...The city state administration and council is in the Kyiv City council building on Khreshchatyk Street...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.524607,
+                    50.450358
+                ]
+            },
+            "properties": {
+                "entity": "Independence Square",
+                "name_location": "Independence Square, Центр, Shevchenkivskyi district, Kyiv, 01028, Ukraine",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...In the discussions that centered on how to create a showcase city center, the current city center of Khreshchatyk and Maidan Nezalezhnosti (Independence Square) were not the obvious choices....",
+                    "*...On Independence Square in the city centre, two monuments elevate two of the city protectors; the historic protector of Kyiv Michael Archangel atop a reconstruction of one of the old city's gates and a modern invention, the goddess-protector Berehynia atop a tall column....",
+                    "...However, the peak of summer draws out a greater mass of people to the shores for swimming or sunbathing, with daytime high temperatures sometimes reaching 30 to 34 °C (86 to 93 °F).[citation needed]\nThe centre of Kyiv (Independence Square and Khreschatyk Street) becomes a large outdoor party place at night during summer months, with thousands of people having a good time in nearby restaurants, clubs and outdoor cafes...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.527402,
+                    50.4521
+                ]
+            },
+            "properties": {
+                "entity": "European Square",
+                "name_location": "European Square, Го́род Володимира, Центр, Shevchenkivskyi district, Kyiv, 01008, Ukraine",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Some of the early, ultimately not materialised, ideas included a part of Pechersk, Lypky, European Square, and Mykhailivska Square...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.520177,
+                    50.455216
+                ]
+            },
+            "properties": {
+                "entity": "Mykhailivska Square",
+                "name_location": "Mykhailivska Square, Го́род Володимира, Old Kyiv, Центр, Shevchenkivskyi district, Kyiv, 01025, Ukraine",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Some of the early, ultimately not materialised, ideas included a part of Pechersk, Lypky, European Square, and Mykhailivska Square...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.515394,
+                    50.445891
+                ]
+            },
+            "properties": {
+                "entity": "Golden Gate",
+                "name_location": "Golden Gate, Bohdana Khmelnytskoho Street, Афанасівський яр, Центр, Shevchenkivskyi district, Kyiv, 01601, Ukraine",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Noteworthy historical architectural landmarks also include the Mariinskyi Palace (designed and constructed from 1745 to 1752, then reconstructed in 1870), several Eastern Orthodox churches such as St. Michael's Cathedral, St. Andrew's, St. Vladimir's, the reconstructed Golden Gate and others....",
+                    "...The Golden Gate is a historic gateway in the ancient city's walls...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.514249,
+                    50.452912
+                ]
+            },
+            "properties": {
+                "entity": "St. Sophia Cathedral",
+                "name_location": "Saint Sophia Cathedral, Volodymyrska Street, Го́род Володимира, Old Kyiv, Центр, Shevchenkivskyi district, Kyiv, 01028, Ukraine",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "...Kyiv's most famous historical architecture complexes are the St. Sophia Cathedral and the Kyiv Pechersk Lavra (Monastery of the Caves), which are recognized by UNESCO as a World Heritage Site....",
+                    "*...Among Kyiv's best-known monuments are Mikhail Mikeshin's statue of Bohdan Khmelnytsky astride his horse near St. Sophia Cathedral, the venerated Vladimir the Great (St. Vladimir), the baptizer of Rus', overlooking the river above Podil from Saint Vladimir Hill, the monument to Kyi, Shchek and Khoryv and Lybid, the legendary founders of the city at the Dnieper embankment...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.524607,
+                    50.450358
+                ]
+            },
+            "properties": {
+                "entity": "Khreschatyk Street",
+                "name_location": "Khreshchatyk Street, Урядовий квартал, Бегічевська Гора, Клов, Pecherskyi district, Kyiv, 01028, Ukraine",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...However, the peak of summer draws out a greater mass of people to the shores for swimming or sunbathing, with daytime high temperatures sometimes reaching 30 to 34 °C (86 to 93 °F).[citation needed]\nThe centre of Kyiv (Independence Square and Khreschatyk Street) becomes a large outdoor party place at night during summer months, with thousands of people having a good time in nearby restaurants, clubs and outdoor cafes...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.46496,
+                    50.455415
+                ]
+            },
+            "properties": {
+                "entity": "Kyiv Zoo",
+                "name_location": "Kyiv Zoo, Shuliavska Street, Shulyavka, Shevchenkivskyi district, Kyiv, 03055, Ukraine",
+                "class": "tourism",
+                "type": "zoo",
+                "snippet": [
+                    "*...The 100-year-old Kyiv Zoo is on 40 hectares and according to CBC \"the zoo has 2,600 animals from 328 species\"...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.530904,
+                    50.431204
+                ]
+            },
+            "properties": {
+                "entity": "Kyiv Fortress",
+                "name_location": "Kyiv fortress, Hospitalnyi Lane, Черепанова гора, Клов, Pecherskyi district, Kyiv, 01023, Ukraine",
+                "class": "historic",
+                "type": "castle",
+                "snippet": [
+                    "...Kyiv fortress is the 19th-century fortification buildings situated in Ukrainian capital Kyiv, that once belonged to western Russian fortresses....",
+                    "...Some of the buildings are restored and turned into a museum called the Kyiv Fortress, while others are in use in various military and commercial installations...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.521257,
+                    50.434926
+                ]
+            },
+            "properties": {
+                "entity": "Dynamo Kyiv",
+                "name_location": "FC Dynamo Kyiv Fan Shop, Esplanadna Street, Левашовська Гора, Бессарабка, Клов, Pecherskyi district, Kyiv, 01023, Ukraine",
+                "class": "shop",
+                "type": "gift",
+                "snippet": [
+                    "*...Kyiv has many professional and amateur football clubs, including Dynamo Kyiv, Arsenal Kyiv and FC Obolon Kyiv but only Dynamo Kyiv play in the Ukrainian Premier League....",
+                    "*...Of these three, Dynamo Kyiv has had the most success over the course of its history...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.521349,
+                    50.433497
+                ]
+            },
+            "properties": {
+                "entity": "Olympic Stadium",
+                "name_location": "Olimpiyskiy National Sports Complex, 55, Velyka Vasylkivska Street, Клов, Pecherskyi district, Kyiv, 03150, Ukraine",
+                "class": "leisure",
+                "type": "sports_centre",
+                "snippet": [
+                    "...During the 1980 Summer Olympics held in the Soviet Union, Kyiv held the preliminary matches and the quarter-finals of the football tournament at its Olympic Stadium, which was reconstructed specially for the event....",
+                    "*...The Ukraine national football team, for example, will play matches at the re-constructed Olympic Stadium from 2011...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.498369,
+                    50.507807
+                ]
+            },
+            "properties": {
+                "entity": "Dream Town",
+                "name_location": "ТРЦ \"Dream yellow\", 1б, Obolonskyi Avenue, Obolon, Obolonskyi district, Kyiv, 04205, Ukraine",
+                "class": "shop",
+                "type": "mall",
+                "snippet": [
+                    "*...Kyiv also ranks high in terms of commercial real estate and has Ukraine's tallest office buildings (such as Gulliver and Parus) and some of Ukraine's biggest shopping malls (such as Dream Town and Ocean Plaza)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.52337,
+                    50.412227
+                ]
+            },
+            "properties": {
+                "entity": "Ocean Plaza",
+                "name_location": "Vitto Rossi, 176, Antonovycha Street, Demiivka, Holosiivskyi District, Kyiv, 03150, Ukraine",
+                "class": "shop",
+                "type": "shoes",
+                "snippet": [
+                    "*...Kyiv also ranks high in terms of commercial real estate and has Ukraine's tallest office buildings (such as Gulliver and Parus) and some of Ukraine's biggest shopping malls (such as Dream Town and Ocean Plaza)...."
+                ]
+            }
+        }
+    ]
+}

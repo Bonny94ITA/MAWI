@@ -1,0 +1,429 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.835563,
+                    45.760165
+                ]
+            },
+            "properties": {
+                "entity": "Rue de la République",
+                "name_location": "Rue de la République, Bellecour, 2nd Arrondissement, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69002, France",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...The broad, pedestrian-only Rue de la République leads north from Place Bellecour...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.841112,
+                    45.75915
+                ]
+            },
+            "properties": {
+                "entity": "La Part-Dieu",
+                "name_location": "Rue de la Part-Dieu, Préfecture, 3rd Arrondissement, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69003, France",
+                "class": "highway",
+                "type": "cycleway",
+                "snippet": [
+                    "*...Situated in this area is La Part-Dieu urban centre, which clusters the landmark structures Tour Incity, Tour Part-Dieu, Tour Oxygène, and Tour Swiss Life, as well as the city's primary railway station, Gare de Lyon-Part-Dieu....",
+                    "...The specialisation of some sectors of activities has led to the creation of many main business centres:\nLa Part-Dieu, located in the 3rd arrondissement is the second biggest business quarter after La Défense in Paris with over 1,600,000 m2 (17,222,256.67 sq ft) of office space and services and more than 55,000 jobs...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.830257,
+                    45.759177
+                ]
+            },
+            "properties": {
+                "entity": "Europe",
+                "name_location": "Hôtel de l'Europe, Rue du Colonel Chambonnet, Bellecour, 2nd Arrondissement, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69002, France",
+                "class": "historic",
+                "type": "building",
+                "snippet": [
+                    "*...North of this district lays the sixth arrondissement, which is home to one of Europe's largest urban parks, the Parc de la Tête d'or, as well as Lycée du Parc and Interpol's world headquarters....",
+                    "*...Place Bellecour, one of the largest town squares in Europe ;...",
+                    "*...Lyon and its region Rhône-Alpes represent one of the most important economies in Europe and, according to Loughborough University, can be compared to Philadelphia, Mumbai or Athens with regard to its international position....",
+                    "...High-tech industries such as biotechnology, software development, video game (Arkane Studios, Ivory Tower, Eden Games, EA France, Bandai Namco Entertainment Europe), and internet services are also growing....",
+                    "*...The Brothers of the Sacred Heart, a Roman Catholic congregation that operates schools in Europe and North America, was founded in Lyon in 1821....",
+                    "...Lyon is a pilot city of the Council of Europe and the European Commission Intercultural cities program....",
+                    "...Lyon is a pilot city of the Council of Europe and the European Commission \"Intercultural cities\" program...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.827755,
+                    45.759468
+                ]
+            },
+            "properties": {
+                "entity": "Vieux Lyon",
+                "name_location": "Vieux Lyon, Quai Fulchiron, Quarantaine, 5th Arrondissement, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69005, France",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...The district, Vieux Lyon, also hosts the Tour métallique (a highly visible TV tower, replicating the last stage of the Eiffel Tower) and one of the city's railways....",
+                    "*...5th arrondissement: Vieux Lyon (Saint-Paul, Saint-Jean, Saint-Georges), Saint-Just, Saint-Irénée, Fourvière, Point du Jour, Ménival, Battières, Champvert (south) ;...",
+                    "*...To the west of the Saône, the fifth arrondissement covers the old city of Vieux Lyon, Fourvière hill and the plateau beyond. The 9th is immediately to the north, and stretches from Gorge de Loup, through Vaise to the neighbouring suburbs of Écully, Champagne-au-Mont-d'Or, Saint-Didier-au-Mont-d'Or, Saint-Cyr-au-Mont-d'Or and Collonges-au-Mont-d'Or....",
+                    "...Vieux Lyon (English: Old Lyon) area, Medieval and Renaissance quarter of the town, with shops, dining and cobbled streets ;...",
+                    "*...Musée Gadagne, museum of the history of Lyon housed in a historic building in Vieux Lyon, which includes a large collection of marionettes ;...",
+                    "*...Musée des Automates, museum of automated puppets in Vieux Lyon, open since 1991 ;...",
+                    "*...The specific regions comprising the historic site include the Roman district and Fourvière, the Renaissance district (Vieux Lyon), the silk district (slopes of Croix-Rousse), and the Presqu'île, which features architecture from the 12th century to modern times....",
+                    "*...Both Vieux Lyon and the slopes of Croix-Rousse are known for their narrow passageways (named traboules) that pass through buildings and link streets on either side....",
+                    "*...There are also two funicular lines from Vieux Lyon to Saint-Just and Fourvière...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.805503,
+                    45.766442
+                ]
+            },
+            "properties": {
+                "entity": "Gorge de Loup",
+                "name_location": "Gorge de Loup, Rue du Sergent Michel Berthet, Gorge de Loup, 9th Arrondissement, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69009, France",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "...9th arrondissement: Vaise, Duchère, Rochecardon, St-Rambert-l'Île-Barbe, Gorge de Loup, Observance, Champvert (north) ....",
+                    "*...To the west of the Saône, the fifth arrondissement covers the old city of Vieux Lyon, Fourvière hill and the plateau beyond. The 9th is immediately to the north, and stretches from Gorge de Loup, through Vaise to the neighbouring suburbs of Écully, Champagne-au-Mont-d'Or, Saint-Didier-au-Mont-d'Or, Saint-Cyr-au-Mont-d'Or and Collonges-au-Mont-d'Or...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.834438,
+                    45.76763
+                ]
+            },
+            "properties": {
+                "entity": "Hôtel de Ville",
+                "name_location": "Hôtel de ville, Place de la Comédie, Terreaux, 1st Arrondissement, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69000, France",
+                "class": "amenity",
+                "type": "townhall",
+                "snippet": [
+                    "...Between the two rivers, on the Presqu'île, are the second, first, and fourth arrondissements. The second includes most of the city centre, Bellecour and Perrache railway station, and reaches as far as the confluence of the two rivers. The first is directly to the north of the second and covers part of the city centre (including the Hôtel de Ville) and the slopes of La Croix-Rousse. To the north of the Boulevard is the fourth arrondissement, which covers the Plateau of La Croix-Rousse, up to its boundary with the commune of Caluire-et-Cuire...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.851806,
+                    45.762757
+                ]
+            },
+            "properties": {
+                "entity": "Boulevard",
+                "name_location": "Boulevard Eugène Deruelle, Part-Dieu, 3rd Arrondissement, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69003, France",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Between the two rivers, on the Presqu'île, are the second, first, and fourth arrondissements. The second includes most of the city centre, Bellecour and Perrache railway station, and reaches as far as the confluence of the two rivers. The first is directly to the north of the second and covers part of the city centre (including the Hôtel de Ville) and the slopes of La Croix-Rousse. To the north of the Boulevard is the fourth arrondissement, which covers the Plateau of La Croix-Rousse, up to its boundary with the commune of Caluire-et-Cuire...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.950644,
+                    45.693356
+                ]
+            },
+            "properties": {
+                "entity": "Lyon-East",
+                "name_location": "East Lodge Lyon Est Eurexpo, Rue de la Cordière, Ménival / La Cordière, Saint-Priest, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69800, France",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...The 14 electoral wards are the following (see map for location):\n Lônes et coteaux  Lyon-Centre (Lyon-Centre)  Lyon-Est (Lyon-East)  Lyon-Nord (Lyon-North)  Lyon-Ouest  Lyon-Sud  Lyon-Sud-Est  Ouest  Plateau Nord-Caluire  Porte des Alpes  Portes du Sud  Rhône Amont  Val de Saône  Villeurbanne\nThe six wards with names starting with \"Lyon\" are all located within the commune of Lyon...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.829714,
+                    45.767552
+                ]
+            },
+            "properties": {
+                "entity": "Dame Saint-Vincent",
+                "name_location": "Église Notre-Dame-Saint-Vincent, Rue des Augustins, Terreaux, 1st Arrondissement, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69001, France",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Église Notre Dame Saint-Vincent (18th century), Neo-classical church ...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.086515,
+                    45.724427
+                ]
+            },
+            "properties": {
+                "entity": "Satolas Airport",
+                "name_location": "Lyon-Saint Exupéry Airport, Rue de Finlande, Colombier-Saugnieu, Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69124, France",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "*...Saint-Exupéry International Airport (formerly Satolas Airport), designed by Guillaume Gilbert ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.874671,
+                    45.779127
+                ]
+            },
+            "properties": {
+                "entity": "Parc de la Tête d'Or",
+                "name_location": "Hôtel ibis Styles Lyon Villeurbanne Parc de la Tête d'Or, Rue de la Doua, Croix-Luizet, Villeurbanne, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69100, France",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "...North of this district lays the sixth arrondissement, which is home to one of Europe's largest urban parks, the Parc de la Tête d'or, as well as Lycée du Parc and Interpol's world headquarters....",
+                    "...6th arrondissement: Brotteaux, Bellecombe, Parc de la Tête d'or, Cité Internationale ;...",
+                    "...Parc de la Tête d'or, aka Golden Head Park, in central Lyon is the largest urban park in France at 117 hectares (290 acres). Located in the 6th arrondissement, it features a large lake on which boating takes place during the summer months....",
+                    "...Jardin botanique de Lyon (8 hectares (20 acres)), included in the Parc de la Tête d'Or, is a municipal botanical garden and is open weekdays without charge. The garden was established in 1857 as a successor to earlier botanical gardens dating to 1796, and now describes itself as France's largest municipal botanical garden....",
+                    "...Cité Internationale, created by the architect Renzo Piano is located in the border of the Parc de la Tête d'Or in the 6th arrondissement...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.827424,
+                    45.760714
+                ]
+            },
+            "properties": {
+                "entity": "Cathédrale St-Jean",
+                "name_location": "Cathédrale Saint-Jean, Place Saint-Jean, Saint-Jean, 5th Arrondissement, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69005, France",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...8 December each year is marked by the Festival of Lights (la Fête des lumières), a celebration of thanks to the Virgin Mary, who purportedly saved the city from a deadly plague in the Middle Ages. During the event, the local population places candles (luminions) at their windows and the city of Lyon organizes impressive large-scale light shows onto the sides of important Lyonnais monuments, such as the medieval Cathédrale St-Jean...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.804441,
+                    45.736596
+                ]
+            },
+            "properties": {
+                "entity": "Sainte-Foy-lès-Lyon",
+                "name_location": "Orpi, 4, Place Xavier Ricard, Sainte-Foy-lès-Lyon, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69110, France",
+                "class": "office",
+                "type": "estate_agent",
+                "snippet": [
+                    "*...International School of Lyon in nearby Sainte-Foy-lès-Lyon;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.771277,
+                    45.720176
+                ]
+            },
+            "properties": {
+                "entity": "Tramway T1",
+                "name_location": "Chemin de l'Ancien Tramway (OTL n°14), Chaponost, Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69630, France",
+                "class": "highway",
+                "type": "track",
+                "snippet": [
+                    "*...The Rhônexpress tram monopoly links the airport with the business quarter of La Part Dieu in less than 30 minutes, and offers connections with Underground A & B, Tramway T1, T3 & T4, and bus lines....",
+                    "*...Its Lyon terminal is located at the city's Perrache railway station, which serves as an intermodal transportation hub for tramways, local and regional trains and buses, the terminus of Metro line A, of the Tramway T2, the bicycle service Vélo'v, and taxis...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.850998,
+                    45.741953
+                ]
+            },
+            "properties": {
+                "entity": "Route 47",
+                "name_location": "47, Route de Vienne, La Mouche, 7th Arrondissement, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69007, France",
+                "class": "place",
+                "type": "house",
+                "snippet": [
+                    "*...Lyon public transport Sytral offers a bus service, Route 47, that links the airport to Meyzieu where passengers can change onto Tram T3...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.805503,
+                    45.766442
+                ]
+            },
+            "properties": {
+                "entity": "Gorge-de-Loup",
+                "name_location": "Gorge de Loup, Rue du Sergent Michel Berthet, Gorge de Loup, 9th Arrondissement, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69009, France",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Smaller railway stations include Gorge-de-Loup, Vaise, Vénissieux, Saint-Paul and Jean Macé...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.841933,
+                    45.733259
+                ]
+            },
+            "properties": {
+                "entity": "Metro",
+                "name_location": "Metro, Avenue Jean-François Raclet, Le Bon Lait, Gerland, 7th Arrondissement, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69007, France",
+                "class": "shop",
+                "type": "trade",
+                "snippet": [
+                    "*...Its Lyon terminal is located at the city's Perrache railway station, which serves as an intermodal transportation hub for tramways, local and regional trains and buses, the terminus of Metro line A, of the Tramway T2, the bicycle service Vélo'v, and taxis....",
+                    "...The Transports en commun lyonnais (TCL), Lyon's public transit system, consisting of metro, tramways and buses, serves 62 communes of the Lyon metropolis....",
+                    "...The metro network has four lines (A, B, C and D), 42 stations, and runs with a frequency of up to a train every 2 minutes...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.819215,
+                    45.740735
+                ]
+            },
+            "properties": {
+                "entity": "Hôtel de région Montrochet",
+                "name_location": "Hôtel de Région Montrochet, Cours Charlemagne, Confluence, 2nd Arrondissement, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69002, France",
+                "class": "railway",
+                "type": "platform",
+                "snippet": [
+                    "*...There are eight Lyon tram lines since november 2020: T1 from Debourg in the south to IUT-Feyssine in the north, Tram T2 from Hôtel de région Montrochet to Saint-Priest in the south-east, Tram T3 from Part-Dieu to Meyzieu, Tram T4 from 'Hôptial Feyzin Venissieux' to La Doua Gaston Berger...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.871912,
+                    45.77891
+                ]
+            },
+            "properties": {
+                "entity": "La Doua",
+                "name_location": "La Doua, Boulevard du 11 Novembre 1918, Croix-Luizet, Villeurbanne, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69100, France",
+                "class": "highway",
+                "type": "platform",
+                "snippet": [
+                    "*...There are eight Lyon tram lines since november 2020: T1 from Debourg in the south to IUT-Feyssine in the north, Tram T2 from Hôtel de région Montrochet to Saint-Priest in the south-east, Tram T3 from Part-Dieu to Meyzieu, Tram T4 from 'Hôptial Feyzin Venissieux' to La Doua Gaston Berger...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.948133,
+                    45.731899
+                ]
+            },
+            "properties": {
+                "entity": "Eurexpo",
+                "name_location": "Eurexpo, Eurexpo Porte Ouest Visiteurs, Chassieu, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69680, France",
+                "class": "railway",
+                "type": "tram_stop",
+                "snippet": [
+                    "*...Tram T5 from Grange Blanche, in the south-east to Eurexpo in the south-west...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.818973,
+                    45.756022
+                ]
+            },
+            "properties": {
+                "entity": "Saint-Just",
+                "name_location": "Saint-Just, Rue des Farges, Quarantaine, 5th Arrondissement, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, 69005, France",
+                "class": "amenity",
+                "type": "bicycle_rental",
+                "snippet": [
+                    "*...5th arrondissement: Vieux Lyon (Saint-Paul, Saint-Jean, Saint-Georges), Saint-Just, Saint-Irénée, Fourvière, Point du Jour, Ménival, Battières, Champvert (south) ;...",
+                    "...Église Saint-Just (16th to 18th century), Classical church ;...",
+                    "*...There are also two funicular lines from Vieux Lyon to Saint-Just and Fourvière...."
+                ]
+            }
+        }
+    ]
+}

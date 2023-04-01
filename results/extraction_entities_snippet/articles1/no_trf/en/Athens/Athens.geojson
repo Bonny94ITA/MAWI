@@ -1,0 +1,435 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.732573,
+                    37.995479
+                ]
+            },
+            "properties": {
+                "entity": "Mediterranean",
+                "name_location": "Mediterranean college, Κοδριγκτώνος, Μουσείο, 1st District of Athens, Athens, Municipality of Athens, Regional Unit of Central Athens, Attica, 104 34, Greece",
+                "class": "amenity",
+                "type": "university",
+                "snippet": [
+                    "*...Αθήνα, romanized: Athína  ; Ancient Greek: Ἀθῆναι, romanized: Athênai (pl.) ) is a major coastal city in the Mediterranean and is both the capital and largest city of Greece....",
+                    "*...Athens has a hot-summer Mediterranean climate (Köppen climate classification: Csa)....",
+                    "*...The city has Greece's largest airport and its largest port; Piraeus, too, is the largest container transport port in the Mediterranean, and the largest passenger port in Europe...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.726618,
+                    37.971503
+                ]
+            },
+            "properties": {
+                "entity": "Parthenon",
+                "name_location": "Parthenon, Περίπατος Ακρόπολης (Νότια κλιτύς), Αστεροσκοπείο, Anafiotika, Upper Petralona, 3rd District of Athens, Athens, Municipality of Athens, Regional Unit of Central Athens, Attica, 105 58, Greece",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...The heritage of the Classical Era is still evident in the city, represented by ancient monuments, and works of art, the most famous of all being the Parthenon, considered a key landmark of early Western civilization....",
+                    "*...Guided by Pericles, who promoted the arts and fostered democracy, Athens embarked on an ambitious building program that saw the construction of the Acropolis of Athens (including the Parthenon), as well as empire-building via the Delian League....",
+                    "*...In this era, the first Christian churches were built in Athens, and the Parthenon and other temples were converted into churches.[citation needed] Athens expanded its settlement in the second half of the Middle Byzantine Period, in the ninth to tenth centuries AD, and was relatively prosperous during the Crusades, benefiting from Italian trade....",
+                    "*...By the late 1970s, the pollution of Athens had become so destructive that according to the then Greek Minister of Culture, Constantine Trypanis, \"...the carved details on the five the caryatids of the Erechtheum had seriously degenerated, while the face of the horseman on the Parthenon's west side was all but obliterated.\"...",
+                    "*...The route in its entirety provides visitors with views of the Parthenon and the Agora (the meeting point of ancient Athenians), away from the busy City Centre....",
+                    "*...The Kallimarmaro is a replica of the ancient Athenian stadiums, and the only major stadium (in its capacity of 60,000) to be made entirely of white marble from Mount Penteli, the same material used for construction of the Parthenon...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.716497,
+                    37.984139
+                ]
+            },
+            "properties": {
+                "entity": "Thermopylae",
+                "name_location": "Thermopylae Street, Μεταξουργείο, Rouf Suburb, 3rd District of Athens, Athens, Municipality of Athens, Regional Unit of Central Athens, Attica, 104 35, Greece",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...However, this did not prevent Athens from being captured and sacked twice by the Persians within one year, after a heroic but ultimately failed resistance at Thermopylae by Spartans and other Greeks led by King Leonidas, after both Boeotia and Attica fell to the Persians...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.720956,
+                    37.988193
+                ]
+            },
+            "properties": {
+                "entity": "Central Athens",
+                "name_location": "M&D Luxury Suites in central Athens, 10, Σάμου, Σταθμός Λαρίσης, 1st District of Athens, Athens, Municipality of Athens, Regional Unit of Central Athens, Attica, 104 38, Greece",
+                "class": "tourism",
+                "type": "apartment",
+                "snippet": [
+                    "*...Heavy snow fell in the Greater Athens area and Athens itself between 14–17 February 2021, when snow blanketed the entire city and its suburbs from the north to the furthest south, coastal suburbs, with depth ranges up to 25 centimetres (9.8 in) in Central Athens., and with even the Acropolis of Athens completely covered with snow....",
+                    "*...The Athens Urban Area (Greek: Πολεοδομικό Συγκρότημα Αθηνών), also known as Urban Area of the Capital (Greek: Πολεοδομικό Συγκρότημα Πρωτεύουσας) or Greater Athens (Greek: Ευρύτερη Αθήνα), today consists of 40 municipalities, 35 of which make up what was referred to as the former Athens Prefecture municipalities, located within 4 regional units (North Athens, West Athens, Central Athens, South Athens); and a further 5 municipalities, which make up the former Piraeus Prefecture municipalities, located within the regional unit of Piraeus as mentioned above....",
+                    "*...The regional units of Central Athens, North Athens, South Athens, West Athens and Piraeus with part of East and West Attica regional units combined make up the continuous Athens Urban Area, also called the \"Urban Area of the Capital\" or simply \"Athens\" (the most common use of the term), spanning over 412 km2 (159 sq mi), with a population of  3,059,764 people as of 2021...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.720956,
+                    37.992072
+                ]
+            },
+            "properties": {
+                "entity": "Larissa Station",
+                "name_location": "Larissa Station, Θεόδωρου Δηληγιάννη, Σταθμός Λαρίσης, 1st District of Athens, Athens, Municipality of Athens, Regional Unit of Central Athens, Attica, 104 39, Greece",
+                "class": "railway",
+                "type": "subway_entrance",
+                "snippet": [
+                    "*...The Municipality of Athens, the City Centre of the Athens Urban Area, is divided into several districts: Omonoia, Syntagma, Exarcheia, Agios Nikolaos, Neapolis, Lykavittos, Lofos Strefi, Lofos Finopoulou, Lofos Filopappou, Pedion Areos, Metaxourgeio, Aghios Kostantinos, Larissa Station, Kerameikos, Psiri, Monastiraki, Gazi, Thission, Kapnikarea, Aghia Irini, Aerides, Anafiotika, Plaka, Acropolis, Pnyka, Makrygianni, Lofos Ardittou, Zappeion, Aghios Spyridon, Pangrati, Kolonaki, Dexameni, Evaggelismos, Gouva, Aghios Ioannis, Neos Kosmos, Koukaki, Kynosargous, Fix, Ano Petralona, Kato Petralona, Rouf, Votanikos, Profitis Daniil, Akadimia Platonos, Kolonos, Kolokynthou, Attikis Square, Lofos Skouze, Sepolia, Kypseli, Aghios Meletios, Nea Kypseli, Gyzi, Polygono, Ampelokipoi, Panormou-Gerokomeio, Pentagono, Ellinorosson, Nea Filothei, Ano Kypseli, Tourkovounia-Lofos Patatsou, Lofos Elikonos, Koliatsou, Thymarakia, Kato Patisia, Treis Gefyres, Aghios Eleftherios, Ano Patisia, Kypriadou, Menidi, Prompona, Aghios Panteleimonas, Pangrati, Goudi, Vyronas and Ilisia....",
+                    "...The Athens Suburban Railway, referred to as the Proastiakos, connects Athens International Airport to the city of Kiato, 106 km (66 mi) west of Athens, via Larissa station, the city's central rail station and the port of Piraeus...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.73483,
+                    37.975529
+                ]
+            },
+            "properties": {
+                "entity": "Syntagma Square",
+                "name_location": "Syntagma Square, Όθωνος, Plaka, 1st District of Athens, Athens, Municipality of Athens, Regional Unit of Central Athens, Attica, 105 57, Greece",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Syntagma, Syntagma Square, (Greek: Σύνταγμα/Constitution Square), is the capital's central and largest square, lying adjacent to the Greek Parliament (the former Royal Palace) and the city's most notable hotels. Ermou Street, an approximately one-kilometre-long (-mile) pedestrian road connecting Syntagma Square to Monastiraki, is a consumer paradise for both Athenians and tourists. Complete with fashion shops and shopping centres promoting most international brands, it now finds itself in the top five most expensive shopping streets in Europe, and the tenth most expensive retail street in the world. Nearby, the renovated Army Fund building in Panepistimiou Street includes the \"Attica\" department store and several upmarket designer stores....",
+                    "*...The network runs from Syntagma Square to the southwestern suburb of Palaio Faliro, where the line splits in two branches; the first runs along the Athens coastline toward the southern suburb of Voula, while the other heads toward Neo Faliro...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.733095,
+                    37.969437
+                ]
+            },
+            "properties": {
+                "entity": "Temple of Olympian Zeus",
+                "name_location": "Temple of Olympian Zeus, Ανδρέα Συγγρού, Κυνοσάργους, 2nd District of Athens, Athens, Municipality of Athens, Regional Unit of Central Athens, Attica, 105 58, Greece",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...In the second century AD, The Roman emperor Hadrian, himself an Athenian citizen, ordered the construction of a library, a gymnasium, an aqueduct which is still in use, several temples and sanctuaries, a bridge and financed the completion of the Temple of Olympian Zeus....",
+                    "...The route starts from the Temple of Olympian Zeus at Vasilissis Olgas Avenue, continues under the southern slopes of the Acropolis near Plaka, and finishes just beyond the Temple of Hephaestus in Thiseio...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.722749,
+                    37.975531
+                ]
+            },
+            "properties": {
+                "entity": "Mars",
+                "name_location": "Temple of Mars, Οδός Παναθηναίων, Monastiraki, 1st District of Athens, Athens, Municipality of Athens, Regional Unit of Central Athens, Attica, 105 55, Greece",
+                "class": "historic",
+                "type": "ruins",
+                "snippet": [
+                    "*...Also to be found is the Pedion tou Areos (Field of Mars) of 27.7 hectares, near the National Archaeological Museum...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.844069,
+                    38.022564
+                ]
+            },
+            "properties": {
+                "entity": "Athens Airport",
+                "name_location": "Athens Airport line, Attiki Odos, Πευκάκια, Gerakas Community, Gerakas Municipal Unit, Municipality of Agia Paraskevi, Regional Unit of North Athens, Attica, 153 44, Greece",
+                "class": "railway",
+                "type": "subway",
+                "snippet": [
+                    "*...Work is underway to transform the grounds of the old Athens Airport – named Elliniko – in the southern suburbs, into one of the largest landscaped parks in Europe, to be named the Hellenikon Metropolitan Park...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.720079,
+                    37.992907
+                ]
+            },
+            "properties": {
+                "entity": "Athens –",
+                "name_location": "Athens, Μαρωνείας, Kolonos, Kolonos Suburb, 4th District of Athens, Athens, Municipality of Athens, Regional Unit of Central Athens, Attica, 10444, Greece",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "...Casinos operate on both Mount Parnitha, some 25 km (16 mi) from downtown Athens (accessible by car or cable car), and the nearby town of Loutraki (accessible by car via the Athens – Corinth National Highway, or the Athens Suburban Railway)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.67224,
+                    37.978402
+                ]
+            },
+            "properties": {
+                "entity": "West Attica",
+                "name_location": "University of West Attica - Campus 2, Πέτρου Ράλλη, Municipality of Aigaleo, Regional Unit of West Athens, Attica, 184 54, Greece",
+                "class": "amenity",
+                "type": "university",
+                "snippet": [
+                    "*...The regional units of Central Athens, North Athens, South Athens, West Athens and Piraeus with part of East and West Attica regional units combined make up the continuous Athens Urban Area, also called the \"Urban Area of the Capital\" or simply \"Athens\" (the most common use of the term), spanning over 412 km2 (159 sq mi), with a population of  3,059,764 people as of 2021....",
+                    "*...The Athens metropolitan area spans 2,928.717 km2 (1,131 sq mi) within the Attica region and includes a total of 58 municipalities, which are organized in seven regional units (those outlined above, along with East Attica and West Attica), having reached a population of 3,744,059 according to the 2021 census....",
+                    "*...The Athens Metropolitan Area, with an area of 2,928.717 km2 (1,131 sq mi) and inhabited by  3,744,059  people in 2021, consists of the Athens Urban Area with the addition of the towns and villages of East and West Attica, which surround the dense urban area of the Greek capital....",
+                    "...The University of West Attica is the second largest university in Athens....",
+                    "...There are overall ten state-supported Institutions of Higher (or Tertiary) education located in the Athens Urban Area, these are by chronological order: Athens School of Fine Arts (1837), National Technical University of Athens (1837), National and Kapodistrian University of Athens (1837), Agricultural University of Athens (1920), Athens University of Economics and Business (1920), Panteion University of Social and Political Sciences (1927), University of Piraeus (1938), Harokopio University of Athens (1990), School of Pedagogical and Technological Education (2002), University of West Attica (2018)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.731089,
+                    37.981011
+                ]
+            },
+            "properties": {
+                "entity": "Athens Tram",
+                "name_location": "Old Athens Tram, Πεσμαζόγλου, Ακαδημία, 1st District of Athens, Athens, Municipality of Athens, Regional Unit of Central Athens, Attica, 105 64, Greece",
+                "class": "railway",
+                "type": "disused",
+                "snippet": [
+                    "...The port of Piraeus, where big investments by COSCO have already been delivered during the recent decade, the completion of the new Cargo Centre in Thriasion, the expansion of the Athens Metro and the Athens Tram, as well as the Hellenikon metropolitan park redevelopment in Elliniko and other urban projects, are the economic landmarks of the upcoming years....",
+                    "...The Athens Tram is operated by STASY S.A (Statheres Sygkoinonies S.A), a subsidiary company of OASA (Athens urban transport organisation)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.727922,
+                    37.983945
+                ]
+            },
+            "properties": {
+                "entity": "Line 1",
+                "name_location": "Line 1, Πλατεία Ομονοίας, Omonoia, 1st District of Athens, Athens, Municipality of Athens, Regional Unit of Central Athens, Attica, 104 31, Greece",
+                "class": "railway",
+                "type": "subway",
+                "snippet": [
+                    "*...The Athens Metro runs three metro lines, namely Line 1 (Green Line), Line 2 (Red Line) and Line 3 (Blue Line) lines, of which the first was constructed in 1869, and the other two largely during the 1990s, with the initial new sections opened in January 2000....",
+                    "...Line 1 mostly runs at ground level and the other two (Line 2 & 3) routes run entirely underground....",
+                    "...Line 1 (Green Line) serves 24 stations, and is the oldest line of the Athens metro network....",
+                    "...The Red Line has transfer connections with the Green Line 1 at Attiki and Omonia stations...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.735765,
+                    37.976355
+                ]
+            },
+            "properties": {
+                "entity": "Line 2",
+                "name_location": "Line 2, Βασιλίσσης Αμαλίας, Ακαδημία, 1st District of Athens, Athens, Municipality of Athens, Regional Unit of Central Athens, Attica, 105 57, Greece",
+                "class": "railway",
+                "type": "subway",
+                "snippet": [
+                    "*...The Athens Metro runs three metro lines, namely Line 1 (Green Line), Line 2 (Red Line) and Line 3 (Blue Line) lines, of which the first was constructed in 1869, and the other two largely during the 1990s, with the initial new sections opened in January 2000....",
+                    "...Line 1 mostly runs at ground level and the other two (Line 2 & 3) routes run entirely underground....",
+                    "...There are transfer connections with the Blue Line 3 at Monastiraki station and with the Red Line 2 at Omonia and Attiki stations....",
+                    "...Line 2 (Red Line) runs from Anthoupoli station to Elliniko station and covers a distance of 17.5 km (10.9 mi)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72446,
+                    37.9769
+                ]
+            },
+            "properties": {
+                "entity": "Line 3",
+                "name_location": "Line 3, Αυλητών, Psiri, 1st District of Athens, Athens, Municipality of Athens, Regional Unit of Central Athens, Attica, 105 54, Greece",
+                "class": "railway",
+                "type": "subway",
+                "snippet": [
+                    "...The Gazi (Greek: Γκάζι) area, one of the latest in full redevelopment, is located around a historic gas factory, now converted into the Technopolis cultural multiplex, and also includes artists' areas, active nightlife and night clubs, small clubs, cafeterias, bars and restaurants, as well as Athens's \"Gay village\". The metro's expansion to the western suburbs of the city has brought easier access to the area since spring 2007, as the line 3 now stops at Gazi (Kerameikos station)....",
+                    "*...The Athens Metro runs three metro lines, namely Line 1 (Green Line), Line 2 (Red Line) and Line 3 (Blue Line) lines, of which the first was constructed in 1869, and the other two largely during the 1990s, with the initial new sections opened in January 2000....",
+                    "...There are transfer connections with the Blue Line 3 at Monastiraki station and with the Red Line 2 at Omonia and Attiki stations....",
+                    "...There are also transfer connections with the Blue Line 3 at Syntagma station and with the tram at Syntagma, Syngrou Fix and Neos Kosmos stations....",
+                    "...Line 3 (Blue Line) runs from Nikaia station, through the central Monastiraki and Syntagma stations to Doukissis Plakentias avenue in the northeastern suburb of Halandri...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.682086,
+                    37.990943
+                ]
+            },
+            "properties": {
+                "entity": "Egaleo",
+                "name_location": "Egaleo, Παπαναστασίου, Ιεράπολη, Municipality of Aigaleo, Regional Unit of West Athens, Attica, 122 42, Greece",
+                "class": "railway",
+                "type": "subway_entrance",
+                "snippet": [
+                    "*...According to their geographic location in relation to the City of Athens, the suburbs are divided into four zones; the northern suburbs (including Agios Stefanos, Dionysos, Ekali, Nea Erythraia, Kifissia, Kryoneri, Maroussi, Pefki, Lykovrysi, Metamorfosi, Nea Ionia, Nea Filadelfeia, Irakleio, Vrilissia, Melissia, Penteli, Chalandri, Agia Paraskevi, Gerakas, Pallini, Galatsi, Psychiko and Filothei); the southern suburbs (including Alimos, Nea Smyrni, Moschato, Tavros, Agios Ioannis Rentis, Kallithea, Piraeus, Agios Dimitrios, Palaio Faliro, Elliniko, Glyfada, Lagonisi, Saronida, Argyroupoli, Ilioupoli, Varkiza, Voula, Vari and Vouliagmeni); the eastern suburbs (including Zografou, Dafni, Vyronas, Kaisariani, Cholargos and Papagou); and the western suburbs (including Peristeri, Ilion, Egaleo, Koridallos, Agia Varvara, Keratsini, Perama, Nikaia, Drapetsona, Chaidari, Petroupoli, Agioi Anargyroi, Ano Liosia, Aspropyrgos, Eleusina, Acharnes and Kamatero)....",
+                    "*...The spring 2007 extension from Monastiraki westwards to Egaleo connected some of the main night life hubs of the city, namely those of Gazi (Kerameikos station) with Psirri (Monastiraki station) and the city centre (Syntagma station)....",
+                    "...All the activities of UNIWA are carried out in the modern infrastructure of the three University Campuses within the metropolitan region of Athens (Egaleo Park, Ancient Olive Groove and Athens), which offer modern teaching and research spaces, entertainment and support facilities for all students....",
+                    "...Other notable clubs within Athens are Athinaikos, Panionios, Atromitos, Apollon, Panellinios, Egaleo F.C., Ethnikos Piraeus, Maroussi BCE and Peristeri B.C. Athenian clubs have also had domestic and international success in other sports...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.733401,
+                    38.000018
+                ]
+            },
+            "properties": {
+                "entity": "Patision Street",
+                "name_location": "28ης Οκτωβρίου, Πλατεία Αμερικής, 6th District of Athens, Athens, Municipality of Athens, Regional Unit of Central Athens, Attica, 112 57, Greece",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...The National Technical University of Athens is located on Patision Street...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.736713,
+                    37.971506
+                ]
+            },
+            "properties": {
+                "entity": "Zappeion Hall",
+                "name_location": "Zapion Exhibition & Congress Hall, Βασιλίσσης Όλγας, Profitis Ilias, 2nd District of Athens, Athens, Municipality of Athens, Regional Unit of Central Athens, Attica, 105 58, Greece",
+                "class": "historic",
+                "type": "monument",
+                "snippet": [
+                    "...Later in the mid and late 19th century, Theophil Freiherr von Hansen and Ernst Ziller took part in the construction of many neoclassical buildings such as the Athens Academy and the Zappeion Hall...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.730768,
+                    37.989008
+                ]
+            },
+            "properties": {
+                "entity": "Pedion tou Areos",
+                "name_location": "ΑΦΕΤΗΡΙΑ \"ΠΕΔΙΟΝ ΤΟΥ ΑΡΕΩΣ\", 28ης Οκτωβρίου, Μουσείο, 1st District of Athens, Athens, Municipality of Athens, Regional Unit of Central Athens, Attica, 106 82, Greece",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "...Also to be found is the Pedion tou Areos (Field of Mars) of 27.7 hectares, near the National Archaeological Museum....",
+                    "...Apart from the neoclassicals by Leonidas Drosis at the Academy of Athens (Plato, Socrates, Apollo and Athena), others in notable categories include the statue of Theseus by Georgios Fytalis at Thiseion; depictions of philhellenes such as Lord Byron, George Canning, and William Gladstone; the equestrian statue of Theodoros Kolokotronis by Lazaros Sochos in front of the Old Parliament; statues of Ioannis Kapodistrias, Rigas Feraios and Adamantios Korais at the University; of Evangelos Zappas and Konstantinos Zappas at the Zappeion; Ioannis Varvakis at the National Garden; the\" Woodbreaker\" by Dimitrios Filippotis; the equestrian statue of Alexandros Papagos in the Papagou district; and various busts of fighters of Greek independence at the Pedion tou Areos...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.724514,
+                    37.962918
+                ]
+            },
+            "properties": {
+                "entity": "Andrea Syngrou Avenue",
+                "name_location": "Andrea Syngrou, Κουκάκι, 1st District of Athens, Athens, Municipality of Athens, Regional Unit of Central Athens, Attica, 117 41, Greece",
+                "class": "highway",
+                "type": "trunk",
+                "snippet": [
+                    "*...The Athens Planetarium, located in Andrea Syngrou Avenue, in Palaio Faliro is one of the largest and best equipped digital planetaria in the world...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.740398,
+                    37.968436
+                ]
+            },
+            "properties": {
+                "entity": "Kallimarmaro Stadium",
+                "name_location": "Panathenaic Stadium, Άγρας, Pangrati, 2nd District of Athens, Athens, Municipality of Athens, Regional Unit of Central Athens, Attica, 116 35, Greece",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...Of the venues used for these Olympics, the Kallimarmaro Stadium, and Zappeion were most crucial...."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,568 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.69192,
+                    50.124673
+                ]
+            },
+            "properties": {
+                "entity": "Mainhattan",
+                "name_location": "Mainhattan Drive, Friedberger Landstraße, Nordend Ost, Innenstadt 3, Frankfurt, Hesse, 60316, Germany",
+                "class": "amenity",
+                "type": "driving_school",
+                "snippet": [
+                    "*...Frankfurt's skyline, especially that of its central business district, is shaped by some of Europe's tallest skyscrapers, which has led to the term Mainhattan....",
+                    "*...In fact, it is one of the few cities in the European Union (EU) to have such a skyline, which is why Germans sometimes refer to Frankfurt as Mainhattan, combining the local river Main and \"Manhattan\"....",
+                    "*...Frankfurt is therefore known as Bankenstadt (\"City of the banks\") and nicknamed \"Mainhattan\" (a portmanteau of the local Main river and Manhattan in New York City) or \"Bankfurt\"...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.680755,
+                    50.111173
+                ]
+            },
+            "properties": {
+                "entity": "Frankfurter Paulskirche",
+                "name_location": "St. Paul's Church, 11, Paulsplatz, Altstadt, Innenstadt 1, Frankfurt, Hesse, 60311, Germany",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...After the ill-fated revolution of 1848, Frankfurt was the seat of the first democratically elected German parliament, the Frankfurt Parliament, which met in the Frankfurter Paulskirche (St. Paul's Church) and was opened on 18 May 1848...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.674766,
+                    50.110959
+                ]
+            },
+            "properties": {
+                "entity": "Africa",
+                "name_location": "Honorary Consulate of South Africa, Kaiserplatz, Innenstadt, Innenstadt 1, Frankfurt, Hesse, 60261, Germany",
+                "class": "office",
+                "type": "diplomatic",
+                "snippet": [
+                    "*...According to statistics, 46.7% of immigrants in Frankfurt come from other countries in the EU; 24.5% come from European countries that are not part of the EU; 15.7% come from Asia (including Western Asia and South Asia); 7.3% come from Africa; 3.4% come from North America (including the Caribbean and Central America); 0.2% come from Australia and New Zealand; 2.3% come from South America; and 1.1% come from Pacific island nations...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.669639,
+                    50.114052
+                ]
+            },
+            "properties": {
+                "entity": "Taunusanlage",
+                "name_location": "Taunusanlage, Westend Süd, Innenstadt 2, Frankfurt, Hesse, 60306, Germany",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...Deutsche Bank — Germany's largest commercial bank. It had 15% share of private customers and total assets of €1,900 billion in 2010. Deutsche Bank ranks among the 30 largest banks in the world and the ten largest banks in Europe. Deutsche Bank is listed on the DAX, the stock market index of the 30 largest German business companies at the Frankfurt Stock Exchange. In November 2010 Deutsche Bank bought the majority of shares of competitor Postbank. Its headquarters are located at Taunusanlage in the financial district....",
+                    "*...The most famous buildings from this decade are the Deutsche Bank Twin Towers at Taunusanlage, both 155.0 meters tall....",
+                    "...Wallanlagen  – The Wallanlagen (former ramparts) relate to the former ring-shaped city wall fortifications around the Altstadt and the Innenstadt district (abolished 1804–1812), now a series of parks. Building is not allowed, with a few exceptions, the most famous being the Alte Oper (built 1880) at the Opernplatz. The part between the northern Main riverbank and the Opernplatz, referred to officially as Taunusanlage and Gallusanlage, is locally known as \"Central Park\" (a reference to the famous park in Manhattan), because of the skyscrapers which stand on both sides....",
+                    "*...All lines, except line S7, run through the Frankfurt city tunnel and serve the stations Ostendstraße, Konstablerwache, Hauptwache, Taunusanlage and Frankfurt Central Station...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6623,
+                    50.110608
+                ]
+            },
+            "properties": {
+                "entity": "Westend Tower",
+                "name_location": "Westend Tower, Savignystraße, Westend Süd, Innenstadt 2, Frankfurt, Hesse, 60325, Germany",
+                "class": "building",
+                "type": "office",
+                "snippet": [
+                    "...DZ Bank — Central institution for more than 900 co-operative banks (Volksbanken und Raiffeisenbanken) and their 12,000 branch offices in Germany and is a corporate and investment bank. It is Germany's second-largest bank (total assets: €509 billion). The DZ Bank Group defines itself primarily as a service provider for the local Volksbanken and Raiffeisenbanken and their 30 million clients. The DZ Bank headquarters are the Westend Tower and the City-Haus at Platz der Republik. The DZ Bank Group includes Union Investment, DVB Bank and Reisebank, which are also headquartered in Frankfurt....",
+                    "...Westend Tower, 208.0 m (682.41 ft) – DZ Bank headquarters ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.674363,
+                    50.111238
+                ]
+            },
+            "properties": {
+                "entity": "Commerzbank Tower",
+                "name_location": "Commerzbank Tower, 16, Kaiserstraße, Innenstadt, Innenstadt 1, Frankfurt, Hesse, 60311, Germany",
+                "class": "building",
+                "type": "commercial",
+                "snippet": [
+                    "*...Commerzbank — Germany's fourth-largest bank by total assets (2017). In 2009, Commerzbank merged with competitor Dresdner Bank, then the third-largest German bank. Due to the merger and the higher credit risks, Commerzbank was 25% nationalized during the Great Recession. It is listed in the DAX. Its headquarters are at Commerzbank Tower (259 meters), the second-tallest building in the EU, at Kaiserplatz....",
+                    "...Commerzbank Tower, 259.0 m (849.74 ft) – The EU's tallest building; Commerzbank headquarters....",
+                    "*...It was overtaken by the 259 m-high (850 ft) Commerzbank Tower in 1997....",
+                    "*...In 21st-century Frankfurt, more high-rise buildings and skyscrapers (e.g., Skyper, Opernturm, Tower 185, Seat of the European Central Bank, Taunusturm) emerged, but none have surpassed Commerzbank Tower...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.67223,
+                    50.112413
+                ]
+            },
+            "properties": {
+                "entity": "Main Tower",
+                "name_location": "Main Tower, 52-58, Neue Mainzer Straße, Innenstadt, Innenstadt 1, Frankfurt, Hesse, 60311, Germany",
+                "class": "tourism",
+                "type": "viewpoint",
+                "snippet": [
+                    "*...Landesbank Hessen-Thüringen – Landesbank Hessen-Thüringen, or short Helaba, is a commercial bank owned by the states of Hesse and Thuringia (Landesbank). As such, it is a service provider for the local Sparkassen. Helaba is one of nine Landesbanken and is the fifth-largest in Germany. It is located in the 200-meter-tall Main Tower in the financial district, the only skyscraper in Frankfurt with an observation desk open to the public....",
+                    "...Main Tower, 200.0 m (656.17 ft) – Landesbank Hessen-Thüringen and Standard & Poor's (Germany) headquarters ;...",
+                    "*...Other tall buildings from this decade are Westendstrasse 1 (208 meters (682 ft)), Main Tower (200 meters (660 ft)) and Trianon (186 meters (610 ft))...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.65657,
+                    50.110541
+                ]
+            },
+            "properties": {
+                "entity": "Tower 185",
+                "name_location": "Tower 185, Platz der Einheit, Gallus, Innenstadt 1, Frankfurt, Hesse, 60308, Germany",
+                "class": "building",
+                "type": "commercial",
+                "snippet": [
+                    "*...PricewaterhouseCoopers (PwC) German headquarters are located at Tower 185....",
+                    "...Tower 185, 200.0 m (656.17 ft) – PricewaterhouseCoopers (Germany) headquarters ;...",
+                    "...In 21st-century Frankfurt, more high-rise buildings and skyscrapers (e.g., Skyper, Opernturm, Tower 185, Seat of the European Central Bank, Taunusturm) emerged, but none have surpassed Commerzbank Tower...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.681966,
+                    50.110611
+                ]
+            },
+            "properties": {
+                "entity": "Römerberg",
+                "name_location": "Römerberg, Altstadt, Innenstadt 1, Frankfurt, Hesse, 60311, Germany",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...The surrounding square, the Römerberg, is named after the city hall....",
+                    "*...The garden is located between the Römerberg and the cathedral....",
+                    "*...It is located on the Römerberg next to the Historical Museum....",
+                    "*...Eiserner Steg\nThe Eiserner Steg (Iron Bridge) is a pedestrian-only bridge across the Main that connects Römerberg and Sachsenhausen...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.668312,
+                    50.125588
+                ]
+            },
+            "properties": {
+                "entity": "Poelzig Building",
+                "name_location": "IG Farben Building, 1, Norbert-Wollheim-Platz, Westend Nord, Innenstadt 2, Frankfurt, Hesse, 60323, Germany",
+                "class": "historic",
+                "type": "building",
+                "snippet": [
+                    "*...IG Farben Building – Also known as Poelzig Building (Poelzig-Bau) after its architect Hans Poelzig, it was built from 1928 to 1930 as the corporate headquarters of I.G. Farbenindustrie AG. It is located in the Westend district and borders Grüneburgpark in the west. Upon its completion, the complex was the largest office building in Europe and remained so until the 1950s. The building served as headquarters for research projects relating to the development of synthetic oil and rubber and the manufacturing of magnesium, lubricating oil, explosives, methanol, and Zyklon B, the lethal gas used in concentration camps. After World War II, it served as the headquarters for the Supreme Allied Command and from 1949 to 1952 the High Commissioner for Germany (HICOG). It became the principal location for implementing the Marshall Plan, which largely financed the post-war reconstruction of Europe. The state apparatus of the Federal German Government was devised there. It served as the headquarters for the US Army's V Corps and the Northern Area Command (NACOM) until 1995 when the US Army returned control of the IG Farben Building to the German government. It was purchased on behalf of the Goethe University Frankfurt by the state of Hesse. In October 2001 it became part of the Westend Campus of Goethe University...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.568741,
+                    50.052694
+                ]
+            },
+            "properties": {
+                "entity": "Airrail Center Frankfurt",
+                "name_location": "The Squaire, Am Flughafen, Flughafen, Süd, Frankfurt, Hesse, 60600, Germany",
+                "class": "building",
+                "type": "commercial",
+                "snippet": [
+                    "*...The Squaire (portmanteau of square and air), also known as Airrail Center Frankfurt, is a 660 m (2,165.35 ft) long and 45 m (147.64 ft) tall office building located at Frankfurt Airport. It was built from 2006 to 2011 on top of an existing railway station (Frankfurt Airport long distance Station) and has a connecting bridge to Terminal 1 for pedestrians. Its total of 140,000 m2 (1,506,947 sq ft) rentable floor space makes it Germany's largest office building...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.663048,
+                    50.111679
+                ]
+            },
+            "properties": {
+                "entity": "Republik",
+                "name_location": "Consulate General of the Republic of Iraq, 12, Westendstraße, Westend Süd, Innenstadt 2, Frankfurt, Hesse, 60325, Germany",
+                "class": "office",
+                "type": "diplomatic",
+                "snippet": [
+                    "*...DZ Bank — Central institution for more than 900 co-operative banks (Volksbanken und Raiffeisenbanken) and their 12,000 branch offices in Germany and is a corporate and investment bank. It is Germany's second-largest bank (total assets: €509 billion). The DZ Bank Group defines itself primarily as a service provider for the local Volksbanken and Raiffeisenbanken and their 30 million clients. The DZ Bank headquarters are the Westend Tower and the City-Haus at Platz der Republik. The DZ Bank Group includes Union Investment, DVB Bank and Reisebank, which are also headquartered in Frankfurt....",
+                    "*...Most skyscrapers and high-rise office buildings are located in the financial district (Bankenviertel) near downtown, around the trade fair premises (Europaviertel) and at Mainzer Landstraße between Opernplatz and Platz der Republik, which connects the two areas...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.650299,
+                    50.114624
+                ]
+            },
+            "properties": {
+                "entity": "Plaza Büro Center",
+                "name_location": "WestendGate, Hamburger Allee, Westend Süd, Innenstadt 2, Frankfurt, Hesse, 60486, Germany",
+                "class": "building",
+                "type": "hotel",
+                "snippet": [
+                    "*...The first high-rise building boom came in the 1970s when Westend Gate (then called Plaza Büro Center) and Silberturm were constructed and became the tallest buildings in Germany with a height of 159.3 meters and 166.3 meters, respectively...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.668602,
+                    50.113199
+                ]
+            },
+            "properties": {
+                "entity": "Mainzer Landstraße",
+                "name_location": "Mainzer Landstraße, Innenstadt, Innenstadt 1, Frankfurt, Hesse, 60306, Germany",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...DekaBank – DekaBank is the central asset manager of the Sparkassen in Germany. The headquarters of DekaBank are located at the Trianon skyscraper at Mainzer Landstraße....",
+                    "*...Most skyscrapers and high-rise office buildings are located in the financial district (Bankenviertel) near downtown, around the trade fair premises (Europaviertel) and at Mainzer Landstraße between Opernplatz and Platz der Republik, which connects the two areas....",
+                    "*...Around the same time, Frankfurter Büro Center and City-Haus (142.4 meters and 142.1 meters) were constructed at Mainzer Landstraße and Eurotower (148.0 meters) and Garden Tower (127.0 meters; then called Helaba-Hochhaus) were constructed in the financial district...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.672664,
+                    50.112034
+                ]
+            },
+            "properties": {
+                "entity": "Garden Tower",
+                "name_location": "Garden Tower, 46-50, Neue Mainzer Straße, Innenstadt, Innenstadt 1, Frankfurt, Hesse, 60311, Germany",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...Around the same time, Frankfurter Büro Center and City-Haus (142.4 meters and 142.1 meters) were constructed at Mainzer Landstraße and Eurotower (148.0 meters) and Garden Tower (127.0 meters; then called Helaba-Hochhaus) were constructed in the financial district...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.68657,
+                    50.114137
+                ]
+            },
+            "properties": {
+                "entity": "Konstablerwache",
+                "name_location": "Konstablerwache, Altstadt, Innenstadt 1, Frankfurt, Hesse, 60313, Germany",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Zeil – Frankfurt's central shopping street. It is a pedestrian-only area and is bordered by two large public squares, Hauptwache in the west and Konstablerwache in the east. It is the second most expensive street for shops to rent in Germany after the Kaufingerstraße in Munich. 85 percent of the shops are retail chains such as H&M, Saturn, Esprit, Zara or NewYorker. In 2009 a new shopping mall named MyZeil opened there with nearly 100 stores and chains like Hollister. Three more shopping malls occupy the Zeil: UpperZeil (replacing the Zeilgalerie, which was demolished in 2016), Galeria Kaufhof and Karstadt, as well as large fashion retail clothing stores from Peek & Cloppenburg and C&A. During the month before Christmas, the extended pedestrian-only zone is host to Frankfurt Christmas Market, one of the largest and oldest Christmas markets in Germany....",
+                    "*...Kleinmarkthalle – (literally: Small Market Hall) is a market hall close to Konstablerwache square offering fresh food and flowers. In addition to regional delicacies like green sauce imported goods are offered. The Kleinmarkthalle is the largest public marketplace in Frankfurt....",
+                    "*...Two other major downtown railway stations are Konstablerwache and Hauptwache, located on each end of the Zeil....",
+                    "...Konstablerwache station is the second-busiest railway station regarding daily passenger volume (191,000) after the central station....",
+                    "*...All lines, except line S7, run through the Frankfurt city tunnel and serve the stations Ostendstraße, Konstablerwache, Hauptwache, Taunusanlage and Frankfurt Central Station....",
+                    "*...The central junction for the night bus service is at the downtown square of Konstablerwache, where all night bus lines start and end...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.578319,
+                    50.080333
+                ]
+            },
+            "properties": {
+                "entity": "Schwanheimer Düne",
+                "name_location": "schwanheimer Düne, Stöppelschneise, Schwanheim, West, Frankfurt, Hesse, 60529, Germany",
+                "class": "amenity",
+                "type": "parking",
+                "snippet": [
+                    "...Frankfurter Grüngürtel  – The Green Belt is a ring-shaped public green space around the city. With 8,000 ha it covers a third of the administrative area. It includes the Frankfurter Stadtwald (Frankfurt City Forest, Germany's largest forest within a city), the Schwanheimer Düne (Schwanheim Dune), the Niddatal (Nidda Valley), the Niddapark, the Lohrberg (Lohr Mountain, Frankfurt's only vineyard), the Huthpark, the Enkheimer Ried (Enkheim Marsh), the Seckbacher Ried (Seckbach Marsh) and the Fechenheimer Mainbogen (a S-shaped part of the Main river in Fechenheim). The Green Belt is a protected area which means that housing is not allowed. The Green Belt was formally created in 1991 with its own constitution...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.548082,
+                    50.099364
+                ]
+            },
+            "properties": {
+                "entity": "Altstadt",
+                "name_location": "Höchster Altstadt, Albanusstraße, Höchst, West, Frankfurt, Hesse, 65929, Germany",
+                "class": "historic",
+                "type": "district",
+                "snippet": [
+                    "*...Its downtown is north of the river Main in Altstadt district (the historical center) and the surrounding Innenstadt district....",
+                    "*...The largest city district by population and area is Sachsenhausen, while the smallest is Altstadt, Frankfurt's historical center....",
+                    "*...Until the year 1877 the city's territory consisted of the present-day inner-city districts of Altstadt, Innenstadt, Bahnhofsviertel, Gutleutviertel, Gallus, Westend, Nordend, Ostend and Sachsenhausen....",
+                    "*...The former Altstadt (old town) quarter between the Römer and the Frankfurt Cathedral was redeveloped as the Dom-Römer Quarter from 2012 to 2018, including 15 reconstructions of historical buildings that were destroyed during World War II....",
+                    "*...Haus Wertheim\nWertheim House is the only timbered house in the Altstadt district that survived the heavy bombings of World War II undamaged....",
+                    "*...Saalhof\nThe Saalhof is the oldest conserved building in the Altstadt district and dates to the 12th century....",
+                    "*...Braubachstraße – In the Altstadt district, close to the historic sites of the city, offers a large variety of art galleries, second-hand bookshops and antique shops....",
+                    "*...Wallanlagen  – The Wallanlagen (former ramparts) relate to the former ring-shaped city wall fortifications around the Altstadt and the Innenstadt district (abolished 1804–1812), now a series of parks. Building is not allowed, with a few exceptions, the most famous being the Alte Oper (built 1880) at the Opernplatz. The part between the northern Main riverbank and the Opernplatz, referred to officially as Taunusanlage and Gallusanlage, is locally known as \"Central Park\" (a reference to the famous park in Manhattan), because of the skyscrapers which stand on both sides....",
+                    "*...Not directly located on the northern riverbank in the Altstadt district are:...",
+                    "*...Die Schmiere – The Grease is a cabaret and Frankfurt's oldest privately owned theater. It is located in the Karmeliterkloster in the Altstadt district. According to its own advertising, it is the worst theater in the world...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.580013,
+                    50.129233
+                ]
+            },
+            "properties": {
+                "entity": "Central Park",
+                "name_location": "Digital Factory, 11, Adolph-Prior-Straße, Sossenheim, West, Frankfurt, Hesse, 65936, Germany",
+                "class": "building",
+                "type": "commercial",
+                "snippet": [
+                    "*...Wallanlagen  – The Wallanlagen (former ramparts) relate to the former ring-shaped city wall fortifications around the Altstadt and the Innenstadt district (abolished 1804–1812), now a series of parks. Building is not allowed, with a few exceptions, the most famous being the Alte Oper (built 1880) at the Opernplatz. The part between the northern Main riverbank and the Opernplatz, referred to officially as Taunusanlage and Gallusanlage, is locally known as \"Central Park\" (a reference to the famous park in Manhattan), because of the skyscrapers which stand on both sides...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.640299,
+                    50.141234
+                ]
+            },
+            "properties": {
+                "entity": "Niddapark",
+                "name_location": "Niddapark, Lindenallee, Ginnheim, Mitte-Nord, Frankfurt, Hesse, 60431, Germany",
+                "class": "leisure",
+                "type": "pitch",
+                "snippet": [
+                    "*...Frankfurter Grüngürtel  – The Green Belt is a ring-shaped public green space around the city. With 8,000 ha it covers a third of the administrative area. It includes the Frankfurter Stadtwald (Frankfurt City Forest, Germany's largest forest within a city), the Schwanheimer Düne (Schwanheim Dune), the Niddatal (Nidda Valley), the Niddapark, the Lohrberg (Lohr Mountain, Frankfurt's only vineyard), the Huthpark, the Enkheimer Ried (Enkheim Marsh), the Seckbacher Ried (Seckbach Marsh) and the Fechenheimer Mainbogen (a S-shaped part of the Main river in Fechenheim). The Green Belt is a protected area which means that housing is not allowed. The Green Belt was formally created in 1991 with its own constitution....",
+                    "*...Other parks  – The largest parks are the Niddapark (168 ha), the Ostpark (32 ha) and the Grüneburgpark (29 ha)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.573339,
+                    50.050615
+                ]
+            },
+            "properties": {
+                "entity": "Terminal 1",
+                "name_location": "Terminal 1, Abflugring, Flughafen, Süd, Frankfurt, Hesse, 60549, Germany",
+                "class": "aeroway",
+                "type": "terminal",
+                "snippet": [
+                    "...The Squaire (portmanteau of square and air), also known as Airrail Center Frankfurt, is a 660 m (2,165.35 ft) long and 45 m (147.64 ft) tall office building located at Frankfurt Airport. It was built from 2006 to 2011 on top of an existing railway station (Frankfurt Airport long distance Station) and has a connecting bridge to Terminal 1 for pedestrians. Its total of 140,000 m2 (1,506,947 sq ft) rentable floor space makes it Germany's largest office building....",
+                    "*...Another popular disco club of the 1980s–1990s and a hotspot for Techno/Trance music was the Dorian Gray, which was located within Terminal 1 at Frankfurt Airport from 1978 to 2000....",
+                    "...The long-distance station is located outside the actual airport ground but has a connecting bridge for pedestrians to Terminal 1, concourse B. Frankfurt Airport regional station (Frankfurt Flughafen Regionalbahnhof) is for local S-Bahn trains (lines S8, S9) and regional trains....",
+                    "*...The regional station is located within Terminal 1, concourse B.\nFrankfurt's third long-distance station is Frankfurt South station (Frankfurt Südbahnhof, often abbreviated as Frankfurt (Main) Süd or F-Süd), located in Sachsenhausen...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.608388,
+                    50.0617
+                ]
+            },
+            "properties": {
+                "entity": "Frankfurter Kreuz",
+                "name_location": "Frankfurter Kreuz, A 5, Sachsenhausen Süd, Süd, Frankfurt, Hesse, 60549, Germany",
+                "class": "highway",
+                "type": "motorway_junction",
+                "snippet": [
+                    "*...Frankfurter Kreuz, also known as the Autobahn interchange and located close to the airport, is the most-heavily used interchange in the EU, used by 320,000 cars daily....",
+                    "...The Frankfurter Kreuz is an Autobahn interchange close to the airport, where the Bundesautobahn 3 (A3), Cologne to Würzburg, and the Bundesautobahn 5 (A5), Basel to Hanover, meet...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.592386,
+                    50.056364
+                ]
+            },
+            "properties": {
+                "entity": "Rhein-Main-Verkehrsverbund",
+                "name_location": "Rhein-Main-Verkehrsverbund, 7, Bessie-Coleman-Straße, Gateway Gardens, Flughafen, Süd, Frankfurt, Hesse, 60549, Germany",
+                "class": "amenity",
+                "type": "vending_machine",
+                "snippet": [
+                    "*...Regional and local trains are integrated in the Public transport system Rhein-Main-Verkehrsverbund (RMV), the second-largest integrated public transport systems in the world, after Verkehrsverbund Berlin-Brandenburg...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.620118,
+                    50.08026
+                ]
+            },
+            "properties": {
+                "entity": "B. Frankfurt Airport",
+                "name_location": "B&B Hotel Frankfurt-Airport, 10, Colmarer Straße, Lyoner Quartier, Niederrad, Süd, Frankfurt, Hesse, 60528, Germany",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...The long-distance station is located outside the actual airport ground but has a connecting bridge for pedestrians to Terminal 1, concourse B. Frankfurt Airport regional station (Frankfurt Flughafen Regionalbahnhof) is for local S-Bahn trains (lines S8, S9) and regional trains....",
+                    "*...In addition, Frankfurt Airport is the busiest in Germany, one of the busiest in both Europe and the world, the airport with the most direct routes in the world, and the primary hub for Lufthansa, the national airline of Germany....",
+                    "*...Frankfurt Airport is one of the world's busiest international airports by passenger traffic and the main hub for Germany's flag carrier Lufthansa....",
+                    "*...Also in use is \"FRA\", the IATA code for Frankfurt Airport....",
+                    "*...Frankfurt also reemerged as Germany's transportation hub and Frankfurt Airport became Europe's second-busiest airport behind London Heathrow Airport in 1961....",
+                    "*...It covers the area of Frankfurt Airport that had belonged to Sachsenhausen and the neighboring city of Mörfelden-Walldorf....",
+                    "*...Frankfurt Airport is one of the busiest airports in the world and is also the single largest place of work in Germany with over 500 companies which employ 71,500 people (2010)....",
+                    "*...Fraport is the owner and operator of Frankfurt Airport....",
+                    "*...The largest company at Frankfurt Airport is Lufthansa, Germany's flag carrier and Europe's largest airline....",
+                    "*...The Lufthansa Aviation Center (LAC) is the main operation base of Lufthansa at Frankfurt Airport....",
+                    "*...Lufthansa Cargo is based in Frankfurt and operates its largest cargo center (LCC) at Frankfurt Airport....",
+                    "*...Condor is a German airline based at Frankfurt Airport....",
+                    "*...The Squaire (portmanteau of square and air), also known as Airrail Center Frankfurt, is a 660 m (2,165.35 ft) long and 45 m (147.64 ft) tall office building located at Frankfurt Airport. It was built from 2006 to 2011 on top of an existing railway station (Frankfurt Airport long distance Station) and has a connecting bridge to Terminal 1 for pedestrians. Its total of 140,000 m2 (1,506,947 sq ft) rentable floor space makes it Germany's largest office building....",
+                    "*...Another popular disco club of the 1980s–1990s and a hotspot for Techno/Trance music was the Dorian Gray, which was located within Terminal 1 at Frankfurt Airport from 1978 to 2000....",
+                    "*...The city can be accessed from around the world via Frankfurt Airport (Flughafen Frankfurt am Main) located 12 km (7 mi) southwest of downtown....",
+                    "*...Passenger traffic at Frankfurt Airport in 2018 was 69,510,269 passengers....",
+                    "*...Frankfurt Egelsbach Airport (Flugplatz Frankfurt-Egelsbach) is a busy general aviation airport located south-east of Frankfurt Airport, near Egelsbach....",
+                    "*...Frankfurt Airport can be accessed by two railway stations: Frankfurt Airport long-distance station (Frankfurt Flughafen Fernbahnhof) is only for long-distance traffic and connects the airport to the main rail network, with most of the ICE services using the Cologne-Frankfurt high-speed rail line...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.586982,
+                    50.051608
+                ]
+            },
+            "properties": {
+                "entity": "Terminal 2",
+                "name_location": "Deutsche Post, Kellertunnel Terminal 2, Flughafen, Süd, Frankfurt, Hesse, 60549, Germany",
+                "class": "amenity",
+                "type": "post_box",
+                "snippet": [
+                    "...There are three stations for intercity bus services in Frankfurt: one at the south side of the Central Station, one at the Terminal 2 of the airport and another one at Stephanstraße...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.662811,
+                    50.107542
+                ]
+            },
+            "properties": {
+                "entity": "S-Bahn",
+                "name_location": "S-Bahn, Bahnhofsvorplatz, Gallus, Innenstadt 1, Frankfurt, Hesse, 60329, Germany",
+                "class": "railway",
+                "type": "subway_entrance",
+                "snippet": [
+                    "...That system includes a suburban rail system (S-Bahn) linking outlying communities with the city center, and a deep underground light rail system with smaller coaches (U-Bahn) also capable of travelling above ground on rails....",
+                    "...The S-Bahn lines S8 and S9 (direction Offenbach Ost or Hanau Hbf) departing at the regional station take 10–15 minutes from the airport to Frankfurt Central Station and onwards to Hauptwache station downtown), the IC and ICE trains departing at the long-distance station take 10 minutes to Frankfurt Central Station....",
+                    "...All Rhine-Main S-Bahn lines, two U-Bahn lines (U4, U5), several tram and bus lines stop there....",
+                    "...The long-distance station is located outside the actual airport ground but has a connecting bridge for pedestrians to Terminal 1, concourse B. Frankfurt Airport regional station (Frankfurt Flughafen Regionalbahnhof) is for local S-Bahn trains (lines S8, S9) and regional trains....",
+                    "*...It is an important destination for local trains and trams (lines 15, 16 and 18) and the terminal stop for four U-Bahn lines (U1, U2, U3, U8) as well as two S-Bahn lines (S5, S6)....",
+                    "...Two other S-Bahn lines (S3, S4) also serve the station....",
+                    "...The Frankfurt Trade Fair offers two railway stations: Messe station is for local S-Bahn trains (lines S3-S6) and is centrally located amid trade fair premises, while Festhalle/Messe station is served by U-Bahn line U4 and is located at the north-east corner of the premises....",
+                    "...They are the main stations to change from east-to-west-bound S-Bahn trains to north-to-south-bound U-Bahn trains....",
+                    "...This Station, located in Bockenheim, is served by north-heading Long-Distance ICE trains, multiple regional trains, and four commuter S-Bahn lines (S3, S4, S5, S6)....",
+                    "...The city has two rapid transit systems: the U-Bahn and the S-Bahn, as well as an above-ground tram system....",
+                    "...Information about the U- and S-Bahn can be found on the website of the RMV....",
+                    "...Nine S-Bahn lines (S1 to S9) connect Frankfurt with the densely populated Rhine Main Region....",
+                    "...When leaving the city the S-Bahn travels above ground....",
+                    "...Trams only run above ground and serve more stops than the U-Bahn or the S-Bahn....",
+                    "*...Taxicabs can usually be found outside the major S-Bahn and U-Bahn stations, at the central station, the south station, the airport, the trade fair and in the crowded inner-city shopping streets...."
+                ]
+            }
+        }
+    ]
+}

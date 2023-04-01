@@ -1,0 +1,416 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.968296,
+                    60.318933
+                ]
+            },
+            "properties": {
+                "entity": "Helsinki Airport",
+                "name_location": "Helsinki Airport, 1, Lentoasemantie, Lentokenttä, Aviapoliksen suuralue, Vantaa, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, 01530, Finland",
+                "class": "place",
+                "type": "house",
+                "snippet": [
+                    "*...The city is served by the international Helsinki Airport, located in the neighboring city of Vantaa, with frequent service to many destinations in Europe, North America and Asia....",
+                    "*...Helsinki Airport (in Vantaa, 17 kilometres (11 mi) north of the Helsinki city centre) recorded a temperature of 33.7 °C (92.7 °F), on 29 July 2010, and a low of −35.9 °C (−33 °F), on 9 January 1987....",
+                    "*...Air traffic is handled primarily from Helsinki Airport, located approximately 17 kilometres (11 mi) north of Helsinki's downtown area, in the neighbouring city of Vantaa....",
+                    "...The commuter rail system includes purpose-built double track for local services in two rail corridors along intercity railways, and the Ring Rail Line, an urban double-track railway with a station at the Helsinki Airport in Vantaa...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.928979,
+                    60.178081
+                ]
+            },
+            "properties": {
+                "entity": "Asia",
+                "name_location": "Finland Asia International Multiservices, 42, Mannerheimintie, Taka-Töölö, Southern major district, Helsinki, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, 00260, Finland",
+                "class": "office",
+                "type": "yes",
+                "snippet": [
+                    "*...The city is served by the international Helsinki Airport, located in the neighboring city of Vantaa, with frequent service to many destinations in Europe, North America and Asia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.95266,
+                    60.169118
+                ]
+            },
+            "properties": {
+                "entity": "Senate Square",
+                "name_location": "Senate Square, Aleksanterinkatu, Torikorttelit, Kruununhaka, Southern major district, Helsinki, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, 00170, Finland",
+                "class": "amenity",
+                "type": "bicycle_rental",
+                "snippet": [
+                    "...In 1640, Count Per Brahe the Younger moved the city center with few descendants of the original settlers to the Vironniemi peninsula by the sea, currently Kruununhaka neighborhood, where the Senate Square and Helsinki Cathedral are now located....",
+                    "...The focal point of Engel's city plan was the Senate Square....",
+                    "*...Most of Helsinki's older buildings were built after the 1808 fire; before that time, the oldest surviving building in the center of Helsinki is the Sederholm House (1757) at the intersection of Senate Square and the Katariinankatu street....",
+                    "...At the Senate Square in fall 2010, Finland's largest open-air art exhibition to date took place: About 1.4 million people saw the international exhibition of United Buddy Bears...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.947724,
+                    60.169924
+                ]
+            },
+            "properties": {
+                "entity": "Helsinki Metro",
+                "name_location": "University of Helsinki, Yliopistonkatu, Kaisaniemi, Kluuvi, Southern major district, Helsinki, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, 00100, Finland",
+                "class": "railway",
+                "type": "subway_entrance",
+                "snippet": [
+                    "*...Finland's rapid urbanization in the 1970s, occurring late relative to the rest of Europe, tripled the population in the metropolitan area, and the Helsinki Metro subway system was built...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.919691,
+                    60.159147
+                ]
+            },
+            "properties": {
+                "entity": "Baltic Sea",
+                "name_location": "Discussion about the Baltic Sea, Juutinraumankatu, Jätkäsaari, Länsisatama, Southern major district, Helsinki, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, 00220, Finland",
+                "class": "tourism",
+                "type": "artwork",
+                "snippet": [
+                    "...The relatively sparse population density of Helsinki and its peculiar structure have often been attributed to the lateness of its growth.[citation needed]\nCalled the \"Daughter of the Baltic\" or the \"Pearl of the Baltic Sea\", Helsinki is on the tip of a peninsula and on 315 islands....",
+                    "...Owing to the mitigating influence of the Baltic Sea and North Atlantic Current (see also Extratropical cyclone), temperatures during the winter are higher than the northern location might suggest, with the average in January and February around −4 °C (25 °F)....",
+                    "...As an important port city on the Baltic Sea, Helsinki has long been known for its fish food, and it has recently started to become one of the leading fish food capitals in Northern Europe...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.979207,
+                    60.175146
+                ]
+            },
+            "properties": {
+                "entity": "Korkeasaari Zoo",
+                "name_location": "Korkeasaari Zoo, Finkensilta, Sompasaari, Mustikkamaa-Korkeasaari, Southeastern major district, Helsinki, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, 00540, Finland",
+                "class": "amenity",
+                "type": "ferry_terminal",
+                "snippet": [
+                    "*...Major islands in Helsinki include Seurasaari, Vallisaari, Lauttasaari, and Korkeasaari – the latter being the site of Finland's largest zoo called Korkeasaari Zoo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.03969,
+                    60.145943
+                ]
+            },
+            "properties": {
+                "entity": "Santahamina",
+                "name_location": "Santahamina, Lentokonetehtaankaari, Santahamina, Southeastern major district, Helsinki, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, 00860, Finland",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Other noteworthy islands are the fortress island of Suomenlinna (Sveaborg), the military island of Santahamina, and Isosaari...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.989973,
+                    60.140098
+                ]
+            },
+            "properties": {
+                "entity": "Kuninkaanportti",
+                "name_location": "King’s Gate Quay, Poliisikoulun tunneli, Suomenlinna, Southern major district, Helsinki, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, 00190, Finland",
+                "class": "amenity",
+                "type": "ferry_terminal",
+                "snippet": [
+                    "*...Suomenlinna also has buildings completed in the 18th century, including the Kuninkaanportti on the Kustaanmiekka Island (1753–1754)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.945542,
+                    60.1594
+                ]
+            },
+            "properties": {
+                "entity": "Ullanlinna",
+                "name_location": "Alepa Ullanlinna, 29, Vuorimiehenkatu, Ullanlinna, Southern major district, Helsinki, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, 00140, Finland",
+                "class": "shop",
+                "type": "convenience",
+                "snippet": [
+                    "*...Helsinki's Art Nouveau style is also featured in central residential districts, such as Katajanokka and Ullanlinna....",
+                    "*...The only visible public buildings of the Gothic Revival architecture in Helsinki are St. John's Church (1891) in Ullanlinna, which is the largest stone church in Finland, and its twin towers rise to 74 meters and have 2,600 seats....",
+                    "...The district with the most Swedish speakers is Ullanlinna/Ulrikasborg with 2,098 (19.6%), while Byholmen is the only district where the majority language is Swedish (at 82.8%)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.933561,
+                    60.175823
+                ]
+            },
+            "properties": {
+                "entity": "Finlandia Hall",
+                "name_location": "Finlandia Hall, 13 E, Mannerheimintie, Etu-Töölö, Southern major district, Helsinki, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, 00100, Finland",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...However, some of his works, such as the headquarters of the paper company Stora Enso and the concert venue Finlandia Hall, have been subject to divided opinions from the citizens...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.931504,
+                    60.188768
+                ]
+            },
+            "properties": {
+                "entity": "Swimming Stadium",
+                "name_location": "Swimming Stadium, 5, Hammarskjöldintie, Taka-Töölö, Southern major district, Helsinki, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, 00250, Finland",
+                "class": "leisure",
+                "type": "sports_centre",
+                "snippet": [
+                    "...Functionalist buildings in Helsinki by other architects include the Olympic Stadium, the Tennis Palace, the Rowing Stadium, the Swimming Stadium, the Velodrome, the Glass Palace, the Töölö Sports Hall, and Helsinki-Malmi Airport...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.934432,
+                    60.166377
+                ]
+            },
+            "properties": {
+                "entity": "Mall",
+                "name_location": "Mall Voice oy, 47, Fredrikinkatu, Kamppi, Southern major district, Helsinki, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, 00100, Finland",
+                "class": "office",
+                "type": "company",
+                "snippet": [
+                    "...Even higher skyscrapers under the name Trigoni are planned for the Central Pasila area near the Mall of Tripla shopping centre; the highest of which is to become about 200 meters high, and it can be seen even in good weather all the way to the Estonian coast...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.913417,
+                    60.182027
+                ]
+            },
+            "properties": {
+                "entity": "Sibelius Monument",
+                "name_location": "Sibelius Monument, Merikannontie, Töölö, Southern major district, Helsinki, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, 00250, Finland",
+                "class": "historic",
+                "type": "monument",
+                "snippet": [
+                    "...Well-known statues and monuments strongly embedded in the cityscape of Helsinki include the Keisarinnankivi (\"Stone of the Empress\", 1835), the statue of Russian Emperor Alexander II (1894), the fountain sculpture Havis Amanda (1908), the Paavo Nurmi statue (1925), the Three Smiths Statue (1932), the Aleksis Kivi Memorial (1939), the Eino Leino Statue (1953), the Equestrian statue of Marshal Mannerheim (1960) and the Sibelius Monument (1967)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.959932,
+                    60.168453
+                ]
+            },
+            "properties": {
+                "entity": "Uspenski Cathedral",
+                "name_location": "Uspenski Cathedral, 1, Kanavakatu, Katajanokka, Southern major district, Helsinki, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, 00160, Finland",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "...Its main church is the Uspenski Cathedral...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.933176,
+                    60.163408
+                ]
+            },
+            "properties": {
+                "entity": "Alexander Theatre",
+                "name_location": "Alexander Theatre, 32, Albertinkatu, Hietalahti, Kamppi, Southern major district, Helsinki, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, 00180, Finland",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "...Other notable theatres in the city include the Alexander Theatre, Q-teatteri, Savoy Theatre, KOM-theatre, and Teatteri Jurkka...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.934919,
+                    60.1738
+                ]
+            },
+            "properties": {
+                "entity": "Helsinki Music Centre",
+                "name_location": "Helsinki Music Centre, 13A, Mannerheimintie, City Centre, Kluuvi, Southern major district, Helsinki, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, 00100, Finland",
+                "class": "amenity",
+                "type": "arts_centre",
+                "snippet": [
+                    "...Helsinki is home to two full-size symphony orchestras, the Helsinki Philharmonic Orchestra and the Finnish Radio Symphony Orchestra, both of which perform at the Helsinki Music Centre concert hall....",
+                    "...The city's main musical venues are the Finnish National Opera, the Finlandia concert hall, and the Helsinki Music Centre....",
+                    "...The Music Centre also houses a part of the Sibelius Academy...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.929185,
+                    60.205714
+                ]
+            },
+            "properties": {
+                "entity": "Helsinki Halli",
+                "name_location": "Helsinki-halli, 1, Areenankuja, Keski-Pasila, Pasila, Central major district, Helsinki, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, 00240, Finland",
+                "class": "building",
+                "type": "stadium",
+                "snippet": [
+                    "...Bigger concerts and events are usually held at one of the city's two big ice hockey arenas: the Helsinki Halli or the Helsinki Ice Hall...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.953265,
+                    60.167197
+                ]
+            },
+            "properties": {
+                "entity": "Market Square",
+                "name_location": "Market Square, Kaartinkaupunki, Southern major district, Helsinki, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, Finland",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Helsinki's Market Square is especially known for its traditional herring market, which has been organized since 1743...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.948021,
+                    60.199761
+                ]
+            },
+            "properties": {
+                "entity": "Mäkelänrinne Swimming Centre",
+                "name_location": "Mäkelänrinne Swimming Centre, 49, Mäkelänkatu, Konepaja, Vallila, Central major district, Helsinki, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, 00550, Finland",
+                "class": "leisure",
+                "type": "sports_centre",
+                "snippet": [
+                    "...People can swim in Helsinki in 14 swimming pools, the largest of which is the Mäkelänrinne Swimming Centre, two inland swimming pools and more than 20 beaches, of which Hietaniemi Beach is probably the most famous...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.924014,
+                    60.147695
+                ]
+            },
+            "properties": {
+                "entity": "Hernesaari Heliport",
+                "name_location": "Helsinki Hernesaari Heliport, Hernesaarenranta, Hernesaari, Länsisatama, Southern major district, Helsinki, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, 00220, Finland",
+                "class": "aeroway",
+                "type": "heliport",
+                "snippet": [
+                    "*...Charter flights are available from Hernesaari Heliport...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.181377,
+                    60.221201
+                ]
+            },
+            "properties": {
+                "entity": "West Harbour",
+                "name_location": "Harbour Road West, Niinisaari, Vuosaari, Eastern major district, Helsinki, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, 00990, Finland",
+                "class": "highway",
+                "type": "unclassified",
+                "snippet": [
+                    "*...There are international cruise ship docks in South Harbour, Katajanokka, West Harbour, and Hernesaari...."
+                ]
+            }
+        }
+    ]
+}

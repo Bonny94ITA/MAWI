@@ -1,0 +1,694 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.35141,
+                    50.844583
+                ]
+            },
+            "properties": {
+                "entity": "Brussels-Capital Region",
+                "name_location": "Parliament of the Brussels-Capital Region, 69, Rue du Lombard - Lombardstraat, Quartier Saint-Jacques - Sint-Jacobswijk, Quartier du Centre - Centrumwijk, Pentagon, Brussels, Brussels-Capital, 1000, Belgium",
+                "class": "office",
+                "type": "government",
+                "snippet": [
+                    "...Brussels (French: Bruxelles   or  ; Dutch: Brussel  ), officially the Brussels-Capital Region (French: Région de Bruxelles-Capitale; Dutch: Brussels Hoofdstedelijk Gewest), is a region of Belgium comprising 19 municipalities, including the City of Brussels, which is the capital of Belgium....",
+                    "...The Brussels-Capital Region is located in the central portion of the country and is a part of both the French Community of Belgium and the Flemish Community, but is separate from the Flemish Region (within which it forms an enclave) and the Walloon Region....",
+                    "...Nowadays, the Brussels-Capital Region is officially bilingual in French and Dutch....",
+                    "...The names of all the municipalities in the Brussels-Capital Region are also of Dutch origin, except for Evere, which is Celtic....",
+                    "*...The French rule ended in 1815, with the defeat of Napoleon on the battlefield of Waterloo, located south of today's Brussels-Capital Region....",
+                    "...The Brussels-Capital Region was formed on 18 June 1989, after a constitutional reform in 1988....",
+                    "...Its average elevation is 57 m (187 ft) above sea level, varying from a low point in the valley of the almost completely covered Senne, which cuts the Brussels-Capital Region from east to west, up to high points in the Sonian Forest, on its southeastern side....",
+                    "...On average (based on measurements in the period 1981–2010), there are approximately 135 days of rain per year in the Brussels-Capital Region....",
+                    "...Despite its name, the Brussels-Capital Region is not the capital of Belgium....",
+                    "...The 19 municipalities (French: communes, Dutch: gemeenten) of the Brussels-Capital Region are political subdivisions with individual responsibilities for the handling of local level duties, such as law enforcement and the upkeep of schools and roads within its borders....",
+                    "...In 1831, Belgium was divided into 2,739 municipalities, including the 19 in the Brussels-Capital Region....",
+                    "...Unlike most of the municipalities in Belgium, the ones located in the Brussels-Capital Region were not merged with others during mergers occurring in 1964, 1970, and 1975....",
+                    "...However, several municipalities outside the Brussels-Capital Region have been merged with the City of Brussels throughout its history, including Laeken, Haren and Neder-Over-Heembeek in 1921....",
+                    "...The Brussels-Capital Region is one of the three federated regions of Belgium, alongside the Walloon Region and the Flemish Region....",
+                    "...The Brussels-Capital Region is governed by a parliament of 89 members (72 French-speaking, 17 Dutch-speaking—parties are organised on a linguistic basis) and an eight-member regional cabinet consisting of a minister-president, four ministers and three state secretaries....",
+                    "...Before the creation of the Brussels-Capital Region, regional competences in the 19 municipalities were performed by the Brussels Agglomeration....",
+                    "...After the creation of the Brussels-Capital Region, the Brussels Agglomeration was never formally abolished, although it no longer has a purpose....",
+                    "...These two bodies each have an assembly composed of the members of each linguistic group of the Parliament of the Brussels-Capital Region....",
+                    "...They also have a board composed of the ministers and secretaries of state of each linguistic group in the Government of the Brussels-Capital Region....",
+                    "...In another capacity, it can also enact ordinances, which have equal status as a national legislative act, in the field of the welfare powers of the communities: in the Brussels-Capital Region, both the French Community and the Flemish Community can exercise powers in the field of welfare, but only in regard to institutions that are unilingual (for example, a private French-speaking retirement home or the Dutch-speaking hospital of the Vrije Universiteit Brussel)....",
+                    "...The Brussels-Capital Region has a population of around 1.2 million and has witnessed, in recent years, a remarkable increase in its population....",
+                    "...At the last Belgian census in 1991, 63.7% of inhabitants in Brussels-Capital Region answered that they were Belgian citizens, born as such in Belgium, indicating that more than a third of residents had not been born in the country....",
+                    "...According to Statbel (the Belgian Statistical Office), in 2020, taking into account the nationality of birth of the parents, 74.3% of the population of the Brussels-Capital Region was of foreign origin and 41.8% was of non-European origin (including 28.7% of African origin)....",
+                    "...Today, the Brussels-Capital Region is legally bilingual, with both French and Dutch having official status, as is the administration of the 19 municipalities....",
+                    "...The Brussels Museums Council is an independent body for all the museums in the Brussels-Capital Region, covering around 100 federal, private, municipal, and community museums....",
+                    "...The Iris Festival is the official festival of the Brussels-Capital Region and is held annually in spring....",
+                    "...The Administration de l'Éducation Physique et du Sport (ADEPS) is responsible for recognising the various French-speaking sports federations and also runs three sports centres in the Brussels-Capital Region....",
+                    "...The Brussels-Capital Region is home to several national science and technology institutes including the National Fund for Scientific Research (NFSR), the Institute for the Encouragement of Scientific Research and Innovation of Brussels (ISRIB), the Royal Academies for Science and the Arts of Belgium (RASAB) and the Belgian Academy Council of Applied Sciences (BACAS)....",
+                    "...Due to its bilingual nature, hospitals in the Brussels-Capital Region can be either monolingual French, monolingual Dutch, or bilingual, depending on their nature....",
+                    "...The Brussels-Capital Region is surrounded by the Flemish and Walloon regions, which means that the airports, as well as many roads serving Brussels (most notably the Brussels Ring) are located in the other two Belgian regions....",
+                    "...The Brussels-Capital Region is served by two airports which are located outside of the administrative territory of the region....",
+                    "...The Brussels-Capital Region has three main train stations: Brussels-South, Brussels-Central and Brussels-North, which are also the busiest of the country....",
+                    "...It covers the 19 municipalities of the Brussels-Capital Region and some surface routes extend to the near suburbs in the other two regions, linking with the De Lijn network in Flanders and the TEC network in Wallonia....",
+                    "...The 19 municipalities of the Brussels-Capital Region are divided into six police zones, all bilingual (French and Dutch):...",
+                    "*...It has 9 fire stations, spread over the entire Brussels-Capital Region, and employs about 1,000 professional firefighters....",
+                    "...However, all hospital emergency services in the Capital Region (whether part of a public or private hospital) are required to be bilingual, since patients transported by emergency ambulance cannot choose the hospital they will be brought to...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.352418,
+                    50.846811
+                ]
+            },
+            "properties": {
+                "entity": "Grand-Place/Grote Markt",
+                "name_location": "Grand Place, Quartier Saint-Jacques - Sint-Jacobswijk, Quartier du Centre - Centrumwijk, Pentagon, Brussels, Brussels-Capital, 1000, Belgium",
+                "class": "amenity",
+                "type": "marketplace",
+                "snippet": [
+                    "*...Principal attractions include its historic Grand-Place/Grote Markt (main square), Manneken Pis, the Atomium, and cultural institutions such as La Monnaie/De Munt and the Museums of Art and History....",
+                    "...Traces of human settlement go back to the Stone Age, with vestiges and place-names related to the civilisation of megaliths, dolmens and standing stones (Plattesteen near the Grand-Place/Grote Markt and Tomberg in Woluwe-Saint-Lambert, for example)....",
+                    "...The Grand-Place was destroyed, along with 4,000 buildings—a third of all the buildings in the city....",
+                    "...It was estimated that, in 2005, people of Muslim background living in the Brussels Region numbered 256,220 and accounted for 25.5% of the city's population, a much higher concentration than those of the other regions of Belgium.[better source needed]\nThe architecture in Brussels is diverse, and spans from the clashing combination of Gothic, Baroque, and Louis XIV styles on the Grand-Place to the postmodern buildings of the EU institutions....",
+                    "...The Grand-Place is the main attraction in the city centre and has been a UNESCO World Heritage Site since 1998....",
+                    "...The Ommegang, a folkloric costumed procession, commemorating the Joyous Entry of Emperor Charles V and his son Philip II in the city in 1549, takes place every year in July. The colourful parade includes floats, traditional processional giants, such as Saint Michael and Saint Gudula, and scores of folkloric groups, either on foot or on horseback, dressed in medieval garb. The parade ends in a pageant on the Grand-Place. Since 2019, it is recognised as a Masterpiece of the Oral and Intangible Heritage of Humanity by UNESCO....",
+                    "...Another good introduction to the Brusseleir local dialect and way of life can be obtained at the Royal Theatre Toone, a folkloric theatre of marionettes, located a stone's throw away from the Grand-Place....",
+                    "...Other biennial events are the Zinneke Parade, a colourful, multicultural parade through the city, which has been held since 2000 in May, as well as the popular Flower Carpet at the Grand-Place in August....",
+                    "...The ancient pattern of streets, radiating from the Grand-Place, in large part remains, but has been overlaid by boulevards built over the river Senne, over the city walls and over the railway connection between the North and South Stations...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.353767,
+                    50.8523
+                ]
+            },
+            "properties": {
+                "entity": "Metro",
+                "name_location": "Metro Express, 10, Boulevard Adolphe Max - Adolphe Maxlaan, Quartier Marais-Jacqmain - Wijk Marais-Jacqmain, Pentagon, Brussels, Brussels-Capital, 1212, Belgium",
+                "class": "shop",
+                "type": "newsagent",
+                "snippet": [
+                    "...The Brussels Metro is the only rapid transit system in Belgium....",
+                    "*...The construction of the North–South connection, linking the main railway stations in the city, was completed in 1952, while the first premetro (underground tram) service was launched in 1969, and the first Metro line was opened in 1976....",
+                    "...On 22 March 2016, three coordinated nail bombings were detonated by ISIL in Brussels—two at Brussels Airport in Zaventem and one at Maalbeek/Maelbeek metro station—resulting in 32 victims and three suicide bombers killed, and 330 people were injured....",
+                    "*...Also, the interiors of some Metro stations are designed by artists....",
+                    "...Public transportation includes Brussels buses, trams, and metro (all three operated by the Brussels Intercommunal Transport Company (STIB/MIVB)), as well as a set of railway lines (operated by Infrabel) and railway stations served by public trains (operated by the National Railway Company of Belgium (NMBS/SNCB))....",
+                    "...The Brussels Metro dates back to 1976, but underground lines known as the premetro have been serviced by tramways since 1968....",
+                    "...The network consists of four conventional metro lines and three premetro lines....",
+                    "...The metro-grade lines are M1, M2, M5, and M6, with some shared sections, covering a total of 40 km (25 mi)....",
+                    "*...As of 2017[update], the Metro network within the region has a total of 69 metro and premetro stations....",
+                    "*...The Metro is an important means of transport, connecting with six railway stations of the National Railway Company of Belgium (NMBS/SNCB), and many tram and bus stops operated by STIB/MIVB, and with Flemish De Lijn and Walloon TEC bus stops....",
+                    "...As of 2017[update], the Brussels tram system consists of 17 tram lines (three of which – lines T3, T4 and T7 – qualify as premetro lines that partly travel over underground sections that were intended to be eventually converted into metro lines)....",
+                    "...The hourly travel fare includes all means of transport (metro, tram and bus) operated by STIB/MIVB....",
+                    "*...The Metro line 2 runs under much of these....",
+                    "...Some premetro stations (see Brussels Metro) were built on that route...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.336109,
+                    50.816537
+                ]
+            },
+            "properties": {
+                "entity": "Place de l'Altitude Cent",
+                "name_location": "Place de l'Altitude Cent - Hoogte Honderdplein, Altitude Cent - Hoogte Honderd, Forest - Vorst, Brussels-Capital, 1190, Belgium",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "...Contrary to popular belief, the highest point (at 127.5 m (418 ft)) is not near the Place de l'Altitude Cent/Hoogte Honderdplein in Forest, but at the Drève des Deux Montages/Tweebergendreef in the Sonian Forest...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.364388,
+                    50.846446
+                ]
+            },
+            "properties": {
+                "entity": "rue de la Loi",
+                "name_location": "Rue de la Loi - Wetstraat, Royal Quarter, Pentagon, Brussels, Brussels-Capital, 1000, Belgium",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...The office of the Prime Minister of Belgium, colloquially called Law Street 16 (French: 16, rue de la Loi, Dutch: Wetstraat 16), is located adjacent to this building...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.380655,
+                    50.842539
+                ]
+            },
+            "properties": {
+                "entity": "Europa",
+                "name_location": "Europa Building, 155, Rue de la Loi - Wetstraat, European Quarter, Brussels, Brussels-Capital, 1000, Belgium",
+                "class": "office",
+                "type": "government",
+                "snippet": [
+                    "*...The current major buildings are the Berlaymont building of the commission, symbolic of the quarter as a whole, the Europa building of the Council and the Espace Léopold of the Parliament....",
+                    "*...Art Deco structures in Brussels include the Résidence Palace (1927) (now part of the Europa building), the Centre for Fine Arts (1928), the Villa Empain (1934), the Town Hall of Forest (1938), and the Flagey Building (formerly known as the Maison de la Radio) on the Place Eugène Flagey/Eugène Flageyplein (1938) in Ixelles...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.39729,
+                    50.857931
+                ]
+            },
+            "properties": {
+                "entity": "Boulevard Léopold III",
+                "name_location": "Boulevard Léopold III - Leopold III-laan, Meiser, Cité Chomé - Tuinwijk Chomé, Schaerbeek - Schaarbeek, Brussels-Capital, 1030, Belgium",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "...The organisation's political and administrative headquarters are located on the Boulevard Léopold III/Leopold III-laan in Haren, on the north-eastern perimeter of the City of Brussels...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.316944,
+                    50.867078
+                ]
+            },
+            "properties": {
+                "entity": "National Basilica of the Sacred Heart",
+                "name_location": "National Basilica of the Sacred Heart, 1, Parvis de la Basilique - Basiliekvoorplein, Ganshoren, Brussels-Capital, 1083, Belgium",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "...On the north-western side of the region, the National Basilica of the Sacred Heart is a Minor Basilica and parish church, as well as one of the largest churches by area in the world....",
+                    "...Completed only in 1969, and combining Art Deco with neo-Byzantine elements, the Basilica of the Sacred Heart in Koekelberg is one of the largest churches by area in the world, and its cupola provides a panoramic view of Brussels and its outskirts...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.393975,
+                    50.840249
+                ]
+            },
+            "properties": {
+                "entity": "Parc du Cinquantenaire/Jubelpark",
+                "name_location": "Esplanade du Parc du Cinquantenaire - Esplanade van het Jubelpark, European Quarter, Brussels, Brussels-Capital, 1040, Belgium",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "...The Great Mosque of Brussels, located in the Parc du Cinquantenaire/Jubelpark, is the oldest mosque in Brussels....",
+                    "...Located outside the historical centre, in a greener environment bordering the European Quarter, are the Parc du Cinquantenaire/Jubelpark with its memorial arcade and nearby museums, and in Laeken, the Royal Palace of Laeken and the Royal Domain with its large greenhouses, as well as the Museums of the Far East...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.343158,
+                    50.83281
+                ]
+            },
+            "properties": {
+                "entity": "Halle Gate",
+                "name_location": "Halle Gate, Avenue de la Porte de Hal - Hallepoortlaan, Saint-Gilles - Sint-Gillis, Brussels-Capital, 1060, Belgium",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "...One of the only remains of the second walls is the Halle Gate...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.356971,
+                    50.842992
+                ]
+            },
+            "properties": {
+                "entity": "Palace of Charles of Lorraine",
+                "name_location": "Palace of Charles of Lorraine, Petite rue du Musée - Korte Museumstraat, Royal Quarter, Pentagon, Brussels, Brussels-Capital, 1000, Belgium",
+                "class": "historic",
+                "type": "castle",
+                "snippet": [
+                    "...Examples include the Royal Palace, the Church of St. James on Coudenberg, the Palace of the Nation (Parliament building), the Academy Palace, the Palace of Charles of Lorraine, the Palace of the Count of Flanders and the Egmont Palace...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.356956,
+                    50.838829
+                ]
+            },
+            "properties": {
+                "entity": "Egmont Palace",
+                "name_location": "Egmont Palace, 8, Place du Petit Sablon - Kleine Zavel, Sablon - Zavel, Pentagon, Brussels, Brussels-Capital, 1000, Belgium",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...Examples include the Royal Palace, the Church of St. James on Coudenberg, the Palace of the Nation (Parliament building), the Academy Palace, the Palace of Charles of Lorraine, the Palace of the Count of Flanders and the Egmont Palace...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.41633,
+                    50.835168
+                ]
+            },
+            "properties": {
+                "entity": "Stoclet Palace",
+                "name_location": "Stoclet Palace, Avenue de Tervueren - Tervurenlaan, Woluwe-Saint-Pierre Centre - Sint-Pieters-Woluwe Centrum, Woluwe-Saint-Pierre - Sint-Pieters-Woluwe, Brussels-Capital, 1150, Belgium",
+                "class": "historic",
+                "type": "castle",
+                "snippet": [
+                    "...Another example of Brussels' Art Nouveau is the Stoclet Palace (1911), by the Viennese architect Josef Hoffmann, designated a World Heritage Site by UNESCO in June 2009...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.379665,
+                    50.842278
+                ]
+            },
+            "properties": {
+                "entity": "Résidence Palace",
+                "name_location": "Residence Palace, Rue de la Loi - Wetstraat, European Quarter, Brussels, Brussels-Capital, 1040, Belgium",
+                "class": "building",
+                "type": "office",
+                "snippet": [
+                    "...Art Deco structures in Brussels include the Résidence Palace (1927) (now part of the Europa building), the Centre for Fine Arts (1928), the Villa Empain (1934), the Town Hall of Forest (1938), and the Flagey Building (formerly known as the Maison de la Radio) on the Place Eugène Flagey/Eugène Flageyplein (1938) in Ixelles...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.373074,
+                    50.826946
+                ]
+            },
+            "properties": {
+                "entity": "Flagey Building",
+                "name_location": "Radio House, Place Sainte-Croix - Heilig-Kruisplein, Flagey, Ixelles - Elsene, Brussels-Capital, 1050, Belgium",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "...Art Deco structures in Brussels include the Résidence Palace (1927) (now part of the Europa building), the Centre for Fine Arts (1928), the Villa Empain (1934), the Town Hall of Forest (1938), and the Flagey Building (formerly known as the Maison de la Radio) on the Place Eugène Flagey/Eugène Flageyplein (1938) in Ixelles...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.359349,
+                    50.856416
+                ]
+            },
+            "properties": {
+                "entity": "Rogier Tower",
+                "name_location": "Rogier Tower, Rue André Bertulot - André Bertulotstraat, Saint-Josse-ten-Noode - Sint-Joost-ten-Node, Brussels-Capital, 1210, Belgium",
+                "class": "building",
+                "type": "tower",
+                "snippet": [
+                    "*...Since the second half of the 20th century, modern office towers have been built in Brussels (Madou Tower, Rogier Tower, Proximus Towers, Finance Tower, the World Trade Center, among others)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.337138,
+                    50.837942
+                ]
+            },
+            "properties": {
+                "entity": "South Tower",
+                "name_location": "South Tower, Europe Esplanade, Saint-Gilles - Sint-Gillis, Brussels-Capital, 1060, Belgium",
+                "class": "building",
+                "type": "office",
+                "snippet": [
+                    "...The South Tower, standing adjacent to Brussels-South railway station, is the tallest building in Belgium, at 148 m (486 ft)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.358897,
+                    50.84292
+                ]
+            },
+            "properties": {
+                "entity": "Old England",
+                "name_location": "Old England, 2, Rue Montagne de la Cour - Hofbergstraat, Royal Quarter, Pentagon, Brussels, Brussels-Capital, 1000, Belgium",
+                "class": "building",
+                "type": "government",
+                "snippet": [
+                    "*...The Musical Instruments Museum (MIM), housed in the Old England building, is part of the Royal Museums of Art and History, and is internationally renowned for its collection of over 8,000 instruments...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.365555,
+                    50.845765
+                ]
+            },
+            "properties": {
+                "entity": "Royal Park Theatre",
+                "name_location": "Royal Park Theatre, 3, Rue de la Loi - Wetstraat, Royal Quarter, Pentagon, Brussels, Brussels-Capital, 1000, Belgium",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "...Brussels is well known for its performing arts scene, with the Royal Theatre of La Monnaie, the Royal Park Theatre, the Théâtre Royal des Galeries and the Kaaitheater among the most notable institutions...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.334128,
+                    50.895722
+                ]
+            },
+            "properties": {
+                "entity": "Heysel Stadium",
+                "name_location": "King Baudouin Stadium, 135, Avenue de Marathon - Marathonlaan, Verregat, Laeken - Laken, Brussels, Brussels-Capital, 1020, Belgium",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "...The site was formerly occupied by the Heysel Stadium....",
+                    "...The King Baudouin Stadium (formerly the Heysel Stadium) is the largest in the country and home to the national teams in football and rugby union...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.372035,
+                    50.828583
+                ]
+            },
+            "properties": {
+                "entity": "Le Flagey",
+                "name_location": "Le Flagey, Place Eugène Flagey - Eugène Flageyplein, Flagey, Ixelles - Elsene, Brussels-Capital, 1050, Belgium",
+                "class": "amenity",
+                "type": "bar",
+                "snippet": [
+                    "*...Studio 4 in Le Flagey cultural centre hosts the Brussels Philharmonic...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.353846,
+                    50.847628
+                ]
+            },
+            "properties": {
+                "entity": "Royal Theatre Toone",
+                "name_location": "Royal Puppet Theater Toone, 66, Impasse Sainte-Pétronille - Sint-Petronillagang, Îlot Sacré, Quartier du Centre - Centrumwijk, Pentagon, Brussels, Brussels-Capital, 1000, Belgium",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "...Another good introduction to the Brusseleir local dialect and way of life can be obtained at the Royal Theatre Toone, a folkloric theatre of marionettes, located a stone's throw away from the Grand-Place...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.351445,
+                    50.846837
+                ]
+            },
+            "properties": {
+                "entity": "Côte",
+                "name_location": "Côte d'Or shop, Rue de la Tête d'Or - Guldenhoofdstraat, Quartier Saint-Jacques - Sint-Jacobswijk, Quartier du Centre - Centrumwijk, Pentagon, Brussels, Brussels-Capital, 1212, Belgium",
+                "class": "shop",
+                "type": "chocolate",
+                "snippet": [
+                    "*...The city is a stronghold of chocolate and praline manufacturers with renowned companies like Côte d'Or, Neuhaus, Leonidas and Godiva...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.358391,
+                    50.855188
+                ]
+            },
+            "properties": {
+                "entity": "Rue Neuve/Nieuwstraat",
+                "name_location": "Rue Neuve - Nieuwstraat, Quartier Marais-Jacqmain - Wijk Marais-Jacqmain, Pentagon, Brussels, Brussels-Capital, 1212, Belgium",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Famous shopping areas in Brussels include the pedestrian-only Rue Neuve/Nieuwstraat, the second busiest shopping street in Belgium (after the Meir, in Antwerp) with a weekly average of 230,000 visitors, home to popular international chains (H&M, C&A, Zara, Primark), as well as the City 2 and Anspach galleries...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.346556,
+                    50.849943
+                ]
+            },
+            "properties": {
+                "entity": "Rue Antoine Dansaert/Antoine Dansaertstraat",
+                "name_location": "Rue Antoine Dansaert - Antoine Dansaertstraat, Alhambra Quarter, Quays Quarter, Pentagon, Brussels, Brussels-Capital, 1212, Belgium",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "...The neighbourhood around the Rue Antoine Dansaert/Antoine Dansaertstraat has become, in recent years, a focal point for fashion and design; this main street and its side streets also feature Belgium's young and most happening artistic talent...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.35763,
+                    50.833006
+                ]
+            },
+            "properties": {
+                "entity": "Avenue Louise/Louizalaan",
+                "name_location": "Avenue Louise - Louizalaan, Brussels, Brussels-Capital, 1049, Belgium",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...The nearby Avenue Louise/Louizalaan is lined with high-end fashion stores and boutiques, making it one of the most expensive streets in Belgium...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.339211,
+                    50.844686
+                ]
+            },
+            "properties": {
+                "entity": "Boulevard du Midi/Zuidlaan",
+                "name_location": "Boulevard du Midi - Zuidlaan, Dansaert, Brussels, Brussels-Capital, 1060, Belgium",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "...The Midi Market around Brussels-South station and the Boulevard du Midi/Zuidlaan is reputed to be one of the largest markets in Europe...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.356671,
+                    50.847046
+                ]
+            },
+            "properties": {
+                "entity": "Central Station",
+                "name_location": "Central Station, Boulevard de l'Impératrice - Keizerinlaan, Quartier Saint-Jacques - Sint-Jacobswijk, Quartier du Centre - Centrumwijk, Pentagon, Brussels, Brussels-Capital, 1010, Belgium",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "...It is located on the Mont des Arts/Kunstberg in central Brussels, near the Central Station....",
+                    "...The train rails in Brussels go underground, near the centre, through the North–South connection, with Brussels Central Station also being largely underground...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.383212,
+                    50.816244
+                ]
+            },
+            "properties": {
+                "entity": "Solbosch",
+                "name_location": "Centre médical du Solbosch - Solbosch medisch centrum, 110A, Avenue Adolphe Buyl - Adolphe Buyllaan, Cimdix, Ixelles - Elsene, Brussels-Capital, 1050, Belgium",
+                "class": "amenity",
+                "type": "clinic",
+                "snippet": [
+                    "*...In addition to the Solbosch location, there are branches in La Plaine and Erasme/Erasmus...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.384345,
+                    50.866864
+                ]
+            },
+            "properties": {
+                "entity": "La Plaine",
+                "name_location": "Plaine de jeux du Parc de la Jeunesse - Speeltuin van het Jeugdpark, Chemin du Crossing - Weg naar de Crossing, Schaerbeek - Schaarbeek, Brussels-Capital, 1030, Belgium",
+                "class": "leisure",
+                "type": "playground",
+                "snippet": [
+                    "*...In addition to the Solbosch location, there are branches in La Plaine and Erasme/Erasmus...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.350861,
+                    50.864857
+                ]
+            },
+            "properties": {
+                "entity": "Port of Brussels",
+                "name_location": "Port of Brussels, Place des Armateurs - Redersplein, Tour and Taxis, Brussels, Brussels-Capital, 1212, Belgium",
+                "class": "office",
+                "type": "government",
+                "snippet": [
+                    "...Air transport is available via one of the city's two airports (Brussels Airport and Brussels South Charleroi Airport), and boat transport is available via the Port of Brussels....",
+                    "...Since the 16th century, Brussels has had its own harbour, the Port of Brussels...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.349347,
+                    50.850799
+                ]
+            },
+            "properties": {
+                "entity": "Place Sainte-Catherine/Sint-Katelijneplein",
+                "name_location": "Place Sainte-Catherine - Sint-Katelijneplein, Alhambra Quarter, Quays Quarter, Pentagon, Brussels, Brussels-Capital, 1212, Belgium",
+                "class": "highway",
+                "type": "living_street",
+                "snippet": [
+                    "...Historically situated near the Place Sainte-Catherine/Sint-Katelijneplein, it lies today to the north-west of the region, on the Brussels–Scheldt Maritime Canal (commonly called Willebroek Canal), which connects Brussels to Antwerp via the Scheldt...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.352098,
+                    50.841854
+                ]
+            },
+            "properties": {
+                "entity": "Rue Haute/Hoogstraat",
+                "name_location": "Rue Haute - Hoogstraat, Marolles - Marollen, Pentagon, Brussels, Brussels-Capital, 1000, Belgium",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...In medieval times, Brussels stood at the intersection of routes running north–south (the modern Rue Haute/Hoogstraat) and east–west (Chaussée de Gand/Gentsesteenweg–Rue du Marché aux Herbes/Grasmarkt–Rue de Namur/Naamsestraat)...."
+                ]
+            }
+        }
+    ]
+}

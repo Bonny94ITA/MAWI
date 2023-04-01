@@ -1,0 +1,567 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.339231,
+                    52.508449
+                ]
+            },
+            "properties": {
+                "entity": "Zoological Garden",
+                "name_location": "Berlin Zoological Garden, 8, Hardenbergplatz, Tiergarten, Charlottenburg-Wilmersdorf, Berlin, 10787, Germany",
+                "class": "tourism",
+                "type": "zoo",
+                "snippet": [
+                    "*...Its Zoological Garden is the most visited zoo in Europe and one of the most popular worldwide...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.397815,
+                    52.520033
+                ]
+            },
+            "properties": {
+                "entity": "Museum Island",
+                "name_location": "Museum Island, Am Kupfergraben, Friedrichswerder, Mitte, Berlin, 10117, Germany",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Berlin is also home to three World Heritage Sites: Museum Island; the Palaces and Parks of Potsdam and Berlin; and the Modernism Housing Estates....",
+                    "*...Berlin has numerous museums, galleries, libraries, orchestras, and sporting events including Museum Island, the German Historical Museum, Jewish Museum, Natural History Museum, State Library, State Opera, Philharmonic, and the Berlin Marathon....",
+                    "...The Museum Island in the River Spree houses five museums built from 1830 to 1930 and is a UNESCO World Heritage site....",
+                    "...The ensemble on the Museum Island is a UNESCO World Heritage Site and is in the northern part of the Spree Island between the Spree and the Kupfergraben....",
+                    "...Apart from the Museum Island, there are many additional museums in the city...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.377703,
+                    52.51627
+                ]
+            },
+            "properties": {
+                "entity": "Brandenburg Gate",
+                "name_location": "Brandenburg Gate, 1, Pariser Platz, Dorotheenstadt, Mitte, Berlin, 10117, Germany",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...Other landmarks include the Brandenburg Gate, Reichstag building, Potsdamer Platz, Memorial to the Murdered Jews of Europe, Berlin Wall Memorial, East Side Gallery, Berlin Victory Column, Berlin Cathedral, and Berlin Television Tower, the tallest structure in Germany....",
+                    "...It covers an area of 210 hectares and stretches from Bahnhof Zoo in the City West to the Brandenburg Gate in the east....",
+                    "...The Brandenburg Gate is an iconic landmark of Berlin and Germany; it stands as a symbol of eventful European history and of unity and peace....",
+                    "...Unter den Linden is a tree-lined east–west avenue from the Brandenburg Gate to the site of the former Berliner Stadtschloss, and was once Berlin's premier promenade....",
+                    "...Juni, connecting the Brandenburg Gate and Ernst-Reuter-Platz, serves as the central east–west axis....",
+                    "...Approximately halfway from the Brandenburg Gate is the Großer Stern, a circular traffic island on which the Siegessäule (Victory Column) is situated....",
+                    "...The focal point is the Brandenburg Gate, where midnight fireworks are centered, but various private fireworks displays take place throughout the entire city....",
+                    "*...A Fan Fest at Brandenburg Gate, which attracts several hundred-thousand spectators, has become popular during international football competitions, like the UEFA European Championship...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.37656,
+                    52.510098
+                ]
+            },
+            "properties": {
+                "entity": "Potsdamer Platz",
+                "name_location": "Potsdamer Platz, Mitte, Berlin, 10785, Germany",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Other landmarks include the Brandenburg Gate, Reichstag building, Potsdamer Platz, Memorial to the Murdered Jews of Europe, Berlin Wall Memorial, East Side Gallery, Berlin Victory Column, Berlin Cathedral, and Berlin Television Tower, the tallest structure in Germany....",
+                    "*...Clusters of towers rise at various locations: Potsdamer Platz, the City West, and Alexanderplatz, the latter two delineating the former centers of East and West Berlin, with the first representing a new Berlin of the 21st century, risen from the wastes of no-man's land of the Berlin Wall....",
+                    "*...Potsdamer Platz is an entire quarter built from scratch after the Wall came down....",
+                    "*...To the west of Potsdamer Platz is the Kulturforum, which houses the Gemäldegalerie, and is flanked by the Neue Nationalgalerie and the Berliner Philharmonie....",
+                    "*...Some of the most visited places in Berlin include: Potsdamer Platz, Brandenburger Tor, the Berlin wall, Alexanderplatz, Museumsinsel, Fernsehturm, the East-Side Gallery, Schloss-Charlottenburg, Zoologischer Garten, Siegessäule, Gedenkstätte Berliner Mauer, Mauerpark, Botanical Garden, Französischer Dom, Deutscher Dom and Holocaust-Mahnmal....",
+                    "*...The Kupferstichkabinett Berlin (Museum of Prints and Drawings) is part of the Staatlichen Museen zu Berlin (Berlin State Museums) and the Kulturforum at Potsdamer Platz in the Tiergarten district of Berlin's Mitte district....",
+                    "*...The city's main venue for musical theater performances are the Theater am Potsdamer Platz and Theater des Westens (built in 1895)....",
+                    "*...The Berlin Philharmonic Orchestra is one of the preeminent orchestras in the world; it is housed in the Berliner Philharmonie near Potsdamer Platz on a street named for the orchestra's longest-serving conductor, Herbert von Karajan...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.387446,
+                    52.53379
+                ]
+            },
+            "properties": {
+                "entity": "Berlin Wall Memorial",
+                "name_location": "Berlin Wall Memorial, 119, Bernauer Straße, Gesundbrunnen, Mitte, Berlin, 13355, Germany",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Other landmarks include the Brandenburg Gate, Reichstag building, Potsdamer Platz, Memorial to the Murdered Jews of Europe, Berlin Wall Memorial, East Side Gallery, Berlin Victory Column, Berlin Cathedral, and Berlin Television Tower, the tallest structure in Germany....",
+                    "...After World War II and its subsequent occupation by the victorious countries, the devastated city was divided; West Berlin became a de facto exclave of West Germany, surrounded by the Berlin Wall (from August 1961 to November 1989) and East German territory....",
+                    "...In 1961, East Germany began to build the Berlin Wall around West Berlin, and events escalated to a tank standoff at Checkpoint Charlie....",
+                    "...In 1989, with the end of the Cold War and pressure from the East German population, the Berlin Wall fell on 9 November and was subsequently mostly demolished....",
+                    "...Clusters of towers rise at various locations: Potsdamer Platz, the City West, and Alexanderplatz, the latter two delineating the former centers of East and West Berlin, with the first representing a new Berlin of the 21st century, risen from the wastes of no-man's land of the Berlin Wall....",
+                    "...The East Side Gallery is an open-air exhibition of art painted directly on the last existing portions of the Berlin Wall....",
+                    "...In the mid-1950s, it was closed to vehicles, and after the construction of the Berlin Wall in 1961, pedestrian traffic was heavily restricted....",
+                    "...Some of the most visited places in Berlin include: Potsdamer Platz, Brandenburger Tor, the Berlin wall, Alexanderplatz, Museumsinsel, Fernsehturm, the East-Side Gallery, Schloss-Charlottenburg, Zoologischer Garten, Siegessäule, Gedenkstätte Berliner Mauer, Mauerpark, Botanical Garden, Französischer Dom, Deutscher Dom and Holocaust-Mahnmal....",
+                    "...The site of Checkpoint Charlie, one of the most renowned crossing points of the Berlin Wall, is still preserved....",
+                    "...The Berlin Wall itself has become one of the largest open-air canvasses in the world....",
+                    "...After the fall of the Berlin Wall in 1989, many historic buildings in Mitte, the former city center of East Berlin, were illegally occupied and re-built by young squatters and became a fertile ground for underground and counterculture gatherings...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.440839,
+                    52.504454
+                ]
+            },
+            "properties": {
+                "entity": "East Side Gallery",
+                "name_location": "East Side Gallery, Zeughofstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10997, Germany",
+                "class": "tourism",
+                "type": "gallery",
+                "snippet": [
+                    "*...Other landmarks include the Brandenburg Gate, Reichstag building, Potsdamer Platz, Memorial to the Murdered Jews of Europe, Berlin Wall Memorial, East Side Gallery, Berlin Victory Column, Berlin Cathedral, and Berlin Television Tower, the tallest structure in Germany....",
+                    "...Today, the East Side Gallery preserves a large portion of the wall....",
+                    "...The East Side Gallery is an open-air exhibition of art painted directly on the last existing portions of the Berlin Wall....",
+                    "...The leftover stretch along the Spree river in Friedrichshain remains as the East Side Gallery....",
+                    "...After World War II and its subsequent occupation by the victorious countries, the devastated city was divided; West Berlin became a de facto exclave of West Germany, surrounded by the Berlin Wall (from August 1961 to November 1989) and East German territory....",
+                    "...East Berlin was declared capital of East Germany, while Bonn became the West German capital....",
+                    "...Historical affiliations\n Margraviate of Brandenburg 1237–1618\n Brandenburg-Prussia 1618–1701\nKingdom of Prussia 1701–1867\n North German Confederation 1867–1871\nGerman Empire 1871–1918\nWeimar Republic 1918–1933\nNazi Germany 1933–1945\nAllied-occupied Germany 1945–1949\nWest Germany 1949–1990\nEast Germany 1949–1990\n 1990–present\nBerlin lies in northeastern Germany, east of the River Elbe, that once constituted, together with the River (Saxon or Thuringian) Saale (from their confluence at Barby onwards), the eastern border of the Frankish Realm....",
+                    "...While the Frankish Realm was primarily inhabited by Germanic tribes like the Franks and the Saxons, the regions east of the border rivers were inhabited by Slavic tribes....",
+                    "...The sectors of the Western Allies (the United States, the United Kingdom, and France) formed West Berlin, while the Soviet sector formed East Berlin....",
+                    "...In 1949, the Federal Republic of Germany was founded in West Germany and eventually included all of the American, British and French zones, excluding those three countries' zones in Berlin, while the Marxist–Leninist German Democratic Republic was proclaimed in East Germany....",
+                    "...West Berlin was surrounded by East German territory, and East Germany proclaimed the Eastern part as its capital, a move the western powers did not recognize....",
+                    "...East Berlin included most of the city's historic center....",
+                    "...In 1961, East Germany began to build the Berlin Wall around West Berlin, and events escalated to a tank standoff at Checkpoint Charlie....",
+                    "...West Berlin was now de facto a part of West Germany with a unique legal status, while East Berlin was de facto a part of East Germany....",
+                    "...Although it was possible for Westerners to pass to the other side through strictly controlled checkpoints, for most Easterners, travel to West Berlin or West Germany was prohibited by the government of East Germany....",
+                    "...In 1971, a Four-Power agreement guaranteed access to and from West Berlin by car or train through East Germany....",
+                    "...In 1989, with the end of the Cold War and pressure from the East German population, the Berlin Wall fell on 9 November and was subsequently mostly demolished....",
+                    "*...City-wide elections in December 1990 resulted in the first \"all Berlin\" mayor being elected to take office in January 1991, with the separate offices of mayors in East and West Berlin expiring by that time, and Eberhard Diepgen (a former mayor of West Berlin) became the first elected mayor of a reunited Berlin....",
+                    "...All of the national governments based in Berlin –  the Kingdom of Prussia, the 2nd German Empire of 1871, the Weimar Republic, Nazi Germany, East Germany, as well as the reunified Germany –  initiated ambitious reconstruction programs, with each adding its own distinctive style to the city's architecture....",
+                    "*...Berlin was devastated by air raids, fires, and street battles during the Second World War, and many of the buildings that had survived in both East and West were demolished during the postwar period....",
+                    "*...Clusters of towers rise at various locations: Potsdamer Platz, the City West, and Alexanderplatz, the latter two delineating the former centers of East and West Berlin, with the first representing a new Berlin of the 21st century, risen from the wastes of no-man's land of the Berlin Wall....",
+                    "...It covers an area of 210 hectares and stretches from Bahnhof Zoo in the City West to the Brandenburg Gate in the east....",
+                    "...Among famous streets, Unter den Linden and Friedrichstraße are found in the city's historic heart (and were included in the former East Berlin)....",
+                    "...Starting here, the Karl-Marx-Allee heads east, an avenue lined by monumental residential buildings, designed in the Socialist Classicism style....",
+                    "...Unter den Linden is a tree-lined east–west avenue from the Brandenburg Gate to the site of the former Berliner Stadtschloss, and was once Berlin's premier promenade....",
+                    "...Juni, connecting the Brandenburg Gate and Ernst-Reuter-Platz, serves as the central east–west axis....",
+                    "...Its name commemorates the uprisings in East Berlin of 17 June 1953....",
+                    "*...After the war, the repaired bridge served as a checkpoint and border crossing between the Soviet and American sectors, and later between East and West Berlin....",
+                    "...Polish, English, Russian, and Vietnamese have more native speakers in East Berlin....",
+                    "...East Berlin's partnerships were canceled at the time of German reunification but later partially reestablished....",
+                    "...During the Cold War era, the partnerships had reflected the different power blocs, with West Berlin partnering with capitals in the Western World and East Berlin mostly partnering with cities from the Warsaw Pact and its allies....",
+                    "...Some of the most visited places in Berlin include: Potsdamer Platz, Brandenburger Tor, the Berlin wall, Alexanderplatz, Museumsinsel, Fernsehturm, the East-Side Gallery, Schloss-Charlottenburg, Zoologischer Garten, Siegessäule, Gedenkstätte Berliner Mauer, Mauerpark, Botanical Garden, Französischer Dom, Deutscher Dom and Holocaust-Mahnmal....",
+                    "...It is also the 4th ranked region in former East Germany after Jena, Dresden and Potsdam....",
+                    "...The East Berlin system which inherited the Hauptelegraphenamt, the central hub of the system, was in operation until 1976....",
+                    "...In Lichtenberg, on the grounds of the former East German Ministry for State Security, is the Stasi Museum....",
+                    "*...A private museum venture exhibits a comprehensive documentation of detailed plans and strategies devised by people who tried to flee from the East....",
+                    "...After the fall of the Berlin Wall in 1989, many historic buildings in Mitte, the former city center of East Berlin, were illegally occupied and re-built by young squatters and became a fertile ground for underground and counterculture gatherings....",
+                    "...The Konzerthausorchester Berlin was founded in 1952 as the orchestra for East Berlin...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.20605,
+                    52.536667
+                ]
+            },
+            "properties": {
+                "entity": "Spandow",
+                "name_location": "Galerie Spandow, 28, Fischerstraße, Spandau, Berlin, 13597, Germany",
+                "class": "shop",
+                "type": "jewelry",
+                "snippet": [
+                    "*...Of Berlin's twelve boroughs, five bear a (partly) Slavic-derived name: Pankow (the most populous), Steglitz-Zehlendorf, Marzahn-Hellersdorf, Treptow-Köpenick and Spandau (named Spandow until 1878)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.536776,
+                    52.397685
+                ]
+            },
+            "properties": {
+                "entity": "Brandenburg Airport",
+                "name_location": "Leonardo Airport Berlin-Brandenburg, 18, Schwalbenweg, Altglienicke, Treptow-Köpenick, Berlin, 12526, Germany",
+                "class": "place",
+                "type": "house",
+                "snippet": [
+                    "*...Berlin Brandenburg Airport (BER) opened in 2020, nine years later than planned, with Terminal 1 coming into service at the end of October, and flights to and from Tegel Airport ending in November....",
+                    "*...Berlin is served by one commercial international airport: Berlin Brandenburg Airport (BER), located just outside Berlin's south-eastern border, in the state of Brandenburg...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.330946,
+                    52.563724
+                ]
+            },
+            "properties": {
+                "entity": "Tegel Airport",
+                "name_location": "Dorint Airport Hotel - Berlin Tegel, Blankestraße, Reinickendorf, Berlin, 13403, Germany",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...Berlin Brandenburg Airport (BER) opened in 2020, nine years later than planned, with Terminal 1 coming into service at the end of October, and flights to and from Tegel Airport ending in November....",
+                    "*...It began construction in 2006, with the intention of replacing Tegel Airport (TXL) and Schönefeld Airport (SXF) as the single commercial airport of Berlin....",
+                    "*...Before the opening of the BER in Brandenburg, Berlin was served by Tegel Airport and Schönefeld Airport....",
+                    "*...Tegel Airport was within the city limits, and Schönefeld Airport was located at the same site as the BER....",
+                    "*...Tegel Airport was a focus city for Lufthansa and Eurowings while Schönefeld served as an important destination for airlines like Germania, easyJet and Ryanair...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41128,
+                    52.521566
+                ]
+            },
+            "properties": {
+                "entity": "Alexanderplatz",
+                "name_location": "Alexanderplatz, Dircksenstraße, Mitte, Berlin, 10178, Germany",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...The connecting link of U-Bahn line U5 from Alexanderplatz to Hauptbahnhof, along with the new stations Rotes Rathaus and Unter den Linden, opened on 4 December 2020, with the Museumsinsel U-Bahn station expected to open around March 2021, which would complete all new works on the U5....",
+                    "*...Clusters of towers rise at various locations: Potsdamer Platz, the City West, and Alexanderplatz, the latter two delineating the former centers of East and West Berlin, with the first representing a new Berlin of the 21st century, risen from the wastes of no-man's land of the Berlin Wall....",
+                    "*...The Fernsehturm (TV tower) at Alexanderplatz in Mitte is among the tallest structures in the European Union at 368 m (1,207 ft)....",
+                    "*...Some of the most visited places in Berlin include: Potsdamer Platz, Brandenburger Tor, the Berlin wall, Alexanderplatz, Museumsinsel, Fernsehturm, the East-Side Gallery, Schloss-Charlottenburg, Zoologischer Garten, Siegessäule, Gedenkstätte Berliner Mauer, Mauerpark, Botanical Garden, Französischer Dom, Deutscher Dom and Holocaust-Mahnmal....",
+                    "*...The Weekend Club near Alexanderplatz features a roof terrace that allows partying at night...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.338849,
+                    52.50492
+                ]
+            },
+            "properties": {
+                "entity": "Berlin Palace",
+                "name_location": "Palace Berlin, 45, Budapester Straße, Tiergarten, Charlottenburg-Wilmersdorf, Berlin, 10787, Germany",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...A partial opening by the end of 2020 of the Humboldt Forum museum, housed in the reconstructed Berlin Palace, which had been announced in June, was postponed until March 2021...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.279167,
+                    52.577437
+                ]
+            },
+            "properties": {
+                "entity": "Tegeler See",
+                "name_location": "Apotheke am Tegeler See, 83, Namslaustraße, Tegel, Reinickendorf, Berlin, 13507, Germany",
+                "class": "amenity",
+                "type": "pharmacy",
+                "snippet": [
+                    "...The course of the Havel is more like a chain of lakes, the largest being the Tegeler See and the Großer Wannsee...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.371659,
+                    52.519789
+                ]
+            },
+            "properties": {
+                "entity": "Großer Tiergarten",
+                "name_location": "Tunnel Tiergarten Spreebogen, Tiergarten, Mitte, Berlin, 10557, Germany",
+                "class": "highway",
+                "type": "trunk",
+                "snippet": [
+                    "...Berlin's second-largest and most popular park, the Großer Tiergarten, is located right in the center of the city...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.332561,
+                    52.507434
+                ]
+            },
+            "properties": {
+                "entity": "Bahnhof Zoo",
+                "name_location": "Berlin Zoologischer Garten, Hardenbergplatz, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10623, Germany",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...It covers an area of 210 hectares and stretches from Bahnhof Zoo in the City West to the Brandenburg Gate in the east...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.401094,
+                    52.519082
+                ]
+            },
+            "properties": {
+                "entity": "Berlin Cathedral",
+                "name_location": "Berlin Cathedral, Am Lustgarten, Friedrichswerder, Mitte, Berlin, 10178, Germany",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Other landmarks include the Brandenburg Gate, Reichstag building, Potsdamer Platz, Memorial to the Murdered Jews of Europe, Berlin Wall Memorial, East Side Gallery, Berlin Victory Column, Berlin Cathedral, and Berlin Television Tower, the tallest structure in Germany....",
+                    "*...Also on the island and next to the Lustgarten and palace is Berlin Cathedral, emperor William II's ambitious attempt to create a Protestant counterpart to St. Peter's Basilica in Rome...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.402071,
+                    52.52268
+                ]
+            },
+            "properties": {
+                "entity": "Hackescher Markt",
+                "name_location": "Hackescher Markt, Spandauer Vorstadt, Mitte, Berlin, 10178, Germany",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...The area around Hackescher Markt is home to fashionable culture, with countless clothing outlets, clubs, bars, and galleries...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.351123,
+                    52.514538
+                ]
+            },
+            "properties": {
+                "entity": "Großer Stern",
+                "name_location": "Großer Stern, Botschaftsviertel, Tiergarten, Mitte, Berlin, 10557, Germany",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "...Approximately halfway from the Brandenburg Gate is the Großer Stern, a circular traffic island on which the Siegessäule (Victory Column) is situated...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.374026,
+                    52.5178
+                ]
+            },
+            "properties": {
+                "entity": "Reichstag",
+                "name_location": "Reichstag, Scheidemannstraße, Tiergarten, Mitte, Berlin, 10557, Germany",
+                "class": "amenity",
+                "type": "taxi",
+                "snippet": [
+                    "*...Other landmarks include the Brandenburg Gate, Reichstag building, Potsdamer Platz, Memorial to the Murdered Jews of Europe, Berlin Wall Memorial, East Side Gallery, Berlin Victory Column, Berlin Cathedral, and Berlin Television Tower, the tallest structure in Germany....",
+                    "*...At the end of the First World War in 1918, a republic was proclaimed by Philipp Scheidemann at the Reichstag building....",
+                    "*...The Reichstag building is the traditional seat of the German Parliament....",
+                    "*...This monument, built to commemorate Prussia's victories, was relocated in 1938–39 from its previous position in front of the Reichstag....",
+                    "*...Facing the Chancellery is the Bundestag, the German Parliament, housed in the renovated Reichstag building since the government's relocation to Berlin in 1998...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.352432,
+                    52.517285
+                ]
+            },
+            "properties": {
+                "entity": "Bellevue Palace",
+                "name_location": "Bellevue Palace, 1, Spreeweg, Tiergarten, Mitte, Berlin, 10557, Germany",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...West of the center, Bellevue Palace is the residence of the German President....",
+                    "*...The President of Germany, whose functions are mainly ceremonial under the German constitution, has their official residence in Bellevue Palace...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.379406,
+                    52.551298
+                ]
+            },
+            "properties": {
+                "entity": "Venus",
+                "name_location": "Venus Bar, 58, Pankstraße, Gesundbrunnen, Mitte, Berlin, 13357, Germany",
+                "class": "amenity",
+                "type": "brothel",
+                "snippet": [
+                    "*...Several large-scale trade fairs like the consumer electronics trade fair IFA, the ILA Berlin Air Show, the Berlin Fashion Week (including the Premium Berlin and the Panorama Berlin), the Green Week, the Fruit Logistica, the transport fair InnoTrans, the tourism fair ITB and the adult entertainment and erotic fair Venus are held annually in the city, attracting a significant number of business visitors...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.369861,
+                    52.524636
+                ]
+            },
+            "properties": {
+                "entity": "Berlin Hauptbahnhof",
+                "name_location": "Berlin Hauptbahnhof (tief), Eingangsebene, Moabit, Mitte, Berlin, 10557, Germany",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "...The Berlin Hauptbahnhof is the largest grade-separated railway station in Europe....",
+                    "...The Museum für Naturkunde (Berlin's natural history museum) exhibits natural history near Berlin Hauptbahnhof....",
+                    "*...The connecting link of U-Bahn line U5 from Alexanderplatz to Hauptbahnhof, along with the new stations Rotes Rathaus and Unter den Linden, opened on 4 December 2020, with the Museumsinsel U-Bahn station expected to open around March 2021, which would complete all new works on the U5...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4017,
+                    52.4736
+                ]
+            },
+            "properties": {
+                "entity": "Tempelhof Airport",
+                "name_location": "Airport Reference Point Tempelhof, Landebahn 09L/27R, Tempelhof, Tempelhof-Schöneberg, Berlin, 12099, Germany",
+                "class": "aeroway",
+                "type": "arp",
+                "snippet": [
+                    "*...Until 2008, Berlin was also served by the smaller Tempelhof Airport, which functioned as a city airport, with a convenient location near the city center, allowing for quick transit times between the central business district and the airport...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.305149,
+                    52.505191
+                ]
+            },
+            "properties": {
+                "entity": "Charlottenburg",
+                "name_location": "Charlottenburg, Stuttgarter Platz, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10627, Germany",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "...Large parts of the boroughs Reinickendorf and Pankow lie on the Barnim Plateau, while most of the boroughs of Charlottenburg-Wilmersdorf, Steglitz-Zehlendorf, Tempelhof-Schöneberg, and Neukölln lie on the Teltow Plateau....",
+                    "...Much ornamentation on prewar buildings was destroyed following modernist dogmas, and in both postwar systems, as well as in the reunified Berlin, many important heritage structures have been reconstructed, including the Forum Fridericianum along with, the State Opera (1955), Charlottenburg Palace (1957), the monumental buildings on Gendarmenmarkt (1980s),...",
+                    "...Charlottenburg Palace, which was burnt out in the Second World War, is the largest historical palace in Berlin....",
+                    "...Some of the most visited places in Berlin include: Potsdamer Platz, Brandenburger Tor, the Berlin wall, Alexanderplatz, Museumsinsel, Fernsehturm, the East-Side Gallery, Schloss-Charlottenburg, Zoologischer Garten, Siegessäule, Gedenkstätte Berliner Mauer, Mauerpark, Botanical Garden, Französischer Dom, Deutscher Dom and Holocaust-Mahnmal....",
+                    "...As of 2015[update] the five largest power plants measured by capacity are the Heizkraftwerk Reuter West, the Heizkraftwerk Lichterfelde, the Heizkraftwerk Mitte, the Heizkraftwerk Wilmersdorf, and the Heizkraftwerk Charlottenburg....",
+                    "*...The Deutsche Oper opened in 1912 in Charlottenburg...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.358166,
+                    52.505392
+                ]
+            },
+            "properties": {
+                "entity": "Radialsystem",
+                "name_location": "Pumpstation Radialsystem VII, 42, Lützowstraße, Botschaftsviertel, Tiergarten, Mitte, Berlin, 10785, Germany",
+                "class": "historic",
+                "type": "pumping_station",
+                "snippet": [
+                    "...Contemporary dance can be seen at the Radialsystem V...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.423254,
+                    52.438209
+                ]
+            },
+            "properties": {
+                "entity": "Britzer Garten",
+                "name_location": "Britzer Garten, Am Römersgrün, Britz, Neukölln, Berlin, 12347, Germany",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "...Other gardens in the city include the Britzer Garten, and the Gärten der Welt (Gardens of the World) in Marzahn...."
+                ]
+            }
+        }
+    ]
+}

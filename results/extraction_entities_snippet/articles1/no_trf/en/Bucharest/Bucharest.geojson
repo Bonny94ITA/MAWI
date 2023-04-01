@@ -1,0 +1,378 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.102891,
+                    44.407659
+                ]
+            },
+            "properties": {
+                "entity": "Tineretului Park",
+                "name_location": "Skate Park Tineretului, Strada Nicopole, Sector 4, Bucharest, 040585, Romania",
+                "class": "leisure",
+                "type": "pitch",
+                "snippet": [
+                    "*...Bucharest parks and gardens also include Herăstrău Park, Tineretului Park and the Botanical Garden....",
+                    "*...Tineretului Park was created in 1965 and designed as the main recreational space for southern Bucharest...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.066362,
+                    44.4369
+                ]
+            },
+            "properties": {
+                "entity": "Botanical Garden",
+                "name_location": "\"Dimitrie Brandza\" Botanic Garden, Șoseaua Cotroceni, Cotroceni, Sector 6, Bucharest, 060115, Romania",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "...Bucharest parks and gardens also include Herăstrău Park, Tineretului Park and the Botanical Garden....",
+                    "...The Botanical Garden, located in the Cotroceni neighbourhood a bit west of the city centre, is the largest of its kind in Romania and contains over 10,000 species of plants (many of them exotic); it originated as the pleasure park of the royal family...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.107437,
+                    44.434076
+                ]
+            },
+            "properties": {
+                "entity": "Mini",
+                "name_location": "Mini, Calea Moșilor, Centrul Istoric, Sector 3, Bucharest, 030146, Romania",
+                "class": "shop",
+                "type": "supermarket",
+                "snippet": [
+                    "*...It contains a Mini Town which is a play area for kids...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.096873,
+                    44.411248
+                ]
+            },
+            "properties": {
+                "entity": "Eroilor Park",
+                "name_location": "Carol Park Mausoleum, Strada General Candiano Popescu, Sector 4, Bucharest, 040585, Romania",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Other large parks in Bucharest are: National Park, Tei Park, Eroilor Park and Crângași Park with Morii Lake...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.102439,
+                    44.435674
+                ]
+            },
+            "properties": {
+                "entity": "University Square",
+                "name_location": "University Square, Cartierul Evreiesc, Sector 3, Bucharest, 030142, Romania",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...The city has a roughly round shape, with the centre situated in the cross-way of the main north–south/east-west axes at University Square....",
+                    "*...The milestone for Romania's Kilometre Zero is placed just south of University Square in front of the New St. George Church (Sfântul Gheorghe Nou) at St. George Square (Piața Sfântul Gheorghe)....",
+                    "*...Bucharest's radius, from University Square to the city limits in all directions, varies from  10 to 12 km (6 to 7 mi)....",
+                    "*...InterContinental Bucharest is a high-rise five-star hotel near University Square and is also a landmark of the city...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.089485,
+                    44.507259
+                ]
+            },
+            "properties": {
+                "entity": "Băneasa Shopping City",
+                "name_location": "Băneasa Shopping City, 42D, Șoseaua București-Ploiești, Băneasa, Sector 1, Bucharest, 015011, Romania",
+                "class": "shop",
+                "type": "mall",
+                "snippet": [
+                    "*...Malls and large shopping centres have been built since the late 1990s, such as Băneasa Shopping City, AFI Palace Cotroceni, Mega Mall, București Mall, ParkLake Shopping Centre, Sun Plaza, Promenada Mall and longest Unirea Shopping Centre...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.125287,
+                    44.420427
+                ]
+            },
+            "properties": {
+                "entity": "București Mall",
+                "name_location": "București Mall, Calea Vitan, Centrul Civic, Sector 3, Bucharest, 031298, Romania",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Malls and large shopping centres have been built since the late 1990s, such as Băneasa Shopping City, AFI Palace Cotroceni, Mega Mall, București Mall, ParkLake Shopping Centre, Sun Plaza, Promenada Mall and longest Unirea Shopping Centre...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.103413,
+                    44.478191
+                ]
+            },
+            "properties": {
+                "entity": "Promenada Mall",
+                "name_location": "Promenada Mall, 246B, Calea Floreasca, Floreasca, Sector 1, Bucharest, 014476, Romania",
+                "class": "shop",
+                "type": "mall",
+                "snippet": [
+                    "*...Malls and large shopping centres have been built since the late 1990s, such as Băneasa Shopping City, AFI Palace Cotroceni, Mega Mall, București Mall, ParkLake Shopping Centre, Sun Plaza, Promenada Mall and longest Unirea Shopping Centre...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.075601,
+                    44.444759
+                ]
+            },
+            "properties": {
+                "entity": "Gara de Nord",
+                "name_location": "Gara de Nord, Bulevardul Dinicu Golescu, Gara de Nord, Sector 1, Bucharest, 010863, Romania",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...The main railway station is Gara de Nord ('North Station'), which provides connections to all major cities in Romania, as well as international destinations: Belgrade, Sofia, Varna, Chișinău, Kyiv, Chernivtsi, Lviv, Thessaloniki, Vienna, Budapest, Istanbul, Moscow etc....",
+                    "...The overpass took five years to build and is the longest cable-stayed bridge in Romania and the widest such bridge in Europe; upon completion, traffic on the Grant Bridge and in the Gara de Nord area became noticeably more fluid....",
+                    "...Many large-scale constructions such as the Gara de Nord, the busiest railway station in the city, National Bank of Romania's headquarters, and the Telephones Company Building date from these times...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.090228,
+                    44.500292
+                ]
+            },
+            "properties": {
+                "entity": "Vlaicu International Airport",
+                "name_location": "Aurel Vlaicu International Airport, 40, Șoseaua București-Ploiești, Băneasa, Sector 1, Bucharest, 013695, Romania",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "*...Aurel Vlaicu International Airport (IATA: BBU, ICAO: LRBS) is Bucharest's business and VIP airport. It is situated only 8 km (5.0 mi) north of the Bucharest city centre, within city limits...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.077394,
+                    44.460795
+                ]
+            },
+            "properties": {
+                "entity": "Arc de Triomphe",
+                "name_location": "Arc De Triomphe, 19, Strada Clucerului, Aviatorilor, Sector 1, Bucharest, 011362, Romania",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "...Another landmark in Bucharest is Arcul de Triumf (The Triumphal Arch), built in its current form in 1935 and modelled after the Arc de Triomphe in Paris...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.097448,
+                    44.438888
+                ]
+            },
+            "properties": {
+                "entity": "Memorial of Rebirth",
+                "name_location": "Memorial of Rebirth, Calea Victoriei, Sector 1, Bucharest, 010092, Romania",
+                "class": "historic",
+                "type": "monument",
+                "snippet": [
+                    "...A newer landmark of the city is the Memorial of Rebirth, a stylised marble pillar unveiled in 2005 to commemorate the victims of the Romanian Revolution of 1989, which overthrew Communism...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.095805,
+                    44.439479
+                ]
+            },
+            "properties": {
+                "entity": "royal palace",
+                "name_location": "Royal palace, Piața George Enescu, Sector 1, Bucharest, 010085, Romania",
+                "class": "historic",
+                "type": "castle",
+                "snippet": [
+                    "...It is located in the royal palace and features collections of medieval and modern Romanian art, including works by sculptor Constantin Brâncuși, as well as an international collection assembled by the Romanian royal family...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.088721,
+                    44.439536
+                ]
+            },
+            "properties": {
+                "entity": "Crețulescu Palace",
+                "name_location": "Kretzulescu Palace, 39, Strada Știrbei Vodă, Sector 1, Bucharest, 010102, Romania",
+                "class": "historic",
+                "type": "castle",
+                "snippet": [
+                    "...Two buildings from this time are the Crețulescu Palace, housing cultural institutions including UNESCO's European Centre for Higher Education, and the Cotroceni Palace, the residence of the Romanian President...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.087263,
+                    44.465178
+                ]
+            },
+            "properties": {
+                "entity": "Charles de Gaulle Plaza",
+                "name_location": "Charles de Gaulle Plaza, 15, Piața Charles de Gaulle, Dorobanți, Sector 1, Bucharest, 011857, Romania",
+                "class": "building",
+                "type": "commercial",
+                "snippet": [
+                    "*...Examples of modern skyscrapers built in the 21st century include Bucharest Tower Centre, Euro Tower, Nusco Tower, Cathedral Plaza, City Gate Towers, Rin Grand Hotel, Premium Plaza, Bucharest Corporate Centre, Millennium Business Centre, PGV Tower, Charles de Gaulle Plaza, Business Development Centre Bucharest, BRD Tower, and Bucharest Financial Plaza...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.09672,
+                    44.432648
+                ]
+            },
+            "properties": {
+                "entity": "Bucharest Financial Plaza",
+                "name_location": "Bucharest Financial Plaza, 15, Calea Victoriei, Centrul Istoric, Sector 3, Bucharest, 030023, Romania",
+                "class": "building",
+                "type": "commercial",
+                "snippet": [
+                    "*...Examples of modern skyscrapers built in the 21st century include Bucharest Tower Centre, Euro Tower, Nusco Tower, Cathedral Plaza, City Gate Towers, Rin Grand Hotel, Premium Plaza, Bucharest Corporate Centre, Millennium Business Centre, PGV Tower, Charles de Gaulle Plaza, Business Development Centre Bucharest, BRD Tower, and Bucharest Financial Plaza...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.125011,
+                    44.407355
+                ]
+            },
+            "properties": {
+                "entity": "Asmita Gardens",
+                "name_location": "World Class Asmita Gardens, 168, Splaiul Unirii, Văcărești, Sector 4, Bucharest, 030138, Romania",
+                "class": "leisure",
+                "type": "fitness_centre",
+                "snippet": [
+                    "*...An example of a new high rise residential complex is Asmita Gardens...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.087248,
+                    44.42751
+                ]
+            },
+            "properties": {
+                "entity": "Palace of the Parliament",
+                "name_location": "Palace of the Parliament, 2-4, Strada Izvor, Centrul Civic, Sector 5, Bucharest, 050563, Romania",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...During Nicolae Ceaușescu's leadership (1965–89), a part of the historic part of the city was demolished and replaced by 'Socialist realism' style development: (1) the Centrul Civic (the Civic Centre) and (2) the Palace of the Parliament, for which an entire historic quarter was razed to make way for Ceaușescu's megalomaniac plans....",
+                    "...Perhaps the most prominent of these is the Palace of the Parliament, built in the 1980s during the rule of Communist dictator Nicolae Ceaușescu....",
+                    "...The National Museum of Contemporary Art (MNAC), situated in a wing of the Palace of the Parliament, was opened in 2004 and contains Romanian and international contemporary art....",
+                    "...A major part of Bucharest's architecture is made up of buildings constructed during the Communist era replacing the historical architecture with high-density apartment blocks – significant portions of the historic centre of Bucharest were demolished to construct one of the largest buildings in the world, the Palace of the Parliament (then officially called the House of the Republic)....",
+                    "...Bucharest hosted annual races along a temporary urban track surrounding the Palace of the Parliament, called Bucharest Ring...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.150363,
+                    44.439534
+                ]
+            },
+            "properties": {
+                "entity": "Arena Națională",
+                "name_location": "Arena Națională, Bulevardul Pierre de Coubertin, Vatra Luminoasă, Sector 2, Bucharest, 021902, Romania",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "...Arena Națională, a new stadium inaugurated on 6 September 2011, hosted the 2012 Europa League Final and has a 55,600-seat capacity, making it one of the largest stadiums in Southeastern Europe and one of the few with a roof....",
+                    "...Bucharest hosted the UEFA Euro 2020 championship at the Arena Națională or Bucharest National Arena...."
+                ]
+            }
+        }
+    ]
+}

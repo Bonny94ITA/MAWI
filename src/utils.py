@@ -403,7 +403,7 @@ def read_titles(path: str, lang: str):
                 titles_articles.append(line)
                 line = f.readline().strip()
         else:
-            while line:
+            while line != "#EN":
                 line = f.readline().strip()
             line = f.readline().strip()
             while line:

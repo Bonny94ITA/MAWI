@@ -1,0 +1,334 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.363994,
+                    48.212562
+                ]
+            },
+            "properties": {
+                "entity": "Scots Abbey",
+                "name_location": "Abbey of the Scots, 6, Freyung, Schottenviertel, Innere Stadt, Vienna, 1010, Austria",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Irish Benedictines founded twelfth-century monastic settlements; evidence of these ties persists in the form of Vienna's great Schottenstift monastery (Scots Abbey), once home to many Irish monks...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.370797,
+                    48.212235
+                ]
+            },
+            "properties": {
+                "entity": "Innere Stadt",
+                "name_location": "Bezirksmuseum Innere Stadt, 8, Wipplingerstraße, Textilviertel, Innere Stadt, Vienna, 1010, Austria",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...The heart and historical city of Vienna, a large part of today's Innere Stadt, was a fortress surrounded by fields in order to defend itself from potential attackers....",
+                    "...The Innere Stadt is situated away from the main flow of the Danube, but is bounded by the Donaukanal (\"Danube canal\")...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.357176,
+                    48.211478
+                ]
+            },
+            "properties": {
+                "entity": "Rathaus",
+                "name_location": "Vienna City Library, 1, City Hall Square, Schottenviertel, Innere Stadt, Vienna, 1010, Austria",
+                "class": "amenity",
+                "type": "library",
+                "snippet": [
+                    "*...These buildings include the Rathaus (town hall), the Burgtheater, the University, the Parliament, the twin museums of natural history and fine art, and the Staatsoper....",
+                    "*...The Rathaus accommodates the offices of the mayor (de:Magistrat der Stadt Wien) and the state government (Landesregierung)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.337454,
+                    48.195267
+                ]
+            },
+            "properties": {
+                "entity": "West",
+                "name_location": "West, Gerstnerstraße, Neu-Fünfhaus, KG Fünfhaus, Rudolfsheim-Fünfhaus, Vienna, 1150, Austria",
+                "class": "amenity",
+                "type": "fast_food",
+                "snippet": [
+                    "...Barbed wire fences were installed around the perimeter of West Berlin in 1953, but not in Vienna....",
+                    "...Thus they ensured that Austria would not be a member of NATO and that NATO forces would therefore not have direct communications between Italy and West Germany....",
+                    "...Precipitation is generally moderate throughout the year, averaging around 550 mm (21.7 in) annually, with considerable local variations, the Vienna Woods region in the west being the wettest part (700 to 800 mm (28 to 31 in) annually) and the flat plains in the east being the driest part (500 to 550 mm (20 to 22 in) annually)....",
+                    "*...From 1850 to 1890, city limits in the West and the South mainly followed another wall called Linienwall at which a road toll called the Liniengeld was charged...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.353374,
+                    48.216789
+                ]
+            },
+            "properties": {
+                "entity": "South",
+                "name_location": "Department of South Asian, Tibetan and Buddhist Studies, 2-4, Tür 2.7, Spitalgasse, Alservorstadt, KG Alsergrund, Alsergrund, Vienna, 1090, Austria",
+                "class": "amenity",
+                "type": "university",
+                "snippet": [
+                    "...The earliest settlement, at the location of today's inner city, was south of the meandering Danube while the city now spans both sides of the river....",
+                    "*...From 1850 to 1890, city limits in the West and the South mainly followed another wall called Linienwall at which a road toll called the Liniengeld was charged....",
+                    "...International Anti-Corruption Academy (in Laxenburg, 24 km (15 mi) south of Vienna) ...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.396626,
+                    48.201743
+                ]
+            },
+            "properties": {
+                "entity": "Eastern Europe",
+                "name_location": "Henkel Central Eastern Europe GesmbH, Wassergasse, Erdberg, KG Landstraße, Landstraße, Vienna, 1030, Austria",
+                "class": "building",
+                "type": "office",
+                "snippet": [
+                    "*...Since the fall of the Iron Curtain in 1989, Vienna has expanded its position as gateway to Eastern Europe: 300 international companies have their Eastern European headquarters in Vienna and its environs....",
+                    "*...Companies in Vienna have extensive contacts and competences in business with Eastern Europe due to the city's historical role as center of the Habsburg Empire...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.396626,
+                    48.201743
+                ]
+            },
+            "properties": {
+                "entity": "Central Europe",
+                "name_location": "Henkel Central Eastern Europe GesmbH, Wassergasse, Erdberg, KG Landstraße, Landstraße, Vienna, 1030, Austria",
+                "class": "building",
+                "type": "office",
+                "snippet": [
+                    "*...Since 2012, the city hosts the annual Pioneers Festival, the largest start-up event in Central Europe with 2,500 international participants taking place at Hofburg Palace....",
+                    "*...Vienna has regained much of its former international stature by hosting international organizations, such as the United Nations (United Nations Industrial Development Organization, United Nations Office at Vienna and United Nations Office on Drugs and Crime), the Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organization, the International Atomic Energy Agency, the Organization of Petroleum Exporting Countries, and the Organization for Security and Cooperation in Europe....",
+                    "*...In 1910, Vienna had more than two million inhabitants, and was the third largest city in Europe after London and Paris....",
+                    "*...At that time, Vienna's municipal policy was admired by Socialists throughout Europe, who therefore referred to the city as \"Red Vienna\" (Rotes Wien)....",
+                    "...Since the fall of the Iron Curtain in 1989, Vienna has expanded its position as gateway to Eastern Europe: 300 international companies have their Eastern European headquarters in Vienna and its environs....",
+                    "...Companies in Vienna have extensive contacts and competences in business with Eastern Europe due to the city's historical role as center of the Habsburg Empire....",
+                    "*...The Viennese sector for information and communication technologies is comparable in size with the sector in Helsinki, Milan or Munich and thus among Europe's largest IT locations....",
+                    "*...The US technology corporation Cisco runs its Entrepreneurs in Residence program for Europe in Vienna in cooperation with the Vienna Business Agency....",
+                    "*...Seestadt Aspern is one of the largest urban expansion projects of Europe....",
+                    "*...It is the oldest English-language theater in continental Europe....",
+                    "*...Other important sports clubs include the Raiffeisen Vikings Vienna (American Football), who won the Eurobowl title between 2004 and 2007 4 times in a row and had a perfect season in 2013, the Aon hotVolleys Vienna, one of Europe's premier Volleyball organizations, the Vienna Wanderers (baseball) who won the 2012 and 2013 Championship of the Austrian Baseball League, and the Vienna Capitals (Ice Hockey)....",
+                    "*...Vienna is the seat of a number of United Nations offices and various international institutions and companies, including the International Atomic Energy Agency (IAEA), the United Nations Industrial Development Organization (UNIDO), the United Nations Office on Drugs and Crime (UNODC), the Organization of Petroleum Exporting Countries (OPEC), the OPEC Fund for International Development (OFID), the Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organization (CTBTO), the Organization for Security and Co-operation in Europe (OSCE), the United Nations Office for Outer Space Affairs (UNOOSA) and the European Union Agency for Fundamental Rights (FRA)....",
+                    "*...Among the more important documents negotiated in Vienna are the 1969 Vienna Convention on the Law of Treaties, as well as the 1990 Treaty on Conventional Armed Forces in Europe...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.365626,
+                    48.206329
+                ]
+            },
+            "properties": {
+                "entity": "Hofburg Palace",
+                "name_location": "Hofburg Palace, Reitschulgasse, Widmerviertel, Innere Stadt, Vienna, 1010, Austria",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Since 2012, the city hosts the annual Pioneers Festival, the largest start-up event in Central Europe with 2,500 international participants taking place at Hofburg Palace....",
+                    "...Other centers are the Messe Wien Exhibition & Congress Center (up to 3,000 people) and the Hofburg Palace (up to 4,900 people)....",
+                    "...Balls are held in the many palaces in Vienna, with the principal venue being the Hofburg Palace in Heldenplatz...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.414633,
+                    48.23508
+                ]
+            },
+            "properties": {
+                "entity": "Austria Center Vienna",
+                "name_location": "Austria Center Vienna, 1, Bruno-Kreisky-Platz, Donau City, KG Kaisermühlen, Donaustadt, Vienna, 1220, Austria",
+                "class": "amenity",
+                "type": "conference_centre",
+                "snippet": [
+                    "...The city's largest conference center, the Austria Center Vienna (ACV) has a total capacity for around 22,800 people and is situated next to the United Nations Headquarters in Vienna...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.362435,
+                    48.209809
+                ]
+            },
+            "properties": {
+                "entity": "Liechtenstein Palace",
+                "name_location": "City Palace Liechtenstein, Löwelstraße, Schottenviertel, Innere Stadt, Vienna, 1010, Austria",
+                "class": "historic",
+                "type": "castle",
+                "snippet": [
+                    "...The Liechtenstein Palace contains much of one of the world's largest private art collections, especially strong in the Baroque...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.412613,
+                    48.231647
+                ]
+            },
+            "properties": {
+                "entity": "DC Tower",
+                "name_location": "Ramien Go DC Tower, 7, Donau-City-Straße, Donau City, KG Kaisermühlen, Donaustadt, Vienna, 1220, Austria",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...The 220-meter high DC Tower 1 located on the Northern bank of the Danube, completed in 2013, is the tallest skyscraper in Vienna...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.378492,
+                    48.192816
+                ]
+            },
+            "properties": {
+                "entity": "Schloss Belvedere",
+                "name_location": "Schloss Belvedere, 42, Prinz-Eugen-Straße, Wieden, KG Wieden, Wieden, Vienna, 1040, Austria",
+                "class": "amenity",
+                "type": "charging_station",
+                "snippet": [
+                    "*...Vienna possesses many parks, including the Stadtpark, the Burggarten, the Volksgarten (part of the Hofburg), the Schlosspark at Schloss Belvedere (home to the Vienna Botanic Gardens), the Donaupark, the Schönbrunner Schlosspark, the Prater, the Augarten, the Rathauspark, the Lainzer Tiergarten, the Dehnepark, the Resselpark, the Votivpark, the Kurpark Oberlaa, the Auer-Welsbach-Park and the Türkenschanzpark...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.332504,
+                    48.201937
+                ]
+            },
+            "properties": {
+                "entity": "Wiener Stadthalle",
+                "name_location": "Wiener Stadthalle, Hackengasse, Neu-Fünfhaus, KG Fünfhaus, Rudolfsheim-Fünfhaus, Vienna, 1150, Austria",
+                "class": "amenity",
+                "type": "arts_centre",
+                "snippet": [
+                    "...The matches are played in the Wiener Stadthalle...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.392911,
+                    48.218362
+                ]
+            },
+            "properties": {
+                "entity": "Prater",
+                "name_location": "Prater; Prater Hauptallee, Praterstern, Leopoldstadt, KG Leopoldstadt, Leopoldstadt, Vienna, 1020, Austria",
+                "class": "railway",
+                "type": "subway_entrance",
+                "snippet": [
+                    "*...Vienna possesses many parks, including the Stadtpark, the Burggarten, the Volksgarten (part of the Hofburg), the Schlosspark at Schloss Belvedere (home to the Vienna Botanic Gardens), the Donaupark, the Schönbrunner Schlosspark, the Prater, the Augarten, the Rathauspark, the Lainzer Tiergarten, the Dehnepark, the Resselpark, the Votivpark, the Kurpark Oberlaa, the Auer-Welsbach-Park and the Türkenschanzpark....",
+                    "...Green areas include Laaer-Berg (including the Bohemian Prater) and the foothills of the Wienerwald, which reaches into the outer areas of the city....",
+                    "*...Vienna's principal park is the Prater which is home to the Riesenrad, a Ferris wheel, and Kugelmugel, a micronation the shape of a sphere....",
+                    "*...Major tourist attractions include the imperial palaces of the Hofburg and Schönbrunn (also home to the world's oldest zoo, Tiergarten Schönbrunn) and the Riesenrad in the Prater...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.399938,
+                    48.189217
+                ]
+            },
+            "properties": {
+                "entity": "St. Marx",
+                "name_location": "St. Marx, Landstraßer Hauptstraße, St. Marx, KG Landstraße, Landstraße, Vienna, 1030, Austria",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Mozart has a memorial grave at the Habsburg gardens and at St. Marx cemetery (where his grave was lost)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.368531,
+                    48.176107
+                ]
+            },
+            "properties": {
+                "entity": "Schwechat",
+                "name_location": "Wetten Schwechat, 106, Quellenstraße, KG Favoriten, Favoriten, Vienna, 1100, Austria",
+                "class": "leisure",
+                "type": "gambling",
+                "snippet": [
+                    "*...Vienna is served by Vienna International Airport, located 18 km (11 mi) southeast of the city center next to the town of Schwechat...."
+                ]
+            }
+        }
+    ]
+}

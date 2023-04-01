@@ -1,0 +1,127 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.737602,
+                    59.908428
+                ]
+            },
+            "properties": {
+                "entity": "Akershus Fortress",
+                "name_location": "Akershus fortress, Operatunnelen / Festningstunnelen, Akershus festning, Sentrum, Oslo, 0037, Norway",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...After being destroyed by a fire in 1624, during the reign of King Christian IV, a new city was built closer to Akershus Fortress and named Christiania in honour of the king....",
+                    "*...After being destroyed by a fire in 1624, during the reign of King Christian IV, a new city was built closer to Akershus Fortress and named Christiania in the king's honour....",
+                    "...He also started the construction of the Akershus Fortress and the Oslo Kongsgård....",
+                    "*...He started building Akershus Fortress and was also the first king to reside permanently in the city, which helped to make Oslo the capital of Norway...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.745843,
+                    59.910491
+                ]
+            },
+            "properties": {
+                "entity": "Gamle Oslo",
+                "name_location": "Oslo postgård, Prinsens gate, Kvadraturen, Sentrum, Oslo, 0152, Norway",
+                "class": "building",
+                "type": "civic",
+                "snippet": [
+                    "*...The Old Town is an area within the administrative district Gamle Oslo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73635,
+                    59.906655
+                ]
+            },
+            "properties": {
+                "entity": "Akershus Castle",
+                "name_location": "Akershus castle, Akershusstranda, Akershus festning, Sentrum, Oslo, 0015, Norway",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Oslo was destroyed several times by fire, and after the fourteenth calamity, in 1624, Christian IV of Denmark and Norway ordered it rebuilt at a new site across the bay, near Akershus Castle and given the name Christiania....",
+                    "*...His men built a network of roads in Akershagen near Akershus Castle...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.751598,
+                    59.921931
+                ]
+            },
+            "properties": {
+                "entity": "Vulkan",
+                "name_location": "Vulkan, Nedre Foss, Grünerløkka, Oslo, 0178, Norway",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...There are several food markets, the largest being Mathallen Food Hall at Vulkan with more than 30 specialty shops, cafés, and eateries...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.727633,
+                    59.917199
+                ]
+            },
+            "properties": {
+                "entity": "royal palace",
+                "name_location": "Royal Palace, Slottsplassen, Vika, Sentrum, Oslo, 0010, Norway",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...Many landmarks were built in the 19th century, including the Royal Palace (1825–1848), Storting building (the Parliament) (1861–1866), the University, National Theatre and the Stock Exchange....",
+                    "...Several important buildings were erected – The Bank of Norway (1828), the Royal Palace (1848), and the Storting (1866)....",
+                    "...The first major undertaking was the Royal Palace, designed by Hans Linstow and built between 1824 and 1848....",
+                    "...The National Theatre is the largest theatre in Norway and is situated between the royal palace and the parliament building, Stortinget....",
+                    "*...Linstow also planned Karl Johans gate, the avenue connecting the Palace and the city, with a monumental square halfway to be surrounded by buildings for University, the Parliament (Storting) and other institutions...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.825339,
+                    59.89613
+                ]
+            },
+            "properties": {
+                "entity": "Manglerud Star",
+                "name_location": "Manglerud Star klubbhus, Blodbakken, Rognerud, Østensjø, Oslo, 0681, Norway",
+                "class": "building",
+                "type": "stadium",
+                "snippet": [
+                    "*...Manglerud Star is another Oslo-team who play in the top league...."
+                ]
+            }
+        }
+    ]
+}

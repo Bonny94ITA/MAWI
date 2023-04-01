@@ -1,0 +1,1497 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.387251,
+                    43.653347
+                ]
+            },
+            "properties": {
+                "entity": "Asia",
+                "name_location": "Asia Pacific Foundation of Canada, 375, University Avenue, Queen West, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5G 2J5, Canada",
+                "class": "office",
+                "type": "foundation",
+                "snippet": [
+                    "*...Toronto is known for its many skyscrapers and high-rise buildings, in particular the tallest free-standing structure on land outside of Asia, the CN Tower....",
+                    "*...The Gardiner Museum of ceramic art is the only museum in Canada entirely devoted to ceramics, and the Museum's collection contains more than 2,900 ceramic works from Asia, the Americas, and Europe...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.387748,
+                    43.642701
+                ]
+            },
+            "properties": {
+                "entity": "CN Tower",
+                "name_location": "CN Tower, Convention centre loading dock, Entertainment District, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5V 3B5, Canada",
+                "class": "shop",
+                "type": "ticket",
+                "snippet": [
+                    "...Toronto is known for its many skyscrapers and high-rise buildings, in particular the tallest free-standing structure on land outside of Asia, the CN Tower....",
+                    "...Defining the Toronto skyline is the CN Tower, a telecommunications and tourism hub....",
+                    "...Other tourist attractions include the CN Tower, Casa Loma, Toronto's theaters and musicals, Yonge-Dundas Square, and Ripley's Aquarium of Canada...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.187085,
+                    43.804979
+                ]
+            },
+            "properties": {
+                "entity": "Rouge River",
+                "name_location": "Sheppard Ave at Rouge River Dr, Sheppard Avenue East, Scarborough—Rouge Park, Scarborough, Toronto, Golden Horseshoe, Ontario, M1B 5S1, Canada",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "...In the 1660s, the Iroquois established two villages within what is today Toronto, Ganatsekwyagon (Bead Hill) on the banks of the Rouge River and Teiaiagon on the banks of the Humber River....",
+                    "...The city's limits are formed by Lake Ontario to the south, the western boundary of Marie Curtis Park, Etobicoke Creek, Eglinton Avenue and Highway 427 to the west, Steeles Avenue to the north and the Rouge River and the Scarborough–Pickering Townline to the east....",
+                    "...The flat land is interrupted by the Toronto ravine system, which is cut by numerous creeks and rivers of the Toronto waterway system, most notably the Humber River in the west end, the Don River east of downtown (these two rivers flanking and defining the Toronto Harbour), and the Rouge River at the city's eastern limits....",
+                    "...Managed by Parks Canada, the national park is centred around the Rouge River and encompasses several municipalities in the Greater Toronto Area...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.472975,
+                    43.632368
+                ]
+            },
+            "properties": {
+                "entity": "Humber River",
+                "name_location": "Humber River Trail, Etobicoke—Lakeshore, Etobicoke, Toronto, Golden Horseshoe, Ontario, M6S 5B5, Canada",
+                "class": "highway",
+                "type": "cycleway",
+                "snippet": [
+                    "...In the 1660s, the Iroquois established two villages within what is today Toronto, Ganatsekwyagon (Bead Hill) on the banks of the Rouge River and Teiaiagon on the banks of the Humber River....",
+                    "...The flat land is interrupted by the Toronto ravine system, which is cut by numerous creeks and rivers of the Toronto waterway system, most notably the Humber River in the west end, the Don River east of downtown (these two rivers flanking and defining the Toronto Harbour), and the Rouge River at the city's eastern limits....",
+                    "...The shoreline from the harbour west to the Humber River has been extended into the lake...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.365497,
+                    43.658193
+                ]
+            },
+            "properties": {
+                "entity": "Parliament Street",
+                "name_location": "Parliament Street, Trefann Court, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5A 1Y1, Canada",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...The town's settlement formed at the harbour's eastern end behind the peninsula, near the present-day intersection of Parliament Street and Front Street (in the \"Old Town\" area)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.378466,
+                    43.646092
+                ]
+            },
+            "properties": {
+                "entity": "Front Street",
+                "name_location": "Front Street West, South Core, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5J 1C4, Canada",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...The town's settlement formed at the harbour's eastern end behind the peninsula, near the present-day intersection of Parliament Street and Front Street (in the \"Old Town\" area)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.390192,
+                    43.659684
+                ]
+            },
+            "properties": {
+                "entity": "Queen's Park",
+                "name_location": "Queen's Park, University Avenue, Discovery District, University—Rosedale, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5S 3M2, Canada",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...The seat of government of the Ontario briefly returned to the same building that hosted the Third Parliament Building of Upper Canada, before moving to the Ontario Legislative Building at Queen's Park in 1893....",
+                    "...There are many large downtown parks, which include Allan Gardens, Christie Pits, Grange Park, Little Norway Park, Moss Park, Queen's Park, Riverdale Park and Trinity Bellwoods Park...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.359577,
+                    43.65028
+                ]
+            },
+            "properties": {
+                "entity": "Distillery District",
+                "name_location": "Distillery District, Trinity Street, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5A 3C4, Canada",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...A preserved section of this once dominant local industry remains in the Distillery District....",
+                    "...This trend continues to this day, the largest factories and distribution warehouses are in the suburban environs of Peel and York Regions; but also within the current city: Etobicoke (concentrated around Pearson Airport), North York, and Scarborough.[citation needed]\nMany of Toronto's former industrial sites close to (or in) downtown have been redeveloped including parts of the Toronto waterfront, the rail yards west of downtown, and Liberty Village, the Massey-Harris district and large-scale development is underway in the West Don Lands.[citation needed]\nThe Gooderham & Worts Distillery produced spirits until 1990, and is preserved today as the \"Distillery District\", the largest and best-preserved collection of Victorian industrial architecture in North America....",
+                    "...The mid-1800s Distillery District, on the eastern edge of downtown, has been redeveloped into a pedestrian-oriented arts, culture and entertainment neighbourhood...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.382823,
+                    43.65347
+                ]
+            },
+            "properties": {
+                "entity": "Bay Street",
+                "name_location": "Bay Street, Little Tokyo, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5H 2N2, Canada",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...As the Irish before them, many of these migrants lived in overcrowded shanty-type slums, such as \"the Ward,\" which was centred on Bay Street, now the heart of the country's Financial District....",
+                    "*...Generally considered the financial and industrial capital of Canada, Toronto has a high concentration of banks and brokerage firms on Bay Street in the Financial District....",
+                    "*...The Financial District in Toronto centres on Bay Street, the equivalent to Wall Street in New York...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.429741,
+                    43.718174
+                ]
+            },
+            "properties": {
+                "entity": "Europe",
+                "name_location": "Europe Bar and Restaurant, Fairholme Avenue, Lawrence Manor, Eglinton—Lawrence, North York, Toronto, Golden Horseshoe, Ontario, M6A 2A1, Canada",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...In the decades after World War II, refugees from war-torn Europe and Chinese job-seekers arrived, as well as construction labourers, particularly from Italy and Portugal....",
+                    "*...The Gardiner Museum of ceramic art is the only museum in Canada entirely devoted to ceramics, and the Museum's collection contains more than 2,900 ceramic works from Asia, the Americas, and Europe...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.37178,
+                    43.631648
+                ]
+            },
+            "properties": {
+                "entity": "Toronto Harbour",
+                "name_location": "Toronto Harbour, Chippewa Avenue, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5J 1X9, Canada",
+                "class": "man_made",
+                "type": "beacon",
+                "snippet": [
+                    "*...The Toronto Islands and Port Lands extend out into the lake, allowing for a somewhat sheltered Toronto Harbour south of the downtown core....",
+                    "...The flat land is interrupted by the Toronto ravine system, which is cut by numerous creeks and rivers of the Toronto waterway system, most notably the Humber River in the west end, the Don River east of downtown (these two rivers flanking and defining the Toronto Harbour), and the Rouge River at the city's eastern limits....",
+                    "*...High-rise development in these areas has given the former municipalities distinguishable skylines of their own, with high-density transit corridors serving them.[citation needed]\nIn the 1800s, a thriving industrial area developed around Toronto Harbour and lower Don River mouth, linked by rail and water to Canada and the United States...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.323871,
+                    43.646336
+                ]
+            },
+            "properties": {
+                "entity": "Outer Harbour",
+                "name_location": "Outer Harbour Marina Driveway, Toronto—Danforth, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4M 3H9, Canada",
+                "class": "highway",
+                "type": "service",
+                "snippet": [
+                    "...An Outer Harbour was constructed southeast of downtown during the 1950s and 1960s and it is now used for recreation...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.398358,
+                    43.707491
+                ]
+            },
+            "properties": {
+                "entity": "Eglinton Avenue",
+                "name_location": "Eglinton Avenue, Yonge Street, Yonge & Eglinton, Toronto—St. Paul's, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4P 2C9, Canada",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...The city's limits are formed by Lake Ontario to the south, the western boundary of Marie Curtis Park, Etobicoke Creek, Eglinton Avenue and Highway 427 to the west, Steeles Avenue to the north and the Rouge River and the Scarborough–Pickering Townline to the east....",
+                    "*...Lake Ontario remains occasionally visible from the peaks of these ridges as far north as Eglinton Avenue, 7 to 8 kilometres (4.3 to 5.0 mi) inland....",
+                    "*...Major east-west arterial roads are generally parallel with the Lake Ontario shoreline, and major north–south arterial roads are roughly perpendicular to the shoreline, though slightly angled north of Eglinton Avenue...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.574262,
+                    43.669984
+                ]
+            },
+            "properties": {
+                "entity": "Highway 427",
+                "name_location": "Highway 427, West Deane Park, Etobicoke Centre, Etobicoke, Toronto, Golden Horseshoe, Ontario, M9C 4R3, Canada",
+                "class": "highway",
+                "type": "motorway",
+                "snippet": [
+                    "*...The city's limits are formed by Lake Ontario to the south, the western boundary of Marie Curtis Park, Etobicoke Creek, Eglinton Avenue and Highway 427 to the west, Steeles Avenue to the north and the Rouge River and the Scarborough–Pickering Townline to the east...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.419952,
+                    43.798
+                ]
+            },
+            "properties": {
+                "entity": "Steeles Avenue",
+                "name_location": "Steeles Avenue, Newtonbrook, Willowdale, North York, Toronto, Golden Horseshoe, Ontario, L3T 2A5, Canada",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...The city's limits are formed by Lake Ontario to the south, the western boundary of Marie Curtis Park, Etobicoke Creek, Eglinton Avenue and Highway 427 to the west, Steeles Avenue to the north and the Rouge River and the Scarborough–Pickering Townline to the east....",
+                    "*...Elevation differences range from 76.5 metres (251 ft) above sea level at the Lake Ontario shore to 209 m (686 ft) above sea level near the York University grounds in the city's north end at the intersection of Keele Street and Steeles Avenue...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.348137,
+                    43.651361
+                ]
+            },
+            "properties": {
+                "entity": "Don River",
+                "name_location": "Don River, Lake Shore Boulevard Recreational Trail, Lower Don Lands, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4M 3P2, Canada",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...The flat land is interrupted by the Toronto ravine system, which is cut by numerous creeks and rivers of the Toronto waterway system, most notably the Humber River in the west end, the Don River east of downtown (these two rivers flanking and defining the Toronto Harbour), and the Rouge River at the city's eastern limits....",
+                    "...Other observable sections include the area near St. Clair Avenue West between Bathurst Street and the Don River, and north of Davenport Road from Caledonia to Spadina Road; the Casa Loma grounds sit above this escarpment....",
+                    "...The other source of sediment for the Port Lands wetland and the peninsula was the deposition of the Don River, which carved a wide valley through the sedimentary land of Toronto and deposited it in the shallow harbour....",
+                    "...The harbour and the channel of the Don River have been dredged numerous times for shipping....",
+                    "...The lower section of the Don River was straightened and channelled in the 19th century....",
+                    "*...The former mouth drained into a wetland; today, the Don River drains into the harbour through a concrete waterway, the Keating Channel....",
+                    "*...High-rise development in these areas has given the former municipalities distinguishable skylines of their own, with high-density transit corridors serving them.[citation needed]\nIn the 1800s, a thriving industrial area developed around Toronto Harbour and lower Don River mouth, linked by rail and water to Canada and the United States....",
+                    "...The Waterfront Toronto agency has developed plans for a naturalized mouth to the Don River and to create a flood barrier around the Don, making more of the land on the harbour suitable for higher-value residential and commercial development....",
+                    "...A former chemicals plant site along the Don River is slated to become a large commercial complex and transportation hub....",
+                    "*...This arrangement is sometimes broken by geographical accidents, most notably the Don River ravines...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.415612,
+                    43.779756
+                ]
+            },
+            "properties": {
+                "entity": "Finch Avenue",
+                "name_location": "Finch Avenue, Willowdale, North York, Toronto, Golden Horseshoe, Ontario, M2N 5S2, Canada",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...The width and depth of several of the ravines and valleys are such that several grid streets, such as Finch Avenue, Leslie Street, Lawrence Avenue, and St. Clair Avenue, terminate on one side of a ravine or valley and continue on the other side...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.442714,
+                    43.712766
+                ]
+            },
+            "properties": {
+                "entity": "Lawrence Avenue",
+                "name_location": "Lawrence Avenue, Allen Road, Glen Park, Eglinton—Lawrence, North York, Toronto, Golden Horseshoe, Ontario, M6B 2A2, Canada",
+                "class": "highway",
+                "type": "motorway_junction",
+                "snippet": [
+                    "*...The width and depth of several of the ravines and valleys are such that several grid streets, such as Finch Avenue, Leslie Street, Lawrence Avenue, and St. Clair Avenue, terminate on one side of a ravine or valley and continue on the other side...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.393914,
+                    43.687861
+                ]
+            },
+            "properties": {
+                "entity": "St. Clair Avenue",
+                "name_location": "St. Clair Avenue, Yonge Street, Deer Park, Toronto—St. Paul's, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4T 1Y7, Canada",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...The width and depth of several of the ravines and valleys are such that several grid streets, such as Finch Avenue, Leslie Street, Lawrence Avenue, and St. Clair Avenue, terminate on one side of a ravine or valley and continue on the other side....",
+                    "*...Other observable sections include the area near St. Clair Avenue West between Bathurst Street and the Don River, and north of Davenport Road from Caledonia to Spadina Road; the Casa Loma grounds sit above this escarpment...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.448807,
+                    43.636476
+                ]
+            },
+            "properties": {
+                "entity": "Lake Ontario",
+                "name_location": "The Crossing of Lake Ontario by Marilyn Bell, Martin Goodman Trail, Parkdale—High Park, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6S 5A3, Canada",
+                "class": "historic",
+                "type": "memorial",
+                "snippet": [
+                    "*...The city is the anchor of the Golden Horseshoe, an urban agglomeration of 9,765,188 people (as of 2021) surrounding the western end of Lake Ontario, while the Greater Toronto Area proper had a 2021 population of 6,712,341....",
+                    "*...A portage route from Lake Ontario to Lake Huron running through this point, known as the Toronto Carrying-Place Trail, led to widespread use of the name....",
+                    "*...During the American Revolutionary War, an influx of British settlers arrived there as United Empire Loyalists fled for the British-controlled lands north of Lake Ontario....",
+                    "*...The advent of the railway dramatically increased the numbers of immigrants arriving, commerce and industry, as had the Lake Ontario steamers and schooners entering port before....",
+                    "*...It has a maximum east–west distance of 43 km (27 mi) and it has a 46-kilometre (29 mi) long waterfront shoreline, on the northwestern shore of Lake Ontario....",
+                    "*...The city's limits are formed by Lake Ontario to the south, the western boundary of Marie Curtis Park, Etobicoke Creek, Eglinton Avenue and Highway 427 to the west, Steeles Avenue to the north and the Rouge River and the Scarborough–Pickering Townline to the east....",
+                    "*...Elevation differences range from 76.5 metres (251 ft) above sea level at the Lake Ontario shore to 209 m (686 ft) above sea level near the York University grounds in the city's north end at the intersection of Keele Street and Steeles Avenue....",
+                    "*...Lake Ontario remains occasionally visible from the peaks of these ridges as far north as Eglinton Avenue, 7 to 8 kilometres (4.3 to 5.0 mi) inland....",
+                    "*...However, it can be noticeably cooler on many spring and early summer afternoons under the influence of a lake breeze, since Lake Ontario is cool relative to the air during these seasons....",
+                    "*...Major east-west arterial roads are generally parallel with the Lake Ontario shoreline, and major north–south arterial roads are roughly perpendicular to the shoreline, though slightly angled north of Eglinton Avenue...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.460298,
+                    43.655415
+                ]
+            },
+            "properties": {
+                "entity": "Keele Street",
+                "name_location": "Keele Street, High Park North, Parkdale—High Park, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6P 1B2, Canada",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Elevation differences range from 76.5 metres (251 ft) above sea level at the Lake Ontario shore to 209 m (686 ft) above sea level near the York University grounds in the city's north end at the intersection of Keele Street and Steeles Avenue...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.286994,
+                    43.687948
+                ]
+            },
+            "properties": {
+                "entity": "Victoria Park Avenue",
+                "name_location": "Victoria Park Avenue, Danforth Station, Beaches—East York, Scarborough, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4E 3W2, Canada",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...The escarpments are most prominent from Victoria Park Avenue to the mouth of Highland Creek where they form the Scarborough Bluffs...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.19136,
+                    43.77887
+                ]
+            },
+            "properties": {
+                "entity": "Highland Creek",
+                "name_location": "Highland Creek Trail, Scarborough—Guildwood, Scarborough, Toronto, Golden Horseshoe, Ontario, M1E 3G3, Canada",
+                "class": "highway",
+                "type": "cycleway",
+                "snippet": [
+                    "*...The escarpments are most prominent from Victoria Park Avenue to the mouth of Highland Creek where they form the Scarborough Bluffs...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.401135,
+                    43.640079
+                ]
+            },
+            "properties": {
+                "entity": "Bathurst Street",
+                "name_location": "Bathurst Street, Fort York, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5V 0E7, Canada",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Other observable sections include the area near St. Clair Avenue West between Bathurst Street and the Don River, and north of Davenport Road from Caledonia to Spadina Road; the Casa Loma grounds sit above this escarpment...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.432157,
+                    43.674605
+                ]
+            },
+            "properties": {
+                "entity": "Davenport Road",
+                "name_location": "Davenport Road, Davenport, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6G 2C3, Canada",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Other observable sections include the area near St. Clair Avenue West between Bathurst Street and the Don River, and north of Davenport Road from Caledonia to Spadina Road; the Casa Loma grounds sit above this escarpment...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.403933,
+                    43.666874
+                ]
+            },
+            "properties": {
+                "entity": "Spadina Road",
+                "name_location": "Spadina Road, The Annex, University—Rosedale, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5R 2S9, Canada",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Other observable sections include the area near St. Clair Avenue West between Bathurst Street and the Don River, and north of Davenport Road from Caledonia to Spadina Road; the Casa Loma grounds sit above this escarpment...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.409121,
+                    43.678037
+                ]
+            },
+            "properties": {
+                "entity": "Casa Loma",
+                "name_location": "Casa Loma, 1, Austin Terrace, Tarragon Village, Toronto—St. Paul's, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5R 1X9, Canada",
+                "class": "tourism",
+                "type": "viewpoint",
+                "snippet": [
+                    "*...Other observable sections include the area near St. Clair Avenue West between Bathurst Street and the Don River, and north of Davenport Road from Caledonia to Spadina Road; the Casa Loma grounds sit above this escarpment....",
+                    "*...The Casa Loma neighbourhood is named after \"Casa Loma\", a castle built in 1911 by Sir Henry Pellat, complete with gardens, turrets, stables, an elevator, secret passages, and a bowling alley....",
+                    "*...From that point, the Toronto skyline extends northward along Yonge Street.[citation needed]\nOld Toronto is also home to many historically wealthy residential enclaves, such as Yorkville, Rosedale, The Annex, Forest Hill, Lawrence Park, Lytton Park, Deer Park, Moore Park, and Casa Loma, most stretching away from downtown to the north.[citation needed]\nEast and west of downtown, neighbourhoods such as Kensington Market, Chinatown, Leslieville, Cabbagetown and Riverdale are home to bustling commercial and cultural areas as well as communities of artists with studio lofts, with many middle- and upper-class professionals.[citation needed]\nOther neighbourhoods in the central city retain an ethnic identity, including two smaller Chinatowns, the Greektown area, Little Italy, Portugal Village, and Little India, among others.[citation needed]\nThe inner suburbs are contained within the former municipalities of York and East York....",
+                    "*...Other tourist attractions include the CN Tower, Casa Loma, Toronto's theaters and musicals, Yonge-Dundas Square, and Ripley's Aquarium of Canada....",
+                    "*...Toronto is also home to Casa Loma, the former estate of Sir Henry Pellatt, a prominent Toronto financier, industrialist and military man...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.401424,
+                    43.636395
+                ]
+            },
+            "properties": {
+                "entity": "harbour west",
+                "name_location": "West Harbour City East, Fleet Street, Fort York, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5V 1B3, Canada",
+                "class": "building",
+                "type": "apartments",
+                "snippet": [
+                    "...The shoreline from the harbour west to the Humber River has been extended into the lake...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.472145,
+                    43.630944
+                ]
+            },
+            "properties": {
+                "entity": "Humber Bay Park",
+                "name_location": "Humber Bay Shores Park East, Martin Goodman Trail, Etobicoke—Lakeshore, Etobicoke, Toronto, Golden Horseshoe, Ontario, M6S 5B5, Canada",
+                "class": "amenity",
+                "type": "bicycle_rental",
+                "snippet": [
+                    "*...Further west, landfill has been used to create extensions of land such as Humber Bay Park....",
+                    "*...Large parks in the outer areas managed by the city include High Park, Humber Bay Park, Centennial Park, Downsview Park, Guild Park and Gardens, Sunnybrook Park and Morningside Park...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.495108,
+                    43.617668
+                ]
+            },
+            "properties": {
+                "entity": "Mimico",
+                "name_location": "Mimico, Manchester Street, Mimico Village, Etobicoke—Lakeshore, Etobicoke, Toronto, Golden Horseshoe, Ontario, M8V 1P1, Canada",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Former municipalities include East York, Etobicoke, Forest Hill, Mimico, North York, Parkdale, Scarborough, Swansea, Weston and York....",
+                    "*...Sections were long established and quickly growing towns before the suburban housing boom began and the emergence of metropolitan government, existing towns or villages such as Mimico, Islington and New Toronto in Etobicoke; Willowdale, Newtonbrook and Downsview in North York; Agincourt, Wexford and West Hill in Scarborough where suburban development boomed around or between these and other towns beginning in the late 1940s....",
+                    "*...Toronto still has some active older industrial areas, such as Brockton Village, Mimico and New Toronto...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.419025,
+                    43.676766
+                ]
+            },
+            "properties": {
+                "entity": "Wychwood Park",
+                "name_location": "Wychwood Park, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6G 2B4, Canada",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...The Wychwood Park neighbourhood, historically significant for the architecture of its homes, and for being one of Toronto's earliest planned communities, was designated as an Ontario Heritage Conservation district in 1985...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.379565,
+                    43.649497
+                ]
+            },
+            "properties": {
+                "entity": "Scotia Plaza",
+                "name_location": "Scotia Plaza, 40, King Street West, Financial District, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5H 1H1, Canada",
+                "class": "place",
+                "type": "house",
+                "snippet": [
+                    "*...The Financial District contains the First Canadian Place, Toronto-Dominion Centre, Scotia Plaza, Royal Bank Plaza, Commerce Court and Brookfield Place...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.38039,
+                    43.646739
+                ]
+            },
+            "properties": {
+                "entity": "Royal Bank Plaza",
+                "name_location": "Royal Bank Plaza North Tower, 200, Bay Street, Financial District, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5J 2J2, Canada",
+                "class": "building",
+                "type": "office",
+                "snippet": [
+                    "*...The Financial District contains the First Canadian Place, Toronto-Dominion Centre, Scotia Plaza, Royal Bank Plaza, Commerce Court and Brookfield Place...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.374263,
+                    43.667384
+                ]
+            },
+            "properties": {
+                "entity": "St. James Town",
+                "name_location": "Toronto Public Library - St. James Town, 495, Sherbourne Street, St. James Town, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4Y 1J2, Canada",
+                "class": "amenity",
+                "type": "library",
+                "snippet": [
+                    "*...This area includes, among others, the neighbourhoods of St. James Town, Garden District, St. Lawrence, Corktown, and Church and Wellesley...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.404285,
+                    43.667458
+                ]
+            },
+            "properties": {
+                "entity": "Annex",
+                "name_location": "Annex Lane, The Annex, University—Rosedale, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5R 2S9, Canada",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Victorian and Edwardian-era residential buildings can be found in enclaves such as Rosedale, Cabbagetown, The Annex, and Yorkville....",
+                    "*...From that point, the Toronto skyline extends northward along Yonge Street.[citation needed]\nOld Toronto is also home to many historically wealthy residential enclaves, such as Yorkville, Rosedale, The Annex, Forest Hill, Lawrence Park, Lytton Park, Deer Park, Moore Park, and Casa Loma, most stretching away from downtown to the north.[citation needed]\nEast and west of downtown, neighbourhoods such as Kensington Market, Chinatown, Leslieville, Cabbagetown and Riverdale are home to bustling commercial and cultural areas as well as communities of artists with studio lofts, with many middle- and upper-class professionals.[citation needed]\nOther neighbourhoods in the central city retain an ethnic identity, including two smaller Chinatowns, the Greektown area, Little Italy, Portugal Village, and Little India, among others.[citation needed]\nThe inner suburbs are contained within the former municipalities of York and East York...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3975,
+                    43.687374
+                ]
+            },
+            "properties": {
+                "entity": "Deer Park",
+                "name_location": "Deer Park, St. Clair Avenue West, Deer Park, Toronto—St. Paul's, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4V 3A5, Canada",
+                "class": "railway",
+                "type": "tram_stop",
+                "snippet": [
+                    "*...From that point, the Toronto skyline extends northward along Yonge Street.[citation needed]\nOld Toronto is also home to many historically wealthy residential enclaves, such as Yorkville, Rosedale, The Annex, Forest Hill, Lawrence Park, Lytton Park, Deer Park, Moore Park, and Casa Loma, most stretching away from downtown to the north.[citation needed]\nEast and west of downtown, neighbourhoods such as Kensington Market, Chinatown, Leslieville, Cabbagetown and Riverdale are home to bustling commercial and cultural areas as well as communities of artists with studio lofts, with many middle- and upper-class professionals.[citation needed]\nOther neighbourhoods in the central city retain an ethnic identity, including two smaller Chinatowns, the Greektown area, Little Italy, Portugal Village, and Little India, among others.[citation needed]\nThe inner suburbs are contained within the former municipalities of York and East York...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.290433,
+                    43.696142
+                ]
+            },
+            "properties": {
+                "entity": "Crescent Town",
+                "name_location": "Crescent Town, Victoria Park Avenue, Scarborough Southwest, Scarborough, Toronto, Golden Horseshoe, Ontario, M4C 5M9, Canada",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Neighbourhoods such as Crescent Town, Thorncliffe Park, Weston, and Oakwood Village consist mainly of high-rise apartments, which are home to many new immigrant families...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.412806,
+                    43.683874
+                ]
+            },
+            "properties": {
+                "entity": "West Hill",
+                "name_location": "Tower Hill West, 355, St. Clair Avenue West, South Hill, Toronto—St. Paul's, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5P 2X7, Canada",
+                "class": "building",
+                "type": "apartments",
+                "snippet": [
+                    "*...Sections were long established and quickly growing towns before the suburban housing boom began and the emergence of metropolitan government, existing towns or villages such as Mimico, Islington and New Toronto in Etobicoke; Willowdale, Newtonbrook and Downsview in North York; Agincourt, Wexford and West Hill in Scarborough where suburban development boomed around or between these and other towns beginning in the late 1940s...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.376995,
+                    43.686735
+                ]
+            },
+            "properties": {
+                "entity": "Bridle Path",
+                "name_location": "Old Bridle Path, Moore Park, University—Rosedale, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4T 1C7, Canada",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "...Upscale neighbourhoods were built such as the Bridle Path in North York, the area surrounding the Scarborough Bluffs in Guildwood, and most of central Etobicoke, such as Humber Valley Village, and The Kingsway...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.238813,
+                    43.702361
+                ]
+            },
+            "properties": {
+                "entity": "Scarborough Bluffs",
+                "name_location": "Scarborough Bluffs, Cecil Crescent, Cliffside, Scarborough Southwest, Scarborough, Toronto, Golden Horseshoe, Ontario, M1M 1A3, Canada",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "...The escarpments are most prominent from Victoria Park Avenue to the mouth of Highland Creek where they form the Scarborough Bluffs....",
+                    "...The peninsula was formed by longshore drift taking the sediments deposited along the Scarborough Bluffs shore and transporting them to the Islands area....",
+                    "...Upscale neighbourhoods were built such as the Bridle Path in North York, the area surrounding the Scarborough Bluffs in Guildwood, and most of central Etobicoke, such as Humber Valley Village, and The Kingsway...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.526501,
+                    43.665415
+                ]
+            },
+            "properties": {
+                "entity": "Humber Valley Village",
+                "name_location": "Humber Valley Village Junior Middle School, 65, Hartfield Road, Humber Valley, Etobicoke Centre, Etobicoke, Toronto, Golden Horseshoe, Ontario, M9A 3E1, Canada",
+                "class": "amenity",
+                "type": "school",
+                "snippet": [
+                    "*...Upscale neighbourhoods were built such as the Bridle Path in North York, the area surrounding the Scarborough Bluffs in Guildwood, and most of central Etobicoke, such as Humber Valley Village, and The Kingsway...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.499562,
+                    43.650288
+                ]
+            },
+            "properties": {
+                "entity": "Kingsway",
+                "name_location": "The Kingsway, Old Mill, Etobicoke—Lakeshore, Etobicoke, Toronto, Golden Horseshoe, Ontario, M8X 1A5, Canada",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...Upscale neighbourhoods were built such as the Bridle Path in North York, the area surrounding the Scarborough Bluffs in Guildwood, and most of central Etobicoke, such as Humber Valley Village, and The Kingsway...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.396304,
+                    43.648878
+                ]
+            },
+            "properties": {
+                "entity": "Spadina Avenue",
+                "name_location": "Spadina Avenue, Queen West, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5V 2L6, Canada",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...A garment industry developed along lower Spadina Avenue, the \"Fashion District\"...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.429079,
+                    43.64347
+                ]
+            },
+            "properties": {
+                "entity": "Dufferin Street",
+                "name_location": "Dufferin Street, Brockton Village, Little Portugal, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6K 0B9, Canada",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Some of the companies moved west along King Street, some as far west as Dufferin Street; where the large Massey-Harris farm equipment manufacturing complex was located...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.585913,
+                    43.700306
+                ]
+            },
+            "properties": {
+                "entity": "Pearson Airport",
+                "name_location": "Pearson Hotel and Conference Centre Toronto Airport, 240, Belfield Road, Etobicoke North, Etobicoke, Toronto, Golden Horseshoe, Ontario, M9W 5B1, Canada",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...This trend continues to this day, the largest factories and distribution warehouses are in the suburban environs of Peel and York Regions; but also within the current city: Etobicoke (concentrated around Pearson Airport), North York, and Scarborough.[citation needed]\nMany of Toronto's former industrial sites close to (or in) downtown have been redeveloped including parts of the Toronto waterfront, the rail yards west of downtown, and Liberty Village, the Massey-Harris district and large-scale development is underway in the West Don Lands.[citation needed]\nThe Gooderham & Worts Distillery produced spirits until 1990, and is preserved today as the \"Distillery District\", the largest and best-preserved collection of Victorian industrial architecture in North America....",
+                    "*...In 2019, the Government of Ontario released a transit plan for the Greater Toronto Area which includes a new 16-kilometres Ontario Line, Line 1 extension to Richmond Hill Centre and an extension for Line 5 Eglinton to Toronto Pearson Airport...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.383842,
+                    43.652708
+                ]
+            },
+            "properties": {
+                "entity": "Nathan Phillips Square",
+                "name_location": "Nathan Phillips Square, Albert Street, Little Tokyo, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5B 2H6, Canada",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Nathan Phillips Square is the city's main square in downtown, contains the Toronto Sign, and forms the entrance to City Hall....",
+                    "*...In recent years, Nathan Phillips Square has been refurbished with new facilities, and the central waterfront along Queen's Quay West has been updated recently with a new street architecture and a new square next to Harbourfront Centre....",
+                    "*...In the winter, Nathan Phillips Square, Harbourfront Centre, and Mel Lastman Square feature popular rinks for public ice-skating...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.384005,
+                    43.653603
+                ]
+            },
+            "properties": {
+                "entity": "City Hall",
+                "name_location": "Toronto City Hall, 100, Queen Street West, Financial District, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5H 2N2, Canada",
+                "class": "amenity",
+                "type": "townhall",
+                "snippet": [
+                    "*...Nathan Phillips Square is the city's main square in downtown, contains the Toronto Sign, and forms the entrance to City Hall....",
+                    "*...Yonge–Dundas Square, near City Hall, has also gained attention in recent years as one of the busiest gathering spots in the city...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.380125,
+                    43.656028
+                ]
+            },
+            "properties": {
+                "entity": "Yonge–Dundas Square",
+                "name_location": "Yonge-Dundas Square, Dundas Square, Downtown Yonge, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5B 1V8, Canada",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Yonge–Dundas Square, near City Hall, has also gained attention in recent years as one of the busiest gathering spots in the city...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.381142,
+                    43.639821
+                ]
+            },
+            "properties": {
+                "entity": "Harbourfront Centre",
+                "name_location": "Harbourfront Centre, Queens Quay West, Harbourfront, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5J 2Y5, Canada",
+                "class": "railway",
+                "type": "platform",
+                "snippet": [
+                    "*...In recent years, Nathan Phillips Square has been refurbished with new facilities, and the central waterfront along Queen's Quay West has been updated recently with a new street architecture and a new square next to Harbourfront Centre....",
+                    "*...In the winter, Nathan Phillips Square, Harbourfront Centre, and Mel Lastman Square feature popular rinks for public ice-skating...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.588671,
+                    43.653465
+                ]
+            },
+            "properties": {
+                "entity": "Centennial Park",
+                "name_location": "Centennial Park, Elmcrest Road, Etobicoke Centre, Etobicoke, Toronto, Golden Horseshoe, Ontario, M9C 1Y9, Canada",
+                "class": "leisure",
+                "type": "sports_centre",
+                "snippet": [
+                    "*...Centennial Park and Earl Bales Park offer outdoor skiing and snowboarding slopes with a chairlift, rental facilities, and lessons....",
+                    "*...Large parks in the outer areas managed by the city include High Park, Humber Bay Park, Centennial Park, Downsview Park, Guild Park and Gardens, Sunnybrook Park and Morningside Park...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.32073,
+                    43.650258
+                ]
+            },
+            "properties": {
+                "entity": "Leslie Street Spit",
+                "name_location": "Leslie Street Spit Trail, Toronto—Danforth, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4M 3H9, Canada",
+                "class": "highway",
+                "type": "footway",
+                "snippet": [
+                    "...South of downtown are two large parks on the waterfront: Tommy Thompson Park on the Leslie Street Spit, which has a nature preserve, is open on weekends; and the Toronto Islands, accessible from downtown by ferry....",
+                    "*...The width and depth of several of the ravines and valleys are such that several grid streets, such as Finch Avenue, Leslie Street, Lawrence Avenue, and St. Clair Avenue, terminate on one side of a ravine or valley and continue on the other side...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.349214,
+                    43.717281
+                ]
+            },
+            "properties": {
+                "entity": "Sunnybrook Park",
+                "name_location": "Sunnybrook Park, Eglinton Avenue East, Don Valley East, North York, Toronto, Golden Horseshoe, Ontario, M4G 0B7, Canada",
+                "class": "railway",
+                "type": "construction",
+                "snippet": [
+                    "*...Large parks in the outer areas managed by the city include High Park, Humber Bay Park, Centennial Park, Downsview Park, Guild Park and Gardens, Sunnybrook Park and Morningside Park...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.191388,
+                    43.780443
+                ]
+            },
+            "properties": {
+                "entity": "Morningside Park",
+                "name_location": "Morningside Park, Morningside Avenue, Scarborough—Guildwood, Scarborough, Toronto, Golden Horseshoe, Ontario, M1E 3G3, Canada",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Large parks in the outer areas managed by the city include High Park, Humber Bay Park, Centennial Park, Downsview Park, Guild Park and Gardens, Sunnybrook Park and Morningside Park....",
+                    "*...Morningside Park is the largest park managed by the city, which is 241.46 hectares (596.7 acres) in size...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.380125,
+                    43.656028
+                ]
+            },
+            "properties": {
+                "entity": "Yonge-Dundas Square",
+                "name_location": "Yonge-Dundas Square, Dundas Square, Downtown Yonge, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5B 1V8, Canada",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Other tourist attractions include the CN Tower, Casa Loma, Toronto's theaters and musicals, Yonge-Dundas Square, and Ripley's Aquarium of Canada...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.289322,
+                    43.758856
+                ]
+            },
+            "properties": {
+                "entity": "460",
+                "name_location": "Birchmount Road at Vauxhall Drive, Vauxhall Drive, Dorset Park, Scarborough Centre, Scarborough, Toronto, Golden Horseshoe, Ontario, M1P 2W1, Canada",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...The Toronto Zoo is home to over 5,000 animals representing over 460 distinct species...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.18691,
+                    43.822583
+                ]
+            },
+            "properties": {
+                "entity": "Americas",
+                "name_location": "Americas, Old Finch Avenue, Scarborough—Rouge Park, Scarborough, Toronto, Golden Horseshoe, Ontario, M1B 5J2, Canada",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...The Gardiner Museum of ceramic art is the only museum in Canada entirely devoted to ceramics, and the Museum's collection contains more than 2,900 ceramic works from Asia, the Americas, and Europe...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.408116,
+                    43.679018
+                ]
+            },
+            "properties": {
+                "entity": "Spadina House",
+                "name_location": "Spadina House, 285, Spadina Road, South Hill, Toronto—St. Paul's, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5R 1X9, Canada",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...Spadina House is a 19th-century manor that is now a museum....",
+                    "...The city also runs its own museums, which include the Spadina House...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.380793,
+                    43.654146
+                ]
+            },
+            "properties": {
+                "entity": "Eaton Centre",
+                "name_location": "CF Toronto Eaton Centre, 220, Yonge Street, Downtown Yonge, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5B 2H1, Canada",
+                "class": "shop",
+                "type": "mall",
+                "snippet": [
+                    "...The Toronto Eaton Centre receives over 47 million visitors per year....",
+                    "...The Eaton Centre is Toronto's most popular tourist attraction with over 52 million visitors annually...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.310012,
+                    43.785103
+                ]
+            },
+            "properties": {
+                "entity": "Health Centre",
+                "name_location": "Health Centre, Huntingwood Drive, Bridlewood, Scarborough—Agincourt, Scarborough, Toronto, Golden Horseshoe, Ontario, M1T 1V7, Canada",
+                "class": "amenity",
+                "type": "doctors",
+                "snippet": [
+                    "*...Toronto is home to twenty public hospitals, including The Hospital for Sick Children, Mount Sinai Hospital, St. Michael's Hospital, North York General Hospital, Toronto General Hospital, Toronto Western Hospital, Etobicoke General Hospital, St. Joseph's Health Centre, Scarborough General Hospital, Birchmount Hospital, Centenary Hospital, Sunnybrook Health Sciences Centre, Centre for Addiction and Mental Health (CAMH), and Princess Margaret Cancer Centre, many of which are affiliated with the University of Toronto Faculty of Medicine...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.388924,
+                    43.659751
+                ]
+            },
+            "properties": {
+                "entity": "MaRS Discovery District",
+                "name_location": "MaRS Discovery District, College Street, Discovery District, University—Rosedale, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5S 1B2, Canada",
+                "class": "building",
+                "type": "office",
+                "snippet": [
+                    "*...It is also home to the MaRS Discovery District, which was created in 2000 to capitalize on the research and innovation strength of the Province of Ontario....",
+                    "*...Toronto's Discovery District is a centre of research in biomedicine...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.380793,
+                    43.654146
+                ]
+            },
+            "properties": {
+                "entity": "Toronto Centre",
+                "name_location": "CF Toronto Eaton Centre, 220, Yonge Street, Downtown Yonge, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5B 2H1, Canada",
+                "class": "shop",
+                "type": "mall",
+                "snippet": [
+                    "...Notable performance venues include the Four Seasons Centre for the Performing Arts, Roy Thomson Hall, the Princess of Wales Theatre, the Royal Alexandra Theatre, Massey Hall, the Meridian Arts Centre (formerly the Toronto Centre for the Arts), the Elgin and Winter Garden Theatres and the Meridian Hall (originally the \"O'Keefe Centre\" and formerly the \"Hummingbird Centre\" and the \"Sony Centre for the Performing Arts\")...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.379291,
+                    43.653031
+                ]
+            },
+            "properties": {
+                "entity": "Winter Garden Theatres",
+                "name_location": "Elgin & Winter Garden Theatres, 189, Yonge Street, Downtown Yonge, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5B 2H1, Canada",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...Notable performance venues include the Four Seasons Centre for the Performing Arts, Roy Thomson Hall, the Princess of Wales Theatre, the Royal Alexandra Theatre, Massey Hall, the Meridian Arts Centre (formerly the Toronto Centre for the Arts), the Elgin and Winter Garden Theatres and the Meridian Hall (originally the \"O'Keefe Centre\" and formerly the \"Hummingbird Centre\" and the \"Sony Centre for the Performing Arts\")...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.466864,
+                    43.653867
+                ]
+            },
+            "properties": {
+                "entity": "High Park",
+                "name_location": "High Park, High Park Bus Platform, High Park North, Parkdale—High Park, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6P 3K8, Canada",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "*...Large parks in the outer areas managed by the city include High Park, Humber Bay Park, Centennial Park, Downsview Park, Guild Park and Gardens, Sunnybrook Park and Morningside Park....",
+                    "*...Each summer, the Canadian Stage Company presents an outdoor Shakespeare production in Toronto's High Park called \"Dream in High Park\"...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.38813,
+                    43.652148
+                ]
+            },
+            "properties": {
+                "entity": "Simcoe Street",
+                "name_location": "Simcoe Street, Entertainment District, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5V 1Z1, Canada",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Canada's Walk of Fame acknowledges the achievements of successful Canadians, with a series of stars on designated blocks of sidewalks along King Street and Simcoe Street...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.376053,
+                    43.644396
+                ]
+            },
+            "properties": {
+                "entity": "Lake Shore Boulevard",
+                "name_location": "Lake Shore Boulevard, Yonge Street, South Core, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5E 2A1, Canada",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...More than forty years later, it has grown to attract one million people to Toronto's Lake Shore Boulevard annually...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.389198,
+                    43.64166
+                ]
+            },
+            "properties": {
+                "entity": "Rogers Centre",
+                "name_location": "Rogers Centre, 1, Blue Jays Way, Entertainment District, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5V 1J1, Canada",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...The city's major sports venues include the Scotiabank Arena (formerly Air Canada Centre), Rogers Centre (formerly SkyDome), Coca-Cola Coliseum (formerly Ricoh Coliseum), and BMO Field....",
+                    "...The Blue Jays play their home games at the Rogers Centre in the downtown core....",
+                    "...Toronto has hosted several National Football League (NFL) exhibition games at the Rogers Centre....",
+                    "*...From 2007 to 2010, the game was played at Rogers Centre annually in January...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.377825,
+                    43.647158
+                ]
+            },
+            "properties": {
+                "entity": "Hockey Hall of Fame",
+                "name_location": "Hockey Hall of Fame, 30, Yonge Street, Financial District, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5E 1X8, Canada",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "...Other notable neighbourhoods and attractions in Toronto include The Beaches, the Toronto Islands, Kensington Market, Fort York, and the Hockey Hall of Fame....",
+                    "...Toronto is home to the Toronto Maple Leafs, one of the NHL's Original Six clubs, and has also served as home to the Hockey Hall of Fame since 1958...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.604089,
+                    43.715115
+                ]
+            },
+            "properties": {
+                "entity": "Woodbine Racetrack",
+                "name_location": "Woodbine Racetrack, 555, Rexdale Boulevard, Etobicoke North, Etobicoke, Toronto, Golden Horseshoe, Ontario, M9W 6K5, Canada",
+                "class": "amenity",
+                "type": "casino",
+                "snippet": [
+                    "*...Both thoroughbred and standardbred horse racing events are conducted at Woodbine Racetrack in Rexdale...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.37957,
+                    43.652962
+                ]
+            },
+            "properties": {
+                "entity": "Line 1",
+                "name_location": "Line 1 Southbound, Queen Street West, Downtown Yonge, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5C 3G7, Canada",
+                "class": "railway",
+                "type": "platform",
+                "snippet": [
+                    "*...The backbone of its public transport network is the Toronto subway system, which includes three heavy-rail rapid transit lines spanning the city, including the U-shaped Line 1 and east–west Line 2....",
+                    "...Since July 2011, the only subway-related work is the Line 1 extension north of Sheppard West station (formerly named Downsview) to Vaughan Metropolitan Centre in Vaughan, a suburb north of Toronto....",
+                    "...In 2019, the Government of Ontario released a transit plan for the Greater Toronto Area which includes a new 16-kilometres Ontario Line, Line 1 extension to Richmond Hill Centre and an extension for Line 5 Eglinton to Toronto Pearson Airport...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.358833,
+                    43.700062
+                ]
+            },
+            "properties": {
+                "entity": "Line 6",
+                "name_location": "Sanitation Plant \"Hard Line\", Todmorden Village, Don Valley West, East York, Toronto, Golden Horseshoe, Ontario, M4H 1P6, Canada",
+                "class": "highway",
+                "type": "path",
+                "snippet": [
+                    "*...In 2015, the Ontario government promised to fund Line 6 Finch West which is to be completed by 2023...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.465584,
+                    43.742849
+                ]
+            },
+            "properties": {
+                "entity": "Downsview Airport",
+                "name_location": "Downsview Airport, Carl Hall Road, York Centre, North York, Toronto, Golden Horseshoe, Ontario, M3K 2B9, Canada",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "*...Downsview Airport (IATA: YZD), near the city's north end, is owned by de Havilland Canada and serves the Bombardier Aviation aircraft factory...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.558119,
+                    43.704861
+                ]
+            },
+            "properties": {
+                "entity": "Highway 401",
+                "name_location": "Highway 401, Kingsview Village, Etobicoke North, Etobicoke, Toronto, Golden Horseshoe, Ontario, M9P 3P1, Canada",
+                "class": "highway",
+                "type": "motorway",
+                "snippet": [
+                    "*...In particular, Highway 401 bisects the city from west to east, bypassing the downtown core...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.38117,
+                    43.650006
+                ]
+            },
+            "properties": {
+                "entity": "Northern Ontario",
+                "name_location": "Northern Ontario Building, 330, Bay Street, Financial District, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5H 2R2, Canada",
+                "class": "building",
+                "type": "office",
+                "snippet": [
+                    "*...Other provincial highways include Highway 400 which connects the city with Northern Ontario and beyond and Highway 404, an extension of the Don Valley Parkway into the northern suburbs...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.35059,
+                    43.655135
+                ]
+            },
+            "properties": {
+                "entity": "Don Valley Parkway",
+                "name_location": "Don Valley Parkway, Riverside District, Toronto—Danforth, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4M 1G3, Canada",
+                "class": "highway",
+                "type": "motorway",
+                "snippet": [
+                    "*...Other provincial highways include Highway 400 which connects the city with Northern Ontario and beyond and Highway 404, an extension of the Don Valley Parkway into the northern suburbs....",
+                    "*...The main municipal expressways in Toronto include the Gardiner Expressway, the Don Valley Parkway, and to some extent, Allen Road...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.376211,
+                    43.643989
+                ]
+            },
+            "properties": {
+                "entity": "Gardiner Expressway",
+                "name_location": "Gardiner Expressway, South Core, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5J 0B6, Canada",
+                "class": "highway",
+                "type": "motorway",
+                "snippet": [
+                    "...The main municipal expressways in Toronto include the Gardiner Expressway, the Don Valley Parkway, and to some extent, Allen Road...."
+                ]
+            }
+        }
+    ]
+}

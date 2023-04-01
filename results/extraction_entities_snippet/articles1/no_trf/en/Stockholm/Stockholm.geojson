@@ -1,0 +1,390 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.05104,
+                    59.338507
+                ]
+            },
+            "properties": {
+                "entity": "Scandinavia",
+                "name_location": "Oriental Pacific Scandinavia AB, Rådmansgatan, Sabbatsberg, Vasastaden, Norrmalms stadsdelsområde, Stockholm, Stockholms kommun, Stockholm County, 111 24, Sweden",
+                "class": "office",
+                "type": "travel_agent",
+                "snippet": [
+                    "*...Stockholm (Swedish:  ) is the capital and largest city of Sweden as well as the largest urban area in Scandinavia....",
+                    "*...Ranked as an alpha-global city, it is the largest in Scandinavia and the main centre for corporate headquarters in the Nordic region....",
+                    "*...One of the city's most prized museums, the Vasa Museum, is the most visited non-art museum in Scandinavia....",
+                    "*...KTH Royal Institute of Technology (Swedish: Kungliga Tekniska högskolan) was founded in 1827 and is Scandinavia's largest higher education institute of technology with 13,000 students....",
+                    "*...It is the largest Jewish community in Scandinavia....",
+                    "*...In the 2006 European Regional Growth Index (E-REGI), published by Jones Lang LaSalle, Stockholm was ranked fifth on the list of European cities with the strongest GDP growth forecast. Stockholm was ranked first in Scandinavia and second outside Central and Eastern Europe...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.621957,
+                    59.044094
+                ]
+            },
+            "properties": {
+                "entity": "Baltic Sea",
+                "name_location": "Baltic Sea, Kärleksudden, Ekvik, Södertälje kommun, Stockholm County, 153 91, Sweden",
+                "class": "man_made",
+                "type": "pier",
+                "snippet": [
+                    "...The city stretches across fourteen islands where Lake Mälaren flows into the Baltic Sea....",
+                    "...At the intersection of the Baltic Sea and lake Mälaren is an archipelago site where the Old Town of Stockholm was first built from about 1000 CE by Vikings....",
+                    "...Stockholm is located on Sweden's east coast, where the freshwater Lake Mälaren — Sweden's third-largest lake — flows out into the Baltic Sea...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.05422,
+                    59.327503
+                ]
+            },
+            "properties": {
+                "entity": "Stockholm City Hall",
+                "name_location": "Stockholm City Hall, Stadshusträdgården, Kungsholmen, Kungsholmens stadsdelsområde, Stockholm, Stockholms kommun, Stockholm County, 104 22, Sweden",
+                "class": "amenity",
+                "type": "townhall",
+                "snippet": [
+                    "*...It hosts the annual Nobel Prize ceremonies and banquet at the Stockholm Concert Hall and Stockholm City Hall....",
+                    "*...The Council convenes twice every month at Stockholm City Hall, and the meetings are open to the public....",
+                    "...A key landmark of Stockholm, the Stockholm City Hall, was erected 1911–1923 by architect Ragnar Östberg....",
+                    "*...The Nobel Banquet takes place at Stockholm City Hall every year on 10 December...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.070352,
+                    59.326895
+                ]
+            },
+            "properties": {
+                "entity": "Stockholm Palace",
+                "name_location": "Stockholm Palace, 1, Slottsbacken, Gamla stan, Södermalms stadsdelsområde, Stockholm, Stockholms kommun, Stockholm County, 111 29, Sweden",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Stockholm Palace is the official residence and principal workplace of the Swedish monarch, while Drottningholm Palace in neighboring Ekerö serves as the Royal Family's private residence....",
+                    "*...In 1697, Tre Kronor (castle) burned and was replaced by Stockholm Palace....",
+                    "*...After a fire in 1697 when the original medieval castle was destroyed, Stockholm Palace was erected in a baroque style....",
+                    "*...Livrustkammaren, the royal armoury, located at Stockholm Palace ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.956728,
+                    58.906724
+                ]
+            },
+            "properties": {
+                "entity": "Nynäshamn",
+                "name_location": "Nynäshamn, Skytten Hälls väg, Nynäshamn, Nynäshamns kommun, Stockholm County, 149 30, Sweden",
+                "class": "amenity",
+                "type": "ferry_terminal",
+                "snippet": [
+                    "*...South of Stockholm: Huddinge, Nacka, Botkyrka, Haninge, Tyresö, Värmdö, Södertälje, Salem, Nykvarn and Nynäshamn.\nStockholm Municipality is an administrative unit defined by geographical borders...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.054717,
+                    59.341524
+                ]
+            },
+            "properties": {
+                "entity": "Stockholm Observatory",
+                "name_location": "Observatory Museum, 120, Drottninggatan, Sibirien, Vasastaden, Norrmalms stadsdelsområde, Stockholm, Stockholms kommun, Stockholm County, 113 60, Sweden",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "...(City of Stockholm, 2011)\nResearch and higher education in the sciences started in Stockholm in the 18th century, with education in medicine and various research institutions such as the Stockholm Observatory...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.02334,
+                    59.341059
+                ]
+            },
+            "properties": {
+                "entity": "Karlberg Palace",
+                "name_location": "Karlberg Palace, Karlbergs slottsväg, Karlberg, Solna Kyrkby, Solna kommun, Stockholm County, 112 49, Sweden",
+                "class": "historic",
+                "type": "castle",
+                "snippet": [
+                    "*...Military Academy Karlberg, the world's oldest military academy to remain in its original location, inaugurated in 1792 and housed in Karlberg Palace...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.073188,
+                    59.325633
+                ]
+            },
+            "properties": {
+                "entity": "Tessin Palace",
+                "name_location": "Tessin Palace, Finska Kyrkogränd, Gamla stan, Södermalms stadsdelsområde, Stockholm, Stockholms kommun, Stockholm County, 111 31, Sweden",
+                "class": "historic",
+                "type": "castle",
+                "snippet": [
+                    "...Some notable buildings of Gamla Stan are the large German Church (Tyska kyrkan) and several mansions and palaces: the Riddarhuset (the House of Nobility), the Bonde Palace, the Tessin Palace and the Oxenstierna Palace...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.872331,
+                    59.363152
+                ]
+            },
+            "properties": {
+                "entity": "Vällingby",
+                "name_location": "Vällingby, Bräckefaret, Vällingby centrum, Vällingby, Hässelby-Vällingby stadsdelsområde, Stockholms kommun, Stockholm County, 162 13, Sweden",
+                "class": "railway",
+                "type": "subway_entrance",
+                "snippet": [
+                    "...Hässelby-Vällingby ;...",
+                    "*...The modernist developments of Vällingby and Farsta were internationally praised...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.955891,
+                    58.903378
+                ]
+            },
+            "properties": {
+                "entity": "Visby",
+                "name_location": "Nynäshamn - Visby, Lane 10, Nynäshamn, Nynäshamns kommun, Stockholm County, 149 30, Sweden",
+                "class": "amenity",
+                "type": "ferry_terminal",
+                "snippet": [
+                    "...Stockholm developed strong economic and cultural linkages with Lübeck, Hamburg, Gdańsk, Visby, Reval, and Riga during this time....",
+                    "*...Stockholm's architecture (along with Visby, Gotland) provided the inspiration for Japanese anime director Hayao Miyazaki as he sought to evoke an idealized city untouched by World War...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.067298,
+                    59.329453
+                ]
+            },
+            "properties": {
+                "entity": "Mediterranean",
+                "name_location": "Museum of Mediterranean & Near East Antiquities, Fredsgatan, Klara, Norrmalm, Norrmalms stadsdelsområde, Stockholm, Stockholms kommun, Stockholm County, 103 21, Sweden",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Medelhavsmuseet, focused on the ancient cultures around the Mediterranean ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.038275,
+                    59.345964
+                ]
+            },
+            "properties": {
+                "entity": "Hudiksvallsgatan",
+                "name_location": "Hudiksvallsgatan, Röda bergen, Vasastaden, Norrmalms stadsdelsområde, Stockholm, Stockholms kommun, Stockholm County, 100 31, Sweden",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...In the last few years, a gallery district has emerged around Hudiksvallsgatan where leading galleries such as Andréhn-Schiptjenko, Brändström & Stene have located...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.077301,
+                    59.312728
+                ]
+            },
+            "properties": {
+                "entity": "Africa",
+                "name_location": "Colours of Africa, Bondegatan, Skanstull, Södermalm, Södermalms stadsdelsområde, Stockholm, Stockholms kommun, Stockholm County, 116 33, Sweden",
+                "class": "shop",
+                "type": "interior_decoration",
+                "snippet": [
+                    "*...These mainly come from the Middle East (Assyrians, Syriacs, Turks and Kurds) also Bosnians and Serbs, but there are also immigrants from Africa, Southeast Asia and Latin America...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.084,
+                    59.326349
+                ]
+            },
+            "properties": {
+                "entity": "Moderna",
+                "name_location": "Modern Art Museum, Slupskjulsvägen, Skeppsholmen, Norrmalms stadsdelsområde, Stockholm, Stockholms kommun, Stockholm County, 111 49, Sweden",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "...Moderna Museet (Museum of Modern Art) is Sweden's national museum of modern art....",
+                    "*...Other notable theatres are the Stockholm City Theatre (Stockholms stadsteater), the Peoples Opera (Folkoperan), the Modern Theatre of Dance (Moderna dansteatern), the China Theatre, the Göta Lejon Theatre, the Mosebacke Theatre, and the Oscar Theatre...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.001667,
+                    59.372504
+                ]
+            },
+            "properties": {
+                "entity": "Friends Arena",
+                "name_location": "Friends Arena, Råsta strandväg, Arenastaden, Bagartorp, Solna kommun, Stockholm County, 169 79, Sweden",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...The three most popular football clubs in Stockholm are AIK, Djurgårdens IF and Hammarby IF, who all play in the first tier, Allsvenskan. AIK play at Sweden's national stadium for football, Friends Arena in Solna, with a capacity of 54,329....",
+                    "...The 2017 UEFA Europa League Final was played on 24 May between AFC Ajax and Manchester United at the Friends Arena....",
+                    "*...Other major sports arenas are Friends Arena, the new national football stadium, Avicii Arena, a multi-sport arena and one of the largest spherical buildings in the world and the nearby indoor arena Hovet...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.081883,
+                    59.294884
+                ]
+            },
+            "properties": {
+                "entity": "Hovet",
+                "name_location": "Hovet, Globentorget, Johanneshov, Enskede-Årsta-Vantörs stadsdelsområde, Stockholm, Stockholms kommun, Stockholm County, 121 26, Sweden",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...Other major sports arenas are Friends Arena, the new national football stadium, Avicii Arena, a multi-sport arena and one of the largest spherical buildings in the world and the nearby indoor arena Hovet...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.017308,
+                    59.299458
+                ]
+            },
+            "properties": {
+                "entity": "Stockholm Metro",
+                "name_location": "Hotel Metro Stockholm AB, 14, Vretensborgsvägen, Västberga industriområde, Västberga, Hägersten-Älvsjö stadsdelsområde, Stockholm, Stockholms kommun, Stockholm County, 126 31, Sweden",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "...The Stockholm metro, opened in 1950, is well known for the decor of its stations; it has been called the longest art gallery in the world....",
+                    "...In the 1950s, suburban development entered a new phase, that had already started in the early 1930s, with the introduction of the Stockholm metro....",
+                    "...It consists of the Stockholm Metro (Swedish: Tunnelbanan), which consist of three colour-coded main systems (green, red and blue) with seven lines (10, 11, 13, 14, 17, 18, 19); the Stockholm commuter rail (Swedish: Pendeltåget) which runs on the state-owned railroads on six lines (40, 41, 42, 43, 44, 48); four light rail/tramway lines (7, 12, 21, and 22); the 891 mm narrow-gauge railway Roslagsbanan, on three lines (27, 28, 29) in the northeastern part; the local railway Saltsjöbanan, on two lines (25, 26) in the southeastern part; a large number of bus lines, and the inner-city Djurgården ferry....",
+                    "*...Since the 1990s, the operation and maintenance of the SL public transport services are contracted out to independent companies bidding for contracts, such as MTR, which operate the Metro...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.937044,
+                    59.646792
+                ]
+            },
+            "properties": {
+                "entity": "Arlanda Airport",
+                "name_location": "Stockholm-Arlanda Airport, 273, Sigtuna kommun, Stockholm County, 190 45, Sweden",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "*...Stockholm Arlanda Airport (IATA: ARN, ICAO: ESSA) is the largest and busiest airport in Sweden with 27 million passengers in 2017. It is located about 40 km (25 mi) north of Stockholm and serves as a hub for Scandinavian Airlines....",
+                    "*...The Arlanda Express airport rail link runs between Arlanda Airport and Stockholm Central Station...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.058265,
+                    59.33015
+                ]
+            },
+            "properties": {
+                "entity": "Stockholm Central Station",
+                "name_location": "Stockholm Central Railway Station, Klarabergsviadukten, Klara, Norrmalm, Norrmalms stadsdelsområde, Stockholm, Stockholms kommun, Stockholm County, 111 81, Sweden",
+                "class": "building",
+                "type": "train_station",
+                "snippet": [
+                    "*...As Stockholm Central Station is overloaded, the purpose of this project was to double the city's track capacity and improve service efficiency....",
+                    "*...The Arlanda Express airport rail link runs between Arlanda Airport and Stockholm Central Station....",
+                    "*...Stockholm Central Station has train connections to many Swedish cities as well as to Oslo, Norway and Copenhagen, Denmark...."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,599 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97428,
+                    45.425858
+                ]
+            },
+            "properties": {
+                "entity": "Fort Senneville",
+                "name_location": "Fort Senneville, Pont de l'Île-aux-Tourtes, Senneville, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H9X 3R3, Canada",
+                "class": "historic",
+                "type": "ruins",
+                "snippet": [
+                    "*...Forster advanced to Fort Senneville on May 23...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.950328,
+                    45.407885
+                ]
+            },
+            "properties": {
+                "entity": "Sainte-Anne-de-Bellevue",
+                "name_location": "Sainte-Anne-de-Bellevue, Rue Demers, Sainte-Anne-de-Bellevue, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H9X 1L9, Canada",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...Arnold and Forster negotiated further and more American prisoners were returned to Arnold at Sainte-Anne-de-Bellevue, Quebec, (\"Fort Anne\") on May 30 (delayed two days by wind)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.561333,
+                    45.488597
+                ]
+            },
+            "properties": {
+                "entity": "Lachine Canal",
+                "name_location": "Voie piétonne du Canal Lachine, Griffintown, Le Sud-Ouest, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H3C 0S8, Canada",
+                "class": "highway",
+                "type": "footway",
+                "snippet": [
+                    "...The opening of the Lachine Canal permitted ships to bypass the unnavigable Lachine Rapids, while the construction of the Victoria Bridge established Montreal as a major railway hub...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.509358,
+                    45.67408
+                ]
+            },
+            "properties": {
+                "entity": "Pointe-aux-Trembles",
+                "name_location": "Pointe-aux-Trembles, Rue Prince Arthur, Pointe-aux-Trembles, Rivière-des-Prairies–Pointe-aux-Trembles, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H1A 5J4, Canada",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...After Arnold withdrew from Quebec City to Pointe-aux-Trembles on November 19, Montgomery's forces left Montreal on December 1 and arrived there on December 3 to plot to attack Quebec City, with Montgomery leaving David Wooster in charge of the city....",
+                    "*...Montreal annexed 27 other cities, towns and villages beginning with Hochelaga in 1883, with the last prior to 2002 being Pointe-aux-Trembles in 1982....",
+                    "...The boroughs are:\nCôte-des-Neiges–Notre-Dame-de-Grace, The Plateau Mount Royal, Outremont and Ville Marie in the centre; Mercier–Hochelaga-Maisonneuve, Rosemont–La Petite-Patrie and Villeray–Saint-Michel–Parc-Extension in the east; Anjou, Montréal-Nord, Rivière-des-Prairies–Pointe-aux-Trembles and Saint-Leonard in the northeast; Ahuntsic-Cartierville, L'Île-Bizard–Sainte-Geneviève, Pierrefonds-Roxboro and Saint-Laurent in the northwest; and Lachine, LaSalle, The South West and Verdun in the south.[citation needed]\nMany of these boroughs were independent cities that were forced to be merged with Montreal in January 2002 following the 2002 municipal reorganization of Montreal...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.742497,
+                    45.468729
+                ]
+            },
+            "properties": {
+                "entity": "Trudeau International Airport",
+                "name_location": "Montréal–Pierre Elliott Trudeau International Airport, Boulevard Hymus, Bois-Francs, Saint-Laurent, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H4S 2G1, Canada",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "*...The construction of new residential skyscrapers, two super-hospitals (the Centre hospitalier de l'Université de Montréal and McGill University Health Centre), the creation of the Quartier des Spectacles, reconstruction of the Turcot Interchange, reconfiguration of the Decarie and Dorval interchanges, construction of the new Réseau électrique métropolitain, gentrification of Griffintown, subway line extensions and the purchase of new subway cars, the complete revitalization and expansion of Trudeau International Airport, the completion of Quebec Autoroute 30, the reconstruction of the Champlain Bridge and the construction of a new toll bridge to Laval are helping Montreal continue to grow.[citation needed]\nMontreal is in the southwest of the province of Quebec....",
+                    "...Pierre Elliott Trudeau International Airport (also known as Dorval Airport) in the City of Dorval serves all commercial passenger traffic and is the headquarters of Air Canada and Air Transat...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.53389,
+                    45.466727
+                ]
+            },
+            "properties": {
+                "entity": "Champlain Bridge",
+                "name_location": "Champlain Bridge Ice-Control Structure Cycle Path, Île-des-Sœurs, Verdun, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H3E 1W5, Canada",
+                "class": "highway",
+                "type": "cycleway",
+                "snippet": [
+                    "...The construction of new residential skyscrapers, two super-hospitals (the Centre hospitalier de l'Université de Montréal and McGill University Health Centre), the creation of the Quartier des Spectacles, reconstruction of the Turcot Interchange, reconfiguration of the Decarie and Dorval interchanges, construction of the new Réseau électrique métropolitain, gentrification of Griffintown, subway line extensions and the purchase of new subway cars, the complete revitalization and expansion of Trudeau International Airport, the completion of Quebec Autoroute 30, the reconstruction of the Champlain Bridge and the construction of a new toll bridge to Laval are helping Montreal continue to grow.[citation needed]\nMontreal is in the southwest of the province of Quebec...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.613257,
+                    45.526935
+                ]
+            },
+            "properties": {
+                "entity": "Atlantic",
+                "name_location": "Taverne Atlantic, Park Avenue, Rosemont–La Petite-Patrie, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H2V 1A5, Canada",
+                "class": "amenity",
+                "type": "bar",
+                "snippet": [
+                    "*...The port of Montreal lies at one end of the Saint Lawrence Seaway, the river gateway that stretches from the Great Lakes to the Atlantic...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.678038,
+                    45.449124
+                ]
+            },
+            "properties": {
+                "entity": "West Island",
+                "name_location": "Remorquage West Island Towing, 1540, Croissant Claire, Vieux-Lachine, Lachine, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H4W 2J9, Canada",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...Repentigny to the east and the West Island municipalities to the west....",
+                    "...Commuting traffic from the cities and towns in the West Island (such as Dollard-des-Ormeaux and Pointe-Claire) is compounded by commuters entering the city that use twenty-four road crossings from numerous off-island suburbs on the North and South Shores...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.638362,
+                    45.514572
+                ]
+            },
+            "properties": {
+                "entity": "Town of Mount Royal",
+                "name_location": "Town of Mount-Royal Curling Club, 5, Montgomery Avenue, Mount Royal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H3R 2B2, Canada",
+                "class": "leisure",
+                "type": "ice_rink",
+                "snippet": [
+                    "...The anglophone enclaves of Westmount, Montreal West, Hampstead, Côte Saint-Luc, the Town of Mount Royal and the francophone enclave Montreal East are all surrounded by Montreal...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.562147,
+                    45.635176
+                ]
+            },
+            "properties": {
+                "entity": "Montreal East",
+                "name_location": "Montréal East (Aim) Heliport, Boulevard Henri-Bourassa Est, Marc-Aurèle-Fortin, Anjou, Montréal-Est, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H1E 1N9, Canada",
+                "class": "aeroway",
+                "type": "helipad",
+                "snippet": [
+                    "*...The anglophone enclaves of Westmount, Montreal West, Hampstead, Côte Saint-Luc, the Town of Mount Royal and the francophone enclave Montreal East are all surrounded by Montreal...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.556006,
+                    45.504443
+                ]
+            },
+            "properties": {
+                "entity": "Notre Dame Basilica",
+                "name_location": "Notre-Dame Basilica, 110, Rue Notre-Dame Ouest, Old Montreal, Ville-Marie, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H2Y 3Y7, Canada",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Although most are clustered around the Old Montreal area, such as the Sulpician Seminary adjacent to Notre Dame Basilica that dates back to 1687, and Château Ramezay, which was built in 1705, examples of early colonial architecture are dotted throughout the city...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.563035,
+                    45.482452
+                ]
+            },
+            "properties": {
+                "entity": "Point St. Charles",
+                "name_location": "Point St. Charles Tatouage, 1925, Rue Centre, Pointe-Saint-Charles, Le Sud-Ouest, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H3K 1J1, Canada",
+                "class": "shop",
+                "type": "tattoo",
+                "snippet": [
+                    "*...In Point St. Charles visitors can see the Maison Saint-Gabriel, which can trace its history back to 1698...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.857578,
+                    45.479866
+                ]
+            },
+            "properties": {
+                "entity": "St. James Street",
+                "name_location": "James Street, Pierrefonds-Ouest, Pierrefonds-Roxboro, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H9H 4G2, Canada",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...There are many historic buildings in Old Montreal in their original form: Notre Dame of Montreal Basilica, Bonsecours Market, and the 19th‑century headquarters of all major Canadian banks on St. James Street (French: Rue Saint Jacques)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.56306,
+                    45.498587
+                ]
+            },
+            "properties": {
+                "entity": "Rue Saint Jacques",
+                "name_location": "Rue Saint-Jacques, Old Montreal, Ville-Marie, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H3C 3Z7, Canada",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...There are many historic buildings in Old Montreal in their original form: Notre Dame of Montreal Basilica, Bonsecours Market, and the 19th‑century headquarters of all major Canadian banks on St. James Street (French: Rue Saint Jacques)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.568627,
+                    45.501603
+                ]
+            },
+            "properties": {
+                "entity": "Place Ville Marie",
+                "name_location": "Place Ville-Marie, Place Monseigneur-Charbonneau, Ville-Marie, René-Lévesque, Ville-Marie, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H3B 2E3, Canada",
+                "class": "building",
+                "type": "office",
+                "snippet": [
+                    "*...Saint Joseph's Oratory, completed in 1967, Ernest Cormier's Art Deco Université de Montréal main building, the landmark Place Ville Marie office tower, the controversial Olympic Stadium and surrounding structures, are but a few notable examples of the city's 20th-century architecture...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.551646,
+                    45.557798
+                ]
+            },
+            "properties": {
+                "entity": "Olympic Stadium",
+                "name_location": "Olympic Stadium, 4545, Avenue Pierre-De Coubertin, Mercier–Hochelaga-Maisonneuve, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H1V 3N7, Canada",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...While the event brought the city international prestige and attention, the Olympic Stadium built for the event resulted in massive debt for the city....",
+                    "*...Saint Joseph's Oratory, completed in 1967, Ernest Cormier's Art Deco Université de Montréal main building, the landmark Place Ville Marie office tower, the controversial Olympic Stadium and surrounding structures, are but a few notable examples of the city's 20th-century architecture....",
+                    "...The borough included Goose Village and was historically home to the traditionally working-class Irish neighbourhoods of Griffintown and Point Saint Charles as well as the low-income neighbourhoods of Saint Henri and Little Burgundy.[citation needed]\nOther notable neighbourhoods include the multicultural areas of Notre-Dame-de-Grâce and Côte-des-Neiges in the Côte-des-Neiges–Notre-Dame-de-Grace borough, and Little Italy in the borough of Rosemont–La Petite-Patrie and Hochelaga-Maisonneuve, home of the Olympic Stadium in the borough of Mercier–Hochelaga-Maisonneuve.[citation needed]\nOld Montreal is a historic area southeast of downtown containing many attractions such as the Old Port of Montreal, Place Jacques-Cartier, Montreal City Hall, the Bonsecours Market, Place d'Armes, Pointe-à-Callière Museum, the Notre-Dame de Montréal Basilica, and the Montreal Science Centre.[citation needed]\nArchitecture and cobbled streets in Old Montreal have been maintained or restored....",
+                    "*...Late season and playoff games are played at the much larger, enclosed Olympic Stadium, which also hosted the 2008 Grey Cup....",
+                    "*...They played their games at Jarry Park Stadium until moving into Olympic Stadium in 1977....",
+                    "*...The Montreal games of the 2007 FIFA U-20 World Cup and 2014 FIFA U-20 Women's World Cup were held at Olympic Stadium, and the venue hosted Montreal games in the 2015 FIFA Women's World Cup...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.574997,
+                    45.510411
+                ]
+            },
+            "properties": {
+                "entity": "Metro",
+                "name_location": "Metro, Avenue du Parc, Milton Parc, Le Plateau-Mont-Royal, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H3Y 1P9, Canada",
+                "class": "shop",
+                "type": "supermarket",
+                "snippet": [
+                    "...During the 1960s, there was continued growth as Canada's tallest skyscrapers, new expressways and the subway system known as the Montreal Metro were finished during this time....",
+                    "...Though most pavilions were temporary structures, several have become landmarks, including Buckminster Fuller's geodesic dome U.S. Pavilion, now the Montreal Biosphere, and Moshe Safdie's striking Habitat 67 apartment complex.[citation needed]\nThe Montreal Metro has public artwork by some of the biggest names in Quebec culture....",
+                    "*...Old Montreal is accessible from the downtown core via the underground city and is served by several STM bus routes and Metro stations, ferries to the South Shore and a network of bicycle paths.[citation needed]\nThe riverside area adjacent to Old Montreal is known as the Old Port....",
+                    "...Standard Life, Hydro-Québec, AbitibiBowater, Pratt and Whitney Canada, Molson, Tembec, Canada Steamship Lines, Fednav, Alimentation Couche-Tard, SNC-Lavalin, MEGA Brands, Aeroplan, Agropur, Metro Inc., Laurentian Bank of Canada, National Bank of Canada, Transat A.T., Via Rail, GardaWorld, Novacam Technologies, SOLABS, Dollarama, Rona and the Caisse de dépôt et placement du Québec....",
+                    "*...There are presently four road bridges (including two of the country's busiest) along with one bridge-tunnel, two railway bridges, and a Metro line....",
+                    "*...The far narrower Rivière des Prairies to the city's north, separating Montreal from Laval, is spanned by nine road bridges (seven to the city of Laval and two that span directly to the north shore) and a Metro line....",
+                    "*...The Metro was inaugurated in 1966 and has 68 stations on four lines....",
+                    "*...The Metro system has long had a station on the South Shore in Longueuil, and in 2007 was extended to the city of Laval, north of Montreal, with three new stations....",
+                    "...The metro has recently been modernizing its trains, purchasing new Azur models with inter-connected wagons....",
+                    "...To be opened in three phases as of 2022, the REM will be completed by mid-2024, becoming the fourth largest automated rapid transit network after the Dubai Metro, the Singapore Mass Rapid Transit, and the Vancouver SkyTrain...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.644563,
+                    45.473763
+                ]
+            },
+            "properties": {
+                "entity": "Côte Saint-Luc",
+                "name_location": "Cote St-Luc Road, Loyola, Côte-des-Neiges–Notre-Dame-de-Grâce, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H3X 2H3, Canada",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...The anglophone enclaves of Westmount, Montreal West, Hampstead, Côte Saint-Luc, the Town of Mount Royal and the francophone enclave Montreal East are all surrounded by Montreal....",
+                    "*...In cities such as Côte Saint-Luc and Hampstead, Jewish people constitute the majority, or a substantial part of the population....",
+                    "...The boroughs are:\nCôte-des-Neiges–Notre-Dame-de-Grace, The Plateau Mount Royal, Outremont and Ville Marie in the centre; Mercier–Hochelaga-Maisonneuve, Rosemont–La Petite-Patrie and Villeray–Saint-Michel–Parc-Extension in the east; Anjou, Montréal-Nord, Rivière-des-Prairies–Pointe-aux-Trembles and Saint-Leonard in the northeast; Ahuntsic-Cartierville, L'Île-Bizard–Sainte-Geneviève, Pierrefonds-Roxboro and Saint-Laurent in the northwest; and Lachine, LaSalle, The South West and Verdun in the south.[citation needed]\nMany of these boroughs were independent cities that were forced to be merged with Montreal in January 2002 following the 2002 municipal reorganization of Montreal....",
+                    "*...The borough included Goose Village and was historically home to the traditionally working-class Irish neighbourhoods of Griffintown and Point Saint Charles as well as the low-income neighbourhoods of Saint Henri and Little Burgundy.[citation needed]\nOther notable neighbourhoods include the multicultural areas of Notre-Dame-de-Grâce and Côte-des-Neiges in the Côte-des-Neiges–Notre-Dame-de-Grace borough, and Little Italy in the borough of Rosemont–La Petite-Patrie and Hochelaga-Maisonneuve, home of the Olympic Stadium in the borough of Mercier–Hochelaga-Maisonneuve.[citation needed]\nOld Montreal is a historic area southeast of downtown containing many attractions such as the Old Port of Montreal, Place Jacques-Cartier, Montreal City Hall, the Bonsecours Market, Place d'Armes, Pointe-à-Callière Museum, the Notre-Dame de Montréal Basilica, and the Montreal Science Centre.[citation needed]\nArchitecture and cobbled streets in Old Montreal have been maintained or restored...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.569225,
+                    45.49606
+                ]
+            },
+            "properties": {
+                "entity": "Bell Centre",
+                "name_location": "Centre Bell, Rue de la Montagne, Ville-Marie, René-Lévesque, Ville-Marie, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H3C 1B4, Canada",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "...The Canadiens have played at the Bell Centre since 1996....",
+                    "...It remains an important centre of commerce, aerospace, transport, finance, pharmaceuticals, technology, design, education, art, culture, tourism, food, fashion, video game development, film, and world affairs....",
+                    "...Ville-Marie became a centre for the fur trade and a base for further exploration....",
+                    "...By 1860, it was the largest municipality in British North America and the undisputed economic and cultural centre of Canada....",
+                    "*...The construction of new residential skyscrapers, two super-hospitals (the Centre hospitalier de l'Université de Montréal and McGill University Health Centre), the creation of the Quartier des Spectacles, reconstruction of the Turcot Interchange, reconfiguration of the Decarie and Dorval interchanges, construction of the new Réseau électrique métropolitain, gentrification of Griffintown, subway line extensions and the purchase of new subway cars, the complete revitalization and expansion of Trudeau International Airport, the completion of Quebec Autoroute 30, the reconstruction of the Champlain Bridge and the construction of a new toll bridge to Laval are helping Montreal continue to grow.[citation needed]\nMontreal is in the southwest of the province of Quebec....",
+                    "...Montreal is at the centre of the Montreal Metropolitan Community, and is bordered by the city of Laval to the north; Longueuil, Saint-Lambert, Brossard, and other municipalities to the south;...",
+                    "...For over a century and a half, Montreal was the industrial and financial centre of Canada....",
+                    "...The boroughs are:\nCôte-des-Neiges–Notre-Dame-de-Grace, The Plateau Mount Royal, Outremont and Ville Marie in the centre; Mercier–Hochelaga-Maisonneuve, Rosemont–La Petite-Patrie and Villeray–Saint-Michel–Parc-Extension in the east; Anjou, Montréal-Nord, Rivière-des-Prairies–Pointe-aux-Trembles and Saint-Leonard in the northeast; Ahuntsic-Cartierville, L'Île-Bizard–Sainte-Geneviève, Pierrefonds-Roxboro and Saint-Laurent in the northwest; and Lachine, LaSalle, The South West and Verdun in the south.[citation needed]\nMany of these boroughs were independent cities that were forced to be merged with Montreal in January 2002 following the 2002 municipal reorganization of Montreal....",
+                    "...Other features of the park are Beaver Lake, a small man-made lake, a short ski slope, a sculpture garden, Smith House, an interpretive centre, and a well-known monument to Sir George-Étienne Cartier....",
+                    "...Historically Montreal has been a centre of Catholicism in North America with its numerous seminaries and churches, including the Notre-Dame Basilica, the Cathédrale Marie-Reine-du-Monde, and Saint Joseph's Oratory....",
+                    "...The city is today an important centre of commerce, finance, industry, technology, culture, world affairs and is the headquarters of the Montreal Exchange....",
+                    "...In 2002, Montreal was the fourth-largest centre in North America in terms of aerospace jobs....",
+                    "...Montreal is a centre of film and television production....",
+                    "...The Montreal Oil Refining Centre is the largest refining centre in Canada, with companies like Petro-Canada, Ultramar, Gulf Oil, Petromont, Ashland Canada, Parachem Petrochemical, Coastal Petrochemical, Interquisa (Cepsa) Petrochemical, Nova Chemicals, and more....",
+                    "...Shell decided to close the refining centre in 2010, throwing hundreds out of work and causing an increased dependence on foreign refineries for eastern Canada....",
+                    "...The city is Canada's centre for French-language television productions, radio, theatre, film, multimedia, and print publishing....",
+                    "...Montreal is Canada's second-largest media market, and the centre of francophone Canada's media industry....",
+                    "...French-language elementary and secondary public schools in Montreal are operated by the Centre de services scolaire de Montréal (CSDM), Centre de services scolaire Marguerite-Bourgeoys and the Centre de services scolaire de la Pointe-de-l'Île....",
+                    "...Also, l'Institut de pastorale des Dominicains is Montreal's university centre of Ottawa's Collège Universitaire Dominicain/Dominican University College....",
+                    "...None of its trackage will link to the initial network, although its inner terminus close to the city's centre is to double as a passenger interchange....",
+                    "...Plans to elevate its trunk segment through the eastern end of the city centre and an adjacent inner-city district, however, have become controversial, while the north-bound one of its pair of branches is to be tunnelled through suburban districts...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.580718,
+                    45.510086
+                ]
+            },
+            "properties": {
+                "entity": "Molson Stadium",
+                "name_location": "Molson Stadium, Pine Avenue, Montagne, Ville-Marie, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H2W 1S4, Canada",
+                "class": "leisure",
+                "type": "pitch",
+                "snippet": [
+                    "*...The Montreal Alouettes of the Canadian Football League (CFL) play at Molson Stadium on the campus of McGill University for their regular-season games...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.552642,
+                    45.563091
+                ]
+            },
+            "properties": {
+                "entity": "Saputo Stadium",
+                "name_location": "Saputo Stadium, Rue Viau, Maisonneuve, Mercier–Hochelaga-Maisonneuve, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H1V 3J3, Canada",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...They play at a soccer-specific stadium called Saputo Stadium...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.551453,
+                    45.524093
+                ]
+            },
+            "properties": {
+                "entity": "Métro",
+                "name_location": "Métro Plus, 1955, Rue Sainte-Catherine Est, Gay Village, Sainte-Marie, Ville-Marie, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H2K 2H5, Canada",
+                "class": "shop",
+                "type": "supermarket",
+                "snippet": [
+                    "*...There are two free French dailies, Métro and 24 Heures...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.55351,
+                    45.492386
+                ]
+            },
+            "properties": {
+                "entity": "Bonaventure Expressway",
+                "name_location": "Bonaventure Expressway, Petite-Bourgogne, Le Sud-Ouest, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H3C 0M4, Canada",
+                "class": "highway",
+                "type": "motorway",
+                "snippet": [
+                    "...The island of Montreal is a hub for the Quebec Autoroute system, and is served by Quebec Autoroutes A-10 (known as the Bonaventure Expressway on the island of Montreal), A-15 (aka the Decarie Expressway south of the A-40 and the Laurentian Autoroute to the north of it), A-13 (aka Chomedey Autoroute), A-20, A-25, A-40 (part of the Trans-Canada Highway system, and known as \"The Metropolitan\" or simply \"The Met\" in its elevated mid-town section), A-520 and R-136 (aka the Ville-Marie Autoroute)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.626915,
+                    45.486554
+                ]
+            },
+            "properties": {
+                "entity": "Africa",
+                "name_location": "Hot Africa, 4959, Chemin Queen Mary, Snowdon, Côte-des-Neiges–Notre-Dame-de-Grâce, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H3W 1X4, Canada",
+                "class": "amenity",
+                "type": "fast_food",
+                "snippet": [
+                    "*...Airlines servicing Trudeau offer year-round non-stop flights to five continents, namely Africa, Asia, Europe, North America and South America...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.574116,
+                    45.533204
+                ]
+            },
+            "properties": {
+                "entity": "Asia",
+                "name_location": "Café Asia, 1828, Avenue du Mont-Royal Est, Lorimier, Le Plateau-Mont-Royal, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H2H 1J2, Canada",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...Airlines servicing Trudeau offer year-round non-stop flights to five continents, namely Africa, Asia, Europe, North America and South America...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.576796,
+                    45.515947
+                ]
+            },
+            "properties": {
+                "entity": "Europe",
+                "name_location": "La Vielle Europe, Boulevard Saint-Laurent, Saint-Louis, Le Plateau-Mont-Royal, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H2W 1Y2, Canada",
+                "class": "shop",
+                "type": "convenience",
+                "snippet": [
+                    "*...Airlines servicing Trudeau offer year-round non-stop flights to five continents, namely Africa, Asia, Europe, North America and South America...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.567881,
+                    45.500934
+                ]
+            },
+            "properties": {
+                "entity": "Central Station",
+                "name_location": "Central Station, Boulevard René-Lévesque Ouest, Ville-Marie, René-Lévesque, Ville-Marie, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H3B 4Z9, Canada",
+                "class": "railway",
+                "type": "station_entrance",
+                "snippet": [
+                    "*...All intercity trains and most commuter trains operate out of Central Station....",
+                    "*...CN's flagship train, the Super Continental, ran daily from Central Station to Vancouver and subsequently became a Via train in 1978...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.568071,
+                    45.497077
+                ]
+            },
+            "properties": {
+                "entity": "Windsor Station",
+                "name_location": "Windsor Station, Rue Peel, Ville-Marie, René-Lévesque, Ville-Marie, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H3B 4C9, Canada",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...Its corporate headquarters occupied Windsor Station at 910 Peel Street until 1995....",
+                    "*...The CPR's flagship train, The Canadian, ran daily from Windsor Station to Vancouver, but in 1978 all passenger services were transferred to Via...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.559072,
+                    45.484101
+                ]
+            },
+            "properties": {
+                "entity": "Grand Trunk",
+                "name_location": "Rue Grand Trunk, Pointe-Saint-Charles, Le Sud-Ouest, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H3K 1G4, Canada",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "...It was formed from the Grand Trunk, Midland and Canadian Northern Railways, and has risen to become CPR's chief rival in freight carriage in Canada...."
+                ]
+            }
+        }
+    ]
+}

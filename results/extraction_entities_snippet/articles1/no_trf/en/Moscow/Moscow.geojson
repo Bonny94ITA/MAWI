@@ -1,0 +1,548 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.601556,
+                    55.766158
+                ]
+            },
+            "properties": {
+                "entity": "Central Russia",
+                "name_location": "State Central Museum of Contemporary History of Russia, 21, Tverskaya Street, 49, Tverskoy District, Moscow, Central Federal District, 127006, Russia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...The city stands on the Moskva River in Central Russia, with a population estimated at 13.0 million residents within the city limits, over 17 million residents in the urban area, and over 21.5 million residents in the metropolitan area....",
+                    "...Moscow is situated on the banks of the Moskva River, which flows for just over 500 km (311 mi) through the East European Plain in central Russia, not far from the natural border of the forest and forest-steppe zone....",
+                    "*...Along with a southern part of Central Russia, after recent years of hot summer seasons, the climate of the city gets hot-summer classification trends...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.623978,
+                    55.751238
+                ]
+            },
+            "properties": {
+                "entity": "Red Square",
+                "name_location": "Red Square, площадь Васильевский Спуск, 15, Kitay-gorod, Tverskoy District, Moscow, Central Federal District, 109012, Russia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...The city is home to several UNESCO World Heritage Sites and is well known for its display of Russian architecture, particularly its historic Red Square, and buildings such as the Saint Basil's Cathedral and the Moscow Kremlin, of which the latter serves as the seat of power of the Government of Russia....",
+                    "...In the time of Ivan III, the Red Square, originally named the Hollow Field (Полое поле) appeared....",
+                    "...The last two were directly opposite the Red Square, while the Konstantino-Elenensky gate was located behind Saint Basil's Cathedral....",
+                    "*...He designed spacious elongated shop galleries, most notably the GUM department store on Red Square, bridged with innovative metal-and-glass vaults....",
+                    "*...Some of the more famous attractions include the city's UNESCO World Heritage Site, Moscow Kremlin and Red Square, which was built between the 14th and 17th centuries....",
+                    "*...The State Historical Museum of Russia (Государственный Исторический музей) is a museum of Russian history located between Red Square and Manege Square in Moscow....",
+                    "*...14 hotspots were positioned across the city's main tourist attractions, including Lubyanka Square near Red Square, the Moscow City financial district and the VDNKh exhibition center...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.623063,
+                    55.752488
+                ]
+            },
+            "properties": {
+                "entity": "Saint Basil's",
+                "name_location": "Saint Basil's Cathedral, 2, Red Square, 2, Kitay-gorod, Tverskoy District, Moscow, Central Federal District, 109012, Russia",
+                "class": "place",
+                "type": "house",
+                "snippet": [
+                    "...The city is home to several UNESCO World Heritage Sites and is well known for its display of Russian architecture, particularly its historic Red Square, and buildings such as the Saint Basil's Cathedral and the Moscow Kremlin, of which the latter serves as the seat of power of the Government of Russia....",
+                    "*...The last two were directly opposite the Red Square, while the Konstantino-Elenensky gate was located behind Saint Basil's Cathedral....",
+                    "*...Moscow is the site of Saint Basil's Cathedral, with its elegant onion domes, as well as the Cathedral of Christ the Savior and the Seven Sisters...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.44853,
+                    55.805799
+                ]
+            },
+            "properties": {
+                "entity": "Moscow River",
+                "name_location": "River Club Moscow, Новощукинская улица, Shchukino District, Moscow, Central Federal District, 123367, Russia",
+                "class": "man_made",
+                "type": "pier",
+                "snippet": [
+                    "...In the course of the Mongol invasion of Kievan Rus', the Mongols under Batu Khan burned the city to the ground and killed its inhabitants.[citation needed]\nThe timber fort na Moskvě \"on the Moscow River\" was inherited by Daniel, the youngest son of Alexander Nevsky, in the 1260s, at the time considered the least valuable of his father's possessions....",
+                    "...In 1592, an outer earth rampart with 50 towers was erected around the city, including an area on the right bank of the Moscow River...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.63641,
+                    55.758716
+                ]
+            },
+            "properties": {
+                "entity": "Siberia",
+                "name_location": "Siberia, Armyanskiy Lane, Ivanovskaya Gorka, Basmanny District, Moscow, Central Federal District, 101000, Russia",
+                "class": "tourism",
+                "type": "hostel",
+                "snippet": [
+                    "*...In 1480, Ivan III had finally broken the Russians free from Tatar control, and Moscow became the capital of an empire that would eventually encompass all of Russia and Siberia, and parts of many other lands...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.61823,
+                    55.750741
+                ]
+            },
+            "properties": {
+                "entity": "Great Bell Tower",
+                "name_location": "Ivan the Great Bell Tower, Кремль, Tverskoy District, Moscow, Central Federal District, 103073, Russia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...The Kremlin's Great Bell Tower was built in 1505–08 and augmented to its present height in 1600...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.555771,
+                    55.726028
+                ]
+            },
+            "properties": {
+                "entity": "Novodevichy Convent",
+                "name_location": "Novodevichy Convent, 1, Novodevichy Passage, 531, Khamovniki District, Moscow, Central Federal District, 119435, Russia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...As an outermost line of defense, a chain of strongly fortified monasteries was established beyond the ramparts to the south and east, principally the Novodevichy Convent and Donskoy, Danilov, Simonov, Novospasskiy, and Andronikov monasteries, most of which now house museums...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.624439,
+                    55.749668
+                ]
+            },
+            "properties": {
+                "entity": "Moskvoretskaya",
+                "name_location": "Moskvoretskaya Embankment, 15, 19, Tverskoy District, Moscow, Central Federal District, 109012, Russia",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...In 1903 the Moskvoretskaya water supply was completed...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.676383,
+                    55.791821
+                ]
+            },
+            "properties": {
+                "entity": "Sokolniki Park",
+                "name_location": "Парк Культуры и Отдыха «Сокольники», улица Сокольнический Вал, Sokolniki, Sokolniki District, Moscow, Central Federal District, 107113, Russia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...Sokolniki Park, in the 18th century the home of the tsar's falconers well outside Moscow, became contiguous with the expanding city in the later 19th century and was developed into a public municipal park in 1878....",
+                    "...Sokolniki Park, named after the falcon hunting that occurred there in the past, is one of the oldest parks in Moscow and has an area of 6 square kilometres (2.3 sq mi)....",
+                    "*...Losiny Ostrov National Park (\"Elk Island\" National Park), with a total area of more than 116 square kilometres (45 sq mi), borders Sokolniki Park and was Russia's first national park...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.575253,
+                    55.715244
+                ]
+            },
+            "properties": {
+                "entity": "Third Ring Road",
+                "name_location": "Third Ring Road, Khamovniki District, Moscow, Central Federal District, 119334, Russia",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "...The Third Ring Road, intermediate between the early 19th-century Garden Ring and the Soviet-era outer ring road, was completed in 2004....",
+                    "...The Third Ring Road, was completed in 2003 as a high-speed freeway....",
+                    "...Situated in Presnensky District and located at the Third Ring, the Moscow City area is under intense development....",
+                    "...Major thoroughfares through MIBC are the Third Ring and Kutuzovsky Prospekt...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.611595,
+                    55.717307
+                ]
+            },
+            "properties": {
+                "entity": "Shukhov Tower",
+                "name_location": "Shukhov Tower, Shukhova Street, Donskoy District, Moscow, Central Federal District, 115162, Russia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Another prominent architect was Vladimir Shukhov, famous for Shukhov Tower, just one of many hyperboloid towers designed by Shukhov...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.611656,
+                    55.81973
+                ]
+            },
+            "properties": {
+                "entity": "Ostankino Tower",
+                "name_location": "Ostankino Tower, 15 к1, Akademika Korolyova Street, Ostankino, Ostankinsky District, Moscow, Central Federal District, 129075, Russia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...All seven towers can be seen from most high points in the city; they are among the tallest constructions in central Moscow apart from the Ostankino Tower, which, when it was completed in 1967, was the highest free-standing land structure in the world and today remains the world's seventy-second tallest, ranking among buildings such as the Burj Khalifa in Dubai, Taipei 101 in Taiwan and the CN Tower in Toronto...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.614811,
+                    55.757016
+                ]
+            },
+            "properties": {
+                "entity": "Tverskaya Street",
+                "name_location": "Tverskaya Street, 18, 62, Tverskoy District, Moscow, Central Federal District, 103265, Russia",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...Many buildings found off the main streets of the inner city (behind the Stalinist façades of Tverskaya Street, for example) are also examples of bourgeois architecture typical of Tsarist times....",
+                    "*...Tverskaya Street is also one of the busiest shopping streets in Moscow....",
+                    "*...The adjoining Tretyakovsky Proyezd, also south of Tverskaya Street, in Kitai-gorod, is host to upmarket boutique stores such as Bulgari, Tiffany & Co., Armani, Prada and Bentley...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.576322,
+                    55.763374
+                ]
+            },
+            "properties": {
+                "entity": "Moscow Zoo",
+                "name_location": "Moscow Zoo, Большая Грузинская улица, Presnensky District, Moscow, Central Federal District, 123557, Russia",
+                "class": "tourism",
+                "type": "zoo",
+                "snippet": [
+                    "...Other attractions include the Moscow Zoo, a zoological garden in two sections (the valleys of two streams) linked by a bridge, with nearly a thousand species and more than 6,500 specimens...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.60551,
+                    55.744524
+                ]
+            },
+            "properties": {
+                "entity": "Cathedral of Christ",
+                "name_location": "Cathedral of Christ the Saviour, 15, Volkhonka Street, 31, Khamovniki District, Moscow, Central Federal District, 119019, Russia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "...Multiple old churches and other examples of architectural heritage that had been demolished during the Stalin era have been restored, such as the Cathedral of Christ the Saviour....",
+                    "...Moscow is the site of Saint Basil's Cathedral, with its elegant onion domes, as well as the Cathedral of Christ the Savior and the Seven Sisters....",
+                    "...Many of the city's churches, which in most cases were some of Moscow's oldest and most prominent buildings, were destroyed; some notable examples include the Kazan Cathedral and the Cathedral of Christ the Savior....",
+                    "...The first and innermost major ring, Bulvarnoye Koltso (Boulevard Ring), was built at the former location of the 16th-century city wall around what used to be called Bely Gorod (White Town). The Bulvarnoye Koltso is technically not a ring; it does not form a complete circle, but instead a horseshoe-shaped arc that begins at the Cathedral of Christ the Savior and ends at the Yauza River...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.590157,
+                    55.754213
+                ]
+            },
+            "properties": {
+                "entity": "Marina Tsvetaeva",
+                "name_location": "Marina Tsvetaeva Museum House, 6 с1, Borisoglebskiy Lane, 35, Arbat District, Moscow, Central Federal District, 121069, Russia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Another art museum in the city of Moscow is the Pushkin Museum of Fine Arts, which was founded by, among others, the father of Marina Tsvetaeva...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.617882,
+                    55.755323
+                ]
+            },
+            "properties": {
+                "entity": "Государственный Исторический",
+                "name_location": "Historical Museum, 1, Red Square, 4, Kitay-gorod, Tverskoy District, Moscow, Central Federal District, 109012, Russia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...The State Historical Museum of Russia (Государственный Исторический музей) is a museum of Russian history located between Red Square and Manege Square in Moscow...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.479229,
+                    55.837272
+                ]
+            },
+            "properties": {
+                "entity": "Dynamo Stadium",
+                "name_location": "Dynamo Vodny Stadium, 39 с53, Ленинградское шоссе, Voykovsky District, Moscow, Central Federal District, 125212, Russia",
+                "class": "building",
+                "type": "sports_centre",
+                "snippet": [
+                    "...When Russia was selected to host the 2018 FIFA World Cup, the Luzhniki Stadium got an increased capacity, by almost 10,000 new seats, in addition to a further two stadiums that have been built: the Dynamo Stadium, and the Spartak Stadium, although the first one later was dismissed from having World Cup matches....",
+                    "*...For example, the Sverdlov Square subway station featured porcelain bas-reliefs depicting the daily life of the Soviet peoples, and the bas-reliefs at the Dynamo Stadium sports complex glorified sports and the physical prowess of the powerful new \"Homo Sovieticus\" (Soviet man)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.647393,
+                    55.756988
+                ]
+            },
+            "properties": {
+                "entity": "101",
+                "name_location": "101, Покровский бульвар, Ivanovskaya Gorka, Basmanny District, Moscow, Central Federal District, 109028, Russia",
+                "class": "man_made",
+                "type": "mast",
+                "snippet": [
+                    "...All seven towers can be seen from most high points in the city; they are among the tallest constructions in central Moscow apart from the Ostankino Tower, which, when it was completed in 1967, was the highest free-standing land structure in the world and today remains the world's seventy-second tallest, ranking among buildings such as the Burj Khalifa in Dubai, Taipei 101 in Taiwan and the CN Tower in Toronto....",
+                    "...It borders the Neskuchny Garden (408,000 square metres or 101 acres), the oldest park in Moscow and a former imperial residence, created as a result of the integration of three estates in the 18th century....",
+                    "*...The emergency numbers are the same as in all the other regions of Russia: 112 is the Single Emergency Number, 101 is the number of the Fire Service and Ministry of Emergency Situations, 102 is the Police one, 103 is the ambulance one, 104 is the Emergency Gas number...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.638398,
+                    55.844865
+                ]
+            },
+            "properties": {
+                "entity": "Botanical Garden",
+                "name_location": "Botanical Garden, 1-я улица Леонова, Rostokino, Moscow, Rostokino District, Moscow, Central Federal District, 127490, Russia",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "...Tsytsin Main Botanical Garden of Academy of Sciences, founded in 1945 is the largest in Europe....",
+                    "...Such is the case with the All-Russia Exhibition Centre, the Botanical Garden, large parks, and industrial zones...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.622092,
+                    55.717045
+                ]
+            },
+            "properties": {
+                "entity": "WiFi",
+                "name_location": "WIFI, Lyusinovskaya Street, Danilovsky District, Moscow, Central Federal District, 115093, Russia",
+                "class": "amenity",
+                "type": "wifihotspot",
+                "snippet": [
+                    "*...More recently, Moscow mayor Sergei Sobyanin has introduced comforts ranging from WiFi and USB ports and Apple Pay — while opening new stations at a breakneck pace...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.617733,
+                    55.786478
+                ]
+            },
+            "properties": {
+                "entity": "Line 6",
+                "name_location": "С Line, 6, улица Советской Армии, Meshchansky District, Moscow, Central Federal District, 103030, Russia",
+                "class": "shop",
+                "type": "beauty",
+                "snippet": [
+                    "*...The line connects Timiryazevskaya metro station and Ulitsa Sergeya Eisensteina, passing close to VDNH (and Line 6 Metro station \"V.D.N.Kh.\")...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.716841,
+                    55.724125
+                ]
+            },
+            "properties": {
+                "entity": "Moscow Central Circle",
+                "name_location": "moscow central circle Novokhokhlovskaya, Новохохловская улица, Nizhegorodsky District, Moscow, Central Federal District, 109052, Russia",
+                "class": "railway",
+                "type": "platform",
+                "snippet": [
+                    "...Line 14. Since September 10, 2016, Moscow Central Circle renovated railroad (former Moskovskaya Okruzhnaya Zheleznaya Doroga) was introduced as Line 14 of Moscow Metro. The cone-shaped railroad initially opened in 1908 (freight-only railway from 1934 until the 2016 reopening)....",
+                    "*...The Moscow Central Circle is a 54-kilometre-long (34 mi) urban-metro railway orbital line that encircles historical Moscow....",
+                    "...A central circle with a large fountain is surrounded by birch, maple, and elm tree alleys....",
+                    "*...Line 14. Since September 10, 2016, Moscow Central Circle renovated railroad (former Moskovskaya Okruzhnaya Zheleznaya Doroga) was introduced as Line 14 of Moscow Metro. The cone-shaped railroad initially opened in 1908 (freight-only railway from 1934 until the 2016 reopening)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.423801,
+                    55.976088
+                ]
+            },
+            "properties": {
+                "entity": "Sheremetyevo International Airport",
+                "name_location": "Sheremetyevo International Airport, Старошереметьевское шоссе, Khimki, Khimki Urban Okrug, Moscow Oblast, Central Federal District, 141426, Russia",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "*...Sheremetyevo International Airport is the most globally connected, handling 60% of all international flights....",
+                    "...A rail shuttle service, directly connecting MIBC with the Sheremetyevo International Airport is also planned...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.904166,
+                    55.409121
+                ]
+            },
+            "properties": {
+                "entity": "Domodedovo International Airport",
+                "name_location": "Domodedovo International Airport, 46К-5260, Сельвачёво, Ramensky District, Moscow Oblast, Central Federal District, 142015, Russia",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "*...Domodedovo International Airport is the leading airport in Russia in terms of passenger throughput and is the primary gateway to long-haul domestic and CIS destinations and its international traffic rivals Sheremetyevo...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.273575,
+                    55.599528
+                ]
+            },
+            "properties": {
+                "entity": "Vnukovo International Airport",
+                "name_location": "Vnukovo International Airport, Киевское шоссе, поселение Филимонковское, Moscow, Central Federal District, 119027, Russia",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "*...Vnukovo International Airport handles flights of Turkish Airlines, Wizz Air and others...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.602811,
+                    55.75926
+                ]
+            },
+            "properties": {
+                "entity": "Line 11",
+                "name_location": "Face Line, 11, Leontyevskiy Lane, 48, Presnensky District, Moscow, Central Federal District, 125009, Russia",
+                "class": "amenity",
+                "type": "dentist",
+                "snippet": [
+                    "...Line 11. Another circle metro line - Big Circle Line (Bolshaya Koltsevaya Liniya) is under construction and will be finished in 2023. Kakhovskaya-Savyolovskaya western half of the line was launched in late 2021....",
+                    "*...However, Vystavochnaya has been expanded with Line 8A platforms (segment of future Line 11), and Mezhdunarodnaya has been upgraded with line 14 platform...."
+                ]
+            }
+        }
+    ]
+}

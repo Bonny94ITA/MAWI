@@ -1,0 +1,468 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.990184,
+                    37.383211
+                ]
+            },
+            "properties": {
+                "entity": "Alcázar",
+                "name_location": "Alcázar of Seville, Patio de Banderas, Santa Cruz, Casco Antiguo, Seville, Sevilla, Andalusia, 41004, Spain",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Its old town, with an area of 4 square kilometres (2 sq mi), contains a UNESCO World Heritage Site comprising three buildings: the Alcázar palace complex, the Cathedral and the General Archive of the Indies....",
+                    "*...Legend states that the title was given by King Alfonso X, who was resident in the city's Alcázar and supported by the citizens when his son, later Sancho IV of Castile, tried to usurp the throne from him....",
+                    "...Archaeological excavations in 1999 found anthropic remains under the north wall of the Real Alcázar dating to the 8th–7th century BC....",
+                    "*...The Moors' Palace became the Castilian royal residence, and during Pedro I's rule it was replaced by the Alcázar (the upper levels are still used by the Spanish royal family as the official Seville residence)....",
+                    "*...The Alcázar, the Cathedral, and the Archivo General de Indias (General Archive of the Indies) are UNESCO World Heritage Sites....",
+                    "*...The Alcázar facing the cathedral was developed from a previous Moorish Palace which was developed from a Visigoth establishment which was itself developed from an existing Roman construction....",
+                    "*...Original Moorish buildings are the Patio del Yeso in the Alcázar, the city walls, and the main section of the Giralda, the bell tower of the Seville Cathedral....",
+                    "*...The Alcázar Gardens, within the grounds of the Alcázar palace, consist of several sectors developed in different historical styles....",
+                    "*...The Gardens of Murillo and the Gardens of Catalina de Ribera, both along and outside the South wall of the Alcázar, lie next to the Santa Cruz quarter....",
+                    "...The Alcázar and other sites appear in the television series Game of Thrones, in the cities of Dorne...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.991189,
+                    37.389812
+                ]
+            },
+            "properties": {
+                "entity": "Cuesta del Rosario",
+                "name_location": "Calle Cuesta del Rosario, Alfalfa, Casco Antiguo, Seville, Sevilla, Andalusia, 41004, Spain",
+                "class": "highway",
+                "type": "living_street",
+                "snippet": [
+                    "*...The original core of the city, in the neighbourhood of the present-day street, Cuesta del Rosario, dates to the 8th century BC, when Seville was on an island in the Guadalquivir...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.991853,
+                    37.393119
+                ]
+            },
+            "properties": {
+                "entity": "Metropol Parasol",
+                "name_location": "Setas de Sevilla, Plaza de la Encarnación, Encarnación-Regina, Casco Antiguo, Seville, Sevilla, Andalusia, 41003, Spain",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Existing Roman features in Seville itself include the remains exposed in situ in the underground Antiquarium of the Metropol Parasol building, the remnants of an aqueduct, three pillars of a temple in Mármoles Street, the columns of La Alameda de Hércules and the remains in the Patio de Banderas square near the Seville Cathedral....",
+                    "*...In 2004 the Metropol Parasol project, commonly known as Las Setas (The Mushrooms), due to the appearance of the structure, was launched to revitalise the Plaza de la Encarnación, for years used as a car park and seen as a dead spot between more popular tourist destinations in the city....",
+                    "...The Metropol Parasol was completed in March 2011, costing just over €102 million in total, more than twice as much as originally planned....",
+                    "...The Metropol Parasol, in La Encarnación square, is the world's largest wooden structure....",
+                    "*...The Antiquarium in Metropol Parasol, an underground museum which is composed of the most important archaeological site of the ancient Roman stage of Seville and remains preserved....",
+                    "...The Seville metro (\"Metro de Sevilla\" in Spanish) is a light metro network serving the city of Seville and its metropolitan area....",
+                    "*...It was the sixth Metro system to be built in Spain, after those in Madrid, Barcelona, Valencia, Bilbao and Palma de Mallorca....",
+                    "*...Currently, it is the fifth-biggest Metro company in Spain by the number of passengers carried (more than 12,000,000 in 2009)....",
+                    "...The metro of Sevilla has 1 line with 22 stations and is currently expanding, with 3 more different lines projected.[citation needed]\nMetroCentro is a surface tramway serving the centre of the city....",
+                    "...This extension was postponed although the City Council had made expanding the metro lines a priority.[citation needed]\nThe Seville-Santa Justa railway station is served by the AVE high-speed rail system, operated by the Spanish state-owned rail company Renfe...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.992168,
+                    37.400255
+                ]
+            },
+            "properties": {
+                "entity": "La Alameda de Hércules",
+                "name_location": "Asociación de vecinos en defensa de la Alameda de Hércules, 12, Calle Relator, Feria, Casco Antiguo, Seville, Sevilla, Andalusia, 41002, Spain",
+                "class": "office",
+                "type": "association",
+                "snippet": [
+                    "*...Existing Roman features in Seville itself include the remains exposed in situ in the underground Antiquarium of the Metropol Parasol building, the remnants of an aqueduct, three pillars of a temple in Mármoles Street, the columns of La Alameda de Hércules and the remains in the Patio de Banderas square near the Seville Cathedral...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.991303,
+                    37.384831
+                ]
+            },
+            "properties": {
+                "entity": "Patio de Banderas",
+                "name_location": "Patio de Banderas, Santa Cruz, Casco Antiguo, Seville, Sevilla, Andalusia, Spain",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "...Existing Roman features in Seville itself include the remains exposed in situ in the underground Antiquarium of the Metropol Parasol building, the remnants of an aqueduct, three pillars of a temple in Mármoles Street, the columns of La Alameda de Hércules and the remains in the Patio de Banderas square near the Seville Cathedral...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.993141,
+                    37.385915
+                ]
+            },
+            "properties": {
+                "entity": "Seville Cathedral",
+                "name_location": "Cathedral of Seville, Plaza Virgen de los Reyes, Santa Cruz, Casco Antiguo, Seville, Sevilla, Andalusia, 41004, Spain",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "...Existing Roman features in Seville itself include the remains exposed in situ in the underground Antiquarium of the Metropol Parasol building, the remnants of an aqueduct, three pillars of a temple in Mármoles Street, the columns of La Alameda de Hércules and the remains in the Patio de Banderas square near the Seville Cathedral....",
+                    "...Public buildings were constructed including churches—many of which were built in the Mudéjar and Gothic styles—such as the Seville Cathedral, built during the 15th century with Gothic architecture....",
+                    "...Original Moorish buildings are the Patio del Yeso in the Alcázar, the city walls, and the main section of the Giralda, the bell tower of the Seville Cathedral....",
+                    "*...In the 2016 film Assassin's Creed, Master Assassins Aguilar de Nerha and Maria escape execution and are pursued by Templars through the city, eventually performing Leaps of Faith off of an unfinished Seville Cathedral to escape...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.993981,
+                    37.388734
+                ]
+            },
+            "properties": {
+                "entity": "Plaza de San Francisco",
+                "name_location": "Plaza de San Francisco, Santa Cruz, Casco Antiguo, Seville, Sevilla, Andalusia, 41001, Spain",
+                "class": "highway",
+                "type": "living_street",
+                "snippet": [
+                    "...The Plaza de San Francisco was the site of the 'autos de fé'...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.957502,
+                    37.377779
+                ]
+            },
+            "properties": {
+                "entity": "Medina del Campo",
+                "name_location": "Calle Medina del Campo, Amate, Distrito Cerro-Amate, Seville, Sevilla, Andalusia, 41006, Spain",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...By 1492, tribunals existed in eight Castilian cities: Ávila, Córdoba, Jaén, Medina del Campo, Segovia, Sigüenza, Toledo, and Valladolid; and by the Alhambra Decree all Jews were forced to convert to Catholicism or be exiled (expelled) from Spain...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.049914,
+                    37.349978
+                ]
+            },
+            "properties": {
+                "entity": "Americas",
+                "name_location": "Avenida de las Américas, Mairena del Aljarafe, Sevilla, Andalusia, 41927, Spain",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...A 'golden age of development' commenced in Seville, due to its being the only port awarded the royal monopoly for trade with the growing Spanish colonies in the Americas and the influx of riches from them....",
+                    "*...Since only sailing ships leaving from and returning to the inland port of Seville could engage in trade with the Spanish Americas, merchants from Europe and other trade centres needed to go to Seville to acquire New World trade goods....",
+                    "*...His short story Rinconete y Cortadillo, since the 19th century one of his most-read pieces, includes much description of Sevillian society; it features two young vagabonds who come to Seville, attracted by the riches and disorder that the 16th-century commerce with the Americas had brought to the city....",
+                    "*...In 1992, coinciding with the fifth centenary of the Discovery of the Americas, the Universal Exposition was held for six months in Seville, on the occasion of which the local communications network and urban infrastructure was greatly improved under a 1987 PGOU plan launched by Mayor Manuel del Valle: the SE-30 ring road around the city was completed and new highways were constructed; the new Seville-Santa Justa railway station had opened in 1991, while the Spanish High-Speed Rail system, the Alta Velocidad Española (AVE), began to operate between Madrid-Seville....",
+                    "*...The General Archive of the Indies, is the repository of extremely valuable archival documents illustrating the history of the Spanish Empire in the Americas and the Philippines....",
+                    "*...The Plaza of the Americas also appeared in Lawrence, substituting for Jerusalem, and in Anthony Mann's El Cid. It also appears as the Palace of Vladek Sheybal's Bashaw in The Wind and the Lion (1975)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.007141,
+                    37.397064
+                ]
+            },
+            "properties": {
+                "entity": "La Cartuja",
+                "name_location": "La Cartuja, Camino de los Descubrimientos, Triana, Seville, Sevilla, Andalusia, 41092, Spain",
+                "class": "building",
+                "type": "yes",
+                "snippet": [
+                    "*...Industrial architecture surviving today from the first half of the 19th century includes the ceramics factory installed in the Carthusian monastery at La Cartuja in 1841 by the Pickman family, and now home to the El Centro Andaluz de Arte Contemporáneo (CAAC), which manages the collections of the Museo de Arte Contemporáneo de Sevilla....",
+                    "...Most of the city is on the east side of the river, while Triana, La Cartuja and Los Remedios are on the west side....",
+                    "*...The administrative headquarters are in Torre Triana, in La Cartuja....",
+                    "*...The Andalusian Contemporary Art Centre, situated in the neighbourhood of La Cartuja....",
+                    "*...The American Garden, also completed for Expo '92, is in La Cartuja. It is a public botanical garden, with a representative collection of American plants donated by different countries on the occasion of the world exposition. Despite its extraordinary botanical value, it remains a mostly abandoned place....",
+                    "*...Also Sevilla's stadium hosted the 1986 European Cup Final and the multi-purpose stadium built in 1999 La Cartuja, was the venue for the 2003 UEFA Cup Final....",
+                    "...The city unsuccessfully bid for the 2004 and 2008 Summer Olympics, for which the 60,000-seat Estadio de La Cartuja was designed to stage...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.075491,
+                    37.539954
+                ]
+            },
+            "properties": {
+                "entity": "Plaza de Armas",
+                "name_location": "Plaza de Armas, Calle Altozano, Écija, Sevilla, Andalusia, 41400, Spain",
+                "class": "historic",
+                "type": "archaeological_site",
+                "snippet": [
+                    "...The Sevillana de Electricidad Company was created in 1894 to provide electric power throughout the municipality, and in 1901 the Plaza de Armas railway station was inaugurated....",
+                    "*...Two bus stations serve transportation between surrounding areas and other cities: Plaza de Armas Station, with destinations north and west, and Prado de San Sebastián Station, covering routes to the south and east....",
+                    "*...Plaza de Armas station has direct bus lines to many Spanish cities as well as Lisbon, Portugal...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.986516,
+                    37.377777
+                ]
+            },
+            "properties": {
+                "entity": "Plaza de España",
+                "name_location": "Plaza de España, El Prado-Parque de María Luisa, Distrito Sur, Seville, Sevilla, Andalusia, 41004, Spain",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...In 1929 the city hosted the Ibero-American Exposition, which accelerated the southern expansion of the city and created new public spaces such as the Plaza de España and the Maria Luisa Park....",
+                    "...The Plaza de España in the Parque de María Luisa (María Luisa Park) was built by the architect Aníbal González for the 1929 Exposición Ibero-Americana....",
+                    "...The Plaza de España in the Parque de María Luisa appears in George Lucas' Star Wars: Episode II – Attack of the Clones, in The Dictator, starring Sacha Baron Cohen, as the palace of the dictator Aladeen, and in Lawrence of Arabia as the British Army headquarters in Cairo, while the courtyard was the King Alfonso XIII Hotel...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.991479,
+                    37.392707
+                ]
+            },
+            "properties": {
+                "entity": "Plaza de la Encarnación",
+                "name_location": "Plaza de la Encarnación, Encarnación-Regina, Casco Antiguo, Seville, Sevilla, Andalusia, 41003, Spain",
+                "class": "highway",
+                "type": "living_street",
+                "snippet": [
+                    "...In 2004 the Metropol Parasol project, commonly known as Las Setas (The Mushrooms), due to the appearance of the structure, was launched to revitalise the Plaza de la Encarnación, for years used as a car park and seen as a dead spot between more popular tourist destinations in the city....",
+                    "*...The Metropol Parasol, in La Encarnación square, is the world's largest wooden structure...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.420176,
+                    37.321557
+                ]
+            },
+            "properties": {
+                "entity": "Alcalá de Guadaira",
+                "name_location": "Alcalá de Guadaira, Marchena, Sevilla, Andalusia, 41620, Spain",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...The city has boundaries on the north with La Rinconada, La Algaba and Santiponce; on the east with Alcalá de Guadaira; on the south with Dos Hermanas and Gelves and on the west with San Juan de Aznalfarache, Tomares and Camas...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.995252,
+                    37.388323
+                ]
+            },
+            "properties": {
+                "entity": "Plaza Nueva",
+                "name_location": "Plaza Nueva, Calle Barcelona, El Arenal, Casco Antiguo, Seville, Sevilla, Andalusia, 41001, Spain",
+                "class": "railway",
+                "type": "tram_stop",
+                "snippet": [
+                    "*...The façade to Plaza Nueva was built in the 19th century in Neoclassical style....",
+                    "*...The service has just five stops: Plaza Nueva, Archivo de Indias, Puerta de Jerez, Prado de San Sebastián and San Bernardo, all as part of Phase I of the project...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.991517,
+                    37.38429
+                ]
+            },
+            "properties": {
+                "entity": "Patio del Yeso",
+                "name_location": "Patio del Yeso, Patio de Banderas, Santa Cruz, Casco Antiguo, Seville, Sevilla, Andalusia, 41004, Spain",
+                "class": "leisure",
+                "type": "garden",
+                "snippet": [
+                    "...Original Moorish buildings are the Patio del Yeso in the Alcázar, the city walls, and the main section of the Giralda, the bell tower of the Seville Cathedral...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.989853,
+                    37.370276
+                ]
+            },
+            "properties": {
+                "entity": "Parque de María Luisa",
+                "name_location": "Aves de Parque de Maria Luisa, Glorieta de Haití, El Prado-Parque de María Luisa, Distrito Sur, Seville, Sevilla, Andalusia, 41011, Spain",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "...The Plaza de España in the Parque de María Luisa (María Luisa Park) was built by the architect Aníbal González for the 1929 Exposición Ibero-Americana....",
+                    "...The Archaeological Museum, which contains collections from the Tartessian, Roman and some of Almohad and Christian periods, located in América square at the Parque de María Luisa (María Luisa Park)....",
+                    "...The Parque de María Luisa (María Luisa Park), is a monumental park built for the 1929 World's Fair held in Seville, the Exposición Ibero-Americana. The so-called Jardines de las Delicias (literally, Delighting Gardens), closer to the river, are part of the Parque de María Luisa....",
+                    "*...The Teatro Lope de Vega is located on Avenida de María Luisa avenue (next to Parque de María Luisa)....",
+                    "...The Plaza de España in the Parque de María Luisa appears in George Lucas' Star Wars: Episode II – Attack of the Clones, in The Dictator, starring Sacha Baron Cohen, as the palace of the dictator Aladeen, and in Lawrence of Arabia as the British Army headquarters in Cairo, while the courtyard was the King Alfonso XIII Hotel...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.986686,
+                    37.384511
+                ]
+            },
+            "properties": {
+                "entity": "Avenida Menendez Pelayo",
+                "name_location": "Avenida Menéndez Pelayo, Santa Cruz, Casco Antiguo, Seville, Sevilla, Andalusia, 41004, Spain",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...The Diputación de Sevilla (Deputation of Seville), with provincial headquarters in the Antiguo Cuartel de Caballería (Old Cavalry Barracks) on Avenida Menendez Pelayo, provides public services to distant villages that they can not provide themselves...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.893802,
+                    37.414289
+                ]
+            },
+            "properties": {
+                "entity": "Sevilla Tower",
+                "name_location": "LEZL Airport Tower, Acceso al Aeropuerto de Sevilla, Sevilla Este, Distrito Este-Alcosa-Torreblanca, Seville, Sevilla, Andalusia, 41019, Spain",
+                "class": "aeroway",
+                "type": "tower",
+                "snippet": [
+                    "*...The Sevilla Tower skyscraper was started in March 2008 and was completed in 2015...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.02127,
+                    37.389047
+                ]
+            },
+            "properties": {
+                "entity": "A-49",
+                "name_location": "Carretera Gijón a Puerto de Sevilla, Nucleo Residencial Santa Ana, Triana, Seville, Sevilla, Andalusia, 41900, Spain",
+                "class": "highway",
+                "type": "trunk",
+                "snippet": [
+                    "*...The A-49 links Seville with Huelva and the Algarve in the south of Portugal...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.119469,
+                    37.37566
+                ]
+            },
+            "properties": {
+                "entity": "Algarve",
+                "name_location": "Iberdivers Algarve, Urbanización Villas de Cuba, Urbanización \"Villas de Cuba\", Espartinas, Sevilla, Andalusia, 41807, Spain",
+                "class": "amenity",
+                "type": "dive_centre",
+                "snippet": [
+                    "*...The A-49 links Seville with Huelva and the Algarve in the south of Portugal...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.992556,
+                    37.386207
+                ]
+            },
+            "properties": {
+                "entity": "Giralda",
+                "name_location": "La Giralda, Plaza Virgen de los Reyes, Santa Cruz, Casco Antiguo, Seville, Sevilla, Andalusia, 41004, Spain",
+                "class": "historic",
+                "type": "tower",
+                "snippet": [
+                    "...La Giralda is a tower attached to the Cathedral that dates back to the twelfth century....",
+                    "...La Giralda gets its name from the weathervane attached to the very top of it, as \"gira\" means \"turning one\" in the Spanish language....",
+                    "*...Original Moorish buildings are the Patio del Yeso in the Alcázar, the city walls, and the main section of the Giralda, the bell tower of the Seville Cathedral....",
+                    "*...Kansas City, Missouri (United States), 1969. The relationship between Seville and Kansas City is due to a small replica of the Giralda tower, Sevilla's cathedral belltower, that exists in Kansas City...."
+                ]
+            }
+        }
+    ]
+}

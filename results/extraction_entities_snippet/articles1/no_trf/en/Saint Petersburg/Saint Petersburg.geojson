@@ -1,0 +1,721 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.316449,
+                    59.950054
+                ]
+            },
+            "properties": {
+                "entity": "Peter and Paul Fortress",
+                "name_location": "Peter and Paul Fortress, Кронверкская набережная, Petrograd Side, округ Кронверкское, Saint Petersburg, Northwestern Federal District, 197101, Russia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...The consecration of the small wooden church in their names (its construction began at the same time as the citadel) made them the heavenly patrons of the Peter and Paul Fortress, while Saint Peter at the same time became the eponym of the whole city....",
+                    "...On 27 May [O.S. 16 May] 1703, closer to the estuary (5 km (3 mi) inland from the gulf), on Zayachy (Hare) Island, he laid down the Peter and Paul Fortress, which became the first brick and stone building of the new city....",
+                    "...While the city was being built, Peter lived in a three-room log cabin with his wife Catherine and their children.[citation needed]\nDuring its first few years, the city developed around Trinity Square on the right bank of the Neva, near the Peter and Paul Fortress....",
+                    "...The ensemble of Peter and Paul Fortress with the Peter and Paul Cathedral takes a dominant position on Zayachy Island along the right bank of the Neva River....",
+                    "...Other notable museums include the Central Naval Museum, and Zoological Museum, Central Soil Museum, the Russian Railway Museum, Suvorov Museum, Museum of the Siege of Leningrad, Erarta Museum of Contemporary Art, the largest non-governmental museum of contemporary art in Russia, Saint Petersburg Museum of History in the Peter and Paul Fortress and Artillery Museum, which includes not only artillery items, but also a huge collection of other military equipment, uniforms, and decorations...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.29531,
+                    59.938935
+                ]
+            },
+            "properties": {
+                "entity": "Menshikov Palace",
+                "name_location": "Menshikov Palace, 15, University Embankment, округ № 7, Saint Petersburg, Northwestern Federal District, 199034, Russia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "...The style of Petrine Baroque, developed by Trezzini and other architects and exemplified by such buildings as the Menshikov Palace, Kunstkamera, Peter and Paul Cathedral, Twelve Collegia, became prominent in the city architecture of the early 18th century....",
+                    "*...The southern coast of Vasilyevsky Island along the Bolshaya Neva features some of the city's oldest buildings, dating from the 18th century, including the Kunstkamera, Twelve Collegia, Menshikov Palace and Imperial Academy of Arts...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.315189,
+                    59.940463
+                ]
+            },
+            "properties": {
+                "entity": "Winter Palace",
+                "name_location": "Winter Palace, 38 литА, Palace Embankment, Palace District, Saint Petersburg, Northwestern Federal District, 191186, Russia",
+                "class": "historic",
+                "type": "palace",
+                "snippet": [
+                    "...Baroque architecture became dominant in the city during the first sixty years, culminating in the Elizabethan Baroque, represented most notably by Italian Bartolomeo Rastrelli with such buildings as the Winter Palace....",
+                    "...Established in 1762, the Commission of Stone Buildings of Moscow and Saint Petersburg ruled that no structure in the city could be higher than the Winter Palace and prohibited spacing between buildings....",
+                    "...On 7 November [O.S. 25 October] 1917, the Bolsheviks, led by Vladimir Lenin, stormed the Winter Palace in an event known thereafter as the October Revolution, which led to the end of the post-Tsarist provisional government, the transfer of all political power to the Soviets, and the rise of the Communist Party....",
+                    "...On the southern, left bank of the Neva, connected to the spit of Vasilyevsky Island via the Palace Bridge, lie the Admiralty building, the vast Hermitage Museum complex stretching along the Palace Embankment, which includes the Baroque Winter Palace, former official residence of Russian emperors, as well as the neoclassical Marble Palace....",
+                    "...The Winter Palace faces Palace Square, the city's main square with the Alexander Column...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.319429,
+                    59.891404
+                ]
+            },
+            "properties": {
+                "entity": "Moscow Triumphal Gate",
+                "name_location": "The Moscow triumphal gate, площадь Московские Ворота, Blizhnyaya Rogatka, округ Московская застава, Saint Petersburg, Northwestern Federal District, 196006, Russia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Vasily Stasov (Moscow Triumphal Gate, Trinity Cathedral) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.303246,
+                    59.934919
+                ]
+            },
+            "properties": {
+                "entity": "Senate Square",
+                "name_location": "Senate square, Адмиралтейский округ, Saint Petersburg, Northwestern Federal District, 191011, Russia",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "...In 1825, the suppressed Decembrist revolt against Nicholas I took place on the Senate Square in the city, a day after Nicholas assumed the throne....",
+                    "*...Many notable landmarks are to the west and south of the Admiralty Building, including the Trinity Cathedral, Mariinsky Palace, Hotel Astoria, famous Mariinsky Theatre, New Holland Island, Saint Isaac's Cathedral, the largest in the city, and Senate Square, with the Bronze Horseman, 18th-century equestrian monument to Peter the Great, which is considered among the city's most recognisable symbols...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.315757,
+                    59.939146
+                ]
+            },
+            "properties": {
+                "entity": "Palace Square",
+                "name_location": "Palace Square, Palace District, Saint Petersburg, Northwestern Federal District, 191186, Russia",
+                "class": "highway",
+                "type": "living_street",
+                "snippet": [
+                    "*...Nevsky Prospekt with Palace Square maintained the functions and the role of a city centre....",
+                    "*...The Winter Palace faces Palace Square, the city's main square with the Alexander Column....",
+                    "*...It starts at the Admiralty and runs eastwards next to Palace Square....",
+                    "*...An art symbol of the twinning was unveiled on Palace Square in Saint Petersburg, defaced and removed..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.049234,
+                    60.000763
+                ]
+            },
+            "properties": {
+                "entity": "Neva Bay",
+                "name_location": "North Coast of the Neva Bay, Кольцевая улица, Dubki, Lisy Nos, Saint Petersburg, Northwestern Federal District, 189645, Russia",
+                "class": "leisure",
+                "type": "nature_reserve",
+                "snippet": [
+                    "...Petersburg is on the middle taiga lowlands along the shores of the Neva Bay of the Gulf of Finland, and islands of the river delta....",
+                    "...The largest are Vasilyevsky Island (besides the artificial island between Obvodny canal and Fontanka, and Kotlin in the Neva Bay), Petrogradsky, Dekabristov and Krestovsky....",
+                    "...Floods in Saint Petersburg are triggered by a long wave in the Baltic Sea, caused by meteorological conditions, winds and shallowness of the Neva Bay....",
+                    "...The city is also served by passenger and cargo seaports[clarification needed] in the Neva Bay of the Gulf of Finland, Baltic Sea, the river port higher up the Neva and tens of smaller passenger stations on both banks of the Neva river...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.324639,
+                    59.934464
+                ]
+            },
+            "properties": {
+                "entity": "Kazan Cathedral",
+                "name_location": "Kazansky Cathedral, 2, Казанская улица, Apraksin Dvor, округ № 78, Saint Petersburg, Northwestern Federal District, 191186, Russia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "...Andrey Voronikhin (Mining Institute, Kazan Cathedral) ;...",
+                    "...The oldest cathedral in the city is the Peter and Paul Cathedral, built between 1712–1733, and the largest is the Kazan Cathedral, completed in 1811....",
+                    "...The Passage, Catholic Church of St. Catherine, Book House (former Singer Manufacturing Company Building in the Art Nouveau style), Grand Hotel Europe, Lutheran Church of Saint Peter and Saint Paul, Great Gostiny Dvor, Russian National Library, Alexandrine Theatre behind Mikeshin's statue of Catherine the Great, Kazan Cathedral, Stroganov Palace, Anichkov Palace and Beloselsky-Belozersky Palace are all along that avenue...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.235701,
+                    59.925929
+                ]
+            },
+            "properties": {
+                "entity": "Morskoy Vokzal",
+                "name_location": "Morskoy Vokzal Hotel, 1, площадь Морской Славы, Gavan, округ Гавань, Saint Petersburg, Northwestern Federal District, 199106, Russia",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...The Port of Saint Petersburg has three large cargo terminals, Bolshoi Port Saint Petersburg, Kronstadt, and Lomonosov terminal.[citation needed] International cruise liners have been served at the passenger port at Morskoy Vokzal on the south-west of Vasilyevsky Island...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.304661,
+                    59.850402
+                ]
+            },
+            "properties": {
+                "entity": "Leader Tower",
+                "name_location": "Leader Tower, 3 к2, площадь Конституции, Predportovaya, округ Новоизмайловское, Saint Petersburg, Northwestern Federal District, 196247, Russia",
+                "class": "building",
+                "type": "office",
+                "snippet": [
+                    "*...Saint Petersburg has three skyscrapers: Leader Tower (140 m), Alexander Nevsky (124 m) and Atlantic City (105 m) all far from the historical centre...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.32398,
+                    59.955118
+                ]
+            },
+            "properties": {
+                "entity": "Saint Petersburg Mosque",
+                "name_location": "Saint Petersburg Mosque, 7, Кронверкский проспект, Petrograd Side, Посадский округ, Saint Petersburg, Northwestern Federal District, 197046, Russia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "...The Saint Petersburg Mosque, the largest mosque in Europe when opened in 1913, is on the right bank nearby...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.303347,
+                    59.945214
+                ]
+            },
+            "properties": {
+                "entity": "Exchange Bridge",
+                "name_location": "Exchange Bridge, округ № 7, Saint Petersburg, Northwestern Federal District, 199034, Russia",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "...The Spit of Vasilievsky Island, which splits the river into two largest armlets, the Bolshaya Neva and Malaya Neva, is connected to the northern bank (Petrogradsky Island) via the Exchange Bridge and occupied by the Old Saint Petersburg Stock Exchange and Rostral Columns...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.304595,
+                    59.94349
+                ]
+            },
+            "properties": {
+                "entity": "Old Saint Petersburg Stock Exchange",
+                "name_location": "Old Saint Petersburg Stock Exchange, 4, Exchange Square, округ № 7, Saint Petersburg, Northwestern Federal District, 199034, Russia",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...The Spit of Vasilievsky Island, which splits the river into two largest armlets, the Bolshaya Neva and Malaya Neva, is connected to the northern bank (Petrogradsky Island) via the Exchange Bridge and occupied by the Old Saint Petersburg Stock Exchange and Rostral Columns...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.309802,
+                    59.940127
+                ]
+            },
+            "properties": {
+                "entity": "Palace Bridge",
+                "name_location": "Palace Bridge, Palace District, Saint Petersburg, Northwestern Federal District, 190107, Russia",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "...On the southern, left bank of the Neva, connected to the spit of Vasilyevsky Island via the Palace Bridge, lie the Admiralty building, the vast Hermitage Museum complex stretching along the Palace Embankment, which includes the Baroque Winter Palace, former official residence of Russian emperors, as well as the neoclassical Marble Palace....",
+                    "...The Palace Bridge drawn at night is yet another symbol of the city...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.329879,
+                    59.946406
+                ]
+            },
+            "properties": {
+                "entity": "Palace Embankment",
+                "name_location": "Palace Embankment, Palace District, Saint Petersburg, Northwestern Federal District, 191186, Russia",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "...On the southern, left bank of the Neva, connected to the spit of Vasilyevsky Island via the Palace Bridge, lie the Admiralty building, the vast Hermitage Museum complex stretching along the Palace Embankment, which includes the Baroque Winter Palace, former official residence of Russian emperors, as well as the neoclassical Marble Palace...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.326733,
+                    59.945171
+                ]
+            },
+            "properties": {
+                "entity": "Marble Palace",
+                "name_location": "Marble Palace, 5/1, Миллионная улица, Palace District, Saint Petersburg, Northwestern Federal District, 191186, Russia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "...Antonio Rinaldi (Marble Palace) ;...",
+                    "*...On the southern, left bank of the Neva, connected to the spit of Vasilyevsky Island via the Palace Bridge, lie the Admiralty building, the vast Hermitage Museum complex stretching along the Palace Embankment, which includes the Baroque Winter Palace, former official residence of Russian emperors, as well as the neoclassical Marble Palace...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.462395,
+                    59.685182
+                ]
+            },
+            "properties": {
+                "entity": "Garden Street",
+                "name_location": "Garden street, Зверинец, Pavlovsk, Saint Petersburg, Northwestern Federal District, 196621, Russia",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...Nevsky Prospekt crosses the Moika (Green Bridge), Griboyedov Canal (Kazansky Bridge), Garden Street, the Fontanka (Anichkov Bridge), meets Liteyny Prospekt and proceeds to Uprising Square near the Moskovsky railway station, where it meets Ligovsky Prospekt and turns to the Alexander Nevsky Lavra...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.320029,
+                    59.93561
+                ]
+            },
+            "properties": {
+                "entity": "Stroganov Palace",
+                "name_location": "Stroganov Palace, 17, Невский проспект, Apraksin Dvor, округ № 78, Saint Petersburg, Northwestern Federal District, 191186, Russia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...The Passage, Catholic Church of St. Catherine, Book House (former Singer Manufacturing Company Building in the Art Nouveau style), Grand Hotel Europe, Lutheran Church of Saint Peter and Saint Paul, Great Gostiny Dvor, Russian National Library, Alexandrine Theatre behind Mikeshin's statue of Catherine the Great, Kazan Cathedral, Stroganov Palace, Anichkov Palace and Beloselsky-Belozersky Palace are all along that avenue...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.339849,
+                    59.932985
+                ]
+            },
+            "properties": {
+                "entity": "Anichkov Palace",
+                "name_location": "Anichkov Palace, 39, Невский проспект, Apraksin Dvor, округ № 78, Saint Petersburg, Northwestern Federal District, 191168, Russia",
+                "class": "historic",
+                "type": "palace",
+                "snippet": [
+                    "*...The Passage, Catholic Church of St. Catherine, Book House (former Singer Manufacturing Company Building in the Art Nouveau style), Grand Hotel Europe, Lutheran Church of Saint Peter and Saint Paul, Great Gostiny Dvor, Russian National Library, Alexandrine Theatre behind Mikeshin's statue of Catherine the Great, Kazan Cathedral, Stroganov Palace, Anichkov Palace and Beloselsky-Belozersky Palace are all along that avenue...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.335292,
+                    59.945336
+                ]
+            },
+            "properties": {
+                "entity": "Mars",
+                "name_location": "Mars, God of war, Главная аллея, Palace District, Saint Petersburg, Northwestern Federal District, 191041, Russia",
+                "class": "tourism",
+                "type": "artwork",
+                "snippet": [
+                    "*...On the territory between the Neva and Nevsky Prospekt the Church of the Savior on Blood, Mikhailovsky Palace housing the Russian Museum, Field of Mars, St. Michael's Castle, Summer Garden, Tauride Palace, Smolny Institute and Smolny Convent are located...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.308781,
+                    59.933045
+                ]
+            },
+            "properties": {
+                "entity": "Hotel Astoria",
+                "name_location": "Hotel Astoria, 39, Большая Морская улица, Адмиралтейский округ, Saint Petersburg, Northwestern Federal District, 190107, Russia",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "*...Many notable landmarks are to the west and south of the Admiralty Building, including the Trinity Cathedral, Mariinsky Palace, Hotel Astoria, famous Mariinsky Theatre, New Holland Island, Saint Isaac's Cathedral, the largest in the city, and Senate Square, with the Bronze Horseman, 18th-century equestrian monument to Peter the Great, which is considered among the city's most recognisable symbols...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.39205,
+                    59.721274
+                ]
+            },
+            "properties": {
+                "entity": "Alexander Palace",
+                "name_location": "Alexander Palace, 2, Дворцовая улица, Pushkin, Saint Petersburg, Northwestern Federal District, 196601, Russia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Southern suburbs of the city feature former imperial residences, including Petergof, with majestic fountain cascades and parks, Tsarskoe Selo, with the baroque Catherine Palace and the neoclassical Alexander Palace, and Pavlovsk, which has a domed palace of Emperor Paul and one of Europe's largest English-style parks...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.336954,
+                    59.941953
+                ]
+            },
+            "properties": {
+                "entity": "Summer Garden",
+                "name_location": "Summer Garden, набережная реки Мойки, Palace District, Saint Petersburg, Northwestern Federal District, 191168, Russia",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...On the territory between the Neva and Nevsky Prospekt the Church of the Savior on Blood, Mikhailovsky Palace housing the Russian Museum, Field of Mars, St. Michael's Castle, Summer Garden, Tauride Palace, Smolny Institute and Smolny Convent are located....",
+                    "...The Summer Garden is the oldest, dating back to the early 18th century and designed in the regular style...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.258829,
+                    59.978843
+                ]
+            },
+            "properties": {
+                "entity": "Yelagin Island",
+                "name_location": "Yelagin Island natural monument, набережная Мартынова, Ostrova, округ Чкаловское, Saint Petersburg, Northwestern Federal District, 197042, Russia",
+                "class": "leisure",
+                "type": "nature_reserve",
+                "snippet": [
+                    "*...Among other notable parks are the Maritime Victory Park on Krestovsky Island and the Moscow Victory Park in the south, both commemorating the victory over Nazi Germany in the Second World War, as well as the Central Park of Culture and Leisure occupying Yelagin Island and the Tauride Garden around the Tauride Palace...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.37593,
+                    59.947941
+                ]
+            },
+            "properties": {
+                "entity": "Tauride Palace",
+                "name_location": "Tauride Palace, 47, Шпалерная улица, Peski, округ Смольнинское, Saint Petersburg, Northwestern Federal District, 191015, Russia",
+                "class": "historic",
+                "type": "palace",
+                "snippet": [
+                    "*...On the territory between the Neva and Nevsky Prospekt the Church of the Savior on Blood, Mikhailovsky Palace housing the Russian Museum, Field of Mars, St. Michael's Castle, Summer Garden, Tauride Palace, Smolny Institute and Smolny Convent are located....",
+                    "...Among other notable parks are the Maritime Victory Park on Krestovsky Island and the Moscow Victory Park in the south, both commemorating the victory over Nazi Germany in the Second World War, as well as the Central Park of Culture and Leisure occupying Yelagin Island and the Tauride Garden around the Tauride Palace...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.306142,
+                    59.934078
+                ]
+            },
+            "properties": {
+                "entity": "St. Isaac's Cathedral",
+                "name_location": "St Isaac's Cathedral, 4, Исаакиевская площадь, Адмиралтейский округ, Saint Petersburg, Northwestern Federal District, 190107, Russia",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...The apartments of some famous Petersburgers, including Alexander Pushkin, Fyodor Dostoyevsky, Nikolai Rimsky-Korsakov, Feodor Chaliapin, Alexander Blok, Vladimir Nabokov, Anna Akhmatova, Mikhail Zoshchenko, Joseph Brodsky, as well as some palace and park ensembles of the southern suburbs and notable architectural monuments such as St. Isaac's Cathedral, have also been turned into public museums...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.303677,
+                    59.941528
+                ]
+            },
+            "properties": {
+                "entity": "Ethnography",
+                "name_location": "Peter the Great Museum of Anthropology and Ethnography, 3 литБ, University Embankment, округ № 7, Saint Petersburg, Northwestern Federal District, 199034, Russia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...The Kunstkamera, with its collection established in 1714 by Peter the Great to collect curiosities from all over the world, is sometimes considered the first museum in Russia, which has evolved into the present-day Peter the Great Museum of Anthropology and Ethnography....",
+                    "...The Russian Ethnography Museum, which has been split from the Russian Museum, is devoted to the cultures of the people of Russia, the former Soviet Union and Russian Empire...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.295836,
+                    59.925393
+                ]
+            },
+            "properties": {
+                "entity": "Mariinsky Theatre",
+                "name_location": "Mariinsky Theatre, 1, Театральная площадь, Адмиралтейский округ, Saint Petersburg, Northwestern Federal District, 190999, Russia",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...Many notable landmarks are to the west and south of the Admiralty Building, including the Trinity Cathedral, Mariinsky Palace, Hotel Astoria, famous Mariinsky Theatre, New Holland Island, Saint Isaac's Cathedral, the largest in the city, and Senate Square, with the Bronze Horseman, 18th-century equestrian monument to Peter the Great, which is considered among the city's most recognisable symbols....",
+                    "...Among the city's more than fifty theatres is the Mariinsky Theatre (formerly known as the Kirov Theatre), home to the Mariinsky Ballet company and opera...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.298068,
+                    59.926009
+                ]
+            },
+            "properties": {
+                "entity": "Saint Petersburg Conservatory",
+                "name_location": "N. A. Rimsky-Korsakov Saint Petersburg State Conservatory, Театральная площадь, Адмиралтейский округ, Saint Petersburg, Northwestern Federal District, 190999, Russia",
+                "class": "amenity",
+                "type": "university",
+                "snippet": [
+                    "...The first music school, the Saint Petersburg Conservatory, was founded in 1862 by the Russian pianist and composer Anton Rubinstein...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.245834,
+                    59.933904
+                ]
+            },
+            "properties": {
+                "entity": "Kuryokhin Center",
+                "name_location": "Sergey Kuryokhin Modern Art Center, 93, Средний проспект В.О., Gavan, округ Гавань, Saint Petersburg, Northwestern Federal District, 199106, Russia",
+                "class": "amenity",
+                "type": "community_centre",
+                "snippet": [
+                    "...In 2004 the Kuryokhin Center was founded, where the SKIF and the Electro-Mechanica and Ethnomechanica festivals take place...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.221061,
+                    59.972377
+                ]
+            },
+            "properties": {
+                "entity": "Krestovsky Stadium",
+                "name_location": "Gazprom Arena, 1 с1, Футбольная аллея, округ Чкаловское, Saint Petersburg, Northwestern Federal District, 199397, Russia",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "...The stadium was knocked down in 2006, with Zenit temporarily moving to the Petrovsky Stadium before the Krestovsky Stadium was built on the same site as the Kirov Stadium....",
+                    "...The Krestovsky Stadium opened in 2017, hosting four matches at the 2017 FIFA Confederations Cup, including the final...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.267601,
+                    59.801699
+                ]
+            },
+            "properties": {
+                "entity": "Pulkovo Airport",
+                "name_location": "Pulkovo Airport, Saint Petersburg Ring Road, округ Пулковский меридиан, Saint Petersburg, Northwestern Federal District, 196158, Russia",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "*...Pulkovo Airport serves most of the air passengers departing from or arriving to the city....",
+                    "...Pulkovo airport was opened to passengers as a small aerodrome in 1931....",
+                    "...As of 2013[update], the Pulkovo airport, which handles over 12 million passengers annually, is the 3rd busiest in Russia after Moscow's Sheremetyevo and Domodedovo....",
+                    "...A newly built Terminal 1 of the Pulkovo airport was put into operation on 4 December 2013 and integrated international flights of the former terminal Pulkovo-2....",
+                    "*...One of the oldest air carriers of the Russian Federation Rossiya is registered in Saint Petersburg and is the largest and the base carrier of Pulkovo Airport....",
+                    "...There is a regular rapid-bus connection (buses 39, 39E, K39) between Pulkovo airport and the Moskovskaya metro station as well as 24/7 taxi service...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.481178,
+                    59.991824
+                ]
+            },
+            "properties": {
+                "entity": "Saint Petersburg Ring Road",
+                "name_location": "Saint Petersburg Ring Road, Rybatskoe village, округ Полюстрово, Saint Petersburg, Northwestern Federal District, 195043, Russia",
+                "class": "highway",
+                "type": "motorway",
+                "snippet": [
+                    "...The construction of freeways such as the Saint Petersburg Ring Road, completed in 2011, and the Western High-Speed Diameter, completed in 2017, helped reduce the traffic in the city...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.335796,
+                    59.803892
+                ]
+            },
+            "properties": {
+                "entity": "M11 Neva",
+                "name_location": "«Нева», Shushary, Saint Petersburg, Northwestern Federal District, 196158, Russia",
+                "class": "highway",
+                "type": "motorway",
+                "snippet": [
+                    "...The M11 Neva, also known as the Moscow-Saint Petersburg Motorway, is a federal highway, and connects Saint Petersburg to Moscow by a freeway...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.344624,
+                    59.934142
+                ]
+            },
+            "properties": {
+                "entity": "Scandinavia",
+                "name_location": "Scandinavia, 38, набережная реки Фонтанки, Литейный округ, Saint Petersburg, Northwestern Federal District, 191022, Russia",
+                "class": "office",
+                "type": "construction_company",
+                "snippet": [
+                    "*...Saint Petersburg is an important transport corridor linking Scandinavia to Russia and Eastern Europe...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.315315,
+                    59.929119
+                ]
+            },
+            "properties": {
+                "entity": "Allegro",
+                "name_location": "Аллегро, 14-16, переулок Гривцова, Сенной округ, Saint Petersburg, Northwestern Federal District, 190107, Russia",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...The Helsinki railway, built in 1870 and 443 kilometers (275 mi) long, has trains running five times a day, in a journey lasting about three and a half hours with the Allegro train....",
+                    "*...These services are branded as \"Allegro\" trains....",
+                    "*...\"Allegro\" is known for suffering some big technical problems from time to time, which sometimes result in significant delays and even cancellation of tourists' trips...."
+                ]
+            }
+        }
+    ]
+}

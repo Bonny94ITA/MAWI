@@ -1,0 +1,135 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.580065,
+                    53.921728
+                ]
+            },
+            "properties": {
+                "entity": "Metro",
+                "name_location": "Метро, вуліца Кульман, Kamaroŭka, Savyetski District, Minsk, 220100, Belarus",
+                "class": "craft",
+                "type": "dressmaker",
+                "snippet": [
+                    "...Construction of Minsk Metro began on 16 June 1977, and the system was opened to the public on 30 June 1984, becoming the ninth metro system in the Soviet Union....",
+                    "*...Metro lines have been extended, and the road system (including the Minsk BeltWay) has been improved....",
+                    "...In recent years Minsk has been continuously decentralizing, with a third line of the Minsk Metro opening in 2020....",
+                    "...Single trip ticket for bus, trolleybus or tramway costs 0.75 BYN (≈ USD 0.3), 0.80 BYN for metro and 0.90 BYN for express buses....",
+                    "...Commercial marshrutka's prices varies from 1.5 to 2 BYN.[citation needed]\nMinsk is the only city in Belarus with an underground metro system....",
+                    "...Construction of the metro began in 1977, soon after the city reached over a million people, and the first line with 8 stations was opened in 1984....",
+                    "...Some layout plans speculate on a possible fourth line running from Vyasnyanka to Serabranka micro-rayons.[citation needed]\nTrains use 243 standard Russian metro-cars....",
+                    "...On a typical day Minsk metro is used by 800,000 passengers....",
+                    "...In 2007 ridership of Minsk metro was 262.1 million passengers, in 2017 ridership of Minsk metro was 284,1 million passengers,\nmaking it the 5th busiest metro network in the former USSR (behind Moscow, St. Petersburg, Kyiv and Kharkiv)....",
+                    "...The metro network employs 3,200 staff.[citation needed]\nMost of the urban transport is being renovated to modern standards....",
+                    "...For instance, all metro stations built since 2001 have passenger lifts from platform to street level, thus enabling the use of the newer stations by disabled passengers.[citation needed]\nMinsk is the largest transport hub in Belarus....",
+                    "...The land of the airport is currently being redeveloped for residential and commercial real estate, branded as Minsk-City, as well as the new Zelenaluzhskaya line of the Minsk Metro....",
+                    "...Louis B. Mayer (1884–1957) American film producer, one of the founders of Metro-Goldwyn-Mayer ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.622279,
+                    53.868707
+                ]
+            },
+            "properties": {
+                "entity": "Zavodski District",
+                "name_location": "The factory (and Minsk city) district Department of the Investigative Committee of the Republic of Belarus, вуліца Тухачэўскага, Zavodski District, Minsk, 220026, Belarus",
+                "class": "office",
+                "type": "government",
+                "snippet": [
+                    "*...Sometimes the maximum normative concentration of formaldehyde and ammonia in air is exceeded in Zavodski District....",
+                    "*...Many citizens are concerned for their safety at night and the strongest concern was expressed by residents of Chizhovka and Shabany microdistricts (both in Zavodski District)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.538915,
+                    53.955925
+                ]
+            },
+            "properties": {
+                "entity": "St Elisabeth Convent",
+                "name_location": "Saint Elisabeth Convent, 6, вуліца Выгоцкага, Navinki, Tsentralny District, Minsk, 220053, Belarus",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...The only functioning monastery in the city is St Elisabeth Convent; its large complex of churches is open to visitors...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.54337,
+                    53.907603
+                ]
+            },
+            "properties": {
+                "entity": "Central District",
+                "name_location": "Administration of the Central district of Minsk, 6, вуліца Мельнікайтэ, Татарская Слабада, Tsentralny District, Minsk, 220004, Belarus",
+                "class": "amenity",
+                "type": "townhall",
+                "snippet": [
+                    "*... Tsentralny (Belarusian: Цэнтральны, Russian: Центральный), or \"Central District\" ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.576483,
+                    53.901233
+                ]
+            },
+            "properties": {
+                "entity": "Gorky Park",
+                "name_location": "Gorky Park Apartments, Першамайская вуліца, Archirejskaja Slabodka, Partyzanski District, Minsk, 220088, Belarus",
+                "class": "tourism",
+                "type": "apartment",
+                "snippet": [
+                    "*...Gorky Park (Minsk) ;..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.482675,
+                    53.934997
+                ]
+            },
+            "properties": {
+                "entity": "Minsk Arena",
+                "name_location": "Мінск-Арэна, Узровень 1, Radužny, Tsentralny District, Minsk, 220020, Belarus",
+                "class": "leisure",
+                "type": "sports_centre",
+                "snippet": [
+                    "...Minsk hosted the 2014 IIHF World Championship at the Minsk Arena....",
+                    "...In January 2016, the 2016 European Speed Skating Championships were held in the Minsk Arena....",
+                    "*...Minsk Arena is the only indoor speed skating rink in Belarus....",
+                    "...The 2019 European Figure Skating Championships were held in the Minsk Arena from the 21 to 27 January...."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,483 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.549419,
+                    48.131338
+                ]
+            },
+            "properties": {
+                "entity": "Oktoberfest",
+                "name_location": "Theresienwiese, Schubertstraße, St. Paul, Ludwigsvorstadt-Isarvorstadt, Munich, Bavaria, 80336, Germany",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Munich's numerous architectural and cultural attractions, sports events, exhibitions and its annual Oktoberfest, the world's largest Volksfest, attract considerable tourism....",
+                    "*...The fields are now part of the Theresienwiese and the celebrations developed into Munich's annual Oktoberfest....",
+                    "*...The most deadly militant attack the Federal Republic of Germany has ever witnessed, was the Oktoberfest bombing....",
+                    "*...April and May, Theresienwiese:\nHeld for two weeks from the end of April to the beginning of May, Frühlingsfest celebrates spring and the new local spring beers, and is commonly referred to as the \"little sister of Oktoberfest\"....",
+                    "*...September and October, Theresienwiese: The largest beer festival in the world, Munich's Oktoberfest runs for 16–18 days from the end of September through early October....",
+                    "*...Oktoberfest is a celebration of the wedding of Bavarian Crown Prince Ludwig to Princess Therese of Saxony-Hildburghausen which took place on 12 October 1810....",
+                    "*...Over 7 million liters of beer are consumed at each Oktoberfest....",
+                    "*...Oktoberfest hosts 144 caterers and employees 13,000 people....",
+                    "*...The beer served at Oktoberfest is a special type of Märzen beer with a higher alcohol content than regular Helles....",
+                    "*...Also much consumed, though not from Munich and thus without the right to have a tent at the Oktoberfest, are Tegernseer and Schneider Weisse, the latter of which has a major beer hall in Munich....",
+                    "*...However, these breweries do not have tents at Oktoberfest...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.631357,
+                    48.093418
+                ]
+            },
+            "properties": {
+                "entity": "Perlach",
+                "name_location": "Perlach, Stephensonplatz, Perlach, Altperlach, Ramersdorf-Perlach, Munich, Bavaria, 81737, Germany",
+                "class": "railway",
+                "type": "platform",
+                "snippet": [
+                    "*...Evidence of Celtic settlements from the Iron Age have been discovered in areas around Perlach....",
+                    "...Allach-Untermenzing (23), Altstadt-Lehel (1), Aubing-Lochhausen-Langwied (22), Au-Haidhausen (5), Berg am Laim (14), Bogenhausen (13), Feldmoching-Hasenbergl (24), Hadern (20), Laim (25), Ludwigsvorstadt-Isarvorstadt (2), Maxvorstadt (3), Milbertshofen-Am Hart (11), Moosach (10), Neuhausen-Nymphenburg (9), Obergiesing (17), Pasing-Obermenzing (21), Ramersdorf-Perlach (16), Schwabing-Freimann (12), Schwabing-West (4), Schwanthalerhöhe (8), Sendling (6), Sendling-Westpark (7), Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln (19), Trudering-Riem (15) and Untergiesing-Harlaching (18)....",
+                    "...Another notable park is Ostpark located in the Ramersdorf-Perlach borough which also houses the Michaelibad, the largest water park in Munich.[citation needed]\nMunich is home to several professional football teams including Bayern Munich, Germany's most successful club and a multiple UEFA Champions League winner...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.510281,
+                    48.043701
+                ]
+            },
+            "properties": {
+                "entity": "S-Bahn",
+                "name_location": "Zugspitzstr. 2, S-Bahn, 890007932824, Zugspitzstraße, Höllriegelskreuth, Pullach im Isartal, Landkreis München, Bavaria, 82049, Germany",
+                "class": "amenity",
+                "type": "telephone",
+                "snippet": [
+                    "...Archaeological excavations at Marienhof Square (near Marienplatz) in advance of the expansion of the S-Bahn (subway) in 2012 discovered shards of vessels from the 11th century, which prove again that the settlement of Munich must be older than the Augsburg Arbitration of 1158....",
+                    "...After winning the bid in 1966 the Mayor of Munich Hans-Jochen Vogel accelerated the construction of the U-Bahn subway and the S-Bahn metropolitan commuter railway....",
+                    "...For its urban population of 2.6 million people, Munich and its closest suburbs have a comprehensive network of public transport incorporating the Munich U-Bahn (underground railway), the Munich S-Bahn (suburban trains), trams and buses....",
+                    "...The subterranean S-Bahn with 2 platforms and U-Bahn stations with 6 platforms are through stations....",
+                    "*...South of Munich, there are numerous nearby freshwater lakes such as Lake Starnberg, Ammersee, Chiemsee, Walchensee, Kochelsee, Tegernsee, Schliersee, Simssee, Staffelsee, Wörthsee, Kirchsee and the Osterseen (Easter Lakes), which are popular among Munich residents for recreation, swimming and watersports and can be quickly reached by car and a few also by Munich's S-Bahn...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.577059,
+                    48.136817
+                ]
+            },
+            "properties": {
+                "entity": "Old Town Hall",
+                "name_location": "Old Town Hall, 15, Marienplatz, Graggenauerviertel, Graggenau, Altstadt-Lehel, Munich, Bavaria, 80331, Germany",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...In the 15th century, Munich underwent a revival of Gothic arts: the Old Town Hall was enlarged, and Munich's largest Gothic church – the Frauenkirche – now a cathedral, was constructed in only 20 years, starting in 1468....",
+                    "...The city was heavily bombed during World War II, but has restored most of its old town....",
+                    "...Henry built a new toll bridge, customs house and a coin market closer to his home somewhat upstream at a settlement around the area of modern old town Munich....",
+                    "*...The large Residenz palace complex (begun in 1385) on the edge of Munich's Old Town, Germany's largest urban palace, ranks among Europe's most significant museums of interior decoration....",
+                    "...Four grand royal avenues of the 19th century with official buildings connect Munich's inner city with its then-suburbs:\nThe neoclassical Brienner Straße, starting at Odeonsplatz on the northern fringe of the Old Town close to the Residenz, runs from east to west and opens into the Königsplatz, designed with the \"Doric\" Propyläen, the \"Ionic\" Glyptothek and the \"Corinthian\" State Museum of Classical Art, behind it St. Boniface's Abbey was erected....",
+                    "...Another area for the arts next to the Kunstareal is the Lehel quarter between the old town and the river Isar: the Museum Five Continents in Maximilianstraße is the second largest collection in Germany of artefacts and objects from outside Europe, while the Bavarian National Museum and the adjoining Bavarian State Archaeological Collection in Prinzregentenstraße rank among Europe's major art and cultural history museums...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.592986,
+                    48.135614
+                ]
+            },
+            "properties": {
+                "entity": "Landtag",
+                "name_location": "Bus, Landtag, Max-Planck-Straße, Maximilianeum, Au-Haidhausen, Munich, Bavaria, 81675, Germany",
+                "class": "amenity",
+                "type": "parking",
+                "snippet": [
+                    "*...The state parliament (the Landtag) and the new archdiocese of Munich and Freising were also located in the city.[citation needed]\nThe establishment of Bavarian state sovereignty profoundly affected Munich....",
+                    "...It is the seat of the Landtag of Bavaria, the State Chancellery, and all state departments....",
+                    "...The most recent city council election was held on 15 March 2020, and the results were as follows:\nIn the Landtag of Bavaria, Munich is divided between nine constituencies...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.546472,
+                    48.116811
+                ]
+            },
+            "properties": {
+                "entity": "Valley",
+                "name_location": "Spiel- und Bildungszentrum Sendling, 34, Danklstraße, Sendlinger Feld, Sendling, Munich, Bavaria, 81371, Germany",
+                "class": "amenity",
+                "type": "community_centre",
+                "snippet": [
+                    "*...After the murder of the first republican premier of Bavaria Kurt Eisner in February 1919 by Anton Graf von Arco auf Valley, the Bavarian Soviet Republic was proclaimed.[citation needed]..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.565813,
+                    48.145718
+                ]
+            },
+            "properties": {
+                "entity": "Königsplatz",
+                "name_location": "Königsplatz, Maxvorstadt, Munich, Bavaria, 80333, Germany",
+                "class": "highway",
+                "type": "path",
+                "snippet": [
+                    "*...Nazi organizations, such as the National Socialist Women's League and the Gestapo, had their offices along Brienner Straße and around the Königsplatz....",
+                    "*...Four grand royal avenues of the 19th century with official buildings connect Munich's inner city with its then-suburbs:\nThe neoclassical Brienner Straße, starting at Odeonsplatz on the northern fringe of the Old Town close to the Residenz, runs from east to west and opens into the Königsplatz, designed with the \"Doric\" Propyläen, the \"Ionic\" Glyptothek and the \"Corinthian\" State Museum of Classical Art, behind it St. Boniface's Abbey was erected....",
+                    "*...The area around Königsplatz is home to the Kunstareal, Munich's gallery and museum quarter (as described below)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.573311,
+                    48.140225
+                ]
+            },
+            "properties": {
+                "entity": "Hotel Bayerischer Hof",
+                "name_location": "Hotel Bayerischer Hof (Promenadeplatz), Promenadeplatz, Kreuzviertel, Altstadt-Lehel, Munich, Bavaria, 80333, Germany",
+                "class": "amenity",
+                "type": "taxi",
+                "snippet": [
+                    "...Since 1963, Munich has been hosting the Munich Security Conference, held annually in the Hotel Bayerischer Hof...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.546288,
+                    48.169158
+                ]
+            },
+            "properties": {
+                "entity": "Olympic Park",
+                "name_location": "Montessori School in the Olympic Park, 32, Willi-Gebhardt-Ufer, Oberwiesenfeld Süd, Oberwiesenfeld, Neuhausen-Nymphenburg, Munich, Bavaria, 80809, Germany",
+                "class": "amenity",
+                "type": "school",
+                "snippet": [
+                    "...In May 1967 the construction work began for a new U-Bahn line connecting the city with the Olympic Park....",
+                    "*...The Olympic Park subway station was built near the BMW Headquarters and the line was completed May 1972, three months before the opening of the 1972 Summer Olympics....",
+                    "...Most high-rise buildings are clustered at the northern edge of Munich in the skyline, like the Hypo-Haus, the Arabella High-Rise Building, the Highlight Towers, Uptown Munich, Münchner Tor and the BMW Headquarters next to the Olympic Park...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.555143,
+                    48.137362
+                ]
+            },
+            "properties": {
+                "entity": "Referat",
+                "name_location": "Referat für Gesundheit und Umwelt, Schwanthalerstraße, St. Paul, Ludwigsvorstadt-Isarvorstadt, Munich, Bavaria, 80336, Germany",
+                "class": "office",
+                "type": "government",
+                "snippet": [
+                    "*...The city administration decided to support a joint study from its own Referat für Gesundheit und Umwelt (department for health and environmental issues) and the German Meteorological Service that will gather data on local weather...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.577012,
+                    48.136421
+                ]
+            },
+            "properties": {
+                "entity": "Viktualienmarkt",
+                "name_location": "Viktualienmarkt, Graggenauerviertel, Graggenau, Altstadt-Lehel, Munich, Bavaria, 80331, Germany",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...Nearby St. Peter the Gothic hall-church Heiliggeistkirche (The Church of the Holy Spirit) was converted to baroque style from 1724 onwards and looks down upon the Viktualienmarkt...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.569266,
+                    48.137353
+                ]
+            },
+            "properties": {
+                "entity": "St. Anna Damenstiftskirche",
+                "name_location": "Damenstiftskirche St. Anna, 1, Damenstiftstraße, Hackenviertel, Altstadt-Lehel, Munich, Bavaria, 80331, Germany",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "...Other baroque churches in the inner city include the Bürgersaalkirche, the Trinity Church and the St. Anna Damenstiftskirche...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.580058,
+                    48.14089
+                ]
+            },
+            "properties": {
+                "entity": "Cuvilliés Theatre",
+                "name_location": "Cuvillies Theatre, Marstallplatz, Graggenauerviertel, Graggenau, Altstadt-Lehel, Munich, Bavaria, 80539, Germany",
+                "class": "amenity",
+                "type": "theatre",
+                "snippet": [
+                    "*...Having undergone several extensions, it contains also the treasury and the splendid rococo Cuvilliés Theatre....",
+                    "...Next door, the modern Residenz Theatre was erected in the building that had housed the Cuvilliés Theatre before World War II...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.503297,
+                    48.158257
+                ]
+            },
+            "properties": {
+                "entity": "Nymphenburg Palace",
+                "name_location": "Nymphenburg Palace, 1, Nördliches Schloßrondell, Nederling, Nymphenburg, Neuhausen-Nymphenburg, Munich, Bavaria, 80638, Germany",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Schloss Nymphenburg (Nymphenburg Palace), some 6 km (4 mi) north west of the city centre, is surrounded by an park and is considered[by whom?] to be one of Europe's most beautiful royal residences....",
+                    "*...2 km (1 mi) northwest of Nymphenburg Palace is Schloss Blutenburg (Blutenburg Castle), an old ducal country seat with a late-Gothic palace church....",
+                    "*...Multiple beer gardens can be found in both parts of the Englischer Garten, the most well-known being located at the Chinese Pagoda.[citation needed]\nOther large green spaces are the modern Olympiapark, the Westpark, and the parks of Nymphenburg Palace (with the Botanischer Garten München-Nymphenburg to the north), and Schleissheim Palace...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.550054,
+                    48.245756
+                ]
+            },
+            "properties": {
+                "entity": "Oberschleissheim",
+                "name_location": "Oberschleißheim, Sonnenstraße, Sonnenstraße, Oberschleißheim, Landkreis München, Bavaria, 85764, Germany",
+                "class": "highway",
+                "type": "platform",
+                "snippet": [
+                    "*...Two large Baroque palaces in Nymphenburg and Oberschleissheim are reminders of Bavaria's royal past....",
+                    "*...The second large Baroque residence is Schloss Schleissheim (Schleissheim Palace), located in the suburb of Oberschleissheim, a palace complex encompassing three separate residences: Altes Schloss Schleissheim (the old palace), Neues Schloss Schleissheim (the new palace) and Schloss Lustheim (Lustheim Palace)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.592732,
+                    48.176596
+                ]
+            },
+            "properties": {
+                "entity": "Highlight Towers",
+                "name_location": "Highlight Towers, 6, Mies-van-der-Rohe-Straße, Parkstadt Schwabing, Alte Heide - Hirschau, Schwabing-Freimann, Munich, Bavaria, 80807, Germany",
+                "class": "building",
+                "type": "office",
+                "snippet": [
+                    "...Most high-rise buildings are clustered at the northern edge of Munich in the skyline, like the Hypo-Haus, the Arabella High-Rise Building, the Highlight Towers, Uptown Munich, Münchner Tor and the BMW Headquarters next to the Olympic Park...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.594186,
+                    48.151273
+                ]
+            },
+            "properties": {
+                "entity": "Englischer Garten",
+                "name_location": "Englischer Garten, Englischer Garten Süd, Altstadt-Lehel, Munich, Bavaria, 80538, Germany",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Rows of elegant town houses and spectacular urban palais in many colours, often elaborately decorated with ornamental details on their façades, make up large parts of the areas west of Leopoldstraße (Schwabing's main shopping street), while in the eastern areas between Leopoldstraße and Englischer Garten similar buildings alternate with almost rural-looking houses and whimsical mini-castles, often decorated with small towers....",
+                    "...In 1789, the Englischer Garten was created just north of Munich's old city center....",
+                    "...It was designed and laid out by Benjamin Thompson, Count Rumford, both for pleasure and as a work area for the city's vagrants and homeless.[citation needed]\nNowadays the Englischer Garten a park, its southern half being dominated by wide-open areas, hills, monuments and beach-like stretches (along the streams Eisbach and Schwabinger Bach)....",
+                    "...Multiple beer gardens can be found in both parts of the Englischer Garten, the most well-known being located at the Chinese Pagoda.[citation needed]\nOther large green spaces are the modern Olympiapark, the Westpark, and the parks of Nymphenburg Palace (with the Botanischer Garten München-Nymphenburg to the north), and Schleissheim Palace....",
+                    "*...Munich has a reputation as a surfing hotspot, offering the world's best known river surfing spot, the Eisbach wave, which is located at the southern edge of the Englischer Garten park and used by surfers day and night and throughout the year....",
+                    "...There are many smaller beer gardens and around twenty major ones, providing at least a thousand seats, with four of the largest in the Englischer Garten: Chinesischer Turm (Munich's second-largest beer garden with 7,000 seats), Seehaus, Hirschau and Aumeister...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.546479,
+                    48.173131
+                ]
+            },
+            "properties": {
+                "entity": "Olympic Stadium",
+                "name_location": "Olympic Stadium Munich, 27, Spiridon-Louis-Ring, Am Riesenfeld, Milbertshofen-Am Hart, Munich, Bavaria, 80809, Germany",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "*...It was one of the host cities for the 2006 Football World Cup, which was not held in Munich's Olympic Stadium, but in a new football specific stadium, the Allianz Arena...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.551418,
+                    48.173572
+                ]
+            },
+            "properties": {
+                "entity": "Olympia Schwimmhalle",
+                "name_location": "Olympic Aquatic Center, 1, Coubertinplatz, Am Riesenfeld, Milbertshofen-Am Hart, Munich, Bavaria, 80809, Germany",
+                "class": "leisure",
+                "type": "sports_centre",
+                "snippet": [
+                    "...Popular indoor swimming pools include the Olympia Schwimmhalle of the 1972 Summer Olympics, the wave pool Cosimawellenbad, as well as the Müllersches Volksbad which was built in 1901...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.590842,
+                    48.131558
+                ]
+            },
+            "properties": {
+                "entity": "Gasteig",
+                "name_location": "Kulturzentrum am Gasteig, 5, Rosenheimer Straße, Haidhausen-Süd, Haidhausen - Süd, Au-Haidhausen, Munich, Bavaria, 81667, Germany",
+                "class": "amenity",
+                "type": "arts_centre",
+                "snippet": [
+                    "*...The modern Gasteig centre houses the Munich Philharmonic Orchestra...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.561082,
+                    48.140031
+                ]
+            },
+            "properties": {
+                "entity": "Main",
+                "name_location": "Main train station, Bahnhofplatz, Klinikviertel, Ludwigsvorstadt-Kliniken, Ludwigsvorstadt-Isarvorstadt, Munich, Bavaria, 80335, Germany",
+                "class": "railway",
+                "type": "tram_stop",
+                "snippet": [
+                    "...Rows of elegant town houses and spectacular urban palais in many colours, often elaborately decorated with ornamental details on their façades, make up large parts of the areas west of Leopoldstraße (Schwabing's main shopping street), while in the eastern areas between Leopoldstraße and Englischer Garten similar buildings alternate with almost rural-looking houses and whimsical mini-castles, often decorated with small towers....",
+                    "...According to the festival's website, Tollwood's goal is to promote culture and the environment, with the main themes of \"tolerance, internationality, and openness\"....",
+                    "...There are six main breweries in Munich: Augustiner-Bräu, Hacker-Pschorr, Hofbräu, Löwenbräu, Paulaner and Spaten-Franziskaner-Bräu (separate brands Spaten and Franziskaner, the latter of which mainly for Weissbier)....",
+                    "*...The 700m-long Kaufinger Straße, which starts near the Main train station, forms a pedestrian east–west spine that traverses almost the entire centre....",
+                    "...München Hauptbahnhof is the main railway station located in the city centre and is one of three long-distance stations in Munich, the others being München Ost (to the east) and München-Pasing (to the west)....",
+                    "...From the main railway station the journey takes 40–45 minutes...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.604242,
+                    48.127673
+                ]
+            },
+            "properties": {
+                "entity": "Munich East",
+                "name_location": "Munich East Station, Orleansstraße, Haidhausen-Süd, Haidhausen - Süd, Au-Haidhausen, Munich, Bavaria, 81667, Germany",
+                "class": "building",
+                "type": "train_station",
+                "snippet": [
+                    "*...InterCity and EuroCity trains to destinations east of Munich also stop at Munich East...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.94184,
+                    48.43998
+                ]
+            },
+            "properties": {
+                "entity": "Terminal 2",
+                "name_location": "Simon-Münich-Straße, Schachtl, Pfarrkirchen, Landkreis Rottal-Inn, Bavaria, 84347, Germany",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Lufthansa opened its second hub at the airport when Terminal 2 was opened in 2003...."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.058361,
+                    38.883811
+                ]
+            },
+            "properties": {
+                "entity": "Washington Boulevard",
+                "name_location": "Washington Boulevard, Washington, District of Columbia, 20566, United States",
+                "class": "highway",
+                "type": "motorway",
+                "snippet": [
+                    "*...Washington Boulevard (disambiguation) ;..."
+                ]
+            }
+        }
+    ]
+}

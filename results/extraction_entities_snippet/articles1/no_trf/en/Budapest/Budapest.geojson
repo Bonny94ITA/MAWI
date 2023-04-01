@@ -1,0 +1,704 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.039801,
+                    47.495991
+                ]
+            },
+            "properties": {
+                "entity": "Buda Castle",
+                "name_location": "Buda Castle, Szent György tér, Castle District, 1st district, Budapest, Central Hungary, 1013, Hungary",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...The central area of Budapest along the Danube River is classified as a UNESCO World Heritage Site and has several notable monuments of classical architecture, including the Hungarian Parliament and the Buda Castle....",
+                    "...And the first king of Scythia was Magog, son of Japhet, and his people were called Magyars [Hungarians] after their King Magog, from whose royal line the most renowned and mighty King Attila descended, who, in the 451st year of Our Lord's birth, coming down from Scythia, entered Pannonia with a mighty force and, putting the Romans to flight, took the realm and made a royal residence for himself beside the Danube above the hot springs, and he ordered all the old buildings that he found there to be restored and he built them in a circular and very strong wall that in the Hungarian language is now called Budavár [Buda Castle] and by the Germans Etzelburg [Attila Castle]— Anonymus:...",
+                    "...The new Communist government considered the buildings like the Buda Castle symbols of the former regime, and during the 1950s the palace was gutted and all the interiors were destroyed (also see Stalin era)....",
+                    "*...In 1987, Buda Castle and the banks of the Danube were included in the UNESCO list of World Heritage Sites....",
+                    "*...District I is a small area in central Buda, including the historic Buda Castle....",
+                    "...The President of Hungary resides at the Sándor Palace in the District I (Buda Castle District), while the office of the Hungarian Prime Minister is in the Carmelite Monastery in the Castle District....",
+                    "*...There are a couple of less common vehicles in Budapest, like the trolleybus on several lines in Pest, the Castle Hill Funicular between the Chain Bridge and Buda Castle, the cyclecar for rent in Margaret Island, the chairlift, the Budapest Cog-wheel Railway and children's railway...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.011945,
+                    47.396083
+                ]
+            },
+            "properties": {
+                "entity": "Pécs",
+                "name_location": "Pécs Budafok, M0, Dunatelep, Nagytétény, Budapest, 22nd district, Central Hungary, 1225, Hungary",
+                "class": "highway",
+                "type": "motorway_junction",
+                "snippet": [
+                    "*...After the foundation of the first Hungarian university in Pécs in 1367 (University of Pécs), the second one was established in Óbuda in 1395 (University of Óbuda)....",
+                    "*...The LOW Festival is a multidisciplinary contemporary cultural festival held in Hungary in the cities Budapest and Pécs from February until March; the name of the festival alludes to the Low Countries, the region encompassing the Netherlands and Flanders...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.048223,
+                    47.498069
+                ]
+            },
+            "properties": {
+                "entity": "Chain Bridge",
+                "name_location": "Sofitel Budapest Chain Bridge, 2, Széchenyi István tér, Lipótváros, 5th district, Budapest, Central Hungary, 1051, Hungary",
+                "class": "building",
+                "type": "construction",
+                "snippet": [
+                    "...In 1849 the Chain Bridge linking Buda with Pest was opened as the first permanent bridge across the Danube and in 1873 Buda and Pest were officially merged with the third part, Óbuda (Old Buda), thus creating the new metropolis of Budapest....",
+                    "...The stone lions that have decorated the Chain Bridge since 1852 survived the devastation of the war....",
+                    "...The most iconic and widely known Classicist-style attraction in Budapest is the Széchenyi Chain Bridge....",
+                    "...Another examples for Art Nouveau in Budapest is the Gresham Palace in front of the Chain Bridge, the Hotel Gellért, the Franz Liszt Academy of Music or Budapest Zoo and Botanical Garden....",
+                    "...Seven bridges provide crossings over the Danube, and from north to south are: the Árpád Bridge (built in 1950 at the north of Margaret Island); the Margaret Bridge (built in 1901, destroyed during the war by an explosion and then rebuilt in 1948); the Chain Bridge (built in 1849, destroyed during World War II and then rebuilt in 1949); the Elisabeth Bridge (completed in 1903 and dedicated to the murdered Queen Elisabeth, it was destroyed by the Germans during the war and replaced with a new bridge in 1964); the Liberty Bridge (opened in 1896 and rebuilt in 1989 in Art Nouveau style); the Petőfi Bridge (completed in 1937, destroyed during the war and rebuilt in 1952); the Rákóczi Bridge (completed in 1995)....",
+                    "...Most remarkable for their beauty are the Margaret Bridge, the Chain Bridge and the Liberty Bridge....",
+                    "...In the St. Stephen's Square is the St. Stephen's Basilica, the square is connected by a walking street, the Zrínyi Street, to the Széchenyi István Square at the foot of The Chain Bridge....",
+                    "...There are a couple of less common vehicles in Budapest, like the trolleybus on several lines in Pest, the Castle Hill Funicular between the Chain Bridge and Buda Castle, the cyclecar for rent in Margaret Island, the chairlift, the Budapest Cog-wheel Railway and children's railway...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.001446,
+                    47.425951
+                ]
+            },
+            "properties": {
+                "entity": "Memento Park",
+                "name_location": "Memento Park, Szabadkai utca, Erdődűlő, Budatétény, Budapest, 22nd district, Central Hungary, 1223, Hungary",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "*...The monuments of the dictatorship were removed from public places, into Memento Park....",
+                    "...Here are the greatest examples among them: the Hungarian National Museum, the Hungarian National Gallery, the Museum of Fine Arts (where can see the pictures of Hungarian painters, like Victor Vasarely, Mihály Munkácsy and a great collection about Italian art, Dutch art, Spanish art and British art from before the 19th century and French art, British art, German art, Austrian art after the 19th century), the House of Terror, the Budapest Historical Museum, the Aquincum Museum, the Semmelweis Museum of Medical History, the Memento Park, Museum of Applied Arts and the contemporary arts exhibition Palace of Arts Budapest...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.050107,
+                    47.530226
+                ]
+            },
+            "properties": {
+                "entity": "Margaret Island",
+                "name_location": "Margaret Island Water Tower, 23800/3, Zielinski Szilárd sétány, Margaret Island, Budapest, Central Hungary, 1007, Hungary",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...The Danube enters the city from the north; later it encircles two islands, Óbuda Island and Margaret Island....",
+                    "*...Seven bridges provide crossings over the Danube, and from north to south are: the Árpád Bridge (built in 1950 at the north of Margaret Island); the Margaret Bridge (built in 1901, destroyed during the war by an explosion and then rebuilt in 1948); the Chain Bridge (built in 1849, destroyed during World War II and then rebuilt in 1949); the Elisabeth Bridge (completed in 1903 and dedicated to the murdered Queen Elisabeth, it was destroyed by the Germans during the war and replaced with a new bridge in 1964); the Liberty Bridge (opened in 1896 and rebuilt in 1989 in Art Nouveau style); the Petőfi Bridge (completed in 1937, destroyed during the war and rebuilt in 1952); the Rákóczi Bridge (completed in 1995)....",
+                    "...The most notable and popular parks in Budapest are the City Park which was established in 1751 (302 acres) along with Andrássy Avenue, the Margaret Island in the Danube (238 acres or 96 hectares), the People's Park, the Római Part, and the Kopaszi Dam....",
+                    "*...Margaret Island (Hungarian: Margit-sziget ) is a 2.5 km (1.6 mi) long island and 0.965 square kilometres (238 acres) in area. The island mostly consists of a park and is a popular recreational area for tourists and locals alike. The island lies between Margaret Bridge (south) and Árpád Bridge (north). Dance clubs, swimming pools, an aqua park, athletic and fitness centres, bicycle and running tracks can be found around the Island. During the day the island is occupied by people doing sports, or just resting. In the summer (generally on the weekends) mostly young people go to the island at night to party on its terraces, or to recreate with a bottle of alcohol on a bench or on the grass (this form of entertainment is sometimes referred to as bench-partying)....",
+                    "*...Two routes, marked D11 and D12, connect the two banks with Margaret Island and Óbuda Island, from Rómaifürdő (Buda side, north to Óbuda Island) or Árpád Bridge (Pest side) to Rákóczi Bridge, with a total of 18 stops, while route D2 circulates in the downtown....",
+                    "*...There are a couple of less common vehicles in Budapest, like the trolleybus on several lines in Pest, the Castle Hill Funicular between the Chain Bridge and Buda Castle, the cyclecar for rent in Margaret Island, the chairlift, the Budapest Cog-wheel Railway and children's railway...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.056574,
+                    47.486755
+                ]
+            },
+            "properties": {
+                "entity": "Budapest Danube",
+                "name_location": "The Budapest bridges on the Danube, Salkaházi Sára rakpart, Belváros, 5th district, Budapest, 9th district, Central Hungary, 1056, Hungary",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...The third island Csepel Island is the largest of the Budapest Danube islands, however only its northernmost tip is within city limits....",
+                    "*...It is the ninth-largest city in the European Union by population within city limits and the second-largest city on the Danube river; the city has an estimated population of 1,752,286 over a land area of about 525 square kilometres (203 square miles)....",
+                    "...The central area of Budapest along the Danube River is classified as a UNESCO World Heritage Site and has several notable monuments of classical architecture, including the Hungarian Parliament and the Buda Castle....",
+                    "*...Attila went in the city of Sicambria in Pannonia, where he killed Buda, his brother, and he threw his corpse into the Danube....",
+                    "...And the first king of Scythia was Magog, son of Japhet, and his people were called Magyars [Hungarians] after their King Magog, from whose royal line the most renowned and mighty King Attila descended, who, in the 451st year of Our Lord's birth, coming down from Scythia, entered Pannonia with a mighty force and, putting the Romans to flight, took the realm and made a royal residence for himself beside the Danube above the hot springs, and he ordered all the old buildings that he found there to be restored and he built them in a circular and very strong wall that in the Hungarian language is now called Budavár [Buda Castle] and by the Germans Etzelburg [Attila Castle]— Anonymus:...",
+                    "*...In 1849 the Chain Bridge linking Buda with Pest was opened as the first permanent bridge across the Danube and in 1873 Buda and Pest were officially merged with the third part, Óbuda (Old Buda), thus creating the new metropolis of Budapest....",
+                    "*...In 1987, Buda Castle and the banks of the Danube were included in the UNESCO list of World Heritage Sites....",
+                    "*...The Danube enters the city from the north; later it encircles two islands, Óbuda Island and Margaret Island....",
+                    "*...The wide Danube was always fordable at this point because of a small number of islands in the middle of the river....",
+                    "...The lowest point is the line of the Danube which is 96 metres (315 feet) above sea level....",
+                    "*...The Danube was and is still an important water-way and this region in the centre of the Carpathian Basin lies at the cross-roads of trade routes....",
+                    "...Budapest's two most beautiful Romantic architecture buildings are the Great Synagogue in Dohány Street and the Vigadó Concert Hall on the Danube Promenade, both designed by architect Frigyes Feszl (1821–1884)....",
+                    "*...To reach District IV, one must cross the Danube to find it in Pest (the eastern side), also at north....",
+                    "*...District XXI is the extension of the above route over a branch of the Danube, the northern tip of a long island south from Budapest....",
+                    "...Budapest hosts the main and regional headquarters of many international organizations as well, including United Nations High Commissioner for Refugees, Food and Agriculture Organization of the United Nations, European Institute of Innovation and Technology, European Police Academy, International Centre for Democratic Transition, Institute of International Education, International Labour Organization, International Organization for Migration, International Red Cross, Regional Environmental Center for Central and Eastern Europe, Danube Commission and even others....",
+                    "...The Castle Hill, the River Danube embankments and the whole of Andrássy út have been officially recognized as UNESCO World Heritage Sites....",
+                    "*...Seven bridges provide crossings over the Danube, and from north to south are: the Árpád Bridge (built in 1950 at the north of Margaret Island); the Margaret Bridge (built in 1901, destroyed during the war by an explosion and then rebuilt in 1948); the Chain Bridge (built in 1849, destroyed during World War II and then rebuilt in 1949); the Elisabeth Bridge (completed in 1903 and dedicated to the murdered Queen Elisabeth, it was destroyed by the Germans during the war and replaced with a new bridge in 1964); the Liberty Bridge (opened in 1896 and rebuilt in 1989 in Art Nouveau style); the Petőfi Bridge (completed in 1937, destroyed during the war and rebuilt in 1952); the Rákóczi Bridge (completed in 1995)....",
+                    "...The most notable and popular parks in Budapest are the City Park which was established in 1751 (302 acres) along with Andrássy Avenue, the Margaret Island in the Danube (238 acres or 96 hectares), the People's Park, the Római Part, and the Kopaszi Dam....",
+                    "*...A number of islands can be found on the Danube in Budapest:...",
+                    "...Csepel Island (Hungarian: Csepel-sziget ) is the largest island of the River Danube in Hungary. It is 48 km (30 mi) long; its width is 6 to 8 km (4 to 5 mi) and its area comprises 257 km2 (99 sq mi). However, only the northern tip of the island is inside the city limits....",
+                    "*...Molnár Island (Hungarian: Molnár-sziget) is an island in the channel of the Danube that separates Csepel Island from the east bank of the river....",
+                    "*...The Ínség Rock (Hungarian: Ínség-szikla) is a reef in the Danube close to the shore under the Gellért Hill....",
+                    "...One of the reasons the Romans first colonised the area immediately to the west of the River Danube and established their regional capital at Aquincum (now part of Óbuda, in northern Budapest) is so that they could use and enjoy the thermal springs....",
+                    "...The Rudas Baths are centrally placed – in the narrow strip of land between Gellért Hill and the River Danube – and also an outstanding example of architecture dating from the Turkish period....",
+                    "*...The Danube was and is still today an important water-way and this region in the centre of the Carpathian Basin lies at the cross-roads of trade routes....",
+                    "...The river Danube flows through Budapest on its way from (Germany) to the Black Sea....",
+                    "*...In the summer months, a scheduled hydrofoil service operates on the Danube connecting the city to Vienna....",
+                    "*...Budapesters regularly kayak, canoe, jet-ski and sail on the Danube, which has continuously become a major recreational site for the city...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.060868,
+                    47.496102
+                ]
+            },
+            "properties": {
+                "entity": "Great Synagogue",
+                "name_location": "Great Synagogue, 2, Dohány utca, Erzsébetváros, 7th district, Budapest, Central Hungary, 1074, Hungary",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "...Budapest's two most beautiful Romantic architecture buildings are the Great Synagogue in Dohány Street and the Vigadó Concert Hall on the Danube Promenade, both designed by architect Frigyes Feszl (1821–1884)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.047942,
+                    47.499733
+                ]
+            },
+            "properties": {
+                "entity": "Gresham Palace",
+                "name_location": "Gresham Palace, 5-6, Széchenyi István tér, Lipótváros, 5th district, Budapest, Central Hungary, 1051, Hungary",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...Another examples for Art Nouveau in Budapest is the Gresham Palace in front of the Chain Bridge, the Hotel Gellért, the Franz Liszt Academy of Music or Budapest Zoo and Botanical Garden....",
+                    "...The Hungarian Academy of Sciences and the Gresham Palace and the Ministry of Interior are also located here...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.076792,
+                    47.518716
+                ]
+            },
+            "properties": {
+                "entity": "Botanical Garden",
+                "name_location": "Budapest Zoo & Botanical Garden, 6-16, Állatkerti körút, City Park, Budapest, 14th district, Central Hungary, 1146, Hungary",
+                "class": "tourism",
+                "type": "zoo",
+                "snippet": [
+                    "*...Another examples for Art Nouveau in Budapest is the Gresham Palace in front of the Chain Bridge, the Hotel Gellért, the Franz Liszt Academy of Music or Budapest Zoo and Botanical Garden....",
+                    "*...Budapest has a complex park system, with various lands operated by the Budapest City Gardening Ltd.\nThe wealth of greenspace afforded by Budapest's parks is further augmented by a network of open spaces containing forest, streams, and lakes that are set aside as natural areas which lie not far from the inner city, including the Budapest Zoo and Botanical Garden (established in 1866) in the City Park...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.052522,
+                    47.503293
+                ]
+            },
+            "properties": {
+                "entity": "Liberty Square",
+                "name_location": "Liberty Square, Lipótváros, 5th district, Budapest, Central Hungary, 1054, Hungary",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Public spaces attract heavy investment by business and government also, so that the city has gained entirely new (or renovated and redesigned) squares, parks and monuments, for example the city central Kossuth Lajos square, Deák Ferenc square and Liberty Square....",
+                    "...Budapest Stock Exchange, key institution of the publicly offered securities in Hungary and Central and Eastern Europe is situated in Budapest's CBD at Liberty Square....",
+                    "*...In Budapest there are many smaller and larger squares, the most significant of which are Heroes' Square, Kossuth Square, Liberty Square, St. Stephen's Square, Ferenc Deák Square, Vörösmarty Square, Erzsébet Square, St. George's Square and Széchenyi István Square....",
+                    "...The Liberty Square is located in the Belváros-Lipótváros District (Inner City District), as one of Budapest's most beautiful squares...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.067365,
+                    47.468826
+                ]
+            },
+            "properties": {
+                "entity": "Rákóczi Bridge",
+                "name_location": "Rákóczi Bridge, Henryk Sławik rakpart, Lágymányos, 11th district, Budapest, Central Hungary, 1117, Hungary",
+                "class": "man_made",
+                "type": "bridge",
+                "snippet": [
+                    "*...Numerous landmarks are created in the last decade in Budapest, like the National Theatre, Palace of Arts, Rákóczi Bridge, Megyeri Bridge, Budapest Airport Sky Court among others, and millions of square meters of new office buildings and apartments....",
+                    "...Seven bridges provide crossings over the Danube, and from north to south are: the Árpád Bridge (built in 1950 at the north of Margaret Island); the Margaret Bridge (built in 1901, destroyed during the war by an explosion and then rebuilt in 1948); the Chain Bridge (built in 1849, destroyed during World War II and then rebuilt in 1949); the Elisabeth Bridge (completed in 1903 and dedicated to the murdered Queen Elisabeth, it was destroyed by the Germans during the war and replaced with a new bridge in 1964); the Liberty Bridge (opened in 1896 and rebuilt in 1989 in Art Nouveau style); the Petőfi Bridge (completed in 1937, destroyed during the war and rebuilt in 1952); the Rákóczi Bridge (completed in 1995)....",
+                    "*...Two routes, marked D11 and D12, connect the two banks with Margaret Island and Óbuda Island, from Rómaifürdő (Buda side, north to Óbuda Island) or Árpád Bridge (Pest side) to Rákóczi Bridge, with a total of 18 stops, while route D2 circulates in the downtown...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.094969,
+                    47.605965
+                ]
+            },
+            "properties": {
+                "entity": "Megyeri Bridge",
+                "name_location": "Megyeri Bridge, Megyeri Hídfő, Káposztásmegyer, 4th district, Budapest, Central Hungary, 1044, Hungary",
+                "class": "highway",
+                "type": "trunk",
+                "snippet": [
+                    "*...Numerous landmarks are created in the last decade in Budapest, like the National Theatre, Palace of Arts, Rákóczi Bridge, Megyeri Bridge, Budapest Airport Sky Court among others, and millions of square meters of new office buildings and apartments...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.06659,
+                    47.481172
+                ]
+            },
+            "properties": {
+                "entity": "IX",
+                "name_location": "Főv. Szabó Ervin IX./2. könyvtár, 2, Boráros tér, Belső-Ferencváros, Budapest, 9th district, Central Hungary, 1093, Hungary",
+                "class": "amenity",
+                "type": "library",
+                "snippet": [
+                    "...The city centre itself in a broader sense comprises the District V, VI, VII, VIII, IX and XIII on the Pest side, and the I, II, XI and XII on the Buda side of the city....",
+                    "*...Districts VI, VII, VIII and IX are the neighbouring areas to the east, going southwards, one after the other...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.159611,
+                    47.48506
+                ]
+            },
+            "properties": {
+                "entity": "Central Europe",
+                "name_location": "Productions Graphics Central Europe Kft, 12/B, Maglódi út, Téglagyárdűlő, 10th district, Budapest, Central Hungary, 1106, Hungary",
+                "class": "shop",
+                "type": "trade",
+                "snippet": [
+                    "*...Budapest is home to one of the most populous Christian communities in Central Europe, numbering 698,521 people (40.4%) in 2011....",
+                    "...A good indicator of the city's potential for innovation and research also, is that the European Institute of Innovation and Technology chose Budapest for its headquarters, along with the UN, which Regional Representation for Central Europe office is in the city, responsible for UN operations in seven countries....",
+                    "*...Budapest also has one of the more active jazz scenes in Central Europe...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.091863,
+                    47.498495
+                ]
+            },
+            "properties": {
+                "entity": "Arena Plaza",
+                "name_location": "Arena Mall üzletközpont, 9, Kerepesi út, Kerepesdűlő, 8th district, Budapest, Central Hungary, 1087, Hungary",
+                "class": "shop",
+                "type": "mall",
+                "snippet": [
+                    "*...The retail market of the city (and the country) is also concentrated in the downtown, among others through the two largest shopping centres in Central and Eastern Europe, the 186,000 sqm WestEnd City Center and the 180,000 sqm Arena Plaza...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05481,
+                    47.490803
+                ]
+            },
+            "properties": {
+                "entity": "Black Hole",
+                "name_location": "Black Hole, 46, Váci utca, Pest, Belváros, 5th district, Budapest, Central Hungary, 1056, Hungary",
+                "class": "amenity",
+                "type": "fast_food",
+                "snippet": [
+                    "*...Game design also highly represented through headquarters of domestic Digital Reality, Black Hole and studio of Crytek or Gameloft...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0504,
+                    47.496973
+                ]
+            },
+            "properties": {
+                "entity": "Gerbeaud Café",
+                "name_location": "Gerbeaurd Confectionary, 7-8, Vörösmarty tér, Lipótváros, 5th district, Budapest, Central Hungary, 1051, Hungary",
+                "class": "amenity",
+                "type": "cafe",
+                "snippet": [
+                    "*...The Hungarian cuisine and café culture can be seen and tasted in a lot of places, like Gerbeaud Café, the Százéves, Biarritz, Fortuna, Alabárdos, Arany Szarvas, Kárpátia and the world-famous Mátyás-pince restaurants and beer bars...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.078644,
+                    47.515462
+                ]
+            },
+            "properties": {
+                "entity": "Heroes Square",
+                "name_location": "Heroes' Square, City Park, Budapest, 14th district, Central Hungary, 1146, Hungary",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "...This Avenue is an elegant 2.5 kilometres (2 miles) long tree-lined street that covers the distance from Deák Ferenc tér to the Heroes Square...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.998962,
+                    47.426226
+                ]
+            },
+            "properties": {
+                "entity": "Statue Park",
+                "name_location": "Memento Park, Balatoni út, Baross Gábor-telep, Budapest, 22nd district, Central Hungary, 1223, Hungary",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Statue Park, a theme park with striking statues of the Communist era, is located just outside the main city and is accessible by public transport...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.054798,
+                    47.498513
+                ]
+            },
+            "properties": {
+                "entity": "Bajcsy Zsilinszky",
+                "name_location": "Bajcsy-Zsilinszky út, Lipótváros, 5th district, Budapest, Central Hungary, 1051, Hungary",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "*...The synagogue is located in the Jewish district taking up several blocks in central Budapest bordered by Király utca, Wesselényi utca, Grand Boulevard and Bajcsy Zsilinszky road...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.058949,
+                    47.536101
+                ]
+            },
+            "properties": {
+                "entity": "Árpád Bridge",
+                "name_location": "Árpád Bridge, Vizafogó Lakótelep, Vizafogó, 13th district, Budapest, Central Hungary, 1138, Hungary",
+                "class": "highway",
+                "type": "footway",
+                "snippet": [
+                    "...Seven bridges provide crossings over the Danube, and from north to south are: the Árpád Bridge (built in 1950 at the north of Margaret Island); the Margaret Bridge (built in 1901, destroyed during the war by an explosion and then rebuilt in 1948); the Chain Bridge (built in 1849, destroyed during World War II and then rebuilt in 1949); the Elisabeth Bridge (completed in 1903 and dedicated to the murdered Queen Elisabeth, it was destroyed by the Germans during the war and replaced with a new bridge in 1964); the Liberty Bridge (opened in 1896 and rebuilt in 1989 in Art Nouveau style); the Petőfi Bridge (completed in 1937, destroyed during the war and rebuilt in 1952); the Rákóczi Bridge (completed in 1995)....",
+                    "*...Margaret Island (Hungarian: Margit-sziget ) is a 2.5 km (1.6 mi) long island and 0.965 square kilometres (238 acres) in area. The island mostly consists of a park and is a popular recreational area for tourists and locals alike. The island lies between Margaret Bridge (south) and Árpád Bridge (north). Dance clubs, swimming pools, an aqua park, athletic and fitness centres, bicycle and running tracks can be found around the Island. During the day the island is occupied by people doing sports, or just resting. In the summer (generally on the weekends) mostly young people go to the island at night to party on its terraces, or to recreate with a bottle of alcohol on a bench or on the grass (this form of entertainment is sometimes referred to as bench-partying)....",
+                    "*...Two routes, marked D11 and D12, connect the two banks with Margaret Island and Óbuda Island, from Rómaifürdő (Buda side, north to Óbuda Island) or Árpád Bridge (Pest side) to Rákóczi Bridge, with a total of 18 stops, while route D2 circulates in the downtown...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.047665,
+                    47.513201
+                ]
+            },
+            "properties": {
+                "entity": "Margaret Bridge",
+                "name_location": "Margaret Bridge, Lipótváros, 5th district, Budapest, Central Hungary, 1055, Hungary",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "...Seven bridges provide crossings over the Danube, and from north to south are: the Árpád Bridge (built in 1950 at the north of Margaret Island); the Margaret Bridge (built in 1901, destroyed during the war by an explosion and then rebuilt in 1948); the Chain Bridge (built in 1849, destroyed during World War II and then rebuilt in 1949); the Elisabeth Bridge (completed in 1903 and dedicated to the murdered Queen Elisabeth, it was destroyed by the Germans during the war and replaced with a new bridge in 1964); the Liberty Bridge (opened in 1896 and rebuilt in 1989 in Art Nouveau style); the Petőfi Bridge (completed in 1937, destroyed during the war and rebuilt in 1952); the Rákóczi Bridge (completed in 1995)....",
+                    "...Most remarkable for their beauty are the Margaret Bridge, the Chain Bridge and the Liberty Bridge....",
+                    "*...Margaret Island (Hungarian: Margit-sziget ) is a 2.5 km (1.6 mi) long island and 0.965 square kilometres (238 acres) in area. The island mostly consists of a park and is a popular recreational area for tourists and locals alike. The island lies between Margaret Bridge (south) and Árpád Bridge (north). Dance clubs, swimming pools, an aqua park, athletic and fitness centres, bicycle and running tracks can be found around the Island. During the day the island is occupied by people doing sports, or just resting. In the summer (generally on the weekends) mostly young people go to the island at night to party on its terraces, or to recreate with a bottle of alcohol on a bench or on the grass (this form of entertainment is sometimes referred to as bench-partying)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.049154,
+                    47.490854
+                ]
+            },
+            "properties": {
+                "entity": "Elisabeth Bridge",
+                "name_location": "Elisabeth Bridge, Március 15. tér, Pest, Belváros, 5th district, Budapest, Central Hungary, 1056, Hungary",
+                "class": "man_made",
+                "type": "bridge",
+                "snippet": [
+                    "...Seven bridges provide crossings over the Danube, and from north to south are: the Árpád Bridge (built in 1950 at the north of Margaret Island); the Margaret Bridge (built in 1901, destroyed during the war by an explosion and then rebuilt in 1948); the Chain Bridge (built in 1849, destroyed during World War II and then rebuilt in 1949); the Elisabeth Bridge (completed in 1903 and dedicated to the murdered Queen Elisabeth, it was destroyed by the Germans during the war and replaced with a new bridge in 1964); the Liberty Bridge (opened in 1896 and rebuilt in 1989 in Art Nouveau style); the Petőfi Bridge (completed in 1937, destroyed during the war and rebuilt in 1952); the Rákóczi Bridge (completed in 1995)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.054918,
+                    47.485731
+                ]
+            },
+            "properties": {
+                "entity": "Liberty Bridge",
+                "name_location": "Liberty Bridge, Raoul Wallenberg rakpart, Lágymányos, 11th district, Budapest, Central Hungary, 1111, Hungary",
+                "class": "man_made",
+                "type": "bridge",
+                "snippet": [
+                    "...Seven bridges provide crossings over the Danube, and from north to south are: the Árpád Bridge (built in 1950 at the north of Margaret Island); the Margaret Bridge (built in 1901, destroyed during the war by an explosion and then rebuilt in 1948); the Chain Bridge (built in 1849, destroyed during World War II and then rebuilt in 1949); the Elisabeth Bridge (completed in 1903 and dedicated to the murdered Queen Elisabeth, it was destroyed by the Germans during the war and replaced with a new bridge in 1964); the Liberty Bridge (opened in 1896 and rebuilt in 1989 in Art Nouveau style); the Petőfi Bridge (completed in 1937, destroyed during the war and rebuilt in 1952); the Rákóczi Bridge (completed in 1995)....",
+                    "...Most remarkable for their beauty are the Margaret Bridge, the Chain Bridge and the Liberty Bridge...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0663,
+                    47.480376
+                ]
+            },
+            "properties": {
+                "entity": "Petőfi Bridge",
+                "name_location": "Petőfi Bridge, Belső-Ferencváros, Budapest, 9th district, Central Hungary, 1093, Hungary",
+                "class": "highway",
+                "type": "secondary",
+                "snippet": [
+                    "...Seven bridges provide crossings over the Danube, and from north to south are: the Árpád Bridge (built in 1950 at the north of Margaret Island); the Margaret Bridge (built in 1901, destroyed during the war by an explosion and then rebuilt in 1948); the Chain Bridge (built in 1849, destroyed during World War II and then rebuilt in 1949); the Elisabeth Bridge (completed in 1903 and dedicated to the murdered Queen Elisabeth, it was destroyed by the Germans during the war and replaced with a new bridge in 1964); the Liberty Bridge (opened in 1896 and rebuilt in 1989 in Art Nouveau style); the Petőfi Bridge (completed in 1937, destroyed during the war and rebuilt in 1952); the Rákóczi Bridge (completed in 1995)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.078644,
+                    47.515462
+                ]
+            },
+            "properties": {
+                "entity": "Heroes' Square",
+                "name_location": "Heroes' Square, City Park, Budapest, 14th district, Central Hungary, 1146, Hungary",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "...Between there and Heroes' Square...",
+                    "...Heroes' Square is dominated by the Millenary Monument, with the Tomb of the Unknown Soldier in front....",
+                    "*...In Budapest there are many smaller and larger squares, the most significant of which are Heroes' Square, Kossuth Square, Liberty Square, St. Stephen's Square, Ferenc Deák Square, Vörösmarty Square, Erzsébet Square, St. George's Square and Széchenyi István Square....",
+                    "...The Heroes' Square at the end of Andrássy Avenue is the largest and most influential square in the capital, with the Millennium Monument in the center, and the Museum of Fine Arts and The Hall of Art...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.047907,
+                    47.507343
+                ]
+            },
+            "properties": {
+                "entity": "Kossuth Square",
+                "name_location": "Kossuth Lajos Square, Lipótváros, 5th district, Budapest, Central Hungary, 1055, Hungary",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "*...In Budapest there are many smaller and larger squares, the most significant of which are Heroes' Square, Kossuth Square, Liberty Square, St. Stephen's Square, Ferenc Deák Square, Vörösmarty Square, Erzsébet Square, St. George's Square and Széchenyi István Square....",
+                    "*...Kossuth Square is a symbolic place of the Hungarian statehood, the Hungarian Parliament Building, the Palace of Justice and the Ministry of Agriculture...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.052168,
+                    47.484925
+                ]
+            },
+            "properties": {
+                "entity": "Gellért Hill",
+                "name_location": "Gellért Hill Cave, 1, Szent Gellért rakpart, Gellérthegy, 11th district, Budapest, Central Hungary, 1114, Hungary",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Pest's terrain rises with a slight eastward gradient, so the easternmost parts of the city lie at the same altitude as Buda's smallest hills, notably Gellért Hill and Castle Hill....",
+                    "...The Ínség Rock (Hungarian: Ínség-szikla) is a reef in the Danube close to the shore under the Gellért Hill....",
+                    "*...The Rudas Baths are centrally placed – in the narrow strip of land between Gellért Hill and the River Danube – and also an outstanding example of architecture dating from the Turkish period...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.261393,
+                    47.432844
+                ]
+            },
+            "properties": {
+                "entity": "Liszt International Airport",
+                "name_location": "Budapest Ferenc Liszt International Airport 2 (BUD), T2, LHBP (ICAO), 18th district, Budapest, Central Hungary, 1185, Hungary",
+                "class": "highway",
+                "type": "platform",
+                "snippet": [
+                    "*...Budapest is served by Budapest Ferenc Liszt International Airport (BUD) (named after Franz Liszt, the notable Hungarian composer), one of the busiest airports in Central and Eastern Europe, located 16 kilometres (9.9 mi) east-southeast of the centre of Budapest, in the District XVIII...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.008335,
+                    47.525345
+                ]
+            },
+            "properties": {
+                "entity": "Africa",
+                "name_location": "Embassy of Republic of South Africa, 17, Gárdonyi Géza út, Vérhalom, 2nd district, Budapest, Central Hungary, 1026, Hungary",
+                "class": "office",
+                "type": "diplomatic",
+                "snippet": [
+                    "*...The airport offers international connections among all major European cities, and also to North America, Africa, Asia and the Middle East...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.08418,
+                    47.471323
+                ]
+            },
+            "properties": {
+                "entity": "Asia",
+                "name_location": "Asia, Forinyák Géza utca, Szent László Kórház, Középső-Ferencváros, Budapest, 9th district, Central Hungary, 1097, Hungary",
+                "class": "amenity",
+                "type": "fast_food",
+                "snippet": [
+                    "*...The airport offers international connections among all major European cities, and also to North America, Africa, Asia and the Middle East...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.038559,
+                    47.497667
+                ]
+            },
+            "properties": {
+                "entity": "Castle Hill Funicular",
+                "name_location": "Budapest Castle Hill Funicular, Szent György tér, Castle District, 1st district, Budapest, Central Hungary, 1013, Hungary",
+                "class": "railway",
+                "type": "funicular",
+                "snippet": [
+                    "...There are a couple of less common vehicles in Budapest, like the trolleybus on several lines in Pest, the Castle Hill Funicular between the Chain Bridge and Buda Castle, the cyclecar for rent in Margaret Island, the chairlift, the Budapest Cog-wheel Railway and children's railway....",
+                    "...Probably the name of the first constable of the fortress built on the Castle Hill in the 11th century ;...",
+                    "*...Pest's terrain rises with a slight eastward gradient, so the easternmost parts of the city lie at the same altitude as Buda's smallest hills, notably Gellért Hill and Castle Hill....",
+                    "...The Castle Hill, the River Danube embankments and the whole of Andrássy út have been officially recognized as UNESCO World Heritage Sites....",
+                    "*...Castle Hill and the Castle District; there are three churches here, six museums, and a host of interesting buildings, streets and squares...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.09525,
+                    47.496805
+                ]
+            },
+            "properties": {
+                "entity": "Radnóti Miklós",
+                "name_location": "Radnóti Miklós, Radnóti Miklós út, Kerepesdűlő, 8th district, Budapest, Central Hungary, 1087, Hungary",
+                "class": "historic",
+                "type": "tomb",
+                "snippet": [
+                    "*...The largest theatre facilities are the Budapest Operetta and Musical Theatre, the József Attila Theatre, the Katona József Theatre, the Madách Theatre, the Hungarian State Opera House, the National Theatre, the Vigadó Concert Hall, Radnóti Miklós Theatre, the Comedy Theatre and the Palace of Arts, known as MUPA...."
+                ]
+            }
+        }
+    ]
+}

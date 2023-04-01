@@ -1,0 +1,578 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.250308,
+                    43.765318
+                ]
+            },
+            "properties": {
+                "entity": "Palazzo Pitti",
+                "name_location": "Palazzo Pitti, Via Maggio, Oltrarno, Quartiere 1, Florence, Tuscany, 50125, Italy",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...The city also contains numerous museums and art galleries, such as the Uffizi Gallery and the Palazzo Pitti, and still exerts an influence in the fields of art, culture and politics....",
+                    "*...Several monuments are located in Florence: the Florence Baptistery with its mosaics; the cathedral with its sculptures, the medieval churches with bands of frescoes; public as well as private palaces: Palazzo Vecchio, Palazzo Pitti, Palazzo Medici Riccardi, Palazzo Davanzati; monasteries, cloisters, refectories; the \"Certosa\"....",
+                    "*...The bridge also carries Vasari's elevated corridor linking the Uffizi to the Medici residence (Palazzo Pitti)....",
+                    "...The building acquired its current name when the Medici duke's residence was moved across the Arno to the Palazzo Pitti....",
+                    "...It is linked to the Uffizi and the Palazzo Pitti through the Corridoio Vasariano....",
+                    "*...Other museums and galleries include the Bargello, which concentrates on sculpture works by artists including Donatello, Giambologna and Michelangelo; the Palazzo Pitti, containing part of the Medici family's former private collection...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.222856,
+                    43.719764
+                ]
+            },
+            "properties": {
+                "entity": "Via Cassia",
+                "name_location": "Via Cassia, Le Rose, Tavarnuzze, Impruneta, Florence, Tuscany, 50023, Italy",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "...Situated along the Via Cassia, the main route between Rome and the north, and within the fertile valley of the Arno, the settlement quickly became an important commercial centre and in AD 285 became the capital of the Tuscia region...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2118,
+                    43.693141
+                ]
+            },
+            "properties": {
+                "entity": "1325",
+                "name_location": "Florence American Cemetery and Memorial entrance, Impruneta, Florence, Tuscany, 50023, Italy",
+                "class": "highway",
+                "type": "service",
+                "snippet": [
+                    "*...At the height of demographic expansion around 1325, the urban population may have been as great as 120,000, and the rural population around the city was probably close to 300,000...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.254042,
+                    43.773539
+                ]
+            },
+            "properties": {
+                "entity": "Ciompi",
+                "name_location": "L'Arte de Ciompi, Via dei Cerretani, Quartiere 1, Florence, Tuscany, 50123, Italy",
+                "class": "shop",
+                "type": "gift",
+                "snippet": [
+                    "*...The Black Death of 1348 reduced it by over half, about 25,000 are said to have been supported by the city's wool industry: in 1345 Florence was the scene of an attempted strike by wool combers (ciompi), who in 1378 rose up in a brief revolt against oligarchic rule in the Revolt of the Ciompi...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.25368,
+                    43.775039
+                ]
+            },
+            "properties": {
+                "entity": "Medici Chapel",
+                "name_location": "Medici Chapel, Piazza San Lorenzo, Quartiere 1, Florence, Tuscany, 50123, Italy",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...Both were generous patrons of the arts, commissioning works like Michelangelo's Laurentian Library and Medici Chapel in Florence, to name just two....",
+                    "...The church of San Lorenzo contains the Medici Chapel, the mausoleum of the Medici family—the most powerful family in Florence from the 15th to the 18th century....",
+                    "...Other churches in Florence include the Basilica of Santa Maria Novella, located in Santa Maria Novella square (near the Firenze Santa Maria Novella railway station) which contains works by Masaccio, Paolo Uccello, Filippino Lippi and Domenico Ghirlandaio; the Basilica of Santa Croce, the principal Franciscan church in the city, which is situated on the Piazza di Santa Croce, about 800 metres (2,600 feet) southeast of the Duomo, and is the burial place of some of the most illustrious Italians, such as Michelangelo, Galileo, Machiavelli, Foscolo, Rossini, thus it is known also as the Temple of the Italian Glories (Tempio dell'Itale Glorie); the Basilica of San Lorenzo, which is one of the largest churches in the city, situated at the centre of Florence's main market district, and the burial place of all the principal members of the Medici family from Cosimo il Vecchio to Cosimo III; Santo Spirito, in the Oltrarno quarter, facing the square with the same name; Orsanmichele, whose building was constructed on the site of the kitchen garden of the monastery of San Michele, now demolished; Santissima Annunziata, a Roman Catholic basilica and the mother church of the Servite order; Ognissanti, which was founded by the lay order of the Umiliati, and is among the first examples of Baroque architecture built in the city; the Santa Maria del Carmine, in the Oltrarno district of Florence, which is the location of the Brancacci Chapel, housing outstanding Renaissance frescoes by Masaccio and Masolino da Panicale, later finished by Filippino Lippi; the Medici Chapel with statues by Michelangelo, in the San Lorenzo; as well as several others, including Santa Trinita, San Marco, Santa Felicita, Badia Fiorentina, San Gaetano, San Miniato al Monte, Florence Charterhouse, and Santa Maria del Carmine...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.253903,
+                    43.768268
+                ]
+            },
+            "properties": {
+                "entity": "Corridoio Vasariano",
+                "name_location": "Corridoio Vasariano, Piazza del Pesce, Oltrarno, Quartiere 1, Florence, Tuscany, 50125, Italy",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "...However, at the last moment Charles Steinhauslin, at the time consul of 26 countries in Florence, convinced the German general in Italy that the Ponte Vecchio was not to be destroyed due to its historical value.[citation needed] Instead, an equally historic area of streets directly to the south of the bridge, including part of the Corridoio Vasariano, was destroyed using mines....",
+                    "...It is linked to the Uffizi and the Palazzo Pitti through the Corridoio Vasariano...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.253444,
+                    43.76842
+                ]
+            },
+            "properties": {
+                "entity": "Ponte Vecchio",
+                "name_location": "Ponte Vecchio, Oltrarno, Quartiere 1, Florence, Tuscany, 50125, Italy",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "...However, at the last moment Charles Steinhauslin, at the time consul of 26 countries in Florence, convinced the German general in Italy that the Ponte Vecchio was not to be destroyed due to its historical value.[citation needed] Instead, an equally historic area of streets directly to the south of the bridge, including part of the Corridoio Vasariano, was destroyed using mines....",
+                    "...Since then the bridges have been restored to their original forms using as many of the remaining materials as possible, but the buildings surrounding the Ponte Vecchio have been rebuilt in a style combining the old with modern design....",
+                    "...The Ponte Vecchio, The San Lorenzo Market and Santa Maria Novella are plagued by pickpockets....",
+                    "...One of the bridges in particular stands out – the Ponte Vecchio (Old Bridge), whose most striking feature is the multitude of shops built upon its edges, held up by stilts....",
+                    "...The Vasari Corridor is another gallery, built connecting the Palazzo Vecchio with the Pitti Palace passing by the Uffizi and over the Ponte Vecchio...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.255478,
+                    43.773102
+                ]
+            },
+            "properties": {
+                "entity": "Piazza del Duomo",
+                "name_location": "Piazza del Duomo, Quartiere 1, Florence, Tuscany, Italy",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "...To boost the sale of traditional foods, the mayor had introduced legislation (enacted in 2016) that requires restaurants to use typical Tuscan products and rejected McDonald's application to open a location in the Piazza del Duomo....",
+                    "...During the day of Easter, a cart, which the Florentines call the Brindellone and which is led by four white oxen, is taken to the Piazza del Duomo between the Baptistery of St. John the Baptist (Battistero di San Giovanni) and the Florence Cathedral (Santa Maria del Fiore)....",
+                    "*...Such include the Via Camillo Cavour, one of the main roads of the northern area of the historic centre; the Via Ghibellina, one of central Florence's longest streets; the Via dei Calzaiuoli, one of the most central streets of the historic centre which links Piazza del Duomo to Piazza della Signoria, winding parallel to via Roma and Piazza della Repubblica; the Via de' Tornabuoni, a luxurious street in the city centre that goes from Antinori square to ponte Santa Trinita, across Piazza Santa Trinita, characterised by the presence of fashion boutiques; the Viali di Circonvallazione, 6-lane boulevards surrounding the northern part of the historic centre; as well as others, such as Via Roma, Via degli Speziali, Via de' Cerretani, and the Viale dei Colli....",
+                    "...The central railway station, Santa Maria Novella, is about 500 m (1,600 ft) northwest of the Piazza del Duomo....",
+                    "...Their works, together with those of many other generations of artists, are gathered in the several museums of the town: the Uffizi Gallery, the Palatina gallery with the paintings of the \"Golden Ages\", the Bargello with the sculptures of the Renaissance, the museum of San Marco with Fra Angelico's works, the Academy, the chapels of the Medicis Buonarroti's house with the sculptures of Michelangelo, the following museums: Bardini, Horne, Stibbert, Romano, Corsini, The Gallery of Modern Art, the Museo dell'Opera del Duomo, the museum of Silverware and the museum of Precious Stones....",
+                    "...The originals are now housed in the Museum dell'Opera del Duomo, just to the east of the cathedral....",
+                    "...Two superb collections of sculpture are in the Bargello and the Museum of the Works of the Duomo....",
+                    "*...Near the cart there is a model of a dove, which, according to legend, is a symbol of good luck for the city: at the end of the Easter mass, the dove emerges from the nave of the Duomo and ignites the fireworks on the cart....",
+                    "*...The best-known site of Florence is the domed cathedral of the city, Santa Maria del Fiore, known as The Duomo, whose dome was built by Filippo Brunelleschi....",
+                    "*...The Palazzo Vecchio as well as the Duomo, or the city's Cathedral, are the two buildings which dominate Florence's skyline....",
+                    "*...Other churches in Florence include the Basilica of Santa Maria Novella, located in Santa Maria Novella square (near the Firenze Santa Maria Novella railway station) which contains works by Masaccio, Paolo Uccello, Filippino Lippi and Domenico Ghirlandaio; the Basilica of Santa Croce, the principal Franciscan church in the city, which is situated on the Piazza di Santa Croce, about 800 metres (2,600 feet) southeast of the Duomo, and is the burial place of some of the most illustrious Italians, such as Michelangelo, Galileo, Machiavelli, Foscolo, Rossini, thus it is known also as the Temple of the Italian Glories (Tempio dell'Itale Glorie); the Basilica of San Lorenzo, which is one of the largest churches in the city, situated at the centre of Florence's main market district, and the burial place of all the principal members of the Medici family from Cosimo il Vecchio to Cosimo III; Santo Spirito, in the Oltrarno quarter, facing the square with the same name; Orsanmichele, whose building was constructed on the site of the kitchen garden of the monastery of San Michele, now demolished; Santissima Annunziata, a Roman Catholic basilica and the mother church of the Servite order; Ognissanti, which was founded by the lay order of the Umiliati, and is among the first examples of Baroque architecture built in the city; the Santa Maria del Carmine, in the Oltrarno district of Florence, which is the location of the Brancacci Chapel, housing outstanding Renaissance frescoes by Masaccio and Masolino da Panicale, later finished by Filippino Lippi; the Medici Chapel with statues by Michelangelo, in the San Lorenzo; as well as several others, including Santa Trinita, San Marco, Santa Felicita, Badia Fiorentina, San Gaetano, San Miniato al Monte, Florence Charterhouse, and Santa Maria del Carmine...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.260154,
+                    43.775304
+                ]
+            },
+            "properties": {
+                "entity": "Centro",
+                "name_location": "Centro Linguistico di Ateneo (Rotonda del Brunelleschi), Via degli Alfani, Quartiere 1, Florence, Tuscany, 50112, Italy",
+                "class": "amenity",
+                "type": "university",
+                "snippet": [
+                    "*...Q1 – Centro storico (Historic Centre); population: 67,170;...",
+                    "...In 1982, the historic centre of Florence (Italian: centro storico di Firenze) was declared a World Heritage Site by the UNESCO....",
+                    "...The city is home of the Centro Tecnico Federale di Coverciano, in Coverciano, Florence, the main training ground of the Italian national team, and the technical department of the Italian Football Federation....",
+                    "...The private school, Centro Machiavelli which teaches Italian language and culture to foreigners, is located in Piazza Santo Spirito in Florence...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.257985,
+                    43.770396
+                ]
+            },
+            "properties": {
+                "entity": "Museo",
+                "name_location": "Palazzo del Bargello, 4, Via del Proconsolo, San Niccolò, Quartiere 1, Florence, Tuscany, 50122, Italy",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "*...Their works, together with those of many other generations of artists, are gathered in the several museums of the town: the Uffizi Gallery, the Palatina gallery with the paintings of the \"Golden Ages\", the Bargello with the sculptures of the Renaissance, the museum of San Marco with Fra Angelico's works, the Academy, the chapels of the Medicis Buonarroti's house with the sculptures of Michelangelo, the following museums: Bardini, Horne, Stibbert, Romano, Corsini, The Gallery of Modern Art, the Museo dell'Opera del Duomo, the museum of Silverware and the museum of Precious Stones....",
+                    "...Other sights include the medieval city hall, the Palazzo della Signoria (also known as the Palazzo Vecchio), the Archeological Museum, the Museum of the History of Science, the Palazzo Davanzatti, the Stibbert Museum, St. Marks, the Medici Chapels, the Museum of the Works of Santa Croce, the Museum of the Cloister of Santa Maria Novella, the Zoological Museum (\"La Specola\"), the Bardini, and the Museo Horne...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.256122,
+                    43.769164
+                ]
+            },
+            "properties": {
+                "entity": "Palazzo Vecchio",
+                "name_location": "Palazzo Vecchio, Piazza della Signoria, Oltrarno, Quartiere 1, Florence, Tuscany, 50122, Italy",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "*...Several monuments are located in Florence: the Florence Baptistery with its mosaics; the cathedral with its sculptures, the medieval churches with bands of frescoes; public as well as private palaces: Palazzo Vecchio, Palazzo Pitti, Palazzo Medici Riccardi, Palazzo Davanzati; monasteries, cloisters, refectories; the \"Certosa\"....",
+                    "...Other sights include the medieval city hall, the Palazzo della Signoria (also known as the Palazzo Vecchio), the Archeological Museum, the Museum of the History of Science, the Palazzo Davanzatti, the Stibbert Museum, St. Marks, the Medici Chapels, the Museum of the Works of Santa Croce, the Museum of the Cloister of Santa Maria Novella, the Zoological Museum (\"La Specola\"), the Bardini, and the Museo Horne....",
+                    "...The Palazzo Vecchio as well as the Duomo, or the city's Cathedral, are the two buildings which dominate Florence's skyline....",
+                    "*...In 1504, Michelangelo's David (now replaced by a replica, since the original was moved in 1873 to the Galleria dell'Accademia) was installed in front of the Palazzo della Signoria (also known as Palazzo Vecchio)....",
+                    "...The Palazzo Vecchio is the town hall of Florence and also an art museum....",
+                    "...The Vasari Corridor is another gallery, built connecting the Palazzo Vecchio with the Pitti Palace passing by the Uffizi and over the Ponte Vecchio...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.019373,
+                    43.728522
+                ]
+            },
+            "properties": {
+                "entity": "Africa",
+                "name_location": "Via Africa, Erta, Bobolino, Samminiatello, Montelupo Fiorentino, Florence, Tuscany, 50056, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "...The largest immigrant group came from other European countries (mostly Romanians and Albanians): 3.52%, East Asia (mostly Chinese and Filipino): 2.17%, the Americas: 1.41%, and North Africa (mostly Moroccan): 0.9%....",
+                    "*...Florentine bankers financed Henry the Navigator and the Portuguese explorers who pioneered the route around Africa to India and the Far East...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.255451,
+                    43.769882
+                ]
+            },
+            "properties": {
+                "entity": "Piazza della Signoria",
+                "name_location": "Piazza della Signoria, Oltrarno, Quartiere 1, Florence, Tuscany, 50122, Italy",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "...He was convicted as a heretic, hanged  and burned at the stake on the Piazza della Signoria on 23 May 1498....",
+                    "*...At the heart of the city, in Piazza della Signoria, is Bartolomeo Ammannati's Fountain of Neptune (1563–1565), which is a masterpiece of marble sculpture at the terminus of a still functioning Roman aqueduct....",
+                    "*...The Uffizi is located at the corner of Piazza della Signoria, a site important for being the centre of Florence's civil life and government for centuries....",
+                    "...This large Romanesque crenellated fortress-palace overlooks the Piazza della Signoria with its copy of Michelangelo's David statue as well as the gallery of statues in the adjacent Loggia dei Lanzi....",
+                    "*...Such include the Via Camillo Cavour, one of the main roads of the northern area of the historic centre; the Via Ghibellina, one of central Florence's longest streets; the Via dei Calzaiuoli, one of the most central streets of the historic centre which links Piazza del Duomo to Piazza della Signoria, winding parallel to via Roma and Piazza della Repubblica; the Via de' Tornabuoni, a luxurious street in the city centre that goes from Antinori square to ponte Santa Trinita, across Piazza Santa Trinita, characterised by the presence of fashion boutiques; the Viali di Circonvallazione, 6-lane boulevards surrounding the northern part of the historic centre; as well as others, such as Via Roma, Via degli Speziali, Via de' Cerretani, and the Viale dei Colli...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.255555,
+                    43.769193
+                ]
+            },
+            "properties": {
+                "entity": "Loggia dei Lanzi",
+                "name_location": "Loggia dei Lanzi, Piazza della Signoria, Oltrarno, Quartiere 1, Florence, Tuscany, 50122, Italy",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...The Loggia dei Lanzi in Piazza...",
+                    "*...This large Romanesque crenellated fortress-palace overlooks the Piazza della Signoria with its copy of Michelangelo's David statue as well as the gallery of statues in the adjacent Loggia dei Lanzi...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.252588,
+                    43.7674
+                ]
+            },
+            "properties": {
+                "entity": "Pitti Palace",
+                "name_location": "Hotel Pitti Palace, 3, Borgo San Iacopo, Oltrarno, Quartiere 1, Florence, Tuscany, 50125, Italy",
+                "class": "tourism",
+                "type": "hotel",
+                "snippet": [
+                    "...Picture galleries in Florence include the Uffizi and the Pitti Palace....",
+                    "...The Vasari Corridor is another gallery, built connecting the Palazzo Vecchio with the Pitti Palace passing by the Uffizi and over the Ponte Vecchio...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.250163,
+                    43.763295
+                ]
+            },
+            "properties": {
+                "entity": "Boboli Gardens",
+                "name_location": "Boboli Gardens, Via Santa Maria, San Frediano, Quartiere 1, Florence, Tuscany, 50125, Italy",
+                "class": "historic",
+                "type": "garden",
+                "snippet": [
+                    "...Adjoining the palace are the Boboli Gardens, elaborately landscaped and with numerous sculptures....",
+                    "...Such include the Boboli Gardens, the Parco delle Cascine, the Giardino Bardini and the Giardino dei Semplici, amongst others...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.261175,
+                    43.764608
+                ]
+            },
+            "properties": {
+                "entity": "Oltrarno",
+                "name_location": "Chiesa di San Niccolò Oltrarno, Via del Giardino Serristori, San Niccolò, Quartiere 1, Florence, Tuscany, 50122, Italy",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...In early August, the retreating Germans decided to demolish all the bridges along the Arno linking the district of Oltrarno to the rest of the city, making it difficult for troops of the 8th Army to cross....",
+                    "*...Other churches in Florence include the Basilica of Santa Maria Novella, located in Santa Maria Novella square (near the Firenze Santa Maria Novella railway station) which contains works by Masaccio, Paolo Uccello, Filippino Lippi and Domenico Ghirlandaio; the Basilica of Santa Croce, the principal Franciscan church in the city, which is situated on the Piazza di Santa Croce, about 800 metres (2,600 feet) southeast of the Duomo, and is the burial place of some of the most illustrious Italians, such as Michelangelo, Galileo, Machiavelli, Foscolo, Rossini, thus it is known also as the Temple of the Italian Glories (Tempio dell'Itale Glorie); the Basilica of San Lorenzo, which is one of the largest churches in the city, situated at the centre of Florence's main market district, and the burial place of all the principal members of the Medici family from Cosimo il Vecchio to Cosimo III; Santo Spirito, in the Oltrarno quarter, facing the square with the same name; Orsanmichele, whose building was constructed on the site of the kitchen garden of the monastery of San Michele, now demolished; Santissima Annunziata, a Roman Catholic basilica and the mother church of the Servite order; Ognissanti, which was founded by the lay order of the Umiliati, and is among the first examples of Baroque architecture built in the city; the Santa Maria del Carmine, in the Oltrarno district of Florence, which is the location of the Brancacci Chapel, housing outstanding Renaissance frescoes by Masaccio and Masolino da Panicale, later finished by Filippino Lippi; the Medici Chapel with statues by Michelangelo, in the San Lorenzo; as well as several others, including Santa Trinita, San Marco, Santa Felicita, Badia Fiorentina, San Gaetano, San Miniato al Monte, Florence Charterhouse, and Santa Maria del Carmine...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.243658,
+                    43.767752
+                ]
+            },
+            "properties": {
+                "entity": "Brancacci Chapel",
+                "name_location": "Brancacci Chapel, Piazza del Carmine, San Frediano, Quartiere 1, Florence, Tuscany, 50123, Italy",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "...Other churches in Florence include the Basilica of Santa Maria Novella, located in Santa Maria Novella square (near the Firenze Santa Maria Novella railway station) which contains works by Masaccio, Paolo Uccello, Filippino Lippi and Domenico Ghirlandaio; the Basilica of Santa Croce, the principal Franciscan church in the city, which is situated on the Piazza di Santa Croce, about 800 metres (2,600 feet) southeast of the Duomo, and is the burial place of some of the most illustrious Italians, such as Michelangelo, Galileo, Machiavelli, Foscolo, Rossini, thus it is known also as the Temple of the Italian Glories (Tempio dell'Itale Glorie); the Basilica of San Lorenzo, which is one of the largest churches in the city, situated at the centre of Florence's main market district, and the burial place of all the principal members of the Medici family from Cosimo il Vecchio to Cosimo III; Santo Spirito, in the Oltrarno quarter, facing the square with the same name; Orsanmichele, whose building was constructed on the site of the kitchen garden of the monastery of San Michele, now demolished; Santissima Annunziata, a Roman Catholic basilica and the mother church of the Servite order; Ognissanti, which was founded by the lay order of the Umiliati, and is among the first examples of Baroque architecture built in the city; the Santa Maria del Carmine, in the Oltrarno district of Florence, which is the location of the Brancacci Chapel, housing outstanding Renaissance frescoes by Masaccio and Masolino da Panicale, later finished by Filippino Lippi; the Medici Chapel with statues by Michelangelo, in the San Lorenzo; as well as several others, including Santa Trinita, San Marco, Santa Felicita, Badia Fiorentina, San Gaetano, San Miniato al Monte, Florence Charterhouse, and Santa Maria del Carmine...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.258293,
+                    43.777788
+                ]
+            },
+            "properties": {
+                "entity": "Piazza San Marco",
+                "name_location": "Piazza San Marco, Quartiere 1, Florence, Tuscany, 50112, Italy",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "...Other squares include the Piazza San Marco, the Piazza Santa Maria Novella, the Piazza Beccaria and the Piazza della Libertà...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.270349,
+                    43.770543
+                ]
+            },
+            "properties": {
+                "entity": "Piazza Beccaria",
+                "name_location": "Piazza Beccaria, Piazza Cesare Beccaria, Quartiere 1, Florence, Tuscany, 50121, Italy",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "...Other squares include the Piazza San Marco, the Piazza Santa Maria Novella, the Piazza Beccaria and the Piazza della Libertà...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.25866,
+                    43.770587
+                ]
+            },
+            "properties": {
+                "entity": "Via Ghibellina",
+                "name_location": "Via Ghibellina, San Niccolò, Quartiere 1, Florence, Tuscany, 50122, Italy",
+                "class": "highway",
+                "type": "footway",
+                "snippet": [
+                    "...Such include the Via Camillo Cavour, one of the main roads of the northern area of the historic centre; the Via Ghibellina, one of central Florence's longest streets; the Via dei Calzaiuoli, one of the most central streets of the historic centre which links Piazza del Duomo to Piazza della Signoria, winding parallel to via Roma and Piazza della Repubblica; the Via de' Tornabuoni, a luxurious street in the city centre that goes from Antinori square to ponte Santa Trinita, across Piazza Santa Trinita, characterised by the presence of fashion boutiques; the Viali di Circonvallazione, 6-lane boulevards surrounding the northern part of the historic centre; as well as others, such as Via Roma, Via degli Speziali, Via de' Cerretani, and the Viale dei Colli...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.255279,
+                    43.770213
+                ]
+            },
+            "properties": {
+                "entity": "Via dei Calzaiuoli",
+                "name_location": "Via dei Calzaiuoli, Oltrarno, Quartiere 1, Florence, Tuscany, 50122, Italy",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "...Such include the Via Camillo Cavour, one of the main roads of the northern area of the historic centre; the Via Ghibellina, one of central Florence's longest streets; the Via dei Calzaiuoli, one of the most central streets of the historic centre which links Piazza del Duomo to Piazza della Signoria, winding parallel to via Roma and Piazza della Repubblica; the Via de' Tornabuoni, a luxurious street in the city centre that goes from Antinori square to ponte Santa Trinita, across Piazza Santa Trinita, characterised by the presence of fashion boutiques; the Viali di Circonvallazione, 6-lane boulevards surrounding the northern part of the historic centre; as well as others, such as Via Roma, Via degli Speziali, Via de' Cerretani, and the Viale dei Colli...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.218635,
+                    43.783379
+                ]
+            },
+            "properties": {
+                "entity": "Parco delle Cascine",
+                "name_location": "Centro visite del Parco delle Cascine, 6/A, Piazzale delle Cascine, Quartiere 1, Florence, Tuscany, 50127, Italy",
+                "class": "place",
+                "type": "house",
+                "snippet": [
+                    "...Such include the Boboli Gardens, the Parco delle Cascine, the Giardino Bardini and the Giardino dei Semplici, amongst others...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.282819,
+                    43.780884
+                ]
+            },
+            "properties": {
+                "entity": "Stadio Artemio Franchi",
+                "name_location": "Stadio comunale Artemio Franchi, Viale Manfredo Fanti, Campo di Marte, Quartiere 2, Florence, Tuscany, 50137, Italy",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "...They play their games at the Stadio Artemio Franchi, which holds 47,282...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.199121,
+                    43.809287
+                ]
+            },
+            "properties": {
+                "entity": "Amerigo Vespucci Airport",
+                "name_location": "Florence Airport, Via Madonna del Piano, Val di Rose, Sesto Fiorentino, Florence, Tuscany, 50015, Italy",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "...The transit companies also accommodate travellers from the Amerigo Vespucci Airport, which is 5 km (3 mi) west of the city centre, and which has scheduled services run by major European carriers....",
+                    "*...It is planned to be connected to Vespucci airport, Santa Maria Novella railway station, and to the city centre by the second line of Tramvia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.199121,
+                    43.809287
+                ]
+            },
+            "properties": {
+                "entity": "Florence Airport",
+                "name_location": "Florence Airport, Via Madonna del Piano, Val di Rose, Sesto Fiorentino, Florence, Tuscany, 50015, Italy",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "*...The Florence Airport, Peretola, is one of two main airports in the Tuscany region though it is not widely used by popular airlines...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.248853,
+                    43.78163
+                ]
+            },
+            "properties": {
+                "entity": "Fortezza da Basso",
+                "name_location": "Fortezza da Basso, Piazza Bambine e Bambini di Beslan, Quartiere 1, Florence, Tuscany, 50100, Italy",
+                "class": "amenity",
+                "type": "exhibition_centre",
+                "snippet": [
+                    "...It is located in Piazza della Stazione, near the Fortezza da Basso, a masterpiece of the military Renaissance architecture, and the Viali di Circonvallazione, and in front of the Basilica of Santa Maria Novella's apse from which it takes its name...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.263573,
+                    43.786697
+                ]
+            },
+            "properties": {
+                "entity": "Faentina",
+                "name_location": "Via Faentina, Le Cure, Quartiere 2, Florence, Tuscany, 50199, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "*...Other local railways connect Florence with Borgo San Lorenzo in the Mugello area (Faentina railway) and Siena...."
+                ]
+            }
+        }
+    ]
+}

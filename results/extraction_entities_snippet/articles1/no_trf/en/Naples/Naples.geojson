@@ -1,0 +1,267 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.253288,
+                    40.837424
+                ]
+            },
+            "properties": {
+                "entity": "Παρθενόπη",
+                "name_location": "Università degli studi di Napoli \"Parthenope\" - Sede Centrale, Via Ferdinando Acton, San Ferdinando, Municipalità 1, Naples, Napoli, Campania, 80133, Italy",
+                "class": "amenity",
+                "type": "university",
+                "snippet": [
+                    "*...In the eighth century BC, a colony known as Parthenope (Ancient Greek: Παρθενόπη) was established on the Pizzofalcone hill....",
+                    "*...Sailors from the Greek island of Rhodes established probably a small commercial port called Parthenope (Παρθενόπη, meaning \"Pure Eyes\", a Siren in Greek mythology) on the island of Megaride in the ninth century BC...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.253288,
+                    40.837424
+                ]
+            },
+            "properties": {
+                "entity": "Parthenope",
+                "name_location": "Università degli studi di Napoli \"Parthenope\" - Sede Centrale, Via Ferdinando Acton, San Ferdinando, Municipalità 1, Naples, Napoli, Campania, 80133, Italy",
+                "class": "amenity",
+                "type": "university",
+                "snippet": [
+                    "*...In the eighth century BC, a colony known as Parthenope (Ancient Greek: Παρθενόπη) was established on the Pizzofalcone hill....",
+                    "*...In the second millennium BC, a first Mycenaean settlement arose not far from the geographical position of the future city of Parthenope....",
+                    "*...Sailors from the Greek island of Rhodes established probably a small commercial port called Parthenope (Παρθενόπη, meaning \"Pure Eyes\", a Siren in Greek mythology) on the island of Megaride in the ninth century BC....",
+                    "...Other prominent universities in Naples include the Parthenope University of Naples, the private Istituto Universitario Suor Orsola Benincasa, and the Jesuit Theological Seminary of Southern Italy...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.249756,
+                    40.833962
+                ]
+            },
+            "properties": {
+                "entity": "Megaride",
+                "name_location": "Via Megaride, San Ferdinando, Municipalità 1, Naples, Napoli, Campania, 80132, Italy",
+                "class": "highway",
+                "type": "unclassified",
+                "snippet": [
+                    "*...Sailors from the Greek island of Rhodes established probably a small commercial port called Parthenope (Παρθενόπη, meaning \"Pure Eyes\", a Siren in Greek mythology) on the island of Megaride in the ninth century BC...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.253731,
+                    40.838317
+                ]
+            },
+            "properties": {
+                "entity": "Castel Nuovo",
+                "name_location": "Castel Nuovo (Museo Civico), Via Ferdinando Acton, San Ferdinando, Municipalità 1, Naples, Napoli, Campania, 80133, Italy",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "...Conflict between the Hohenstaufens and the Papacy led in 1266 to Pope Innocent IV crowning the Angevin duke Charles I King of Sicily: Charles officially moved the capital from Palermo to Naples, where he resided at the Castel Nuovo....",
+                    "*...Castel Nuovo, also known as Maschio Angioino, is one of the city's top landmarks; it was built during the time of Charles I, the first king of Naples....",
+                    "*...Castel Nuovo has seen many notable historical events: for example, in 1294, Pope Celestine V resigned as pope in a hall of the castle, and following this Pope Boniface VIII was elected pope by the cardinal collegium, before moving to Rome...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.248565,
+                    40.835856
+                ]
+            },
+            "properties": {
+                "entity": "Piazza del Plebiscito",
+                "name_location": "Piazza del Plebiscito, Piazza Trieste e Trento, San Ferdinando, Municipalità 1, Naples, Napoli, Campania, 80132, Italy",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...Special funding from the Italian government's Fund for the South was provided from 1950 to 1984, helping the Neapolitan economy to improve somewhat, with city landmarks such as the Piazza del Plebiscito being renovated....",
+                    "...— UNESCO's Criterion\nThe main city square or piazza of the city is the Piazza del Plebiscito....",
+                    "...Aside from the Piazza del Plebiscito, Naples has two other major public squares: the Piazza Dante and the Piazza dei Martiri...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.249804,
+                    40.837385
+                ]
+            },
+            "properties": {
+                "entity": "San Carlo",
+                "name_location": "Teatro di San Carlo, 98, Via San Carlo, San Ferdinando, Municipalità 1, Naples, Napoli, Campania, 80132, Italy",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...Nearby is the Teatro di San Carlo, which is the oldest opera house in Italy....",
+                    "*...Directly across San Carlo is Galleria Umberto....",
+                    "...Naples is also known for its theatres, which are among the oldest in Europe: the Teatro di San Carlo opera house dates back to the 18th century....",
+                    "...The Teatro di San Carlo, built in 1737, is the oldest working theatre in Europe, and remains the operatic centre of Naples...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.258407,
+                    40.843608
+                ]
+            },
+            "properties": {
+                "entity": "Via Marina",
+                "name_location": "Via Marina - Porta di Massa, Via Nuova Marina, Pendino, Municipalità 2, Naples, Napoli, Campania, 80133, Italy",
+                "class": "railway",
+                "type": "tram_stop",
+                "snippet": [
+                    "...The Carmine Castle, built in 1392 and highly modified in the 16th century by the Spanish, was demolished in 1906 to make room for the Via Marina, although two of the castle's towers remain as a monument...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.249496,
+                    40.838454
+                ]
+            },
+            "properties": {
+                "entity": "Galleria Umberto I",
+                "name_location": "Galleria Umberto I, San Ferdinando, Municipalità 1, Naples, Napoli, Campania, 80132, Italy",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "...The most notable transformations made were the construction of Via Caracciolo in place of the beach along the promenade, the creation of Galleria Umberto I and Galleria Principe and the construction of Corso Umberto....",
+                    "...In front of the Royal Palace of Naples stands the Galleria Umberto I, which contains the Coral Jewellery Museum....",
+                    "*...The most notable transformations made were the construction of Via Caracciolo in place of the beach along the promenade, the creation of Galleria Umberto I and Galleria Principe and the construction of Corso Umberto....",
+                    "*...Directly across San Carlo is Galleria Umberto...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.258422,
+                    40.850635
+                ]
+            },
+            "properties": {
+                "entity": "San Lorenzo Maggiore",
+                "name_location": "Convento di San Lorenzo Maggiore, Vico dei Maiorani, Pendino, Municipalità 2, Naples, Napoli, Campania, 80138, Italy",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "...San Lorenzo Maggiore ;...",
+                    "*...Several archeological excavations are also present; they revealed in San Lorenzo Maggiore the macellum of Naples, and in Santa Chiara, the biggest thermal complex of the city in Roman times...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25177,
+                    40.851151
+                ]
+            },
+            "properties": {
+                "entity": "Via Santa Maria di Costantinopoli",
+                "name_location": "Via Santa Maria di Costantinopoli, San Lorenzo, Municipalità 4, Naples, Napoli, Campania, 80138, Italy",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "...The Academy of Fine Arts located on the Via Santa Maria di Costantinopoli is the city's foremost art school and one of the oldest in Italy...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.233902,
+                    40.837503
+                ]
+            },
+            "properties": {
+                "entity": "Margherita",
+                "name_location": "Via del Parco Margherita, Chiaia, Municipalità 1, Naples, Napoli, Campania, 80121, Italy",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "*...This originated as a meal of the poor, but under Ferdinand IV it became popular among the upper classes: famously, the Margherita pizza was named after Queen Margherita of Savoy after her visit to the city...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.192889,
+                    40.827977
+                ]
+            },
+            "properties": {
+                "entity": "Stadio Maradona",
+                "name_location": "Stadio Diego Armando Maradona, Via Claudio, Fuorigrotta, Municipalità 10, Naples, Napoli, Campania, 80125, Italy",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "...The city's best known football club is SSC Napoli, which plays its home games at the Stadio Maradona in Fuorigrotta...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.22409,
+                    40.846176
+                ]
+            },
+            "properties": {
+                "entity": "Stadio Arturo Collana",
+                "name_location": "Stadio Arturo Collana, Via Vincenzo Gemito, Vomero, Municipalità 5, Naples, Napoli, Campania, 80127, Italy",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "...Some of the city's smaller clubs include Sporting Neapolis and Internapoli, which play at the Stadio Arturo Collana...."
+                ]
+            }
+        }
+    ]
+}

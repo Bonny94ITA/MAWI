@@ -1,0 +1,653 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.685816,
+                    40.194805
+                ]
+            },
+            "properties": {
+                "entity": "River Manzanares",
+                "name_location": "Manzanares river pool, Calle Río Manzanares, Brezo, Valdemoro, Comarca Sur, Community of Madrid, 28343, Spain",
+                "class": "leisure",
+                "type": "swimming_pool",
+                "snippet": [
+                    "...Madrid lies on the River Manzanares in the central part of the Iberian Peninsula....",
+                    "...At the second half of the 9th century, Cordobese Emir Muhammad I built a fortress on a headland near the river Manzanares, as one of the many fortresses he ordered to be built on the border between Al-Andalus and the kingdoms of León and Castile, with the objective of protecting Toledo from the Christian invasions and also as a starting point for Muslim offensives....",
+                    "...Major cultural centres in the city include the Fine Arts Circle (one of Madrid's oldest arts centres and one of the most important private cultural centres in Europe, hosting exhibitions, shows, film screenings, conferences and workshops), the Conde Duque cultural centre or the Matadero Madrid, a cultural complex (formerly an abattoir) located by the river Manzanares...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.693933,
+                    40.413922
+                ]
+            },
+            "properties": {
+                "entity": "Paseo del Prado",
+                "name_location": "Paseo del Prado, Barrio de las Letras, Cortes, Centro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28014, Spain",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "...Its landmarks include the Plaza Mayor, the Royal Palace of Madrid; the Royal Theatre with its restored 1850 Opera House; the Buen Retiro Park, founded in 1631; the 19th-century National Library building (founded in 1712) containing some of Spain's historical archives; many national museums, and the Golden Triangle of Art, located along the Paseo del Prado and comprising three art museums: Prado Museum, the Reina Sofía Museum, a museum of modern art, and the Thyssen-Bornemisza Museum, which complements the holdings of the other two museums....",
+                    "...The Paseo del Prado, surrounded by gardens and decorated with neoclassical statues, is an example of urban planning....",
+                    "...Best known is the Golden Triangle of Art, located along the Paseo del Prado and comprising three major museums: the Prado Museum, the Reina Sofía Museum, and the Thyssen Bornemisza Museum...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.72421,
+                    40.418735
+                ]
+            },
+            "properties": {
+                "entity": "Casa de Campo",
+                "name_location": "Casa de Campo, Madrid Río, Casa de Campo, Moncloa-Aravaca, Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28008, Spain",
+                "class": "tourism",
+                "type": "information",
+                "snippet": [
+                    "*...The site of modern-day Madrid has been occupied since prehistoric times, and there are archaeological remains of the Celtic Carpetani settlement, Roman villas, a Visigoth basilica near the church of Santa María de la Almudena and three Visigoth necropoleis near Casa de Campo, Tetuán and Vicálvaro....",
+                    "*...A great bulk of the most important parks in Madrid are related to areas originally belonging to the royal assets (including El Pardo, Soto de Viñuelas, Casa de Campo, El Buen Retiro, la Florida and the Príncipe Pío hill, and the Queen's Casino)....",
+                    "...Further west, across the Manzanares, lies the Casa de Campo, a large forested area with more than 1700 hectares (6.6 sq mi) where the Madrid Zoo, and the Parque de Atracciones de Madrid amusement park are located...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.715111,
+                    40.417821
+                ]
+            },
+            "properties": {
+                "entity": "Royal Palace",
+                "name_location": "Royal Palace, Plaza de la Armería, Barrio de la Latina, Palacio, Centro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28013, Spain",
+                "class": "historic",
+                "type": "castle",
+                "snippet": [
+                    "...Its landmarks include the Plaza Mayor, the Royal Palace of Madrid; the Royal Theatre with its restored 1850 Opera House; the Buen Retiro Park, founded in 1631; the 19th-century National Library building (founded in 1712) containing some of Spain's historical archives; many national museums, and the Golden Triangle of Art, located along the Paseo del Prado and comprising three art museums: Prado Museum, the Reina Sofía Museum, a museum of modern art, and the Thyssen-Bornemisza Museum, which complements the holdings of the other two museums....",
+                    "...Philip V built the Royal Palace, the Royal Tapestry Factory and the main Royal Academies....",
+                    "...On 2 May, a crowd began to gather near the Royal Palace protesting against the French attempt to evict the remaining members of the Bourbon royal family to Bayonne, prompting up an uprising against the French Imperial troops that lasted hours and spread throughout the city, including a famous last stand at the Monteleón barracks....",
+                    "...Other urban parks are the Parque de El Capricho, the Parque Juan Carlos I (both in northeast Madrid), Madrid Río, the Enrique Tierno Galván Park, the San Isidro Park as well as gardens such as the Campo del Moro (opened to the public in 1978) and the Sabatini Gardens (opened to the public in 1931) near the Royal Palace....",
+                    "...The Royal Palace of Madrid, a massive building characterised by its luxurious rooms, houses rich collections of armours and weapons, as well as the most comprehensive collection of Stradivarius in the world....",
+                    "...Located next to the Royal Palace and the Almudena, Patrimonio Nacional has tentatively scheduled its opening for 2021....",
+                    "...The Teatro Real is the main opera house in Madrid, located just in front of the Royal Palace, and its resident orchestra is the Madrid Symphony Orchestra...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.688716,
+                    40.430264
+                ]
+            },
+            "properties": {
+                "entity": "Paseo de la Castellana",
+                "name_location": "Paseo de la Castellana, Castellana, Salamanca, Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28001, Spain",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "...During this time, major construction projects were undertaken, including the northern extension of the Paseo de la Castellana, one of Madrid's major thoroughfares....",
+                    "...The city grew to the east, reaching the Fuente Castellana Creek (now the Paseo de la Castellana), and further east reaching the Abroñigal Creek (now the M-30)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.707129,
+                    40.369569
+                ]
+            },
+            "properties": {
+                "entity": "Meseta Central",
+                "name_location": "Central Térmica Meseta de Orcasitas, 2, Calle Gran Avenida, Orcasitas, Usera, Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28041, Spain",
+                "class": "building",
+                "type": "industrial",
+                "snippet": [
+                    "*...Madrid lies in the centre of the Iberian peninsula on the southern Meseta Central, 60 km south of the Guadarrama mountain range and straddling the Jarama and Manzanares river sub-drainage basins, in the wider Tagus River catchment area...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.707506,
+                    40.41036
+                ]
+            },
+            "properties": {
+                "entity": "La China",
+                "name_location": "La China Mandarina, 17, Plaza de Cascorro, Lavapiés, Embajadores, Centro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28005, Spain",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...There is a considerable difference in altitude within the city proper ranging from the 700 m (2,297 ft) around Plaza de Castilla in the north of city to the 570 m (1,870 ft) around La China wastewater treatment plant on the Manzanares' riverbanks, near the latter's confluence with the Fuente Castellana thalweg in the south of the city...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.785062,
+                    40.539789
+                ]
+            },
+            "properties": {
+                "entity": "Monte de El Pardo",
+                "name_location": "Monte de El Pardo, Fuencarral-El Pardo, Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28048, Spain",
+                "class": "leisure",
+                "type": "nature_reserve",
+                "snippet": [
+                    "...The Monte de El Pardo (a protected forested area covering over a quarter of the municipality) reaches its top altitude (843 m (2,766 ft)) on its perimeter, in the slopes surrounding El Pardo reservoir located at the north-western end of the municipality, in the Fuencarral-El Pardo district....",
+                    "*...The Monte de El Pardo is the largest forested area in the municipality....",
+                    "...During the reign of Ferdinand VII the regime of hunting prohibition for the Monte de El Pardo became one of full property and the expropriation of all possessions within its bounds was enforced, with dire consequences for the madrilenians at the time....",
+                    "...A NW stretch of the road runs underground, below the southern reaches of the Monte de El Pardo protected area....",
+                    "*...The Monte de El Pardo (a protected forested area covering over a quarter of the municipality) reaches its top altitude (843 m (2,766 ft)) on its perimeter, in the slopes surrounding El Pardo reservoir located at the north-western end of the municipality, in the Fuencarral-El Pardo district....",
+                    "...Madrid is administratively divided into 21 districts, which are further subdivided into 131 neighbourhoods (barrios):\nCentro\nArganzuela\nRetiro\nSalamanca\nChamartín\nTetuán\nChamberí\nFuencarral-El Pardo\nMoncloa-Aravaca\nLatina\nCarabanchel\nUsera\nPuente de Vallecas\nMoratalaz\nCiudad Lineal\nHortaleza\nVillaverde\nVilla de Vallecas\nVicálvaro\nSan Blas-Canillejas\nBarajas\nMadrid is the capital of the Community of Madrid....",
+                    "*...A great bulk of the most important parks in Madrid are related to areas originally belonging to the royal assets (including El Pardo, Soto de Viñuelas, Casa de Campo, El Buen Retiro, la Florida and the Príncipe Pío hill, and the Queen's Casino)....",
+                    "...The television network and media production company, the largest in Spain, Mediaset España Comunicación (Telecinco, Cuatro) maintains its headquarters in Fuencarral-El Pardo district...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.685816,
+                    40.194805
+                ]
+            },
+            "properties": {
+                "entity": "Manzanares River",
+                "name_location": "Manzanares river pool, Calle Río Manzanares, Brezo, Valdemoro, Comarca Sur, Community of Madrid, 28343, Spain",
+                "class": "leisure",
+                "type": "swimming_pool",
+                "snippet": [
+                    "...Madrid lies in the centre of the Iberian peninsula on the southern Meseta Central, 60 km south of the Guadarrama mountain range and straddling the Jarama and Manzanares river sub-drainage basins, in the wider Tagus River catchment area....",
+                    "...The oldest urban core is located on the hills next to the left bank of the Manzanares River...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.846055,
+                    40.473728
+                ]
+            },
+            "properties": {
+                "entity": "Canal de Isabel II",
+                "name_location": "Canal de Isabel II, Camino Finca Monte del Pilar, Majadahonda, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28221, Spain",
+                "class": "building",
+                "type": "industrial",
+                "snippet": [
+                    "...They were the main infrastructure for the supply of water until the arrival of the Canal de Isabel II in the mid-19th century....",
+                    "...This water supply is managed by the Canal de Isabel II, a public entity created in 1851...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.618671,
+                    40.451031
+                ]
+            },
+            "properties": {
+                "entity": "Americas",
+                "name_location": "Parroquia de Nuestra Señora de las Américas, 1, Calle de Espirea, Palomas, Hortaleza, Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28042, Spain",
+                "class": "amenity",
+                "type": "place_of_worship",
+                "snippet": [
+                    "*...In 2020, around 76% of the registered population was Spain-born, while, regarding the foreign-born population (24%), the bulk of it relates to the Americas (around 16% of the total population), and a lesser fraction of the population is born in other European, Asian and African countries....",
+                    "*...During the early 19th century, the Peninsular War, the loss of viceroyalties in the Americas, and continuing coups limited the city's architectural development (Royal Theatre, the National Library of Spain, the Palace of the Senate, and the Congress)....",
+                    "*...The Museum of the Americas (Museo de América) is a national museum that holds artistic, archaeological, and ethnographic collections from the Americas, ranging from the Paleolithic period to the present day....",
+                    "*...Barajas is a major European hub, yet a largely westward facing one, specialized in the Americas, with a comparatively lighter connectivity to Asia...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.703429,
+                    40.417032
+                ]
+            },
+            "properties": {
+                "entity": "Puerta del Sol",
+                "name_location": "Puerta del Sol, Barrio de los Austrias, Sol, Centro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28013, Spain",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...The presidency of the regional government is headquartered at the Royal House of the Post Office at the very centre of the city, the Puerta del Sol....",
+                    "...He pushed forward the construction of the Prado Museum (originally intended as a Natural Science Museum), the Puerta de Alcalá, the Royal Observatory, the Basilica of San Francisco el Grande, the Casa de Correos in Puerta del Sol, the Real Casa de la Aduana, and the General Hospital (which now houses the Reina Sofia Museum and Royal Conservatory of Music)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.707374,
+                    40.415392
+                ]
+            },
+            "properties": {
+                "entity": "Plaza Mayor",
+                "name_location": "Main Square, Barrio de los Austrias, Sol, Centro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28012, Spain",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "...Its landmarks include the Plaza Mayor, the Royal Palace of Madrid; the Royal Theatre with its restored 1850 Opera House; the Buen Retiro Park, founded in 1631; the 19th-century National Library building (founded in 1712) containing some of Spain's historical archives; many national museums, and the Golden Triangle of Art, located along the Paseo del Prado and comprising three art museums: Prado Museum, the Reina Sofía Museum, a museum of modern art, and the Thyssen-Bornemisza Museum, which complements the holdings of the other two museums....",
+                    "...Stand out architecture in the city dating back to the early 17th century includes several buildings and structures (most of them attributed to Juan Gómez de Mora) such as the Palace of the Duke of Uceda (1610), the Monastery of La Encarnación (1611–1616); the Plaza Mayor (1617–1619) or the Cárcel de Corte (1629–1641), currently known as the Santa Cruz Palace...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.692463,
+                    40.412829
+                ]
+            },
+            "properties": {
+                "entity": "mediterranean",
+                "name_location": "Mediterranean hackberry, Plaza Murillo, Jerónimos, Retiro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28014, Spain",
+                "class": "natural",
+                "type": "tree",
+                "snippet": [
+                    "...Madrid has a Mediterranean climate (Köppen Csa) with continental influences in the western half of the city transitioning to a semi-arid climate (BSk) in the eastern half....",
+                    "*...A holm oak forest covering a surface over 16,000 hectares, it is considered the best preserved mediterranean forest in the Community of Madrid and one of the best preserved in Europe....",
+                    "*...Madrid has a Mediterranean climate (Köppen Csa) with continental influences in the western half of the city transitioning to a semi-arid climate (BSk) in the eastern half...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.690455,
+                    40.416134
+                ]
+            },
+            "properties": {
+                "entity": "Alfonso XI's",
+                "name_location": "Calle de Alfonso XI, Jerónimos, Retiro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28014, Spain",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "...Already mentioned in the Alfonso XI's Libro de la montería from the mid-14th century, its condition as hunting location linked to the Spanish monarchy help to preserve the environmental value...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.699526,
+                    40.58838
+                ]
+            },
+            "properties": {
+                "entity": "Soto de Viñuelas",
+                "name_location": "Carretera de Soto de Viñuelas, Fuencarral-El Pardo, Tres Cantos, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28760, Spain",
+                "class": "highway",
+                "type": "service",
+                "snippet": [
+                    "*...A great bulk of the most important parks in Madrid are related to areas originally belonging to the royal assets (including El Pardo, Soto de Viñuelas, Casa de Campo, El Buen Retiro, la Florida and the Príncipe Pío hill, and the Queen's Casino)....",
+                    "...Other large forested areas include the Soto de Viñuelas, the Dehesa de Valdelatas and the Dehesa de la Villa...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.669908,
+                    40.427504
+                ]
+            },
+            "properties": {
+                "entity": "calle de Alcalá",
+                "name_location": "Calle de Alcalá, Goya, Salamanca, Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28009, Spain",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "...Its headquarters are located at the calle de Alcalá...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.791519,
+                    40.311231
+                ]
+            },
+            "properties": {
+                "entity": "San Sebastián de los Reyes",
+                "name_location": "Calle San Sebastián de los Reyes, Arroyo Culebro, Leganés, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28941, Spain",
+                "class": "highway",
+                "type": "living_street",
+                "snippet": [
+                    "*...The Atresmedia group (Antena 3, La Sexta, Onda Cero) is headquartered in nearby San Sebastián de los Reyes....",
+                    "*...Known simply as La Autónoma by locals, its main site is the Cantoblanco Campus, located at the North of the municipality, close to its boundaries with the neighbouring municipalities of Alcobendas, San Sebastián de los Reyes and Tres Cantos...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.709091,
+                    40.415987
+                ]
+            },
+            "properties": {
+                "entity": "Lope de Vega",
+                "name_location": "Lope de Vega, Calle Mayor, Barrio de la Latina, Palacio, Centro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28013, Spain",
+                "class": "historic",
+                "type": "memorial",
+                "snippet": [
+                    "*...Some of the most distinguished writers of the Spanish Golden Century were born in Madrid, including Lope de Vega (author of Fuenteovejuna and The Dog in the Manger), who reformed the Spanish theatre, a project continued by Calderon de la Barca (author of Life is a Dream)....",
+                    "*...The Madrid homes of Lope de Vega, Quevedo, Gongora, and Cervantes still exist, and they are all in the Barrio de las Letras (Literary Neighborhood)....",
+                    "*...Some of the most prominent writers of the Spanish Golden Age lived here, such as Lope de Vega, Quevedo, and Góngora, and it contained the Cruz and Príncipe Theatres, two of the most important in Spain...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.696978,
+                    40.411372
+                ]
+            },
+            "properties": {
+                "entity": "87 Calle de Atocha",
+                "name_location": "87, Calle de Atocha, Barrio de las Letras, Cortes, Centro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28012, Spain",
+                "class": "place",
+                "type": "house",
+                "snippet": [
+                    "*...At 87 Calle de Atocha, on the northern end of the neighborhood, was the printing house of Juan de la Cuesta, where the first edition of Don Quixote was typeset and printed in 1604...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.701339,
+                    40.414828
+                ]
+            },
+            "properties": {
+                "entity": "Plaza de Santa Ana",
+                "name_location": "Plaza de Santa Ana, Barrio de las Letras, Cortes, Centro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28012, Spain",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "...Some of the highlight bustling locations include the surroundings of the Plaza de Santa Ana, Malasaña and La Latina (particularly near the Cava Baja)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.706524,
+                    40.413521
+                ]
+            },
+            "properties": {
+                "entity": "La Latina",
+                "name_location": "La Latina, 4, Calle del Duque de Rivas, Lavapiés, Embajadores, Centro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28012, Spain",
+                "class": "tourism",
+                "type": "apartment",
+                "snippet": [
+                    "*...Some of the highlight bustling locations include the surroundings of the Plaza de Santa Ana, Malasaña and La Latina (particularly near the Cava Baja)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.687406,
+                    40.453023
+                ]
+            },
+            "properties": {
+                "entity": "Santiago Bernabéu Stadium",
+                "name_location": "Santiago Bernabeu Stadium, Paseo de la Castellana, Hispanoamérica, Chamartín, Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28020, Spain",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "...Real Madrid, founded in 1902, compete in La Liga and play their home games at the Santiago Bernabéu Stadium...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.671788,
+                    40.423862
+                ]
+            },
+            "properties": {
+                "entity": "Palacio de Deportes (WiZink Center)",
+                "name_location": "WiZink Center, Calle de Jorge Juan, Goya, Salamanca, Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28009, Spain",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "...Real Madrid Baloncesto, founded in 1931, compete in Liga ACB and play their home games at the Palacio de Deportes (WiZink Center)....",
+                    "...Club Baloncesto Estudiantes, founded in 1948, compete in LEB Oro and also play their home games at the Palacio de Deportes (WiZink Center)....",
+                    "...Madrid has hosted six European Cup/EuroLeague finals, the last two at the Palacio de Deportes....",
+                    "...The city also hosted the final matches for the 1986 and 2014 FIBA World Cups, and the EuroBasket 2007 final (all held at the Palacio de Deportes)...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.796823,
+                    40.410455
+                ]
+            },
+            "properties": {
+                "entity": "Somosaguas",
+                "name_location": "Somosaguas, Calle Aquilón, Prado de Somosaguas, Pozuelo de Alarcón, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28223, Spain",
+                "class": "amenity",
+                "type": "dentist",
+                "snippet": [
+                    "*...It is located on two campuses, the main one of Ciudad Universitaria in the Moncloa-Aravaca district, and the secondary campus of Somosaguas, located outside the city limits in Pozuelo de Alarcón and founded in 1971....",
+                    "*...It was then when the new campus at Somosaguas was created to house the new School of Social Sciences...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.690759,
+                    40.440322
+                ]
+            },
+            "properties": {
+                "entity": "Castile",
+                "name_location": "Isabella I of Castile, Paseo de la Castellana, El Viso, Chamartín, Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28000, Spain",
+                "class": "tourism",
+                "type": "artwork",
+                "snippet": [
+                    "*...At the second half of the 9th century, Cordobese Emir Muhammad I built a fortress on a headland near the river Manzanares, as one of the many fortresses he ordered to be built on the border between Al-Andalus and the kingdoms of León and Castile, with the objective of protecting Toledo from the Christian invasions and also as a starting point for Muslim offensives....",
+                    "*...In the context of the wider campaign for the conquest of the taifa of Toledo initiated in 1079, Madrid was seized in 1083 by Alfonso VI of León and Castile, who sought to use the town as an offensive outpost against the city of Toledo, in turn conquered in 1085....",
+                    "...In 1309, the Courts of Castile convened at Madrid for the first time under Ferdinand IV, and later in 1329, 1339, 1391, 1393, 1419 and twice in 1435....",
+                    "*...Nevertherless, its real origin dates back to 1293, when King Sancho IV of Castile built the General Schools of Alcalá, which would give rise to Cisnero's Complutense University...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.702424,
+                    40.405385
+                ]
+            },
+            "properties": {
+                "entity": "Embajadores",
+                "name_location": "Embajadores, Calle de Miguel Servet, Lavapiés, Embajadores, Centro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28012, Spain",
+                "class": "railway",
+                "type": "subway_entrance",
+                "snippet": [
+                    "*...Some of the big public universities headquartered in the surrounding municipalities also have secondary campuses in Madrid proper: it is the case of the Charles III University of Madrid (Universidad Carlos III de Madrid; UC3M) with its main site in Getafe and an educational facility in Embajadores (after signing a deal with the regional government and the city council in 2011) and the King Juan Carlos University (Universidad Rey Juan Carlos; URJC) having its main site in Móstoles and a secondary campus in Vicálvaro...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.004724,
+                    40.784428
+                ]
+            },
+            "properties": {
+                "entity": "Puerto de Navacerrada",
+                "name_location": "Puerto de Navacerrada, Calle Vitoria, Los Baldíos, Cuenca del Guadarrama, Community of Madrid, Spain",
+                "class": "railway",
+                "type": "station",
+                "snippet": [
+                    "...The M-607 connects Madrid to the Puerto de Navacerrada...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.697054,
+                    40.427755
+                ]
+            },
+            "properties": {
+                "entity": "Madrid Calle 30",
+                "name_location": "Tierra, 30, Calle de Sagasta, Justicia, Centro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28004, Spain",
+                "class": "amenity",
+                "type": "restaurant",
+                "snippet": [
+                    "*...It is owned by the Madrid City Council and operated by Madrid Calle 30, S.A...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.723725,
+                    40.415285
+                ]
+            },
+            "properties": {
+                "entity": "NW",
+                "name_location": "Madrid Río, Puerta del Ángel, Latina, Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28008, Spain",
+                "class": "highway",
+                "type": "cycleway",
+                "snippet": [
+                    "*...A NW stretch of the road runs underground, below the southern reaches of the Monte de El Pardo protected area...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.867914,
+                    40.494303
+                ]
+            },
+            "properties": {
+                "entity": "Las Rozas",
+                "name_location": "Las Rozas, Calle San Sebastián, Las Rozas de Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28231, Spain",
+                "class": "railway",
+                "type": "stop",
+                "snippet": [
+                    "*...The M-50, the Madrid's outer ring road, connects municipalities and cities in the metropolitan area, like Fuenlabrada, Móstoles, Getafe, Leganés in the South and Boadilla del Monte and Las Rozas in the West...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.708355,
+                    40.421059
+                ]
+            },
+            "properties": {
+                "entity": "Asia",
+                "name_location": "Asia, 5, Calle de San Bernardo, Palacio, Centro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28013, Spain",
+                "class": "shop",
+                "type": "food",
+                "snippet": [
+                    "*...Barajas is a major European hub, yet a largely westward facing one, specialized in the Americas, with a comparatively lighter connectivity to Asia...."
+                ]
+            }
+        }
+    ]
+}

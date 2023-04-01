@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.127865,
+                    49.60762
+                ]
+            },
+            "properties": {
+                "entity": "Pétrusse",
+                "name_location": "Boulevard de la Pétrusse, Gare, Luxembourg, Canton Luxembourg, 2954, Luxembourg",
+                "class": "highway",
+                "type": "primary",
+                "snippet": [
+                    "*...Standing at the confluence of the Alzette and Pétrusse rivers in southern Luxembourg, the city lies at the heart of Western Europe, situated 213 km (132 mi) by road from Brussels, 372 km (231 mi) from Paris, and 209 km (130 mi) from Cologne....",
+                    "*...The city centre occupies a picturesque site on a salient, perched high on precipitous cliffs that drop into the narrow valleys of the Alzette and Pétrusse rivers, whose confluence is in Luxembourg City...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.122415,
+                    49.613129
+                ]
+            },
+            "properties": {
+                "entity": "Villa Vauban",
+                "name_location": "Villa Vauban, 18, Avenue Émile Reuter, Ville-Haute, Luxembourg, Canton Luxembourg, 2090, Luxembourg",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "...Art galleries include the Villa Vauban, the Casino Luxembourg and Am Tunnel...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.209403,
+                    49.626372
+                ]
+            },
+            "properties": {
+                "entity": "Luxembourg Airport",
+                "name_location": "Luxembourg Airport, Boulevard Nelson Mandela, Hamm, Luxembourg, Canton Luxembourg, 1871, Luxembourg",
+                "class": "aeroway",
+                "type": "aerodrome",
+                "snippet": [
+                    "*...Upon completion in 2024, the line will extend to Luxembourg Airport and the national stadium....",
+                    "*...Luxembourg City is served by the only international airport in the country: Luxembourg Airport (codes: IATA:..."
+                ]
+            }
+        }
+    ]
+}
