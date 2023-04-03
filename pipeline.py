@@ -6,11 +6,11 @@ from src.utils import save_results, read_article, read_titles
 
 import logging
 
-logging.basicConfig(format='%(asctime)s - %(message)s', datefmt='%d-%b-%y %H:%M:%S')
+logging.basicConfig(format='%(asctime)s - %(message)s', datefmt='%d-%b-%y %H:%M:%S', level=logging.INFO)
 
-trf = False
+trf = True
 type = 1
-lang = "en"
+lang = "it"
 
 path_articles1_it = f'input/articles1/it/texts/'
 path_articles1_en = f'input/articles1/en/texts/'

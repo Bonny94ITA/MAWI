@@ -6,40 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.687674,
-                    45.069617
-                ]
-            },
-            "properties": {
-                "entity": "Po",
-                "name_location": "Po, 4, Via Po, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
-                "class": "amenity",
-                "type": "pharmacy",
-                "snippet": [
-                    "*...Alcuni palazzi e zone facenti parte del circuito di residenze sabaude in Piemonte (patrimonio dell'umanità) e l'area delle colline del Po (riserva della biosfera)....",
-                    "*...Torino sorge nella pianura delimitata dai fiumi Stura di Lanzo, Sangone e Po (quest'ultimo attraversa la città da sud verso nord), di fronte allo sbocco di alcune vallate alpine:...",
-                    "*...Il fiume Po accentua la divisione tra la parte collinare e quella, quasi pianeggiante, della città, collocata tra i 220 e i 280 metri s.l.m....",
-                    "*...Il Monviso, monte sul quale nasce il Po, il Rocciamelone, e i massicci del Gran Paradiso e del Monte Rosa, mentre il Cervino diventa visibile dalla zona sud-est dell'area urbana....",
-                    "...Il 19 marzo 2016 l'UNESCO ha riconosciuto il Parco del Po e la collina torinese come riserva della biosfera, mentre nel 2020 la FAO e l'Arbor Day Foundation hanno conferito alla città di Torino il riconoscimento di Tree City of the World 2019....",
-                    "...Prendendo in esame i dati rilevati dall'Ufficio Idrografico del Po (presso Porta Susa), nel il periodo 1961-1990, si evince che, in città, la temperatura media annua è stata di 12,3 °C, con la minima, a gennaio, di 0,9 °C....",
-                    "...Di seguito è riportata la media trentennale di riferimento (1961-1990) rilevata dall'Ufficio Idrografico del Po....",
-                    "*...Il 19 aprile 1801 Jourdan soppresse tutte le istituzioni governative e divenne Amministratore generale del Piemonte, assistito da un Consiglio di sei membri piemontesi e infine, dopo l'abdicazione di Carlo Emanuele IV di Savoia, il 21 settembre 1802 i sei dipartimenti in cui era stato diviso il Piemonte (Torino apparteneva al dipartimento del Po e inoltre a essa faceva capo uno dei tre circondari in cui era diviso il dipartimento stesso) furono raggruppati in una regione francese denominata Au delà des Alpes, della quale Torino divenne il capoluogo e tale rimase fino alla Restaurazione....",
-                    "*...Altri tre edifici di altissimo pregio, considerati fra i monumenti-simbolo della città, sono la basilica di Superga, capolavoro Juvarriano in stile tardo-barocco, la Chiesa della Gran Madre di Dio, suggestiva opera in stile neoclassica situata sulle rive del Po, e la Cappella della Sindone, opera di Guarino Guarini contenente il sudario e inserita, insieme al palazzo reale di cui fa parte, nella lista dei patrimoni dell'umanità....",
-                    "...Le importanti testimonianze architettoniche di quest'epoca sono ancora percepibili in alcune zone centrali del capoluogo come i quartieri Centro, Crocetta, San Salvario e Borgo Po, ma con un'assoluta predominanza nell'area circostante il primo tratto di Corso Francia, comprendente i quartieri Cit Turin e San Donato....",
-                    "*...Il portico che unisce piazza Castello con Piazza Vittorio Veneto attraverso via Po sul lato sinistro fu progettato in modo tale da proseguire anche nell'attraversamento delle vie per permettere al re di giungere fino al Po senza bagnarsi in caso di pioggia....",
-                    "*...Torino ospita anche alberi esotici secolari come le sequoie costali (Sequoia sempervirens) dei parchi collinari di Villa Genero e Giacomo Leopardi, i numerosi esemplari di Noce del Caucaso (Pterocarya fraxinifolia) che costeggiano il Po e compaiono in parchi pubblici come i Giardini Cavour, il Giardino Sambuy, i Giardini Reali Bassi (lungo Corso San Maurizio), il Parco Millefonti....",
-                    "*...Importanti sono poi dal punto di vista storico il Museo nazionale del Risorgimento italiano, presso Palazzo Carignano, e il Museo nazionale della montagna, presso il Monte dei Cappuccini, sulla riva destra del Po....",
-                    "*...Anche se nel gioco la città è ben diversa dalla realtà, sono comunque presenti il tram numero 13, il Po e molti edifici storici realmente esistenti....",
-                    "...Proprio nel capoluogo piemontese, nel marzo 1896, gli inventori del cinematografo esibirono la prima proiezione di un film in Italia ed in via Po, a novembre, la prima davanti ad un pubblico pagante....",
-                    "...Circoscrizione VIII: San Salvario - Cavoretto - Borgo Po - Nizza Millefonti - Lingotto - Filadelfia ...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     7.137748,
                     45.152467
                 ]
@@ -51,28 +17,6 @@
                 "type": "nature_reserve",
                 "snippet": [
                     "*...Val di Susa, che collega la città con la vicina Francia attraverso i trafori del Frejus (ferroviario e stradale) , Valli di Lanzo, Val Sangone...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.658987,
-                    45.075945
-                ]
-            },
-            "properties": {
-                "entity": "Frejus",
-                "name_location": "Frejus, 35, Corso Francia, Cit Turin, Circoscrizione 3, Torino, Piemonte, 10138, Italia",
-                "class": "amenity",
-                "type": "pharmacy",
-                "snippet": [
-                    "*...Val di Susa, che collega la città con la vicina Francia attraverso i trafori del Frejus (ferroviario e stradale) , Valli di Lanzo, Val Sangone....",
-                    "...La Fontana del Frejus di Piazza Statuto fu ideata dal conte Marcello Panissera per ricordare l'inaugurazione dell'omonimo traforo ed è indicata dagli esoteristi come il \"cuore nero\" della città, per due motivi:...",
-                    "*...A32 Torino - Susa - Bardonecchia - Traforo stradale del Frejus ;...",
-                    "...Le linee ferroviarie principali che si dipartono da Torino sono quelle che vanno verso Genova (via Asti e Alessandria), verso Milano (via Novara e Vercelli) e verso la Francia (via Bardonecchia e il Traforo ferroviario del Frejus) e Ventimiglia (via Cuneo e il Traforo ferroviario del Colle di Tenda)...."
                 ]
             }
         },
@@ -252,31 +196,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.686713,
-                    45.070225
-                ]
-            },
-            "properties": {
-                "entity": "Piazza Castello",
-                "name_location": "Piazza Castello, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
-                "class": "highway",
-                "type": "tertiary",
-                "snippet": [
-                    "*...Il confine francese dista circa 70 km nei pressi del Colle del Moncenisio, mentre sono 206 i chilometri che separano Piazza Castello da Chambery, 222 da Nizza, 250 da Ginevra e 314 da Lione....",
-                    "*...Vari resti di abitazioni di epoca imperiale, fra cui le tracce delle domus di via Bellezia, via Santa Chiara, via Bonelli, Piazza Castello, la necropoli nel sottosuolo di Piazza San Carlo e gli edifici pubblici di Piazza Emanuele Filiberto e Corso XI Febbraio....",
-                    "...La prima testimonianza è l'ordinanza di Carlo Emanuele I di Savoia del 16 giugno 1606 in merito alla costruzione di piazza Castello secondo il progetto di Ascanio Vittozzi che comprendeva portici attorno a tutta la piazza....",
-                    "...Il portico che unisce piazza Castello con Piazza Vittorio Veneto attraverso via Po sul lato sinistro fu progettato in modo tale da proseguire anche nell'attraversamento delle vie per permettere al re di giungere fino al Po senza bagnarsi in caso di pioggia....",
-                    "*...Inoltre, nei periodi festivi, circola una linea speciale, la linea 7 di Piazza Castello, sulla quale circolano vetture storiche....",
-                    "*...La prima testimonianza è l'ordinanza di Carlo Emanuele I di Savoia del 16 giugno 1606 in merito alla costruzione di piazza Castello secondo il progetto di Ascanio Vittozzi che comprendeva portici attorno a tutta la piazza....",
-                    "*...Il portico che unisce piazza Castello con Piazza Vittorio Veneto attraverso via Po sul lato sinistro fu progettato in modo tale da proseguire anche nell'attraversamento delle vie per permettere al re di giungere fino al Po senza bagnarsi in caso di pioggia...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     7.666725,
                     45.071592
                 ]
@@ -289,31 +208,6 @@
                 "snippet": [
                     "*...Prendendo in esame i dati rilevati dall'Ufficio Idrografico del Po (presso Porta Susa), nel il periodo 1961-1990, si evince che, in città, la temperatura media annua è stata di 12,3 °C, con la minima, a gennaio, di 0,9 °C....",
                     "*...Le stazioni ferroviarie di Porta Nuova e Porta Susa vennero congiunte con un percorso porticato attraverso via Nizza, via Sacchi, Corso Vittorio Emanuele II, Corso Vinzaglio e via Cernaia...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.664701,
-                    45.071706
-                ]
-            },
-            "properties": {
-                "entity": "Susa",
-                "name_location": "Susa, Corso Inghilterra, Cit Turin, Circoscrizione 3, Torino, Piemonte, 10140, Italia",
-                "class": "highway",
-                "type": "bus_stop",
-                "snippet": [
-                    "...Val di Susa, che collega la città con la vicina Francia attraverso i trafori del Frejus (ferroviario e stradale) , Valli di Lanzo, Val Sangone....",
-                    "...Prendendo in esame i dati rilevati dall'Ufficio Idrografico del Po (presso Porta Susa), nel il periodo 1961-1990, si evince che, in città, la temperatura media annua è stata di 12,3 °C, con la minima, a gennaio, di 0,9 °C....",
-                    "*...Insediamenti riferibili a popolazioni di ceppo celto-Ligure, conosciute con il nome di Taurini, spesso confusi, già in età antica, con i Taurisci, che occupavano anche le vicine valli di Susa e di Lanzo....",
-                    "...A capo di questa marca v'era la cosiddetta \"dinastia arduinica\" che, attraverso il matrimonio tra Adelaide di Susa e Oddone, figlio di Umberto I Biancamano (fondatore della casa Savoia), portò la città sotto l'influenza della dinastia sabauda....",
-                    "...Le stazioni ferroviarie di Porta Nuova e Porta Susa vennero congiunte con un percorso porticato attraverso via Nizza, via Sacchi, Corso Vittorio Emanuele II, Corso Vinzaglio e via Cernaia....",
-                    "...L'itinerario, fra i preferiti nel Medioevo, valicato lo spartiacque Francia/Italia al Colle del Moncenisio, giunge dalla Valle di Susa terra delle grandi abbazie come Novalesa, Sacra di San Michele e Sant'Antonio di Ranverso e passando per Torino lungo il Parco Colletta tende a San Mauro Torinese e poi verso Chivasso e successivamente a Vercelli, dove si congiunge con l'altro ramo della Francigena, quella proveniente dal Colle del Gran San Bernardo....",
-                    "...A32 Torino - Susa - Bardonecchia - Traforo stradale del Frejus ;..."
                 ]
             }
         },
@@ -379,26 +273,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.867406,
-                    45.035414
-                ]
-            },
-            "properties": {
-                "entity": "Corso Vittorio Emanuele",
-                "name_location": "Corso Vittorio Emanuele, Andezeno, Torino, Piemonte, 10020, Italia",
-                "class": "highway",
-                "type": "secondary",
-                "snippet": [
-                    "*...Di norma i più antichi, come Corso Vittorio Emanuele, Corso Francia e Corso Regina Margherita, presentano una carreggiata centrale con almeno due corsie per senso di marcia, divisa da alberate dalle altre due carreggiate laterali, dette controviali....",
-                    "...Le stazioni ferroviarie di Porta Nuova e Porta Susa vennero congiunte con un percorso porticato attraverso via Nizza, via Sacchi, Corso Vittorio Emanuele II, Corso Vinzaglio e via Cernaia...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     7.642953,
                     45.075541
                 ]
@@ -420,27 +294,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.685203,
-                    45.076026
-                ]
-            },
-            "properties": {
-                "entity": "Corso Regina Margherita",
-                "name_location": "Corso Regina Margherita, Quadrilatero Romano, Circoscrizione 1, Torino, Piemonte, 10152, Italia",
-                "class": "highway",
-                "type": "tertiary",
-                "snippet": [
-                    "*...Di norma i più antichi, come Corso Vittorio Emanuele, Corso Francia e Corso Regina Margherita, presentano una carreggiata centrale con almeno due corsie per senso di marcia, divisa da alberate dalle altre due carreggiate laterali, dette controviali....",
-                    "...Ospitava infatti il patibolo, che rimase per secoli in piazza Statuto e che venne poi spostato dai francesi all'incrocio tra corso Regina Margherita e Via Cigna:...",
-                    "*...Ospitava infatti il patibolo, che rimase per secoli in piazza Statuto e che venne poi spostato dai francesi all'incrocio tra corso Regina Margherita e Via Cigna:..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     7.686952,
                     45.054197
                 ]
@@ -454,7 +307,17 @@
                     "...Il più celebre era l'Allea Oscura, oggi scomparsa, che collegava la porta Nuova con il Castello del Valentino....",
                     "...Nel comune di Torino si trovano il Palazzo Reale, il Palazzo Madama, la Villa della Regina e il Castello del Valentino....",
                     "*...Castello del Valentino ;...",
-                    "*...Dal grande platano del Parco della Tesoriera (660 cm di circonferenza del tronco, oltre due secoli di vita) ai platani del Parco del Valentino, dalle metasequoie del Giardino Roccioso inaugurato nel 1961 agli alberi più annosi dell'Orto Botanico fondato nel 1729, adiacente alle mura del Castello del Valentino...."
+                    "*...Dal grande platano del Parco della Tesoriera (660 cm di circonferenza del tronco, oltre due secoli di vita) ai platani del Parco del Valentino, dalle metasequoie del Giardino Roccioso inaugurato nel 1961 agli alberi più annosi dell'Orto Botanico fondato nel 1729, adiacente alle mura del Castello del Valentino....",
+                    "...Il confine francese dista circa 70 km nei pressi del Colle del Moncenisio, mentre sono 206 i chilometri che separano Piazza Castello da Chambery, 222 da Nizza, 250 da Ginevra e 314 da Lione....",
+                    "...Vari resti di abitazioni di epoca imperiale, fra cui le tracce delle domus di via Bellezia, via Santa Chiara, via Bonelli, Piazza Castello, la necropoli nel sottosuolo di Piazza San Carlo e gli edifici pubblici di Piazza Emanuele Filiberto e Corso XI Febbraio....",
+                    "...Palazzo Madama e Casaforte degli Acaja, il cui corpo centrale fu costruito fra i secoli XIII e XV in stile gotico ampliando e inglobando la struttura dell'originale Porta Decumana d'epoca romana e conferendo al palazzo l'aspetto di un castello, che verrà completato nei secoli successivi con la facciata settecentesca dello Juvarra;...",
+                    "...Originariamente si trattava della porta orientale, trasformata in castello nel Medioevo con l'aggiunta di due torri;...",
+                    "...La prima testimonianza è l'ordinanza di Carlo Emanuele I di Savoia del 16 giugno 1606 in merito alla costruzione di piazza Castello secondo il progetto di Ascanio Vittozzi che comprendeva portici attorno a tutta la piazza....",
+                    "...Il portico che unisce piazza Castello con Piazza Vittorio Veneto attraverso via Po sul lato sinistro fu progettato in modo tale da proseguire anche nell'attraversamento delle vie per permettere al re di giungere fino al Po senza bagnarsi in caso di pioggia....",
+                    "...Considerando che la vicina Rivoli ospita nell'omonimo castello il Museo d'Arte Contemporanea, Torino può essere considerata come il più importante polo museale italiano per l'arte contemporanea....",
+                    "...Torino 2008 World Design Capital: la città nel 2008 è stata la prima \"capitale mondiale del design\". Il titolo, conferito a Copenaghen dall'ICSID (International Council of Societies of Industrial Design), è stato creato appositamente per la Città di Torino per riconosciuti meriti e competenze presenti sul territorio. Contemporaneamente a tale occasione, dal 30 giugno al 2 luglio, al Lingotto Fiere si è svolto il \"XXIII congresso mondiale degli architetti\", accompagnato dalla mostra \"Architetture sensibili\", inaugurata il 26 luglio nel Castello di Rivara....",
+                    "...Inoltre, nei periodi festivi, circola una linea speciale, la linea 7 di Piazza Castello, sulla quale circolano vetture storiche....",
+                    "*...Lo spazio sottostante la via Roma, da p.za San Carlo a p.za Castello, venne adibito a parcheggio pubblico a pagamento...."
                 ]
             }
         },
@@ -501,27 +364,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.767334,
-                    45.080014
-                ]
-            },
-            "properties": {
-                "entity": "Superga",
-                "name_location": "Superga, Strada alla Parrocchia di Superga, Tetti Rocco, Circoscrizione 7, Torino, Piemonte, 10099, Italia",
-                "class": "tourism",
-                "type": "information",
-                "snippet": [
-                    "*...Altri tre edifici di altissimo pregio, considerati fra i monumenti-simbolo della città, sono la basilica di Superga, capolavoro Juvarriano in stile tardo-barocco, la Chiesa della Gran Madre di Dio, suggestiva opera in stile neoclassica situata sulle rive del Po, e la Cappella della Sindone, opera di Guarino Guarini contenente il sudario e inserita, insieme al palazzo reale di cui fa parte, nella lista dei patrimoni dell'umanità....",
-                    "...A questi si aggiunge la Basilica di Superga la quale, pur facendo parte del circuito delle residenze sabaude, non è compresa nella lista UNESCO....",
-                    "*...Definita da Le Corbusier come «...la città con la più bella posizione naturale del mondo», celebrata da numerosi personaggi storici, tra cui Friedrich Nietzsche, Mark Twain e Jean-Jacques Rousseau, il quale descrisse il suo panorama dalla collina di Superga come «...il più bello spettacolo che possa colpire l'occhio umano», è una delle più importanti città barocche d'Europa ed è considerata, insieme a Milano e Palermo, la capitale italiana dell'Art Nouveau, di cui sono grande esempio, fra l'altro, i suoi innumerevoli e famosi caffè storici, fioriti soprattutto nel periodo risorgimentale e della Belle Époque...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     7.699147,
                     45.062385
                 ]
@@ -533,7 +375,12 @@
                 "type": "place_of_worship",
                 "snippet": [
                     "...Altri tre edifici di altissimo pregio, considerati fra i monumenti-simbolo della città, sono la basilica di Superga, capolavoro Juvarriano in stile tardo-barocco, la Chiesa della Gran Madre di Dio, suggestiva opera in stile neoclassica situata sulle rive del Po, e la Cappella della Sindone, opera di Guarino Guarini contenente il sudario e inserita, insieme al palazzo reale di cui fa parte, nella lista dei patrimoni dell'umanità....",
-                    "*...Ai lati della scalinata che conduce all'ingresso della Chiesa della Gran Madre di Dio troviamo le due statue raffiguranti la Fede e la Religione, tra le quali si troverebbe il nascondiglio del Graal...."
+                    "*...Ai lati della scalinata che conduce all'ingresso della Chiesa della Gran Madre di Dio troviamo le due statue raffiguranti la Fede e la Religione, tra le quali si troverebbe il nascondiglio del Graal....",
+                    "*...Ulteriori edifici di rilevanza storica o architettonica comprendono la Chiesa di san Domenico, edificio in stile gotico risalente al 1227, la Chiesa più antica ancora in uso della città di Torino, le \"chiese gemelle\" di piazza San Carlo, ossia San Carlo e Santa Cristina, Santa Maria al Monte dei Cappuccini situata sulla collina omonima e famosa per la vista panoramica e, infine, la Chiesa di Santa Elisabetta uno dei pochissimi esempi di chiese in stile liberty....",
+                    "...Chiesa di San Domenico, situata nell'omonima via; fu edificata nel XIV secolo e rappresenta l'unico monumento completo autenticamente medioevale dell'intera città, pur se modificata in epoca barocca e riportata successivamente alle originali forme gotiche tramite restauri conservativi ottocenteschi;...",
+                    "...Campanili romanici della basilica della Consolata (risalente al X secolo), del Duomo (quattrocentesco, poi completato nel XVIII secolo dallo Juvarra) e della Chiesa di Sant'Agostino (XV secolo);...",
+                    "*...La Pantera Rosa 2. Nella parte iniziale del film viene mostrato un panorama di Torino e l'interno del duomo in cui viene rubata la Santa sindone. In realtà il panorama non è quello reale e neanche la Chiesa. Nel film viene mostrato come se la sindone fosse conservata in una teca di vetro, anche se nella realtà non è così....",
+                    "...Altri sostengono invece, o almeno in concomitanza e contrapposizione, che le autorità civili, Stato e comune e la corte sabauda, abbiano tollerato e sostenuto circoli massonici, associazioni teosofiche e spiritistiche, favorendo così una specie di agguerrita \"concorrenza\" nei confronti della Chiesa cattolica e favorendo quindi anche il mito di Torino, città magica...."
                 ]
             }
         },
@@ -553,29 +400,6 @@
                 "type": "place_of_worship",
                 "snippet": [
                     "...Altri tre edifici di altissimo pregio, considerati fra i monumenti-simbolo della città, sono la basilica di Superga, capolavoro Juvarriano in stile tardo-barocco, la Chiesa della Gran Madre di Dio, suggestiva opera in stile neoclassica situata sulle rive del Po, e la Cappella della Sindone, opera di Guarino Guarini contenente il sudario e inserita, insieme al palazzo reale di cui fa parte, nella lista dei patrimoni dell'umanità...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.683166,
-                    45.067857
-                ]
-            },
-            "properties": {
-                "entity": "San Carlo",
-                "name_location": "San Carlo, Piazza San Carlo, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
-                "class": "amenity",
-                "type": "parking_entrance",
-                "snippet": [
-                    "*...Ulteriori edifici di rilevanza storica o architettonica comprendono la Chiesa di san Domenico, edificio in stile gotico risalente al 1227, la Chiesa più antica ancora in uso della città di Torino, le \"chiese gemelle\" di piazza San Carlo, ossia San Carlo e Santa Cristina, Santa Maria al Monte dei Cappuccini situata sulla collina omonima e famosa per la vista panoramica e, infine, la Chiesa di Santa Elisabetta uno dei pochissimi esempi di chiese in stile liberty....",
-                    "...Vari resti di abitazioni di epoca imperiale, fra cui le tracce delle domus di via Bellezia, via Santa Chiara, via Bonelli, Piazza Castello, la necropoli nel sottosuolo di Piazza San Carlo e gli edifici pubblici di Piazza Emanuele Filiberto e Corso XI Febbraio....",
-                    "...Anche nel progetto di piazza San Carlo di Amedeo di Castellamonte di qualche anno successivo erano previsti portici tutt'attorno....",
-                    "...Io sono leggenda. Nel film, quando il protagonista sta guardando le registrazioni di vecchi telegiornali, viene mostrata piazza San Carlo. Quella utilizzata nel film è infatti la reale registrazione di un collegamento avvenuto durante i XX Giochi olimpici invernali del 2006....",
-                    "...Lo spazio sottostante la via Roma, da p.za San Carlo a p.za Castello, venne adibito a parcheggio pubblico a pagamento...."
                 ]
             }
         },
@@ -615,53 +439,9 @@
                 "snippet": [
                     "...Da citare, in ultimo, il fatto che la Mole Antonelliana fu progettata, inizialmente, come tempio israelitico e solo successivamente riconvertita ad uso civile....",
                     "*...Tra i monumenti di Torino più noti anche all'estero sono da citare l'ottocentesca Mole Antonelliana, simbolo incontrastato della città, che ospita il Museo nazionale del Cinema (il principale d'Europa);...",
-                    "*...Nel 1956 venne aperto il Museo nazionale del Cinema, dapprima ospitato a Palazzo Chiablese e poi, dal 2000, nell'imponente sede della Mole Antonelliana...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.702657,
-                    45.077302
-                ]
-            },
-            "properties": {
-                "entity": "Cimitero Monumentale",
-                "name_location": "Cimitero Monumentale, Corso Novara, Rossini, Circoscrizione 7, Torino, Piemonte, 10153, Italia",
-                "class": "highway",
-                "type": "bus_stop",
-                "snippet": [
-                    "...Fra questi, quello maggiore per importanza e dimensioni è certamente il Cimitero Monumentale, il quale contiene numerosi monumenti funebri di personaggi famosi e di pregevole fattura....",
-                    "...Simboli massonici sono presenti in molti palazzi e in alcune tombe del Cimitero monumentale di Torino....",
-                    "*...Simboli massonici sono presenti in molti palazzi e in alcune tombe del Cimitero monumentale di Torino...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.685805,
-                    45.070965
-                ]
-            },
-            "properties": {
-                "entity": "Palazzo Madama",
-                "name_location": "Palazzo Madama, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
-                "class": "tourism",
-                "type": "attraction",
-                "snippet": [
-                    "*...Porta Decumana, inglobata in Palazzo Madama, e relativi scavi archeologici;...",
-                    "*...Palazzo Madama e Casaforte degli Acaja, il cui corpo centrale fu costruito fra i secoli XIII e XV in stile gotico ampliando e inglobando la struttura dell'originale Porta Decumana d'epoca romana e conferendo al palazzo l'aspetto di un castello, che verrà completato nei secoli successivi con la facciata settecentesca dello Juvarra;...",
-                    "*...Palazzo Carignano (progettato da Guarini e sede della prima Camera dei deputati del Parlamento italiano) e l'imponente Palazzo Madama....",
-                    "...Nel comune di Torino si trovano il Palazzo Reale, il Palazzo Madama, la Villa della Regina e il Castello del Valentino....",
-                    "*...Palazzo Madama ;...",
-                    "..., il Museo civico d'arte antica di Palazzo Madama, la Fondazione Sandretto Re Rebaudengo contenente esposizioni degli artisti contemporanei provenienti da tutto il mondo e la Pinacoteca Giovanni e Marella Agnelli e la Fondazione Merz....",
-                    "*...Mostre temporanee di rilievo si tengono a Palazzo Bricherasio e a Palazzo Madama...."
+                    "*...Nel 1956 venne aperto il Museo nazionale del Cinema, dapprima ospitato a Palazzo Chiablese e poi, dal 2000, nell'imponente sede della Mole Antonelliana....",
+                    "*...Dopo mezzanotte. La città viene mostrata in tutte le sue sfaccettature ed è inoltre possibile ammirare a fondo la Mole, sia internamente che esternamente....",
+                    "*...All'interno della Mole è ospitato il Museo nazionale del Cinema...."
                 ]
             }
         },
@@ -681,30 +461,6 @@
                 "type": "archaeological_site",
                 "snippet": [
                     "*...Resti del Teatro romano;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.683976,
-                    45.072436
-                ]
-            },
-            "properties": {
-                "entity": "Duomo",
-                "name_location": "Duomo, Via Venti Settembre, Centro, Circoscrizione 1, Torino, Piemonte, 10122, Italia",
-                "class": "amenity",
-                "type": "bar",
-                "snippet": [
-                    "...La cattedrale della città è il Duomo di Torino, dedicato a San Giovanni Battista, situata nel centro storico e sede dell'arcidiocesi di Torino....",
-                    "*...Complesso archeologico del Duomo: fondamenta delle tre basiliche paleocristiane gemelle sulle quali sorge la cattedrale rinascimentale, a loro volta poggianti su preesistenti abitazioni di epoca romana di cui rimangono evidenti testimonianze;...",
-                    "*...Duomo; edificato fra il 1491 e il 1498, costituisce l'unico esempio di luogo di culto in stile rinascimentale della città;...",
-                    "*...Campanili romanici della basilica della Consolata (risalente al X secolo), del Duomo (quattrocentesco, poi completato nel XVIII secolo dallo Juvarra) e della Chiesa di Sant'Agostino (XV secolo);...",
-                    "...La Pantera Rosa 2. Nella parte iniziale del film viene mostrato un panorama di Torino e l'interno del duomo in cui viene rubata la Santa sindone. In realtà il panorama non è quello reale e neanche la Chiesa. Nel film viene mostrato come se la sindone fosse conservata in una teca di vetro, anche se nella realtà non è così....",
-                    "...Ostensione della Sindone del 1998 per celebrare il centenario della prima fotografia della reliquia e il cinquecentenario del Duomo di Torino...."
                 ]
             }
         },
@@ -789,30 +545,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.682571,
-                    45.067715
-                ]
-            },
-            "properties": {
-                "entity": "Piazza San Carlo",
-                "name_location": "Piazza San Carlo, Centro, Circoscrizione 1, Torino, Piemonte, Italia",
-                "class": "highway",
-                "type": "footway",
-                "snippet": [
-                    "...Ulteriori edifici di rilevanza storica o architettonica comprendono la Chiesa di san Domenico, edificio in stile gotico risalente al 1227, la Chiesa più antica ancora in uso della città di Torino, le \"chiese gemelle\" di piazza San Carlo, ossia San Carlo e Santa Cristina, Santa Maria al Monte dei Cappuccini situata sulla collina omonima e famosa per la vista panoramica e, infine, la Chiesa di Santa Elisabetta uno dei pochissimi esempi di chiese in stile liberty....",
-                    "*...Vari resti di abitazioni di epoca imperiale, fra cui le tracce delle domus di via Bellezia, via Santa Chiara, via Bonelli, Piazza Castello, la necropoli nel sottosuolo di Piazza San Carlo e gli edifici pubblici di Piazza Emanuele Filiberto e Corso XI Febbraio....",
-                    "...Anche nel progetto di piazza San Carlo di Amedeo di Castellamonte di qualche anno successivo erano previsti portici tutt'attorno....",
-                    "...Io sono leggenda. Nel film, quando il protagonista sta guardando le registrazioni di vecchi telegiornali, viene mostrata piazza San Carlo. Quella utilizzata nel film è infatti la reale registrazione di un collegamento avvenuto durante i XX Giochi olimpici invernali del 2006....",
-                    "*...Ulteriori edifici di rilevanza storica o architettonica comprendono la Chiesa di san Domenico, edificio in stile gotico risalente al 1227, la Chiesa più antica ancora in uso della città di Torino, le \"chiese gemelle\" di piazza San Carlo, ossia San Carlo e Santa Cristina, Santa Maria al Monte dei Cappuccini situata sulla collina omonima e famosa per la vista panoramica e, infine, la Chiesa di Santa Elisabetta uno dei pochissimi esempi di chiese in stile liberty....",
-                    "*...Io sono leggenda. Nel film, quando il protagonista sta guardando le registrazioni di vecchi telegiornali, viene mostrata piazza San Carlo. Quella utilizzata nel film è infatti la reale registrazione di un collegamento avvenuto durante i XX Giochi olimpici invernali del 2006...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     7.681183,
                     45.07642
                 ]
@@ -843,30 +575,6 @@
                 "type": "bus_stop",
                 "snippet": [
                     "*...Vari resti di abitazioni di epoca imperiale, fra cui le tracce delle domus di via Bellezia, via Santa Chiara, via Bonelli, Piazza Castello, la necropoli nel sottosuolo di Piazza San Carlo e gli edifici pubblici di Piazza Emanuele Filiberto e Corso XI Febbraio...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.671579,
-                    45.074222
-                ]
-            },
-            "properties": {
-                "entity": "Juvarra",
-                "name_location": "Via Filippo Juvarra, Quadrilatero Romano, Circoscrizione 1, Torino, Piemonte, 10140, Italia",
-                "class": "highway",
-                "type": "residential",
-                "snippet": [
-                    "...Alla progettazione e realizzazione delle opere relative hanno contribuito architetti di chiara fama, fra i quali Amedeo e Carlo di Castellamonte, Andrea Costaguta, Guarino Guarini, Filippo Juvarra, Filippo Giovanni Battista Nicolis di Robilant,  Giuseppe e Bartolomeo Gallo, Bernardo Antonio Vittone, Ascanio Vittozzi, Pietro Bonvicini e Nicola Mosso....",
-                    "*...Palazzo Madama e Casaforte degli Acaja, il cui corpo centrale fu costruito fra i secoli XIII e XV in stile gotico ampliando e inglobando la struttura dell'originale Porta Decumana d'epoca romana e conferendo al palazzo l'aspetto di un castello, che verrà completato nei secoli successivi con la facciata settecentesca dello Juvarra;...",
-                    "*...Campanili romanici della basilica della Consolata (risalente al X secolo), del Duomo (quattrocentesco, poi completato nel XVIII secolo dallo Juvarra) e della Chiesa di Sant'Agostino (XV secolo);...",
-                    "...Fu rimaneggiato più volte, in particolare all'inizio del Settecento, quando venne dotato di una facciata ad opera di Filippo Juvarra....",
-                    "...Negli stessi anni Filippo Juvarra costruì i portici di porta Palazzo....",
-                    "...Teatro Le Musichall (ex Teatro Juvarra) ;..."
                 ]
             }
         },
@@ -1068,57 +776,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.626346,
-                    45.036571
-                ]
-            },
-            "properties": {
-                "entity": "Europa",
-                "name_location": "Europa, 302, Corso Orbassano, Mirafiori Nord, Circoscrizione 2, Torino, Piemonte, 10125, Italia",
-                "class": "amenity",
-                "type": "pharmacy",
-                "snippet": [
-                    "*...Tra i monumenti di Torino più noti anche all'estero sono da citare l'ottocentesca Mole Antonelliana, simbolo incontrastato della città, che ospita il Museo nazionale del Cinema (il principale d'Europa);...",
-                    "*...Il Mercato più famoso è Porta Palazzo (Pòrta Pila in Lingua piemontese), che è il Mercato all'aperto più grande d'Europa....",
-                    "...Attorno alla città, ad anello, vi sono il Parco della Mandria e il Parco della Palazzina di caccia di Stupinigi, antiche riserve di caccia dei Savoia, e quelli situati sulla collina torinese quali il Parco della Rimembranza o il Parco Europa....",
-                    "*...Definita da Le Corbusier come «...la città con la più bella posizione naturale del mondo», celebrata da numerosi personaggi storici, tra cui Friedrich Nietzsche, Mark Twain e Jean-Jacques Rousseau, il quale descrisse il suo panorama dalla collina di Superga come «...il più bello spettacolo che possa colpire l'occhio umano», è una delle più importanti città barocche d'Europa ed è considerata, insieme a Milano e Palermo, la capitale italiana dell'Art Nouveau, di cui sono grande esempio, fra l'altro, i suoi innumerevoli e famosi caffè storici, fioriti soprattutto nel periodo risorgimentale e della Belle Époque....",
-                    "*...Dal Museo di Antichità furono separate, negli anni quaranta del Novecento, le collezioni egizie che costituirono il Museo egizio, il più importante d'Europa (nonché il più antico al mondo), in quanto custode della seconda collezione di arte egizia del mondo per vastità e importanza dopo quella del Museo del Cairo....",
-                    "*...Nel 2004 è stato inaugurato il Museo A come Ambiente, il primo in Europa interamente dedicato alle tematiche ambientali....",
-                    "...Club to Club: festival internazionale di musica e arti elettroniche che dal 2006 coinvolge, con la sezione \"Club Europa\", un'importante città europea, con scambio di pubblico, artisti, iniziative;...",
-                    "...Finale della UEFA Europa League 2013-2014 disputatasi allo Juventus Stadium il 14 Maggio 2014 tra il Sevilla Fútbol Club e il Benfica....",
-                    "*...Importante anche il contributo dell'automazione industriale alla crescente internazionalizzazione dell'economia torinese, con la presenza di aziende come Prima Industrie e Comau, con quest'ultima (tra le prime 4 in Europa per fatturato) che realizza in tutto il mondo robot per i principali gruppi automobilistici....",
-                    "...Il 14 maggio 2014 la città ha ospitato la finale di UEFA Europa League tra il Sevilla Fútbol Club e il Benfica...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.686963,
-                    45.073053
-                ]
-            },
-            "properties": {
-                "entity": "Palazzo Reale",
-                "name_location": "Palazzo Reale, Piazzetta Reale, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
-                "class": "tourism",
-                "type": "attraction",
-                "snippet": [
-                    "...Altri tre edifici di altissimo pregio, considerati fra i monumenti-simbolo della città, sono la basilica di Superga, capolavoro Juvarriano in stile tardo-barocco, la Chiesa della Gran Madre di Dio, suggestiva opera in stile neoclassica situata sulle rive del Po, e la Cappella della Sindone, opera di Guarino Guarini contenente il sudario e inserita, insieme al palazzo reale di cui fa parte, nella lista dei patrimoni dell'umanità....",
-                    "...Il Palazzo Reale (antica dimora dei duchi ed in seguito dei re di Casa Savoia);...",
-                    "...Nel comune di Torino si trovano il Palazzo Reale, il Palazzo Madama, la Villa della Regina e il Castello del Valentino....",
-                    "*...Palazzo Reale e la zona di comando (o musei reali) ;...",
-                    "...\"Cinema a Palazzo Reale\". Arena estiva dedicata ai classici del Cinema che si svolge ogni anno, dal 2012, nel Cortile d'Onore di Palazzo Reale...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     7.678905,
                     45.075153
                 ]
@@ -1131,28 +788,6 @@
                 "snippet": [
                     "*...La cattedrale della città è il Duomo di Torino, dedicato a San Giovanni Battista, situata nel centro storico e sede dell'arcidiocesi di Torino....",
                     "*...La rinascimentale cattedrale di San Giovanni Battista del XV secolo (celebre in quanto vi è custodita la Sacra Sindone);..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.684351,
-                    45.068435
-                ]
-            },
-            "properties": {
-                "entity": "Museo Egizio",
-                "name_location": "Museo Egizio, 6, Via Accademia delle Scienze, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
-                "class": "tourism",
-                "type": "museum",
-                "snippet": [
-                    "...Il Museo Egizio (il secondo più importante al mondo dopo quello de Il Cairo);...",
-                    "...Vi sono quattro musei nazionali (Museo del Cinema, Museo dell'automobile, Museo della montagna, Museo del Risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio, l'Armeria Reale, ora ricompresa nei Musei Reali, il Museo d'Arte Orientale, il Museo dell'Astronomia e Planetario, il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport....",
-                    "...Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il Museo del Cinema, il Museo Egizio e il Museo dell'Automobile) o sono in corso di rinnovamento:...",
-                    "...Dal Museo di Antichità furono separate, negli anni quaranta del Novecento, le collezioni egizie che costituirono il Museo egizio, il più importante d'Europa (nonché il più antico al mondo), in quanto custode della seconda collezione di arte egizia del mondo per vastità e importanza dopo quella del Museo del Cairo...."
                 ]
             }
         },
@@ -1222,81 +857,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.223185,
-                    44.8201
+                    7.686713,
+                    45.070225
                 ]
             },
             "properties": {
-                "entity": "Centro",
-                "name_location": "Centro, Via caduti per la libertà, Pilon, Torre Pellice, Torino, Piemonte, 10066, Italia",
-                "class": "tourism",
-                "type": "hotel",
+                "entity": "piazza Castello",
+                "name_location": "Piazza Castello, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
+                "class": "highway",
+                "type": "tertiary",
                 "snippet": [
-                    "...Sede nel 1911 dell'Expo, nel 2006 dei XX Giochi olimpici invernali, dal 2021 (fino ad almeno il 2025) delle ATP Finals e nel 2022 della 66ª edizione dell'Eurovision Song Contest, città natale di alcuni fra i maggiori simboli del Made in Italy nel mondo, tra cui il vermut, i giandujotti, i grissini e il caffè espresso, è il fulcro dell'industria automobilistica italiana, nonché importante centro dell'editoria, del sistema bancario e assicurativo, delle tecnologie dell'informazione, del Cinema, dell'enogastronomia, del settore aerospaziale, del disegno industriale, dello sport, della moda e dell'intelligenza artificiale....",
-                    "...Oltre ai tre corsi d'acqua prima citati che ne incorniciano il territorio, abbiamo la Dora Riparia che taglia la città da ovest a est, scorrendo prossima al centro storico....",
-                    "...La città è al centro di un anfiteatro montuoso che ingloba alcune delle più belle vette alpine:...",
-                    "...A differenza della stragrande maggioranza delle città italiane, che hanno una struttura viaria concentrica, con uno sviluppo di arterie radiali culminanti nel centro cittadino, sede delle principali attività pubbliche, il reticolo viario della città di Torino disegna una pianta a scacchiera, le sue vie cioè si sviluppano in linea retta incrociandosi a 90° con un orientamento simile a quello del castrum romano:...",
-                    "...Un cardo maximus (direzione nord-sud) ed un decumanus maximus (direzione est-ovest), incrociantisi al centro del castrum, e parallele alle quali dovevano svilupparsi tutte le altre vie interne al castrum....",
-                    "...La cattedrale della città è il Duomo di Torino, dedicato a San Giovanni Battista, situata nel centro storico e sede dell'arcidiocesi di Torino....",
-                    "...Quest'ultimo, in particolare, merita attenzione, in quanto situato nel vero centro sociale e geografico della città;...",
-                    "*...Le importanti testimonianze architettoniche di quest'epoca sono ancora percepibili in alcune zone centrali del capoluogo come i quartieri Centro, Crocetta, San Salvario e Borgo Po, ma con un'assoluta predominanza nell'area circostante il primo tratto di Corso Francia, comprendente i quartieri Cit Turin e San Donato....",
-                    "...Il CIF-ILO (Centro Internazionale di Formazione dell'Organizzazione internazionale del lavoro), istituto di perfezionamento per i funzionari dell'agenzia ONU specializzata nella promozione della giustizia sociale e dei diritti del lavoro;...",
-                    "...Il Centro ricerche e innovazione tecnologica Rai ;...",
-                    "...Il Centro sperimentale cinematografico appartenente alla Scuola nazionale di Cinema ....",
-                    "...Nel 1977 fu anche la prima città al mondo dotata di una rete di fibra ottica urbana (lunga 9 km), sperimentata dal centro di ricerca di telecomunicazioni CSELT;...",
-                    "...Centro Scientifico Torinese ....",
-                    "...In passato esistevano anche Radio Flash (che ha chiuso i battenti il 1º luglio 2019 cedendo la sua storica frequenza 97.6 (già 97.7) a Radio Italia Uno ed era affiliata al circuito Popolare Network) e Radio Centro 95 (poi ridenominata Radio Centro Soft FM e chiusa definitivamente nel 2013)....",
-                    "...Torino è tra le sedi principali del Centro di Produzione Televisiva Rai, come quelli di Roma, Milano e Napoli....",
-                    "...Assieme a queste tre sedi, da quando ha iniziato i suoi programmi nel 1954, il centro di Torino (ospitante il Museo della Radio e della Televisione) è stato anche il primo dell'azienda televisiva....",
-                    "...Torino, inoltre, prima che si trasformasse in RAI, già ospitava il centro di direzione dell'EIAR dal 1927....",
-                    "...A San Giusto Canavese è presente un importante centro di produzione cine-televisiva i Telecittà Studios, mentre a Torino c'è il Cineporto, una struttura riservata alle società di produzioni cinematografiche che vengono in città a girare film....",
-                    "...\"VIEW Conference\": evento internazionale incentrato sulla computer grafica, le tecniche interattive, il Cinema digitale, l'animazione 2D/3D, i videogiochi e gli effetti visivi. Si tiene ogni anno al Centro Congressi \"Torino Incontra\" durante la stagione autunnale....",
-                    "...Circoscrizione I: Centro - Crocetta ;...",
-                    "...Alla già preesistente attività di ricerca del Politecnico di Torino, dell'Istituto Mario Boella, dell'Istituto Galileo Ferraris e del Centro Ricerche Fiat, si è affiancata l'attività del distretto informatico Torino Wireless che appartiene alla rete dei distretti italiani riconosciuti dal Ministero dell'Università e della Ricerca....",
-                    "...Un'altra operazione importante è stata la riconversione di una parte della superficie occupata dalla fabbrica di Mirafiori, sostenuta dal progetto Torino Nuova Economia che, anche grazie alla collaborazione con il Politecnico, ospita il Centro del design....",
-                    "...Una delle principali attività economiche della città è l'automotive, con la presenza di importanti aziende come Fiat Chrysler Automobiles e CRF (Centro Ricerche Fiat)....",
-                    "...La città è anche un importante centro per la ricerca e lo sviluppo, con la presenza di Università e centri di ricerca di livello internazionale....",
-                    "...Una menzione speciale, infine, merita lo stadio Filadelfia, Teatro del ciclo di vittorie del Grande Torino negli anni quaranta del XX secolo, oggi rinnovato e ridimensionato come centro sportivo e campo di allenamento del Torino...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.701689,
-                    45.064041
-                ]
-            },
-            "properties": {
-                "entity": "Borgo Po",
-                "name_location": "Farmacia Borgo Po \"Aicardi\", Via Monferrato, Borgo Po, Circoscrizione 8, Torino, Piemonte, 10124, Italia",
-                "class": "amenity",
-                "type": "pharmacy",
-                "snippet": [
-                    "*...Le importanti testimonianze architettoniche di quest'epoca sono ancora percepibili in alcune zone centrali del capoluogo come i quartieri Centro, Crocetta, San Salvario e Borgo Po, ma con un'assoluta predominanza nell'area circostante il primo tratto di Corso Francia, comprendente i quartieri Cit Turin e San Donato....",
-                    "...Circoscrizione VIII: San Salvario - Cavoretto - Borgo Po - Nizza Millefonti - Lingotto - Filadelfia ...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.696206,
-                    45.089791
-                ]
-            },
-            "properties": {
-                "entity": "Cit Turin",
-                "name_location": "Cit turin, Via Candia, Monte Rosa, Circoscrizione 6, Torino, Piemonte, 10154, Italia",
-                "class": "shop",
-                "type": "butcher",
-                "snippet": [
-                    "*...Le importanti testimonianze architettoniche di quest'epoca sono ancora percepibili in alcune zone centrali del capoluogo come i quartieri Centro, Crocetta, San Salvario e Borgo Po, ma con un'assoluta predominanza nell'area circostante il primo tratto di Corso Francia, comprendente i quartieri Cit Turin e San Donato....",
-                    "...Circoscrizione III: Borgo San Paolo - Cenisia - Pozzo Strada - Cit Turin - Borgata Lesna ;..."
+                    "...Il confine francese dista circa 70 km nei pressi del Colle del Moncenisio, mentre sono 206 i chilometri che separano Piazza Castello da Chambery, 222 da Nizza, 250 da Ginevra e 314 da Lione....",
+                    "...Vari resti di abitazioni di epoca imperiale, fra cui le tracce delle domus di via Bellezia, via Santa Chiara, via Bonelli, Piazza Castello, la necropoli nel sottosuolo di Piazza San Carlo e gli edifici pubblici di Piazza Emanuele Filiberto e Corso XI Febbraio....",
+                    "*...La prima testimonianza è l'ordinanza di Carlo Emanuele I di Savoia del 16 giugno 1606 in merito alla costruzione di piazza Castello secondo il progetto di Ascanio Vittozzi che comprendeva portici attorno a tutta la piazza....",
+                    "*...Il portico che unisce piazza Castello con Piazza Vittorio Veneto attraverso via Po sul lato sinistro fu progettato in modo tale da proseguire anche nell'attraversamento delle vie per permettere al re di giungere fino al Po senza bagnarsi in caso di pioggia....",
+                    "...Inoltre, nei periodi festivi, circola una linea speciale, la linea 7 di Piazza Castello, sulla quale circolano vetture storiche....",
+                    "*...Il confine francese dista circa 70 km nei pressi del Colle del Moncenisio, mentre sono 206 i chilometri che separano Piazza Castello da Chambery, 222 da Nizza, 250 da Ginevra e 314 da Lione....",
+                    "*...Vari resti di abitazioni di epoca imperiale, fra cui le tracce delle domus di via Bellezia, via Santa Chiara, via Bonelli, Piazza Castello, la necropoli nel sottosuolo di Piazza San Carlo e gli edifici pubblici di Piazza Emanuele Filiberto e Corso XI Febbraio....",
+                    "*...Inoltre, nei periodi festivi, circola una linea speciale, la linea 7 di Piazza Castello, sulla quale circolano vetture storiche...."
                 ]
             }
         },
@@ -1364,15 +942,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.67074,
-                    45.041112
+                    7.671014,
+                    45.041953
                 ]
             },
             "properties": {
                 "entity": "via Nizza",
                 "name_location": "Via Nizza, Molinette, Circoscrizione 8, Cavoretto, Torino, Piemonte, 10126, Italia",
                 "class": "highway",
-                "type": "residential",
+                "type": "tertiary",
                 "snippet": [
                     "*...Le stazioni ferroviarie di Porta Nuova e Porta Susa vennero congiunte con un percorso porticato attraverso via Nizza, via Sacchi, Corso Vittorio Emanuele II, Corso Vinzaglio e via Cernaia...."
                 ]
@@ -1412,7 +990,8 @@
                 "class": "highway",
                 "type": "primary",
                 "snippet": [
-                    "*...Le stazioni ferroviarie di Porta Nuova e Porta Susa vennero congiunte con un percorso porticato attraverso via Nizza, via Sacchi, Corso Vittorio Emanuele II, Corso Vinzaglio e via Cernaia...."
+                    "*...Le stazioni ferroviarie di Porta Nuova e Porta Susa vennero congiunte con un percorso porticato attraverso via Nizza, via Sacchi, Corso Vittorio Emanuele II, Corso Vinzaglio e via Cernaia....",
+                    "*...Di norma i più antichi, come Corso Vittorio Emanuele, Corso Francia e Corso Regina Margherita, presentano una carreggiata centrale con almeno due corsie per senso di marcia, divisa da alberate dalle altre due carreggiate laterali, dette controviali...."
                 ]
             }
         },
@@ -1511,7 +1090,9 @@
                 "type": "bus_stop",
                 "snippet": [
                     "...Altri tre edifici di altissimo pregio, considerati fra i monumenti-simbolo della città, sono la basilica di Superga, capolavoro Juvarriano in stile tardo-barocco, la Chiesa della Gran Madre di Dio, suggestiva opera in stile neoclassica situata sulle rive del Po, e la Cappella della Sindone, opera di Guarino Guarini contenente il sudario e inserita, insieme al palazzo reale di cui fa parte, nella lista dei patrimoni dell'umanità....",
-                    "...A questi si aggiunge la Basilica di Superga la quale, pur facendo parte del circuito delle residenze sabaude, non è compresa nella lista UNESCO...."
+                    "...A questi si aggiunge la Basilica di Superga la quale, pur facendo parte del circuito delle residenze sabaude, non è compresa nella lista UNESCO....",
+                    "*...Altri tre edifici di altissimo pregio, considerati fra i monumenti-simbolo della città, sono la basilica di Superga, capolavoro Juvarriano in stile tardo-barocco, la Chiesa della Gran Madre di Dio, suggestiva opera in stile neoclassica situata sulle rive del Po, e la Cappella della Sindone, opera di Guarino Guarini contenente il sudario e inserita, insieme al palazzo reale di cui fa parte, nella lista dei patrimoni dell'umanità....",
+                    "*...Definita da Le Corbusier come «...la città con la più bella posizione naturale del mondo», celebrata da numerosi personaggi storici, tra cui Friedrich Nietzsche, Mark Twain e Jean-Jacques Rousseau, il quale descrisse il suo panorama dalla collina di Superga come «...il più bello spettacolo che possa colpire l'occhio umano», è una delle più importanti città barocche d'Europa ed è considerata, insieme a Milano e Palermo, la capitale italiana dell'Art Nouveau, di cui sono grande esempio, fra l'altro, i suoi innumerevoli e famosi caffè storici, fioriti soprattutto nel periodo risorgimentale e della Belle Époque...."
                 ]
             }
         },
@@ -1570,27 +1151,6 @@
                 "type": "public",
                 "snippet": [
                     "*...Cascina Roccafranca ...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.691557,
-                    45.069197
-                ]
-            },
-            "properties": {
-                "entity": "Teatro Stabile",
-                "name_location": "Teatro Stabile di Torino, Via Giuseppe Verdi, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10124, Italia",
-                "class": "amenity",
-                "type": "theatre",
-                "snippet": [
-                    "...La città è inoltre sede di diverse istituzioni teatrali, tra cui la principale è il Teatro Stabile di Torino, dichiarato Teatro Nazionale:...",
-                    "...Fondato nel 1955, secondo in Italia dopo il Teatro Stabile di Milano, gestisce le produzioni stagionali del Carignano, del Gobetti e delle Fonderie Limone di Moncalieri....",
-                    "...Importante, poi, è il Teatro Gobetti, sede principale del sopracitato Teatro stabile cittadino...."
                 ]
             }
         },
@@ -1896,7 +1456,13 @@
                 "class": "amenity",
                 "type": "theatre",
                 "snippet": [
-                    "*...Auditorium \"Gianni Agnelli\" del Lingotto ;..."
+                    "*...Auditorium \"Gianni Agnelli\" del Lingotto ;...",
+                    "...Vi sono inoltre diversi auditorium:...",
+                    "...Auditorium Rai \"Arturo Toscanini\", sede dell'Orchestra sinfonica nazionale della RAI ;...",
+                    "...Auditorium Intesa-Sanpaolo (interno dell'omonimo grattacielo) ;...",
+                    "...Auditorium \"Vivaldi\" (Biblioteca Nazionale) ;...",
+                    "...Educatorio della Provvidenza - Auditorium Orpheus ....",
+                    "...L'ente lirico di Torino è il Teatro Regio, mentre la principale orchestra sinfonica cittadina è l'Orchestra sinfonica nazionale della RAI, che si esibisce all'Auditorium della RAI...."
                 ]
             }
         },
@@ -1935,42 +1501,6 @@
                 "type": "bus_stop",
                 "snippet": [
                     "*...Fra questi il Teatro Balbo e il Teatro di Torino, distrutti durante un bombardamento nel 1943, il Teatro Rossini, bruciato in un incendio nel 1941, i teatri Adua, Gianduja, Gerbino e Arena torinese, smantellati e, infine, il Teatro Nazionale riconvertito a Cinema;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.682657,
-                    45.069036
-                ]
-            },
-            "properties": {
-                "entity": "Cinema",
-                "name_location": "Cinema Lux, Galleria San Federico, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
-                "class": "amenity",
-                "type": "cinema",
-                "snippet": [
-                    "...Sede nel 1911 dell'Expo, nel 2006 dei XX Giochi olimpici invernali, dal 2021 (fino ad almeno il 2025) delle ATP Finals e nel 2022 della 66ª edizione dell'Eurovision Song Contest, città natale di alcuni fra i maggiori simboli del Made in Italy nel mondo, tra cui il vermut, i giandujotti, i grissini e il caffè espresso, è il fulcro dell'industria automobilistica italiana, nonché importante centro dell'editoria, del sistema bancario e assicurativo, delle tecnologie dell'informazione, del Cinema, dell'enogastronomia, del settore aerospaziale, del disegno industriale, dello sport, della moda e dell'intelligenza artificiale....",
-                    "...Tra i monumenti di Torino più noti anche all'estero sono da citare l'ottocentesca Mole Antonelliana, simbolo incontrastato della città, che ospita il Museo nazionale del Cinema (il principale d'Europa);...",
-                    "*...Fra questi il Teatro Balbo e il Teatro di Torino, distrutti durante un bombardamento nel 1943, il Teatro Rossini, bruciato in un incendio nel 1941, i teatri Adua, Gianduja, Gerbino e Arena torinese, smantellati e, infine, il Teatro Nazionale riconvertito a Cinema;...",
-                    "...La Biblioteca nazionale di Torino e la Biblioteca Reale di proprietà dello Stato, la Biblioteca civica centrale e molte collezioni specializzate come la Biblioteca internazionale di Cinema e fotografia Mario Gromo, la Biblioteca Nazionale del Club Alpino Italiano, la Biblioteca della Fondazione Luigi Einaudi, le biblioteche d'arte della Galleria civica d'arte moderna e contemporanea e dell'Accademia Albertina....",
-                    "...Il Centro sperimentale cinematografico appartenente alla Scuola nazionale di Cinema ....",
-                    "...Vi sono quattro musei nazionali (Museo del Cinema, Museo dell'automobile, Museo della montagna, Museo del Risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio, l'Armeria Reale, ora ricompresa nei Musei Reali, il Museo d'Arte Orientale, il Museo dell'Astronomia e Planetario, il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport....",
-                    "...Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il Museo del Cinema, il Museo Egizio e il Museo dell'Automobile) o sono in corso di rinnovamento:...",
-                    "...Giovanni Pastrone vi girò uno dei primi colossal della storia del Cinema:...",
-                    "...Nel 1956 venne aperto il Museo nazionale del Cinema, dapprima ospitato a Palazzo Chiablese e poi, dal 2000, nell'imponente sede della Mole Antonelliana....",
-                    "...Negli anni ottanta un gruppo di professori universitari e critici cinematografici torinesi diede luogo, con il sostegno degli enti locali, alla rassegna cinematografica Festival Cinema Giovani che dal 1997 assunse la denominazione di Torino Film Festival, conquistandosi un punto di riferimento a livello internazionale specialmente per il Cinema sperimentale, secondo in Italia soltanto allo storico Festival di Venezia....",
-                    "...A Torino si svolgono il Torino Gay & Lesbian Film Festival, il Festival Internazionale Cinema delle Donne, il Sottodiciotto Filmfestival legato ai temi dell'adolescenza, CinemAmbiente, la VIEW Conference (in precedenza Virtuality, manifestazione interamente dedicata alla realtà virtuale) e il Piemonte Movie-gLocal Film Festival, dedicato alla cinematografia regionale....",
-                    "...Sono nati a Torino il primo Cinema d'essai italiano (il Romano nella Galleria Subalpina, nel 1971), la principale associazione cinematografica nazionale (l'Aiace Torino) e la prima multisala del Paese (l'Eliseo, nel 1983)....",
-                    "...Nel 2007 è stata fondata a Torino la casa di distribuzione cinematografica italiana Movies Inspired, con sede legale (dal 2014) nello storico Cinema Classico (già Impero - Vittorio Veneto - Empire)....",
-                    "...\"VIEW Conference\": evento internazionale incentrato sulla computer grafica, le tecniche interattive, il Cinema digitale, l'animazione 2D/3D, i videogiochi e gli effetti visivi. Si tiene ogni anno al Centro Congressi \"Torino Incontra\" durante la stagione autunnale....",
-                    "...VIEWFest.: il Festival del Cinema Digitale organizzato da VIEW Conference, si svolge annualmente al Cinema Massimo....",
-                    "...\"Cinema a Palazzo Reale\". Arena estiva dedicata ai classici del Cinema che si svolge ogni anno, dal 2012, nel Cortile d'Onore di Palazzo Reale....",
-                    "...Culla del Cinema italiano, grazie all'associazione Torino Film Commission, la città è diventata un'apprezzata quinta per l'ambientazione e la produzione di film, pubblicità e video musicali....",
-                    "...All'interno della Mole è ospitato il Museo nazionale del Cinema...."
                 ]
             }
         },
@@ -2086,48 +1616,6 @@
                 "type": "tertiary",
                 "snippet": [
                     "*...I più importanti per ampiezza e giro d'affari si svolgono in Piazza Benefica, in Corso Alcide De Gasperi, in via Onorato Vigliani, in corso Svizzera, in Corso Racconigi e in piazza Barcellona...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.683339,
-                    45.079324
-                ]
-            },
-            "properties": {
-                "entity": "Balon",
-                "name_location": "Bar del Balon, 12/F, Via Borgo Dora, Porta Palazzo, Circoscrizione 7, Torino, Piemonte, 10152, Italia",
-                "class": "amenity",
-                "type": "cafe",
-                "snippet": [
-                    "*...Ogni sabato nei pressi si tiene il Balon, un grande Mercato all'aperto dell'usato, che la seconda domenica di ogni mese diventa Gran Balon, in cui si vendono anche oggetti di antiquariato...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.68444,
-                    45.075996
-                ]
-            },
-            "properties": {
-                "entity": "Porta Palazzo",
-                "name_location": "Porta Palazzo, Piazza della Repubblica, Quadrilatero Romano, Circoscrizione 1, Torino, Piemonte, 10122, Italia",
-                "class": "amenity",
-                "type": "marketplace",
-                "snippet": [
-                    "...Negli stessi anni Filippo Juvarra costruì i portici di porta Palazzo....",
-                    "...Il Mercato più famoso è Porta Palazzo (Pòrta Pila in Lingua piemontese), che è il Mercato all'aperto più grande d'Europa....",
-                    "*...Nel 2011 il regista torinese Daniele Gaglianone ha realizzato il film documentario Uomini e mercati centrato sui mercati di Porta Palazzo, Piazza Benefica e Corso Spezia....",
-                    "*...Lazzaro felice. Nelle ultime settimane la regista ha girato la città focalizzando le riprese tra Galleria Umberto I, Porta Palazzo e la periferia nord....",
-                    "*...Negli stessi anni Filippo Juvarra costruì i portici di porta Palazzo...."
                 ]
             }
         },
@@ -2472,7 +1960,8 @@
                 "class": "highway",
                 "type": "track",
                 "snippet": [
-                    "...Per Torino passa la Via Francigena, ramo del Moncenisio...."
+                    "...Per Torino passa la Via Francigena, ramo del Moncenisio....",
+                    "*...L'itinerario, fra i preferiti nel Medioevo, valicato lo spartiacque Francia/Italia al Colle del Moncenisio, giunge dalla Valle di Susa terra delle grandi abbazie come Novalesa, Sacra di San Michele e Sant'Antonio di Ranverso e passando per Torino lungo il Parco Colletta tende a San Mauro Torinese e poi verso Chivasso e successivamente a Vercelli, dove si congiunge con l'altro ramo della Francigena, quella proveniente dal Colle del Gran San Bernardo...."
                 ]
             }
         },
@@ -2510,26 +1999,6 @@
                 "class": "historic",
                 "type": "monument",
                 "snippet": [
-                    "*...L'itinerario, fra i preferiti nel Medioevo, valicato lo spartiacque Francia/Italia al Colle del Moncenisio, giunge dalla Valle di Susa terra delle grandi abbazie come Novalesa, Sacra di San Michele e Sant'Antonio di Ranverso e passando per Torino lungo il Parco Colletta tende a San Mauro Torinese e poi verso Chivasso e successivamente a Vercelli, dove si congiunge con l'altro ramo della Francigena, quella proveniente dal Colle del Gran San Bernardo...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.840156,
-                    45.153161
-                ]
-            },
-            "properties": {
-                "entity": "Francigena",
-                "name_location": "Via Francigena, San Raffaele Cimena, Torino, Piemonte, 10032, Italia",
-                "class": "highway",
-                "type": "track",
-                "snippet": [
-                    "...Per Torino passa la Via Francigena, ramo del Moncenisio....",
                     "*...L'itinerario, fra i preferiti nel Medioevo, valicato lo spartiacque Francia/Italia al Colle del Moncenisio, giunge dalla Valle di Susa terra delle grandi abbazie come Novalesa, Sacra di San Michele e Sant'Antonio di Ranverso e passando per Torino lungo il Parco Colletta tende a San Mauro Torinese e poi verso Chivasso e successivamente a Vercelli, dove si congiunge con l'altro ramo della Francigena, quella proveniente dal Colle del Gran San Bernardo...."
                 ]
             }
@@ -2608,6 +2077,28 @@
                 "type": "museum",
                 "snippet": [
                     "*...Vi sono quattro musei nazionali (Museo del Cinema, Museo dell'automobile, Museo della montagna, Museo del Risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio, l'Armeria Reale, ora ricompresa nei Musei Reali, il Museo d'Arte Orientale, il Museo dell'Astronomia e Planetario, il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.684351,
+                    45.068435
+                ]
+            },
+            "properties": {
+                "entity": "Museo egizio",
+                "name_location": "Museo Egizio, 6, Via Accademia delle Scienze, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "...Il Museo Egizio (il secondo più importante al mondo dopo quello de Il Cairo);...",
+                    "...Vi sono quattro musei nazionali (Museo del Cinema, Museo dell'automobile, Museo della montagna, Museo del Risorgimento) e numerosi altri musei di rilevanza nazionale ed internazionale come il Museo egizio, l'Armeria Reale, ora ricompresa nei Musei Reali, il Museo d'Arte Orientale, il Museo dell'Astronomia e Planetario, il J-Museum a cui si aggiungeva, fino al 2015, il Museo dello sport....",
+                    "...Alcuni musei sono stati ampliati e rinnovati negli ultimi anni (ad esempio il Museo del Cinema, il Museo Egizio e il Museo dell'Automobile) o sono in corso di rinnovamento:...",
+                    "...Dal Museo di Antichità furono separate, negli anni quaranta del Novecento, le collezioni egizie che costituirono il Museo egizio, il più importante d'Europa (nonché il più antico al mondo), in quanto custode della seconda collezione di arte egizia del mondo per vastità e importanza dopo quella del Museo del Cairo...."
                 ]
             }
         },
@@ -2905,26 +2396,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.697399,
-                    45.06001
-                ]
-            },
-            "properties": {
-                "entity": "Monte dei Cappuccini",
-                "name_location": "Al Monte Dei Cappuccini, 12, Salita al CAI Torino, Borgo Po, Circoscrizione 8, Torino, Piemonte, 10131, Italia",
-                "class": "amenity",
-                "type": "restaurant",
-                "snippet": [
-                    "...Ulteriori edifici di rilevanza storica o architettonica comprendono la Chiesa di san Domenico, edificio in stile gotico risalente al 1227, la Chiesa più antica ancora in uso della città di Torino, le \"chiese gemelle\" di piazza San Carlo, ossia San Carlo e Santa Cristina, Santa Maria al Monte dei Cappuccini situata sulla collina omonima e famosa per la vista panoramica e, infine, la Chiesa di Santa Elisabetta uno dei pochissimi esempi di chiese in stile liberty....",
-                    "...Importanti sono poi dal punto di vista storico il Museo nazionale del Risorgimento italiano, presso Palazzo Carignano, e il Museo nazionale della montagna, presso il Monte dei Cappuccini, sulla riva destra del Po...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     7.688691,
                     45.064629
                 ]
@@ -3078,27 +2549,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.648975,
-                    45.200969
-                ]
-            },
-            "properties": {
-                "entity": "Aeroporto di Torino-Caselle",
-                "name_location": "Aeroporto di Torino, Via San Maurizio, Caselle Torinese, Torino, Piemonte, 10072, Italia",
-                "class": "aeroway",
-                "type": "aerodrome",
-                "snippet": [
-                    "*...Un colpo all'italiana. Un gruppo di ladri inglesi arriva a Torino a bordo di tre Mini Cooper per organizzare una rapina ai danni di un convoglio che trasporta i ricavi della FIAT dall'Aeroporto di Torino-Caselle fino alla città....",
-                    "...RA10 Torino - Caselle Torinese - Aeroporto di Torino-Caselle ....",
-                    "...L'Aeroporto di Torino-Caselle, un Aeroporto di medie dimensioni (200-300 ettari, 1-5 milioni di passeggeri all'anno) inaugurato nel 1953...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     7.67221,
                     45.076028
                 ]
@@ -3134,135 +2584,6 @@
                 "type": "pedestrian",
                 "snippet": [
                     "*...Torino violenta. Un poliziesco interamente girato a Torino. Sono numerosi i luoghi riconoscibili della città, come Piazza Statuto, Piazza Cavour e Corso Francia...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.68467,
-                    45.069302
-                ]
-            },
-            "properties": {
-                "entity": "Teatro",
-                "name_location": "Teatro Carignano, 6, Piazza Carignano, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
-                "class": "amenity",
-                "type": "theatre",
-                "snippet": [
-                    "...Resti del Teatro romano;...",
-                    "...La città è inoltre sede di diverse istituzioni teatrali, tra cui la principale è il Teatro Stabile di Torino, dichiarato Teatro Nazionale:...",
-                    "...Fondato nel 1955, secondo in Italia dopo il Teatro Stabile di Milano, gestisce le produzioni stagionali del Carignano, del Gobetti e delle Fonderie Limone di Moncalieri....",
-                    "...Fra i teatri maggiori, con una capienza superiore a 400 posti, vi sono il Teatro Regio, in cui si tenne la prima de La bohème di Puccini, il Teatro Carignano, il Teatro Alfieri e il Teatro Colosseo;...",
-                    "...Importante, poi, è il Teatro Gobetti, sede principale del sopracitato Teatro stabile cittadino....",
-                    "...Alfa Teatro ;...",
-                    "...Teatro Erba ;...",
-                    "...Teatro Gioiello ;...",
-                    "...Teatro Vittoria ;...",
-                    "...Teatro Tangram ;...",
-                    "...Teatro Monterosa ;...",
-                    "...Teatro Agnelli ;...",
-                    "...Teatro Astra ;...",
-                    "...Teatro Araldo ;...",
-                    "...Teatro Cardinal Massaia ;...",
-                    "...Teatro Le Musichall (ex Teatro Juvarra) ;...",
-                    "...Teatro della Caduta ....",
-                    "...Teatro Nuovo ;...",
-                    "...Teatro Marchesa ;...",
-                    "...Teatro Ruggero Leoncavallo ;...",
-                    "...Teatro Principessa Isabella ;...",
-                    "...Teatro del Pilone ;...",
-                    "...Teatro Educatorio della Provvidenza ;...",
-                    "...Teatro Crocetta ;...",
-                    "...Teatro Giulia di Barolo ;...",
-                    "...Teatro Don Pollarolo (Officine Caos) ;...",
-                    "...Casa del Teatro Ragazzi e Giovani ;...",
-                    "...Piccolo Teatro Comico ....",
-                    "...Teatro San Giuseppe ;...",
-                    "...Cubo Teatro ;...",
-                    "...Piccolo Teatro Scalzo ;...",
-                    "...Teatro Espace ;...",
-                    "...Teatro Grande Valdocco ;...",
-                    "...Teatro BellARTE ;...",
-                    "...Atelier Teatro Fisico ....",
-                    "...Fra questi il Teatro Balbo e il Teatro di Torino, distrutti durante un bombardamento nel 1943, il Teatro Rossini, bruciato in un incendio nel 1941, i teatri Adua, Gianduja, Gerbino e Arena torinese, smantellati e, infine, il Teatro Nazionale riconvertito a Cinema;...",
-                    "*...Hannah e le sue sorelle. I protagonisti Holly e David s'incontrano per la prima volta al Metropolitan Opera di New York mentre è in scena il Manon Lescaut di Giacomo Puccini. Le scene all’interno del Teatro, però, sono state girate al Teatro Regio di Torino....",
-                    "...L'ente lirico di Torino è il Teatro Regio, mentre la principale orchestra sinfonica cittadina è l'Orchestra sinfonica nazionale della RAI, che si esibisce all'Auditorium della RAI....",
-                    "...\"Festival delle colline torinesi\": festival di Teatro contemporaneo che si svolge a Torino dal 1996 impegnando fra luglio e agosto diversi spazi della città....",
-                    "...Una menzione speciale, infine, merita lo stadio Filadelfia, Teatro del ciclo di vittorie del Grande Torino negli anni quaranta del XX secolo, oggi rinnovato e ridimensionato come centro sportivo e campo di allenamento del Torino...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.703467,
-                    45.122639
-                ]
-            },
-            "properties": {
-                "entity": "Falchera",
-                "name_location": "Falchera, Strada Cuorgnè, Falchera Vecchia, Circoscrizione 6, Torino, Piemonte, 10156, Italia",
-                "class": "highway",
-                "type": "bus_stop",
-                "snippet": [
-                    "*...A che punto è la notte. Diverse riprese vennero eseguite in zona Falchera....",
-                    "...Circoscrizione VI: Barriera di Milano - Regio Parco - Barca - Bertolla - Falchera - Rebaudengo - Villaretto ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.595433,
-                    45.025236
-                ]
-            },
-            "properties": {
-                "entity": "Sud",
-                "name_location": "Tangenziale Sud, Fornaci, Beinasco, Torino, Piemonte, 10092, Italia",
-                "class": "highway",
-                "type": "motorway",
-                "snippet": [
-                    "...Torino sorge nella pianura delimitata dai fiumi Stura di Lanzo, Sangone e Po (quest'ultimo attraversa la città da sud verso nord), di fronte allo sbocco di alcune vallate alpine:...",
-                    "...Il Monviso, monte sul quale nasce il Po, il Rocciamelone, e i massicci del Gran Paradiso e del Monte Rosa, mentre il Cervino diventa visibile dalla zona sud-est dell'area urbana....",
-                    "...Nell'888 la contea venne assorbita dalla marca di Ivrea e Torino perse il titolo di capitale fino al 940, data della fondazione della Marca di Torino, un ampio territorio che comprendeva gran parte del Piemonte sud-occidentale e la Liguria occidentale....",
-                    "...Dopo il secondo dopoguerra Torino fu il simbolo della crescita economica dell'Italia, tanto che riuscì ad attirare centinaia di migliaia di emigranti dal Sud dell'Italia e dal Veneto per via delle richieste di manodopera negli stabilimenti automobilistici (circa mezzo milione nel ventennio 1951-1971)....",
-                    "...Un cardo maximus (direzione nord-sud) ed un decumanus maximus (direzione est-ovest), incrociantisi al centro del castrum, e parallele alle quali dovevano svilupparsi tutte le altre vie interne al castrum....",
-                    "...La città è sede d'importanti centri dell'ONU, ospitati in un unico campus nella zona sud di Torino....",
-                    "*...Così ridevano. Un fedele ritratto della Torino del boom economico e della forte immigrazione dal Sud....",
-                    "...Circoscrizione II: Santa Rita - Mirafiori Nord - Mirafiori Sud ;...",
-                    "...La tangenzale di Torino è la A55, divisa in Tangenziale Nord e Tangenziale Sud, va da nord est fino a sud est passando in maniera semicircolare da ovest....",
-                    "...Il progetto della linea 2 prevede di collegare la zona nord-est con quella sud-ovest, interscambiando con la linea 1 a Porta Nuova...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.692628,
-                    45.068954
-                ]
-            },
-            "properties": {
-                "entity": "Mole",
-                "name_location": "Sotto La Mole, Via Montebello, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10124, Italia",
-                "class": "amenity",
-                "type": "restaurant",
-                "snippet": [
-                    "...Da citare, in ultimo, il fatto che la Mole Antonelliana fu progettata, inizialmente, come tempio israelitico e solo successivamente riconvertita ad uso civile....",
-                    "...Tra i monumenti di Torino più noti anche all'estero sono da citare l'ottocentesca Mole Antonelliana, simbolo incontrastato della città, che ospita il Museo nazionale del Cinema (il principale d'Europa);...",
-                    "...Nel 1956 venne aperto il Museo nazionale del Cinema, dapprima ospitato a Palazzo Chiablese e poi, dal 2000, nell'imponente sede della Mole Antonelliana....",
-                    "*...Dopo mezzanotte. La città viene mostrata in tutte le sue sfaccettature ed è inoltre possibile ammirare a fondo la Mole, sia internamente che esternamente....",
-                    "*...All'interno della Mole è ospitato il Museo nazionale del Cinema...."
                 ]
             }
         },
@@ -3442,31 +2763,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.692401,
-                    45.071178
-                ]
-            },
-            "properties": {
-                "entity": "Auditorium",
-                "name_location": "Auditorium, Via Gioachino Rossini, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10124, Italia",
-                "class": "highway",
-                "type": "bus_stop",
-                "snippet": [
-                    "...Vi sono inoltre diversi auditorium:...",
-                    "...Auditorium Rai \"Arturo Toscanini\", sede dell'Orchestra sinfonica nazionale della RAI ;...",
-                    "...Auditorium \"Gianni Agnelli\" del Lingotto ;...",
-                    "...Auditorium Intesa-Sanpaolo (interno dell'omonimo grattacielo) ;...",
-                    "...Auditorium \"Vivaldi\" (Biblioteca Nazionale) ;...",
-                    "...Educatorio della Provvidenza - Auditorium Orpheus ....",
-                    "...L'ente lirico di Torino è il Teatro Regio, mentre la principale orchestra sinfonica cittadina è l'Orchestra sinfonica nazionale della RAI, che si esibisce all'Auditorium della RAI...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     7.632421,
                     45.057686
                 ]
@@ -3608,6 +2904,47 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.702657,
+                    45.077302
+                ]
+            },
+            "properties": {
+                "entity": "Cimitero monumentale",
+                "name_location": "Cimitero Monumentale, Corso Novara, Rossini, Circoscrizione 7, Torino, Piemonte, 10153, Italia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "...Fra questi, quello maggiore per importanza e dimensioni è certamente il Cimitero Monumentale, il quale contiene numerosi monumenti funebri di personaggi famosi e di pregevole fattura....",
+                    "*...Simboli massonici sono presenti in molti palazzi e in alcune tombe del Cimitero monumentale di Torino...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.685203,
+                    45.076026
+                ]
+            },
+            "properties": {
+                "entity": "corso Regina Margherita",
+                "name_location": "Corso Regina Margherita, Quadrilatero Romano, Circoscrizione 1, Torino, Piemonte, 10152, Italia",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "...Di norma i più antichi, come Corso Vittorio Emanuele, Corso Francia e Corso Regina Margherita, presentano una carreggiata centrale con almeno due corsie per senso di marcia, divisa da alberate dalle altre due carreggiate laterali, dette controviali....",
+                    "*...Ospitava infatti il patibolo, che rimase per secoli in piazza Statuto e che venne poi spostato dai francesi all'incrocio tra corso Regina Margherita e Via Cigna:...",
+                    "*...Di norma i più antichi, come Corso Vittorio Emanuele, Corso Francia e Corso Regina Margherita, presentano una carreggiata centrale con almeno due corsie per senso di marcia, divisa da alberate dalle altre due carreggiate laterali, dette controviali...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.676598,
                     45.07958
                 ]
@@ -3638,57 +2975,6 @@
                 "type": "ice_rink",
                 "snippet": [
                     "...\"EUROMINERALEXPO\": fiera dedicata a minerali, fossili, pietre preziose e bigiotteria, vero punto di riferimento per studiosi e appassionati di geologia, che si svolge a Torino da oltre cinquant'anni, solitamente il primo fine settimana di Ottobre, ospitata nel corso degli anni in varie sedi, dal vecchio \"Palazzo a Vela\", al Lingotto Fiere, fino al PalaAlpitour...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.666606,
-                    45.031235
-                ]
-            },
-            "properties": {
-                "entity": "Lingotto Fiere",
-                "name_location": "Lingotto Fiere, Via Nizza, Nizza Millefonti, Circoscrizione 8, Torino, Piemonte, 10126, Italia",
-                "class": "amenity",
-                "type": "bicycle_rental",
-                "snippet": [
-                    "*...\"EUROMINERALEXPO\": fiera dedicata a minerali, fossili, pietre preziose e bigiotteria, vero punto di riferimento per studiosi e appassionati di geologia, che si svolge a Torino da oltre cinquant'anni, solitamente il primo fine settimana di Ottobre, ospitata nel corso degli anni in varie sedi, dal vecchio \"Palazzo a Vela\", al Lingotto Fiere, fino al PalaAlpitour....",
-                    "...\"Torino Comics\": salone e mostra Mercato del fumetto, nata nel 1994, che si svolge in primavera al Lingotto Fiere di Torino....",
-                    "*...Torino 2008 World Design Capital: la città nel 2008 è stata la prima \"capitale mondiale del design\". Il titolo, conferito a Copenaghen dall'ICSID (International Council of Societies of Industrial Design), è stato creato appositamente per la Città di Torino per riconosciuti meriti e competenze presenti sul territorio. Contemporaneamente a tale occasione, dal 30 giugno al 2 luglio, al Lingotto Fiere si è svolto il \"XXIII congresso mondiale degli architetti\", accompagnato dalla mostra \"Architetture sensibili\", inaugurata il 26 luglio nel Castello di Rivara...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.666883,
-                    45.031404
-                ]
-            },
-            "properties": {
-                "entity": "Lingotto",
-                "name_location": "Lingotto, Via Nizza, Nizza Millefonti, Circoscrizione 8, Torino, Piemonte, 10126, Italia",
-                "class": "railway",
-                "type": "station",
-                "snippet": [
-                    "*...Lingotto ;...",
-                    "*...Auditorium \"Gianni Agnelli\" del Lingotto ;...",
-                    "*...Ispirandosi sempre a questo film, nell'episodio La zingara di Budapest della serie TV MacGyver, fu riprodotto il famoso inseguimento nel traffico torinese, rifacendo alcune scene ed utilizzando anche scene della pellicola originale, come l'inseguimento sulla pista di collaudo automobilistico sita sul tetto dell'ex stabilimento FIAT del Lingotto....",
-                    "...Inoltre, notevole rilevanza è rivestita dalle stagioni annuali dell'Unione Musicale e di Lingotto Musica, che vantano numerose collaborazioni con prestigiosi solisti e orchestre internazionali....",
-                    "...\"EUROMINERALEXPO\": fiera dedicata a minerali, fossili, pietre preziose e bigiotteria, vero punto di riferimento per studiosi e appassionati di geologia, che si svolge a Torino da oltre cinquant'anni, solitamente il primo fine settimana di Ottobre, ospitata nel corso degli anni in varie sedi, dal vecchio \"Palazzo a Vela\", al Lingotto Fiere, fino al PalaAlpitour....",
-                    "*...\"ARTissima\": fiera dedicata all'arte contemporanea che si tiene al Lingotto verso novembre....",
-                    "*...\"Salone internazionale del libro\": fiera dell'editoria in Italia, che si tiene ogni maggio al Lingotto....",
-                    "*...\"Festival internazionale Terra Madre\": festival biennale fondato nel 2004 da Slow Food presso l'Oval Lingotto sui temi dei modelli di produzione agro-alimentare sostenibili e della salvaguardia della biodiversità, della qualità organolettica ma anche del rispetto dell'ambiente e delle persone. Al Lingotto, in contemporanea, si svolgono il \"Salone internazionale del gusto\" e il \"Salone del vino\"....",
-                    "...\"Torino Comics\": salone e mostra Mercato del fumetto, nata nel 1994, che si svolge in primavera al Lingotto Fiere di Torino....",
-                    "...Campionato mondiale di scherma 2006 svoltosi dal 30 settembre al 7 ottobre 2006 all'interno dell'Oval Lingotto....",
-                    "...Torino 2008 World Design Capital: la città nel 2008 è stata la prima \"capitale mondiale del design\". Il titolo, conferito a Copenaghen dall'ICSID (International Council of Societies of Industrial Design), è stato creato appositamente per la Città di Torino per riconosciuti meriti e competenze presenti sul territorio. Contemporaneamente a tale occasione, dal 30 giugno al 2 luglio, al Lingotto Fiere si è svolto il \"XXIII congresso mondiale degli architetti\", accompagnato dalla mostra \"Architetture sensibili\", inaugurata il 26 luglio nel Castello di Rivara....",
-                    "...Circoscrizione VIII: San Salvario - Cavoretto - Borgo Po - Nizza Millefonti - Lingotto - Filadelfia ...."
                 ]
             }
         },
@@ -3852,29 +3138,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.591655,
-                    45.023118
-                ]
-            },
-            "properties": {
-                "entity": "Mirafiori",
-                "name_location": "Mirafiori, Via Giovanni Falcone, Fornaci, Beinasco, Torino, Piemonte, 10092, Italia",
-                "class": "highway",
-                "type": "bus_stop",
-                "snippet": [
-                    "*...Mirafiori Lunapark. Una cartolina poetica della chiusura dello stabilimento Fiat di Mirafiori....",
-                    "...Circoscrizione II: Santa Rita - Mirafiori Nord - Mirafiori Sud ;...",
-                    "*...A Grugliasco vengono prodotte Ghibli e Quattroporte, mentre nello stabilimento di Mirafiori viene prodotta, dall'inizio del 2016, la nuova Maserati Levante....",
-                    "*...Un'altra operazione importante è stata la riconversione di una parte della superficie occupata dalla fabbrica di Mirafiori, sostenuta dal progetto Torino Nuova Economia che, anche grazie alla collaborazione con il Politecnico, ospita il Centro del design....",
-                    "*...Torino Mirafiori - Il primo scalo aereo della città fu quello di Mirafiori, costruito per scopi militari e inaugurato nel 1911. L'Aeroporto, a causa dei forti danni strutturali subiti durante i bombardamenti della seconda guerra mondiale, venne dismesso nel 1947 e l'area venne data in gestione al CNR fino all'anno 1976, quando venne convertita a Parco pubblico intitolato a Gustavo Colonnetti...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     7.685704,
                     45.068217
                 ]
@@ -4001,33 +3264,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.65345,
-                    45.124546
-                ]
-            },
-            "properties": {
-                "entity": "Nord",
-                "name_location": "Tangenziale Nord, Rigola, Altessano, Venaria Reale, Torino, Piemonte, 10148, Italia",
-                "class": "highway",
-                "type": "motorway",
-                "snippet": [
-                    "...Torino sorge nella pianura delimitata dai fiumi Stura di Lanzo, Sangone e Po (quest'ultimo attraversa la città da sud verso nord), di fronte allo sbocco di alcune vallate alpine:...",
-                    "...Il 13 settembre 2008 l'Osservatorio Meteorologico di Caselle Torinese, 14 km a nord-ovest di Torino, registrò una pioggia temporalesca di 220 mm in sei ore, quantitativo senza precedenti noti nella pianura torinese....",
-                    "...Un cardo maximus (direzione nord-sud) ed un decumanus maximus (direzione est-ovest), incrociantisi al centro del castrum, e parallele alle quali dovevano svilupparsi tutte le altre vie interne al castrum....",
-                    "...Lazzaro felice. Nelle ultime settimane la regista ha girato la città focalizzando le riprese tra Galleria Umberto I, Porta Palazzo e la periferia nord....",
-                    "...Circoscrizione II: Santa Rita - Mirafiori Nord - Mirafiori Sud ;...",
-                    "...Torino presenta un tasso di disoccupazione tra i più alti del Nord Italia, attestatosi nel 2014 al 12,9%, con un andamento che a partire dal 2008 ha seguito quello medio nazionale....",
-                    "...Il sito internazionale di viaggi eDreams ha designato Torino come una delle mete turistiche più importanti a livello mondiale per il 2017 e come prima tappa turistica europea, definendola inoltre la capitale culturale del Nord Italia....",
-                    "...La tangenzale di Torino è la A55, divisa in Tangenziale Nord e Tangenziale Sud, va da nord est fino a sud est passando in maniera semicircolare da ovest....",
-                    "*...La tratta urbana di competenza del GTT è quella che parte da Torino Dora e che va sino alla periferia Nord al confine con il comune di Venaria Reale (direzione Caselle Torinese - Aeroporto Sandro Pertini - Ceres)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     7.706043,
                     45.062907
                 ]
@@ -4096,33 +3332,6 @@
                 "type": "residential",
                 "snippet": [
                     "*...Le linee ferroviarie principali che si dipartono da Torino sono quelle che vanno verso Genova (via Asti e Alessandria), verso Milano (via Novara e Vercelli) e verso la Francia (via Bardonecchia e il Traforo ferroviario del Frejus) e Ventimiglia (via Cuneo e il Traforo ferroviario del Colle di Tenda)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.661067,
-                    45.119978
-                ]
-            },
-            "properties": {
-                "entity": "Aeroporto",
-                "name_location": "Strada dell'Aeroporto, Barriera di Lanzo, Circoscrizione 5, Torino, Piemonte, 10148, Italia",
-                "class": "highway",
-                "type": "secondary",
-                "snippet": [
-                    "...Un colpo all'italiana. Un gruppo di ladri inglesi arriva a Torino a bordo di tre Mini Cooper per organizzare una rapina ai danni di un convoglio che trasporta i ricavi della FIAT dall'Aeroporto di Torino-Caselle fino alla città....",
-                    "...RA10 Torino - Caselle Torinese - Aeroporto di Torino-Caselle ....",
-                    "...La tratta urbana di competenza del GTT è quella che parte da Torino Dora e che va sino alla periferia Nord al confine con il comune di Venaria Reale (direzione Caselle Torinese - Aeroporto Sandro Pertini - Ceres)....",
-                    "*...L'Aeroporto di Torino-Caselle, un Aeroporto di medie dimensioni (200-300 ettari, 1-5 milioni di passeggeri all'anno) inaugurato nel 1953....",
-                    "...È presente anche l'Aeroporto di Torino-Cuneo, in provincia di Cuneo, che fa riferimento al capoluogo piemontese come secondo Aeroporto del Piemonte....",
-                    "...In corso Marche, inoltre, è presente l'Aeroporto di Torino-Aeritalia:...",
-                    "...Inaugurato nel 1916, dopo la costruzione dell'Aeroporto di Caselle è rimasto in uso come struttura di aviazione generale e da turismo, affiancato da una scuola di volo per aerei ed elicotteri e dalla sede dei velivoli di elisoccorso e protezione civile....",
-                    "*...Torino Mirafiori - Il primo scalo aereo della città fu quello di Mirafiori, costruito per scopi militari e inaugurato nel 1911. L'Aeroporto, a causa dei forti danni strutturali subiti durante i bombardamenti della seconda guerra mondiale, venne dismesso nel 1947 e l'area venne data in gestione al CNR fino all'anno 1976, quando venne convertita a Parco pubblico intitolato a Gustavo Colonnetti....",
-                    "...Torino Piossasco - Aeroporto Cerrina (Codice ICAO: LILT)...."
                 ]
             }
         },
@@ -4270,45 +3479,14 @@
                 ]
             },
             "properties": {
-                "entity": "Via Roma",
+                "entity": "via Roma",
                 "name_location": "Via Roma, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
                 "class": "highway",
                 "type": "pedestrian",
                 "snippet": [
-                    "*...Il primo progetto per una rete metropolitana nella città di Torino risale agli anni venti del XX secolo, su idea dell'imprenditore biellese Riccardo Gualino e ripreso nel 1931 da Marcello Piacentini, nel contesto della grande ristrutturazione di Via Roma con la creazione di un vano sotterraneo adatto al transito di mezzi;...",
-                    "...Lo spazio sottostante la via Roma, da p.za San Carlo a p.za Castello, venne adibito a parcheggio pubblico a pagamento...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.685221,
-                    45.070444
-                ]
-            },
-            "properties": {
-                "entity": "Castello",
-                "name_location": "Castello, Centro, Circoscrizione 1, Torino, Piemonte, Italia",
-                "class": "highway",
-                "type": "footway",
-                "snippet": [
-                    "...Il confine francese dista circa 70 km nei pressi del Colle del Moncenisio, mentre sono 206 i chilometri che separano Piazza Castello da Chambery, 222 da Nizza, 250 da Ginevra e 314 da Lione....",
-                    "...Il più celebre era l'Allea Oscura, oggi scomparsa, che collegava la porta Nuova con il Castello del Valentino....",
-                    "...Vari resti di abitazioni di epoca imperiale, fra cui le tracce delle domus di via Bellezia, via Santa Chiara, via Bonelli, Piazza Castello, la necropoli nel sottosuolo di Piazza San Carlo e gli edifici pubblici di Piazza Emanuele Filiberto e Corso XI Febbraio....",
-                    "...Palazzo Madama e Casaforte degli Acaja, il cui corpo centrale fu costruito fra i secoli XIII e XV in stile gotico ampliando e inglobando la struttura dell'originale Porta Decumana d'epoca romana e conferendo al palazzo l'aspetto di un castello, che verrà completato nei secoli successivi con la facciata settecentesca dello Juvarra;...",
-                    "...Originariamente si trattava della porta orientale, trasformata in castello nel Medioevo con l'aggiunta di due torri;...",
-                    "...Nel comune di Torino si trovano il Palazzo Reale, il Palazzo Madama, la Villa della Regina e il Castello del Valentino....",
-                    "...La prima testimonianza è l'ordinanza di Carlo Emanuele I di Savoia del 16 giugno 1606 in merito alla costruzione di piazza Castello secondo il progetto di Ascanio Vittozzi che comprendeva portici attorno a tutta la piazza....",
-                    "...Il portico che unisce piazza Castello con Piazza Vittorio Veneto attraverso via Po sul lato sinistro fu progettato in modo tale da proseguire anche nell'attraversamento delle vie per permettere al re di giungere fino al Po senza bagnarsi in caso di pioggia....",
-                    "...Castello del Valentino ;...",
-                    "...Dal grande platano del Parco della Tesoriera (660 cm di circonferenza del tronco, oltre due secoli di vita) ai platani del Parco del Valentino, dalle metasequoie del Giardino Roccioso inaugurato nel 1961 agli alberi più annosi dell'Orto Botanico fondato nel 1729, adiacente alle mura del Castello del Valentino....",
-                    "...Considerando che la vicina Rivoli ospita nell'omonimo castello il Museo d'Arte Contemporanea, Torino può essere considerata come il più importante polo museale italiano per l'arte contemporanea....",
-                    "...Torino 2008 World Design Capital: la città nel 2008 è stata la prima \"capitale mondiale del design\". Il titolo, conferito a Copenaghen dall'ICSID (International Council of Societies of Industrial Design), è stato creato appositamente per la Città di Torino per riconosciuti meriti e competenze presenti sul territorio. Contemporaneamente a tale occasione, dal 30 giugno al 2 luglio, al Lingotto Fiere si è svolto il \"XXIII congresso mondiale degli architetti\", accompagnato dalla mostra \"Architetture sensibili\", inaugurata il 26 luglio nel Castello di Rivara....",
-                    "...Inoltre, nei periodi festivi, circola una linea speciale, la linea 7 di Piazza Castello, sulla quale circolano vetture storiche....",
-                    "*...Lo spazio sottostante la via Roma, da p.za San Carlo a p.za Castello, venne adibito a parcheggio pubblico a pagamento...."
+                    "...Il primo progetto per una rete metropolitana nella città di Torino risale agli anni venti del XX secolo, su idea dell'imprenditore biellese Riccardo Gualino e ripreso nel 1931 da Marcello Piacentini, nel contesto della grande ristrutturazione di Via Roma con la creazione di un vano sotterraneo adatto al transito di mezzi;...",
+                    "...Lo spazio sottostante la via Roma, da p.za San Carlo a p.za Castello, venne adibito a parcheggio pubblico a pagamento....",
+                    "*...Il primo progetto per una rete metropolitana nella città di Torino risale agli anni venti del XX secolo, su idea dell'imprenditore biellese Riccardo Gualino e ripreso nel 1931 da Marcello Piacentini, nel contesto della grande ristrutturazione di Via Roma con la creazione di un vano sotterraneo adatto al transito di mezzi;..."
                 ]
             }
         },
