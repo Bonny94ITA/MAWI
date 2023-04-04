@@ -6,32 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.995782,
-                    53.555069
-                ]
-            },
-            "properties": {
-                "entity": "Alster",
-                "name_location": "Alsterfontäne, Ballindamm, Altstadt, Hamburg-Mitte, Amburgo, 20095, Germania",
-                "class": "tourism",
-                "type": "attraction",
-                "snippet": [
-                    "*...Amburgo si trova nel punto in cui i fiumi Alster e Bille sfociano nell'Elba, che  più a nord-ovest sfocia a sua volta nel Mare del Nord....",
-                    "*...Il centro della città circonda due laghi artificiali formati dall'Alster:...",
-                    "...Il lago Binnenalster (la parte di fiume che si trovava dentro le antiche mura della città), e il lago Außenalster (Alster esterno)....",
-                    "*...La fortificazione (Hammaburg) sorgeva sul fondo di una palude fra l'Alster e l'Elba e fungeva da difesa contro le invasioni slave....",
-                    "*...La sede del club era localizzata in un lago formato dal fiume Alster nella parte meridionale della città, adiacente a una spiaggia balneare....",
-                    "...Da centinaia di anni i cigni che frequentano la città (detti Alsterschwäne, \"cigni dell'Alster\") sono particolarmente protetti e tutelati, sia dalla popolazione sia dalle leggi, e il loro speciale accudimento nel periodo invernale è una delle caratteristiche celebri di Amburgo....",
-                    "*...Außenalster, un lago artificiale di 164 ettari alimentato dal fiume Alster;...",
-                    "*...Binnenalster, un lago artificiale più piccolo (18 ettari) alimentato anch'esso dal fiume Alster;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     10.043016,
                     53.543539
                 ]
@@ -64,94 +38,6 @@
                     "*...Il lago Binnenalster (la parte di fiume che si trovava dentro le antiche mura della città), e il lago Außenalster (Alster esterno)....",
                     "*...La maggior parte di essi attraversa i numerosissimi canali (chiamati Fleete) che si diramano dai laghi artificiali Außenalster e Binnenalster....",
                     "*...Außenalster, un lago artificiale di 164 ettari alimentato dal fiume Alster;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.989757,
-                    53.544641
-                ]
-            },
-            "properties": {
-                "entity": "Europa",
-                "name_location": "Europa, Auf dem Sande, Altstadt, Hamburg-Mitte, Amburgo, 20457, Germania",
-                "class": "tourism",
-                "type": "artwork",
-                "snippet": [
-                    "...La franchigia doganale, unita alla vicinanza alle principali rotte commerciali del Mare del Nord e del Mar Baltico, fecero in breve tempo di Amburgo il maggior porto dell'Europa settentrionale....",
-                    "*...Amburgo conobbe il suo periodo di maggior crescita durante la seconda metà del XIX secolo, quando la sua popolazione crebbe di oltre quattro volte fino a raggiungere gli 800 000 abitanti e diventando il terzo porto d'Europa grazie alle rotte commerciali sull'Atlantico....",
-                    "...Dopo la riunificazione tedesca nel 1990 e l'ingresso di alcuni paesi dell'Europa orientale e dei Paesi Baltici all'Unione europea nel 2004, Amburgo e il suo porto cominciarono a coltivare l'ambizione di riconquistare il primato come porto per le navi da container e centro di scambi commerciali....",
-                    "*...Il più significativo contributo all'economia della città stato è costituito dal porto di Amburgo, secondo solo a quello di Rotterdam in Europa e al nono posto nel mondo con un trasporto di 9,8 milioni di TEU e 134 milioni di tonnellate di merci nel 2007....",
-                    "*...Dopo la riunificazione tedesca Amburgo ha recuperato la parte orientale del proprio hinterland, diventando di gran lunga il porto più in crescita di tutta Europa....",
-                    "*...L'industria pesante include la produzione di acciaio, alluminio e la più grande fabbrica di rame d'Europa e numerosi cantieri navali come quelli di Blohm + Voss....",
-                    "*...Amburgo ha il più grande porto tedesco, situato lungo l'Elba, e secondo porto in Europa dopo quello di Rotterdam, avendo superato quello di Anversa nel 2012....",
-                    "*...A livello ferroviario rappresenta un importante nodo, con il più grande scalo di smistamento dell'Europa, quello di Maschen, situato a sud della città....",
-                    "...In precedenza sono esistiti anche gli Hamburg Sea Devils, che militavano in NFL Europa e hanno vinto un World Bowl...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.987634,
-                    53.516195
-                ]
-            },
-            "properties": {
-                "entity": "Atlantico",
-                "name_location": "O Atlantico, 26, Veringstraße, Reiherstiegviertel, Wilhelmsburg, Hamburg-Mitte, Amburgo, 21107, Germania",
-                "class": "amenity",
-                "type": "restaurant",
-                "snippet": [
-                    "*...Amburgo conobbe il suo periodo di maggior crescita durante la seconda metà del XIX secolo, quando la sua popolazione crebbe di oltre quattro volte fino a raggiungere gli 800 000 abitanti e diventando il terzo porto d'Europa grazie alle rotte commerciali sull'Atlantico....",
-                    "...Amburgo ha un clima oceanico, influenzato dalla sua vicinanza alla costa e dalle influenze marittime che hanno origine nell'Oceano Atlantico...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.015746,
-                    53.582936
-                ]
-            },
-            "properties": {
-                "entity": "Africa",
-                "name_location": "I.T.E.M.S. AFRICA GmbH & Co. KG, 8b, Forsmannstraße, Jarrestadt, Winterhude, Hamburg-Nord, Amburgo, 22303, Germania",
-                "class": "office",
-                "type": "company",
-                "snippet": [
-                    "*...Sotto la direzione di Albert Ballin la Hamburg America Line divenne, a cavallo del secolo, la più grande compagnia di trasporti transatlantici, e Amburgo divenne sede di numerose compagnie di trasporti diretti verso il Sud America, l'Africa, l'India e l'Asia orientale....",
-                    "...L'Afrika-Haus, un Museo dedicato all'Africa;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.011388,
-                    53.552065
-                ]
-            },
-            "properties": {
-                "entity": "Est",
-                "name_location": "EST Lorek - Ekspresowo Solidnie Tanio, Adenauerallee, St. Georg, Hamburg-Mitte, Amburgo, 20097, Germania",
-                "class": "office",
-                "type": "travel_agent",
-                "snippet": [
-                    "...Le due rive del fiume sono collegate tramite ponti a est e tramite due tunnel....",
-                    "*...Era anche il porto più utilizzato da tedeschi e europei dell'Est per emigrare nel Nuovo Mondo e fu sede di numerose comunità di commercio da tutto il mondo (sorse ad esempio una piccola Chinatown ad Altona)....",
-                    "...Nel dopoguerra, la Cortina di ferro - a soli  a est di Amburgo - separò la città dalla maggior parte del suo retroterra e ridusse ulteriormente l'attività di commercio globale...."
                 ]
             }
         },
@@ -651,26 +537,6 @@
                 "type": "arts_centre",
                 "snippet": [
                     "*...La nuova Elbphilharmonie è la sala da concerto dell'Orchestra sinfonica della NDR, mentre i Symphoniker si esibiscono nella vecchia Musikhalle, oggi chiamata Laeiszhalle...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.860883,
-                    53.558165
-                ]
-            },
-            "properties": {
-                "entity": "Botanischer Garten Hamburg",
-                "name_location": "Klein Flottbek (Botanischer Garten), Ohnhorststraße, Osdorf, Altona, Amburgo, 22609, Germania",
-                "class": "railway",
-                "type": "station",
-                "snippet": [
-                    "...All'interno del Parco si trovano diversi giardini tematici, il più grande Giardino giapponese della Germania e l'Alter Botanischer Garten Hamburg, un Giardino botanico storico che ora consiste principalmente in serre....",
-                    "...Il Botanischer Garten Hamburg è un moderno Giardino botanico gestito dall'Università di Amburgo...."
                 ]
             }
         },

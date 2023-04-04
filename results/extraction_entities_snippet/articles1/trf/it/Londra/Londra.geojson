@@ -6,54 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.095582,
-                    51.527132
-                ]
-            },
-            "properties": {
-                "entity": "Europa",
-                "name_location": "Europa Place, Saint Luke's, Finsbury, London Borough of Islington, Londra, Greater London, Inghilterra, EC1V 3RH, Regno Unito",
-                "class": "highway",
-                "type": "residential",
-                "snippet": [
-                    "*...La sua estensione territoriale la rende la terza città più estesa d'Europa, preceduta da Mosca e Istanbul....",
-                    "*...È anche sede del più antico sistema di metropolitana del mondo, la London Underground (The Tube) che è anche la più estesa d'Europa....",
-                    "*...Dal 1950 in poi Londra divenne la meta di un gran numero di immigrati, in gran parte provenienti da paesi del Commonwealth come Giamaica, India, Bangladesh e Pakistan, rendendola una delle città più internazionali d'Europa....",
-                    "...Ugonotti, ebrei dell'Europa orientale e ciprioti sono esempi di migrazioni dovute a problemi di sicurezza, invece irlandesi, bengalesi e indiani possono essere riportati come esempi di migrazione dovuta a migliori aspettative economiche....",
-                    "...L'Università di Londra, con oltre 100 000 studenti, risulta essere una delle più grandi Università d'Europa....",
-                    "*...Central London\nLa City, detta anche Square Mile (Miglio Quadrato), è il principale distretto finanziario del Regno Unito, d'Europa ed uno dei principali del mondo....",
-                    "*...L'edificio più alto di Londra attualmente è The Shard, una gigantesca piramide irregolare, progettata dall'architetto italiano Renzo Piano, che è alta 310 metri, facendola il secondo più alto edificio d'Europa....",
-                    "*...Londra è collegata alla rete ferroviaria nazionale, all'Europa e a tutti i suoi aeroporti da circa 50 stazioni ferroviarie, disseminate per la città....",
-                    "...Heathrow - il principale per i voli internazionali, a  a ovest della città. Scalo di alcune delle più grandi compagnie aeree (British Airways, Virgin Atlantic Airways, Bmi British Midland), racchiude 5 terminal, facilmente raggiungibili sia in treno (Heathrow Express, dalla stazione di Paddington) sia con la Piccadilly line (Underground). Nel 2016, circa 75,5 milioni di passeggeri sono passati da questo Aeroporto, ponendolo al primo posto come Aeroporto più trafficato d'Europa....",
-                    "...London Monarchs (attivi in NFL Europa) ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.177395,
-                    51.502274
-                ]
-            },
-            "properties": {
-                "entity": "Asia",
-                "name_location": "Asia, South Carriage Drive, Knightsbridge, Londra, Greater London, Inghilterra, SW7 5ET, Regno Unito",
-                "class": "tourism",
-                "type": "artwork",
-                "snippet": [
-                    "*...Sede della prima esposizione universale della storia (Expo 1851) e di tre edizioni dei Giochi olimpici (1908, 1948 e 2012), è la terza città più visitata al mondo dal turismo internazionale, dopo Hong Kong e Bangkok in Asia ed è considerata una delle capitali mondiali della moda....",
-                    "...Il 20,9% dei londinesi è invece di origine asiatica, ed è costituito soprattutto da indiani (6,6% della popolazione totale), pakistani (2,7%), bengalesi (2,7%), cinesi (1,5%), arabi (1,3%) e \"altri asiatici\" (4,9%, provenienti soprattutto da altri paesi dell'Asia meridionale)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -0.124481,
                     51.499389
                 ]
@@ -159,28 +111,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.132087,
-                    51.688534
-                ]
-            },
-            "properties": {
-                "entity": "M25",
-                "name_location": "M25, London Borough of Enfield, Londra, Greater London, Inghilterra, EN6 5QT, Regno Unito",
-                "class": "highway",
-                "type": "motorway",
-                "snippet": [
-                    "*...Tuttavia viene indicata come \"Londra\" il territorio interno al raccordo anulare M25, che è poco più grande della Grande Londra ufficiale e conta una popolazione di circa 8 milioni di abitanti....",
-                    "*...La circonvallazione interna (intorno al centro della città), le strade periferiche a nord e sud e l'anello autostradale esterno (M25) che circonda la città offrono una serie di percorsi alternativi....",
-                    "...L'M25 è la più lunga autostrada circolare del mondo e si estende per  di lunghezza....",
-                    "...Londra è nota per la sua congestione del traffico, l'autostrada M25 risulta il tratto più trafficato del paese...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -0.123377,
                     51.511692
                 ]
@@ -257,7 +187,19 @@
                 "snippet": [
                     "...Nell'XI secolo re Edoardo il Confessore rifondò e ricostruì l'Abbazia di Westminster e Westminster, posta a breve distanza da Londra, divenne la preferita tra le residenze reali....",
                     "*...La Chiesa di Santa Margherita è una Chiesa anglicana che si trova nel quartiere di City of Westminster in Parliament Square, accanto all'Abbazia di Westminster e di fronte al Palazzo di Westminster....",
-                    "...Alla periferia della City of Westminster vi è l'Abbazia di Westminster, dove, tradizionalmente, i re d'Inghilterra vengono incoronati e sepolti...."
+                    "...Alla periferia della City of Westminster vi è l'Abbazia di Westminster, dove, tradizionalmente, i re d'Inghilterra vengono incoronati e sepolti....",
+                    "...Londra si trova nel sud-est della Gran Bretagna, sulle rive del fiume Tamigi a poche ore dal Passo di Calais, che separa il Regno Unito dalla Francia attraverso il canale della Manica....",
+                    "...Il fiume, che l'attraversa scorrendo da ovest a est, ha avuto un'enorme influenza sullo sviluppo della città....",
+                    "...Ad est il porto di Londra fu ampliato a valle....",
+                    "...La cattedrale ha una base a croce allineata in direzione est-ovest....",
+                    "*...Negli ultimi anni, l'eccessiva congestione della City ha fatto emergere come distretto finanziario alternativo la zona di Canary Wharf, nella parte Est di Londra (East London)....",
+                    "...Piccadilly è un'importante ed elegante arteria del cuore che congiunge Piccadilly Circus a est con Hyde Park Corner a ovest....",
+                    "...Un poco più a est, nel distretto di Newham, sorgono l'Aeroporto di Londra-City e l'ExCeL Exhibition Centre....",
+                    "...Sempre qui vi è ubicato il quartiere di Chinatown della città (a Soho) e un po' più ad est vi è Covent Garden, un edificio che ospita numerosi negozi....",
+                    "...City - il quinto per traffico, è principalmente dedicato al traffico di jet privati anche se non esclusivo. Questo Aeroporto è il più vicino alla città ed è situato a  ad est del centro della città. Circa 4,5 milioni di passeggeri hanno usato questo Aeroporto nel 2016....",
+                    "...Southend - il sesto per traffico, è il più piccolo e distante da Londra, situato nella contea dell'Essex, vicino alla costa, a  a est dalla capitale. Nato anch'esso come Aeroporto militare, gestisce pochi voli, anche internazionali, senza però raggiungere il milione di passeggeri l'anno. Anche per questo Aeroporto è previsto un progetto di ampliamento che dovrebbe incrementare il flusso di passeggeri fino a raggiungere i 2 milioni di passeggeri l'anno....",
+                    "...La Docklands Light Railway (DLR) è un servizio ferroviario leggero operante nella zona est di Londra....",
+                    "...Si estende a nord fino a Stratford, a sud fino a Lewisham, ad est fino a Woolwich Arsenal, in apertura nel 2009, e si collega col centro alle stazioni di Bank (Città di Londra) e Tower Gateway, vicino alla stazione di Tower Hill (Underground)...."
                 ]
             }
         },
@@ -277,31 +219,6 @@
                 "type": "attraction",
                 "snippet": [
                     "*...Nel 1097 Guglielmo II iniziò la costruzione della Westminster Hall, vicino all'omonima abbazia...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.125142,
-                    51.514958
-                ]
-            },
-            "properties": {
-                "entity": "Torre",
-                "name_location": "La Torre, Endell Street, Seven Dials, Bloomsbury, Camden, Londra, Greater London, Inghilterra, WC2H 9RE, Regno Unito",
-                "class": "amenity",
-                "type": "cafe",
-                "snippet": [
-                    "...Guglielmo fece costruire la Torre di Londra, il primo dei numerosi castelli normanni in Inghilterra ad essere ricostruito in pietra, posto nell'angolo sud-orientale della città per intimidire gli abitanti nativi....",
-                    "*...Durante il XII secolo le istituzioni del governo centrale, che fino ad allora aveva accompagnato la corte reale mentre si muoveva in tutto il paese, crebbero in dimensioni e si stabilirono a Westminster, il tesoro reale fu spostato da Winchester alla Torre....",
-                    "...Poche strutture antecedenti al grande incendio del 1666 sono sopravvissute in città, fatta eccezione per alcuni resti dell'epoca romana e dell'epoca Tudor e la Torre di Londra, un complesso costruito nel Medioevo (1078) e composto da diversi edifici fortificati che nel tempo sono stati usati come fortezza, polveriera, palazzo reale e prigione per detenuti di famiglie nobili....",
-                    "...A poca distanza il Palazzo di Westminster con la torre del Big Ben è la sede del parlamento del Regno Unito....",
-                    "...Altre importanti attrazioni turistiche includono la St Paul's Cathedral, la National Gallery, il Bankside di Southwark con il Globe Theatre, la Tate Modern e il London Bridge, il Tower Bridge e la Torre di Londra, Tate Britain, il British Museum a Bloomsbury....",
-                    "...Torre di Londra;...",
-                    "...Il controllo dei servizi dei moli più importanti, concentrati dalla zona della Tate Gallery fino alla riva nei pressi della Torre di Londra, più Greenwich, è affidato alla London River Services (LRS), controllata dalla Transport for London (TfL) e dalla più grande Greater London Authority (GLA), la quale ha gradualmente acquisito nel 1999 l'autorità di giurisdizione sugli attracchi precedentemente controllati dalla Port of London Authority (PLA), e che provvede ora alla costruzione di nuovi attracchi e allo sviluppo dei trasporti fluviali londinesi...."
                 ]
             }
         },
@@ -373,28 +290,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.279603,
-                    51.556069
-                ]
-            },
-            "properties": {
-                "entity": "Wembley",
-                "name_location": "Stadio di Wembley, Pacific Crescent, London Borough of Brent, Londra, Greater London, Inghilterra, HA9 0SL, Regno Unito",
-                "class": "tourism",
-                "type": "attraction",
-                "snippet": [
-                    "*...Subito dopo la guerra, presso lo stadio di Wembley si tennero le Olimpiadi estive del 1948....",
-                    "...Londra ha numerose sedi per i concerti rock e pop, tra cui grandi arene, come Earls Court, Wembley Arena e l'O2 Arena, così come molte medie imprese locali, come la Brixton Academy e l'Hammersmith Apollo....",
-                    "...Dal 1924, lo Stadio di Wembley originale era la sede della nazionale inglese di calcio e servì come sede per la finale di FA Cup così come per quella della coppa di rugby....",
-                    "*...Il nuovo stadio di Wembley serve esattamente le stesse finalità e ha una capacità di 90 000 posti...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -0.128713,
                     51.502766
                 ]
@@ -433,22 +328,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.023869,
-                    51.507634
+                    -0.072403,
+                    51.510656
                 ]
             },
             "properties": {
                 "entity": "Docklands",
-                "name_location": "Museum of London Docklands, Hertsmere Road, Canary Wharf, Poplar, London Borough of Tower Hamlets, Londra, Greater London, Inghilterra, E14 4AL, Regno Unito",
-                "class": "tourism",
-                "type": "museum",
+                "name_location": "Docklands Light Railway, Mansell Street, East Smithfield, Whitechapel, London Borough of Tower Hamlets, Londra, Greater London, Inghilterra, E1 8AX, Regno Unito",
+                "class": "railway",
+                "type": "light_rail",
                 "snippet": [
                     "*...Il porto principale di Londra si trasferì a valle di Felixstowe e Tilbury e l'area dei Docklands che divenne un centro residenziale e direzionale moderno....",
                     "*...Docklands\nI docks di Londra, detti Docklands, sull'Isle of Dogs, si sono sviluppati enormemente a partire dai primi anni ottanta....",
                     "...La London Docklands Development Corporation (LDDC) venne fondata nel 1981 per incoraggiare il processo....",
                     "...La ferrovia leggera (Docklands Light Railway, o DLR) fa da collegamento alla metropolitana di Londra, alle stazioni di Bank, Shadwell, Canning Town e Stratford....",
                     "...Il trasporto pubblico londinese comprende la London Underground (metropolitana), la London Overground, la Docklands Light Railway, il Tramlink e i servizi autobus e fluviali urbani....",
-                    "...La Docklands Light Railway (DLR) è un servizio ferroviario leggero operante nella zona est di Londra...."
+                    "...La Docklands Light Railway (DLR) è un servizio ferroviario leggero operante nella zona est di Londra....",
+                    "*...Molti altri grattacieli sono stati costruiti negli ultimi anni e molte importanti società (banche, studi legali, etc.) hanno trasferito la loro sede nella zona dei Dock...."
                 ]
             }
         },
@@ -607,7 +503,8 @@
                 "class": "building",
                 "type": "commercial",
                 "snippet": [
-                    "...Il 30 St Mary Axe, la Tower 42, The Shard e il One Canada Square...."
+                    "...Il 30 St Mary Axe, la Tower 42, The Shard e il One Canada Square....",
+                    "*...La prima fase di risistemazione dell'area culminò nel Canary Wharf, un complesso direzionale il cui elemento più noto è il grattacielo per uffici al n.1 di Canada Square, che è l'edificio più alto del Regno Unito dal 1991...."
                 ]
             }
         },
@@ -963,28 +860,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.162237,
-                    51.507489
-                ]
-            },
-            "properties": {
-                "entity": "Hyde Park",
-                "name_location": "Hyde Park, Mount Walk, Knightsbridge, Londra, Greater London, Inghilterra, W2 3XA, Regno Unito",
-                "class": "tourism",
-                "type": "attraction",
-                "snippet": [
-                    "*...Un altro importante monumento è il Marble Arch un arco trionfale situato nei pressi di Hyde Park e vicino ad Oxford Street, costruito interamente con marmo di Carrara....",
-                    "*...Dai nove Parchi Reali, antiche riserve di caccia aperte al pubblico (Green Park, St James's Park, Hyde Park e Kensington Gardens nel West End, Regent's Park a nord del centro della città, Greenwich Park, Bushy Park, Richmond Park in periferia) e Brompton Cemetery ai molti giardini del centro costruiti ad uso dei residenti ed oggi spesso aperti a tutti....",
-                    "*...La City of Westminster con la Westminster Abbey, il palazzo reale di Buckingham Palace, Clarence House e altro, Kensington and Chelsea, con i suoi musei (lo Science Museum, il Natural History Museum, il Victoria and Albert Museum) e Hyde Park....",
-                    "...Piccadilly è un'importante ed elegante arteria del cuore che congiunge Piccadilly Circus a est con Hyde Park Corner a ovest...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -0.092209,
                     51.50664
                 ]
@@ -1118,7 +993,7 @@
             },
             "properties": {
                 "entity": "Greenwich Park",
-                "name_location": "Greenwich Park, Stockwell Street, East Greenwich, Royal Borough of Greenwich, Londra, Greater London, Inghilterra, SE10 9JN, Regno Unito",
+                "name_location": "Greenwich Park, Stockwell Street, East Greenwich, Royal Borough of Greenwich, Londra, Greater London, Inghilterra, SE10 8EY, Regno Unito",
                 "class": "railway",
                 "type": "site",
                 "snippet": [
@@ -1199,7 +1074,12 @@
                 "class": "tourism",
                 "type": "information",
                 "snippet": [
-                    "*...Molti dei parchi comunali nacquero nella prima metà del XX secolo e fra questi si ricordano Victoria Park e Battersea Park...."
+                    "*...Molti dei parchi comunali nacquero nella prima metà del XX secolo e fra questi si ricordano Victoria Park e Battersea Park....",
+                    "...Il Victoria and Albert Museum (per le arti applicate), il Museo di Storia Naturale e il Museo della scienza....",
+                    "...La City of Westminster con la Westminster Abbey, il palazzo reale di Buckingham Palace, Clarence House e altro, Kensington and Chelsea, con i suoi musei (lo Science Museum, il Natural History Museum, il Victoria and Albert Museum) e Hyde Park....",
+                    "...Victoria and Albert Museum;...",
+                    "*...Victoria (collegata all'Aeroporto di Gatwick) ;...",
+                    "*...Molti autobus partono dall'autostazione di Victoria, situata all'esterno della stazione di Victoria...."
                 ]
             }
         },
@@ -1296,26 +1176,6 @@
                 "type": "bus_stop",
                 "snippet": [
                     "...Nella parte nord di Londra si trova il Trent Park che circonda una villa storica e ora forma il campus della Middlesex University...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.174721,
-                    51.491569
-                ]
-            },
-            "properties": {
-                "entity": "St Paul",
-                "name_location": "St Paul, Onslow Square, Onslow Square, The Boltons, Brompton, Kensington e Chelsea, Londra, Greater London, Inghilterra, SW7 3NX, Regno Unito",
-                "class": "amenity",
-                "type": "place_of_worship",
-                "snippet": [
-                    "*...Quello di Londra, a nord del Tamigi, la cui cattedrale è la barocca St Paul (progettata da Christopher Wren) e Southwark, a sud del fiume....",
-                    "...Altre importanti attrazioni turistiche includono la St Paul's Cathedral, la National Gallery, il Bankside di Southwark con il Globe Theatre, la Tate Modern e il London Bridge, il Tower Bridge e la Torre di Londra, Tate Britain, il British Museum a Bloomsbury...."
                 ]
             }
         },
@@ -1535,29 +1395,6 @@
                     "*...Un altro celebre abitante immaginario di Londra è Dylan Dog, che la fantasia del suo creatore Tiziano Sclavi fa risiedere nella City fin dalla sua prima avventura, al 7 di Craven Road....",
                     "*...Nonostante a Londra esistano ben due Craven Road, Sclavi ha dichiarato di non essersi ispirato a un indirizzo reale ma ha piuttosto inteso omaggiare il regista horror Wes Craven dando il suo nome alla Strada dove Dylan vive....",
                     "*...I numerosi fan dell'indagatore dell'incubo però non si sono fatti scoraggiare e sono sempre numerosi coloro i quali tornano da Londra con una foto-ricordo accanto alla targa di una delle due \"vere\" Craven Road...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.131961,
-                    51.50951
-                ]
-            },
-            "properties": {
-                "entity": "Strada",
-                "name_location": "Strada, 39, Panton Street, St. James's, Covent Garden, Londra, Greater London, Inghilterra, SW1Y 4EA, Regno Unito",
-                "class": "amenity",
-                "type": "restaurant",
-                "snippet": [
-                    "...Londra nacque poco dopo (i resti di un canale di scolo di legno, ai lati di una Strada romana, indicano nel 47 d.C. la data della sua nascita)....",
-                    "*...Nonostante a Londra esistano ben due Craven Road, Sclavi ha dichiarato di non essersi ispirato a un indirizzo reale ma ha piuttosto inteso omaggiare il regista horror Wes Craven dando il suo nome alla Strada dove Dylan vive....",
-                    "...Londra è sede del primo Hard Rock Cafe e degli Abbey Road Studios dove i Beatles rivoluzionarono la musica negli anni 1960 concentrando, insieme ai The Rolling Stones la sperimentazione della musica moderna proprio a Londra ed aprendo la Strada alle future band inglesi negli anni settanta e ottanta, musicisti e gruppi come Elton John, David Bowie, Pink Floyd, Genesis, Queen, Duran Duran Elvis Costello, Cat Stevens, The Kinks, The Who, Madness, The Jam, The Small Faces, Led Zeppelin, Iron Maiden, The Police, The Cure, Squeeze e Sade hanno iniziato la loro attività a Londra....",
-                    "...Il luogo più conosciuto della zona è senz'altro Trafalgar Square, mentre Oxford Street è una Strada per lo shopping famosa in tutto il mondo, sempre molto affollata....",
-                    "...Islington, che si estende per circa 1 miglio lungo Upper Street, ha più bar e ristoranti rispetto a qualsiasi altra Strada del Regno Unito...."
                 ]
             }
         },
@@ -1857,63 +1694,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.103599,
-                    51.527644
-                ]
-            },
-            "properties": {
-                "entity": "City",
-                "name_location": "City, University of London, Meredith Street, Clerkenwell Green, Clerkenwell, London Borough of Islington, Londra, Greater London, Inghilterra, EC1R 0BN, Regno Unito",
-                "class": "amenity",
-                "type": "university",
-                "snippet": [
-                    "*...Dal 2000 il termine \"Londra\" si riferisce al territorio gestito dall'Autorità della Grande Londra, che include una conurbazione che conta più di 8 milioni di abitanti ed è composta da 32 borghi londinesi più l'antica Città di Londra, detta comunemente la City....",
-                    "...Fino al 1889 la definizione \"Londra\" era riservata unicamente al miglio quadrato della city da cui la città aveva avuto origine in epoca romana....",
-                    "...Da questo punto in avanti Westminster soppiantò stabilmente la City di Londra come sede per l'attività del governo nazionale....",
-                    "...Mentre la City of Westminster si affermava come centro governativo, la vicina City of London rimaneva la più grande città d'Inghilterra e il principale centro commerciale governato dalla corporazione della Città di Londra....",
-                    "...Le aree a più intensa densità edilizia, corrispondenti ai quartieri finanziari della city e di Canary Wharf, sono caratterizzati dalla presenza di edifici di media e elevata altezza, tra cui:...",
-                    "...Altri edifici moderni importanti sono la City Hall con la sua caratteristica forma ovale, e la British Library a Somers Town/Kings Cross....",
-                    "...Nella City di Londra, a circa 300 metri a nord del Tamigi, si erge la Cattedrale di San Paolo, la principale Chiesa anglicana della città....",
-                    "...La Chiesa di Santa Margherita è una Chiesa anglicana che si trova nel quartiere di City of Westminster in Parliament Square, accanto all'Abbazia di Westminster e di fronte al Palazzo di Westminster....",
-                    "...Alla periferia della City of Westminster vi è l'Abbazia di Westminster, dove, tradizionalmente, i re d'Inghilterra vengono incoronati e sepolti....",
-                    "...Uno dei più famosi è certamente Buckingham Palace, situato a City of Westminster è la residenza ufficiale della monarchia britannica a Londra....",
-                    "*...Nella City vi è il monumento al grande incendio di Londra (detto The Monument) che consiste in una imponente colonna realizzata su progetto di Christopher Wren....",
-                    "...Fra di esse l'Imperial College e la City University, situate nel centro storico della città....",
-                    "...La Guildhall Library ha una collezione specializzata sulla storia di Londra e della City of London....",
-                    "...C'è anche un foglio gratuito che copre notizie finanziarie, City AM....",
-                    "*...Un altro celebre abitante immaginario di Londra è Dylan Dog, che la fantasia del suo creatore Tiziano Sclavi fa risiedere nella City fin dalla sua prima avventura, al 7 di Craven Road....",
-                    "...Il fulcro dominante della vita di Londra è la City of Westminster (che comprende anche gran parte del West End), principale distretto culturale, d'intrattenimento e shopping, oltre che sede di gran parte delle principali società londinesi non operanti nel settore finanziario, e, infine, centro della politica....",
-                    "*...La City of London (conosciuta semplicemente come City o Square Mile) è il principale centro bancario del mondo e il principale centro di affari europeo....",
-                    "*...Affollatissima durante la settimana lavorativa, gran parte della City tende a calmarsi durante il fine settimana, essendo una zona poco residenziale....",
-                    "*...La City è una città nella città, infatti ha un suo sindaco il quale viene eletto solo dai suoi residenti (società finanziarie comprese)....",
-                    "*...La City;...",
-                    "...La City of Westminster con la Westminster Abbey, il palazzo reale di Buckingham Palace, Clarence House e altro, Kensington and Chelsea, con i suoi musei (lo Science Museum, il Natural History Museum, il Victoria and Albert Museum) e Hyde Park....",
-                    "...Central London\nLa City, detta anche Square Mile (Miglio Quadrato), è il principale distretto finanziario del Regno Unito, d'Europa ed uno dei principali del mondo....",
-                    "*...Una volta dominata dalla cattedrale di San Paolo, negli ultimi decenni la City ha visto la costruzione di diversi grattacieli, tra i quali Tower 42 (fino al 1990 il più alto edificio britannico, in passato ed ancora oggi colloquialmente conosciuto come Nat West Tower) ed il recente 30 St Mary Axe, indicato anche come \"Il Cetriolo\" (da The Guardian:...",
-                    "*...La popolazione residente nella City è decisamente scarsa (circa 9 000 abitanti), ma durante la giornata lavorativa nel Miglio Quadrato si affollano più di 300 000 persone....",
-                    "*...Negli ultimi anni, l'eccessiva congestione della City ha fatto emergere come distretto finanziario alternativo la zona di Canary Wharf, nella parte Est di Londra (East London)....",
-                    "...La parte più urbanizzata di Londra tuttavia si estende ad Ovest della City, soprattutto nel cosiddetto West End....",
-                    "...La maggior parte del West End è inclusa amministrativamente nella cosiddetta City of Westminster, che è uno dei 32 distretti di Londra ma per ragioni storiche ha anche lo status di città....",
-                    "...Più ad ovest, a White City, vicino Shepherd's Bush, si trova il centro principale della BBC, mentre nel margine più occidentale, nel distretto di Hillingdon, è situato l'Aeroporto di Heathrow....",
-                    "*...L'East End parte dal lato orientale della City, e comprende zone come Whitechapel, Mile End, Bethnal Green, Hackney, Bow e Poplar....",
-                    "*...La City è il centro finanziario di Londra, sede di banche, broker, assicurazioni, studi legali e società di revisione contabile....",
-                    "*...Tra la City, Canary Wharf, Tower Hamlets e Islington si trovano inoltre le sedi dei cinque principali studi legali britannici, componenti il cosiddetto Magic Circle e tra i più importanti al mondo:...",
-                    "*...Qualcuna è nella City, ma la maggior parte si trova un po' più ad ovest, a Mayfair, St. James's, sullo Strand, o in altre zone....",
-                    "...All'interno della City of Westminster, la zona della vita notturna del West End ha il suo fulcro attorno a Leicester Square, dove si svolgono le prime cinematografiche mondiali di numerosi film e a Piccadilly Circus, con le sue pubblicità elettroniche giganti....",
-                    "*...Liverpool Street (collegata agli aeroporti di Stansted, City e Southend) ;...",
-                    "...City - il quinto per traffico, è principalmente dedicato al traffico di jet privati anche se non esclusivo. Questo Aeroporto è il più vicino alla città ed è situato a  ad est del centro della città. Circa 4,5 milioni di passeggeri hanno usato questo Aeroporto nel 2016....",
-                    "...Oggi la maggior parte della linea originaria costituisce la linea Hammersmith & City....",
-                    "*...L'amministrazione di Londra a livello metropolitano è coordinata dalla Greater London Authority (GLA), mentre l'amministrazione locale è affidata a 33 autorità distrettuali, ossia 32 borghi più la City....",
-                    "...La sede della GLA è la City Hall, a Southwark....",
-                    "*...La pubblica sicurezza nella Greater London è garantita dalla Metropolitan Police (\"the Met\"), sotto la supervisione della Metropolitan Police Authority, con l'eccezione della City, che ha una sua forza di polizia, la City of London Police...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -0.180297,
                     51.484354
                 ]
@@ -1952,36 +1732,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.143737,
-                    51.526995
-                ]
-            },
-            "properties": {
-                "entity": "Est",
-                "name_location": "Regent's Park Estate, Munster Square, Fitzrovia, Camden, Londra, Greater London, Inghilterra, NW1 3PG, Regno Unito",
-                "class": "landuse",
-                "type": "residential",
-                "snippet": [
-                    "...Londra si trova nel sud-est della Gran Bretagna, sulle rive del fiume Tamigi a poche ore dal Passo di Calais, che separa il Regno Unito dalla Francia attraverso il canale della Manica....",
-                    "...Il fiume, che l'attraversa scorrendo da ovest a est, ha avuto un'enorme influenza sullo sviluppo della città....",
-                    "...Ad est il porto di Londra fu ampliato a valle....",
-                    "...La cattedrale ha una base a croce allineata in direzione est-ovest....",
-                    "*...Negli ultimi anni, l'eccessiva congestione della City ha fatto emergere come distretto finanziario alternativo la zona di Canary Wharf, nella parte Est di Londra (East London)....",
-                    "...Piccadilly è un'importante ed elegante arteria del cuore che congiunge Piccadilly Circus a est con Hyde Park Corner a ovest....",
-                    "...Un poco più a est, nel distretto di Newham, sorgono l'Aeroporto di Londra-City e l'ExCeL Exhibition Centre....",
-                    "...Sempre qui vi è ubicato il quartiere di Chinatown della città (a Soho) e un po' più ad est vi è Covent Garden, un edificio che ospita numerosi negozi....",
-                    "...City - il quinto per traffico, è principalmente dedicato al traffico di jet privati anche se non esclusivo. Questo Aeroporto è il più vicino alla città ed è situato a  ad est del centro della città. Circa 4,5 milioni di passeggeri hanno usato questo Aeroporto nel 2016....",
-                    "...Southend - il sesto per traffico, è il più piccolo e distante da Londra, situato nella contea dell'Essex, vicino alla costa, a  a est dalla capitale. Nato anch'esso come Aeroporto militare, gestisce pochi voli, anche internazionali, senza però raggiungere il milione di passeggeri l'anno. Anche per questo Aeroporto è previsto un progetto di ampliamento che dovrebbe incrementare il flusso di passeggeri fino a raggiungere i 2 milioni di passeggeri l'anno....",
-                    "...La Docklands Light Railway (DLR) è un servizio ferroviario leggero operante nella zona est di Londra....",
-                    "...Si estende a nord fino a Stratford, a sud fino a Lewisham, ad est fino a Woolwich Arsenal, in apertura nel 2009, e si collega col centro alle stazioni di Bank (Città di Londra) e Tower Gateway, vicino alla stazione di Tower Hill (Underground)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -0.065362,
                     51.517398
                 ]
@@ -1997,30 +1747,6 @@
                     "*...Negli ultimi anni, l'eccessiva congestione della City ha fatto emergere come distretto finanziario alternativo la zona di Canary Wharf, nella parte Est di Londra (East London)....",
                     "*...East London \nA East London si sono scritti molti capitoli della storia industriale cittadina....",
                     "*...Per la seconda volta nella storia moderna, East London è stata al centro di un vasto programma urbanistico...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.131698,
-                    51.516338
-                ]
-            },
-            "properties": {
-                "entity": "Oxford Street",
-                "name_location": "Oxford Street, St Giles, Bloomsbury, Islington, Londra, Greater London, Inghilterra, W1D 1AP, Regno Unito",
-                "class": "highway",
-                "type": "primary",
-                "snippet": [
-                    "...Tra le vie più famose del centro di Londra Oxford Street e Regent Street, importanti vie di viabilità e per i loro negozi....",
-                    "*...Un altro importante monumento è il Marble Arch un arco trionfale situato nei pressi di Hyde Park e vicino ad Oxford Street, costruito interamente con marmo di Carrara....",
-                    "*...Il luogo più conosciuto della zona è senz'altro Trafalgar Square, mentre Oxford Street è una Strada per lo shopping famosa in tutto il mondo, sempre molto affollata....",
-                    "*...Oxford Street si interseca a Oxford Circus con un'altra celebre via londinese, Regent Street, dove è presente il famoso negozio di giocattoli Hamleys....",
-                    "*...Più avanti invece Oxford Street si interseca con Tottenham Court Road, questa via è il centro principale dei grandi magazzini....",
-                    "*...La zona più commerciale della città rimane Oxford Street, una via dedicata allo shopping lunga quasi 1 miglio e sede di grandi magazzini tra cui Selfridges...."
                 ]
             }
         },
@@ -2077,7 +1803,10 @@
                 "class": "highway",
                 "type": "motorway_junction",
                 "snippet": [
-                    "*...Piccadilly è un'importante ed elegante arteria del cuore che congiunge Piccadilly Circus a est con Hyde Park Corner a ovest...."
+                    "*...Piccadilly è un'importante ed elegante arteria del cuore che congiunge Piccadilly Circus a est con Hyde Park Corner a ovest....",
+                    "*...Un altro importante monumento è il Marble Arch un arco trionfale situato nei pressi di Hyde Park e vicino ad Oxford Street, costruito interamente con marmo di Carrara....",
+                    "*...Dai nove Parchi Reali, antiche riserve di caccia aperte al pubblico (Green Park, St James's Park, Hyde Park e Kensington Gardens nel West End, Regent's Park a nord del centro della città, Greenwich Park, Bushy Park, Richmond Park in periferia) e Brompton Cemetery ai molti giardini del centro costruiti ad uso dei residenti ed oggi spesso aperti a tutti....",
+                    "*...La City of Westminster con la Westminster Abbey, il palazzo reale di Buckingham Palace, Clarence House e altro, Kensington and Chelsea, con i suoi musei (lo Science Museum, il Natural History Museum, il Victoria and Albert Museum) e Hyde Park...."
                 ]
             }
         },
@@ -2174,7 +1903,9 @@
                 "type": "bus_stop",
                 "snippet": [
                     "...In questo angolo di Londra si trovano il Parco più grande della città, Richmond Park, e la sede della nazionale inglese di rugby, il Twickenham Stadium....",
-                    "...Il Twickenham Stadium a sud-ovest di Londra ospita la nazionale di rugby a 15 e quella di rugby a 13, ma questa non sempre, e ha una capienza di 84 000 posti, ora che è stato ampliato...."
+                    "...Il Twickenham Stadium a sud-ovest di Londra ospita la nazionale di rugby a 15 e quella di rugby a 13, ma questa non sempre, e ha una capienza di 84 000 posti, ora che è stato ampliato....",
+                    "*...Comprende i due attraenti quartieri di Richmond e Twickenham....",
+                    "*...Lo stadio di Twickenham ospita annualmente, tra la fine di gennaio e il mese di marzo, incontri della nazionale inglese del torneo Sei Nazioni e, nel novembre 2011, ha ospitato il \"4 Nazioni\", un torneo di rugby al quale hanno partecipato, oltre l'Inghilterra, anche l'Australia, la Nuova Zelanda e il Galles...."
                 ]
             }
         },
@@ -2204,26 +1935,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.074901,
-                    51.516722
-                ]
-            },
-            "properties": {
-                "entity": "Petticoat Lane",
-                "name_location": "Wentworth Street Market, Resolution Plaza, Spitalfields, Whitechapel, London Borough of Tower Hamlets, Londra, Greater London, Inghilterra, E1 7AJ, Regno Unito",
-                "class": "amenity",
-                "type": "marketplace",
-                "snippet": [
-                    "*...Vi si trovano vari luoghi d'interesse turistico, come i mercati (ad esempio il Columbia Road Flower Market e quelli a Spitalfields, Brick Lane, Petticoat Lane) e diversi musei....",
-                    "...Oltre al già citato Covent Garden, altri mercati importanti all'aperto si trovano presso Petticoat Lane Market e Portobello Road...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -0.028274,
                     51.513107
                 ]
@@ -2235,45 +1946,6 @@
                 "type": "post_depot",
                 "snippet": [
                     "*...Docklands\nI docks di Londra, detti Docklands, sull'Isle of Dogs, si sono sviluppati enormemente a partire dai primi anni ottanta...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.018598,
-                    51.504509
-                ]
-            },
-            "properties": {
-                "entity": "Canada Square",
-                "name_location": "Canada Square, Canary Wharf, Isle of Dogs, London Borough of Tower Hamlets, Londra, Greater London, Inghilterra, E14 5AH, Regno Unito",
-                "class": "highway",
-                "type": "unclassified",
-                "snippet": [
-                    "...Il 30 St Mary Axe, la Tower 42, The Shard e il One Canada Square....",
-                    "*...La prima fase di risistemazione dell'area culminò nel Canary Wharf, un complesso direzionale il cui elemento più noto è il grattacielo per uffici al n.1 di Canada Square, che è l'edificio più alto del Regno Unito dal 1991...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.059473,
-                    51.508307
-                ]
-            },
-            "properties": {
-                "entity": "Dock",
-                "name_location": "Tobacco Dock, Porters Walk, St. George in the East, Wapping, London Borough of Tower Hamlets, Londra, Greater London, Inghilterra, E1W 2SF, Regno Unito",
-                "class": "building",
-                "type": "yes",
-                "snippet": [
-                    "*...Molti altri grattacieli sono stati costruiti negli ultimi anni e molte importanti società (banche, studi legali, etc.) hanno trasferito la loro sede nella zona dei Dock...."
                 ]
             }
         },
@@ -2362,27 +2034,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.138614,
-                    51.516634
-                ]
-            },
-            "properties": {
-                "entity": "Central London",
-                "name_location": "Welsh Church of Central London, 30, Eastcastle Street, East Marylebone, Fitzrovia, Islington, Londra, Greater London, Inghilterra, W1W 8DJ, Regno Unito",
-                "class": "amenity",
-                "type": "place_of_worship",
-                "snippet": [
-                    "...Central London\nLa City, detta anche Square Mile (Miglio Quadrato), è il principale distretto finanziario del Regno Unito, d'Europa ed uno dei principali del mondo....",
-                    "*...Le sedi delle aziende non finanziarie sono sparse nei vari quartieri di Central London....",
-                    "*...Oltre la metà delle 100 società dell'indice FTSE hanno sede a Central London, e più del 70% nell'area metropolitana di Londra...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -0.105996,
                     51.533044
                 ]
@@ -2450,7 +2101,8 @@
                 "class": "amenity",
                 "type": "marketplace",
                 "snippet": [
-                    "*...Oltre al già citato Covent Garden, altri mercati importanti all'aperto si trovano presso Petticoat Lane Market e Portobello Road...."
+                    "*...Oltre al già citato Covent Garden, altri mercati importanti all'aperto si trovano presso Petticoat Lane Market e Portobello Road....",
+                    "*...Vi si trovano vari luoghi d'interesse turistico, come i mercati (ad esempio il Columbia Road Flower Market e quelli a Spitalfields, Brick Lane, Petticoat Lane) e diversi musei...."
                 ]
             }
         },
@@ -2459,34 +2111,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.165866,
-                    51.52029
-                ]
-            },
-            "properties": {
-                "entity": "London Underground",
-                "name_location": "London Underground Ltd, 280, Old Marylebone Road, Marylebone, Londra, Greater London, Inghilterra, W1H 4AD, Regno Unito",
-                "class": "office",
-                "type": "yes",
-                "snippet": [
-                    "...È anche sede del più antico sistema di metropolitana del mondo, la London Underground (The Tube) che è anche la più estesa d'Europa....",
-                    "...Il trasporto pubblico londinese comprende la London Underground (metropolitana), la London Overground, la Docklands Light Railway, il Tramlink e i servizi autobus e fluviali urbani....",
-                    "...Metropolitana\nLa London Underground (detta \"The Tube\") è stata la prima metropolitana ad essere costruita, ed è oggi seconda al mondo, come estensione, dopo quella di Shanghai...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.12069,
-                    51.558678
+                    -0.119584,
+                    51.557983
                 ]
             },
             "properties": {
                 "entity": "A1",
-                "name_location": "Holloway Road, Holloway, London Borough of Islington, Londra, Greater London, Inghilterra, N7 6JA, Regno Unito",
+                "name_location": "Holloway Road, Holloway, London Borough of Islington, Londra, Greater London, Inghilterra, N7 6HT, Regno Unito",
                 "class": "highway",
                 "type": "trunk",
                 "snippet": [
@@ -2569,30 +2200,6 @@
                 "type": "hostel",
                 "snippet": [
                     "*...Liverpool Street (collegata agli aeroporti di Stansted, City e Southend) ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.14225,
-                    51.49771
-                ]
-            },
-            "properties": {
-                "entity": "Victoria",
-                "name_location": "Victoria, Bressenden Place, Victoria, Londra, Greater London, Inghilterra, SW1E 5BY, Regno Unito",
-                "class": "highway",
-                "type": "bus_stop",
-                "snippet": [
-                    "...Molti dei parchi comunali nacquero nella prima metà del XX secolo e fra questi si ricordano Victoria Park e Battersea Park....",
-                    "...Il Victoria and Albert Museum (per le arti applicate), il Museo di Storia Naturale e il Museo della scienza....",
-                    "...La City of Westminster con la Westminster Abbey, il palazzo reale di Buckingham Palace, Clarence House e altro, Kensington and Chelsea, con i suoi musei (lo Science Museum, il Natural History Museum, il Victoria and Albert Museum) e Hyde Park....",
-                    "...Victoria and Albert Museum;...",
-                    "*...Victoria (collegata all'Aeroporto di Gatwick) ;...",
-                    "*...Molti autobus partono dall'autostazione di Victoria, situata all'esterno della stazione di Victoria...."
                 ]
             }
         },
@@ -2717,30 +2324,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.078664,
-                    51.523595
-                ]
-            },
-            "properties": {
-                "entity": "Underground",
-                "name_location": "Village Underground, 54, Holywell Lane, Shoreditch, London Borough of Hackney, Londra, Greater London, Inghilterra, EC2A 3PQ, Regno Unito",
-                "class": "amenity",
-                "type": "nightclub",
-                "snippet": [
-                    "...È anche sede del più antico sistema di metropolitana del mondo, la London Underground (The Tube) che è anche la più estesa d'Europa....",
-                    "...Il trasporto pubblico londinese comprende la London Underground (metropolitana), la London Overground, la Docklands Light Railway, il Tramlink e i servizi autobus e fluviali urbani....",
-                    "...Heathrow - il principale per i voli internazionali, a  a ovest della città. Scalo di alcune delle più grandi compagnie aeree (British Airways, Virgin Atlantic Airways, Bmi British Midland), racchiude 5 terminal, facilmente raggiungibili sia in treno (Heathrow Express, dalla stazione di Paddington) sia con la Piccadilly line (Underground). Nel 2016, circa 75,5 milioni di passeggeri sono passati da questo Aeroporto, ponendolo al primo posto come Aeroporto più trafficato d'Europa....",
-                    "...Metropolitana\nLa London Underground (detta \"The Tube\") è stata la prima metropolitana ad essere costruita, ed è oggi seconda al mondo, come estensione, dopo quella di Shanghai....",
-                    "*...Trasporto ferroviario urbano\nLa London Overground è un servizio ferroviario urbano di superficie, entrato in servizio l'11 novembre 2007 potenziando alcuni collegamenti ferroviari urbani già esistenti ed integrandoli con la rete metropolitana (Underground)....",
-                    "...Si estende a nord fino a Stratford, a sud fino a Lewisham, ad est fino a Woolwich Arsenal, in apertura nel 2009, e si collega col centro alle stazioni di Bank (Città di Londra) e Tower Gateway, vicino alla stazione di Tower Hill (Underground)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -0.073252,
                     51.509679
                 ]
@@ -2766,7 +2349,7 @@
             },
             "properties": {
                 "entity": "Cutty Sark",
-                "name_location": "Cutty Sark, Greenwich Church Street, Royal Borough of Greenwich, Londra, Greater London, Inghilterra, SE10 9BL, Regno Unito",
+                "name_location": "Cutty Sark, Greenwich Church Street, East Greenwich, Royal Borough of Greenwich, Londra, Greater London, Inghilterra, SE10 9BL, Regno Unito",
                 "class": "tourism",
                 "type": "attraction",
                 "snippet": [
@@ -2836,28 +2419,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.327334,
-                    51.45115
-                ]
-            },
-            "properties": {
-                "entity": "Twickenham",
-                "name_location": "Twickenham, Candler Mews, Twickenham, Richmond upon Thames, Londra, Greater London, Inghilterra, TW1 3JF, Regno Unito",
-                "class": "railway",
-                "type": "stop",
-                "snippet": [
-                    "*...Comprende i due attraenti quartieri di Richmond e Twickenham....",
-                    "...In questo angolo di Londra si trovano il Parco più grande della città, Richmond Park, e la sede della nazionale inglese di rugby, il Twickenham Stadium....",
-                    "*...Lo stadio di Twickenham ospita annualmente, tra la fine di gennaio e il mese di marzo, incontri della nazionale inglese del torneo Sei Nazioni e, nel novembre 2011, ha ospitato il \"4 Nazioni\", un torneo di rugby al quale hanno partecipato, oltre l'Inghilterra, anche l'Australia, la Nuova Zelanda e il Galles....",
-                    "...Il Twickenham Stadium a sud-ovest di Londra ospita la nazionale di rugby a 15 e quella di rugby a 13, ma questa non sempre, e ha una capienza di 84 000 posti, ora che è stato ampliato...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -0.279603,
                     51.556069
                 ]
@@ -2870,7 +2431,10 @@
                 "snippet": [
                     "...Subito dopo la guerra, presso lo stadio di Wembley si tennero le Olimpiadi estive del 1948....",
                     "...Dal 1924, lo Stadio di Wembley originale era la sede della nazionale inglese di calcio e servì come sede per la finale di FA Cup così come per quella della coppa di rugby....",
-                    "...Il nuovo stadio di Wembley serve esattamente le stesse finalità e ha una capacità di 90 000 posti...."
+                    "...Il nuovo stadio di Wembley serve esattamente le stesse finalità e ha una capacità di 90 000 posti....",
+                    "*...Subito dopo la guerra, presso lo stadio di Wembley si tennero le Olimpiadi estive del 1948....",
+                    "...Londra ha numerose sedi per i concerti rock e pop, tra cui grandi arene, come Earls Court, Wembley Arena e l'O2 Arena, così come molte medie imprese locali, come la Brixton Academy e l'Hammersmith Apollo....",
+                    "*...Il nuovo stadio di Wembley serve esattamente le stesse finalità e ha una capacità di 90 000 posti...."
                 ]
             }
         },

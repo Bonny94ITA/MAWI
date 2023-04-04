@@ -30,118 +30,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.343514,
-                    44.491454
-                ]
-            },
-            "properties": {
-                "entity": "Emilia",
-                "name_location": "ISTAT Ufficio Regionale Emilia Romagna, 9, Via Luigi Carlo Farini, Galvani, Santo Stefano, Bologna, Emilia-Romagna, 40124, Italia",
-                "class": "amenity",
-                "type": "research_institute",
-                "snippet": [
-                    "*...Nel secondo dopoguerra, come buona parte dell'Emilia, è stata governata quasi ininterrottamente da amministrazioni di sinistra....",
-                    "...Parco regionale dei Gessi Bolognesi e Calanchi dell'Abbadessa\nHa una superficie di 3 123 ettari e si sviluppa sulle prime pendici della collina bolognese e comprende territori dei comuni di Bologna, San Lazzaro di Savena, Ozzano dell'Emilia e Pianoro, ad altitudini comprese fra 70 e , intorno a importanti affioramenti gessosi che hanno dato vita a un complesso carsico di notevole interesse....",
-                    "*...La cucina bolognese, così come quella di tutta l'Emilia, si distingue per l'abbondanza nell'uso di carne, in particolare maiale, e pasta all'uovo, tanto da far meritare alla città l'appellativo di Bologna la grassa....",
-                    "...La struttura del centro storico composta dalla sovrapposizione di due modelli planimetrici, quello romano ortogonale e quello medievale a raggiera, con piazza Maggiore posta in mezzo e i \"raggi\", a partire dalle due strade centrali della via Emilia - via Rizzoli e via Ugo Bassi - che si sviluppano fino alle varie porte che si aprono lungo i resti delle mura....",
-                    "...Nacquero così popolosi quartieri periferici come la Barca (1962), il Pilastro (1966) o il Fossolo (1968), e si realizzarono grandi progetti di edilizia popolare, come ad esempio il grattacielo di San Vitale (1958-60), l'insediamento \"Levante Emilia\" in via Napoli (1961), il Treno (1957-62) e lo Steccone (1968) alla Barca, il Virgolone (1976) al Pilastro....",
-                    "...Ad Anzola dell'Emilia la Carpigiani;...",
-                    "...È allo studio, inoltre, la realizzazione del cosiddetto Passante Nord che, staccandosi dalla A14 nella zona di Castel San Pietro Terme, dovrebbe collegarsi alla A1 prima di Castelfranco Emilia, transitando, a nord della città, in modo da allontanare dall'agglomerato urbano il traffico di solo transito....",
-                    "...Altre strade importanti che toccano la città sono la Strada statale 9 Via Emilia, che la collega con numerosi capoluoghi dell'Emilia-Romagna, oltre che con Lodi e Milano;...",
-                    "...Il primo sindaco del dopoguerra fu Giuseppe Dozza, nominato nel 1945 dal Comitato regionale di liberazione nazionale Emilia e Romagna e confermato alle prime elezioni amministrative a suffragio universale del 1946...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.331259,
-                    44.49615
-                ]
-            },
-            "properties": {
-                "entity": "Europa",
-                "name_location": "Europa, Via Pietralata, Manifattura delle Arti, Porto-Saragozza, Bologna, Emilia-Romagna, 40122, Italia",
-                "class": "amenity",
-                "type": "cinema",
-                "snippet": [
-                    "*...È sede di prestigiose istituzioni culturali, economiche e politiche, e di uno dei più avanzati quartieri fieristici d'Europa....",
-                    "*...Tra i primi maestri vi furono i giuristi Pepone, Accursio e Irnerio, che resero famosa in tutta Europa la scuola di giurisprudenza bolognese....",
-                    "*...Orto botanico\nÈ il Giardino botanico dell'Università di Bologna, fondato nel 1568 da Ulisse Aldrovandi e considerato uno dei più antichi d'Europa....",
-                    "...Nel 1988 a Bologna si è tenuta la Biennale dei giovani artisti dell'Europa e del Mediterraneo, considerata la più importante vetrina mediterranea della creatività giovanile....",
-                    "...Il più longevo esempio di istituzione accademica straniera è il Collegio di Spagna, il più antico collegio al mondo aperto a studenti stranieri, erede del fenomeno delle nationes nella tradizione dell'Università medievale, ed è anche l'unico, di tale tipo, sopravvissuto nell'Europa continentale (altri esempi hanno resistito solo nel Regno Unito)....",
-                    "*...Mozart prese lezioni di contrappunto da padre Martini, all'epoca considerato come il più grande teorico musicale e il più grande esperto d'Europa nel contrappunto barocco....",
-                    "*...In Italia, Bologna è la seconda città con maggior numero di posti in sale cinematografiche per abitanti (superata solo da Campobasso, che però ha una popolazione molto più esigua), e la diciannovesima in Europa....",
-                    "*...Ogni estate in piazza Maggiore viene allestito un Cinema all'aperto, con uno degli schermi cinematografici più grandi d'Europa, in cui si proiettano tutte le sere alcuni dei migliori restauri della Cineteca e altre pellicole fra le novità della stagione, in un cartellone di oltre cinquanta appuntamenti denominato Sotto le stelle del Cinema....",
-                    "...Nel 1988 si tenne la Biennale dei giovani artisti dell'Europa e del Mediterraneo....",
-                    "*...Alma Jazz Festival (si svolge in autunno): è il primo festival italiano dedicato alle orchestre jazz universitarie, provenienti da tutta Europa....",
-                    "...La conferma di questo arriva da uno studio condotto nel 1989 dal gruppo Reclus di Montpellier e commissionato della DATAR (Délégation à l'Amenagement du Territoire et à l'Action Régionale), nel quale si formula una classificazione per grado d'importanza delle città con più di duecentomila abitanti di quattordici Stati dell'Europa Occidentale e mediterranea:...",
-                    "*...Il centro storico di Bologna è uno dei più antichi e vasti d'Europa....",
-                    "...Fra gli ultimi esempi di architettura contemporanea e interventi urbanistici (spesso oggetto di accese discussioni) troviamo la Porta Europa dell'architetto Ettore Masi in via Stalingrado, il complesso del nuovo palazzo comunale nella zona della Bolognina (Palazzo Bonaccorso e piazza Liber Paradisus) e la Torre Unipol, un grattacielo alto 127 metri sito nella periferia est della città....",
-                    "*...Con un PIL pro capite a parità di potere d'acquisto di 36.941 euro (2013), Bologna risulta essere la 44ª città più ricca d'Europa e la seconda in Italia dopo Milano....",
-                    "*...Secondo i dati dell'European Regional Economic Growth Index (E-REGI) del 2016, Bologna è la terza città italiana per indice di crescita economica (dopo Milano e Roma) e la 53ª in Europa....",
-                    "*...L'area di Bologna è un polo commerciale di primaria importanza (con il Centergross nell'area metropolitana, che per un lungo periodo è stato dalla fondazione nel 1977 la più grande cittadella commerciale all'ingrosso d'Europa, e l'Interporto)....",
-                    "...La Bologna-Verona, che la collega anche al Trentino-Alto Adige e al Nord Europa;...",
-                    "...La Bologna-Venezia, che la collega anche al Friuli-Venezia Giulia e all'Est Europa;...",
-                    "*...La linea 2 della Bicipolitana comprende il tratto bolognese della Ciclovia del Sole, parte del corridoio ciclabile europeo EuroVelo 7, che percorre l'Europa da nord a sud....",
-                    "...Ha sede in città il Bologna Football Club 1909, sette volte campione d'Italia, vincitore per due volte della Coppa Italia e per tre volte della Coppa dell'Europa Centrale....",
-                    "*...Negli anni novanta la città si è guadagnata l'appellativo di Basket City (\"la città della pallacanestro\") grazie alla contemporanea militanza ai vertici dell'Europa delle due squadre bolognesi:..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.276255,
-                    44.474371
-                ]
-            },
-            "properties": {
-                "entity": "Reno",
-                "name_location": "Casalecchio di Reno, Nuova Porrettana, Casalecchio di Reno, Unione dei comuni Valli del Reno, Lavino e Samoggia, Bologna, Emilia-Romagna, 40033, Italia",
-                "class": "railway",
-                "type": "station",
-                "snippet": [
-                    "*...Bologna è situata nelle propaggini meridionali della pianura Padana, a ridosso dei primi rilievi collinari dell'Appennino tosco-emiliano, fra lo sbocco delle valli del fiume Reno e del torrente Savena, che la bagnano longitudinalmente, rispettivamente a ovest e a est....",
-                    "...Nell'area metropolitana, inoltre, si trovano la Lamborghini (a Sant'Agata Bolognese) e la sede italiana della Saab (a Casalecchio di Reno)....",
-                    "...In ambito metalmeccanico vi si trova la Cesab, mentre nella zona metropolitana hanno sede la Malossi e la Minarelli (entrambe a Calderara di Reno), la Marzocchi e la Viro (a Zola Predosa), la Paioli (a Sant’Agata Bolognese)....",
-                    "*...In linea generale si può affermare che questa funzione di crocevia è resa possibile dalla particolare posizione geografica che, pur collocandola al margine meridionale della Pianura Padana, la pone, quasi come punto di passaggio obbligato, al centro delle vie di comunicazione che collegano il Nord dell'Italia col Mezzogiorno, sia attraverso la direttrice \"adriatica\" da Torino, Milano, il Veneto fino alla Puglia, assai più rilevante per traffico di quella \"tirrenica\" da Genova a Roma, sia attraverso la cosiddetta \"dorsale appenninica\" per Firenze e Roma (che sfrutta, almeno nel primo tratto, la storica ed importante via di penetrazione appenninica rappresentata dalla valle del fiume Reno):..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.503609,
-                    44.667234
-                ]
-            },
-            "properties": {
-                "entity": "Savena",
-                "name_location": "Savena, Via Primo Maggio, Rivabella, Altedo, Malalbergo, Unione Terre di Pianura, Bologna, Emilia-Romagna, 40116, Italia",
-                "class": "building",
-                "type": "yes",
-                "snippet": [
-                    "*...Bologna è situata nelle propaggini meridionali della pianura Padana, a ridosso dei primi rilievi collinari dell'Appennino tosco-emiliano, fra lo sbocco delle valli del fiume Reno e del torrente Savena, che la bagnano longitudinalmente, rispettivamente a ovest e a est....",
-                    "...Alle porte di Bologna, al confine con San Lazzaro di Savena, si trova un complesso militare della seconda guerra mondiale....",
-                    "...Parco Carlo Urbani\nIl Parco fluviale del Savena che si trova fra Bologna e San Lazzaro di Savena, ospita numerose specie animali e una ricca varietà di flora....",
-                    "...Parco regionale dei Gessi Bolognesi e Calanchi dell'Abbadessa\nHa una superficie di 3 123 ettari e si sviluppa sulle prime pendici della collina bolognese e comprende territori dei comuni di Bologna, San Lazzaro di Savena, Ozzano dell'Emilia e Pianoro, ad altitudini comprese fra 70 e , intorno a importanti affioramenti gessosi che hanno dato vita a un complesso carsico di notevole interesse....",
-                    "*...Borgo Panigale-Reno, San Donato-San Vitale, Savena, Navile, Porto-Saragozza, Santo Stefano....",
-                    "...A San Lazzaro di Savena il gruppo Conserve Italia (a cui fanno capo la Cirio, la Valfrutta, la Derby Blue, la Yoga e la Jolly Colombani);..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     11.288457,
                     44.534431
                 ]
@@ -153,7 +41,9 @@
                 "type": "aerodrome",
                 "snippet": [
                     "*...La temperatura minima assoluta, registrata all'Aeroporto Guglielmo Marconi, è di  registrata nel 1966 mentre la massima assoluta è stata di  registrata il 4 agosto 2017....",
-                    "...L'Aeroporto Guglielmo Marconi di Bologna, nel 2019 era l'ottavo Aeroporto italiano per numero di passeggeri...."
+                    "...L'Aeroporto Guglielmo Marconi di Bologna, nel 2019 era l'ottavo Aeroporto italiano per numero di passeggeri....",
+                    "*...L'importanza dell'Aeroporto (il cui bacino d'utenza è stimato in almeno dieci milioni di persone) è dovuto prevalentemente alla posizione nel \"baricentro produttivo\" d'Italia....",
+                    "*...L'Aeroporto è collegato alla stazione di Bologna Centrale tramite il Marconi Express, un people mover sopraelevato...."
                 ]
             }
         },
@@ -173,7 +63,8 @@
                 "type": "place_of_worship",
                 "snippet": [
                     "*...Nel 1507 Bologna passò allo Stato Pontificio e nel 1530 nella Basilica di San Petronio venne celebrata l'incoronazione di Carlo V Imperatore per mano di Papa Clemente VII....",
-                    "...In piazza Maggiore si trova la gotica e imponente basilica di San Petronio costruita per volere del Comune fra il 1390 e il 1659...."
+                    "...In piazza Maggiore si trova la gotica e imponente basilica di San Petronio costruita per volere del Comune fra il 1390 e il 1659....",
+                    "*...In piazza Maggiore si trova la gotica e imponente basilica di San Petronio costruita per volere del Comune fra il 1390 e il 1659...."
                 ]
             }
         },
@@ -233,27 +124,9 @@
                 "type": "building",
                 "snippet": [
                     "*...Nel 1999 la tradizione dei sindaci di sinistra si interruppe con l'affermazione elettorale di Giorgio Guazzaloca, candidato civico di centro-destra, che rimane tuttora l'unico esponente di tale coalizione ad essersi insediato a Palazzo d'Accursio....",
-                    "*...Palazzo d'Accursio (o Comunale) ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.346647,
-                    44.494319
-                ]
-            },
-            "properties": {
-                "entity": "San Petronio",
-                "name_location": "San Petronio, Piazza di Porta Ravegnana, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40121, Italia",
-                "class": "tourism",
-                "type": "artwork",
-                "snippet": [
-                    "...Nel 1507 Bologna passò allo Stato Pontificio e nel 1530 nella Basilica di San Petronio venne celebrata l'incoronazione di Carlo V Imperatore per mano di Papa Clemente VII....",
-                    "*...In piazza Maggiore si trova la gotica e imponente basilica di San Petronio costruita per volere del Comune fra il 1390 e il 1659...."
+                    "*...Palazzo d'Accursio (o Comunale) ;...",
+                    "*...Tra i primi maestri vi furono i giuristi Pepone, Accursio e Irnerio, che resero famosa in tutta Europa la scuola di giurisprudenza bolognese....",
+                    "...Affacciati su piazza Maggiore sorgono il Palazzo Comunale (o d'Accursio) (XIII-XV secolo) e il Palazzo del Podestà (ampiamente rimaneggiato nel 1485), accanto al duecentesco Palazzo Re Enzo (il cui aspetto attuale si deve al restauro neogotico di Alfonso Rubbiani del 1905)...."
                 ]
             }
         },
@@ -292,29 +165,9 @@
                 "type": "pedestrian",
                 "snippet": [
                     "*...In piazza Santo Stefano spicca il complesso di Santo Stefano, noto anche come \"le Sette Chiese\" a causa della sua articolazione in numerose chiese e cappelle collegate da un cortile e da un chiostro....",
-                    "*...Ad esse si aggiunge Corte Isolani, una galleria medievale che collega piazza Santo Stefano a Strada Maggiore, sede di piccole boutique, caffè, ristoranti e un laboratorio di marionette...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.347153,
-                    44.493102
-                ]
-            },
-            "properties": {
-                "entity": "Santo Stefano",
-                "name_location": "Santo Stefano, 3, Via Santo Stefano, Galvani, Santo Stefano, Bologna, Emilia-Romagna, 40125, Italia",
-                "class": "amenity",
-                "type": "cafe",
-                "snippet": [
-                    "*...In piazza Santo Stefano spicca il complesso di Santo Stefano, noto anche come \"le Sette Chiese\" a causa della sua articolazione in numerose chiese e cappelle collegate da un cortile e da un chiostro....",
+                    "*...Ad esse si aggiunge Corte Isolani, una galleria medievale che collega piazza Santo Stefano a Strada Maggiore, sede di piccole boutique, caffè, ristoranti e un laboratorio di marionette....",
                     "*...Giardino della Lunetta Gamberini\nNel quartiere Santo Stefano, è un Parco di 14,5 ettari inaugurato negli anni Settanta....",
-                    "*...Borgo Panigale-Reno, San Donato-San Vitale, Savena, Navile, Porto-Saragozza, Santo Stefano....",
-                    "...Ad esse si aggiunge Corte Isolani, una galleria medievale che collega piazza Santo Stefano a Strada Maggiore, sede di piccole boutique, caffè, ristoranti e un laboratorio di marionette...."
+                    "*...Borgo Panigale-Reno, San Donato-San Vitale, Savena, Navile, Porto-Saragozza, Santo Stefano...."
                 ]
             }
         },
@@ -391,26 +244,6 @@
                 "type": "place_of_worship",
                 "snippet": [
                     "*...Santa Maria della Vita (la Chiesa del primo Ospedale di Bologna, fondato nel 1260), al cui interno si trovano le preziosissime terrecotte delle Marie Piangenti, note come Compianto sul Cristo morto e realizzate da Niccolò dell'Arca tra il 1463 e il 1490...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.298139,
-                    44.479086
-                ]
-            },
-            "properties": {
-                "entity": "Madonna di San Luca",
-                "name_location": "Santuario della Madonna di San Luca, Portico di San Luca, Madonna di San Luca, Porto-Saragozza, Bologna, Emilia-Romagna, 40135, Italia",
-                "class": "amenity",
-                "type": "place_of_worship",
-                "snippet": [
-                    "...Sul Colle della Guardia, a sud-ovest del centro storico, si trova il caratteristico santuario della Madonna di San Luca (1765), raggiungibile per una lunghissima e suggestiva via porticata del XVII e XVIII secolo (la più lunga al mondo, ben )....",
-                    "...Discesa della Madonna di San Luca (si svolge a maggio): ogni anno si celebra l'antica tradizione della \"discesa della Madonna di San Luca\", che avviene il 12 maggio tramite una processione dal Santuario della Madonna di San Luca fino al centro della città...."
                 ]
             }
         },
@@ -515,71 +348,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.346779,
-                    44.494361
-                ]
-            },
-            "properties": {
-                "entity": "Garisenda",
-                "name_location": "Garisenda, Piazza di Porta Ravegnana, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40121, Italia",
-                "class": "tourism",
-                "type": "attraction",
-                "snippet": [
-                    "...La Torre degli Asinelli e la Torre della Garisenda....",
-                    "...La Torre degli Asinelli (97,20 metri, la torre pendente più alta d'Italia) e la Torre della Garisenda (in origine alta 60 metri, ora 48) edificate per volere di nobili ghibellini nel XII secolo....",
-                    "...La più pendente delle due, la Garisenda, fu citata più volte da Dante Alighieri, nella Divina Commedia (Inferno, XXXI, 136-140) e nelle Rime, a riprova del suo soggiorno a Bologna...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.342145,
-                    44.494075
-                ]
-            },
-            "properties": {
-                "entity": "Palazzo Comunale",
-                "name_location": "Palazzo D' Accursio comunale, Galleria Accursio, Malpighi, Porto-Saragozza, Bologna, Emilia-Romagna, 40121, Italia",
-                "class": "amenity",
-                "type": "townhall",
-                "snippet": [
-                    "...Affacciati su piazza Maggiore sorgono il Palazzo Comunale (o d'Accursio) (XIII-XV secolo) e il Palazzo del Podestà (ampiamente rimaneggiato nel 1485), accanto al duecentesco Palazzo Re Enzo (il cui aspetto attuale si deve al restauro neogotico di Alfonso Rubbiani del 1905)....",
-                    "...L'altra fontana cittadina degna di nota è la cosiddetta Fontana Vecchia, addossata al palazzo Comunale (oggi Sala Borsa) in via Ugo Bassi, opera dello stesso Tommaso Laureti che progettò la più famosa fontana del Nettuno nel XVI secolo....",
-                    "...Fra gli ultimi esempi di architettura contemporanea e interventi urbanistici (spesso oggetto di accese discussioni) troviamo la Porta Europa dell'architetto Ettore Masi in via Stalingrado, il complesso del nuovo palazzo comunale nella zona della Bolognina (Palazzo Bonaccorso e piazza Liber Paradisus) e la Torre Unipol, un grattacielo alto 127 metri sito nella periferia est della città....",
-                    "*...L'altra fontana cittadina degna di nota è la cosiddetta Fontana Vecchia, addossata al palazzo Comunale (oggi Sala Borsa) in via Ugo Bassi, opera dello stesso Tommaso Laureti che progettò la più famosa fontana del Nettuno nel XVI secolo...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.342339,
-                    44.494034
-                ]
-            },
-            "properties": {
-                "entity": "Accursio",
-                "name_location": "Palazzo D' Accursio, Piazza del Nettuno, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40121, Italia",
-                "class": "historic",
-                "type": "building",
-                "snippet": [
-                    "*...Tra i primi maestri vi furono i giuristi Pepone, Accursio e Irnerio, che resero famosa in tutta Europa la scuola di giurisprudenza bolognese....",
-                    "...Nel 1999 la tradizione dei sindaci di sinistra si interruppe con l'affermazione elettorale di Giorgio Guazzaloca, candidato civico di centro-destra, che rimane tuttora l'unico esponente di tale coalizione ad essersi insediato a Palazzo d'Accursio....",
-                    "...Affacciati su piazza Maggiore sorgono il Palazzo Comunale (o d'Accursio) (XIII-XV secolo) e il Palazzo del Podestà (ampiamente rimaneggiato nel 1485), accanto al duecentesco Palazzo Re Enzo (il cui aspetto attuale si deve al restauro neogotico di Alfonso Rubbiani del 1905)....",
-                    "...Palazzo d'Accursio (o Comunale) ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     11.343292,
                     44.494361
                 ]
@@ -592,48 +360,6 @@
                 "snippet": [
                     "*...Affacciati su piazza Maggiore sorgono il Palazzo Comunale (o d'Accursio) (XIII-XV secolo) e il Palazzo del Podestà (ampiamente rimaneggiato nel 1485), accanto al duecentesco Palazzo Re Enzo (il cui aspetto attuale si deve al restauro neogotico di Alfonso Rubbiani del 1905)....",
                     "*...Palazzo Re Enzo ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.349884,
-                    44.496592
-                ]
-            },
-            "properties": {
-                "entity": "Teatro Comunale",
-                "name_location": "Teatro Comunale, Largo Respighi, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40126, Italia",
-                "class": "highway",
-                "type": "bus_stop",
-                "snippet": [
-                    "...I Bentivoglio precedentemente furono tra le prime famiglie a costruirsi un loro palazzo che però fu distrutto e le macerie si trovano ai Giardini del Guasto dei Bentivoglio, dietro il Teatro Comunale....",
-                    "...A Bologna sono presenti il Museo Internazionale e Biblioteca della Musica, il Conservatorio Giovanni Battista Martini, l'Accademia Filarmonica di Bologna e il Teatro Comunale di Bologna, sede dell'autorevole Orchestra della Fondazione Teatro Comunale di Bologna, attiva dal dopoguerra....",
-                    "...I principali teatri di Bologna sono l'Arena del Sole e il Teatro Comunale...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.343484,
-                    44.492665
-                ]
-            },
-            "properties": {
-                "entity": "Archiginnasio",
-                "name_location": "Via dell'Archiginnasio, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40121, Italia",
-                "class": "highway",
-                "type": "pedestrian",
-                "snippet": [
-                    "...L'Archiginnasio di Bologna è uno dei palazzi più significativi della città:...",
-                    "...Palazzo dell'Archiginnasio ;...",
-                    "...Fra le più note e frequentate vi sono la Biblioteca Comunale dell'Archiginnasio (ex sede dell'Università) e la Biblioteca Sala Borsa (inaugurata nel 2001)...."
                 ]
             }
         },
@@ -768,26 +494,6 @@
                 "type": "yes",
                 "snippet": [
                     "*...Palazzo Fantuzzi ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.342386,
-                    44.496328
-                ]
-            },
-            "properties": {
-                "entity": "Palazzo Fava",
-                "name_location": "Palazzo Fava, Via Alessandro Manzoni, Marconi, Porto-Saragozza, Bologna, Emilia-Romagna, 40121, Italia",
-                "class": "tourism",
-                "type": "museum",
-                "snippet": [
-                    "*...Palazzo Fava ;...",
-                    "...Palazzo Fava da San Domenico ;..."
                 ]
             }
         },
@@ -939,7 +645,9 @@
                 "class": "building",
                 "type": "yes",
                 "snippet": [
-                    "*...Palazzo Pallavicini ;..."
+                    "*...Palazzo Pallavicini ;...",
+                    "*...Villa Gandolfi (o Pallavicini) ;...",
+                    "...Ospite del conte Gian Luca Pallavicini, Mozart ebbe l'opportunità di incontrare musicisti e studiosi (dal già citato Farinelli ai compositori Vincenzo Manfredini e Josef Mysliveček, fino allo storico della musica inglese Charles Burney e padre Giovanni Battista Martini)...."
                 ]
             }
         },
@@ -978,26 +686,6 @@
                 "type": "yes",
                 "snippet": [
                     "*...Palazzo Pepoli Vecchio ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.352344,
-                    44.496778
-                ]
-            },
-            "properties": {
-                "entity": "Palazzo Poggi",
-                "name_location": "Palazzo Poggi, Via Zamboni, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40126, Italia",
-                "class": "historic",
-                "type": "building",
-                "snippet": [
-                    "*...Palazzo Poggi ;...",
-                    "...Il principale dei musei universitari è il Museo di Palazzo Poggi che comprende numerose collezioni di storia naturale, anatomia e ostetricia, fisica e chimica, architettura militare, geografia e nautica, arte orientale...."
                 ]
             }
         },
@@ -1177,27 +865,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.256364,
-                    44.524067
-                ]
-            },
-            "properties": {
-                "entity": "Pallavicini",
-                "name_location": "Pallavicini, Via Marco Emilio Lepido, Borgo Panigale-Reno, Bologna, Emilia-Romagna, 40132, Italia",
-                "class": "highway",
-                "type": "platform",
-                "snippet": [
-                    "...Palazzo Pallavicini ;...",
-                    "*...Villa Gandolfi (o Pallavicini) ;...",
-                    "...Ospite del conte Gian Luca Pallavicini, Mozart ebbe l'opportunità di incontrare musicisti e studiosi (dal già citato Farinelli ai compositori Vincenzo Manfredini e Josef Mysliveček, fino allo storico della musica inglese Charles Burney e padre Giovanni Battista Martini)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     11.365194,
                     44.470011
                 ]
@@ -1275,17 +942,18 @@
                 "type": "Point",
                 "coordinates": [
                     11.342145,
-                    44.494687
+                    44.494075
                 ]
             },
             "properties": {
-                "entity": "Sala Borsa",
-                "name_location": "Sala Borsa, 3, Piazza del Nettuno, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40124, Italia",
+                "entity": "palazzo Comunale",
+                "name_location": "Palazzo D' Accursio comunale, Galleria Accursio, Malpighi, Porto-Saragozza, Bologna, Emilia-Romagna, 40121, Italia",
                 "class": "amenity",
-                "type": "cafe",
+                "type": "townhall",
                 "snippet": [
+                    "...Affacciati su piazza Maggiore sorgono il Palazzo Comunale (o d'Accursio) (XIII-XV secolo) e il Palazzo del Podestà (ampiamente rimaneggiato nel 1485), accanto al duecentesco Palazzo Re Enzo (il cui aspetto attuale si deve al restauro neogotico di Alfonso Rubbiani del 1905)....",
                     "*...L'altra fontana cittadina degna di nota è la cosiddetta Fontana Vecchia, addossata al palazzo Comunale (oggi Sala Borsa) in via Ugo Bassi, opera dello stesso Tommaso Laureti che progettò la più famosa fontana del Nettuno nel XVI secolo....",
-                    "...Fra le più note e frequentate vi sono la Biblioteca Comunale dell'Archiginnasio (ex sede dell'Università) e la Biblioteca Sala Borsa (inaugurata nel 2001)...."
+                    "...Fra gli ultimi esempi di architettura contemporanea e interventi urbanistici (spesso oggetto di accese discussioni) troviamo la Porta Europa dell'architetto Ettore Masi in via Stalingrado, il complesso del nuovo palazzo comunale nella zona della Bolognina (Palazzo Bonaccorso e piazza Liber Paradisus) e la Torre Unipol, un grattacielo alto 127 metri sito nella periferia est della città...."
                 ]
             }
         },
@@ -1294,8 +962,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.339714,
-                    44.495352
+                    11.341784,
+                    44.495027
                 ]
             },
             "properties": {
@@ -1432,31 +1100,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.506358,
-                    44.500412
-                ]
-            },
-            "properties": {
-                "entity": "Sud",
-                "name_location": "Via Zenzalino Sud, Trebbo, Prunaro, Budrio, Unione Terre di Pianura, Bologna, Emilia-Romagna, 40054, Italia",
-                "class": "highway",
-                "type": "secondary",
-                "snippet": [
-                    "...Sul Colle della Guardia, a sud-ovest del centro storico, si trova il caratteristico santuario della Madonna di San Luca (1765), raggiungibile per una lunghissima e suggestiva via porticata del XVII e XVIII secolo (la più lunga al mondo, ben )....",
-                    "*...Nel 2017 Bologna risultava la città in Italia ad aver ricevuto il numero più alto di immigrati interni (ovvero nuovi residenti trasferiti da altre zone d'Italia, principalmente dal Sud)....",
-                    "...L'espansione demografica dovuta alla forte immigrazione dalla provincia e dalle regioni del sud Italia ha portato, soprattutto negli anni sessanta e settanta del Novecento, a un’intensa urbanizzazione delle aree un tempo rurali all'esterno delle mura cittadine....",
-                    "*...Bologna costituisce un nodo ferroviario di rilevanza nazionale, attraverso il quale si stima che transiti oltre l'85% del traffico nazionale fra Nord e Sud, escludendo i traffici via La Spezia (per Milano e la Francia) e quelli via Ravenna - Ferrara e via Ferrara - Suzzara - Parma....",
-                    "...La Bologna-Ancona-Bari (che dirigendosi verso la Romagna ne tocca tutti i capoluoghi ad eccezione di Ravenna, per poi seguire l'intera lunghezza della costa adriatica verso sud fino in Puglia);...",
-                    "...La Bologna-Porretta Terme-Pistoia (detta \"Porrettana\"), realizzata nel 1864. Fino alla costruzione nel 1934 della \"Direttissima\", era la linea principale di collegamento fra Nord e Sud Italia;...",
-                    "...La linea 2 della Bicipolitana comprende il tratto bolognese della Ciclovia del Sole, parte del corridoio ciclabile europeo EuroVelo 7, che percorre l'Europa da nord a sud...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     11.346895,
                     44.509269
                 ]
@@ -1502,7 +1145,7 @@
             },
             "properties": {
                 "entity": "Manifattura Tabacchi",
-                "name_location": "Manifattura Tabacchi, Via della Manifattura, Casaralta, Navile, Dozza, Bologna, Emilia-Romagna, 40128, Italia",
+                "name_location": "Manifattura Tabacchi, 119743102, Casaralta, Navile, Dozza, Bologna, Emilia-Romagna, 40128, Italia",
                 "class": "amenity",
                 "type": "parking",
                 "snippet": [
@@ -1525,7 +1168,25 @@
                 "class": "amenity",
                 "type": "library",
                 "snippet": [
-                    "...Fra le più note e frequentate vi sono la Biblioteca Comunale dell'Archiginnasio (ex sede dell'Università) e la Biblioteca Sala Borsa (inaugurata nel 2001)...."
+                    "...Fra le più note e frequentate vi sono la Biblioteca Comunale dell'Archiginnasio (ex sede dell'Università) e la Biblioteca Sala Borsa (inaugurata nel 2001)....",
+                    "...L'Archiginnasio di Bologna è uno dei palazzi più significativi della città:...",
+                    "...Palazzo dell'Archiginnasio ;...",
+                    "...L'altimetria del territorio comunale spazia dai  del quartiere di Corticella ai 54 del centro del capoluogo, fino ai circa 280 del Colle della Guardia che domina sull'area urbana, e ai circa 390 del Monte Sabbiuno ai confini meridionali del territorio comunale....",
+                    "...Dopo un effimero periodo comunale, nel 1401 la signoria della città passò ai Bentivoglio, che la mantennero (fra alterne vicende) fino alla cacciata ad opera di papa Giulio II nel 1506....",
+                    "...La bandiera sventola insieme a quella europea e a quella italiana in tutte le sedi istituzionali dell'amministrazione comunale....",
+                    "...Affacciati su piazza Maggiore sorgono il Palazzo Comunale (o d'Accursio) (XIII-XV secolo) e il Palazzo del Podestà (ampiamente rimaneggiato nel 1485), accanto al duecentesco Palazzo Re Enzo (il cui aspetto attuale si deve al restauro neogotico di Alfonso Rubbiani del 1905)....",
+                    "...I Bentivoglio precedentemente furono tra le prime famiglie a costruirsi un loro palazzo che però fu distrutto e le macerie si trovano ai Giardini del Guasto dei Bentivoglio, dietro il Teatro Comunale....",
+                    "...Dal 1838 è sede della Biblioteca Comunale....",
+                    "*...Palazzo d'Accursio (o Comunale) ;...",
+                    "...L'altra fontana cittadina degna di nota è la cosiddetta Fontana Vecchia, addossata al palazzo Comunale (oggi Sala Borsa) in via Ugo Bassi, opera dello stesso Tommaso Laureti che progettò la più famosa fontana del Nettuno nel XVI secolo....",
+                    "...Di notevole interesse, e di capitale importanza in ambito nazionale ed europeo, è anche la Cineteca di Bologna, istituzione comunale dedicata al Cinema e alla filmografia....",
+                    "...A Bologna sono presenti il Museo Internazionale e Biblioteca della Musica, il Conservatorio Giovanni Battista Martini, l'Accademia Filarmonica di Bologna e il Teatro Comunale di Bologna, sede dell'autorevole Orchestra della Fondazione Teatro Comunale di Bologna, attiva dal dopoguerra....",
+                    "...I principali teatri di Bologna sono l'Arena del Sole e il Teatro Comunale....",
+                    "...La città e la sua area metropolitana, parametrate anche su scala economica, culturale, commerciale, industriale, congressuale, fieristica, finanziaria e sociale, rivestono quindi un'importanza, in ambito nazionale ed europeo, assai superiore a quanto espresso dal semplice parametro demografico (men che meno a quello della popolazione ufficialmente residente nel ristretto ambito comunale)....",
+                    "...Bologna, con Firenze e Venezia, si situava in posizione più avanzata di città più popolose, quali Dublino, Leeds, Liverpool, Lilla, Norimberga, Essen, Dortmund, Brema, Hannover, Saragozza, Malaga, Bilbao, Salonicco, Palermo, ecc.\nNonostante l'esigua popolazione comunale Bologna è stata anche inserita, dal gruppo di studio GaWC, tra le cento città globali (o Città del Mondo), in virtù della sua importanza culturale ed economica (invero in categoria D, cioè città globali in formazione, con bassa evidenza)....",
+                    "...In un'area destinata allo sviluppo della città, fra via Stalingrado e il quartiere San Donato, nel 1967 l'amministrazione comunale commissionò al noto architetto giapponese Kenzō Tange la progettazione del Centro direzionale nell'area della fiera, la cui costruzione iniziò nel 1975....",
+                    "...Fra gli ultimi esempi di architettura contemporanea e interventi urbanistici (spesso oggetto di accese discussioni) troviamo la Porta Europa dell'architetto Ettore Masi in via Stalingrado, il complesso del nuovo palazzo comunale nella zona della Bolognina (Palazzo Bonaccorso e piazza Liber Paradisus) e la Torre Unipol, un grattacielo alto 127 metri sito nella periferia est della città....",
+                    "...Bologna si colloca assai sopra la media nazionale anche per partecipazione delle donne nell'amministrazione, con ben 60% di elette nel Consiglio Comunale nel 2016...."
                 ]
             }
         },
@@ -1544,7 +1205,8 @@
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
-                    "...Il principale dei musei universitari è il Museo di Palazzo Poggi che comprende numerose collezioni di storia naturale, anatomia e ostetricia, fisica e chimica, architettura militare, geografia e nautica, arte orientale...."
+                    "...Il principale dei musei universitari è il Museo di Palazzo Poggi che comprende numerose collezioni di storia naturale, anatomia e ostetricia, fisica e chimica, architettura militare, geografia e nautica, arte orientale....",
+                    "*...Palazzo Poggi ;..."
                 ]
             }
         },
@@ -1652,8 +1314,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.343965,
-                    44.494096
+                    11.345177,
+                    44.493915
                 ]
             },
             "properties": {
@@ -1783,26 +1445,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.509568,
-                    44.43242
-                ]
-            },
-            "properties": {
-                "entity": "via Emilia",
-                "name_location": "Via Emilia, Osteria Grande, Castel San Pietro Terme, Nuovo Circondario Imolese, Bologna, Emilia-Romagna, 40024, Italia",
-                "class": "highway",
-                "type": "primary",
-                "snippet": [
-                    "*...La struttura del centro storico composta dalla sovrapposizione di due modelli planimetrici, quello romano ortogonale e quello medievale a raggiera, con piazza Maggiore posta in mezzo e i \"raggi\", a partire dalle due strade centrali della via Emilia - via Rizzoli e via Ugo Bassi - che si sviluppano fino alle varie porte che si aprono lungo i resti delle mura....",
-                    "...Altre strade importanti che toccano la città sono la Strada statale 9 Via Emilia, che la collega con numerosi capoluoghi dell'Emilia-Romagna, oltre che con Lodi e Milano;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     11.449363,
                     44.554202
                 ]
@@ -1861,26 +1503,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.350974,
-                    44.494255
-                ]
-            },
-            "properties": {
-                "entity": "San Vitale",
-                "name_location": "San Vitale, Via San Vitale, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40125, Italia",
-                "class": "highway",
-                "type": "bus_stop",
-                "snippet": [
-                    "*...Nacquero così popolosi quartieri periferici come la Barca (1962), il Pilastro (1966) o il Fossolo (1968), e si realizzarono grandi progetti di edilizia popolare, come ad esempio il grattacielo di San Vitale (1958-60), l'insediamento \"Levante Emilia\" in via Napoli (1961), il Treno (1957-62) e lo Steccone (1968) alla Barca, il Virgolone (1976) al Pilastro....",
-                    "...L'ex Strada statale 253 San Vitale che la collega con Ravenna;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     11.374434,
                     44.483554
                 ]
@@ -1929,7 +1551,11 @@
                 "class": "amenity",
                 "type": "shelter",
                 "snippet": [
-                    "*...Nacquero così popolosi quartieri periferici come la Barca (1962), il Pilastro (1966) o il Fossolo (1968), e si realizzarono grandi progetti di edilizia popolare, come ad esempio il grattacielo di San Vitale (1958-60), l'insediamento \"Levante Emilia\" in via Napoli (1961), il Treno (1957-62) e lo Steccone (1968) alla Barca, il Virgolone (1976) al Pilastro...."
+                    "*...Nacquero così popolosi quartieri periferici come la Barca (1962), il Pilastro (1966) o il Fossolo (1968), e si realizzarono grandi progetti di edilizia popolare, come ad esempio il grattacielo di San Vitale (1958-60), l'insediamento \"Levante Emilia\" in via Napoli (1961), il Treno (1957-62) e lo Steccone (1968) alla Barca, il Virgolone (1976) al Pilastro....",
+                    "*...Bologna è situata nelle propaggini meridionali della pianura Padana, a ridosso dei primi rilievi collinari dell'Appennino tosco-emiliano, fra lo sbocco delle valli del fiume Reno e del torrente Savena, che la bagnano longitudinalmente, rispettivamente a ovest e a est....",
+                    "...Nell'area metropolitana, inoltre, si trovano la Lamborghini (a Sant'Agata Bolognese) e la sede italiana della Saab (a Casalecchio di Reno)....",
+                    "...In ambito metalmeccanico vi si trova la Cesab, mentre nella zona metropolitana hanno sede la Malossi e la Minarelli (entrambe a Calderara di Reno), la Marzocchi e la Viro (a Zola Predosa), la Paioli (a Sant’Agata Bolognese)....",
+                    "*...In linea generale si può affermare che questa funzione di crocevia è resa possibile dalla particolare posizione geografica che, pur collocandola al margine meridionale della Pianura Padana, la pone, quasi come punto di passaggio obbligato, al centro delle vie di comunicazione che collegano il Nord dell'Italia col Mezzogiorno, sia attraverso la direttrice \"adriatica\" da Torino, Milano, il Veneto fino alla Puglia, assai più rilevante per traffico di quella \"tirrenica\" da Genova a Roma, sia attraverso la cosiddetta \"dorsale appenninica\" per Firenze e Roma (che sfrutta, almeno nel primo tratto, la storica ed importante via di penetrazione appenninica rappresentata dalla valle del fiume Reno):..."
                 ]
             }
         },
@@ -2376,47 +2002,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.531392,
-                    44.454571
-                ]
-            },
-            "properties": {
-                "entity": "A14",
-                "name_location": "Autostrada Adriatica, Ponte Rizzoli, Ozzano dell'Emilia, Unione dei comuni Savena-Idice, Bologna, Emilia-Romagna, 40064, Italia",
-                "class": "highway",
-                "type": "motorway",
-                "snippet": [
-                    "...L'asse adriatico A14 Bologna-Ancona-Taranto;...",
-                    "*...Al fine di decongestionare il traffico e potenziare il raccordo autostradale e della tangenziale, è stata realizzata una terza corsia dinamica sulla A14 e i semafori all'innesto degli svincoli della tangenziale con strade urbane sostituiti con rotatorie....",
-                    "*...È allo studio, inoltre, la realizzazione del cosiddetto Passante Nord che, staccandosi dalla A14 nella zona di Castel San Pietro Terme, dovrebbe collegarsi alla A1 prima di Castelfranco Emilia, transitando, a nord della città, in modo da allontanare dall'agglomerato urbano il traffico di solo transito...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.265909,
-                    44.477416
-                ]
-            },
-            "properties": {
-                "entity": "A1",
-                "name_location": "Autostrada del Sole, Ceretolo, Casalecchio di Reno, Unione dei comuni Valli del Reno, Lavino e Samoggia, Bologna, Emilia-Romagna, 40033, Italia",
-                "class": "highway",
-                "type": "motorway",
-                "snippet": [
-                    "...La A1 \"Autostrada del Sole\" Milano-Firenze-Roma-Napoli;...",
-                    "*...È allo studio, inoltre, la realizzazione del cosiddetto Passante Nord che, staccandosi dalla A14 nella zona di Castel San Pietro Terme, dovrebbe collegarsi alla A1 prima di Castelfranco Emilia, transitando, a nord della città, in modo da allontanare dall'agglomerato urbano il traffico di solo transito...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     10.989655,
                     44.140675
                 ]
@@ -2427,33 +2012,8 @@
                 "class": "highway",
                 "type": "primary",
                 "snippet": [
-                    "...L'ex Strada statale 65 della Futa che la collega con Firenze e la Strada statale 64 Porrettana che proviene da Pistoia e prosegue per Ferrara...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.54451,
-                    44.537434
-                ]
-            },
-            "properties": {
-                "entity": "Nord",
-                "name_location": "Via Zenzalino Nord, Budrio, Unione Terre di Pianura, Bologna, Emilia-Romagna, 40054, Italia",
-                "class": "highway",
-                "type": "residential",
-                "snippet": [
-                    "...Bologna è un importante nodo di comunicazioni stradali e ferroviarie del nord Italia, in un'area in cui risiedono importanti industrie meccaniche, elettroniche e alimentari....",
-                    "...In linea generale si può affermare che questa funzione di crocevia è resa possibile dalla particolare posizione geografica che, pur collocandola al margine meridionale della Pianura Padana, la pone, quasi come punto di passaggio obbligato, al centro delle vie di comunicazione che collegano il Nord dell'Italia col Mezzogiorno, sia attraverso la direttrice \"adriatica\" da Torino, Milano, il Veneto fino alla Puglia, assai più rilevante per traffico di quella \"tirrenica\" da Genova a Roma, sia attraverso la cosiddetta \"dorsale appenninica\" per Firenze e Roma (che sfrutta, almeno nel primo tratto, la storica ed importante via di penetrazione appenninica rappresentata dalla valle del fiume Reno):...",
-                    "...Il raccordo autostradale che circonda la città ad ovest, nord ed est è affiancato per circa 22 km dalla tangenziale....",
-                    "...È allo studio, inoltre, la realizzazione del cosiddetto Passante Nord che, staccandosi dalla A14 nella zona di Castel San Pietro Terme, dovrebbe collegarsi alla A1 prima di Castelfranco Emilia, transitando, a nord della città, in modo da allontanare dall'agglomerato urbano il traffico di solo transito....",
-                    "*...Bologna costituisce un nodo ferroviario di rilevanza nazionale, attraverso il quale si stima che transiti oltre l'85% del traffico nazionale fra Nord e Sud, escludendo i traffici via La Spezia (per Milano e la Francia) e quelli via Ravenna - Ferrara e via Ferrara - Suzzara - Parma....",
-                    "...La Bologna-Verona, che la collega anche al Trentino-Alto Adige e al Nord Europa;...",
-                    "*...La Bologna-Porretta Terme-Pistoia (detta \"Porrettana\"), realizzata nel 1864. Fino alla costruzione nel 1934 della \"Direttissima\", era la linea principale di collegamento fra Nord e Sud Italia;...",
-                    "...La linea 2 della Bicipolitana comprende il tratto bolognese della Ciclovia del Sole, parte del corridoio ciclabile europeo EuroVelo 7, che percorre l'Europa da nord a sud...."
+                    "...L'ex Strada statale 65 della Futa che la collega con Firenze e la Strada statale 64 Porrettana che proviene da Pistoia e prosegue per Ferrara....",
+                    "*...La Bologna-Porretta Terme-Pistoia (detta \"Porrettana\"), realizzata nel 1864. Fino alla costruzione nel 1934 della \"Direttissima\", era la linea principale di collegamento fra Nord e Sud Italia;..."
                 ]
             }
         },
@@ -2534,26 +2094,6 @@
                 "type": "disused",
                 "snippet": [
                     "...La Bologna-Verona, che la collega anche al Trentino-Alto Adige e al Nord Europa;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.309712,
-                    44.490514
-                ]
-            },
-            "properties": {
-                "entity": "Porrettana",
-                "name_location": "Via Porrettana, Villaggio della Rivoluzione Fascista, Porto-Saragozza, Bologna, Emilia-Romagna, 40135, Italia",
-                "class": "highway",
-                "type": "living_street",
-                "snippet": [
-                    "...L'ex Strada statale 65 della Futa che la collega con Firenze e la Strada statale 64 Porrettana che proviene da Pistoia e prosegue per Ferrara....",
-                    "*...La Bologna-Porretta Terme-Pistoia (detta \"Porrettana\"), realizzata nel 1864. Fino alla costruzione nel 1934 della \"Direttissima\", era la linea principale di collegamento fra Nord e Sud Italia;..."
                 ]
             }
         },

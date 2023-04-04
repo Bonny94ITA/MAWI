@@ -71,52 +71,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.895004,
-                    52.367017
-                ]
-            },
-            "properties": {
-                "entity": "Amstel",
-                "name_location": "Amstel, Grachtengordel, Centrum, Amsterdam, Noord-Holland, Paesi Bassi, 1017 AA, Paesi Bassi",
-                "class": "highway",
-                "type": "secondary",
-                "snippet": [
-                    "*...Il fiume Amstel termina nel centro cittadino e si collega a un gran numero di canali che sfociano nel lago IJ, precedentemente una baia....",
-                    "*...Amsterdam nacque nel XIII secolo da un villaggio di pescatori situato vicino ad una diga (\"dam\") sul fiume Amstel (da cui il nome originario \"Amsteldam\")....",
-                    "...Amsterdam ottenne ufficialmente il titolo di città nel 1300 o 1301 dal vescovo di Utrecht Guy van Henegouwen, ma già nel 1275 Amsterdam (sic) aveva ricevuto delle esenzioni da parte di uno dei Signori dell'Amstel....",
-                    "...Piazza Dam è la storica piazza costruita sulla prima diga dell'Amstel e centro per antonomasia della città, vi si affacciano notevoli monumenti:...",
-                    "*...Het Muziektheater è un nuovo Teatro lirico del 1986, sito in un edificio chiamato Stopera insieme al municipio di fronte all'Amstel....",
-                    "*...Un altro Teatro rinomato è il Carré, anch'esso sull'Amstel....",
-                    "*...Ci sono anche dei Canal Bus chiamati Pizza Cruise e Jazz Cruise a pagamento che effettuano giri lungo l'Amstel...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.91107,
-                    52.38002
-                ]
-            },
-            "properties": {
-                "entity": "IJ",
-                "name_location": "IJ-tunnel, Java-eiland, Vogelbuurt, Noord, Amsterdam, Noord-Holland, Paesi Bassi, 1021 HR, Paesi Bassi",
-                "class": "highway",
-                "type": "trunk",
-                "snippet": [
-                    "*...Il fiume Amstel termina nel centro cittadino e si collega a un gran numero di canali che sfociano nel lago IJ, precedentemente una baia....",
-                    "...Muziekgebouw aan 't IJ e Bimhuis sono altre famose sale da concerto....",
-                    "*...Diverse linee di traghetti attraverso l'IJ, uno di essi opera 24 ore al giorno ed è gratuito per pedoni e biciclette;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     4.857364,
                     52.327009
                 ]
@@ -168,31 +122,6 @@
                 "snippet": [
                     "*...A sud-ovest della capitale si estende l'Amsterdamse Bos, uno dei parchi cittadini, insieme ai più centrali Vondelpark e Artis....",
                     "*...Lo zoo di Amsterdam, chiamato Artis, dal motto latino Natura Artis Magistra, ossia \"Natura maestra d'arte\", che è il più antico complesso zoologico dei Paesi Bassi...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.898917,
-                    52.362565
-                ]
-            },
-            "properties": {
-                "entity": "Nord",
-                "name_location": "Vent du Nord, 105-H, Utrechtsestraat, Grachtengordel, Centrum, Amsterdam, Noord-Holland, Paesi Bassi, 1017 VK, Paesi Bassi",
-                "class": "shop",
-                "type": "clothes",
-                "snippet": [
-                    "...Ed è collegata al Mare del Nord attraverso il lungo Canale del Mare del Nord....",
-                    "*...Ha un clima oceanico (nella classificazione dei climi di Köppen), fortemente influenzato dalla vicinanza al mare del Nord a ovest, con prevalenza di venti occidentali che soffiano sulla capitale olandese....",
-                    "...Le navi olandesi salpavano per il nord America, l'Indonesia, il Brasile e l'Africa, creando un impero coloniale....",
-                    "...Tra le due guerre gli olandesi costruirono delle dighe che separarono lo Zuiderzee dal Mare del Nord, creando il cosiddetto IJsselmeer (lago IJssel)....",
-                    "...Una nuova linea di metropolitana orientata da nord a sud è in via di realizzazione....",
-                    "...Grazie a questi Amsterdam si è guadagnata l'appellativo di \"Venezia del nord\"....",
-                    "...Amsterdam Noord è separata dal resto della città dalla via d'acqua, il Canale del Mare del Nord...."
                 ]
             }
         },
@@ -502,7 +431,14 @@
                 "class": "highway",
                 "type": "pedestrian",
                 "snippet": [
-                    "...L'Amstelpark, un Parco pubblico della periferia di Amsterdam, situato nel sobborgo di Buitenveldert (Amsterdam-Zuid) ed inaugurato nel 1972, con una media di circa 800.000 visitatori l'anno, è uno dei parchi più popolari della città...."
+                    "...L'Amstelpark, un Parco pubblico della periferia di Amsterdam, situato nel sobborgo di Buitenveldert (Amsterdam-Zuid) ed inaugurato nel 1972, con una media di circa 800.000 visitatori l'anno, è uno dei parchi più popolari della città....",
+                    "*...Il fiume Amstel termina nel centro cittadino e si collega a un gran numero di canali che sfociano nel lago IJ, precedentemente una baia....",
+                    "*...Amsterdam nacque nel XIII secolo da un villaggio di pescatori situato vicino ad una diga (\"dam\") sul fiume Amstel (da cui il nome originario \"Amsteldam\")....",
+                    "...Amsterdam ottenne ufficialmente il titolo di città nel 1300 o 1301 dal vescovo di Utrecht Guy van Henegouwen, ma già nel 1275 Amsterdam (sic) aveva ricevuto delle esenzioni da parte di uno dei Signori dell'Amstel....",
+                    "...Piazza Dam è la storica piazza costruita sulla prima diga dell'Amstel e centro per antonomasia della città, vi si affacciano notevoli monumenti:...",
+                    "*...Het Muziektheater è un nuovo Teatro lirico del 1986, sito in un edificio chiamato Stopera insieme al municipio di fronte all'Amstel....",
+                    "*...Un altro Teatro rinomato è il Carré, anch'esso sull'Amstel....",
+                    "*...Ci sono anche dei Canal Bus chiamati Pizza Cruise e Jazz Cruise a pagamento che effettuano giri lungo l'Amstel...."
                 ]
             }
         },
@@ -549,51 +485,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.887104,
-                    52.360973
-                ]
-            },
-            "properties": {
-                "entity": "Rijksmuseum",
-                "name_location": "Rijksmuseum, Weteringschans, Centrum, Amsterdam, Noord-Holland, Paesi Bassi, 1017 RZ, Paesi Bassi",
-                "class": "railway",
-                "type": "tram_stop",
-                "snippet": [
-                    "...La città ospita il Rijksmuseum (Museo statale), il Museo Van Gogh, il Concertgebouw, il Rembrandthuis e la casa di Anna Frank....",
-                    "*...Il Rijksmuseum Amsterdam (Museo statale di Amsterdam), spesso chiamato semplicemente Rijksmuseum, è il Museo che possiede la più grande collezione di opere d'arte del periodo d'oro dell'arte fiamminga (1584-1702) e una considerevole collezione di arte asiatica...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.890429,
-                    52.370431
-                ]
-            },
-            "properties": {
-                "entity": "Museo",
-                "name_location": "Amsterdam Museum, 92, Kalverstraat, Centrum, Amsterdam, Noord-Holland, Paesi Bassi, 1012 PH, Paesi Bassi",
-                "class": "tourism",
-                "type": "museum",
-                "snippet": [
-                    "...La città ospita il Rijksmuseum (Museo statale), il Museo Van Gogh, il Concertgebouw, il Rembrandthuis e la casa di Anna Frank....",
-                    "*...Il Rijksmuseum Amsterdam (Museo statale di Amsterdam), spesso chiamato semplicemente Rijksmuseum, è il Museo che possiede la più grande collezione di opere d'arte del periodo d'oro dell'arte fiamminga (1584-1702) e una considerevole collezione di arte asiatica....",
-                    "...Il Van Gogh Museum possiede la più grande collezione di opere del pittore olandese Vincent van Gogh, mentre lo Stedelijk Museum è un Museo di arte moderna e contemporanea internazionale....",
-                    "...Ad Amsterdam si trovano inoltre il Museo Storico Cittadino, il Museo Ebraico, il Museo Nautico, il Museo Antropologico e Tropicale, il Museo della Resistenza, l'Allard Pierson Museum, un Museo archeologico dedicato a diverse civiltà antiche....",
-                    "...Tra le case-Museo, si citano la Rembrandthuis, la casa di Anna Frank, il Museo Van Loon, la casa Museo della potente famiglia di commercianti dei Van Loon, e il Museo Willet-Holthuysen, che offre uno spaccato di vita in una casa signorile della capitale olandese tra il Settecento e l'Ottocento....",
-                    "...Tra i musei particolari, ad Amsterdam si trovano la sede olandese del Museo delle cere di Madame Tussauds, il Museo della canapa, della marijuana e dell'hashish, il Museo della Bibbia e il Museo delle borse Hendrikye, dedicato alla storia della borsa per signora nella cultura occidentale....",
-                    "*...Museumnacht: nella Notte dei Musei i musei rimangono aperti fino alle due di notte. Per l'occasione ogni Museo presenta un evento speciale, concerti di musica classica, performance e proiezioni multimediali. Questo evento si svolge il primo sabato del mese di novembre...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     4.900123,
                     52.368059
                 ]
@@ -605,26 +496,6 @@
                 "type": "office",
                 "snippet": [
                     "*...Het Muziektheater è un nuovo Teatro lirico del 1986, sito in un edificio chiamato Stopera insieme al municipio di fronte all'Amstel...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.886315,
-                    52.370252
-                ]
-            },
-            "properties": {
-                "entity": "Carré",
-                "name_location": "Carré d’Artistes, Wolvenstraat, Grachtengordel, Centrum, Amsterdam, Noord-Holland, Paesi Bassi, 1016 EN, Paesi Bassi",
-                "class": "shop",
-                "type": "art",
-                "snippet": [
-                    "...Teatro Carré ;...",
-                    "...Un altro Teatro rinomato è il Carré, anch'esso sull'Amstel...."
                 ]
             }
         },

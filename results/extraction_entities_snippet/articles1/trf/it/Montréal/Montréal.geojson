@@ -142,26 +142,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.557344,
-                    45.517418
-                ]
-            },
-            "properties": {
-                "entity": "Saint-Hubert",
-                "name_location": "Saint-Hubert, Rue Atateken, Village gai, Sainte-Marie, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2L 3L3, Canada",
-                "class": "amenity",
-                "type": "restaurant",
-                "snippet": [
-                    "...Agglomerato urbano di Longueuil: Boucherville, Brossard, Longueuil, Borough of Greenfield Park, Borough of Saint-Hubert, Borough of Vieux-Longueuil, Saint-Lambert, Saint-Bruno-de-Montarville....",
-                    "...Altri 2 aeroporti di caratura internazionale sono il Mirabel (nella vicina municipalità di Mirabel) e il Saint-Hubert (nella vicina municipalità di Longueuil)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -73.569555,
                     45.501813
                 ]

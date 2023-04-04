@@ -6,29 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.588497,
-                    55.6676
-                ]
-            },
-            "properties": {
-                "entity": "Amager",
-                "name_location": "Amager Boulevard, Christianshavn, Copenaghen, Københavns Kommune, Region Hovedstaden, 1421, Danimarca",
-                "class": "highway",
-                "type": "tertiary",
-                "snippet": [
-                    "*...È situata sulle isole Selandia e Amager, ed è separata dalla città svedese di Malmö dall’Øresund....",
-                    "*...Tra il 1901 e il 1902, le zone settentrionali di Amager e Valby vennero incorporate nella città....",
-                    "*...La costruzione del ponte ha portato un grande numero di cambiamenti nel sistema del trasporto pubblico e un'estensiva ripianificazione dell'isola di Amager, a sud della città....",
-                    "...La principale di queste è Amager Strand, aperta nel 2005: situata a  dal centro di Copenaghen, ha un totale di  di spiaggia;...",
-                    "...Uno di questi, il birrificio Amager Bryghus, situato a Kastrup, è stato insignito del premio per la produzione della miglior birra danese e una delle migliori birre al mondo...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     12.57742,
                     55.685693
                 ]
@@ -111,27 +88,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.572727,
-                    55.679377
-                ]
-            },
-            "properties": {
-                "entity": "Cattedrale di Nostra Signora",
-                "name_location": "Cattedrale di Nostra Signora, Dyrkøb, Christianshavn, Copenaghen, Københavns Kommune, Region Hovedstaden, 1166, Danimarca",
-                "class": "amenity",
-                "type": "place_of_worship",
-                "snippet": [
-                    "...Intorno al 1200, la Cattedrale di Nostra Signora fu costruita su un'altura a nord-est del e un insediamento urbano iniziò a svilupparsi attorno ad essa....",
-                    "...La Chiesa più grande, cattedrale di Nostra Signora, fu distrutta dall'artiglieria marina....",
-                    "*...La Chiesa più grande, cattedrale di Nostra Signora, fu distrutta dall'artiglieria marina...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     12.575862,
                     55.681733
                 ]
@@ -170,27 +126,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.574361,
-                    55.684222
+                    12.572727,
+                    55.679377
                 ]
             },
             "properties": {
-                "entity": "Europa",
-                "name_location": "Europa-Huset, Gothersgade, Nyboder, Frederiksstaden, Copenaghen, Københavns Kommune, Region Hovedstaden, 1123, Danimarca",
-                "class": "office",
-                "type": "diplomatic",
+                "entity": "cattedrale di Nostra Signora",
+                "name_location": "Cattedrale di Nostra Signora, Dyrkøb, Christianshavn, Copenaghen, Københavns Kommune, Region Hovedstaden, 1166, Danimarca",
+                "class": "amenity",
+                "type": "place_of_worship",
                 "snippet": [
-                    "...In questi anni la città è diventata il centro culturale, economico e governativo della Danimarca e uno dei maggiori centri finanziari del Nord Europa grazie anche alla presenza della borsa di Copenaghen....",
-                    "...L'Università di Copenaghen, una delle più antiche Università d'Europa, fu inaugurata il 1º giugno 1479 da re Cristiano I di Danimarca dopo aver ricevuto l'approvazione di papa Sisto IV....",
-                    "*...Inoltre questa fu la prima occasione in Europa in cui vennero utilizzati razzi incendiari Congreve (che contenendo fosforo il fuoco non può essere spento con l'acqua) lanciati sulla città....",
-                    "*...Quest'ultima è situata a Lyngby, alla periferia nord di Copenaghen, ed è classificata tra le dieci migliori Università tecniche in Europa....",
-                    "*...Medicon Valley è un importante gruppo binazionale di scienze della vita in Europa con sede nella regione dell'Øresund....",
-                    "*...Dal 2009 Copenaghen, è una delle destinazioni cittadine in più rapida crescita in popolarità in Europa....",
-                    "...Copenaghen ha una ben stabilita rete di infrastrutture che la rendono una hub nel Nord Europa....",
-                    "...Nel 2011 l'Aeroporto è stato votato come il migliore Aeroporto del nord Europa e il decimo al mondo....",
-                    "...Copenaghen ha una vasta rete di autostrade e strade pubbliche, che collega diversi comuni della città al Nord Europa....",
-                    "*...Come in molte altre città in Europa il traffico a Copenaghen è in aumento....",
-                    "*...Il porto di Copenaghen e Malmö è stato insignito del premio migliore porto da crociera in Europa per 4 anni consecutivi a partire dal 2008...."
+                    "...Intorno al 1200, la Cattedrale di Nostra Signora fu costruita su un'altura a nord-est del e un insediamento urbano iniziò a svilupparsi attorno ad essa....",
+                    "*...La Chiesa più grande, cattedrale di Nostra Signora, fu distrutta dall'artiglieria marina...."
                 ]
             }
         },
@@ -230,7 +177,12 @@
                 "class": "amenity",
                 "type": "place_of_worship",
                 "snippet": [
-                    "*...La più caratteristica di tutte è quella barocca della Chiesa del Nostro Redentore con la sua stretta scala a chiocciola esterna che i visitatori possono salire fino in cima...."
+                    "*...La più caratteristica di tutte è quella barocca della Chiesa del Nostro Redentore con la sua stretta scala a chiocciola esterna che i visitatori possono salire fino in cima....",
+                    "*...I resti di un'antica Chiesa, con tombe risalenti all'XI secolo, sono invece rivenuti vicino al punto in cui Strøget incontra Rådhuspladsen....",
+                    "...In breve tempo furono completati i bastioni difensivi e i fossati mentre nel 1177 fu costruita la Chiesa di San Clemente;...",
+                    "...La Chiesa più grande, cattedrale di Nostra Signora, fu distrutta dall'artiglieria marina....",
+                    "...Altre guglie importanti sono quelle del palazzo di Christiansborg, del municipio e dell'ex Chiesa di San Nicola che oggi ospita un'esposizione di arte moderna....",
+                    "...La maggioranza degli abitanti di Copenaghen fa parte della Chiesa di Danimarca (cristiana luterana)...."
                 ]
             }
         },
@@ -249,7 +201,11 @@
                 "class": "railway",
                 "type": "stop",
                 "snippet": [
-                    "*...La principale di queste è Amager Strand, aperta nel 2005: situata a  dal centro di Copenaghen, ha un totale di  di spiaggia;..."
+                    "*...La principale di queste è Amager Strand, aperta nel 2005: situata a  dal centro di Copenaghen, ha un totale di  di spiaggia;...",
+                    "*...È situata sulle isole Selandia e Amager, ed è separata dalla città svedese di Malmö dall’Øresund....",
+                    "*...Tra il 1901 e il 1902, le zone settentrionali di Amager e Valby vennero incorporate nella città....",
+                    "*...La costruzione del ponte ha portato un grande numero di cambiamenti nel sistema del trasporto pubblico e un'estensiva ripianificazione dell'isola di Amager, a sud della città....",
+                    "...Uno di questi, il birrificio Amager Bryghus, situato a Kastrup, è stato insignito del premio per la produzione della miglior birra danese e una delle migliori birre al mondo...."
                 ]
             }
         },
@@ -277,49 +233,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.541211,
-                    55.692636
-                ]
-            },
-            "properties": {
-                "entity": "Giardino",
-                "name_location": "Giardino pizza, Stefansgade, Nørrebro, Copenaghen, Københavns Kommune, Region Hovedstaden, 1959, Danimarca",
-                "class": "amenity",
-                "type": "fast_food",
-                "snippet": [
-                    "*...Si trova nel mezzo di un Giardino ove si trovano esposte sculture su una scogliera che domina Øresund...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.628718,
-                    55.66144
-                ]
-            },
-            "properties": {
-                "entity": "Øresund",
-                "name_location": "Øresund, Øresundsvej, Copenaghen, Københavns Kommune, Region Hovedstaden, 1441, Danimarca",
-                "class": "railway",
-                "type": "station",
-                "snippet": [
-                    "*...È situata sulle isole Selandia e Amager, ed è separata dalla città svedese di Malmö dall’Øresund....",
-                    "*...Dal completamento del ponte di Øresund, Copenaghen è diventata sempre più integrata con la provincia svedese di Scania....",
-                    "*...Si trova nel mezzo di un Giardino ove si trovano esposte sculture su una scogliera che domina Øresund....",
-                    "*...Medicon Valley è un importante gruppo binazionale di scienze della vita in Europa con sede nella regione dell'Øresund....",
-                    "*...La posizione centrale nella regione dell'Øresund consente ai porti di fungere da centro di smistamento per le merci in direzione dei paesi baltici....",
-                    "...Con il completamento del Ponte di Øresund nel 2001, Copenaghen e Malmö sono unite da un collegamento automobilistico e ferroviario grazie al quale dovrebbero migliorare l'interscambio commerciale, i rapporti tra i due Stati e il transito dei pendolari da entrambe le sponde...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     12.578788,
                     55.676753
                 ]
@@ -331,35 +244,6 @@
                 "type": "museum",
                 "snippet": [
                     "...Il Museo Thorvaldsen, dedicato ai lavori dello scultore romantico danese Bertel Thorvaldsen;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.582659,
-                    55.707866
-                ]
-            },
-            "properties": {
-                "entity": "Nord",
-                "name_location": "Nord, Vordingborggade, Indre Østerbro, Østerbro, Copenaghen, Københavns Kommune, Region Hovedstaden, 2100, Danimarca",
-                "class": "shop",
-                "type": "hairdresser",
-                "snippet": [
-                    "...In questi anni la città è diventata il centro culturale, economico e governativo della Danimarca e uno dei maggiori centri finanziari del Nord Europa grazie anche alla presenza della borsa di Copenaghen....",
-                    "...Mentre l'attività di pesca prosperava, in particolare riguardo al commercio delle aringhe, Copenaghen iniziò ad espandersi a nord di Slotsholmen....",
-                    "...Inoltre l'Archivio conserva i registri del pedaggio per il transito nel Sund, che fornisce informazioni dettagliate su tutte le navi che sono passate dal Mar Baltico al Mare del Nord e viceversa a partire dal XV secolo....",
-                    "...Quest'ultima è situata a Lyngby, alla periferia nord di Copenaghen, ed è classificata tra le dieci migliori Università tecniche in Europa....",
-                    "...Il Museo d'arte contemporanea Louisiana è situato sulla costa, appena a nord di Copenaghen....",
-                    "...E il Museo Ordrupgaard, situato a nord di Copenaghen, che espone arte francese e danese del XIX secolo ed è noto per le opere di Paul Gauguin....",
-                    "*...Nørrebro (N), ovvero il quartiere Nord, in realtà orientato a nord-ovest. Questo è il quartiere più multietnico di Copenaghen, tanto che la sua via principale (Nørrebrogade, che a partire dal centro taglia in due il quartiere) è nota anche come Shawarma belt, ovvero Cintura della Shawerma....",
-                    "...Østerbro (Ø), che a dispetto del nome è in realtà fondamentalmente al nord del centro, è il quartiere più tranquillo e borghese....",
-                    "...Copenaghen ha una ben stabilita rete di infrastrutture che la rendono una hub nel Nord Europa....",
-                    "...Nel 2011 l'Aeroporto è stato votato come il migliore Aeroporto del nord Europa e il decimo al mondo....",
-                    "...Copenaghen ha una vasta rete di autostrade e strade pubbliche, che collega diversi comuni della città al Nord Europa...."
                 ]
             }
         },

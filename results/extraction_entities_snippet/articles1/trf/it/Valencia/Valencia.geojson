@@ -50,28 +50,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.379333,
-                    39.469459
-                ]
-            },
-            "properties": {
-                "entity": "Mediterraneo",
-                "name_location": "Mediterraneo, Avinguda de l'Oest, Sant Francesc, Ciutat Vella, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46001, Spagna",
-                "class": "tourism",
-                "type": "hotel",
-                "snippet": [
-                    "...Valencia gode di un clima mediterraneo mite e umido....",
-                    "*...Grazie al suo porto sul Mediterraneo, Valencia divenne uno dei principali centri commerciali d'Europa....",
-                    "*...Con la scoperta dell'America l'asse del commercio mondiale si spostò dal Mediterraneo all'Oceano Atlantico....",
-                    "...Con una movimentazione di 64 milioni di tonnellate e un incremento del 10,81% sull'anno precedente, il sistema portuale di Valencia si è confermato nel 2010 come il più importante scalo merci del Mediterraneo occidentale per quanto riguarda il traffico di container, in termini di volumi di attraversamento...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -0.35715,
                     39.471647
                 ]
@@ -294,7 +272,7 @@
             },
             "properties": {
                 "entity": "Estación del Norte",
-                "name_location": "Valencia - Estació del Nord, 24, Carrer de Xàtiva, Russafa, l'Eixample, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46007, Spagna",
+                "name_location": "València - Estació del Nord, 24, Carrer de Xàtiva, Russafa, l'Eixample, Valencia, Comarca de València, Valencia, Comunità Valenzana, 46007, Spagna",
                 "class": "building",
                 "type": "train_station",
                 "snippet": [
@@ -832,7 +810,11 @@
                 "class": "aeroway",
                 "type": "aerodrome",
                 "snippet": [
-                    "...L'idea fu poi accantonata per costruire l'Aeroporto di Manises...."
+                    "...L'idea fu poi accantonata per costruire l'Aeroporto di Manises....",
+                    "...L'Aeroporto di Valencia è situato a 9 km a ovest dalla periferia di Valencia raggiungibile con la metro 3 e 5....",
+                    "*...La legge sugli aeroporti del 1927, stabilì l'urgenza di dotare la città di un Aeroporto, motivo per il quale nell'area del porto fu attrezzato uno spazio utile per l'idroaviazione....",
+                    "...Poco tempo più tardi, fu proposto il progetto di realizzare l'Aeroporto sulla lingua di terra che separa l'Albufera da Valencia dal mare, in modo che potesse essere utilizzato sia per gli aeroplani che dagli idromobili che dagli aerei terrestri....",
+                    "*...L'Aeroporto ospita voli per tutta la Spagna, l'Europa e le città del Nord Africa...."
                 ]
             }
         },

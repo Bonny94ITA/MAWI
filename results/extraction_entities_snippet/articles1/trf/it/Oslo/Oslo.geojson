@@ -44,28 +44,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.741113,
-                    59.916177
-                ]
-            },
-            "properties": {
-                "entity": "Akershus",
-                "name_location": "NAV Oslo og Akershus, Hammersborgtunnelen, Regjeringskvartalet, St. Hanshaugen, Oslo, 0180, Norvegia",
-                "class": "office",
-                "type": "government",
-                "snippet": [
-                    "*...Il nucleo più antico di Oslo è a nord della fortezza trecentesca di Akershus e rappresenta il centro vitale della città....",
-                    "*...Egli iniziò anche la costruzione della fortezza Akershus....",
-                    "...Oslo fu distrutta da un incendio nel 1624 e fu ricostruita in una nuova posizione sulla baia vicino alla Fortezza Akershus dal re Cristiano IV, che diede il suo nome alla città:...",
-                    "...Fortezza di Akershus ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     10.74006,
                     59.913012
                 ]

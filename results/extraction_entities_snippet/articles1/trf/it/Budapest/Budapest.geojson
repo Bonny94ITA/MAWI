@@ -6,64 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.064653,
-                    47.543047
-                ]
-            },
-            "properties": {
-                "entity": "Danubio",
-                "name_location": "Danubio, 4, Hajóépítő sétány, Marina part, Vizafogó, XIII. kerület, Budapest, Ungheria Centrale, 1138, Ungheria",
-                "class": "building",
-                "type": "apartments",
-                "snippet": [
-                    "*...Budapest nacque ufficialmente nel 1873 dall'unione delle città storiche di Buda e Óbuda, ubicate a ovest del Danubio, con l'abitato di Pest, situato sulla riva opposta del fiume e anch'esso di antiche origini;...",
-                    "*...Sulla riva opposta del Danubio fu fondata Pest....",
-                    "*...I due più bei edifici di architettura romantica di Budapest sono la Grande Sinagoga e la sala concerti Vigadó sulla passeggiata sul Danubio, entrambi progettati dall'architetto Frigyes Feszl (1821-1884)....",
-                    "*...Tabán, Vár (Castello) - I Circoscrizione\nSi trova sulla riva destra del Danubio e conta più di 30 000 abitanti....",
-                    "*...Essa è situata sulla riva sinistra del Danubio e, secondo i dati del censimento del 1990, conta 115 000 abitanti....",
-                    "*...Nella circoscrizione si trova l'imbocco in sponda sinistra del ponte Megyeri, inaugurato nel 2008, che collega Újpest con la sponda destra del Danubio....",
-                    "*...L'area che abbraccia è quella compresa tra il Kiskörút (Piccolo Corso) e il Danubio, vi si trova anche il Mercato coperto di Vásárcsarnok che può considerarsi uno dei più grandi d'Europa....",
-                    "*...Si trova a ovest del Danubio e fa quindi parte di Buda....",
-                    "*...I ponti \"Szabadsag\" e \"Lagymanyosi\" collegano il quartiere con la parte al di là del Danubio....",
-                    "*...Il quartiere prende il nome dall'isola Csepel e si trova nel mezzo del Danubio, tra Buda e Pest....",
-                    "...Scarpe sulla sponda del Danubio (Cipők a Duna-parton) ;...",
-                    "*...È un'isola lunga 2 500 metri e larga fino a 500 metri posta in mezzo al Danubio, composta in gran parte da un Parco....",
-                    "*...Possiamo contare sette isole sul Danubio:...",
-                    "*...Isola Csepel è la più grande isola del Danubio in Ungheria. E lunga  e larga 6- e la sua area comprende , mentre solo la punta settentrionale è dentro i limiti della città....",
-                    "*...Uno dei motivi per cui i Romani colonizzarono la zona a ovest del Danubio e stabilirono qui la loro capitale regionale a Aquincum (ora parte di Óbuda, nel nord di Budapest) è stato per la possibilità di utilizzare e godere delle sorgenti termali....",
-                    "*...I bagni Rudas non solo si trovano in una superba posizione centrale, in una stretta striscia di terra compresa tra la collina Gellért e il Danubio, ma sono anche uno straordinario esempio di architettura risalente al periodo turco....",
-                    "*...La città è dotata di una rete ferroviaria metropolitana, di un servizio ferroviario suburbano (BHÉV), di una rete tranviaria, oltre che di una rete di autobus, filobus e navette fluviali sul Danubio....",
-                    "*...) corre di direzione est-ovest ed è l'unica linea che si estende nella parte occidentale della città (Buda), attraversando il Danubio....",
-                    "*...È in fase di progettazione la linea  tra i capolinea di Varga Jenő tér e Pomázi út, con doppio attraversamento del Danubio e dell'isola Margherita...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.049127,
-                    47.500073
-                ]
-            },
-            "properties": {
-                "entity": "Palazzo Reale",
-                "name_location": "palazzo reale Duna Palota, 5, Zrínyi utca, Lipótváros, V. kerület, Budapest, Ungheria Centrale, 1051, Ungheria",
-                "class": "amenity",
-                "type": "community_centre",
-                "snippet": [
-                    "*...Già luogo di una certa importanza, venne ricostruita velocemente dopo la distruzione a opera degli invasori Mongoli nel 1241, ma fu Buda, sede del Palazzo Reale sin dal 1247, a diventare la capitale dell'Ungheria....",
-                    "...Il quartiere del castello è un altro luogo da visitare dove sono stati costruiti il più famoso palazzo reale di Buda e molti altri edifici in stile barocco....",
-                    "...Palazzo Reale di Buda detto anche Castello di Buda (Királyi Palota) (Budai vár) ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     19.078903,
                     47.513914
                 ]
@@ -84,77 +26,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.115096,
-                    47.536154
-                ]
-            },
-            "properties": {
-                "entity": "Castello",
-                "name_location": "Pizza Castello, 3, Darnó utca, Rákospalota, XV. kerület, Budapest, Ungheria Centrale, 1155, Ungheria",
-                "class": "place",
-                "type": "house",
-                "snippet": [
-                    "*...I pochi edifici in questo stile rimasti si trovano nel quartiere del Castello....",
-                    "...Il quartiere del castello è un altro luogo da visitare dove sono stati costruiti il più famoso palazzo reale di Buda e molti altri edifici in stile barocco....",
-                    "...Tabán, Vár (Castello) - I Circoscrizione\nSi trova sulla riva destra del Danubio e conta più di 30 000 abitanti....",
-                    "*...Essa è meglio conosciuta con il nome di \"Castello\" ed è la più visitata dai turisti....",
-                    "*...Nella circoscrizione del Castello c'è anche la cosiddetta \"Cittadella\", un forte arroccato su una collina sovrastante la città....",
-                    "...Rózsadomb, Pasarét - II Circoscrizione\nSituato a nord del \"Castello\" in un elegante quartiere tranquillo, è conosciuto come Rózsadomb, cioè \"collina delle rose\", nome derivato dalla presenza del derviscio turco Gül Baba che riempì gli spazi verdi di roseti....",
-                    "...Belváros, Lipótváros - V Circoscrizione\nBelváros è il vero e proprio centro di Pest, dallo stile barocco che si estende lungo il fiume davanti alla collina del castello....",
-                    "...Il quartiere si trova dietro la collina del castello;...",
-                    "...Al di sotto del castello di Buda è presente il Museo Ospedale nella Roccia e Bunker Antiatomico....",
-                    "...Palazzo Reale di Buda detto anche Castello di Buda (Királyi Palota) (Budai vár) ;...",
-                    "...Castello Vajdahunyad (Vajdahunyad vára) ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.0478,
-                    47.489066
-                ]
-            },
-            "properties": {
-                "entity": "Rudas",
-                "name_location": "Rudas gyógyfürdő és uszoda, 9, Döbrentei tér, Tabán, I. kerület, Budapest, Ungheria Centrale, 1013, Ungheria",
-                "class": "tourism",
-                "type": "attraction",
-                "snippet": [
-                    "*...Budapest è infatti uno dei pochi posti al mondo con originali bagni turchi funzionanti risalenti al XVI secolo, come le terme Rudas o le terme Király....",
-                    "...Bagni Rudas (Rudas Gyógyfürdő) ;...",
-                    "*...I bagni Rudas non solo si trovano in una superba posizione centrale, in una stretta striscia di terra compresa tra la collina Gellért e il Danubio, ma sono anche uno straordinario esempio di architettura risalente al periodo turco...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.068673,
-                    47.505153
-                ]
-            },
-            "properties": {
-                "entity": "Király",
-                "name_location": "Király utca, Terézváros, VI. kerület, Budapest, Ungheria Centrale, 1077, Ungheria",
-                "class": "highway",
-                "type": "tertiary",
-                "snippet": [
-                    "*...Budapest è infatti uno dei pochi posti al mondo con originali bagni turchi funzionanti risalenti al XVI secolo, come le terme Rudas o le terme Király....",
-                    "...Bagni Király (Király Gyógyfürdő) ;...",
-                    "*...La costruzione dei bagni Király è iniziata nel 1565 e la maggior parte della struttura attuale appartiene al periodo turco, in particolare la piscina e la cupola che la ricopre...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     19.030932,
                     47.504529
                 ]
@@ -166,7 +37,8 @@
                 "type": "place_of_worship",
                 "snippet": [
                     "...Alcuni dei migliori esempi sono il Museo nazionale ungherese, la Chiesa luterana di Buda (entrambi progettati da Pollack) e la sede del presidente ungherese, il Palazzo Sándor....",
-                    "*...Chiesa luterana di Buda ;..."
+                    "*...Chiesa luterana di Buda ;...",
+                    "*...Chiesa luterana ;..."
                 ]
             }
         },
@@ -186,7 +58,9 @@
                 "type": "place_of_worship",
                 "snippet": [
                     "...I due più bei edifici di architettura romantica di Budapest sono la Grande Sinagoga e la sala concerti Vigadó sulla passeggiata sul Danubio, entrambi progettati dall'architetto Frigyes Feszl (1821-1884)....",
-                    "*...Il Museo, che ha sede nella Grande Sinagoga, vuole ricordare la vita quotidiana degli ebrei ungheresi e le persecuzioni durante la seconda guerra mondiale...."
+                    "*...Il Museo, che ha sede nella Grande Sinagoga, vuole ricordare la vita quotidiana degli ebrei ungheresi e le persecuzioni durante la seconda guerra mondiale....",
+                    "*...Erzsébetváros - VII Circoscrizione\nNella circoscrizione è compreso anche il quartiere ebraico e dietro la Sinagoga, che fa da punto di riferimento per i visitatori, è visibile ancora ciò che rimane dell'antico ghetto ebraico....",
+                    "...Sinagoga grande ...."
                 ]
             }
         },
@@ -266,52 +140,8 @@
                 "type": "bridge",
                 "snippet": [
                     "...Numerosi punti di riferimento sono stati creati nell'ultimo decennio a Budapest, come il Teatro Nazionale, il Palazzo delle Arti, il ponte Rákóczi, il ponte Megyeri, lo Sky Court dell'Aeroporto di Budapest, tra gli altri, e milioni di metri quadrati di nuovi edifici per uffici e appartamenti....",
-                    "...Nella circoscrizione si trova l'imbocco in sponda sinistra del ponte Megyeri, inaugurato nel 2008, che collega Újpest con la sponda destra del Danubio...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.080657,
-                    47.512167
-                ]
-            },
-            "properties": {
-                "entity": "Museo",
-                "name_location": "Néprajzi Múzeum, Városligeti fasor, Ligetváros, Erzsébetváros, VII. kerület, Budapest, Ungheria Centrale, 1146, Ungheria",
-                "class": "tourism",
-                "type": "museum",
-                "snippet": [
-                    "...Budapest ha edifici architettonicamente degni di nota in un'ampia gamma di stili e di periodi di tempo distinti, dall'antichità come la città romana di Aquincum a Óbuda (Distretto III), che risale intorno all'89 d.C., al più moderno Palazzo delle Arti, il contemporaneo Museo d'arte e sala da concerto....",
-                    "...Alcuni dei migliori esempi sono il Museo nazionale ungherese, la Chiesa luterana di Buda (entrambi progettati da Pollack) e la sede del presidente ungherese, il Palazzo Sándor....",
-                    "...Uno dei suoi edifici più belli a Budapest è il Museo delle Arti Applicate....",
-                    "*...All'interno del forte vi è anche un Museo dedicato al bunker edificato durante la seconda guerra mondiale....",
-                    "*...Degli anfiteatri, palazzi e colonnati tipici dell'architettura dell'Impero Romano, oggi rimane poco e quei pochi resti salvati dalle razzie della storia si trovano quasi tutti nella piazza principale, Fö tér, presso gli scavi archeologici di Aquincum e il relativo Museo....",
-                    "...Vi si trova anche lo zoo e il Museo di Belle Arti....",
-                    "*...Nel 1808 la Dieta creò il Museo nazionale ungherese, con lo scopo di raccogliere i reperti storici, archeologici e naturali dell'Ungheria e il Museo venne unito alla Biblioteca....",
-                    "*...Nel 1846 venne costruita la nuova sede del Museo a Pest e anche la Biblioteca vi fu trasferita....",
-                    "*...Solo nel 1949 la Biblioteca venne separata dal Museo....",
-                    "*...Il Museo illustra la storia del commercio e dell'artigianato ed espone, in un edificio che è uno degli esempi più significativi del primo Novecento, in puro stile liberty ungherese, una ricchissima collezione di mobili, vasi, arazzi, oggetti d'arte floreale e secessionista, oltre a manufatti delle culture islamica, indù e persiana....",
-                    "*...Il Museo, che ha sede nella Grande Sinagoga, vuole ricordare la vita quotidiana degli ebrei ungheresi e le persecuzioni durante la seconda guerra mondiale....",
-                    "...In questo settore è considerato il più grande Museo d'Europa....",
-                    "*...Il Museo è ospitato in una cantina che si estende su  nelle cui sale si organizzano corsi sul vino, degustazioni e convegni....",
-                    "*...La stazione Deák Ferenc tér ospita un Museo in cui giacciono mezzi storici, fotografie, piantine....",
-                    "...Al di sotto del castello di Buda è presente il Museo Ospedale nella Roccia e Bunker Antiatomico....",
-                    "...Museo storico di Budapest ;...",
-                    "...Museo etnografico (Néprajzi Múzeum) ;...",
-                    "...Museo Zoltán Kodály ;...",
-                    "...Museo Franz Liszt ;...",
-                    "...Museo di belle arti (Szépművészeti Múzeum) ;...",
-                    "...Museo delle arti orientali Ferenc Hopp (Hopp Ferenc Kelet-Ázsiai Művészeti Múzeum) ;...",
-                    "...Museo Casa del terrore (Terror Háza) ;...",
-                    "...Museo del Teatro Gizi Bajor ;...",
-                    "...Museo Farmacia all'Aquila d'Oro ;...",
-                    "...Museo della storia militare di Budapest ;...",
-                    "...Museo Semmelweis di storia della medicina ;...",
-                    "...Museo Ludwig di arte contemporanea ...."
+                    "...Nella circoscrizione si trova l'imbocco in sponda sinistra del ponte Megyeri, inaugurato nel 2008, che collega Újpest con la sponda destra del Danubio....",
+                    "*...Nella circoscrizione si trova l'imbocco in sponda sinistra del ponte Megyeri, inaugurato nel 2008, che collega Újpest con la sponda destra del Danubio...."
                 ]
             }
         },
@@ -331,76 +161,6 @@
                 "type": "service",
                 "snippet": [
                     "*...Degli anfiteatri, palazzi e colonnati tipici dell'architettura dell'Impero Romano, oggi rimane poco e quei pochi resti salvati dalle razzie della storia si trovano quasi tutti nella piazza principale, Fö tér, presso gli scavi archeologici di Aquincum e il relativo Museo...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.083529,
-                    47.574877
-                ]
-            },
-            "properties": {
-                "entity": "Megyeri",
-                "name_location": "Szusza Ferenc Stadion, Megyeri út, Károlyi Városnegyed, Újpest, IV. kerület, Budapest, Ungheria Centrale, 1044, Ungheria",
-                "class": "leisure",
-                "type": "stadium",
-                "snippet": [
-                    "...Numerosi punti di riferimento sono stati creati nell'ultimo decennio a Budapest, come il Teatro Nazionale, il Palazzo delle Arti, il ponte Rákóczi, il ponte Megyeri, lo Sky Court dell'Aeroporto di Budapest, tra gli altri, e milioni di metri quadrati di nuovi edifici per uffici e appartamenti....",
-                    "*...Nella circoscrizione si trova l'imbocco in sponda sinistra del ponte Megyeri, inaugurato nel 2008, che collega Újpest con la sponda destra del Danubio...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.139069,
-                    47.501772
-                ]
-            },
-            "properties": {
-                "entity": "Europa",
-                "name_location": "Európa, 4/C, Gyakorló utca, Gyakorló utcai lakótelep, Felsőrákos, X. kerület, Budapest, Ungheria Centrale, 1106, Ungheria",
-                "class": "amenity",
-                "type": "pharmacy",
-                "snippet": [
-                    "...Dopo la caduta del regime comunista (1989) Budapest ha riallacciato i suoi tradizionali legami economici e culturali con l'Europa occidentale, ponendosi come capofila nel tumultuoso passaggio al capitalismo dei Paesi centro europei ex socialisti....",
-                    "...La seconda metà del XX secolo vide anche, sotto il regime comunista, la costruzione di condomini (panelház), come in altri paesi dell'Europa orientale....",
-                    "*...L'area che abbraccia è quella compresa tra il Kiskörút (Piccolo Corso) e il Danubio, vi si trova anche il Mercato coperto di Vásárcsarnok che può considerarsi uno dei più grandi d'Europa....",
-                    "...In questo settore è considerato il più grande Museo d'Europa....",
-                    "...Archivi di Radio Europa Libera ....",
-                    "*...Hajógyári-sziget è un'isola artificiale situata nel terzo distretto. L'isola ospita numerose attività tra le quali: stazione d'imbarco, moto d'acqua durante il giorno e discoteche durante la notte. Questa è l'isola dove il famoso Sziget Festival ha luogo e che ospita centinaia di spettacoli con circa 400 000 visitatori nella sua ultima edizione. Molti progetti sono in corso per rendere questa isola uno dei più grandi centri di divertimento d'Europa. Si progetta di costruire appartamenti, alberghi, casinò e un porto turistico....",
-                    "*...I bagni Széchenyi sono tra i più grandi complessi termali di tutta l'Europa....",
-                    "...La metropolitana di Budapest è la più antica dell'Europa continentale....",
-                    "...Aperta nel 1896, è la prima linea metropolitana dell'Europa continentale, è stata estesa nel 1973 al nuovo capolinea di Mexikói út....",
-                    "*...L'Aeroporto offre collegamenti, oltre che con le principali città d'Europa, anche con Medio Oriente, Asia e Nord America...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.060868,
-                    47.496102
-                ]
-            },
-            "properties": {
-                "entity": "Sinagoga",
-                "name_location": "Sinagoga Grande, 2, Dohány utca, Erzsébetváros, VII. kerület, Budapest, Ungheria Centrale, 1074, Ungheria",
-                "class": "amenity",
-                "type": "place_of_worship",
-                "snippet": [
-                    "...I due più bei edifici di architettura romantica di Budapest sono la Grande Sinagoga e la sala concerti Vigadó sulla passeggiata sul Danubio, entrambi progettati dall'architetto Frigyes Feszl (1821-1884)....",
-                    "*...Erzsébetváros - VII Circoscrizione\nNella circoscrizione è compreso anche il quartiere ebraico e dietro la Sinagoga, che fa da punto di riferimento per i visitatori, è visibile ancora ciò che rimane dell'antico ghetto ebraico....",
-                    "...Il Museo, che ha sede nella Grande Sinagoga, vuole ricordare la vita quotidiana degli ebrei ungheresi e le persecuzioni durante la seconda guerra mondiale....",
-                    "...Sinagoga grande ...."
                 ]
             }
         },
@@ -562,26 +322,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.047526,
-                    47.498996
-                ]
-            },
-            "properties": {
-                "entity": "Deák Ferenc",
-                "name_location": "Deák Ferenc, Széchenyi István tér, Lipótváros, V. kerület, Budapest, Ungheria Centrale, 1051, Ungheria",
-                "class": "historic",
-                "type": "memorial",
-                "snippet": [
-                    "...Gli spazi pubblici attirano ingenti investimenti anche da parte delle imprese e del governo, tanto che la città ha acquisito piazze, parchi e monumenti completamente nuovi (o rinnovati e ridisegnati), ad esempio la piazza Kossuth, la piazza Deák Ferenc e la piazza della Libertà....",
-                    "*...La stazione Deák Ferenc tér ospita un Museo in cui giacciono mezzi storici, fotografie, piantine...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     19.053992,
                     47.500777
                 ]
@@ -620,47 +360,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.054651,
-                    47.497186
-                ]
-            },
-            "properties": {
-                "entity": "Chiesa luterana",
-                "name_location": "Chiesa luterana in piazza Deák, 4, Deák Ferenc tér, Pest, Belváros, V. kerület, Budapest, Ungheria Centrale, 1052, Ungheria",
-                "class": "amenity",
-                "type": "place_of_worship",
-                "snippet": [
-                    "...Alcuni dei migliori esempi sono il Museo nazionale ungherese, la Chiesa luterana di Buda (entrambi progettati da Pollack) e la sede del presidente ungherese, il Palazzo Sándor....",
-                    "...Chiesa luterana di Buda ;...",
-                    "*...Chiesa luterana ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.045918,
-                    47.50705
-                ]
-            },
-            "properties": {
-                "entity": "Parlamento",
-                "name_location": "Országház, 1-3, Kossuth Lajos tér, Lipótváros, V. kerület, Budapest, Ungheria Centrale, 1055, Ungheria",
-                "class": "tourism",
-                "type": "attraction",
-                "snippet": [
-                    "...Gli edifici in stile gotico più caratteristici sono in realtà neogotici, come i monumenti più famosi di Budapest, il Palazzo del Parlamento ungherese e la Chiesa di Mattia, dove è stato utilizzato gran parte del materiale originale (costruito originariamente in stile romanico nel 1015)....",
-                    "*...Parlamento (Országház) ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     19.039801,
                     47.495991
                 ]
@@ -672,7 +371,16 @@
                 "type": "attraction",
                 "snippet": [
                     "...Al di sotto del castello di Buda è presente il Museo Ospedale nella Roccia e Bunker Antiatomico....",
-                    "*...Palazzo Reale di Buda detto anche Castello di Buda (Királyi Palota) (Budai vár) ;..."
+                    "*...Palazzo Reale di Buda detto anche Castello di Buda (Királyi Palota) (Budai vár) ;...",
+                    "*...I pochi edifici in questo stile rimasti si trovano nel quartiere del Castello....",
+                    "...Il quartiere del castello è un altro luogo da visitare dove sono stati costruiti il più famoso palazzo reale di Buda e molti altri edifici in stile barocco....",
+                    "...Tabán, Vár (Castello) - I Circoscrizione\nSi trova sulla riva destra del Danubio e conta più di 30 000 abitanti....",
+                    "*...Essa è meglio conosciuta con il nome di \"Castello\" ed è la più visitata dai turisti....",
+                    "*...Nella circoscrizione del Castello c'è anche la cosiddetta \"Cittadella\", un forte arroccato su una collina sovrastante la città....",
+                    "...Rózsadomb, Pasarét - II Circoscrizione\nSituato a nord del \"Castello\" in un elegante quartiere tranquillo, è conosciuto come Rózsadomb, cioè \"collina delle rose\", nome derivato dalla presenza del derviscio turco Gül Baba che riempì gli spazi verdi di roseti....",
+                    "...Belváros, Lipótváros - V Circoscrizione\nBelváros è il vero e proprio centro di Pest, dallo stile barocco che si estende lungo il fiume davanti alla collina del castello....",
+                    "...Il quartiere si trova dietro la collina del castello;...",
+                    "...Castello Vajdahunyad (Vajdahunyad vára) ;..."
                 ]
             }
         },
@@ -776,52 +484,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.070877,
-                    47.470831
-                ]
-            },
-            "properties": {
-                "entity": "Teatro",
-                "name_location": "Nemzeti Színház, 1, Somlay Artúr sétány, Középső-Ferencváros, Budapest, IX. kerület, Ungheria Centrale, 1095, Ungheria",
-                "class": "amenity",
-                "type": "theatre",
-                "snippet": [
-                    "...Numerosi punti di riferimento sono stati creati nell'ultimo decennio a Budapest, come il Teatro Nazionale, il Palazzo delle Arti, il ponte Rákóczi, il ponte Megyeri, lo Sky Court dell'Aeroporto di Budapest, tra gli altri, e milioni di metri quadrati di nuovi edifici per uffici e appartamenti....",
-                    "...Museo del Teatro Gizi Bajor ;...",
-                    "*...Teatro dell'Opera (Magyar Állami Operaház) ;...",
-                    "...Teatro dell'Operetta ;...",
-                    "...Teatro di Erzsébetliget (Erzsébetligeti Színház) ;...",
-                    "...Teatro Erkel ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.059108,
-                    47.502365
-                ]
-            },
-            "properties": {
-                "entity": "Opera",
-                "name_location": "Opera, Andrássy út, Terézváros, VI. kerület, Budapest, Ungheria Centrale, 1061, Ungheria",
-                "class": "railway",
-                "type": "stop",
-                "snippet": [
-                    "...Il primo insediamento sul territorio di Budapest fu intorno al I secolo a.C. a opera dei Celti....",
-                    "...Già luogo di una certa importanza, venne ricostruita velocemente dopo la distruzione a opera degli invasori Mongoli nel 1241, ma fu Buda, sede del Palazzo Reale sin dal 1247, a diventare la capitale dell'Ungheria....",
-                    "...Teatro dell'Opera (Magyar Állami Operaház) ;...",
-                    "...Nyugati pályaudvar (stazione dell'Ovest, opera dei fratelli Eiffel): serve principalmente le linee dirette verso l'Ungheria meridionale e orientale, Oradea e Bratislava (via Vác e Štúrovo);..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     19.058279,
                     47.50283
                 ]
@@ -832,7 +494,10 @@
                 "class": "tourism",
                 "type": "attraction",
                 "snippet": [
-                    "*...Teatro dell'Opera (Magyar Állami Operaház) ;..."
+                    "*...Teatro dell'Opera (Magyar Állami Operaház) ;...",
+                    "...Il primo insediamento sul territorio di Budapest fu intorno al I secolo a.C. a opera dei Celti....",
+                    "...Già luogo di una certa importanza, venne ricostruita velocemente dopo la distruzione a opera degli invasori Mongoli nel 1241, ma fu Buda, sede del Palazzo Reale sin dal 1247, a diventare la capitale dell'Ungheria....",
+                    "...Nyugati pályaudvar (stazione dell'Ovest, opera dei fratelli Eiffel): serve principalmente le linee dirette verso l'Ungheria meridionale e orientale, Oradea e Bratislava (via Vác e Štúrovo);..."
                 ]
             }
         },
@@ -936,48 +601,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.124396,
-                    47.452809
-                ]
-            },
-            "properties": {
-                "entity": "Gellért",
-                "name_location": "Gellért utca, Wekerletelep, XIX. kerület, Budapest, Ungheria Centrale, 1192, Ungheria",
-                "class": "highway",
-                "type": "residential",
-                "snippet": [
-                    "...Un altro esempio di Art Nouveau a Budapest è il Palazzo Gresham davanti al Ponte delle Catene, l'Hotel Gellért, l'Accademia Musicale Franz Liszt o lo Zoo e Giardino botanico di Budapest....",
-                    "...Bagni Gellért (Gellért Gyógyfürdő) ;...",
-                    "*...I bagni Rudas non solo si trovano in una superba posizione centrale, in una stretta striscia di terra compresa tra la collina Gellért e il Danubio, ma sono anche uno straordinario esempio di architettura risalente al periodo turco....",
-                    "*...I bagni Gellért sono stati costruiti nel 1918, anche se vi erano stati dei bagni turchi precedentemente e nel Medioevo un Ospedale...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.113523,
-                    47.48529
-                ]
-            },
-            "properties": {
-                "entity": "Lukács",
-                "name_location": "Lukács Miklós út, MÁV telep, Laposdűlő, X. kerület, Budapest, Ungheria Centrale, 1101, Ungheria",
-                "class": "highway",
-                "type": "service",
-                "snippet": [
-                    "...Bagni Lukács (Lukács Gyógyfürdő) ;...",
-                    "*...I bagni Lukács si trovano a Buda e sono anch'esse di origine turca...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     19.098051,
                     47.503109
                 ]
@@ -1007,7 +630,9 @@
                 "class": "historic",
                 "type": "locomotive",
                 "snippet": [
-                    "*...La città è dotata di una rete ferroviaria metropolitana, di un servizio ferroviario suburbano (BHÉV), di una rete tranviaria, oltre che di una rete di autobus, filobus e navette fluviali sul Danubio...."
+                    "*...La città è dotata di una rete ferroviaria metropolitana, di un servizio ferroviario suburbano (BHÉV), di una rete tranviaria, oltre che di una rete di autobus, filobus e navette fluviali sul Danubio....",
+                    "*...Corre in superficie nella tratta tra Pillangó utca e il capolinea orientale Örs vezér tere (interscambio con i treni suburbani HÉV)....",
+                    "*...È presente anche un sistema ferroviario suburbano, chiamato HÉV, gestito dalla società di trasporti pubblici di Budapest, BKV...."
                 ]
             }
         },
@@ -1046,26 +671,6 @@
                 "type": "station",
                 "snippet": [
                     "*...Corre in superficie nella tratta tra Pillangó utca e il capolinea orientale Örs vezér tere (interscambio con i treni suburbani HÉV)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.130005,
-                    47.502688
-                ]
-            },
-            "properties": {
-                "entity": "HÉV",
-                "name_location": "Gödöllői HÉV (1970-ig), Gyakorló utca, Gyakorló utcai lakótelep, Felsőrákos, X. kerület, Budapest, Ungheria Centrale, 1106, Ungheria",
-                "class": "railway",
-                "type": "abandoned",
-                "snippet": [
-                    "*...Corre in superficie nella tratta tra Pillangó utca e il capolinea orientale Örs vezér tere (interscambio con i treni suburbani HÉV)....",
-                    "*...È presente anche un sistema ferroviario suburbano, chiamato HÉV, gestito dalla società di trasporti pubblici di Budapest, BKV...."
                 ]
             }
         },
@@ -1124,28 +729,6 @@
                 "snippet": [
                     "*...La linea ferroviaria ha una stazione nelle vicinanze del Terminal 1;...",
                     "...Dal 2007 un collegamento ferroviario dedicato collega la stazione Nyugati al terminal 1 dell'Aeroporto internazionale di Budapest-Ferihegy...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.170214,
-                    47.434986
-                ]
-            },
-            "properties": {
-                "entity": "Est",
-                "name_location": "Est köz, Szent Lőrinc-lakótelep, XVIII. kerület, Budapest, Ungheria Centrale, 1181, Ungheria",
-                "class": "highway",
-                "type": "living_street",
-                "snippet": [
-                    "...Circoscrizione\nQuesta circoscrizione, che si trova alla periferia sud-est della città, è costituita da un insieme di vecchie fabbriche e quartieri popolari ed è divisa in due parti:...",
-                    "...) corre di direzione est-ovest ed è l'unica linea che si estende nella parte occidentale della città (Buda), attraversando il Danubio....",
-                    "...L'Aeroporto di Ferihegy è collocato a  a est-sud est dal centro di Budapest....",
-                    "*...Keleti pályaudvar (stazione dell'Est): serve principalmente le linee dirette verso l'Ungheria nord-orientale, occidentale, meridionale e le principali destinazioni internazionali: Vienna, Bratislava (via Komárom), Varsavia (via Žilina), Cracovia (via Košice), Mosca (via Záhony), Bucarest (via Arad), Belgrado, Zagabria (via Kaposvár), Lubiana e Venezia (via Trieste);..."
                 ]
             }
         },

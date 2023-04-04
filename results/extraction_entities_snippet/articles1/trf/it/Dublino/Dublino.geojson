@@ -109,26 +109,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -6.26796,
-                    53.341756
-                ]
-            },
-            "properties": {
-                "entity": "Pale",
-                "name_location": "St. Michael's le Pale Church Yard, Ship Street Great, Royal Exchange A ED, Dublino, County Dublin, Leinster, D08 A5RV, Irlanda",
-                "class": "historic",
-                "type": "memorial",
-                "snippet": [
-                    "...Nel XIV secolo, per frenare l'influenza dei nativi irlandesi, la zona fu fortificata e isolata, divenendo quella che per secoli fu chiamata The Pale....",
-                    "*...Gli abitanti del Pale avevano infatti creato un'invalicabile \"enclave\" dove vivevano esclusivamente persone di razza normanna, mentre i \"barbari\" irlandesi erano confinati all'esterno:..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -6.263184,
                     53.333558
                 ]
@@ -1008,8 +988,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -6.316733,
-                    53.340871
+                    -6.316717,
+                    53.340859
                 ]
             },
             "properties": {

@@ -65,50 +65,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    26.079765,
-                    44.443641
-                ]
-            },
-            "properties": {
-                "entity": "Nord",
-                "name_location": "Strada Gării de Nord, Gara de Nord, Sector 1, Bucarest, 010816, Romania",
-                "class": "highway",
-                "type": "tertiary",
-                "snippet": [
-                    "...Bucarest è situata nella parte sudorientale del Paese in un'area di lievissime ondulazioni al centro della pianura Valacca, tra il Danubio a sud e i Carpazi a nord, ed è attraversata dal fiume Dîmbovita, affluente dell'Arges, in parte canalizzato, e da un affluente del Dîmbovita, il Colentina, il cui corso meandriforme si allarga a formare piccoli laghi anche all'interno del perimetro urbano....",
-                    "*...Le zone periferiche a Nord (Pipera, Băneasa) sono più ambite dalla, per ora limitata, parte di popolazione benestante, mentre quelle a Sud ospitano maggiormente quella a basso reddito....",
-                    "...La più importante stazione ferroviaria di Bucarest è Gara de Nord, da dove partono e arrivano giornalmente circa 283 treni per il traffico passeggeri dell'operatore pubblico CFR Călători e due dell'operatore privato Regiotrans, treni provenienti da diverse località rumene e da città europee come:...",
-                    "...L'Aeroporto Henri Coandă (codice ICAO: LROP - codice IATA: OTP) situato nel vicino paese di Otopeni poco a nord della città, smista il traffico internazionale delle grandi compagnie aeree e attualmente è l'unico Aeroporto attivo;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    26.091506,
-                    44.440129
-                ]
-            },
-            "properties": {
-                "entity": "Sud",
-                "name_location": "Ambasada Republicii Africa de Sud, 26-28, Strada Știrbei Vodă, Sector 1, Bucarest, 010113, Romania",
-                "class": "office",
-                "type": "diplomatic",
-                "snippet": [
-                    "...Posta nel sud del Paese, sul fiume Dâmbovița, è il maggiore centro industriale e commerciale del paese....",
-                    "...Bucarest è situata nella parte sudorientale del Paese in un'area di lievissime ondulazioni al centro della pianura Valacca, tra il Danubio a sud e i Carpazi a nord, ed è attraversata dal fiume Dîmbovita, affluente dell'Arges, in parte canalizzato, e da un affluente del Dîmbovita, il Colentina, il cui corso meandriforme si allarga a formare piccoli laghi anche all'interno del perimetro urbano....",
-                    "*...Le zone periferiche a Nord (Pipera, Băneasa) sono più ambite dalla, per ora limitata, parte di popolazione benestante, mentre quelle a Sud ospitano maggiormente quella a basso reddito....",
-                    "...Altre stazioni sono: Basarab, Băneasa, Obor, Progresul, Titan Sud...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     26.094814,
                     44.437875
                 ]
@@ -157,7 +113,8 @@
                 "class": "tourism",
                 "type": "attraction",
                 "snippet": [
-                    "*...Arco di Trionfo..."
+                    "*...Arco di Trionfo...",
+                    "*...La Nazionale di rugby rumena gioca le sue partite allo Stadio Arcul de Triumf, situato nei pressi dell'omonimo Arco...."
                 ]
             }
         },
@@ -252,7 +209,10 @@
                 "class": "highway",
                 "type": "bus_stop",
                 "snippet": [
-                    "*...La più importante stazione ferroviaria di Bucarest è Gara de Nord, da dove partono e arrivano giornalmente circa 283 treni per il traffico passeggeri dell'operatore pubblico CFR Călători e due dell'operatore privato Regiotrans, treni provenienti da diverse località rumene e da città europee come:..."
+                    "*...La più importante stazione ferroviaria di Bucarest è Gara de Nord, da dove partono e arrivano giornalmente circa 283 treni per il traffico passeggeri dell'operatore pubblico CFR Călători e due dell'operatore privato Regiotrans, treni provenienti da diverse località rumene e da città europee come:...",
+                    "...Bucarest è situata nella parte sudorientale del Paese in un'area di lievissime ondulazioni al centro della pianura Valacca, tra il Danubio a sud e i Carpazi a nord, ed è attraversata dal fiume Dîmbovita, affluente dell'Arges, in parte canalizzato, e da un affluente del Dîmbovita, il Colentina, il cui corso meandriforme si allarga a formare piccoli laghi anche all'interno del perimetro urbano....",
+                    "*...Le zone periferiche a Nord (Pipera, Băneasa) sono più ambite dalla, per ora limitata, parte di popolazione benestante, mentre quelle a Sud ospitano maggiormente quella a basso reddito....",
+                    "...L'Aeroporto Henri Coandă (codice ICAO: LROP - codice IATA: OTP) situato nel vicino paese di Otopeni poco a nord della città, smista il traffico internazionale delle grandi compagnie aeree e attualmente è l'unico Aeroporto attivo;..."
                 ]
             }
         },
@@ -271,7 +231,10 @@
                 "class": "railway",
                 "type": "station",
                 "snippet": [
-                    "*...Altre stazioni sono: Basarab, Băneasa, Obor, Progresul, Titan Sud...."
+                    "*...Altre stazioni sono: Basarab, Băneasa, Obor, Progresul, Titan Sud....",
+                    "...Posta nel sud del Paese, sul fiume Dâmbovița, è il maggiore centro industriale e commerciale del paese....",
+                    "...Bucarest è situata nella parte sudorientale del Paese in un'area di lievissime ondulazioni al centro della pianura Valacca, tra il Danubio a sud e i Carpazi a nord, ed è attraversata dal fiume Dîmbovita, affluente dell'Arges, in parte canalizzato, e da un affluente del Dîmbovita, il Colentina, il cui corso meandriforme si allarga a formare piccoli laghi anche all'interno del perimetro urbano....",
+                    "*...Le zone periferiche a Nord (Pipera, Băneasa) sono più ambite dalla, per ora limitata, parte di popolazione benestante, mentre quelle a Sud ospitano maggiormente quella a basso reddito...."
                 ]
             }
         },
@@ -316,26 +279,6 @@
                     "...CS Dinamo ....",
                     "...Dinamo Bucarest ;...",
                     "...C.S. Dinamo București ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    26.076039,
-                    44.466019
-                ]
-            },
-            "properties": {
-                "entity": "Arco",
-                "name_location": "Arco, 15B-15C, Bulevardul Mareșal Alexandru Averescu, Aviatorilor, Sector 1, Bucarest, 011195, Romania",
-                "class": "amenity",
-                "type": "restaurant",
-                "snippet": [
-                    "...Arco di Trionfo...",
-                    "*...La Nazionale di rugby rumena gioca le sue partite allo Stadio Arcul de Triumf, situato nei pressi dell'omonimo Arco...."
                 ]
             }
         }

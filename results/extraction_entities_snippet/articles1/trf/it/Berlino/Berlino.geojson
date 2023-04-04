@@ -50,33 +50,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.37874,
-                    52.513848
-                ]
-            },
-            "properties": {
-                "entity": "Europa",
-                "name_location": "Memoriale per gli ebrei assassinati d'Europa, 1, Cora-Berliner-Straße, Dorotheenstadt, Mitte, Berlino, 10117, Germania",
-                "class": "tourism",
-                "type": "attraction",
-                "snippet": [
-                    "*...Capitale della Germania anche durante l'epoca nazionalsocialista, fu uno degli obiettivi principali dei bombardamenti alleati durante la seconda guerra mondiale, terminata in Europa proprio con la resa incondizionata della Germania l'8 maggio del 1945....",
-                    "...A nord del centro storico si trova il Scheunenviertel, in cui nel corso dei secoli trovarono rifugio i rifugiati ebrei vittime delle persecuzioni nell'Europa orientale....",
-                    "...Durante la seconda guerra mondiale Berlino, capitale della Germania hitleriana  e centro direzionale dell'Europa nazista, divenne l'obiettivo a partire dal 1943 di una intensa campagna di bombardamenti aerei da parte degli Alleati occidentali;...",
-                    "...Memoriale per gli ebrei assassinati d'Europa, 2005 ;...",
-                    "*...Oggi la città si è portata alla pari con le più grandi mete turistiche d'Europa come Londra, Parigi o Roma....",
-                    "*...Berlino è un importante nodo ferroviario d'Europa, uno dei punti di congiunzione fra l'est e l'ovest dei trasporti continentali....",
-                    "*...In quella data venne inaugurata la nuova stazione Berlin Hauptbahnhof (tra le più grandi d'Europa) e il Tiergartentunnel, con altre due nuove stazioni a lunga percorrenza:...",
-                    "*...Con i suoi 1 895 posti a sedere e un palcoscenico di 2 854 metri quadrati il Friedrichstadt-Palast, nel Mitte, è il più grande palazzo per spettacoli d'Europa....",
-                    "*...La Berlin Burlesque Week, è rinomata in tutta Europa...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     13.440842,
                     52.475943
                 ]
@@ -148,27 +121,6 @@
                 "type": "place_of_worship",
                 "snippet": [
                     "...Una piazza verde pubblica, un tempo Giardino dello stesso castello e il Duomo di Berlino – presente fin dal 1536, anche se l'aspetto è prevalentemente quello del 1905...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.397815,
-                    52.520033
-                ]
-            },
-            "properties": {
-                "entity": "Isola dei Musei",
-                "name_location": "Isola dei musei, Am Kupfergraben, Friedrichswerder, Mitte, Berlino, 10117, Germania",
-                "class": "tourism",
-                "type": "attraction",
-                "snippet": [
-                    "...L'intera punta settentrionale dell'isola costituisce l'Isola dei Musei, con i suoi cinque grandi edifici dedicati alle esposizioni e costruiti a partire dal 1822, oggi uno dei più importanti complessi museali del mondo, dedicato soprattutto alle collezioni archeologiche e all'arte dell'Ottocento....",
-                    "...L'isola dei musei è entrata a far parte della lista nel 1999....",
-                    "...Il nome \"Isola dei musei\" è dovuto al gran numero di musei, di importanza internazionale, che si trovano nella parte settentrionale dell'Isola della Sprea...."
                 ]
             }
         },
@@ -291,63 +243,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.39314,
-                    52.517372
-                ]
-            },
-            "properties": {
-                "entity": "Unter den Linden",
-                "name_location": "Sotto i tigli, Dorotheenstadt, Mitte, Berlino, 10117, Germania",
-                "class": "highway",
-                "type": "primary_link",
-                "snippet": [
-                    "*...Dall'isola porta verso ovest e fino alla Porta di Brandeburgo il viale Unter den Linden (it.:...",
-                    "...Lungo il \"viale dei Tigli\" si trovano la Staatsoper Unter den Linden e la Cattedrale cattolica di Sant'Edvige, entrambe costruite sotto Federico il Grande;...",
-                    "...Anche la Staatsbibliothek Unter den Linden, la Guardia Nuova del 1818 e il lussuoso Hotel Adlon del 1907 (distrutto nel 1945 e riaperto nel 1997) si affacciano sullo storico viale....",
-                    "...La maggiore biblioteca di Berlino è la Staatsbibliothek zu Berlin, una biblioteca nazionale, il cui patrimonio è custodito in vari edifici tra cui la Haus Unter den Linden e la Haus Potsdamer Straße....",
-                    "...La Deutsche Oper, la Staatsoper Unter den Linden e la Komische Oper....",
-                    "...La Staatsoper sulla Unter den Linden è stata inaugurata nel 1742 ed è la più antica delle tre....",
-                    "*...La Komische Oper è specializzata nel repertorio dell'operetta e si trova anch'essa sull'Unter den Linden...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.38844,
-                    52.519782
+                    13.388286,
+                    52.520263
                 ]
             },
             "properties": {
                 "entity": "Friedrichstraße",
                 "name_location": "Friedrichstraße, Dorotheenstadt, Mitte, Berlino, 10117, Germania",
-                "class": "highway",
-                "type": "secondary",
+                "class": "railway",
+                "type": "station",
                 "snippet": [
                     "*...Il viale è tagliato a metà dalla perpendicolare Friedrichstraße che collega, a sud dei Tigli, la Friedrichstadt (it...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.39314,
-                    52.517372
-                ]
-            },
-            "properties": {
-                "entity": "Tigli",
-                "name_location": "Sotto i tigli, Dorotheenstadt, Mitte, Berlino, 10117, Germania",
-                "class": "highway",
-                "type": "primary_link",
-                "snippet": [
-                    "...Sotto i tigli), trasformato nel 1647 da polveroso sentiero per cavalcare in viale alberato e ampliato più volte in seguito....",
-                    "*...Il viale è tagliato a metà dalla perpendicolare Friedrichstraße che collega, a sud dei Tigli, la Friedrichstadt (it....",
-                    "...Lungo il \"viale dei Tigli\" si trovano la Staatsoper Unter den Linden e la Cattedrale cattolica di Sant'Edvige, entrambe costruite sotto Federico il Grande;..."
                 ]
             }
         },
@@ -425,7 +331,9 @@
                 "class": "amenity",
                 "type": "restaurant",
                 "snippet": [
-                    "...Lungo il \"viale dei Tigli\" si trovano la Staatsoper Unter den Linden e la Cattedrale cattolica di Sant'Edvige, entrambe costruite sotto Federico il Grande;..."
+                    "...Lungo il \"viale dei Tigli\" si trovano la Staatsoper Unter den Linden e la Cattedrale cattolica di Sant'Edvige, entrambe costruite sotto Federico il Grande;...",
+                    "...Sotto i tigli), trasformato nel 1647 da polveroso sentiero per cavalcare in viale alberato e ampliato più volte in seguito....",
+                    "*...Il viale è tagliato a metà dalla perpendicolare Friedrichstraße che collega, a sud dei Tigli, la Friedrichstadt (it...."
                 ]
             }
         },
@@ -560,26 +468,6 @@
                 "type": "attraction",
                 "snippet": [
                     "...Nel periodo 1994 - 1996 molti edifici del quartiere sono stati restaurati e costituiscono attrattive turistiche, quali gli Hackesche Höfe, un complesso di edifici con numerosi cortili interni, costruiti nel 1908 da August Endell...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.33645,
-                    52.514375
-                ]
-            },
-            "properties": {
-                "entity": "Tiergarten",
-                "name_location": "Tiergarten, Joseph-Haydn-Straße, Hansaviertel, Mitte, Berlino, 10555, Germania",
-                "class": "railway",
-                "type": "station",
-                "snippet": [
-                    "...Fin dal 1861 fa parte di Berlino anche il Tiergarten, il grande Parco centrale, già riserva di caccia dei re di Prussia, aperta al pubblico da Federico il Grande nel 1742, 210 ettari di verde al cui centro si trova la Siegessäule (Colonna della Vittoria) e adiacente il noto Zoologischer Garten Berlin, la Haus der Kulturen der Welt (Casa delle culture del mondo, centro congressi e di manifestazioni), il Schloss Bellevue (it.:...",
-                    "...Juni, al centro del Parco urbano del Tiergarten...."
                 ]
             }
         },
@@ -748,27 +636,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.334918,
-                    52.504516
-                ]
-            },
-            "properties": {
-                "entity": "Kurfürstendamm",
-                "name_location": "Kurfürstendamm, Charlottenburg, Charlottenburg-Wilmersdorf, Berlino, 10789, Germania",
-                "class": "highway",
-                "type": "secondary",
-                "snippet": [
-                    "*...La maggiore era Charlottenburg, a cavallo tra Seicento e Settecento, villaggio attorno al Castello di Charlottenburg, nel 1920 ricca città con 322 717 abitanti, che costituiva il Nuovo Ovest della metropoli, con l'elegante viale Kurfürstendamm, su cui ancor oggi affacciano teatri e negozi....",
-                    "*...La Schaubühne fu fondata nel 1962 e si trasferì nella sede attuale sul Kurfürstendamm nel 1981....",
-                    "...Altri teatri berlinesi sono il Grips-Theater, il Maxim Gorki Theater, il Theater und Komödie am Kurfürstendamm e il Renaissance Theater...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     13.528325,
                     52.467627
                 ]
@@ -788,26 +655,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.46183,
-                    52.493849
-                ]
-            },
-            "properties": {
-                "entity": "Treptower Park",
-                "name_location": "Treptower Park, Bernhard-Langwaldt-Weg, Alt-Treptow, Treptow-Köpenick, Berlino, 12435, Germania",
-                "class": "railway",
-                "type": "station",
-                "snippet": [
-                    "*...Con Köpenick entrarono nel nuovo territorio berlinese anche le ampie zone verde nel sud-est, il grande lago Müggelsee con le sue foreste e i parchi – più centrali – Treptower Park e Plänterwald....",
-                    "...Memoriale sovietico di Treptower Park ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     13.27814,
                     52.505027
                 ]
@@ -819,46 +666,6 @@
                 "type": "attraction",
                 "snippet": [
                     "...Tra le numerose altre località integrate – alle quali Berlino deve il soprannome \"Città dei cento villaggi\" – risulta anche la maggior parte dei quartieri residenziali eleganti, quelli più periferici e anche quelli più vicini come Grunewald ai margini dell'omonima foresta, o Westend, dove dal 1926 si trova la Funkturm (Torre della radio), e dal 1936 l'Olympiastadion (Stadio olimpico)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.243256,
-                    52.512108
-                ]
-            },
-            "properties": {
-                "entity": "Olympiastadion",
-                "name_location": "Olympiastadion, Trakehner Allee, Westend, Charlottenburg-Wilmersdorf, Berlino, 14053, Germania",
-                "class": "railway",
-                "type": "stop",
-                "snippet": [
-                    "...Tra le numerose altre località integrate – alle quali Berlino deve il soprannome \"Città dei cento villaggi\" – risulta anche la maggior parte dei quartieri residenziali eleganti, quelli più periferici e anche quelli più vicini come Grunewald ai margini dell'omonima foresta, o Westend, dove dal 1926 si trova la Funkturm (Torre della radio), e dal 1936 l'Olympiastadion (Stadio olimpico)....",
-                    "...L'Olympiastadion (Stadio olimpico) del 1936 è stato restaurato e modernizzato completamente prima dei mondiali di calcio del 2006...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.239814,
-                    52.514585
-                ]
-            },
-            "properties": {
-                "entity": "Stadio olimpico",
-                "name_location": "Olympiastadion Berlin, 3, Olympischer Platz, Westend, Charlottenburg-Wilmersdorf, Berlino, 14053, Germania",
-                "class": "leisure",
-                "type": "stadium",
-                "snippet": [
-                    "*...Tra le numerose altre località integrate – alle quali Berlino deve il soprannome \"Città dei cento villaggi\" – risulta anche la maggior parte dei quartieri residenziali eleganti, quelli più periferici e anche quelli più vicini come Grunewald ai margini dell'omonima foresta, o Westend, dove dal 1926 si trova la Funkturm (Torre della radio), e dal 1936 l'Olympiastadion (Stadio olimpico)....",
-                    "...L'Olympiastadion (Stadio olimpico) del 1936 è stato restaurato e modernizzato completamente prima dei mondiali di calcio del 2006...."
                 ]
             }
         },
@@ -1082,26 +889,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.444905,
-                    52.501236
-                ]
-            },
-            "properties": {
-                "entity": "Oberbaumbrücke",
-                "name_location": "Oberbaumbrücke, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlino, 10243, Germania",
-                "class": "highway",
-                "type": "secondary",
-                "snippet": [
-                    "...I vecchi e ormai stretti confini della città – come il ponte Oberbaumbrücke non esistevano più....",
-                    "*...Oberbaumbrücke, 1992 ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     13.405312,
                     52.538051
                 ]
@@ -1197,8 +984,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.417866,
-                    52.526209
+                    13.419451,
+                    52.525224
                 ]
             },
             "properties": {
@@ -1235,13 +1022,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.40231,
-                    52.52266
+                    13.376088,
+                    52.509243
                 ]
             },
             "properties": {
                 "entity": "DB",
-                "name_location": "Deutsche Bahn, Hackescher Markt, Spandauer Vorstadt, Mitte, Berlino, 10178, Germania",
+                "name_location": "Deutsche Bahn, Potsdamer Platz, Tiergarten, Mitte, Berlino, 10785, Germania",
                 "class": "amenity",
                 "type": "vending_machine",
                 "snippet": [
@@ -1279,7 +1066,7 @@
             },
             "properties": {
                 "entity": "Berlin Hauptbahnhof",
-                "name_location": "Berlin Hauptbahnhof (tief), Eingangsebene, Moabit, Mitte, Berlino, 10557, Germania",
+                "name_location": "Berlin Hauptbahnhof (tief), Eingangsebene, Moabit, Mitte, Berlino, 11011, Germania",
                 "class": "railway",
                 "type": "station",
                 "snippet": [
@@ -1318,49 +1105,11 @@
             },
             "properties": {
                 "entity": "Westhafen",
-                "name_location": "Westhafen, Ellen-Epstein-Straße, Moabit, Mitte, Berlino, 10551, Germania",
+                "name_location": "Westhafen, Ellen-Epstein-Straße, Moabit, Mitte, Berlino, 10559, Germania",
                 "class": "railway",
                 "type": "stop",
                 "snippet": [
                     "*...Tre grandi porti fluviali, situati lungo la Sprea, utilizzati per il trasporto merci e serviti anche da navi pesanti, sono tuttora in funzione. Il più grande è il Westhafen (it.: porto dell'ovest), situato a Moabit; sono attivi anche il Südhafen e l'Hafen Neukölln...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.264498,
-                    52.535167
-                ]
-            },
-            "properties": {
-                "entity": "A10",
-                "name_location": "A10, Rohrdamm, Siemensstadt, Spandau, Berlino, 13629, Germania",
-                "class": "building",
-                "type": "industrial",
-                "snippet": [
-                    "*...Berlino ha una rete autostradale che si raccorda nella A10, il \"raccordo anulare\" cittadino...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.47321,
-                    52.64808
-                ]
-            },
-            "properties": {
-                "entity": "A2",
-                "name_location": "A2, Schönerlinder Chaussee, Buch, Pankow, Berlino, 13125, Germania",
-                "class": "amenity",
-                "type": "hunting_stand",
-                "snippet": [
-                    "...Le altre linee autostradali sono la A2 (verso Hannover, Dortmund e Oberhausen), la A9 (verso Monaco di Baviera), la A24 (verso Amburgo), la A12 (verso Francoforte sull'Oder), la A13 (verso Dresda), la A11 (verso Stettino) e le urbane A115 (parte dell'AVUS), A111, A103, A113, A114, A117 e A100, il semianello centrale...."
                 ]
             }
         },
@@ -1445,25 +1194,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.264131,
-                    52.534317
-                ]
-            },
-            "properties": {
-                "entity": "A11",
-                "name_location": "A11, Motardstraße, Siemensstadt, Spandau, Berlino, 13629, Germania",
-                "class": "building",
-                "type": "yes",
-                "snippet": [
-                    "...Le altre linee autostradali sono la A2 (verso Hannover, Dortmund e Oberhausen), la A9 (verso Monaco di Baviera), la A24 (verso Amburgo), la A12 (verso Francoforte sull'Oder), la A13 (verso Dresda), la A11 (verso Stettino) e le urbane A115 (parte dell'AVUS), A111, A103, A113, A114, A117 e A100, il semianello centrale...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     13.282185,
                     52.600957
                 ]
@@ -1493,7 +1223,8 @@
                 "class": "highway",
                 "type": "bus_stop",
                 "snippet": [
-                    "*...Le altre linee autostradali sono la A2 (verso Hannover, Dortmund e Oberhausen), la A9 (verso Monaco di Baviera), la A24 (verso Amburgo), la A12 (verso Francoforte sull'Oder), la A13 (verso Dresda), la A11 (verso Stettino) e le urbane A115 (parte dell'AVUS), A111, A103, A113, A114, A117 e A100, il semianello centrale...."
+                    "*...Le altre linee autostradali sono la A2 (verso Hannover, Dortmund e Oberhausen), la A9 (verso Monaco di Baviera), la A24 (verso Amburgo), la A12 (verso Francoforte sull'Oder), la A13 (verso Dresda), la A11 (verso Stettino) e le urbane A115 (parte dell'AVUS), A111, A103, A113, A114, A117 e A100, il semianello centrale....",
+                    "*...Berlino ha una rete autostradale che si raccorda nella A10, il \"raccordo anulare\" cittadino...."
                 ]
             }
         },
@@ -1550,7 +1281,34 @@
                 "class": "amenity",
                 "type": "library",
                 "snippet": [
-                    "...La maggiore biblioteca di Berlino è la Staatsbibliothek zu Berlin, una biblioteca nazionale, il cui patrimonio è custodito in vari edifici tra cui la Haus Unter den Linden e la Haus Potsdamer Straße...."
+                    "...La maggiore biblioteca di Berlino è la Staatsbibliothek zu Berlin, una biblioteca nazionale, il cui patrimonio è custodito in vari edifici tra cui la Haus Unter den Linden e la Haus Potsdamer Straße....",
+                    "*...Dall'isola porta verso ovest e fino alla Porta di Brandeburgo il viale Unter den Linden (it.:...",
+                    "...Lungo il \"viale dei Tigli\" si trovano la Staatsoper Unter den Linden e la Cattedrale cattolica di Sant'Edvige, entrambe costruite sotto Federico il Grande;...",
+                    "...Anche la Staatsbibliothek Unter den Linden, la Guardia Nuova del 1818 e il lussuoso Hotel Adlon del 1907 (distrutto nel 1945 e riaperto nel 1997) si affacciano sullo storico viale....",
+                    "...La Deutsche Oper, la Staatsoper Unter den Linden e la Komische Oper....",
+                    "...La Staatsoper sulla Unter den Linden è stata inaugurata nel 1742 ed è la più antica delle tre....",
+                    "*...La Komische Oper è specializzata nel repertorio dell'operetta e si trova anch'essa sull'Unter den Linden...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.397815,
+                    52.520033
+                ]
+            },
+            "properties": {
+                "entity": "Isola dei musei",
+                "name_location": "Isola dei musei, Am Kupfergraben, Friedrichswerder, Mitte, Berlino, 10117, Germania",
+                "class": "tourism",
+                "type": "attraction",
+                "snippet": [
+                    "...L'intera punta settentrionale dell'isola costituisce l'Isola dei Musei, con i suoi cinque grandi edifici dedicati alle esposizioni e costruiti a partire dal 1822, oggi uno dei più importanti complessi museali del mondo, dedicato soprattutto alle collezioni archeologiche e all'arte dell'Ottocento....",
+                    "...L'isola dei musei è entrata a far parte della lista nel 1999....",
+                    "...Il nome \"Isola dei musei\" è dovuto al gran numero di musei, di importanza internazionale, che si trovano nella parte settentrionale dell'Isola della Sprea...."
                 ]
             }
         },
@@ -1894,7 +1652,8 @@
                 "type": "stadium",
                 "snippet": [
                     "...Tra le numerose altre località integrate – alle quali Berlino deve il soprannome \"Città dei cento villaggi\" – risulta anche la maggior parte dei quartieri residenziali eleganti, quelli più periferici e anche quelli più vicini come Grunewald ai margini dell'omonima foresta, o Westend, dove dal 1926 si trova la Funkturm (Torre della radio), e dal 1936 l'Olympiastadion (Stadio olimpico)....",
-                    "...L'Olympiastadion (Stadio olimpico) del 1936 è stato restaurato e modernizzato completamente prima dei mondiali di calcio del 2006...."
+                    "...L'Olympiastadion (Stadio olimpico) del 1936 è stato restaurato e modernizzato completamente prima dei mondiali di calcio del 2006....",
+                    "*...Tra le numerose altre località integrate – alle quali Berlino deve il soprannome \"Città dei cento villaggi\" – risulta anche la maggior parte dei quartieri residenziali eleganti, quelli più periferici e anche quelli più vicini come Grunewald ai margini dell'omonima foresta, o Westend, dove dal 1926 si trova la Funkturm (Torre della radio), e dal 1936 l'Olympiastadion (Stadio olimpico)...."
                 ]
             }
         },

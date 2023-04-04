@@ -28,47 +28,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    6.131564,
-                    49.609603
-                ]
-            },
-            "properties": {
-                "entity": "Cattedrale",
-                "name_location": "Cattedrale di Notre-Dame, 7, Rue Notre-Dame, Ville-Haute, Lussemburgo, Canton Luxembourg, 2240, Lussemburgo",
-                "class": "amenity",
-                "type": "place_of_worship",
-                "snippet": [
-                    "*...Subito dopo venne costruita la nuova cinta muraria e la Chiesa di San Nicola, ora Cattedrale....",
-                    "...Oggi, il palazzo Alcide de Gasperi (detto Bâtiment Tour), le torri A et B – situate al Kirchberg – definiscono, con le fortificazioni, la Chiesa Saint-Michel e la cattedrale Notre-Dame, la \"skyline\" della città di Lussemburgo....",
-                    "...La Cattedrale di Notre-Dame, edificio in stile tardo gotico con due affilatissime guglie sulle torri...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.15026,
-                    49.622796
-                ]
-            },
-            "properties": {
-                "entity": "Europa",
-                "name_location": "Corte dei conti europea, 12, Rue Alcide de Gasperi, Quartier Européen Nord, Kirchberg, Lussemburgo, Canton Luxembourg, 1615, Lussemburgo",
-                "class": "office",
-                "type": "government",
-                "snippet": [
-                    "...Lussemburgo (Lëtzebuerg o, colloquialmente, d'Stad in lussemburghese, Luxembourg in francese, Luxemburg in tedesco) è la capitale del Granducato di Lussemburgo, piccolo Stato compreso fra l'Europa occidentale e l'Europa centrale e racchiuso tra il Belgio a ovest e a nord, la Germania a est e la Francia a sud....",
-                    "*...Sotto la dominazione asburgica le sue fortificazioni vennero ulteriormente rafforzate, facendo così di Lussemburgo una delle più solide roccaforti d'Europa...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     6.115181,
                     49.587223
                 ]
@@ -140,26 +99,6 @@
                     "...Il plateau du Kirchberg è dalla fine degli anni ottanta in piena espansione....",
                     "*...Oggi, il palazzo Alcide de Gasperi (detto Bâtiment Tour), le torri A et B – situate al Kirchberg – definiscono, con le fortificazioni, la Chiesa Saint-Michel e la cattedrale Notre-Dame, la \"skyline\" della città di Lussemburgo....",
                     "*...Beggen, Belair, Bonnevoie-Nord-Verlorenkost, Bonnevoie-Sud, Ville-Haute, Cents, Cessange, Clausen, Dommeldange, Eich, Gare, Gasperich, Grund, Hamm, Hollerich, Kirchberg, Limpertsberg, Merl, Muhlenbach, Neudorf-Weimershof, Pfaffenthal, Pulvermuhl, Rollingergrund-Belair-Nord, Weimerskirch...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.129904,
-                    49.609863
-                ]
-            },
-            "properties": {
-                "entity": "Notre-Dame",
-                "name_location": "Notre Dame, 15, Rue Notre-Dame, Ville-Haute, Lussemburgo, Canton Luxembourg, 2240, Lussemburgo",
-                "class": "building",
-                "type": "yes",
-                "snippet": [
-                    "*...Oggi, il palazzo Alcide de Gasperi (detto Bâtiment Tour), le torri A et B – situate al Kirchberg – definiscono, con le fortificazioni, la Chiesa Saint-Michel e la cattedrale Notre-Dame, la \"skyline\" della città di Lussemburgo....",
-                    "...La Cattedrale di Notre-Dame, edificio in stile tardo gotico con due affilatissime guglie sulle torri...."
                 ]
             }
         },

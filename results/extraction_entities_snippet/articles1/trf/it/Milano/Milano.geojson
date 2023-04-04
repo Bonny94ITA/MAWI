@@ -196,15 +196,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.093318,
-                    45.505154
+                    9.093311,
+                    45.505137
                 ]
             },
             "properties": {
                 "entity": "Molino Dorino",
                 "name_location": "Molino Dorino, Ciclabile Pero - Molino Dorino, Gallaratese, Quartiere Gallaratese, Municipio 8 di Milano, Milano, Lombardia, 20016, Italia",
                 "class": "railway",
-                "type": "station",
+                "type": "stop",
                 "snippet": [
                     "*...Tra le architetture degne di nota ad essi collegati, si annoverano svariate conche di navigazione (tra cui la conca dell'Incoronata, la conca di Viarenna, la conca Fallata e la conchetta), alcuni mulini ad acqua (tra cui Molino Dorino e Mulino Vettabbia) e il ponte delle Gabelle...."
                 ]
@@ -3295,13 +3295,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.250353,
-                    45.462525
+                    9.250307,
+                    45.461952
                 ]
             },
             "properties": {
                 "entity": "E64",
-                "name_location": "Tangenziale Est, Quartiere Forlanini, Municipio 4, Monluè, Milano, Lombardia, 20134, Italia",
+                "name_location": "Tangenziale Est, Mecenate, Municipio 4, Monluè, Milano, Lombardia, 20134, Italia",
                 "class": "highway",
                 "type": "motorway_link",
                 "snippet": [

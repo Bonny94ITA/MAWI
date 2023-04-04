@@ -65,25 +65,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.514249,
-                    50.452912
-                ]
-            },
-            "properties": {
-                "entity": "Santa Sofia",
-                "name_location": "Cattedrale di Santa Sofia, Via Volodymyrs'ka, Го́род Володимира, Старий Київ, Центр, Шевченківський район, Kiev, 01028, Ucraina",
-                "class": "amenity",
-                "type": "place_of_worship",
-                "snippet": [
-                    "*...Cattedrale di Santa Sofia. Edificata nel 1037 venne disegnata per emulare lo splendore delle chiese bizantine, riflettendo la percezione della cristianità dell'Impero Bizantino. Il tempio, fino al 1240, era per dimensioni il secondo dell'intera Cristianità. Anche se è dedicato alla \"Santa Sapienza\", come la grande cattedrale di Hagia Sophia a Costantinopoli, l'edificio ha una forma decisamente differente: invece che una singola cupola semisferica che si innalza dal corpo dell'edificio, la cattedrale di Santa Sofia a Kiev ha 13 cupole a cipolla montate su tamburi. La ragione è che gli ingegneri bizantini che la costruirono dovettero rinunciare alla pietra e usare esclusivamente mattoni su un terreno che non era abbastanza solido. La cupola centrale è leggermente più grande delle altre e, dal più recente rinnovo, dorata. La cattedrale nel corso del tempo ha perso alcuni dei corpi costruttivi ed è oggi più modesta rispetto alla costruzione originale...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     30.508827,
                     50.444941
                 ]
@@ -203,14 +184,14 @@
                 ]
             },
             "properties": {
-                "entity": "Piazza Bessarabia",
+                "entity": "piazza Bessarabia",
                 "name_location": "Piazza Bessarabia, Левашовська Гора, Бессарабка, Клов, Печерський район, Kiev, 01003, Ucraina",
                 "class": "highway",
                 "type": "primary",
                 "snippet": [
-                    "*...Piazza Bessarabia ;...",
-                    "...Monumento a Lenin, si trovava in piazza Bessarabia ed è stato demolito nel 2013....",
-                    "*...Monumento a Lenin, si trovava in piazza Bessarabia ed è stato demolito nel 2013...."
+                    "...Piazza Bessarabia ;...",
+                    "*...Monumento a Lenin, si trovava in piazza Bessarabia ed è stato demolito nel 2013....",
+                    "*...Piazza Bessarabia ;..."
                 ]
             }
         },
@@ -268,45 +249,6 @@
                 "type": "primary",
                 "snippet": [
                     "*...Il ponte Paton è stato ultimato nel 1953, il ponte Pivnichnyi (chiamato fino al 2018 ponte Mosca) nel 1976, il Ponte Pivdennij nel 1990 e il più recente ponte auto-ferroviario, il Nuovo Ponte Darnytskyi è stato costruito tra il 2004 e il 2011, parte del progetto della stazione di Darnycja...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.635114,
-                    50.473095
-                ]
-            },
-            "properties": {
-                "entity": "Posta",
-                "name_location": "Пошта, вулиця Шолом-Алейхема, Лісовий масив, Деснянський район, Kiev, 02156, Ucraina",
-                "class": "highway",
-                "type": "bus_stop",
-                "snippet": [
-                    "...Piazza della Posta, la piazza più antica nel distretto di Podil, con i primi insediamenti risalenti al IV secolo....",
-                    "*...La funicolare di Kiev, inaugurata nel 1905, collega la città storica (nei pressi del monastero dorato di San Michele) con la sottostante piazza della Posta nel quartiere commerciale di Podil...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.591103,
-                    50.592045
-                ]
-            },
-            "properties": {
-                "entity": "Desna",
-                "name_location": "Десна, Гагаріна вулиця, Хотянівка, Пірнівська сільська громада, Вишгородський район, Oblast' di Kyiv, 07363, Ucraina",
-                "class": "leisure",
-                "type": "resort",
-                "snippet": [
-                    "*...Distretto di Desna (Деснянський район; dal fiume Desna) ;..."
                 ]
             }
         },

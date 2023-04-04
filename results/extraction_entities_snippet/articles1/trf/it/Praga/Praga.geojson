@@ -25,28 +25,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    14.419564,
-                    50.091028
-                ]
-            },
-            "properties": {
-                "entity": "Castello",
-                "name_location": "Pizzeria Castello, 5, Bílkova, Josefov, Praha 1, Praga, Praha, 110 00, Repubblica Ceca",
-                "class": "amenity",
-                "type": "restaurant",
-                "snippet": [
-                    "*...Queste quattro città erano Hradčany (il Castello, a ovest della Moldava), Malá Strana (\"piccolo quartiere\", nell'area a sud del Castello), Staré Město (la Città Vecchia, sulla riva orientale opposta al Castello) e Nové Město (la Città Nuova, a sud-est)....",
-                    "...Tra le principali attrazioni turistiche troviamo Staré Město, alcuni luoghi legati a Franz Kafka, Malá Strana, Hradčany con il Castello di Praga, il Vicolo d'Oro (la leggenda vuole che in queste casette sghembe abbiano lavorato gli alchimisti incaricati da Rodolfo II della ricerca della pietra filosofale) e la Cattedrale di San Vito (dove sono conservate le reliquie più importanti della Chiesa cattolica boema:...",
-                    "...La Metamorfosi; Il Processo; Il Castello; America; Lettera al padre; Lettere a Milena (Franz Kafka);...",
-                    "...Vicolo dell'Oro: antica via in cui venivano condotti esperimenti e studi dalla maggior parte degli alchimisti e maghi radunati da Rodolfo II. Secondo alcuni, invece, in tale vicolo risiedevano le guardie del castello mentre alchimisti e maghi nel quartiere di Mala Strana;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     14.420293,
                     50.086978
                 ]
@@ -97,7 +75,10 @@
                 "class": "historic",
                 "type": "castle",
                 "snippet": [
-                    "...Tra le principali attrazioni turistiche troviamo Staré Město, alcuni luoghi legati a Franz Kafka, Malá Strana, Hradčany con il Castello di Praga, il Vicolo d'Oro (la leggenda vuole che in queste casette sghembe abbiano lavorato gli alchimisti incaricati da Rodolfo II della ricerca della pietra filosofale) e la Cattedrale di San Vito (dove sono conservate le reliquie più importanti della Chiesa cattolica boema:..."
+                    "...Tra le principali attrazioni turistiche troviamo Staré Město, alcuni luoghi legati a Franz Kafka, Malá Strana, Hradčany con il Castello di Praga, il Vicolo d'Oro (la leggenda vuole che in queste casette sghembe abbiano lavorato gli alchimisti incaricati da Rodolfo II della ricerca della pietra filosofale) e la Cattedrale di San Vito (dove sono conservate le reliquie più importanti della Chiesa cattolica boema:...",
+                    "*...Queste quattro città erano Hradčany (il Castello, a ovest della Moldava), Malá Strana (\"piccolo quartiere\", nell'area a sud del Castello), Staré Město (la Città Vecchia, sulla riva orientale opposta al Castello) e Nové Město (la Città Nuova, a sud-est)....",
+                    "...La Metamorfosi; Il Processo; Il Castello; America; Lettera al padre; Lettere a Milena (Franz Kafka);...",
+                    "...Vicolo dell'Oro: antica via in cui venivano condotti esperimenti e studi dalla maggior parte degli alchimisti e maghi radunati da Rodolfo II. Secondo alcuni, invece, in tale vicolo risiedevano le guardie del castello mentre alchimisti e maghi nel quartiere di Mala Strana;..."
                 ]
             }
         },
@@ -149,15 +130,15 @@
                 ]
             },
             "properties": {
-                "entity": "Ponte Carlo",
+                "entity": "ponte Carlo",
                 "name_location": "Ponte Carlo, Città Vecchia, Praha 1, Praga, Praha, 116 93, Repubblica Ceca",
                 "class": "highway",
                 "type": "pedestrian",
                 "snippet": [
                     "...Quelle dei santi Vito, Venceslao, Adalberto, Sigismondo e Giovanni Nepomuceno, patrono della Boemia), il Ponte Carlo (Karlův most;...",
-                    "...Il gotico ponte Carlo è uno dei più importanti monumenti dell'architettura medievale in Boemia), il Muro di Lennon, il vecchio Cimitero ebraico e il quartiere di Nové Město con il suo municipio, Novoměstská radnice....",
-                    "*...Ponte Carlo;...",
-                    "*...Il gotico ponte Carlo è uno dei più importanti monumenti dell'architettura medievale in Boemia), il Muro di Lennon, il vecchio Cimitero ebraico e il quartiere di Nové Město con il suo municipio, Novoměstská radnice...."
+                    "*...Il gotico ponte Carlo è uno dei più importanti monumenti dell'architettura medievale in Boemia), il Muro di Lennon, il vecchio Cimitero ebraico e il quartiere di Nové Město con il suo municipio, Novoměstská radnice....",
+                    "...Ponte Carlo;...",
+                    "*...Ponte Carlo;..."
                 ]
             }
         },
@@ -215,26 +196,6 @@
                 "type": "theatre",
                 "snippet": [
                     "...Fra i principali teatri cittadini ci sono il Teatro Nazionale (Národní Divadlo) ed il Teatro degli Stati (Stavovské, Tylovo o Nosticovo divadlo), dove si tennero le prime di due opere di Mozart:..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.415501,
-                    50.089939
-                ]
-            },
-            "properties": {
-                "entity": "Rudolfinum",
-                "name_location": "Rudolfinum, 79/12, Alšovo nábřeží, Città Vecchia, Praha 1, Praga, Praha, 110 00, Repubblica Ceca",
-                "class": "amenity",
-                "type": "concert_hall",
-                "snippet": [
-                    "...Galleria Rudolfinum ;...",
-                    "*...Le maggiori istituzioni musicali sono l'Orchestra Filarmonica Ceca, che si esibisce nel Rudolfinum, e l'Orchestra Sinfonica di Praga, che tiene i suoi concerti nella Casa Municipale...."
                 ]
             }
         },

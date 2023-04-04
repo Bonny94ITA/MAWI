@@ -31,27 +31,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -5.989281,
-                    37.387204
-                ]
-            },
-            "properties": {
-                "entity": "Alcázar",
-                "name_location": "Casa Fabiola, 5, Calle Fabiola, San Bartolomé, Casco Antiguo, Siviglia, Sevilla, Andalusia, 41004, Spagna",
-                "class": "tourism",
-                "type": "museum",
-                "snippet": [
-                    "...In particolare la Giralda, la Cattedrale, l'Alcázar e l'Archivio delle Indie sono stati dichiarati patrimonio dell'umanità dall'UNESCO nel 1987....",
-                    "...I Reales Alcázares (le fortezze reali) vengono chiamati così, al plurale, perché costituiscono un insieme architettonico che va dal primo Alcázar arabo (al-Qasr) ai successivi ampliamenti di cortili e palazzi che furono costruiti dai monarchi successivi....",
-                    "*...Dell'Alcázar restaurato dagli Almohadi nel XII secolo rimane solo una parte delle mura, il Patio del Yeso e quello de la Montería...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -6.00494,
                     37.383717
                 ]
@@ -132,7 +111,9 @@
                     "*...Il vincitore Scipione decise allora di fondare una città in cui tenere le truppe e la chiamò Italica, che si trovava a pochi chilometri da Ispal, che sotto dominio romano venne chiamata Hispalis....",
                     "*...Questi due nuclei conobbero epoche di grande splendore e nel 45 a.C. Giulio Cesare concesse a Hispalis il rango di colonia romana, facendone una delle città più importanti della Spagna....",
                     "...Nonostante l'importanza di Hispalis in epoca romana oggi a Siviglia ci sono pochissime testimonianze di questo periodo, fatta eccezione per dei resti di un antico acquedotto, a differenza di Italica di cui rimangono tuttora grandi resti del passato romano....",
-                    "...Lo stesso Gunderico morì in città due anni più tardi e il suo successore, il figlio Genserico, decise di abbandonare la Spagna per dirigersi alla conquista dell'Africa lasciando Hispalis in mano ai visigoti...."
+                    "...Lo stesso Gunderico morì in città due anni più tardi e il suo successore, il figlio Genserico, decise di abbandonare la Spagna per dirigersi alla conquista dell'Africa lasciando Hispalis in mano ai visigoti....",
+                    "*...Il nome della città proviene dal nome indigeno tartessiano Spal o Ispal, dal significato di \"terra pianeggiante\"....",
+                    "*...Furono i Tartessi i primi a fondare un insediamento nella zona dell'odierna Siviglia, intorno all'VIII secolo a.C., chiamandolo Ispal...."
                 ]
             }
         },
@@ -211,26 +192,6 @@
                 "snippet": [
                     "...A quest'ultimo periodo del dominio islamico si devono la costruzione di monumenti come la Giralda, la Torre dell'Oro, l'Alcazar e le mura della Macarena....",
                     "*...Ferdinando III decise inoltre di spostare la corte del Regno di Castiglia nell'Alcazar, la fortezza araba, che divenne così la prima residenza reale...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -5.984635,
-                    37.380258
-                ]
-            },
-            "properties": {
-                "entity": "MetroCentro",
-                "name_location": "Metrocentro T1, Calle Diego de Riaño, San Bernardo, Nervión, Siviglia, Sevilla, Andalusia, 41004, Spagna",
-                "class": "railway",
-                "type": "tram",
-                "snippet": [
-                    "*...L'area monumentale del centro storico è stata dichiarata area pedonale e da ottobre 2007 la mobilità si completa con una linea di metro in superficie (MetroCentro) che collega le stazioni della Metropolitana di Prado de San Sebastián e Puerta de Jerez, con Avenida Constitución e la Plaza Nueva....",
-                    "...La città e le sue zone limitrofe sono servite dalle linee di autobus gestite da TUSSAM (Transportes Urbanos de Sevilla) che opera anche una linea tranviaria urbana aperta nel 2007, El Metrocentro Tranvia:..."
                 ]
             }
         },
@@ -328,33 +289,6 @@
                 "snippet": [
                     "*...La facciata principale si trova lungo Avenida de la Constitución e all'esterno la Chiesa è circondata dalle gradinate, ovvero delle scalinate collegate tra loro da catene, che furono costruite per servire da punto di assunzione di braccianti durante il XIV secolo....",
                     "*...Questa piazza, a nord della Cattedrale in fondo alla Avenida de la Constitución, da molti anni svolge la funzione di centro principale della città...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -5.989083,
-                    37.401827
-                ]
-            },
-            "properties": {
-                "entity": "Macarena",
-                "name_location": "Macarena, Calle Pozo, San Gil, Casco Antiguo, Siviglia, Sevilla, Andalusia, 41002, Spagna",
-                "class": "tourism",
-                "type": "hotel",
-                "snippet": [
-                    "...A quest'ultimo periodo del dominio islamico si devono la costruzione di monumenti come la Giralda, la Torre dell'Oro, l'Alcazar e le mura della Macarena....",
-                    "...Basilica della Macarena ;...",
-                    "*...Chiesa di San Luigi dei Francesi (1709-1732), nel quartiere della Macarena, edificio in stile barocco che conserva dipinti di Lucas Valdés (in controfacciata) e sculture di Duque Cornejo....",
-                    "*...Chiesa di Santa Marina, nel quartiere della Macarena, edificio dotato di portale e campanile in stile mudejar (XIV secolo)....",
-                    "*...Chiesa di San Gil, nel quartiere della Macarena, edificio ricostruito nel Seicento sulla base di una precedente Chiesa del Duecento, della quale si conservano ancora l'abside e alcuni ornamenti del Trecento. Il campanile, già al servizio della Chiesa originaria, è un vecchio minareto: la vecchia Chiesa fu infatti costruita in sostituzione di una moschea, resti della quale sono ancora osservabili all'interno dell'attuale edificio religioso....",
-                    "*...Chiesa dell'Hospital de la Sangre, costruita nel 1560 nel quartiere della Macarena, all'interno della quale trova posto un retablo del 1601....",
-                    "...Puerta de la Macarena (1713-1795), nell'omonimo quartiere, costruita in un tratto di mura romane intervallate da torri del periodo arabo. La porta è decorata ad azulejos....",
-                    "...Hospital de las Cinco Llagas (1546-1613), detto anche Hospital de la Sangre, costruito in stile rinascimentale non lontano dalla Puerta de la Macarena....",
-                    "*...Altro famoso quartiere è quello della Macarena, che prende il nome da una Basilica ove è custodita la venerata immagine della Vergine Speranza Macarena, che viene portata in processione per la città, in mezzo al fervore popolare, durante le festività pasquali...."
                 ]
             }
         },
@@ -498,33 +432,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -5.991133,
-                    37.388949
-                ]
-            },
-            "properties": {
-                "entity": "Museo",
-                "name_location": "Museo del Baile Flamenco, Calle Manuel Rojas Marcos, Alfalfa, Casco Antiguo, Siviglia, Sevilla, Andalusia, 41004, Spagna",
-                "class": "tourism",
-                "type": "museum",
-                "snippet": [
-                    "...Di questa popolazione è giunto fino a noi il Tesoro del Carambolo trovato nei dintorni della città nel 1958 ed ora tenuto in una cassaforte del Museo Archeologico....",
-                    "*...In calle de Santa Teresa al numero 8 si trova la casa, oggi Museo, in cui il pittore Murillo trascorse gli ultimi anni della sua vita....",
-                    "*...Al suo interno è ospitato un Museo che ripercorre la storia taurina di Siviglia che è antica e illustre, avendo la sua arena ospitato i più grandi toreri di tutti i tempi....",
-                    "...Attualmente la torre ospita il Museo Navale....",
-                    "...All'interno del Parco di Maria Luisa, uno dei padiglioni ospita il Museo de Artes y Costumbres Populares. Di fronte a questo, il padiglione delle belle arti ospita attualmente il Museo archeologico di Siviglia, che ospita una collezione di oggetti d'oro dall'età del rame alla romanizzazione, numerose statue provenienti dagli scavi di Italica e alcune leggi romane incise su lastre di bronzo....",
-                    "*...In calle de Santa Teresa, al numero 8 si trova il Museo dedicato al pittore Murillo....",
-                    "...L'Ospedale de los Venerables Sacerdotes ospita il Museo de la Semana Santa....",
-                    "...La Torre del Oro ospita un Museo Navale....",
-                    "...Il Museo di belle arti, situato in Plaza del Museo...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -5.987249,
                     37.390239
                 ]
@@ -575,26 +482,6 @@
                 "type": "hotel",
                 "snippet": [
                     "...In centro, la piazza di Porta Jerez, che una volta era l'uscita dalle mura cittadine, è ora una bella piazza nelle vicinanze della quale si trova l'Hotel Alfonso XIII, il più lussuoso di Siviglia, costruito nel 1929 in stile neomudéjar...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -5.995379,
-                    37.381259
-                ]
-            },
-            "properties": {
-                "entity": "San Telmo",
-                "name_location": "Puente de San Telmo, Santa Cruz, Casco Antiguo, Siviglia, Sevilla, Andalusia, 41120, Spagna",
-                "class": "highway",
-                "type": "primary",
-                "snippet": [
-                    "*...Non lontano dalla piazza è anche il palazzo San Telmo, sede del seminario arcidiocesano e della locale Università Pontificia....",
-                    "...Il più bel Parco di Siviglia nasce dalla donazione, fatta alla città nel 1893, di metà dei giardini del Palazzo San Telmo, che erano di proprietà della principessa Maria Luisa...."
                 ]
             }
         },
@@ -768,29 +655,6 @@
                 "type": "aqueduct",
                 "snippet": [
                     "*...Caños de Carmona (resti di un acquedotto romano-almohadi)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -5.988456,
-                    37.385193
-                ]
-            },
-            "properties": {
-                "entity": "Santa Cruz",
-                "name_location": "Cruz de la Cerrajería, Plaza de Santa Cruz, Santa Cruz, Casco Antiguo, Siviglia, Sevilla, Andalusia, 41004, Spagna",
-                "class": "tourism",
-                "type": "artwork",
-                "snippet": [
-                    "...Chiesa di Santa María la Blanca, nel Barrio de Santa Cruz. Ricostruita nel periodo barocco in sostituzione di una precedente sinagoga, nelle navate riccamente decorate a stucco ospita un'Ultima Cena di Bartolomé Esteban Murillo e una Pieta di Luís de Várgas (1564)....",
-                    "*...Attorno al nucleo di Siviglia monumentale si trovano i quartieri di Santa Cruz ed El Arenal che conservano tuttora l'aspetto dell'epoca moresca con vie strette e tortuose, piazzette irregolari e case basse con ampi ed eleganti patios....",
-                    "...Entrando nello specifico del Barrio de Santa Cruz, nel XV secolo vi furono costruite diverse piazze che si aprono in mezzo al labirinto di vie....",
-                    "*...A sud del barrio de Santa Cruz si trovano i Giardini di Murillo, che facevano parte degli orti dei Reales Alcázares, e furono donati alla città nel 1911....",
-                    "...Il Barrio de Santa Cruz è uno dei quartieri più pittoreschi e famosi di Siviglia...."
                 ]
             }
         },

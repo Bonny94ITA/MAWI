@@ -6,27 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    23.727798,
-                    37.971398
-                ]
-            },
-            "properties": {
-                "entity": "Museo dell'Acropoli",
-                "name_location": "Vecchio Museo dell'Acropoli, Περίπατος Ακρόπολης (Νότια κλιτύς), Αστεροσκοπείο, Αναφιώτικα, Άνω Πετράλωνα, 3η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 105 58, Grecia",
-                "class": "tourism",
-                "type": "museum",
-                "snippet": [
-                    "*...Nel XXI secolo è stata al centro dell'attenzione di tutto il mondo per aver organizzato con successo i Giochi della XXVIII Olimpiade nel 2004 e per l'inaugurazione del nuovo Museo dell'Acropoli nel 2009, che ha riaperto il dibattito riguardante i Marmi del Partenone....",
-                    "...Museo dell'acropoli di Atene, di Bernard Tschumi ;...",
-                    "*...Museo dell'Acropoli ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     23.731185,
                     37.990164
                 ]
@@ -43,30 +22,6 @@
                     "...Tuttavia, anche Poseidone la voleva sotto la sua protezione, poiché egli era il protettore dell'Attica....",
                     "*...Dalla fine della seconda guerra mondiale nella conurbazione di Atene e nella regione dell'Attica sono cresciuti diversi centri industriali, sia nella zona di Elefsina, che lungo l'autostrada verso le città di Lamia e Larissa....",
                     "...Periferiarca dell'Attica (ossia, governatore) è dal settembre 2014 Rena Dourou...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.743572,
-                    37.986797
-                ]
-            },
-            "properties": {
-                "entity": "Europa",
-                "name_location": "Europa, Ιπποκράτους, Πευκάκια, Συνοικία Γκύζη, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 114 72, Grecia",
-                "class": "shop",
-                "type": "doors",
-                "snippet": [
-                    "*...È una delle città d'Europa con il maggior numero di giorni di sole all'anno, visto che si possono contare in media 179 giorni durante i quali il sole non è coperto da nuvole nemmeno in un istante, e altri 157 durante i quali il sole è coperto da nuvole solo per mezz'ora....",
-                    "*...La temperatura effettiva percepita è però minore di quella di altre città d'Europa per il basso tasso d'umidità....",
-                    "*...Atene risulta pertanto, insieme a Madrid, una delle città più aride d'Europa....",
-                    "*...Atene possiede uno dei maggiori parchi autobus a metano in Europa e di filobus, per un totale di 293 linee che si sviluppano per circa 8500 chilometri con 8000 fermate....",
-                    "...La rete di filobus è la più estesa dell'Europa occidentale (392 chilometri)....",
-                    "*...La città è inoltre tagliata da nord a sud tramite la tangenziale del Cefiso (Leoforos Kifisias, dal nome del fiume sul quale è stata in parte costruita, è infatti sopraelevata per un lungo tratto), che costituisce il prolungamento urbano dell'autostrada per le città settentrionali di Lamia, Larissa e Salonicco, e giunge fino al Pireo concludendosi in uno degli svincoli autostradali più grandi d'Europa...."
                 ]
             }
         },
@@ -161,7 +116,9 @@
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
-                    "*...Museo dell'acropoli di Atene, di Bernard Tschumi ;..."
+                    "*...Museo dell'acropoli di Atene, di Bernard Tschumi ;...",
+                    "*...Nel XXI secolo è stata al centro dell'attenzione di tutto il mondo per aver organizzato con successo i Giochi della XXVIII Olimpiade nel 2004 e per l'inaugurazione del nuovo Museo dell'Acropoli nel 2009, che ha riaperto il dibattito riguardante i Marmi del Partenone....",
+                    "*...Museo dell'Acropoli ;..."
                 ]
             }
         },
@@ -202,29 +159,6 @@
                     "...Biblioteca della civiltà bizantina presso il Museo Bizantino e Cristiano ;...",
                     "*...Museo bizantino ;...",
                     "...Museo bizantino e cristiano ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.740345,
-                    37.976031
-                ]
-            },
-            "properties": {
-                "entity": "Museo Benaki",
-                "name_location": "museo Benaki, 1, Κουμπάρη, Κολωνάκι, Συνοικία Κολωνακίου, 1η Κοινότητα Αθηνών, Atene, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 106 74, Grecia",
-                "class": "tourism",
-                "type": "museum",
-                "snippet": [
-                    "...Biblioteca del Museo Benaki ;...",
-                    "...Museo Benaki della civiltà greca con annessa ricchissima biblioteca ;...",
-                    "...Museo Benaki di arte e civiltà islamica ;...",
-                    "*...Museo Benaki (nuova sede) di via Pireos, sede di mostre specializzate di architettura moderna ;...",
-                    "*...Museo Benaki – Pinacoteca Chatzikyriakou-Gkika di via Kriezotou (Syntagma), dedicato alla generazione artistica degli anni trenta, con annessa biblioteca ;..."
                 ]
             }
         },

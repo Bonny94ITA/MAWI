@@ -6,30 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.62138,
-                    55.753628
-                ]
-            },
-            "properties": {
-                "entity": "Piazza Rossa",
-                "name_location": "Piazza Rossa, 4, Китай-город, Тверской район, Mosca, Distretto Federale Centrale, Russia",
-                "class": "highway",
-                "type": "pedestrian",
-                "snippet": [
-                    "...Il Cremlino e la Piazza Rossa sono uno dei vari siti Patrimonio dell'umanità situati nel territorio dell'oblast' moscovita....",
-                    "*...Progettò spaziose gallerie di negozi, in particolare i grandi magazzini GUM sulla Piazza Rossa....",
-                    "...Alcune delle più famose attrazioni includono la città, patrimonio mondiale dell'UNESCO, il Cremlino di Mosca e la Piazza Rossa, che è stato costruito tra il XIV e XVII secolo....",
-                    "*...Il 9 settembre 2017 è stato inaugurato il Parco Zarjad'e a poca distanza dal Cremlino e dalla Piazza Rossa....",
-                    "...Durante il periodo di 1920-1930 un gran numero di chiese della città furono demolite, compreso lo storico Monastero Chudov al Cremlino, risalente al XIV secolo, la Cattedrale di Kazan' sulla Piazza Rossa, la Cattedrale di Cristo Salvatore, costruita nel XIX secolo in memoria della vittoria sull'esercito di Napoleone nel 1812, e molte altre....",
-                    "...Il Museo statale di storia della Russia (Государственный Исторический музей) è un Museo di storia russa situato tra la Piazza Rossa e Piazza del Maneggio...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     37.604038,
                     55.855636
                 ]
@@ -55,7 +31,7 @@
             },
             "properties": {
                 "entity": "Terra",
-                "name_location": "Greca Terra, Таганская улица, Таганский район, Mosca, Distretto Federale Centrale, 109147, Russia",
+                "name_location": "Greca Terra, 3, Таганская улица, Таганский район, Mosca, Distretto Federale Centrale, 109147, Russia",
                 "class": "shop",
                 "type": "wine",
                 "snippet": [
@@ -80,49 +56,6 @@
                 "snippet": [
                     "*...Mosca è rinomata per i suoi stili architettonici unici e ammirabili in un gran numero di edifici storici, fra cui la celebre Cattedrale di San Basilio con le sue cupole a cipolla colorate, la Cattedrale di Cristo Salvatore, i magazzini GUM e l'Esposizione delle conquiste dell'economia nazionale....",
                     "...La città è nota soprattutto per la Cattedrale di San Basilio, con le sue fastose cupole a cipolla, così come la Cattedrale di Cristo Salvatore e le Sette Sorelle...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.60551,
-                    55.744524
-                ]
-            },
-            "properties": {
-                "entity": "Cattedrale di Cristo Salvatore",
-                "name_location": "Cattedrale di Cristo Salvatore, 15, улица Волхонка, 31, район Хамовники, Mosca, Distretto Federale Centrale, 119019, Russia",
-                "class": "amenity",
-                "type": "place_of_worship",
-                "snippet": [
-                    "...Mosca è rinomata per i suoi stili architettonici unici e ammirabili in un gran numero di edifici storici, fra cui la celebre Cattedrale di San Basilio con le sue cupole a cipolla colorate, la Cattedrale di Cristo Salvatore, i magazzini GUM e l'Esposizione delle conquiste dell'economia nazionale....",
-                    "...La città è nota soprattutto per la Cattedrale di San Basilio, con le sue fastose cupole a cipolla, così come la Cattedrale di Cristo Salvatore e le Sette Sorelle....",
-                    "...Alcuni esempi notevoli sono la Cattedrale di Kazan' e la Cattedrale di Cristo Salvatore....",
-                    "...Il Bul'varnoe Kol'co non è tecnicamente un anello perché non forma un cerchio completo, ma piuttosto un arco simile a un ferro di cavallo che incomincia presso la Cattedrale di Cristo Salvatore e termina al fiume Jauza....",
-                    "...Durante il periodo di 1920-1930 un gran numero di chiese della città furono demolite, compreso lo storico Monastero Chudov al Cremlino, risalente al XIV secolo, la Cattedrale di Kazan' sulla Piazza Rossa, la Cattedrale di Cristo Salvatore, costruita nel XIX secolo in memoria della vittoria sull'esercito di Napoleone nel 1812, e molte altre....",
-                    "*...Tra le chiese ricostruite negli anni novanta vi è l'impressionante nuova Cattedrale di Cristo Salvatore, che ancora una volta è diventata un punto di riferimento della città...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.640704,
-                    55.774385
-                ]
-            },
-            "properties": {
-                "entity": "Volga",
-                "name_location": "Волга, 2, Докучаев переулок, Красносельский район, Mosca, Distretto Federale Centrale, 107078, Russia",
-                "class": "tourism",
-                "type": "hotel",
-                "snippet": [
-                    "*...Mosca si trova nel circondario federale centrale (nella porzione europea del Paese), tra i fiumi Oka e Volga...."
                 ]
             }
         },
@@ -170,37 +103,6 @@
                 "type": "bus_stop",
                 "snippet": [
                     "...La città possiede alcuni tra i più grandi parchi al mondo, come il Parco Izmajlovskij, il Parco Timiriazevskij, il Parco Fili, il Parco Zamoskvoreckij, il Parco Ljublino, il Parco Butovskij, l'orto botanico, il Parco Neskučnyj, il Parco Bitcevskij, il Parco Caricyno, il Parco Kolomenskoe, il Parco Kuz'minki, il Parco Kuskovo, il Parco Sokol'niki e molte altre aree verdi...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.616279,
-                    55.750297
-                ]
-            },
-            "properties": {
-                "entity": "Cremlino",
-                "name_location": "Gran Palazzo del Cremlino, Кремль, Тверской район, Mosca, Distretto Federale Centrale, 103073, Russia",
-                "class": "historic",
-                "type": "castle",
-                "snippet": [
-                    "...Oggi è sede del Governo della Federazione Russa, situato nel Cremlino di Mosca, una cittadella medievale fortificata che funge da sede del Presidente russo....",
-                    "*...Il Cremlino e la Piazza Rossa sono uno dei vari siti Patrimonio dell'umanità situati nel territorio dell'oblast' moscovita....",
-                    "*...Nel 1612 gli abitanti di Nižnij Novgorod e di altre città russe si sollevarono contro gli occupanti polacchi, assediarono il Cremlino e sterminarono gli invasori....",
-                    "*...Il primo Cremlino fu costruito a metà del XII secolo....",
-                    "*...Il Cremlino è stato ricostruito nel XV secolo....",
-                    "*...Forse il contributo più riconoscibile del periodo staliniano sono le cosiddette Sette Sorelle, che comprendono sette grattacieli enormi sparsi in tutta la città, posti a una distanza circa uguale dal Cremlino....",
-                    "...Alcune delle più famose attrazioni includono la città, patrimonio mondiale dell'UNESCO, il Cremlino di Mosca e la Piazza Rossa, che è stato costruito tra il XIV e XVII secolo....",
-                    "*...Il 9 settembre 2017 è stato inaugurato il Parco Zarjad'e a poca distanza dal Cremlino e dalla Piazza Rossa....",
-                    "*...Il sistema stradale di Mosca è centrato all'incirca intorno al Cremlino nel cuore della città....",
-                    "...Durante il periodo di 1920-1930 un gran numero di chiese della città furono demolite, compreso lo storico Monastero Chudov al Cremlino, risalente al XIV secolo, la Cattedrale di Kazan' sulla Piazza Rossa, la Cattedrale di Cristo Salvatore, costruita nel XIX secolo in memoria della vittoria sull'esercito di Napoleone nel 1812, e molte altre....",
-                    "*...Il Museo di Architettura statale Ščusev, che si trova non lontano dal Cremlino, è il Museo nazionale di architettura russa e prende il nome dell'architetto Aleksej Viktorovič Ščusev....",
-                    "...Tra gli altri musei cittadini che si possono menzionare vi sono l'Arsenale del Cremlino, il Museo Bulgakov, il Museo centrale della Federazione Russa delle aeronautiche militari e il Museo di arte multimediale....",
-                    "...Al centro della città, che si trova nel Circondario federale centrale, vi è il Cremlino di Mosca, che ospita la residenza ufficiale del Presidente della Russia, così come molte strutture governative nazionali...."
                 ]
             }
         },
@@ -422,29 +324,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.468161,
-                    55.678414
-                ]
-            },
-            "properties": {
-                "entity": "Giardino",
-                "name_location": "Giardino di Pino, Мичуринский проспект, Олимпийская деревня, Тропарёво-Никулино, Mosca, Distretto Federale Centrale, 119602, Russia",
-                "class": "amenity",
-                "type": "restaurant",
-                "snippet": [
-                    "...Confina con il Giardino Neskutčnyj (408 000 metri quadrati), il più antico Parco di Mosca ed ex residenza imperiale, creato come risultato dell'integrazione di tre tenute nel XIX secolo....",
-                    "*...Il Giardino dispone di piste ciclabili e di attrezzi per il work-out e ospita il Teatro Verde, uno dei più grandi anfiteatri aperti in Europa, in grado di contenere fino a 15 000 persone....",
-                    "...Vicino alla nuova Galleria Tret'jakov vi è un Giardino di sculture, Museon, spesso chiamato \"il Cimitero dei monumenti caduti\" che espone le statue dell'ex Unione Sovietica rimosse dal loro posto dopo la scomparsa del Paese comunista....",
-                    "*...Nel 2012 il Giardino ha subito un drastico cambiamento:...",
-                    "...Altre attrazioni popolari includono lo Zoo di Mosca, un Giardino zoologico in due sezioni collegate da un ponte, con quasi un migliaio di specie e più di 6 500 esemplari...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     37.563311,
                     55.648318
                 ]
@@ -622,8 +501,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.63109,
-                    55.711572
+                    37.631088,
+                    55.711611
                 ]
             },
             "properties": {
@@ -666,25 +545,6 @@
             },
             "properties": {
                 "entity": "Museo Puškin delle belle arti",
-                "name_location": "Museo Puškin delle belle arti, 12 с1, улица Волхонка, 31, район Хамовники, Mosca, Distretto Federale Centrale, 119019, Russia",
-                "class": "tourism",
-                "type": "museum",
-                "snippet": [
-                    "...Un altro Museo d'arte della città di Mosca è il Museo Puškin delle belle arti (Музей изобразительных искусств им...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.605423,
-                    55.747285
-                ]
-            },
-            "properties": {
-                "entity": "Museo Puškin",
                 "name_location": "Museo Puškin delle belle arti, 12 с1, улица Волхонка, 31, район Хамовники, Mosca, Distretto Federale Centrale, 119019, Russia",
                 "class": "tourism",
                 "type": "museum",
@@ -864,30 +724,8 @@
                 "class": "amenity",
                 "type": "cafe",
                 "snippet": [
-                    "*...Sulle linee circolano i nuovi treni Ivolga (EG2Tv)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.753327,
-                    55.910872
-                ]
-            },
-            "properties": {
-                "entity": "Strada",
-                "name_location": "Bella Strada, 1 к1, Станционная улица, микрорайон Шараповка, Mytišči, городской округ Мытищи, Oblast' di Mosca, Distretto Federale Centrale, 141002, Russia",
-                "class": "amenity",
-                "type": "cafe",
-                "snippet": [
-                    "...Un terzo del territorio () si trova nella parte interna rispetto al MKAD, mentre i restanti  si trovano al di fuori di tale Strada a scorrimento veloce....",
-                    "...La vecchia via Arbat, una popolare Strada turistica che un tempo era il cuore di una zona bohémienne, conserva la maggior parte dei suoi edifici antecedenti al XX secolo....",
-                    "...Ogni Strada principale della città è servita da almeno una linea di autobus....",
-                    "*...In generale, ovunque ci si trovi, in qualsiasi momento del giorno o della notte, è possibile ottenere un taxi in pochi minuti o secondi tendendo la mano verso la Strada....",
-                    "...Secondo molti esperti, questo modello di organizzazione del traffico è molto più efficiente del raccordo anulare, per questo motivo con le nuove strade si vuole sostituire la Quarta Strada Circolare...."
+                    "*...Sulle linee circolano i nuovi treni Ivolga (EG2Tv)....",
+                    "*...Mosca si trova nel circondario federale centrale (nella porzione europea del Paese), tra i fiumi Oka e Volga...."
                 ]
             }
         },
@@ -965,29 +803,6 @@
                 "type": "cafe",
                 "snippet": [
                     "*...Khimki BC che gioca nel palastadio Novator ...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.616745,
-                    55.750608
-                ]
-            },
-            "properties": {
-                "entity": "Palazzo",
-                "name_location": "Palazzo delle Faccette, Соборная площадь, 18, 19, Тверской район, Mosca, Distretto Federale Centrale, 103073, Russia",
-                "class": "tourism",
-                "type": "museum",
-                "snippet": [
-                    "...Nel 1993, a seguito della crisi costituzionale, causata dallo scontro tra il presidente El'cin e il Parlamento russo, il 3 e il 4 ottobre fu occupato il centro televisivo di Ostankino e fu attaccato il Palazzo del Governo....",
-                    "...Il palazzo Ostankino, Kuskovo, Uzkoe e altri grandi patrimoni, appena fuori Mosca originariamente appartenerono ai nobili di epoca zarista, e alcuni conventi e monasteri, sia all'interno sia all'esterno della città, sono aperti ai moscoviti e turisti....",
-                    "...Nella città di Klin, che si trova a 100 chilometri a nordovest di Mosca, la discarica comunale aveva un cumulo di rifiuti alto come un palazzo di sei piani e si trovava a 400 metri da una scuola....",
-                    "...Mosca ospita il Palazzo per la Ginnastica Ritmica intitolata a Irina Viner-Usmanova, situato nel Complesso olimpico Lužniki....",
-                    "*...La superficie totale del Palazzo è di , che comprendono 3 palestre, spogliatoi, sale per giudici e allenatori, saune, mensa e bar, 2 sale da ballo, un Centro medico, uno spazio dedicato ai giornalisti e un albergo per i ginnasti...."
                 ]
             }
         }

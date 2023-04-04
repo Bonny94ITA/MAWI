@@ -6,35 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.869307,
-                    40.774284
-                ]
-            },
-            "properties": {
-                "entity": "Hudson",
-                "name_location": "Hudson, Terminal B Bus/Taxi Lane, North Beach, Queens, New York, 11371, Stati Uniti d'America",
-                "class": "shop",
-                "type": "newsagent",
-                "snippet": [
-                    "*...Conosciuta nel mondo anche come \"Grande mela\" (Big Apple), sorge su un'area di circa 785 km² alla foce del fiume Hudson, sull'oceano Atlantico, mentre l'area metropolitana comprende anche aree situate nei due adiacenti stati del New Jersey e del Connecticut....",
-                    "...Queens e Brooklyn, rispettivamente nell'estremità nord-occidentale e sud-occidentale dell'isola di Long Island) e uno, Manhattan, sull'appendice inferiore della penisola su cui si trova anche il Bronx e che da esso è separato dall'Harlem River, fiume-canale che collega l'Hudson all'East River....",
-                    "*...Non fanno parte dei distretti di New York City, ma fanno parte della sua area metropolitana e gravitano intorno ad essa per ragioni economiche e culturali, alcune città del confinante Stato del New Jersey, come Jersey City, Newark e Hoboken, situate sulla riva occidentale dell'Hudson, di fronte a Manhattan....",
-                    "*...Alcuni dei suoi simboli più famosi sono la Statua della Libertà, che si trova su Liberty Island, un'isola alla foce del fiume Hudson;...",
-                    "*...L'area dove sorge la città di New York era popolata, precedentemente all'arrivo dei colonizzatori europei, da gruppi di Lenape, una popolazione nativa americana algonchina, che vivevano di agricoltura, caccia e pesca nella zona del basso corso del fiume Hudson e dell'isola di Manhattan....",
-                    "...La prima esplorazione accurata della zona da parte di un europeo ebbe luogo solo a partire dal 1609, quando Henry Hudson scoprì l'isola di Manhattan proseguendo poi lungo il corso del fiume a cui diede il nome....",
-                    "*...La città di New York è situata sulla costa orientale dell'America settentrionale, sull'oceano Atlantico, alla foce del fiume Hudson (che costituisce il suo confine occidentale, separandola da una serie di sobborghi nel New Jersey), circa a metà Strada fra Boston e Washington....",
-                    "*...Manhattan coincide con l'isola omonima, situata fra il corso dell'Hudson e lo East River (un piccolo braccio di mare);...",
-                    "*...Bronx (Contea del Bronx, 1 397 287 abitanti), è l'unico distretto a trovarsi quasi interamente sulla terraferma (fanno eccezione alcune isole minori). È delimitato a est dal Long Island Sound, a sud dall'East River e a ovest dall'estuario del fiume Hudson. Associato a immagini di povertà e violenza (che non corrispondono del tutto alla realtà dei fatti), è abitato per la maggior parte da immigrati dall'America latina e da loro discendenti, nonché da molti afro-americani. Non mancano, comunque, quartieri ad alto reddito, come Riverdale. Il Bronx è la culla della cultura hip hop e ospita lo stadio dei New York Yankees, lo Yankee Stadium....",
-                    "...La Port Authority of New York and New Jersey, sotto il controllo congiunto degli stati di New York e New Jersey, che gestisce il PATH (Port Authority Trans Hudson), la metropolitana extracittadina che collega Manhattan al New Jersey 24 ore ogni giorno, e diverse linee di autobus che convergono al Port Authority Bus Terminal, vicino a Times Square;...",
-                    "*...Il sistema dei trasporti terrestri, è poi integrato da una serie di molto economici traghetti (ferries), che collegano soprattutto Manhattan verso ovest allo stato del New Jersey (attraversando il fiume Hudson) e verso sud a Staten Island (traghetto gratuito, in servizio 24 ore al giorno, che fornisce una buona vista della Statua della Libertà e di Ellis Island)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -73.919947,
                     40.831091
                 ]
@@ -240,7 +211,7 @@
             },
             "properties": {
                 "entity": "Woolworth Building",
-                "name_location": "Woolworth Building, Broadway, Manhattan Community Board 1, Manhattan, New York County, New York, 10279, Stati Uniti d'America",
+                "name_location": "Woolworth Building, Broadway, Manhattan Community Board 1, Manhattan, New York County, New York, 10003, Stati Uniti d'America",
                 "class": "tourism",
                 "type": "attraction",
                 "snippet": [
@@ -644,27 +615,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.963382,
-                    40.77944
-                ]
-            },
-            "properties": {
-                "entity": "Metropolitan Museum of",
-                "name_location": "The Metropolitan Museum of Art, 1000, 5th Avenue, Upper East Side, Manhattan, New York County, New York, 10035, Stati Uniti d'America",
-                "class": "tourism",
-                "type": "museum",
-                "snippet": [
-                    "...Tra i più noti musei d'arte e design, il \"Metropolitan Museum of Art\" (inaugurato nel 1880) espone oggetti d'arte che vanno dai reperti dell'antico Egitto all'arte moderna, mentre il \"Museum of Modern Art\" (chiamato MoMA e aperto nel 1929) è considerato il più grande Museo al mondo di arte contemporanea ed è stato riaperto nel 2004 dopo un'ampia espansione....",
-                    "...I ricchi industriali del XIX secolo hanno istituito una rete di importanti istituzioni culturali, come la famosa sala da concerto Carnegie Hall e il Metropolitan Museum of Art. L'avvento della luce elettrica ha portato a realizzare produzioni teatrali e nei teatri di New York, a Broadway e lungo la 42° Strada, è iniziato un nuovo tipo di intrattenimento che divenne noto come il musical di Broadway....",
-                    "...Le principali destinazioni sono l'Empire State Building, la Statua della Libertà, Ellis Island, i teatri di Broadway, musei come il Metropolitan Museum of Art, spazi verdi come Central Park, il Rockefeller Center, Times Square, la Chinatown di Manhattan;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -74.010628,
                     40.709103
                 ]
@@ -696,7 +646,14 @@
                 "class": "place",
                 "type": "house",
                 "snippet": [
-                    "...I ricchi industriali del XIX secolo hanno istituito una rete di importanti istituzioni culturali, come la famosa sala da concerto Carnegie Hall e il Metropolitan Museum of Art. L'avvento della luce elettrica ha portato a realizzare produzioni teatrali e nei teatri di New York, a Broadway e lungo la 42° Strada, è iniziato un nuovo tipo di intrattenimento che divenne noto come il musical di Broadway...."
+                    "...I ricchi industriali del XIX secolo hanno istituito una rete di importanti istituzioni culturali, come la famosa sala da concerto Carnegie Hall e il Metropolitan Museum of Art. L'avvento della luce elettrica ha portato a realizzare produzioni teatrali e nei teatri di New York, a Broadway e lungo la 42° Strada, è iniziato un nuovo tipo di intrattenimento che divenne noto come il musical di Broadway....",
+                    "...A partire dagli anni sessanta, tuttavia, anche New York si incamminò lungo una Strada di declino, analogamente ad altre metropoli statunitensi....",
+                    "*...Nel corso degli anni settanta il livello di vita cittadino peggiorò ulteriormente, con la città (specialmente in alcuni quartieri) ostaggio della criminalità e delle gang di Strada;...",
+                    "...La città di New York è situata sulla costa orientale dell'America settentrionale, sull'oceano Atlantico, alla foce del fiume Hudson (che costituisce il suo confine occidentale, separandola da una serie di sobborghi nel New Jersey), circa a metà Strada fra Boston e Washington....",
+                    "*...Altri celebri parchi, benché decisamente più piccoli sono Bryant Park che funge da Giardino di lettura della New York Public Library, Battery Park, da dove partono i traghetti per la Statua della Libertà, e Washington Square Park, celebre per l'arco di trionfo dedicato a George Washington e per i gruppi di artisti di Strada che si esibiscono all'interno:...",
+                    "*...Il nome della Strada dove ha sede la Borsa, Wall Street (\"Strada del muro\"), risale alla colonizzazione, quando gli olandesi, per difendersi dagli attacchi dei nativi americani, eressero un muro in prossimità della Strada....",
+                    "...Lo shopping di lusso lungo la Quinta Strada e la Madison Avenue ed eventi come la parata di Halloween nel Greenwich Village e la parata di San Patrizio....",
+                    "...Una Strada nel Bronx è stata rinominata Stickball Blvd, come tributo allo sport Strada più famoso di New York...."
                 ]
             }
         },
@@ -716,29 +673,6 @@
                 "type": "arts_centre",
                 "snippet": [
                     "...Il Lincoln Center for the Performing Arts ospita 12 importanti istituzioni artistiche, tra cui due teatri dell'opera, il famoso \"Metropolitan\" e il \"New York State Theater\" nel quale si esibiscono la \"New York City Opera\" e il \"New York City Ballet\", ospita inoltre l'\"Avery Fisher Hall\" in cui si esibisce la \"New York Philharmonic Orchestra\", e ancora il \"Jazz at Lincoln Center\", il \"Vivian Beaumont Theatre\", la \"Juilliard School\" e l'\"Alice Tully Hall\"...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.825074,
-                    40.755547
-                ]
-            },
-            "properties": {
-                "entity": "Metropolitan",
-                "name_location": "Metropolitan, 42-80, Kissena Boulevard, Flushing Chinatown, Queens, New York, 11355, Stati Uniti d'America",
-                "class": "healthcare",
-                "type": "physiotherapist",
-                "snippet": [
-                    "...Tra i più noti musei d'arte e design, il \"Metropolitan Museum of Art\" (inaugurato nel 1880) espone oggetti d'arte che vanno dai reperti dell'antico Egitto all'arte moderna, mentre il \"Museum of Modern Art\" (chiamato MoMA e aperto nel 1929) è considerato il più grande Museo al mondo di arte contemporanea ed è stato riaperto nel 2004 dopo un'ampia espansione....",
-                    "...I ricchi industriali del XIX secolo hanno istituito una rete di importanti istituzioni culturali, come la famosa sala da concerto Carnegie Hall e il Metropolitan Museum of Art. L'avvento della luce elettrica ha portato a realizzare produzioni teatrali e nei teatri di New York, a Broadway e lungo la 42° Strada, è iniziato un nuovo tipo di intrattenimento che divenne noto come il musical di Broadway....",
-                    "...Il Lincoln Center for the Performing Arts ospita 12 importanti istituzioni artistiche, tra cui due teatri dell'opera, il famoso \"Metropolitan\" e il \"New York State Theater\" nel quale si esibiscono la \"New York City Opera\" e il \"New York City Ballet\", ospita inoltre l'\"Avery Fisher Hall\" in cui si esibisce la \"New York Philharmonic Orchestra\", e ancora il \"Jazz at Lincoln Center\", il \"Vivian Beaumont Theatre\", la \"Juilliard School\" e l'\"Alice Tully Hall\"....",
-                    "...Le principali destinazioni sono l'Empire State Building, la Statua della Libertà, Ellis Island, i teatri di Broadway, musei come il Metropolitan Museum of Art, spazi verdi come Central Park, il Rockefeller Center, Times Square, la Chinatown di Manhattan;...",
-                    "...L'MTA (Metropolitan Transportation Authority), che fa capo principalmente alla città di New York e gestisce la metropolitana, la (Staten Island Railway) (anch'essa attiva 24 ore al giorno, 7 giorni alla settimana), gli autobus urbani e i treni verso Long Island (Long Island Rail Road) e verso Nord (Metro-North Railroad);..."
                 ]
             }
         },
@@ -824,28 +758,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.926521,
-                    40.829583
-                ]
-            },
-            "properties": {
-                "entity": "Yankee Stadium",
-                "name_location": "Yankee Stadium, 1, East 161st Street, Bronx County, The Bronx, New York, 10451, Stati Uniti d'America",
-                "class": "leisure",
-                "type": "stadium",
-                "snippet": [
-                    "...Bronx (Contea del Bronx, 1 397 287 abitanti), è l'unico distretto a trovarsi quasi interamente sulla terraferma (fanno eccezione alcune isole minori). È delimitato a est dal Long Island Sound, a sud dall'East River e a ovest dall'estuario del fiume Hudson. Associato a immagini di povertà e violenza (che non corrispondono del tutto alla realtà dei fatti), è abitato per la maggior parte da immigrati dall'America latina e da loro discendenti, nonché da molti afro-americani. Non mancano, comunque, quartieri ad alto reddito, come Riverdale. Il Bronx è la culla della cultura hip hop e ospita lo stadio dei New York Yankees, lo Yankee Stadium....",
-                    "*...Quattro dei dieci stadi più costosi mai costruiti in tutto il mondo (il Madison Square Garden, il nuovo Yankee Stadium, il MetLife Stadium e il Citi Field) si trovano nella zona metropolitana di New York....",
-                    "...Il New York City FC gioca allo Yankee stadium, nel Bronx, e dunque è considerata la vera squadra di calcio della città, mentre i Red Bulls giocano le partite casalinghe alla Red Bull Arena, nei pressi di Harrison, New Jersey.....",
-                    "*...Il New York City FC gioca allo Yankee stadium, nel Bronx, e dunque è considerata la vera squadra di calcio della città, mentre i Red Bulls giocano le partite casalinghe alla Red Bull Arena, nei pressi di Harrison, New Jersey....."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -73.848356,
                     40.755655
                 ]
@@ -898,7 +810,10 @@
                 "type": "museum",
                 "snippet": [
                     "...Tra i più noti musei d'arte e design, il \"Metropolitan Museum of Art\" (inaugurato nel 1880) espone oggetti d'arte che vanno dai reperti dell'antico Egitto all'arte moderna, mentre il \"Museum of Modern Art\" (chiamato MoMA e aperto nel 1929) è considerato il più grande Museo al mondo di arte contemporanea ed è stato riaperto nel 2004 dopo un'ampia espansione....",
-                    "...Le principali destinazioni sono l'Empire State Building, la Statua della Libertà, Ellis Island, i teatri di Broadway, musei come il Metropolitan Museum of Art, spazi verdi come Central Park, il Rockefeller Center, Times Square, la Chinatown di Manhattan;..."
+                    "...Le principali destinazioni sono l'Empire State Building, la Statua della Libertà, Ellis Island, i teatri di Broadway, musei come il Metropolitan Museum of Art, spazi verdi come Central Park, il Rockefeller Center, Times Square, la Chinatown di Manhattan;...",
+                    "...I ricchi industriali del XIX secolo hanno istituito una rete di importanti istituzioni culturali, come la famosa sala da concerto Carnegie Hall e il Metropolitan Museum of Art. L'avvento della luce elettrica ha portato a realizzare produzioni teatrali e nei teatri di New York, a Broadway e lungo la 42° Strada, è iniziato un nuovo tipo di intrattenimento che divenne noto come il musical di Broadway....",
+                    "...Il Lincoln Center for the Performing Arts ospita 12 importanti istituzioni artistiche, tra cui due teatri dell'opera, il famoso \"Metropolitan\" e il \"New York State Theater\" nel quale si esibiscono la \"New York City Opera\" e il \"New York City Ballet\", ospita inoltre l'\"Avery Fisher Hall\" in cui si esibisce la \"New York Philharmonic Orchestra\", e ancora il \"Jazz at Lincoln Center\", il \"Vivian Beaumont Theatre\", la \"Juilliard School\" e l'\"Alice Tully Hall\"....",
+                    "...L'MTA (Metropolitan Transportation Authority), che fa capo principalmente alla città di New York e gestisce la metropolitana, la (Staten Island Railway) (anch'essa attiva 24 ore al giorno, 7 giorni alla settimana), gli autobus urbani e i treni verso Long Island (Long Island Rail Road) e verso Nord (Metro-North Railroad);..."
                 ]
             }
         },
@@ -1062,33 +977,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -74.01052,
-                    40.704535
-                ]
-            },
-            "properties": {
-                "entity": "Nord",
-                "name_location": "Crepes Du Nord, 17, South William Street, Financial District, Manhattan, New York County, New York, 10004, Stati Uniti d'America",
-                "class": "amenity",
-                "type": "restaurant",
-                "snippet": [
-                    "...Di essi, uno è nel continente (il Bronx, situato a nord di Manhattan), tre si trovano su isole:...",
-                    "...Queens e Brooklyn, rispettivamente nell'estremità nord-occidentale e sud-occidentale dell'isola di Long Island) e uno, Manhattan, sull'appendice inferiore della penisola su cui si trova anche il Bronx e che da esso è separato dall'Harlem River, fiume-canale che collega l'Hudson all'East River....",
-                    "...Liberty Island, l'isola dove è collocata la Statua della Libertà; Governors Island, Rikers Island, situata nell'East River a nord di Manhattan e sede di un enorme complesso carcerario;...",
-                    "...La New York Public Library è la terza più grande biblioteca dell'America del Nord....",
-                    "...New York è un importante centro per la televisione, la pubblicità, l'editoria musicale, per il giornalismo per l'editoria, inoltre è il grande Mercato dei media in Nord America (seguita da Los Angeles, Chicago e Toronto)....",
-                    "...Queens (Contea del Queens, 2 306 712 abitanti) è il distretto più esteso e la contea degli Stati Uniti più varia dal punto di vista etnico. Si affaccia a nord sul Long Island Sound. Prima di unirsi a New York, era composto da piccole città e villaggi, fondati dagli olandesi. Due dei maggiori aeroporti della città hanno sede a Queens: si tratta del LaGuardia e del John F. Kennedy International. Nel Queens era situato il leggendario Shea Stadium....",
-                    "*...L'MTA (Metropolitan Transportation Authority), che fa capo principalmente alla città di New York e gestisce la metropolitana, la (Staten Island Railway) (anch'essa attiva 24 ore al giorno, 7 giorni alla settimana), gli autobus urbani e i treni verso Long Island (Long Island Rail Road) e verso Nord (Metro-North Railroad);...",
-                    "...I convogli possono andare uptown, cioè verso nord, o downtown, cioè verso sud....",
-                    "...I percorsi degli autobus seguono le streets da est a ovest, e le avenues da nord a sud...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -73.991448,
                     40.756835
                 ]
@@ -1187,49 +1075,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.938975,
-                    40.750702
+                    -73.926521,
+                    40.829583
                 ]
             },
             "properties": {
-                "entity": "MetLife",
-                "name_location": "MetLife, 41-11, 27th Street, Court Square, Queens, New York, 11101, Stati Uniti d'America",
-                "class": "office",
-                "type": "company",
-                "snippet": [
-                    "...Quattro dei dieci stadi più costosi mai costruiti in tutto il mondo (il Madison Square Garden, il nuovo Yankee Stadium, il MetLife Stadium e il Citi Field) si trovano nella zona metropolitana di New York....",
-                    "*...La città è rappresentata nella National Football League dai New York Giants (4 Super Bowl) e dai New York Jets (1 Super Bowl), anche se entrambe le squadre giocano le partite casalinghe allo stadio MetLife nella vicina East Rutherford, New Jersey, che ha ospitato il Super Bowl nel 2014...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -74.312732,
-                    41.38007
-                ]
-            },
-            "properties": {
-                "entity": "New York city",
-                "name_location": "New York City, Brick Plaza, Town of Goshen, Orange County, New York, 10924, Stati Uniti d'America",
+                "entity": "Yankee stadium",
+                "name_location": "Yankee Stadium, 1, East 161st Street, Bronx County, The Bronx, New York, 10451, Stati Uniti d'America",
                 "class": "leisure",
-                "type": "garden",
+                "type": "stadium",
                 "snippet": [
-                    "...New York (AFI: , in inglese americano ), spesso chiamata New York City per distinguerla dallo stato omonimo, e in italiano anche Nuova York, è una città degli Stati Uniti d'America situata nello stato di New York....",
-                    "...Non fanno parte dei distretti di New York City, ma fanno parte della sua area metropolitana e gravitano intorno ad essa per ragioni economiche e culturali, alcune città del confinante Stato del New Jersey, come Jersey City, Newark e Hoboken, situate sulla riva occidentale dell'Hudson, di fronte a Manhattan....",
-                    "...Alcuni attribuiscono il fenomeno alle nuove tattiche usate dal New York City Police Department, tra cui l'uso della CompStat e la teoria delle finestre rotte....",
-                    "...Le scuole pubbliche della città vengono gestite dal Consiglio di amministrazione della pubblica istruzione della Città di New York (New York City Department of Education, NYCDOE)....",
-                    "...Il \"New York Botanical Garden\", il \"New York City Police Museum\", il \"New York City Fire Museum\", il \"New York Historical Society\", il \"Garibaldi-Meucci Museum\" e il \"New York Transit Museum\"....",
-                    "...Il Lincoln Center for the Performing Arts ospita 12 importanti istituzioni artistiche, tra cui due teatri dell'opera, il famoso \"Metropolitan\" e il \"New York State Theater\" nel quale si esibiscono la \"New York City Opera\" e il \"New York City Ballet\", ospita inoltre l'\"Avery Fisher Hall\" in cui si esibisce la \"New York Philharmonic Orchestra\", e ancora il \"Jazz at Lincoln Center\", il \"Vivian Beaumont Theatre\", la \"Juilliard School\" e l'\"Alice Tully Hall\"....",
-                    "...La New York City Hall è la sede del governo cittadino e luogo di riunione del Consiglio....",
-                    "...Nel 2006 il Sister City Program cittadino è stato riformato e rinominato New York City Global Partners....",
-                    "...Nel calcio, New York è rappresenta nella Major League Soccer dalla franchigia dei New York City FC (1 titolo MLS), dai New York Red Bulls e nella NASL dai New York Cosmos....",
-                    "...Il New York City FC gioca allo Yankee stadium, nel Bronx, e dunque è considerata la vera squadra di calcio della città, mentre i Red Bulls giocano le partite casalinghe alla Red Bull Arena, nei pressi di Harrison, New Jersey.....",
-                    "*...New York, New York, resa popolare da Liza Minnelli e da Frank Sinatra, NY State of Mind di Nas, Welcome to NYC ed Empire State of Mind di Jay-Z, Welcome to New York di Taylor Swift, New York City Serenade di Bruce Springsteen, New York di Bryan Adams, Harlem di Duke Ellington, Angel of Harlem degli U2, Leaving New York dei R.E.M., Shattered dei Rolling Stones, I Love New York di Madonna, New York Groove di Ace Frehley, New York State of Mind di Billy Joel, New York city di John Lennon....",
-                    "...New York City è anch'esso ambientato a Manhattan, mentre Driver:...",
-                    "...I videogiochi Pokémon Bianco, Pokémon Nero, Pokémon Bianco 2 e Pokémon Nero 2 sono ambientati nella regione di Unima, la cui geografia è ispirata  a New York City e all'intero stato del New York...."
+                    "...Bronx (Contea del Bronx, 1 397 287 abitanti), è l'unico distretto a trovarsi quasi interamente sulla terraferma (fanno eccezione alcune isole minori). È delimitato a est dal Long Island Sound, a sud dall'East River e a ovest dall'estuario del fiume Hudson. Associato a immagini di povertà e violenza (che non corrispondono del tutto alla realtà dei fatti), è abitato per la maggior parte da immigrati dall'America latina e da loro discendenti, nonché da molti afro-americani. Non mancano, comunque, quartieri ad alto reddito, come Riverdale. Il Bronx è la culla della cultura hip hop e ospita lo stadio dei New York Yankees, lo Yankee Stadium....",
+                    "...Quattro dei dieci stadi più costosi mai costruiti in tutto il mondo (il Madison Square Garden, il nuovo Yankee Stadium, il MetLife Stadium e il Citi Field) si trovano nella zona metropolitana di New York....",
+                    "*...Il New York City FC gioca allo Yankee stadium, nel Bronx, e dunque è considerata la vera squadra di calcio della città, mentre i Red Bulls giocano le partite casalinghe alla Red Bull Arena, nei pressi di Harrison, New Jersey.....",
+                    "*...Quattro dei dieci stadi più costosi mai costruiti in tutto il mondo (il Madison Square Garden, il nuovo Yankee Stadium, il MetLife Stadium e il Citi Field) si trovano nella zona metropolitana di New York...."
                 ]
             }
         }

@@ -160,29 +160,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.373744,
-                    43.294317
-                ]
-            },
-            "properties": {
-                "entity": "If",
-                "name_location": "Frioul If Express, Quai de Rive-Neuve, Saint-Victor, 7e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13007, Francia",
-                "class": "man_made",
-                "type": "pier",
-                "snippet": [
-                    "...Circa trenta anni dopo l'annessione alla Francia, il re Francesco I visitò Marsiglia, spinto dalla curiosità di vedere il rinoceronte che il re Manuele I del Portogallo aveva inviato al papa Leone X ma che era naufragato con la nave sull'Île d'If....",
-                    "...Come risultato della visita, venne costruita la fortezza di Château d'If, il che contribuì qualche anno dopo a impedire che Marsiglia venisse assediata dalle truppe del Sacro Romano Impero....",
-                    "...Il Castello d'If (le Château d'If), ex carcere che si trova sull'isola di Riou davanti Marsiglia in cui viene incarcerato il conte di Montecristo nell'omonimo romanzo di Alexandre Dumas;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.365831,
-                    43.328323
+                    5.367362,
+                    43.324064
                 ]
             },
             "properties": {
@@ -278,27 +257,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.369281,
-                    43.29458
-                ]
-            },
-            "properties": {
-                "entity": "Vieux Port",
-                "name_location": "Vieux-Port, Quai du Port, Hôtel de Ville, 2e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13002, Francia",
-                "class": "tourism",
-                "type": "attraction",
-                "snippet": [
-                    "*...Il Vieux Port (Vecchio Porto), attorno al quale la città si sviluppò durante i secoli. Simbolo di Marsiglia  de La Garde che si staglia sulla collina come per proteggerla e salutare i marinai, il Vieux Port è stato modificato nel 2013 in concomitanza con l'assegnazione di Marsiglia Capitale della Cultura: la parte centrale del Vieux Port ospita una grande struttura a specchio che protegge i passanti dalle intemperie e permette a quest'ultimi di guardarsi riflessi alzando la testa....",
-                    "*...Hôtel de Ville, sede del sindaco di Marsiglia sul Vieux Port....",
-                    "*...La Canebière, il viale centrale della città che un tempo collegava i campi a nord della città con il Vieux Port;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     5.374907,
                     43.297665
                 ]
@@ -329,47 +287,6 @@
                 "type": "townhall",
                 "snippet": [
                     "*...Hôtel de Ville, sede del sindaco di Marsiglia sul Vieux Port...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.376072,
-                    43.295839
-                ]
-            },
-            "properties": {
-                "entity": "Canebière",
-                "name_location": "La Canebière, Belsunce, 1er Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13001, Francia",
-                "class": "highway",
-                "type": "pedestrian",
-                "snippet": [
-                    "...Il 23 agosto 1944 le truppe francesi, comandate dal generale de Montsabert, entrarono in città e presero possesso della Rue de Rome a Belle-de-Mai, ma la città venne liberata dagli Alleati il 29 agosto, quando il generale de Lattre de Tassigny fece sfilare l'armée d'Afrique sulla Canebière....",
-                    "...La Canebière, il viale centrale della città che un tempo collegava i campi a nord della città con il Vieux Port;...",
-                    "*...I principali campus marsigliesi si trovano a Luminy (scienze e sport), Saint-Charles (scienze e lettere), Saint-Jérôme (scienze), Château-Gombert (scienze), La Timone (medicina), Canebière (diritto ed economia) e Colbert (economia)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.370885,
-                    43.297594
-                ]
-            },
-            "properties": {
-                "entity": "Hôtel-Dieu",
-                "name_location": "Antiquités de l'Hôtel Dieu, Plaça Victor Gelu, Hôtel de Ville, 2e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13002, Francia",
-                "class": "shop",
-                "type": "antiques",
-                "snippet": [
-                    "...Il ministro Barthou fu trasportato all'Ospedale Hôtel-Dieu dove si spense il giorno successivo:...",
-                    "*...Hôtel-Dieu, antico Ospedale, oggi trasformato in un hotel a 5 stelle;..."
                 ]
             }
         },
@@ -429,28 +346,6 @@
                 "type": "attraction",
                 "snippet": [
                     "*...Porte d'Aix, arco di trionfo del XIX secolo...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.361025,
-                    43.296729
-                ]
-            },
-            "properties": {
-                "entity": "Europa",
-                "name_location": "Musée des Civilisations de l'Europe et de la Méditerranée, 7, Promenade Robert Laffont, La Joliette, 2e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13002, Francia",
-                "class": "tourism",
-                "type": "museum",
-                "snippet": [
-                    "...Il MuCEM, Museo delle Civiltà dell'Europa e del Mediterraneo, progettato dall'architetto Rudy Ricciotti (2013);...",
-                    "*...Le condizioni economiche e l'instabilità politica in Europa e nel resto del mondo causarono diverse ondate di immigrati durante il XX secolo:...",
-                    "...Sin dal 2013 gli immigrati provenienti dall'Europa orientale vengono a lavorare a Marsiglia, attratti da migliori opportunità di lavoro e dal bel clima della città mediterranea....",
-                    "...Il MuCEM (Museo delle Civiltà dell'Europa e del Mediterraneo), inaugurato nel 2013, è un Museo nazionale di antropologia dedicato alle società e le culture dell'area europea e mediterranea. Le sue collezioni comprendono più di un milione di oggetti ;..."
                 ]
             }
         },
@@ -640,7 +535,8 @@
                 "class": "highway",
                 "type": "motorway",
                 "snippet": [
-                    "...Verso nord origina infatti l'autostrada A7 per Lione, verso nord-ovest l'A55 per Martigues mentre in direzione est scorre l'autostrada A50 per Aubagne...."
+                    "...Verso nord origina infatti l'autostrada A7 per Lione, verso nord-ovest l'A55 per Martigues mentre in direzione est scorre l'autostrada A50 per Aubagne....",
+                    "...Il raccordo autostradale A507 attraversa la periferia orientale marsigliese ed unisce l'A7 con l'A50...."
                 ]
             }
         },
@@ -660,26 +556,6 @@
                 "type": "motorway",
                 "snippet": [
                     "...Verso nord origina infatti l'autostrada A7 per Lione, verso nord-ovest l'A55 per Martigues mentre in direzione est scorre l'autostrada A50 per Aubagne...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.358983,
-                    43.35461
-                ]
-            },
-            "properties": {
-                "entity": "A7",
-                "name_location": "A7, Rue de la Tramontane, La Viste, 15e Arrondissement, Marsiglia, Marseille, Bouches-du-Rhône, Provenza-Alpi-Costa Azzurra, Francia metropolitana, 13015, Francia",
-                "class": "building",
-                "type": "apartments",
-                "snippet": [
-                    "...Verso nord origina infatti l'autostrada A7 per Lione, verso nord-ovest l'A55 per Martigues mentre in direzione est scorre l'autostrada A50 per Aubagne....",
-                    "...Il raccordo autostradale A507 attraversa la periferia orientale marsigliese ed unisce l'A7 con l'A50...."
                 ]
             }
         },

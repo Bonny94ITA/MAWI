@@ -131,7 +131,8 @@
                 "class": "highway",
                 "type": "pedestrian",
                 "snippet": [
-                    "*...Colonna della Vittoria dell'Indipendenza dell'Estonia, in Piazza della Libertà (Tallinn) ;..."
+                    "*...Colonna della Vittoria dell'Indipendenza dell'Estonia, in Piazza della Libertà (Tallinn) ;...",
+                    "...Chiesa di San Giovanni, è una Chiesa parrocchiale neogotica della Chiesa di Estonia ed è situata in Piazza Vabaduse o della Libertà ;..."
                 ]
             }
         },
@@ -151,29 +152,6 @@
                 "type": "attraction",
                 "snippet": [
                     "*...Kiek in de Kök ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    24.801087,
-                    59.41645
-                ]
-            },
-            "properties": {
-                "entity": "Aeroporto",
-                "name_location": "Lennart Meri Tallinna lennujaam, 101, Tartu mnt, Ülemistejärve, Kesklinna linnaosa, Tallinn, Harju maakond, 11101, Estonia",
-                "class": "aeroway",
-                "type": "terminal",
-                "snippet": [
-                    "...Così ad esempio Tallinna Lennujaam è l'Aeroporto di Tallinn....",
-                    "*...Tallinn è servita da un Aeroporto, l'Aeroporto Lennart Meri, a circa 4 km dal centro cittadino....",
-                    "*...Una linea di bus (N.2), collega comodamente l'Aeroporto al centro della città....",
-                    "*...Collega il centro cittadino all'Aeroporto, e che collega buona parte della città, coprendo anche zone periferiche della capitale estone....",
-                    "*...Attualmente il costo di un biglietto di 1 ora è di 1,50€ ed è valido in tutta la rete urbana (comprese le corse avente origine dall'Aeroporto)...."
                 ]
             }
         },

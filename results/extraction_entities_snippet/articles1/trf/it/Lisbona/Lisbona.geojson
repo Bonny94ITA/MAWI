@@ -6,53 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -9.406469,
-                    38.70412
-                ]
-            },
-            "properties": {
-                "entity": "Atlantico",
-                "name_location": "Atlântico, 6, Alameda Columbano, Santo António do Estoril, Estoril, Cascais e Estoril, Cascais, Lisbona, 2765-446, Portogallo",
-                "class": "amenity",
-                "type": "restaurant",
-                "snippet": [
-                    "*...È un importante centro economico, con un settore finanziario in crescita e uno tra i più importanti porti affacciati sull'Atlantico....",
-                    "*...La città e i dintorni di Lisbona godono di un clima Atlantico, con inverni miti ed estati moderatamente calde, ma ben ventilate....",
-                    "...Il Tago e l'Oceano Atlantico regalano alla città una gran luce e grandi cieli;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -9.14417,
-                    38.715238
-                ]
-            },
-            "properties": {
-                "entity": "Vasco da Gama",
-                "name_location": "Vasco da Gama, Rua das Taipas, Bairro Alto, Misericórdia, Lisbona, 1200-146, Portogallo",
-                "class": "historic",
-                "type": "memorial",
-                "snippet": [
-                    "*...Il ponte 25 Aprile, inaugurato nel 1966, e il ponte Vasco da Gama, lungo 17,2 km e inaugurato il 29 marzo 1998 in occasione di Expo '98....",
-                    "*...Tra il XV ed il XVII secolo da Lisbona partirono moltissimi viaggi di esplorazione, che permisero a Bartolomeo Diaz di doppiare il Capo di Buona Speranza e a Vasco da Gama di raggiungere l'India nel 1497....",
-                    "*...Nel 1998 si tenne a Lisbona l'Expo, giusto in tempo per commemorare il 500º anniversario del viaggio di Vasco da Gama in India....",
-                    "...Per l'occasione fu costruito un quartiere completamente nuovo, Parque das Nações, e il ponte Vasco da Gama, il più lungo d'Europa con i suoi 17,2 km....",
-                    "*...Il Monastero dos Jerónimos, straordinario enorme esempio di architettura manuelina che ospita le memorie dei portoghesi illustri, da Vasco da Gama a Luis Vaz de Camoes (il Dante Alighieri portoghese) a Amália Rodrigues a Fernando Pessoa;...",
-                    "...Ponte Vasco da Gama ;...",
-                    "...Jardim Vasco da Gama ;...",
-                    "...Acquario Vasco da Gama - Aquário Vasco da Gama (Sito) ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -9.200836,
                     38.706809
                 ]
@@ -63,7 +16,11 @@
                 "class": "leisure",
                 "type": "garden",
                 "snippet": [
-                    "*...Durante il Neolitico la regione è stata abitata da popolazioni di origine iberica che a quel tempo occupavano anche altre regioni dell'Europa atlantica...."
+                    "*...Durante il Neolitico la regione è stata abitata da popolazioni di origine iberica che a quel tempo occupavano anche altre regioni dell'Europa atlantica....",
+                    "...Situata sull'estremità occidentale della penisola iberica, presso l'estuario del fiume Tago, è geograficamente la capitale (nonché la zona geografica) più occidentale dell'Europa continentale....",
+                    "...La città è la sesta più visitata dell'Europa meridionale dopo Roma, Barcellona, Madrid, Atene e Milano, con 1 740 000 turisti nel 2009....",
+                    "*...All'inizio del XVIII secolo, con una popolazione stimata di circa 250 000 abitanti, Lisbona era una delle città più grandi d'Europa....",
+                    "*...Per l'occasione fu costruito un quartiere completamente nuovo, Parque das Nações, e il ponte Vasco da Gama, il più lungo d'Europa con i suoi 17,2 km...."
                 ]
             }
         },
@@ -83,30 +40,6 @@
                 "type": "apartments",
                 "snippet": [
                     "*...In passato si credeva che Lisbona fosse stata fondata dai Fenici e questo sembrerebbe accreditato dai recenti ritrovamenti di reperti fenici risalenti all'VIII secolo a.C. sotto la medievale Sé de Lisboa, la cattedrale della città moderna...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -9.141714,
-                    38.709407
-                ]
-            },
-            "properties": {
-                "entity": "Teatro",
-                "name_location": "Teatro Nacional de São Carlos, 9, Rua Serpa Pinto, Chiado, Santa Maria Maior, Lisbona, 1200-442, Portogallo",
-                "class": "building",
-                "type": "yes",
-                "snippet": [
-                    "*...Durante il periodo di Augusto furono erette delle mura difensive, un grande Teatro, delle terme (sotto l'attuale Rua da Prata), numerosi templi, una necropoli (sotto l'attuale Praça da Figueira), un grande foro e numerose abitazioni nella zona tra il castello di San Giorgio e l'attuale centro cittadino....",
-                    "...In seguito Lisbona fu Teatro della rivolta repubblicana del 5 ottobre 1910 che depose il successore di Carlo I, Manuele II del Portogallo, inaugurando la Prima Repubblica portoghese....",
-                    "...Il 25 aprile 1974 Lisbona fu Teatro della rivoluzione dei Garofani che mise fine all'Estado Novo e instaurò la nuova democrazia in Portogallo....",
-                    "...Teatro Nacional de São Carlos ;...",
-                    "...Museo nazionale del Teatro e della danza - Museu Nacional do Teatro e da Dança (Sito) ;...",
-                    "...Il Teatro dell'opera di Lisbona è il Teatro Nacional de São Carlos, mentre il maggior Teatro di prosa è il Teatro Nacional D. Maria II...."
                 ]
             }
         },
@@ -196,29 +129,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -9.14331,
-                    38.70722
-                ]
-            },
-            "properties": {
-                "entity": "Europa",
-                "name_location": "Europa, Rua Nova do Carvalho, Cais do Sodré, Misericórdia, Lisbona, 1249-002, Portogallo",
-                "class": "amenity",
-                "type": "bar",
-                "snippet": [
-                    "...Situata sull'estremità occidentale della penisola iberica, presso l'estuario del fiume Tago, è geograficamente la capitale (nonché la zona geografica) più occidentale dell'Europa continentale....",
-                    "...La città è la sesta più visitata dell'Europa meridionale dopo Roma, Barcellona, Madrid, Atene e Milano, con 1 740 000 turisti nel 2009....",
-                    "...Durante il Neolitico la regione è stata abitata da popolazioni di origine iberica che a quel tempo occupavano anche altre regioni dell'Europa atlantica....",
-                    "*...All'inizio del XVIII secolo, con una popolazione stimata di circa 250 000 abitanti, Lisbona era una delle città più grandi d'Europa....",
-                    "*...Per l'occasione fu costruito un quartiere completamente nuovo, Parque das Nações, e il ponte Vasco da Gama, il più lungo d'Europa con i suoi 17,2 km...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -9.137947,
                     38.718199
                 ]
@@ -230,29 +140,6 @@
                 "type": "hospital",
                 "snippet": [
                     "...Tra gli edifici più importanti che andarono distrutti vi furono il palazzo della Ribeira, dimora della famiglia reale (scampata al terremoto in quanto quel giorno fuori città), e l'Hospital Real de Todos os Santos, il più grande edificio pubblico del tempo...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -9.130463,
-                    38.710276
-                ]
-            },
-            "properties": {
-                "entity": "Alfama",
-                "name_location": "Memmo Alfama, Travessa das Merceeiras, Sé, Alfama, Santa Maria Maior, Lisbona, 1100-072, Portogallo",
-                "class": "tourism",
-                "type": "hotel",
-                "snippet": [
-                    "...Durante la dominazione musulmana si sviluppa il quartiere dell'Alfama, il più antico di Lisbona e tra i pochi ad aver conservato la sua fisionomia medievale avendo subito solo danni di lieve entità in seguito al terremoto del 1755....",
-                    "...Analogamente, Lisbona continuò ad ospitare una popolazione ebraica, distribuita in vari quartieri (judiarias), ovvero la Judiaria Grande, la Judiaria Nova e la Judiaria da Alfama (le ultime due sorsero nel XIV secolo)....",
-                    "...Tra i pochi quartieri di Lisbona ad essere poco danneggiati dal terremoto vi fu l'Alfama....",
-                    "...Il Castello di São Jorge, che sorge nel sito dell'acropoli della città antica e domina l'Alfama, il quartiere più anticamente abitato della città e l'unico della città vecchia sopravvissuto al terremoto;...",
-                    "*...Parallelamente alla suddivisione ufficiale della città in freguesias, la città di Lisbona è divisa informalmente in \"bairros\" storici che non hanno confini definiti in maniera ufficiale, come Amoreiras, Chiado, Bairro Alto, Bica, Alfama, Mouraria, Restelo, Intendente, Chelas e Lapa...."
                 ]
             }
         },
@@ -341,27 +228,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -9.096756,
-                    38.763782
-                ]
-            },
-            "properties": {
-                "entity": "Parque das Nações",
-                "name_location": "Parque das Nações, Rua do Mar do Norte, Bairro Oriente, Parque das Nações, Lisbona, 1990-274, Portogallo",
-                "class": "tourism",
-                "type": "attraction",
-                "snippet": [
-                    "...Per l'occasione fu costruito un quartiere completamente nuovo, Parque das Nações, e il ponte Vasco da Gama, il più lungo d'Europa con i suoi 17,2 km....",
-                    "...Il Parque das Nações, moderno quartiere che ha ospitato l'Expo '98....",
-                    "...Parque das Nações ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -9.41639,
                     38.985465
                 ]
@@ -372,7 +238,9 @@
                 "class": "highway",
                 "type": "residential",
                 "snippet": [
-                    "...Il Tago e l'Oceano Atlantico regalano alla città una gran luce e grandi cieli;..."
+                    "...Il Tago e l'Oceano Atlantico regalano alla città una gran luce e grandi cieli;...",
+                    "*...È un importante centro economico, con un settore finanziario in crescita e uno tra i più importanti porti affacciati sull'Atlantico....",
+                    "*...La città e i dintorni di Lisbona godono di un clima Atlantico, con inverni miti ed estati moderatamente calde, ma ben ventilate...."
                 ]
             }
         },
@@ -583,27 +451,6 @@
                 "type": "attraction",
                 "snippet": [
                     "*...Monumento alle Scoperte ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -9.134586,
-                    38.712031
-                ]
-            },
-            "properties": {
-                "entity": "São Jorge",
-                "name_location": "São Jorge, Costa do Castelo, Castelo, Alfama, Santa Maria Maior, Lisbona, 1100-340, Portogallo",
-                "class": "amenity",
-                "type": "restaurant",
-                "snippet": [
-                    "*...São Jorge, São Vicente, Sant'Ana, Santo André, das Chagas, Santa Catarina, São Roque....",
-                    "...Il Castello di São Jorge, che sorge nel sito dell'acropoli della città antica e domina l'Alfama, il quartiere più anticamente abitato della città e l'unico della città vecchia sopravvissuto al terremoto;...",
-                    "...Castello di São Jorge ;..."
                 ]
             }
         },

@@ -6,48 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.833546,
-                    45.767272
-                ]
-            },
-            "properties": {
-                "entity": "Place des terreaux",
-                "name_location": "Place des Terreaux, Terreaux, Lyon 1er Arrondissement, Lione, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Francia metropolitana, 69001, Francia",
-                "class": "highway",
-                "type": "tertiary",
-                "snippet": [
-                    "...La città sorge alla confluenza del Rodano e della Saona ed è composta da un centro storico (Vieux Lyon, Fourvière, Saint Jean) e da un centro più moderno con la Place des terreaux, la Place Bellecour e la Rue de la République sulla Penisola, quartiere tra Rodano e Saona....",
-                    "...Il municipio di Lione sulla place des Terreaux....",
-                    "...La place des Terreaux....",
-                    "*...Il municipio di Lione sulla place des Terreaux...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.831995,
-                    45.757516
-                ]
-            },
-            "properties": {
-                "entity": "Place Bellecour",
-                "name_location": "Place Bellecour, Bellecour, Lyon 2e Arrondissement, Lione, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Francia metropolitana, 69002, Francia",
-                "class": "tourism",
-                "type": "square",
-                "snippet": [
-                    "...La città sorge alla confluenza del Rodano e della Saona ed è composta da un centro storico (Vieux Lyon, Fourvière, Saint Jean) e da un centro più moderno con la Place des terreaux, la Place Bellecour e la Rue de la République sulla Penisola, quartiere tra Rodano e Saona....",
-                    "...La place Bellecour, quarta piazza più grande di Francia, con una statua equestre di Luigi XIV...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     4.860685,
                     45.748451
                 ]
@@ -213,6 +171,47 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    4.833546,
+                    45.767272
+                ]
+            },
+            "properties": {
+                "entity": "place des Terreaux",
+                "name_location": "Place des Terreaux, Terreaux, Lyon 1er Arrondissement, Lione, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Francia metropolitana, 69001, Francia",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "...La città sorge alla confluenza del Rodano e della Saona ed è composta da un centro storico (Vieux Lyon, Fourvière, Saint Jean) e da un centro più moderno con la Place des terreaux, la Place Bellecour e la Rue de la République sulla Penisola, quartiere tra Rodano e Saona....",
+                    "*...Il municipio di Lione sulla place des Terreaux....",
+                    "...La place des Terreaux...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.831995,
+                    45.757516
+                ]
+            },
+            "properties": {
+                "entity": "place Bellecour",
+                "name_location": "Place Bellecour, Bellecour, Lyon 2e Arrondissement, Lione, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Francia metropolitana, 69002, Francia",
+                "class": "tourism",
+                "type": "square",
+                "snippet": [
+                    "...La città sorge alla confluenza del Rodano e della Saona ed è composta da un centro storico (Vieux Lyon, Fourvière, Saint Jean) e da un centro più moderno con la Place des terreaux, la Place Bellecour e la Rue de la République sulla Penisola, quartiere tra Rodano e Saona....",
+                    "...La place Bellecour, quarta piazza più grande di Francia, con una statua equestre di Luigi XIV...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     4.83588,
                     45.759139
                 ]
@@ -243,29 +242,6 @@
                 "type": "bus_stop",
                 "snippet": [
                     "...La Halle Tony Garnier, parte dello stadio Gerland trasformata in sala multiuso...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.83116,
-                    45.727489
-                ]
-            },
-            "properties": {
-                "entity": "Gerland",
-                "name_location": "Gerland, Square Professeur Galtier, Gerland, Lyon 7e Arrondissement, Lione, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Francia metropolitana, 69007, Francia",
-                "class": "amenity",
-                "type": "bicycle_rental",
-                "snippet": [
-                    "...Lo Stadio di Gerland, dove ha giocato l'Olympique Lyonnais, squadra di calcio, costruito da Tony Garnier....",
-                    "*...La Halle Tony Garnier, parte dello stadio Gerland trasformata in sala multiuso....",
-                    "*...VII arrondissement: La Guillotière, Gerland ;...",
-                    "*...Il porto fluviale di Lione, denominato Port Édouard Herriot, è situato nella zona di Gerland....",
-                    "...Gioca le sue partite allo Stade de Gerland...."
                 ]
             }
         },
@@ -447,52 +423,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.828828,
-                    45.757609
-                ]
-            },
-            "properties": {
-                "entity": "Sud",
-                "name_location": "Crédit Mutuel Enseignant Sud Est, Rue du Plat, Bellecour, Lyon 2e Arrondissement, Lione, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Francia metropolitana, 69002, Francia",
-                "class": "amenity",
-                "type": "bank",
-                "snippet": [
-                    "...In francese Lyon, /ljɔ̃/, in arpitano Liyon, /ʎɔ̃/ in occitano Lion /lju/) è una città della Francia sud-orientale, capoluogo della metropoli di Lione e della regione Alvernia-Rodano-Alpi....",
-                    "...La città si trova in linea d'aria a 26 chilometri da Vienne a sud, su Strada 54 km da Saint-Étienne, 106 km da Grenoble, 151 km da Ginevra, 306 km da Torino, 313 km da Marsiglia, 441 km da Milano, 463 km da Parigi, 333 km da Basilea, 495 km da Strasburgo, 537 km da Tolosa, 637 km da Barcellona, ​​​​684 km da Nantes, 698 km da Francoforte sul Meno, 737 km da Monaco di Baviera e 972 km da Brest....",
-                    "...Progetti urbani della confluenza del Rodano e del Saona, al sud delle penisole. (Zona Confluence) ....",
-                    "*...Lione è conosciuta per la sua posizione chiave tra Nord e Sud, e per questo si tratta anche di un nodo stradale molto importante:...",
-                    "*...Autostrada A7 verso il Sud (Vienne, Valence e Marsiglia) ;...",
-                    "...Il proseguimento a sud fino a Lione della linea di TGV Reno-Rodano è in progetto da molti anni, ma il suo finanziamento non è fissato...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.848743,
-                    45.733359
-                ]
-            },
-            "properties": {
-                "entity": "TGV",
-                "name_location": "Technicentre TGV de Lyon, Rue de Montagny, Oasis Parc, Lyon 8e Arrondissement, Lione, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Francia metropolitana, 69008, Francia",
-                "class": "building",
-                "type": "yes",
-                "snippet": [
-                    "*...La messa in servizio del TGV nel 1981 ha gradualmente cambiato le comunicazioni interregionali....",
-                    "*...Dopo il successo della nuova linea verso il Nord e la capitale, e della linea verso il Mar Mediterraneo si è decisa la costruzione della linea TGV tra Lione e Torino, che dovrebbe facilitare il superamento delle Alpi....",
-                    "...Il proseguimento a sud fino a Lione della linea di TGV Reno-Rodano è in progetto da molti anni, ma il suo finanziamento non è fissato....",
-                    "*...L'Aeroporto principale è Lione Saint Exupéry, in precedenza chiamato Lione Satolas (dal nome della località in cui è situato). È stato così intitolato nel 2000 nel centenario della nascita di Antoine de Saint-Exupéry, nativo di Lione e autore del celeberrimo romanzo \"Il piccolo principe\". È il quarto Aeroporto francese per traffico passeggeri, ed è un importante scalo di coincidenze. Dispone di una moderna stazione per treni TGV...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     4.830009,
                     45.726721
                 ]
@@ -503,7 +433,11 @@
                 "class": "highway",
                 "type": "bus_stop",
                 "snippet": [
-                    "*...Gioca le sue partite allo Stade de Gerland...."
+                    "*...Gioca le sue partite allo Stade de Gerland....",
+                    "...Lo Stadio di Gerland, dove ha giocato l'Olympique Lyonnais, squadra di calcio, costruito da Tony Garnier....",
+                    "*...La Halle Tony Garnier, parte dello stadio Gerland trasformata in sala multiuso....",
+                    "*...VII arrondissement: La Guillotière, Gerland ;...",
+                    "*...Il porto fluviale di Lione, denominato Port Édouard Herriot, è situato nella zona di Gerland...."
                 ]
             }
         }

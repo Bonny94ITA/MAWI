@@ -6,34 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.485962,
-                    48.157682
-                ]
-            },
-            "properties": {
-                "entity": "Isar",
-                "name_location": "Isar, An der Schloßmauer, Nymphenburg, Neuhausen-Nymphenburg, Pasing-Obermenzing, Monaco, Baviera, Germania",
-                "class": "tourism",
-                "type": "artwork",
-                "snippet": [
-                    "*...Situata sulle rive del fiume Isar, dopo Berlino ed Amburgo è la terza città tedesca per numero di abitanti, con una popolazione di circa 1 488 202 (31-12-2020) residenti nel comune, 1 808 550 se si considera anche il circondario e circa 2,9 milioni nell'area metropolitana....",
-                    "*...La città viene attraversata dall'Isar e a sud si stendono boschi di conifere con laghi di notevole estensione, tra cui, verso ovest, il lago di Starnberg e l'Ammersee....",
-                    "*...La Chiesa di San Giovanni Battista, costruita tra il 1852 e il 1874, è la più grande Chiesa a est del fiume Isar. Il campanile è alto 97 metri ed è il terzo in quanto altezza a Monaco di Baviera....",
-                    "*...Maximilianstraße, neo-gotica, inizia da Max-Joseph-Platz, dove si trovano la Residenz e il Teatro Nazionale e prosegue da ovest a est. Il viale è contornato da edifici neogotici che ospitano, tra gli altri, il Münchner Kammerspiele, il Museo di etnologia e il Palazzo del governo del distretto dell'Alta Baviera. Dopo aver attraversato il fiume Isar, il viale gira intorno al Maximilianeum, sede del parlamento bavarese. La parte occidentale della Maximilianstraße è conosciuta per i suoi negozi di design, boutique di lusso, negozi di gioielli e uno dei più importanti alberghi a cinque stelle di Monaco, l'Hotel Vier Jahreszeiten....",
-                    "*...Prinzregentenstraße si estende dalla Maximilianstrasse e comincia a Prinz-Carl-Palais. Molti musei si trovano lungo il viale, come l'Haus der Kunst, il Museo nazionale bavarese e la Schackgalerie. Il viale attraversa il fiume Isar e raggiunge il monumento dell'Angelo della Pace passando da Villa Stuck. Il Prinzregententheater si trova più ad est a Prinzregentenplatz....",
-                    "*...Il fiume Isar è attraversato da molti ponti, tra cui ricordiamo:...",
-                    "*...Lo zoo della città è lo zoo di Hellabrunn, vicino all'isola Flaucher nel Isar, nel sud della città....",
-                    "*...Il Deutsches Museum, situato su un'isola nel fiume Isar, è uno dei musei scientifici più antichi e prestigiosi del mondo....",
-                    "*...Un'altra area per le arti, situata nei pressi della Kunstareal, è il quartiere Lehel tra la città vecchia e il fiume Isar....",
-                    "*...Tre volte l'anno, nel quartiere di Au sulla riva destra dell'Isar si tiene la fiera-Mercato dell'Auer Dult, molto frequentata per le giostre e il grande assortimento di mercanzie in vendita (soprattutto porcellane e oggetti d'antiquariato)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     11.507434,
                     48.125872
                 ]
@@ -232,31 +204,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.579045,
-                    48.141161
-                ]
-            },
-            "properties": {
-                "entity": "Residenz",
-                "name_location": "Residenz, Alfons-Goppel-Straße, Graggenauerviertel, Graggenau, Altstadt-Lehel, Monaco, Baviera, 80539, Germania",
-                "class": "tourism",
-                "type": "attraction",
-                "snippet": [
-                    "...La Residenz: il palazzo fu residenza dei duchi e dei re della Baviera. Il vasto complesso, con tre facciate monumentali e che si sviluppa intorno a tre cortili principali, venne costruito a partire dalla seconda metà del XVI secolo, quando, per volere del duca Alberto V, venne abbattuta la cosiddetta Neuveste (Fortezza nuova eretta nel 1385). Si arricchì gradualmente con importanti tesori, sia architettonici che decorativi. Ospita diversi musei al suo interno: Residenzmuseum, costituito dalle sale stesse del castello, uno dei musei di decorazione di interni fra i più significativi d'Europa; Schatzkammer, la Camera del Tesoro, che raccoglie preziosissime opere d'arte orafa dall'Alto Medioevo all'epoca barocca; Staatliche Münzensammlung, La Collezione della Zecca di Stato, fra le più ricche collezioni al mondo di Numismatica e Sfragistica. Inoltre accoglie lo splendido Teatro Cuvilliés, pregevole gioiello rococò che prende nome dal suo architetto François de Cuvilliés il vecchio....",
-                    "*...Odeonsplatz, animata piazza monumentale di Monaco, è dominata dalla cupola della Theatinerkirche. Vi prospettano inoltre una parte del lungo fronte rinascimentale della Residenz e la Feldherrnhalle, la Loggia dei Marescialli, costruita nel 1841-44, per volere di Ludovico I di Baviera, su progetto di Friedrich von Gärtner che si ispirò alla Loggia della Signoria di Firenze. La loggia venne costruita per onorare gli eroi della Baviera ;...",
-                    "*...Brienner Straße, neoclassica, parte da Odeonsplatz ai margini settentrionali del centro storico vicino alla Residenz e prosegue da est verso ovest, dove si apre la Königsplatz....",
-                    "...Maximilianstraße, neo-gotica, inizia da Max-Joseph-Platz, dove si trovano la Residenz e il Teatro Nazionale e prosegue da ovest a est. Il viale è contornato da edifici neogotici che ospitano, tra gli altri, il Münchner Kammerspiele, il Museo di etnologia e il Palazzo del governo del distretto dell'Alta Baviera. Dopo aver attraversato il fiume Isar, il viale gira intorno al Maximilianeum, sede del parlamento bavarese. La parte occidentale della Maximilianstraße è conosciuta per i suoi negozi di design, boutique di lusso, negozi di gioielli e uno dei più importanti alberghi a cinque stelle di Monaco, l'Hotel Vier Jahreszeiten....",
-                    "*...Il Parco più antico della città è l'Hofgarten, vicino alla Residenz e risalente al XVI secolo....",
-                    "*...Accanto alla Residenz fu edificato il Teatro Cuvilliés, costruito sullo stile dei più prestigiosi teatri italiani per volere di Massimiliano III di Baviera, che ha visto mettere in scena molte opere, tra cui la prima dell'Idomeneo di Mozart nel 1781....",
-                    "*...Accanto alla Residenz, il Münchner Kammerspiele è uno dei più importanti teatri di lingua tedesca nel mondo...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     11.578615,
                     48.140633
                 ]
@@ -267,7 +214,13 @@
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
-                    "*...La Residenz: il palazzo fu residenza dei duchi e dei re della Baviera. Il vasto complesso, con tre facciate monumentali e che si sviluppa intorno a tre cortili principali, venne costruito a partire dalla seconda metà del XVI secolo, quando, per volere del duca Alberto V, venne abbattuta la cosiddetta Neuveste (Fortezza nuova eretta nel 1385). Si arricchì gradualmente con importanti tesori, sia architettonici che decorativi. Ospita diversi musei al suo interno: Residenzmuseum, costituito dalle sale stesse del castello, uno dei musei di decorazione di interni fra i più significativi d'Europa; Schatzkammer, la Camera del Tesoro, che raccoglie preziosissime opere d'arte orafa dall'Alto Medioevo all'epoca barocca; Staatliche Münzensammlung, La Collezione della Zecca di Stato, fra le più ricche collezioni al mondo di Numismatica e Sfragistica. Inoltre accoglie lo splendido Teatro Cuvilliés, pregevole gioiello rococò che prende nome dal suo architetto François de Cuvilliés il vecchio...."
+                    "*...La Residenz: il palazzo fu residenza dei duchi e dei re della Baviera. Il vasto complesso, con tre facciate monumentali e che si sviluppa intorno a tre cortili principali, venne costruito a partire dalla seconda metà del XVI secolo, quando, per volere del duca Alberto V, venne abbattuta la cosiddetta Neuveste (Fortezza nuova eretta nel 1385). Si arricchì gradualmente con importanti tesori, sia architettonici che decorativi. Ospita diversi musei al suo interno: Residenzmuseum, costituito dalle sale stesse del castello, uno dei musei di decorazione di interni fra i più significativi d'Europa; Schatzkammer, la Camera del Tesoro, che raccoglie preziosissime opere d'arte orafa dall'Alto Medioevo all'epoca barocca; Staatliche Münzensammlung, La Collezione della Zecca di Stato, fra le più ricche collezioni al mondo di Numismatica e Sfragistica. Inoltre accoglie lo splendido Teatro Cuvilliés, pregevole gioiello rococò che prende nome dal suo architetto François de Cuvilliés il vecchio....",
+                    "*...Odeonsplatz, animata piazza monumentale di Monaco, è dominata dalla cupola della Theatinerkirche. Vi prospettano inoltre una parte del lungo fronte rinascimentale della Residenz e la Feldherrnhalle, la Loggia dei Marescialli, costruita nel 1841-44, per volere di Ludovico I di Baviera, su progetto di Friedrich von Gärtner che si ispirò alla Loggia della Signoria di Firenze. La loggia venne costruita per onorare gli eroi della Baviera ;...",
+                    "*...Brienner Straße, neoclassica, parte da Odeonsplatz ai margini settentrionali del centro storico vicino alla Residenz e prosegue da est verso ovest, dove si apre la Königsplatz....",
+                    "...Maximilianstraße, neo-gotica, inizia da Max-Joseph-Platz, dove si trovano la Residenz e il Teatro Nazionale e prosegue da ovest a est. Il viale è contornato da edifici neogotici che ospitano, tra gli altri, il Münchner Kammerspiele, il Museo di etnologia e il Palazzo del governo del distretto dell'Alta Baviera. Dopo aver attraversato il fiume Isar, il viale gira intorno al Maximilianeum, sede del parlamento bavarese. La parte occidentale della Maximilianstraße è conosciuta per i suoi negozi di design, boutique di lusso, negozi di gioielli e uno dei più importanti alberghi a cinque stelle di Monaco, l'Hotel Vier Jahreszeiten....",
+                    "*...Il Parco più antico della città è l'Hofgarten, vicino alla Residenz e risalente al XVI secolo....",
+                    "*...Accanto alla Residenz fu edificato il Teatro Cuvilliés, costruito sullo stile dei più prestigiosi teatri italiani per volere di Massimiliano III di Baviera, che ha visto mettere in scena molte opere, tra cui la prima dell'Idomeneo di Mozart nel 1781....",
+                    "*...Accanto alla Residenz, il Münchner Kammerspiele è uno dei più importanti teatri di lingua tedesca nel mondo...."
                 ]
             }
         },
@@ -406,7 +359,17 @@
                 "class": "historic",
                 "type": "city_gate",
                 "snippet": [
-                    "...Le Porte di città. Dell'ormai demolita cinta muraria medievale, sono sopravvissute tre porte fino ad oggi: la Isartor a est, la Sendlinger Tor a sud e la Karlstor ad ovest del centro urbano...."
+                    "...Le Porte di città. Dell'ormai demolita cinta muraria medievale, sono sopravvissute tre porte fino ad oggi: la Isartor a est, la Sendlinger Tor a sud e la Karlstor ad ovest del centro urbano....",
+                    "*...Situata sulle rive del fiume Isar, dopo Berlino ed Amburgo è la terza città tedesca per numero di abitanti, con una popolazione di circa 1 488 202 (31-12-2020) residenti nel comune, 1 808 550 se si considera anche il circondario e circa 2,9 milioni nell'area metropolitana....",
+                    "*...La città viene attraversata dall'Isar e a sud si stendono boschi di conifere con laghi di notevole estensione, tra cui, verso ovest, il lago di Starnberg e l'Ammersee....",
+                    "*...La Chiesa di San Giovanni Battista, costruita tra il 1852 e il 1874, è la più grande Chiesa a est del fiume Isar. Il campanile è alto 97 metri ed è il terzo in quanto altezza a Monaco di Baviera....",
+                    "*...Maximilianstraße, neo-gotica, inizia da Max-Joseph-Platz, dove si trovano la Residenz e il Teatro Nazionale e prosegue da ovest a est. Il viale è contornato da edifici neogotici che ospitano, tra gli altri, il Münchner Kammerspiele, il Museo di etnologia e il Palazzo del governo del distretto dell'Alta Baviera. Dopo aver attraversato il fiume Isar, il viale gira intorno al Maximilianeum, sede del parlamento bavarese. La parte occidentale della Maximilianstraße è conosciuta per i suoi negozi di design, boutique di lusso, negozi di gioielli e uno dei più importanti alberghi a cinque stelle di Monaco, l'Hotel Vier Jahreszeiten....",
+                    "*...Prinzregentenstraße si estende dalla Maximilianstrasse e comincia a Prinz-Carl-Palais. Molti musei si trovano lungo il viale, come l'Haus der Kunst, il Museo nazionale bavarese e la Schackgalerie. Il viale attraversa il fiume Isar e raggiunge il monumento dell'Angelo della Pace passando da Villa Stuck. Il Prinzregententheater si trova più ad est a Prinzregentenplatz....",
+                    "*...Il fiume Isar è attraversato da molti ponti, tra cui ricordiamo:...",
+                    "*...Lo zoo della città è lo zoo di Hellabrunn, vicino all'isola Flaucher nel Isar, nel sud della città....",
+                    "*...Il Deutsches Museum, situato su un'isola nel fiume Isar, è uno dei musei scientifici più antichi e prestigiosi del mondo....",
+                    "*...Un'altra area per le arti, situata nei pressi della Kunstareal, è il quartiere Lehel tra la città vecchia e il fiume Isar....",
+                    "*...Tre volte l'anno, nel quartiere di Au sulla riva destra dell'Isar si tiene la fiera-Mercato dell'Auer Dult, molto frequentata per le giostre e il grande assortimento di mercanzie in vendita (soprattutto porcellane e oggetti d'antiquariato)...."
                 ]
             }
         },
@@ -465,66 +428,6 @@
                 "type": "university",
                 "snippet": [
                     "...Il Führerbau, sede di rappresentanza di Adolf Hitler nella città di Monaco durante il regime nazista...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.575344,
-                    48.137788
-                ]
-            },
-            "properties": {
-                "entity": "Neues Rathaus",
-                "name_location": "Neues Rathaus, 8, Marienplatz, Graggenauerviertel, Graggenau, Altstadt-Lehel, Monaco, Baviera, 80331, Germania",
-                "class": "tourism",
-                "type": "attraction",
-                "snippet": [
-                    "...Il Municipio Nuovo (Neues Rathaus) è una grandiosa costruzione in stile neogotico che domina la piazza principale, la Marienplatz. La torre civica porta il celebre Rathaus-Glockenspiel, l'orologio arricchito del carillon Glockenspiel a figure animate, simbolo cittadino ed il più grande della Germania....",
-                    "...Marienplatz è il centro della città, intitolata alla Madonna, prende il nome dalla Mariensäule, la colonna barocca della Vergine che sorge in mezzo alla piazza. Chiudono la piazza importanti edifici: i celebri palazzi comunali di Monaco: il Neues Rathaus e l'Altes Rathaus, nonché la barocca Chiesa di San Pietro...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.577059,
-                    48.136817
-                ]
-            },
-            "properties": {
-                "entity": "Altes Rathaus",
-                "name_location": "Altes Rathaus, 15, Marienplatz, Graggenauerviertel, Graggenau, Altstadt-Lehel, Monaco, Baviera, 80331, Germania",
-                "class": "tourism",
-                "type": "attraction",
-                "snippet": [
-                    "...Il Municipio Vecchio (Altes Rathaus) era l'antica sede del municipio di Monaco di Baviera, ristrutturato più volte, conserva gli interni medievali originali....",
-                    "...Marienplatz è il centro della città, intitolata alla Madonna, prende il nome dalla Mariensäule, la colonna barocca della Vergine che sorge in mezzo alla piazza. Chiudono la piazza importanti edifici: i celebri palazzi comunali di Monaco: il Neues Rathaus e l'Altes Rathaus, nonché la barocca Chiesa di San Pietro...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.567399,
-                    48.138849
-                ]
-            },
-            "properties": {
-                "entity": "Karlsplatz",
-                "name_location": "Karlsplatz, Kreuzviertel, Altstadt-Lehel, Monaco, Baviera, 80331, Germania",
-                "class": "highway",
-                "type": "pedestrian",
-                "snippet": [
-                    "*...Karlsplatz, grande piazza dominata dal Justizpalast (Palazzo di Giustizia), da una fontana e dalla Karlstor, una delle tre porte rimaste della cinta muraria cittadina....",
-                    "...N17 Amalienburgstraße-  Effnerplatz \nN19 Pasing Bahnhof-  St.-Veit-Strasse \nN20 Karlsplatz (Stachus)-  Moosach Bahnhof \nN27 Petuelring-  Grosshesseloher Brücke \nMonaco di Baviera ha una storia quasi ininterrotta di governi del Partito Socialdemocratico di Germania a partire dalla seconda guerra mondiale, nonostante la parte meridionale della Baviera sia una roccaforte conservatrice, con l'Unione Cristiano-Sociale vincente nella maggioranza delle consultazioni a livello comunale, statale e federale...."
                 ]
             }
         },
@@ -921,25 +824,6 @@
                     "...La Chiesa della Santa Trinità, barocco edificio costruito dal ticinese Giovanni Antonio Viscardi nel 1711-18....",
                     "*...Castello di Schleißheim, nel sobborgo di Oberschleißheim, è un complesso barocco. Definito la «Versailles bavarese», forma con i giardini, un episodio capitale del Barocco. Costituito da tre residenze separate: Altes Schloss (il vecchio palazzo), Neues Schloss (il nuovo palazzo) e Schloss Lustheim (palazzo Lustheim), venne costruito a partire dal 1597 dal duca Guglielmo V di Baviera (Altes Schloss), poi accresciuto dal grigionese Enrico Zuccalli, e decorato con affreschi dagli Asam e con stucchi da Johann Baptist Zimmermann....",
                     "...Dal gotico al barocco, le belle arti erano rappresentate a Monaco di Baviera da artisti quali Erasmo Grasser, Jan Polack, Johann Baptist Straub, Ignaz Günther, Hans Krumpper, Ludwig von Schwanthaler, Cosmas Damian Asam, Egid Quirin Asam, Johann Baptist Zimmermann, Johann Michael Fischer, François de Cuvilliés il Vecchio ed il figlio François de Cuvilliés il Giovane...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.486154,
-                    48.163789
-                ]
-            },
-            "properties": {
-                "entity": "Lustheim",
-                "name_location": "Lustheimstraße, Amalienburgstraße, Obermenzing, Pasing-Obermenzing, Monaco, Baviera, 81247, Germania",
-                "class": "highway",
-                "type": "bus_stop",
-                "snippet": [
-                    "*...Castello di Schleißheim, nel sobborgo di Oberschleißheim, è un complesso barocco. Definito la «Versailles bavarese», forma con i giardini, un episodio capitale del Barocco. Costituito da tre residenze separate: Altes Schloss (il vecchio palazzo), Neues Schloss (il nuovo palazzo) e Schloss Lustheim (palazzo Lustheim), venne costruito a partire dal 1597 dal duca Guglielmo V di Baviera (Altes Schloss), poi accresciuto dal grigionese Enrico Zuccalli, e decorato con affreschi dagli Asam e con stucchi da Johann Baptist Zimmermann...."
                 ]
             }
         },

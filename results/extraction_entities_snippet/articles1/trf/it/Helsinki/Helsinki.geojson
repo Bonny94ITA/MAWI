@@ -142,25 +142,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    24.896247,
-                    60.229717
-                ]
-            },
-            "properties": {
-                "entity": "Sole",
-                "name_location": "Pizzeria Sole, 14, Näyttelijäntie, Pohjois-Haaga, Haaga, Läntinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Etelä-Suomen aluehallintovirasto, Manner-Suomi, 00400, Finlandia",
-                "class": "amenity",
-                "type": "fast_food",
-                "snippet": [
-                    "*...Pur essendo latitudinalmente a 710 chilometri dal circolo polare artico, ad Helsinki si può ammirare per diverse \"notti estive\" (da 15 giorni prima del 20 oppure 21 giugno a 15 giorni dopo con sicurezza e nitidezza), il fenomeno delle Notti Bianche che non ha niente a che vedere con il Sole di mezzanotte, bensì è un crepuscolo civile che non termina mai per tutta la durata del tempo in cui il Sole rimane sotto l'orizzonte e che lascia il cielo solo parzialmente scurito...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     25.065422,
                     60.322935
                 ]

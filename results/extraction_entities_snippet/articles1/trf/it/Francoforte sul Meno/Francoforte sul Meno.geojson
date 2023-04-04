@@ -6,38 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.677816,
-                    50.119303
-                ]
-            },
-            "properties": {
-                "entity": "Meno",
-                "name_location": "Generalkonsulat und Förderzentrum von Argentinien, 19-21, Eschersheimer Landstraße, Westend Süd, Innenstadt 2, Francoforte sul Meno, Assia, 60322, Germania",
-                "class": "office",
-                "type": "diplomatic",
-                "snippet": [
-                    "...Francoforte sul Meno (in tedesco:...",
-                    "*...Situata sul fiume Meno, la città, di 759 224 abitanti (2,2 milioni nell'area urbana), è al centro di una vasta area metropolitana di  denominata Rhein-Main, con una popolazione che supera i 5,5 milioni di abitanti....",
-                    "*...Soprannominata anche \"Bankfurt\", \"Mainhattan\" (gioco di parole tra Main, il fiume Meno, e Manhattan, cuore finanziario di New York) o \"Big Äppel\" (altro riferimento a New York, dove l'Äppelwoi è un tipico prodotto locale), è il centro finanziario della Germania e uno dei principali al mondo essendo sede della Banca centrale europea, della Banca Federale Tedesca e della Borsa di Francoforte (terza al mondo per volume di scambi azionari)....",
-                    "...L'Aeroporto di Francoforte sul Meno è uno degli scali più trafficati del mondo, la stazione centrale della città è uno dei terminal più grandi in Europa, con oltre 130 milioni di passeggeri annui, e l'incrocio fra le autostrade A 3 e A 5, che si trova nell'area urbana della città, è il più utilizzato del continente....",
-                    "*...Il fiume Meno divide la vecchia Francoforte da Francoforte-Sachsenhausen....",
-                    "*...Francoforte è bagnata dal fiume Nidda, che confluisce nel Meno a Francoforte-Höchst;...",
-                    "*...Il testo \"...actum super fluvium Moin in loco nuncupante Franconofurd\" \"...atto sul fiume Meno in luogo chiamato Francoforte....",
-                    "...Come simbolo di conciliazione il 10 maggio 1871 fu firmato il trattato di Francoforte nella città sul Meno, che mise fine alla guerra franco-prussiana del 1870-1871....",
-                    "...La città è un importante centro per il commercio sia navale, basato sui porti di Westhafen e Osthafen sul Meno, che aereo, essendo l'Aeroporto il terzo scalo più importante d'Europa dopo l'Aeroporto di Londra-Heathrow e l'Aeroporto di Parigi-Roissy....",
-                    "...La Stazione di Francoforte sul Meno Hauptbahnhof è la più grande dell'Assia e una delle più grandi di tutta la Germania, ma soprattutto è la maggiore per transito passeggeri in Europa, rivestendo dunque una certa importanza per la città....",
-                    "...La Stazione di Francoforte sul Meno Rödelheim, serve l'omonimo quartiere\nIl trasporto pubblico ha una diffusione capillare nella città e nei dintorni....",
-                    "...A sudovest della città, a Kelsterbach, si trova l'Aeroporto di Francoforte sul Meno (codice IATA: FRA);...",
-                    "...Francoforte sul Meno è suddivisa in 16 distretti locali (Ortsbezirk), a loro volta suddivisi in 46 quartieri (Stadtteil):...",
-                    "...Francoforte sul Meno è gemellata con:..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     8.66698,
                     50.10359
                 ]
@@ -50,56 +18,6 @@
                 "snippet": [
                     "*...Situata sul fiume Meno, la città, di 759 224 abitanti (2,2 milioni nell'area urbana), è al centro di una vasta area metropolitana di  denominata Rhein-Main, con una popolazione che supera i 5,5 milioni di abitanti....",
                     "...Il consorzio RMV (Rhein-Main Verkehrsverbund) trasporta ogni anno sulle sue linee S-Bahn e U-Bahn circa 100 milioni di passeggeri...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.672196,
-                    50.112542
-                ]
-            },
-            "properties": {
-                "entity": "Main",
-                "name_location": "Main Tower, 52-58, Neue Mainzer Straße, Innenstadt, Innenstadt 1, Francoforte sul Meno, Assia, 60311, Germania",
-                "class": "building",
-                "type": "commercial",
-                "snippet": [
-                    "...Frankfurt am Main ), o semplicemente Francoforte, è una città extracircondariale della Germania sud-occidentale, situata nello Stato federato dell'Assia, la quinta tedesca per numero di abitanti dopo Berlino, Amburgo, Monaco e Colonia....",
-                    "*...Soprannominata anche \"Bankfurt\", \"Mainhattan\" (gioco di parole tra Main, il fiume Meno, e Manhattan, cuore finanziario di New York) o \"Big Äppel\" (altro riferimento a New York, dove l'Äppelwoi è un tipico prodotto locale), è il centro finanziario della Germania e uno dei principali al mondo essendo sede della Banca centrale europea, della Banca Federale Tedesca e della Borsa di Francoforte (terza al mondo per volume di scambi azionari)....",
-                    "...Uno dei pochi grattacieli aperti al pubblico è il Main Tower, con una piattaforma di prospettiva a 200 metri d'altezza....",
-                    "...A Francoforte hanno sede l'Università Goethe di Francoforte, la Frankfurt University of Applied Sciences, la Frankfurt School of Finance and Management e la Pädagogische Akademie Frankfurt am Main...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.652295,
-                    50.108254
-                ]
-            },
-            "properties": {
-                "entity": "Europa",
-                "name_location": "Europa-Allee, Europaviertel, Gallus, Innenstadt 1, Francoforte sul Meno, Assia, 60486, Germania",
-                "class": "highway",
-                "type": "residential",
-                "snippet": [
-                    "*...L'Aeroporto di Francoforte sul Meno è uno degli scali più trafficati del mondo, la stazione centrale della città è uno dei terminal più grandi in Europa, con oltre 130 milioni di passeggeri annui, e l'incrocio fra le autostrade A 3 e A 5, che si trova nell'area urbana della città, è il più utilizzato del continente....",
-                    "*...In Europa, Francoforte ha un considerevole numero di grattacieli alti più di 250 metri nel centro della città....",
-                    "*...Conosciuti sono il Messeturm () (torre della fiera), la Commerzbank Tower, la Westendtower e il grattacielo della Dresdner Bank, i più alti grattacieli d'Europa....",
-                    "*...Progettata da Sir Norman Foster & Partners, fu, al momento della sua costruzione, l'edificio più alto d'Europa....",
-                    "*...La torre è alta solo due metri in più della concittadina MesseTurm, superata dunque al primo posto nella classifica degli edifici più alti d'Europa....",
-                    "*...Nell'area di Francoforte si trova inoltre la più grande comunità coreana d'Europa, mentre la città conta abitanti di 180 nazionalità diverse....",
-                    "*...La città è un importante centro per il commercio sia navale, basato sui porti di Westhafen e Osthafen sul Meno, che aereo, essendo l'Aeroporto il terzo scalo più importante d'Europa dopo l'Aeroporto di Londra-Heathrow e l'Aeroporto di Parigi-Roissy....",
-                    "*...La Stazione di Francoforte sul Meno Hauptbahnhof è la più grande dell'Assia e una delle più grandi di tutta la Germania, ma soprattutto è la maggiore per transito passeggeri in Europa, rivestendo dunque una certa importanza per la città....",
-                    "*...FFC Francoforte, laureatosi più volte campione d'Europa e del mondo....",
-                    "...Successivamente la città è stata sede della squadra di maggior successo della NFL Europa, i Frankfurt Galaxy (che hanno vinto 4 World Bowl)...."
                 ]
             }
         },
@@ -127,8 +45,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.664753,
-                    50.108452
+                    8.66878,
+                    50.109906
                 ]
             },
             "properties": {
@@ -147,8 +65,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.6696,
-                    50.111814
+                    8.665225,
+                    50.110038
                 ]
             },
             "properties": {
@@ -207,49 +125,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.682092,
-                    50.110644
-                ]
-            },
-            "properties": {
-                "entity": " ",
-                "name_location": "Francoforte sul Meno, Assia, Germania",
-                "class": "boundary",
-                "type": "administrative",
-                "snippet": [
-                    "...Situata sul fiume Meno, la città, di 759 224 abitanti (2,2 milioni nell'area urbana), è al centro di una vasta area metropolitana di  denominata Rhein-Main, con una popolazione che supera i 5,5 milioni di abitanti....",
-                    "...Le minime talvolta vanno sotto i  toccando punte di  (record di minima assoluta ufficiale di  all'Aeroporto in data 19 gennaio 1940)....",
-                    "...In estate non è raro che si vada oltre i  e a causa della molta umidità la sensazione di caldo è intollerabile (record di massima assoluta di  il 9 agosto 2003 sempre alla medesima stazione meteorologica aeroportuale)....",
-                    "...Il Römerberg è la piazza centrale della città. Tra le diverse case ricostruite si trovano il municipio (Römer) e la  Alte Nikolaikirche (vecchia Chiesa di San Nicola)....",
-                    "...La torre della Commerzbank, completata nel 1997, è alta  (300 considerando anche l'antenna) e ospita  di uffici della banca, includendo giardini invernali e illuminazione e circolazione dell'aria naturali....",
-                    "...A circa  si trova l'Aeroporto di Francoforte-Hahn, codice IATA:...",
-                    "...Lione, dal 1960 ;...",
-                    "...Birmingham, dal 1966 ;...",
-                    "...Deuil-la-Barre, dal 1967 ;...",
-                    "...Milano, dal 1969 ;...",
-                    "...Il Cairo, dal 1979 solo contratto di amicizia ;...",
-                    "...Tel Aviv, dal 1980 solo contratto di amicizia ;...",
-                    "...Toronto, dal 1989 solo contratto di amicizia ;...",
-                    "...Budapest, dal 1990 ;...",
-                    "...Canton, dal 1990 ....",
-                    "...Lipsia, dal 1990 solo contratto di amicizia e cooperazione ;...",
-                    "...Praga, dal 1990 ;...",
-                    "...Granada, dal 1991 ;...",
-                    "...Cracovia, dal 1991 ;...",
-                    "...Dubai, dal 2005 solo contratto di amicizia ;...",
-                    "...Yokohama, dal 2011 ;...",
-                    "...Eskişehir, dal 2012 ;...",
-                    "...Filadelfia, dal 2015 ;...",
-                    "...Hong Kong ;...",
-                    "...Chennai ...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     8.684391,
                     50.110688
                 ]
@@ -299,7 +174,9 @@
                 "class": "building",
                 "type": "commercial",
                 "snippet": [
-                    "...Conosciuti sono il Messeturm () (torre della fiera), la Commerzbank Tower, la Westendtower e il grattacielo della Dresdner Bank, i più alti grattacieli d'Europa...."
+                    "...Conosciuti sono il Messeturm () (torre della fiera), la Commerzbank Tower, la Westendtower e il grattacielo della Dresdner Bank, i più alti grattacieli d'Europa....",
+                    "*...La torre della Commerzbank, completata nel 1997, è alta  (300 considerando anche l'antenna) e ospita  di uffici della banca, includendo giardini invernali e illuminazione e circolazione dell'aria naturali....",
+                    "*...La casa farmaceutica Sanofi-Aventis (come successore della Hoechst AG), diverse banche (Deutsche Bank, Dresdner Bank, Commerzbank) e l'Aeroporto...."
                 ]
             }
         },
@@ -318,28 +195,10 @@
                 "class": "tourism",
                 "type": "viewpoint",
                 "snippet": [
-                    "...Uno dei pochi grattacieli aperti al pubblico è il Main Tower, con una piattaforma di prospettiva a 200 metri d'altezza...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.686874,
-                    50.114039
-                ]
-            },
-            "properties": {
-                "entity": "Commerzbank",
-                "name_location": "Commerzbank, Konstablerwache, Altstadt, Innenstadt 1, Francoforte sul Meno, Assia, 60313, Germania",
-                "class": "amenity",
-                "type": "bank",
-                "snippet": [
-                    "...Conosciuti sono il Messeturm () (torre della fiera), la Commerzbank Tower, la Westendtower e il grattacielo della Dresdner Bank, i più alti grattacieli d'Europa....",
-                    "*...La torre della Commerzbank, completata nel 1997, è alta  (300 considerando anche l'antenna) e ospita  di uffici della banca, includendo giardini invernali e illuminazione e circolazione dell'aria naturali....",
-                    "*...La casa farmaceutica Sanofi-Aventis (come successore della Hoechst AG), diverse banche (Deutsche Bank, Dresdner Bank, Commerzbank) e l'Aeroporto...."
+                    "...Uno dei pochi grattacieli aperti al pubblico è il Main Tower, con una piattaforma di prospettiva a 200 metri d'altezza....",
+                    "...Frankfurt am Main ), o semplicemente Francoforte, è una città extracircondariale della Germania sud-occidentale, situata nello Stato federato dell'Assia, la quinta tedesca per numero di abitanti dopo Berlino, Amburgo, Monaco e Colonia....",
+                    "*...Soprannominata anche \"Bankfurt\", \"Mainhattan\" (gioco di parole tra Main, il fiume Meno, e Manhattan, cuore finanziario di New York) o \"Big Äppel\" (altro riferimento a New York, dove l'Äppelwoi è un tipico prodotto locale), è il centro finanziario della Germania e uno dei principali al mondo essendo sede della Banca centrale europea, della Banca Federale Tedesca e della Borsa di Francoforte (terza al mondo per volume di scambi azionari)....",
+                    "...A Francoforte hanno sede l'Università Goethe di Francoforte, la Frankfurt University of Applied Sciences, la Frankfurt School of Finance and Management e la Pädagogische Akademie Frankfurt am Main...."
                 ]
             }
         },

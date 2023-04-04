@@ -6,27 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.380655,
-                    50.842539
-                ]
-            },
-            "properties": {
-                "entity": "Europa",
-                "name_location": "Palazzo Europa, 155, Rue de la Loi - Wetstraat, Quartier européen - Europese Wijk, Bruxelles, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, Belgio",
-                "class": "office",
-                "type": "government",
-                "snippet": [
-                    "*...Nel 1477, quando divenne capitale dei Paesi Bassi austriaci, era ritenuta una delle città più attraenti e ricche d'Europa, grazie soprattutto alle sue attività commerciali, concentrate sul traffico di tessuti....",
-                    "*...Il Municipio di Bruxelles è uno dei più begli esempi di Palazzi pubblici in Europa, e uno dei più alti capolavori dello stile Gotico brabantino, eretto fra il 1402 e il 1455....",
-                    "...Statua dell'Europa ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     4.352418,
                     50.846811
                 ]
@@ -143,27 +122,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.33813,
-                    50.896432
-                ]
-            },
-            "properties": {
-                "entity": "Heysel",
-                "name_location": "Heysel - Heizel, Avenue Impératrice Charlotte - Keizerin Charlottelaan, Verregat, Laeken - Laken, Bruxelles, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1020, Belgio",
-                "class": "railway",
-                "type": "tram_stop",
-                "snippet": [
-                    "*...Per quanto riguarda la storia contemporanea, Bruxelles è stata tristemente al centro delle cronache per la strage dell'Heysel, avvenuta il 29 maggio 1985....",
-                    "*...Heysel ;...",
-                    "...Lo stadio principale, dove si giocano anche le partite della nazionale e gli incontri più importanti a livello internazionale, è lo Stadio Re Baldovino (ex stadio Heysel), capace di ospitare 60.000 spettatori...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     4.353424,
                     50.845246
                 ]
@@ -272,37 +230,6 @@
                 "type": "museum",
                 "snippet": [
                     "*...Musée Constantin Meunier ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.353295,
-                    50.840742
-                ]
-            },
-            "properties": {
-                "entity": "Musée",
-                "name_location": "Musée Juif de Belgique - Joods Museum van België, 21, Rue des Minimes - Minimenstraat, Sablon - Zavel, Pentagone - Vijfhoek, Bruxelles, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, Belgio",
-                "class": "tourism",
-                "type": "museum",
-                "snippet": [
-                    "...Bibliothèque du Musée des Instruments de Musique ;...",
-                    "...Bibliothèques du Musée royal de l'Afrique Centrale ;...",
-                    "...Musée communal des Beaux-Arts d'Ixelles ;...",
-                    "...Musée d'art spontané ;...",
-                    "...Musée juif de Belgique ;...",
-                    "...Musée royal d'art ancien ;...",
-                    "...Musée royal d'art moderne ;...",
-                    "...Musée Antoine Wiertz ;...",
-                    "...Musée Constantin Meunier ;...",
-                    "...Musée du jouet ;...",
-                    "...Musée du cinéma ;...",
-                    "*...Musée Bellevue ;...",
-                    "...Musée bruxellois de la gueuze ;..."
                 ]
             }
         },

@@ -83,30 +83,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    18.067015,
-                    59.325466
-                ]
-            },
-            "properties": {
-                "entity": "Sud",
-                "name_location": "Arbetsdomstolen, Stora Nygatan, Gamla stan, Södermalms stadsdelsområde, Stoccolma, Stockholms kommun, Stockholms län, 111 28, Svezia",
-                "class": "amenity",
-                "type": "courthouse",
-                "snippet": [
-                    "...In quel periodo la città era compresa nelle zone di Helgeandsholmen, Staden e Riddarholmen, che oggi formano la cosiddetta Gamla stan, o città vecchia, insieme a quella di Sigtuna, situata sulle rive del lago Mälaren, e successivamente si estese lentamente sulla terraferma verso nord e verso sud....",
-                    "...Il Castello di Drottningholm e il Cimitero sud chiamato Skogskyrkogården....",
-                    "*...Scuola superiore di Södertörns. Fondato nella parte Sud dell'area metropolitana di Stoccolma per bilanciare la maggior presenza di Istituti universitari nella parte Nord....",
-                    "...Stoccolma Centro Città (Innerstaden), Stoccolma Sud (Söderort) e Stoccolma Ovest (Västerort), che sono a loro volta suddivise in zone più piccole....",
-                    "...Aeroporto di Stoccolma-Skavsta. Situato a circa 100 km a sud-ovest di Stoccolma, ospita principalmente voli di compagnie aeree low-cost come Ryanair e Wizz Air....",
-                    "...Hammarby: istituita nel 1915, la sezione calcistica ha vinto il suo unico campionato nel 2001. I suoi colori sociali sono il bianco e il verde. È considerata la squadra più popolare nell'isola di Södermalm e in altre parti a sud della città...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     18.070772,
                     59.327582
                 ]

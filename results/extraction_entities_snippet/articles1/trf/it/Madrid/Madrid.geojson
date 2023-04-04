@@ -6,30 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -3.763483,
-                    40.395117
-                ]
-            },
-            "properties": {
-                "entity": "Europa",
-                "name_location": "Europa, 65, Calle de Illescas, Aluche, Latina, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28024, Spagna",
-                "class": "shop",
-                "type": "shoes",
-                "snippet": [
-                    "*...Si tratta del secondo comune più popoloso nell'Unione europea, dopo Berlino, e la sua area metropolitana è la sesta più popolosa d'Europa dopo Mosca, Istanbul, Londra, la Ruhr e Parigi:...",
-                    "...Grazie al suo rendimento economico, all'elevato standard di vita e alle dimensioni del suo Mercato, Madrid è considerata il maggiore centro finanziario del Sud Europa;...",
-                    "...Le Torres Puerta de Europa, anche conosciute come Torres KIO ;...",
-                    "*...Inoltre, anche grazie alle politiche del governo Zapatero, quali l'allargamento del matrimonio anche a coppie formate da partner dello stesso sesso, Madrid si sta trasformando in un vero polo di attrazione per gay, lesbiche e transgender di tutta Europa....",
-                    "*...È al 4º posto tra le città più visitate d’Europa....",
-                    "*...La metropolitana di Madrid è la terza rete metropolitana più lunga in Europa, dopo quelle di Londra e Mosca, con una lunghezza di ...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -3.713584,
                     40.417312
                 ]
@@ -41,7 +17,13 @@
                 "type": "museum",
                 "snippet": [
                     "...Nel suo patrimonio culturale troviamo il Palazzo reale di Madrid, il Parco del Retiro, la Biblioteca nazionale di Spagna e tre importanti musei: il Museo del Prado, il Museo Nacional Centro de Arte Reina Sofía e il Museo Thyssen-Bornemisza....",
-                    "...Il Palazzo reale di Madrid (Palacio Real de Madrid) ;..."
+                    "...Il Palazzo reale di Madrid (Palacio Real de Madrid) ;...",
+                    "...Tuttavia le origini della città moderna risalgono al 852, quando Muhammad I ordinò la costruzione di una piccola residenza reale nel medesimo luogo in cui oggi sorge il Palazzo reale....",
+                    "...Dopo che l'Alcázar andò distrutto in un incendio nel 1734 si costruì nello stesso sito l'attuale Palazzo reale che fu ultimato nel 1755....",
+                    "...A nord-ovest del Palazzo reale, su alcuni terreni ceduti dal sovrano, si formò la Ciudad Universitaria....",
+                    "...I giardini del Campo del Moro, posti dietro il Palazzo Reale ;...",
+                    "*...Dopo che l'Alcázar andò distrutto in un incendio nel 1734 si costruì nello stesso sito l'attuale Palazzo reale che fu ultimato nel 1755....",
+                    "*...A nord-ovest del Palazzo reale, su alcuni terreni ceduti dal sovrano, si formò la Ciudad Universitaria...."
                 ]
             }
         },
@@ -63,7 +45,10 @@
                     "...Nel suo patrimonio culturale troviamo il Palazzo reale di Madrid, il Parco del Retiro, la Biblioteca nazionale di Spagna e tre importanti musei: il Museo del Prado, il Museo Nacional Centro de Arte Reina Sofía e il Museo Thyssen-Bornemisza....",
                     "*...Vanno ricordati anche il paseo de Recoletos, le fontane di Nettuno, Cibele e di Apollo, il Real Jardín Botánico, il Real Observatorio Astronómico o il Palazzo Villanueva, inizialmente destinato ad ospitare il Real Gabinete de Historia Natural, ma che poi divenne sede del noto Museo del Prado....",
                     "...Tra i luoghi da visitare ricordiamo il Museo del Prado, il Museo Thyssen-Bornemisza, il Centro d' arte della regina Sofía (dove si trova il famoso Guernica di Pablo Picasso), il Palacio Real, la Puerta del Sol, in cui è situata la placca del chilometro zero (utilizzata per il calcolo delle distanze nello Stato spagnolo) ed in cui i madrileni si riuniscono ogni fine anno per aspettare il nuovo anno mangiando un chicco di uva per ognuno dei dodici rintocchi della mezzanotte, la vicina Plaza Mayor (in cui tutti i week-end si svolge il mercatino numismatico e, nel periodo natalizio, quello dei presepi), il Parco del Retiro, e nelle vicinanze il Monastero dell'Escorial, Santa Cruz del Valle de los Caídos e le città di Toledo, Segovia, Avila e Aranjuez....",
-                    "...Il Museo del Prado ;..."
+                    "...Il Museo del Prado ;...",
+                    "*...La realizzazione del paseo del Prado è probabilmente l'opera più importante del periodo e quella che trova ancor oggi maggior testimonianza nella città....",
+                    "...Nel 1860 si abbatté la cinta muraria eretta da Filippo IV e la città poté finalmente espandersi in principio ordinatamente, grazie al piano Castro e alla realizzazione di grandi opere di risanamento (ensanches) che frutteranno grandi affari facendo la fortuna del marchese José de Salamanca y Mayol, da cui prese nome il nuovo quartiere sorto ad est di quello che sarebbe diventato l'asse viario centrale della capitale, il Paseo de la Castellana, prolungamento del Paseo del Prado....",
+                    "...Il Paseo del Prado ;..."
                 ]
             }
         },
@@ -285,31 +270,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -3.69221,
-                    40.413815
-                ]
-            },
-            "properties": {
-                "entity": "Prado",
-                "name_location": "Museo del Prado - Edificio Villanueva, Plaza Murillo, Jerónimos, Retiro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28014, Spagna",
-                "class": "building",
-                "type": "public",
-                "snippet": [
-                    "...Nel suo patrimonio culturale troviamo il Palazzo reale di Madrid, il Parco del Retiro, la Biblioteca nazionale di Spagna e tre importanti musei: il Museo del Prado, il Museo Nacional Centro de Arte Reina Sofía e il Museo Thyssen-Bornemisza....",
-                    "*...La realizzazione del paseo del Prado è probabilmente l'opera più importante del periodo e quella che trova ancor oggi maggior testimonianza nella città....",
-                    "...Vanno ricordati anche il paseo de Recoletos, le fontane di Nettuno, Cibele e di Apollo, il Real Jardín Botánico, il Real Observatorio Astronómico o il Palazzo Villanueva, inizialmente destinato ad ospitare il Real Gabinete de Historia Natural, ma che poi divenne sede del noto Museo del Prado....",
-                    "...Nel 1860 si abbatté la cinta muraria eretta da Filippo IV e la città poté finalmente espandersi in principio ordinatamente, grazie al piano Castro e alla realizzazione di grandi opere di risanamento (ensanches) che frutteranno grandi affari facendo la fortuna del marchese José de Salamanca y Mayol, da cui prese nome il nuovo quartiere sorto ad est di quello che sarebbe diventato l'asse viario centrale della capitale, il Paseo de la Castellana, prolungamento del Paseo del Prado....",
-                    "...Tra i luoghi da visitare ricordiamo il Museo del Prado, il Museo Thyssen-Bornemisza, il Centro d' arte della regina Sofía (dove si trova il famoso Guernica di Pablo Picasso), il Palacio Real, la Puerta del Sol, in cui è situata la placca del chilometro zero (utilizzata per il calcolo delle distanze nello Stato spagnolo) ed in cui i madrileni si riuniscono ogni fine anno per aspettare il nuovo anno mangiando un chicco di uva per ognuno dei dodici rintocchi della mezzanotte, la vicina Plaza Mayor (in cui tutti i week-end si svolge il mercatino numismatico e, nel periodo natalizio, quello dei presepi), il Parco del Retiro, e nelle vicinanze il Monastero dell'Escorial, Santa Cruz del Valle de los Caídos e le città di Toledo, Segovia, Avila e Aranjuez....",
-                    "...Il Paseo del Prado ;...",
-                    "...Il Museo del Prado ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -3.693741,
                     40.41923
                 ]
@@ -488,26 +448,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -3.715111,
-                    40.417821
-                ]
-            },
-            "properties": {
-                "entity": "Palacio Real",
-                "name_location": "Palacio Real, Plaza de la Armería, Barrio de la Latina, Palacio, Centro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28013, Spagna",
-                "class": "historic",
-                "type": "castle",
-                "snippet": [
-                    "...Tra i luoghi da visitare ricordiamo il Museo del Prado, il Museo Thyssen-Bornemisza, il Centro d' arte della regina Sofía (dove si trova il famoso Guernica di Pablo Picasso), il Palacio Real, la Puerta del Sol, in cui è situata la placca del chilometro zero (utilizzata per il calcolo delle distanze nello Stato spagnolo) ed in cui i madrileni si riuniscono ogni fine anno per aspettare il nuovo anno mangiando un chicco di uva per ognuno dei dodici rintocchi della mezzanotte, la vicina Plaza Mayor (in cui tutti i week-end si svolge il mercatino numismatico e, nel periodo natalizio, quello dei presepi), il Parco del Retiro, e nelle vicinanze il Monastero dell'Escorial, Santa Cruz del Valle de los Caídos e le città di Toledo, Segovia, Avila e Aranjuez....",
-                    "...Il Palazzo reale di Madrid (Palacio Real de Madrid) ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -3.703429,
                     40.417032
                 ]
@@ -523,27 +463,6 @@
                     "*...M-30, tangenziale all'interno del comune di Madrid, lunga , ad una distanza media di  da Puerta del Sol....",
                     "*...M-40, tangenziale lunga , ad una distanza media di  da Puerta del Sol....",
                     "*...M-50, tangenziale lunga , ad una distanza media di  da Puerta del Sol...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.707374,
-                    40.415392
-                ]
-            },
-            "properties": {
-                "entity": "Plaza Mayor",
-                "name_location": "Plaza Mayor, Barrio de los Austrias, Sol, Centro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28012, Spagna",
-                "class": "highway",
-                "type": "pedestrian",
-                "snippet": [
-                    "*...Tra i luoghi da visitare ricordiamo il Museo del Prado, il Museo Thyssen-Bornemisza, il Centro d' arte della regina Sofía (dove si trova il famoso Guernica di Pablo Picasso), il Palacio Real, la Puerta del Sol, in cui è situata la placca del chilometro zero (utilizzata per il calcolo delle distanze nello Stato spagnolo) ed in cui i madrileni si riuniscono ogni fine anno per aspettare il nuovo anno mangiando un chicco di uva per ognuno dei dodici rintocchi della mezzanotte, la vicina Plaza Mayor (in cui tutti i week-end si svolge il mercatino numismatico e, nel periodo natalizio, quello dei presepi), il Parco del Retiro, e nelle vicinanze il Monastero dell'Escorial, Santa Cruz del Valle de los Caídos e le città di Toledo, Segovia, Avila e Aranjuez....",
-                    "*...Da segnalare, soprattutto ai turisti italiani, la piccola Chiesa dedicata a san Nicola di Bari, nei pressi di Plaza Mayor....",
-                    "...La Plaza Mayor y Arco de Cuchilleros ;..."
                 ]
             }
         },
@@ -600,7 +519,11 @@
                 "class": "highway",
                 "type": "tertiary",
                 "snippet": [
-                    "...La Plaza de España ;..."
+                    "...La Plaza de España ;...",
+                    "*...L'edificio España ;...",
+                    "...Le maggiori orchestre sinfoniche in città sono l'Orquesta Nacional de España e l'Orchestra Sinfonica di Madrid....",
+                    "...Chamartín: El Viso, Prosperidad, Ciudad Jardín, Hispanoamérica, Nueva España, Pza. Castilla....",
+                    "...Il Giro di Spagna di ciclismo (Vuelta Ciclista a España) quasi sempre termina a Madrid, sia perché è la capitale, sia per tradizione...."
                 ]
             }
         },
@@ -676,7 +599,8 @@
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
-                    "*...Il Palazzo reale di Madrid (Palacio Real de Madrid) ;..."
+                    "*...Il Palazzo reale di Madrid (Palacio Real de Madrid) ;...",
+                    "...Tra i luoghi da visitare ricordiamo il Museo del Prado, il Museo Thyssen-Bornemisza, il Centro d' arte della regina Sofía (dove si trova il famoso Guernica di Pablo Picasso), il Palacio Real, la Puerta del Sol, in cui è situata la placca del chilometro zero (utilizzata per il calcolo delle distanze nello Stato spagnolo) ed in cui i madrileni si riuniscono ogni fine anno per aspettare il nuovo anno mangiando un chicco di uva per ognuno dei dodici rintocchi della mezzanotte, la vicina Plaza Mayor (in cui tutti i week-end si svolge il mercatino numismatico e, nel periodo natalizio, quello dei presepi), il Parco del Retiro, e nelle vicinanze il Monastero dell'Escorial, Santa Cruz del Valle de los Caídos e le città di Toledo, Segovia, Avila e Aranjuez...."
                 ]
             }
         },
@@ -715,29 +639,6 @@
                 "type": "commercial",
                 "snippet": [
                     "...La Torre de Madrid ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.694926,
-                    40.419055
-                ]
-            },
-            "properties": {
-                "entity": "España",
-                "name_location": "Banco de España, Calle de Alcalá, Barrio de las Letras, Cortes, Centro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28014, Spagna",
-                "class": "railway",
-                "type": "station",
-                "snippet": [
-                    "...La Plaza de España ;...",
-                    "*...L'edificio España ;...",
-                    "...Le maggiori orchestre sinfoniche in città sono l'Orquesta Nacional de España e l'Orchestra Sinfonica di Madrid....",
-                    "...Chamartín: El Viso, Prosperidad, Ciudad Jardín, Hispanoamérica, Nueva España, Pza. Castilla....",
-                    "...Il Giro di Spagna di ciclismo (Vuelta Ciclista a España) quasi sempre termina a Madrid, sia perché è la capitale, sia per tradizione...."
                 ]
             }
         },
@@ -1063,32 +964,6 @@
                 "type": "attraction",
                 "snippet": [
                     "*...I giardini del Campo del Moro, posti dietro il Palazzo Reale ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.690516,
-                    40.427531
-                ]
-            },
-            "properties": {
-                "entity": "Palazzo Reale",
-                "name_location": "Palazzo Reale, 9, Paseo de la Castellana, Almagro, Chamberí, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, Spagna",
-                "class": "building",
-                "type": "yes",
-                "snippet": [
-                    "...Nel suo patrimonio culturale troviamo il Palazzo reale di Madrid, il Parco del Retiro, la Biblioteca nazionale di Spagna e tre importanti musei: il Museo del Prado, il Museo Nacional Centro de Arte Reina Sofía e il Museo Thyssen-Bornemisza....",
-                    "...Tuttavia le origini della città moderna risalgono al 852, quando Muhammad I ordinò la costruzione di una piccola residenza reale nel medesimo luogo in cui oggi sorge il Palazzo reale....",
-                    "...Dopo che l'Alcázar andò distrutto in un incendio nel 1734 si costruì nello stesso sito l'attuale Palazzo reale che fu ultimato nel 1755....",
-                    "...A nord-ovest del Palazzo reale, su alcuni terreni ceduti dal sovrano, si formò la Ciudad Universitaria....",
-                    "...Il Palazzo reale di Madrid (Palacio Real de Madrid) ;...",
-                    "...I giardini del Campo del Moro, posti dietro il Palazzo Reale ;...",
-                    "*...Dopo che l'Alcázar andò distrutto in un incendio nel 1734 si costruì nello stesso sito l'attuale Palazzo reale che fu ultimato nel 1755....",
-                    "*...A nord-ovest del Palazzo reale, su alcuni terreni ceduti dal sovrano, si formò la Ciudad Universitaria...."
                 ]
             }
         },
@@ -1511,7 +1386,9 @@
                 "class": "aeroway",
                 "type": "aerodrome",
                 "snippet": [
-                    "*...Aeroporto Adolfo Suárez, Madrid-Barajas, più noto semplicemente come Barajas, con oltre 46 milioni di passeggeri nel 2015, è l'Aeroporto più importante della Spagna e quello europeo con più voli verso l'America Latina...."
+                    "*...Aeroporto Adolfo Suárez, Madrid-Barajas, più noto semplicemente come Barajas, con oltre 46 milioni di passeggeri nel 2015, è l'Aeroporto più importante della Spagna e quello europeo con più voli verso l'America Latina....",
+                    "...Madrid è servita dall'Aeroporto internazionale di Barajas e, nonostante abbia una popolazione di circa 3 milioni di abitanti, ha una delle più sviluppate reti di metropolitana del mondo, con dodici linee....",
+                    "...Aeroporto di Madrid-Cuatro Vientos...."
                 ]
             }
         },

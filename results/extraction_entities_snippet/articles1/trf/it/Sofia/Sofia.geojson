@@ -45,29 +45,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    23.324578,
-                    42.696398
-                ]
-            },
-            "properties": {
-                "entity": "Museo",
-                "name_location": "Национален археологически институт с музей, пл. Атанас Буров, Център, Средец, Sofia, Столична, София-град, 1000, Bulgaria",
-                "class": "tourism",
-                "type": "museum",
-                "snippet": [
-                    "...Una parte della cattedrale è riservata a un Museo di icone provenienti da tutta la Bulgaria, e fa parte della Galleria Nazionale....",
-                    "*...La Chiesa di San Giorgio (in bulgaro: Ротонда „Свети Георги\"?, traslitterato: Rotonda \"Sveti Georgi\") è una Chiesa a pianta circolare di epoca paleocristiana. Costruita in laterizio rosso, è considerata il più antico edificio della capitale bulgara. Fu costruita nel IV secolo e venne decorata con affreschi nel X secolo e poi ancora nel XII secolo. Durante il periodo ottomano fu convertita in moschea. Oggi è un Museo, e si trova circondata dai resti dell'antica Serdica e da un albergo. Degli affreschi di 22 profeti, risalenti al XII-XIV secolo, ricoprono la cupola....",
-                    "...Museo di Storia Nazionale della Bulgaria ;...",
-                    "...Museo Archeologico, con il tesoro di Valchitran, epoca dei Traci ;...",
-                    "*...Il vecchio edificio dell'assemblea parlamentare sarà adibito a Museo o utilizzato solo in occasione di cerimonie...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     23.322572,
                     42.6995
                 ]
@@ -116,7 +93,10 @@
                 "class": "tourism",
                 "type": "attraction",
                 "snippet": [
-                    "*...A Sofia si trovano numerosi impianti sportivi, il principale stadio è lo stadio nazionale Vasil Levski, il più grande di tutta la Bulgaria, capace di ospitare 46 340 spettatori...."
+                    "*...A Sofia si trovano numerosi impianti sportivi, il principale stadio è lo stadio nazionale Vasil Levski, il più grande di tutta la Bulgaria, capace di ospitare 46 340 spettatori....",
+                    "...Le due più importanti squadre di calcio sono il CSKA Sofia e il Levski Sofia che danno vita al cosiddetto \"derby eterno\" di Bulgaria....",
+                    "*...Il Cska ha vinto 31 campionati nazionali e 20 coppe di Bulgaria, mentre il Levski ha vinto 26 campionati nazionali e 26 coppe di Bulgaria....",
+                    "*...Il Levski gioca le sue partite allo stadio Georgi Asparuhov, mentre il Cska gioca presso lo stadio dell'Esercito Bulgaro...."
                 ]
             }
         }

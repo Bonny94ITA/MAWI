@@ -172,25 +172,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.489447,
-                    49.090852
-                ]
-            },
-            "properties": {
-                "entity": "Asia",
-                "name_location": "Asia, 5048, 264 Street, Gloucester, Township of Langley, Metro Vancouver Regional District, Columbia Britannica, V4W 2V1, Canada",
-                "class": "tourism",
-                "type": "attraction",
-                "snippet": [
-                    "*...Negli ultimi anni Vancouver è diventata una città importante come ponte con l'Asia...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -123.117931,
                     49.281873
                 ]
@@ -357,27 +338,6 @@
                 "type": "townhall",
                 "snippet": [
                     "*...Village of Lions Bay ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -123.124023,
-                    49.281833
-                ]
-            },
-            "properties": {
-                "entity": "Pacifico",
-                "name_location": "Pacifico Pizzeria & Ristorante, 970, Smithe Street, Yaletown, Downtown, Vancouver, Metro Vancouver Regional District, Columbia Britannica, V6Z 3G5, Canada",
-                "class": "amenity",
-                "type": "restaurant",
-                "snippet": [
-                    "...Vancouver (AFI: ) è una città canadese, sulla costa Pacifica della provincia canadese della Columbia Britannica, situata nella parte meridionale della provincia, uno dei maggiori porti dell'Oceano Pacifico, delimitata dallo Stretto di Georgia, dal fiume Fraser, e dalla catena montuosa delle Montagne Costiere....",
-                    "...È la maggiore città canadese sulla costa pacifica ed è proprio l'Oceano Pacifico a caratterizzare il clima, rendendolo tra i più miti del paese nordamericano....",
-                    "*...Con la sua posizione sulla costa del Pacifico e al capolinea occidentale delle autostrade e delle linee ferroviarie transcontinentali del Canada, Vancouver è uno dei più grandi centri industriali della nazione...."
                 ]
             }
         },
@@ -585,25 +545,6 @@
             },
             "properties": {
                 "entity": "Aeroporto Internazionale (YVR)",
-                "name_location": "Aeroporto Internazionale di Vancouver, Gilbert Road, Sea Island, Richmond, Metro Vancouver Regional District, Columbia Britannica, V7C 0B3, Canada",
-                "class": "aeroway",
-                "type": "aerodrome",
-                "snippet": [
-                    "...La città di Vancouver dispone di un Aeroporto Internazionale (YVR)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -123.179994,
-                    49.192965
-                ]
-            },
-            "properties": {
-                "entity": "Aeroporto",
                 "name_location": "Aeroporto Internazionale di Vancouver, Gilbert Road, Sea Island, Richmond, Metro Vancouver Regional District, Columbia Britannica, V7C 0B3, Canada",
                 "class": "aeroway",
                 "type": "aerodrome",

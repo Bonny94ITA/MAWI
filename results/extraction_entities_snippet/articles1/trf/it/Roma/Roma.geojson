@@ -6,58 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.478554,
-                    41.89773
-                ]
-            },
-            "properties": {
-                "entity": "Europa",
-                "name_location": "+ Europa, Via di Santa Caterina da Siena, Pigna, Municipio Roma I, Roma, Lazio, 00186, Italia",
-                "class": "office",
-                "type": "political_party",
-                "snippet": [
-                    "*... 109 abitanti, è il comune più popoloso d'Italia e il terzo dell'Unione europea dopo Berlino e Madrid, mentre, con una superficie di , è il comune più esteso d'Italia e dell'Unione europea, nonché la quinta città più estesa d'Europa dopo Mosca, Istanbul, Londra e San Pietroburgo....",
-                    "*...Luogo di origine della lingua latina, fu capitale dell'antico Stato romano, che estendeva il suo dominio su tutto il bacino del Mediterraneo e gran parte dell'Europa;...",
-                    "*...Il Municipio Roma X si affaccia sul mar Tirreno (Roma è il comune costiero più grande in Europa, con circa  di costa), il Municipio Roma XV sui laghi di Bracciano e di Martignano (con la sua exclave di Polline Martignano, nel Parco di Bracciano-Martignano)....",
-                    "*...Il Colosseo, il più grande anfiteatro del mondo romano, riconosciuto, nel 2007, come una delle sette meraviglie del mondo moderno (unica in Europa);...",
-                    "*...Oltre al cristianesimo la città è un punto di riferimento anche per la comunità islamica, dopo la realizzazione nel quartiere Parioli della più grande moschea d'Europa, che occupa una superficie di  e per la comunità ebraica, grazie al Tempio Maggiore di Roma, completato nei primi anni del Novecento nel ghetto ebraico....",
-                    "...In epoca medievale si confermò come lingua ufficiale della Chiesa di Roma e come la lingua colta e internazionale dell'Europa occidentale....",
-                    "*...L'ebraismo ha una delle più grandi sinagoghe d'Europa, il tempio Maggiore di Roma, nella zona del ghetto....",
-                    "*...Nel quartiere Europa, si trova il Museo nazionale delle arti e tradizioni popolari, che raccoglie materiale tradizionale e folkloristico-popolare proveniente da tutta Italia....",
-                    "*...Roma è il più grande comune agricolo d'Europa, con una superficie agricola di circa , pari a circa il 40% della superficie comunale totale....",
-                    "*...Roma ha la rete stradale più ampia d'Europa con circa  di strade....",
-                    "*...L'Aeroporto di Roma-Fiumicino è il principale Aeroporto italiano passeggeri con un traffico di 29.360.613 nel 2022 e con 140.603 tonnellate di merci nel 2022 è il secondo per traffico merci dopo Milano Malpensa (721.254 tonnellate). È uno degli aeroporti più importanti d'Europa. Per il secondo anno consecutivo, Il \"Leonardo da Vinci\" tramite ACI (Airport Council International), ha conseguito dai passeggeri il riconoscimento \"Airport Service Quality Award\" come miglior Aeroporto d'Europa per il 2018. Distante circa  dal centro Roma è collegato alla città dal servizio ferroviario continuativoLeonardo Express, con 110 collegamenti da e verso Roma Termini, dalla linea ferroviaria suburbana FL1 e varie linee bus pubbliche (Cotral) e private....",
-                    "*...La rete del trasporto pubblico locale di superficie, sommando i km di sviluppo su ferro e su gomma, è con  la più estesa d'Europa...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.502679,
-                    41.889766
-                ]
-            },
-            "properties": {
-                "entity": "Mediterraneo",
-                "name_location": "Mediterraneo, 3, Via Pasquale Villari, Monti, Municipio Roma I, Roma, Lazio, 00184, Italia",
-                "class": "leisure",
-                "type": "sauna",
-                "snippet": [
-                    "*...Luogo di origine della lingua latina, fu capitale dell'antico Stato romano, che estendeva il suo dominio su tutto il bacino del Mediterraneo e gran parte dell'Europa;...",
-                    "*...Il III e il II secolo a.C. furono caratterizzati dalla conquista romana del Mediterraneo e dell'Oriente, dovuta alle tre guerre puniche (264-146 a.C.) combattute contro la città di Cartagine e alle tre guerre macedoniche (212-168 a.C.) contro la Macedonia....",
-                    "...Lungo il Tevere è presente l'oasi urbana gestita dal WWF e presso la foce del fiume è presente il Centro Habitat Mediterraneo, altra oasi urbana gestita dalla LIPU....",
-                    "*...Il porto di Civitavecchia, con funzioni commerciali, che collega Roma con le principali destinazioni del Mediterraneo, ed è il principale terminal nazionale per le navi da crociera;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     12.491415,
                     41.891643
                 ]
@@ -76,41 +24,6 @@
                     "...A non molta distanza si trova il Colosseo, il monumento simbolo dell'antica Roma;...",
                     "*...Tipici della zona del Colosseo, per esempio, sono i gatti, dichiarati dal 2001 \"patrimonio bioculturale di Roma\" (unico esempio in Italia di un provvedimento del genere)....",
                     "...In particolare la Basilica di San Pietro e il Colosseo sono rispettivamente il 2º e il 5º tra i monumenti più visitati al mondo...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.48325,
-                    41.893035
-                ]
-            },
-            "properties": {
-                "entity": "Tevere",
-                "name_location": "Tevere, Campitelli, Municipio Roma I, Roma, Lazio, 00184, Italia",
-                "class": "tourism",
-                "type": "artwork",
-                "snippet": [
-                    "*...Geograficamente nella valle del Tevere, Roma sorge sulle rive del fiume Tevere;...",
-                    "*...Successivamente, l'attività fluviale del Tevere e dell'Aniene contribuì all'erosione dei rilievi e alla sedimentazione, caratterizzando il territorio attuale....",
-                    "*...Alcuni rilievi montuosi e colline (compresi gli storici sette colli), le zone pianeggianti, il fiume Tevere e i suoi affluenti, le marrane, i laghi di Bracciano e di Martignano e quelli artificiali, un'isola fluviale (l'isola Tiberina), la costa sabbiosa del lido di Ostia, il mar Tirreno....",
-                    "*...La città, oltre che dal Tevere, è attraversata anche dall'Aniene, suo affluente a nord dell'odierno territorio urbano, e da piccoli corsi d'acqua come l'Almone e i numerosi fossi o marrane dell'Agro romano....",
-                    "...Rumon o Rumen, nome arcaico del Tevere, avente radice analoga a quella del verbo greco ῥέω (rhèo) e del verbo latino ruo, che significano \"scorrere\";...",
-                    "*...Ruma che in etrusco significa \"mammella\", e potrebbe quindi riferirsi al mito di Romolo e Remo, oppure anche alla conformazione della zona collinare del Palatino e dell'Aventino, o ancora all'ansa del Tevere di fronte ad essi;...",
-                    "*...Città dell'acqua o anche regina aquarum, per i suoi acquedotti e le sue fontane, per il simbiotico rapporto con il Tevere e per la grande disponibilità di acqua in generale;...",
-                    "*...Questi, però, in pericolo di vita perché pericolosi eredi al trono, furono lasciati alle acque del Tiber (Tevere) in una cesta....",
-                    "*...Il Tevere e l'Aniene, i fiumi che attraversano la città, sono scavalcati da più di una trentina di ponti:...",
-                    "*...Nell'area urbana, 28 attraversano il Tevere (tra cui gli antichi ponte Milvio, ponte Sant'Angelo, ponte Sisto e ponte Fabricio), mentre 5 sono stati costruiti per l'attraversamento dell'Aniene, tra cui il ponte Nomentano....",
-                    "*...Tra i castelli rimangono invece Castel Sant'Angelo, costruito dai papi a controllo della città sulla riva destra del Tevere, il castrum Caetani sull'Appia antica, la Rocca di Ostia a Ostia Antica, il castello della Cecchignola, il castello della Magliana, il castello di Isola Farnese, il castello di Corcolle, il casal de' Pazzi, il castello di Lunghezza, il castello di Porcareccia, il castello di Torrenova....",
-                    "...Procedendo da piazza Venezia verso il Tevere si trovano la Crypta Balbi (parte dell'antico Teatro di Balbo), il Foro Boario, il Teatro di Marcello con i templi dell'area di Sant'Omobono e del Foro Olitorio, l'area sacra di largo di Torre Argentina (nei cui pressi fu ucciso Giulio Cesare)....",
-                    "...Lungo il Tevere è presente l'oasi urbana gestita dal WWF e presso la foce del fiume è presente il Centro Habitat Mediterraneo, altra oasi urbana gestita dalla LIPU....",
-                    "*...In seguito hanno colonizzato i platani della riva destra del Tevere, tra ponte Matteotti e ponte Sant'Angelo, per arrivare infine ad entrambe le rive....",
-                    "...La linea verso nord inizialmente lungo la valle del Tevere (Roma-Firenze-Bologna);...",
-                    "*...Il primo porto romano si deve, secondo la tradizione, ad Anco Marzio che fece costruire alla foce del Tevere l'insediamento di Ostia, cui si aggiunsero in età imperiale sulla sponda opposta del fiume i due nuovi porti di Claudio e Traiano....",
-                    "*...Altri scali romani furono quelli fluviali, costruiti per l'approdo delle imbarcazioni che anticamente risalivano il Tevere per giungere in città:..."
                 ]
             }
         },
@@ -176,52 +89,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.477227,
-                    41.910885
-                ]
-            },
-            "properties": {
-                "entity": "Aniene",
-                "name_location": "Aniene, Piazza del Popolo, Campo Marzio, Municipio Roma I, Roma, Lazio, 00186, Italia",
-                "class": "tourism",
-                "type": "artwork",
-                "snippet": [
-                    "*...Successivamente, l'attività fluviale del Tevere e dell'Aniene contribuì all'erosione dei rilievi e alla sedimentazione, caratterizzando il territorio attuale....",
-                    "*...La città, oltre che dal Tevere, è attraversata anche dall'Aniene, suo affluente a nord dell'odierno territorio urbano, e da piccoli corsi d'acqua come l'Almone e i numerosi fossi o marrane dell'Agro romano....",
-                    "...Nacquero, inoltre, nuovi quartieri (tra cui le borgate) e nuove strutture, come l'EUR (costruito in occasione dell'Esposizione Universale di Roma del 1942, ma mai inaugurato a causa dello scoppio della guerra), la città-Giardino Aniene, ossia l'attuale quartiere di Monte Sacro, la città universitaria, il foro Mussolini e gli studi di Cinecittà....",
-                    "...Il Tevere e l'Aniene, i fiumi che attraversano la città, sono scavalcati da più di una trentina di ponti:...",
-                    "*...Nell'area urbana, 28 attraversano il Tevere (tra cui gli antichi ponte Milvio, ponte Sant'Angelo, ponte Sisto e ponte Fabricio), mentre 5 sono stati costruiti per l'attraversamento dell'Aniene, tra cui il ponte Nomentano....",
-                    "...Tra i parchi regionali e le riserve naturali ricadenti all'interno del territorio comunale di Roma da ricordare, oltre al Parco dell'Appia Antica, la riserva naturale della Marcigliana, la riserva naturale di Decima-Malafede, la Riserva naturale statale Litorale Romano, la riserva naturale Valle dell'Aniene, la riserva naturale dell'Insugherata e la riserva naturale di Monte Mario, ai quali si aggiungono i parchi all'interno delle ville di Roma e i vari parchi urbani (es. Parco degli Acquedotti)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.491465,
-                    41.847606
-                ]
-            },
-            "properties": {
-                "entity": "Tiberina",
-                "name_location": "Via Accademia Tiberina, Ardeatino, Roma, Lazio, 00147, Italia",
-                "class": "highway",
-                "type": "residential",
-                "snippet": [
-                    "...L'abitato originario si sviluppò sulle colline che fronteggiano l'ansa nella quale sorge l'isola Tiberina, il solo guado naturale del fiume....",
-                    "*...Alcuni rilievi montuosi e colline (compresi gli storici sette colli), le zone pianeggianti, il fiume Tevere e i suoi affluenti, le marrane, i laghi di Bracciano e di Martignano e quelli artificiali, un'isola fluviale (l'isola Tiberina), la costa sabbiosa del lido di Ostia, il mar Tirreno....",
-                    "...Ospedale Fatebenefratelli (Isola Tiberina) ;...",
-                    "*...Le principali consolari che portavano nel resto d'Italia (Aurelia, Cassia, Flaminia, Salaria, Tiburtina, Appia, Casilina) e gli altri tracciati di importanza locale (Nomentana, Prenestina, Anagnina, Ardeatina, Laurentina, Ostiense, Tiberina cui nel medioevo si aggiunse la Tuscolana)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     12.464295,
                     41.888807
                 ]
@@ -263,27 +130,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.47598,
-                    41.877265
-                ]
-            },
-            "properties": {
-                "entity": "Monte Testaccio",
-                "name_location": "Monte Testaccio, Rampa Heinrich Dressel, Testaccio, Municipio Roma I, Roma, Lazio, 00153, Italia",
-                "class": "tourism",
-                "type": "information",
-                "snippet": [
-                    "*...Il centro storico comprende anche i colli Gianicolo, Pincio e Vaticano, oltre ai rilievi artificiali di Monte Testaccio e Monte Giordano....",
-                    "...I giochi carnascialeschi si svolsero dal X secolo sul monte Testaccio;...",
-                    "*...I giochi carnascialeschi si svolsero dal X secolo sul monte Testaccio;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     12.469434,
                     41.899468
                 ]
@@ -295,27 +141,6 @@
                 "type": "service",
                 "snippet": [
                     "*...Il centro storico comprende anche i colli Gianicolo, Pincio e Vaticano, oltre ai rilievi artificiali di Monte Testaccio e Monte Giordano...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.449679,
-                    41.917931
-                ]
-            },
-            "properties": {
-                "entity": "Monte Mario",
-                "name_location": "Rampa di Monte Mario, Balduina, Trionfale, Roma, Lazio, 00136, Italia",
-                "class": "highway",
-                "type": "steps",
-                "snippet": [
-                    "*...Fuori dalle mura si estendono colline più alte, fra cui Monte Mario (che con i suoi 139 metri d'altezza è il rilievo più imponente di Roma, da cui si possono godere i più bei panorami della città), Monte Antenne, i Monti Parioli, Montesacro e Monteverde....",
-                    "...Stazione meteorologica di Roma Monte Mario ;...",
-                    "*...Tra i parchi regionali e le riserve naturali ricadenti all'interno del territorio comunale di Roma da ricordare, oltre al Parco dell'Appia Antica, la riserva naturale della Marcigliana, la riserva naturale di Decima-Malafede, la Riserva naturale statale Litorale Romano, la riserva naturale Valle dell'Aniene, la riserva naturale dell'Insugherata e la riserva naturale di Monte Mario, ai quali si aggiungono i parchi all'interno delle ville di Roma e i vari parchi urbani (es. Parco degli Acquedotti)...."
                 ]
             }
         },
@@ -353,7 +178,9 @@
                 "class": "highway",
                 "type": "bus_stop",
                 "snippet": [
-                    "...Fuori dalle mura si estendono colline più alte, fra cui Monte Mario (che con i suoi 139 metri d'altezza è il rilievo più imponente di Roma, da cui si possono godere i più bei panorami della città), Monte Antenne, i Monti Parioli, Montesacro e Monteverde...."
+                    "...Fuori dalle mura si estendono colline più alte, fra cui Monte Mario (che con i suoi 139 metri d'altezza è il rilievo più imponente di Roma, da cui si possono godere i più bei panorami della città), Monte Antenne, i Monti Parioli, Montesacro e Monteverde....",
+                    "*...Oltre al cristianesimo la città è un punto di riferimento anche per la comunità islamica, dopo la realizzazione nel quartiere Parioli della più grande moschea d'Europa, che occupa una superficie di  e per la comunità ebraica, grazie al Tempio Maggiore di Roma, completato nei primi anni del Novecento nel ghetto ebraico....",
+                    "*...Il 6 ottobre 1924 Ines Viviani Donarelli lesse l'annuncio iniziale della prima trasmissione radiofonica italiana della URI dallo studio romano di palazzo Corrodi (quartiere Parioli)...."
                 ]
             }
         },
@@ -395,25 +222,6 @@
                     "...Altra immagine caratteristica della Roma medievale e dell'agro romano, erano le torri e i castelli, spesso costruiti su rovine antiche, dimore delle potenti famiglie baronali che spadroneggiavano in città tra il X e il XIV secolo....",
                     "...La vasta area rurale, in parte pianeggiante ed in parte collinare, che si estende attorno alla città di Roma viene definita agro romano, che si differenzia dalla campagna romana in quanto contenuto nel territorio comunale....",
                     "...53 zone scarsamente popolate a cavallo del GRA e fino ai confini comunali, che compongono l'Agro romano...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.27975,
-                    41.730764
-                ]
-            },
-            "properties": {
-                "entity": "Municipio Roma X",
-                "name_location": "Municipio Roma X, 1, Via Claudio, Lido di Ostia Levante, Municipio Roma X, Lido di Ostia, Roma, Lazio, 00122, Italia",
-                "class": "amenity",
-                "type": "townhall",
-                "snippet": [
-                    "...Il Municipio Roma X si affaccia sul mar Tirreno (Roma è il comune costiero più grande in Europa, con circa  di costa), il Municipio Roma XV sui laghi di Bracciano e di Martignano (con la sua exclave di Polline Martignano, nel Parco di Bracciano-Martignano)...."
                 ]
             }
         },
@@ -484,29 +292,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.487202,
-                    41.88823
-                ]
-            },
-            "properties": {
-                "entity": "Palatino",
-                "name_location": "Palatino, Piazzale Ugo La Malfa, Ripa, Municipio Roma I, Roma, Lazio, 00153, Italia",
-                "class": "tourism",
-                "type": "attraction",
-                "snippet": [
-                    "*...Palatino, Aventino, Campidoglio, Quirinale, Viminale, Esquilino e Celio....",
-                    "*...Ruma che in etrusco significa \"mammella\", e potrebbe quindi riferirsi al mito di Romolo e Remo, oppure anche alla conformazione della zona collinare del Palatino e dell'Aventino, o ancora all'ansa del Tevere di fronte ad essi;...",
-                    "...Sebbene la città sia il centro della Chiesa cattolica non mancano esempi di luoghi di culto appartenenti ad altre confessioni religiose del cristianesimo come il Tempio valdese di piazza Cavour (valdismo), il Tempio di Roma Italia (Chiesa di Gesù Cristo dei Santi degli Ultimi Giorni), la Chiesa di San Teodoro al Palatino (ortodossa), la Chiesa di Santa Caterina Martire (ortodossa russa), la Chiesa di San Paolo dentro le Mura (anglicana)....",
-                    "...La culla della storia di Roma è il Palatino, sotto il quale si trovano il Foro Romano, i Fori Imperiali e i Mercati di Traiano, i centri della vita politica, economica, religiosa e sociale del mondo antico....",
-                    "...A Roma si trovano anche due centri di produzione Mediaset (il Centro Safa Palatino e il Centro Titanus Elios), una sede di Sky Italia (sulla Salaria) e la sede de LA7 e LA7d (via Pineta Sacchetti);..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     12.486819,
                     41.882825
                 ]
@@ -549,25 +334,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.440127,
-                    41.896999
-                ]
-            },
-            "properties": {
-                "entity": "Tiber",
-                "name_location": "Tiber, Via Anastasio Secondo, Municipio Roma XIII, Roma, Lazio, 00165, Italia",
-                "class": "amenity",
-                "type": "fuel",
-                "snippet": [
-                    "*...Questi, però, in pericolo di vita perché pericolosi eredi al trono, furono lasciati alle acque del Tiber (Tevere) in una cesta...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     12.509218,
                     41.884428
                 ]
@@ -579,27 +345,6 @@
                 "type": "bus_stop",
                 "snippet": [
                     "*...Divenuta padrona del Lazio, Roma condusse diverse guerre (contro Galli, Osco-Sanniti e la colonia greca di Taranto, alleatasi con Pirro, re dell'Epiro) che le permisero la conquista della penisola italica, dalla zona centrale fino alla Magna Grecia...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.525868,
-                    41.909181
-                ]
-            },
-            "properties": {
-                "entity": "Oriente",
-                "name_location": "Via Irene Imperatrice d'Oriente, Nomentano, Municipio Roma II, Roma, Lazio, 00162, Italia",
-                "class": "highway",
-                "type": "residential",
-                "snippet": [
-                    "*...Il III e il II secolo a.C. furono caratterizzati dalla conquista romana del Mediterraneo e dell'Oriente, dovuta alle tre guerre puniche (264-146 a.C.) combattute contro la città di Cartagine e alle tre guerre macedoniche (212-168 a.C.) contro la Macedonia....",
-                    "*...Tuttavia, con l'espansione dell'impero, si diffusero in Roma numerose nuove religioni e culti misterici, provenienti soprattutto dall'Oriente....",
-                    "...L'IsIAO, un ente pubblico che opera attivamente nel campo della promozione culturale fra l'Italia e i paesi dell'Africa e dell'Asia; l'IPOCAN, un'istituzione dedicata allo studio e alla ricerca delle problematiche connesse al Vicino Oriente islamico in età moderna e contemporanea;..."
                 ]
             }
         },
@@ -647,127 +392,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.46644,
-                    41.901324
-                ]
-            },
-            "properties": {
-                "entity": "San Pietro",
-                "name_location": "San Pietro, Ponte Sant'Angelo, Ponte, Municipio Roma I, Roma, Lazio, 00193, Italia",
-                "class": "tourism",
-                "type": "artwork",
-                "snippet": [
-                    "*...La notte di Natale dell'800 papa Leone III incoronò imperatore Carlo Magno nell'antica basilica di San Pietro in Vaticano, istituendo così l'Impero carolingio/Sacro Romano Impero:...",
-                    "*...Si spostò dal Laterano e concepì l'idea della costruzione della nuova basilica di San Pietro:...",
-                    "*...Nel 1626 fu inaugurata la nuova basilica di San Pietro in Vaticano, emblema del dominio papale....",
-                    "*...Dal 1962 al 1965, nella basilica di San Pietro si svolse il Concilio Vaticano II....",
-                    "*...Il Cupolone, la cupola della basilica di San Pietro in Vaticano, che domina tutta la città e simboleggia il mondo cristiano....",
-                    "*...La cattedrale della diocesi romana è la basilica di San Giovanni in Laterano, una delle quattro basiliche papali maggiori insieme con la basilica di San Pietro in Vaticano, la basilica di San Paolo fuori le mura e la basilica di Santa Maria Maggiore....",
-                    "...Tra le più celebri piazze romane, vi sono piazza di Spagna, piazza Navona, Piazza del Popolo, piazza della Repubblica, piazza Venezia, piazza Colonna, piazza Farnese, largo di Torre Argentina, Campo de' Fiori e piazza San Pietro....",
-                    "...SS. Pietro e Paolo, patroni della città, il 29 giugno. La festa di San Pietro e Paolo è stata istituita con decreto dello Stato Pontificio il 29 aprile 1818;...",
-                    "...In particolare la Basilica di San Pietro e il Colosseo sono rispettivamente il 2º e il 5º tra i monumenti più visitati al mondo....",
-                    "...Altre stazioni che svolgono un ruolo importante per i servizi ferroviari sono Roma San Pietro, Roma Trastevere, Roma Tuscolana e Roma Prenestina, mentre Roma Casilina, chiusa al pubblico dal 2003, viene usata come fermata straordinaria in condizioni di difficoltà...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.482215,
-                    41.892578
-                ]
-            },
-            "properties": {
-                "entity": "Campidoglio",
-                "name_location": "Campidoglio, Via del Tempio di Giove, Campitelli, Municipio Roma I, Roma, Lazio, 00153, Italia",
-                "class": "tourism",
-                "type": "attraction",
-                "snippet": [
-                    "*...Palatino, Aventino, Campidoglio, Quirinale, Viminale, Esquilino e Celio....",
-                    "...Romolo sul Campidoglio, Remo sull'Aventino avrebbero contato i volatili di passaggio....",
-                    "*...Intorno alla metà del XII secolo i cittadini romani instaurarono il Comune Consolare (che si insediò sul Campidoglio), rivale dell'autorità papale e dell'autonomia dei nobili;...",
-                    "*...Il duce fece abbattere diversi edifici medievali e rinascimentali per permettere l'apertura di alcune grandi strade (via dei Fori Imperiali, via del Teatro di Marcello e via della Conciliazione) e l'isolamento di monumenti antichi (Mausoleo di Augusto, Campidoglio, Colosseo)....",
-                    "...Il complesso di piazza del Campidoglio, formato da palazzo Senatorio, municipio e sede di Roma Capitale, palazzo dei Conservatori e palazzo Nuovo, entrambi adibiti a sede dei Musei Capitolini, oltre che le residenze storiche delle grandi famiglie nobiliari nonché di papi e cardinali come palazzo Venezia, palazzo Farnese, palazzo Colonna e palazzo Barberini....",
-                    "*...Gli spazi pubblici dedicati alle rappresentazioni teatrali, tuttavia, iniziarono a comparire solo nel Seicento (secolo influenzato dalla presenza in Roma della mecenatica Cristina di Svezia), anche se il primo fu eretto sul Campidoglio per volere di papa Leone X nel 1513...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.497466,
-                    41.889314
-                ]
-            },
-            "properties": {
-                "entity": "Laterano",
-                "name_location": "Basilica di San Clemente al Laterano, 95, Via Labicana, Monti, Municipio Roma I, Roma, Lazio, 00184, Italia",
-                "class": "amenity",
-                "type": "place_of_worship",
-                "snippet": [
-                    "*...Si spostò dal Laterano e concepì l'idea della costruzione della nuova basilica di San Pietro:...",
-                    "...La cattedrale della diocesi romana è la basilica di San Giovanni in Laterano, una delle quattro basiliche papali maggiori insieme con la basilica di San Pietro in Vaticano, la basilica di San Paolo fuori le mura e la basilica di Santa Maria Maggiore....",
-                    "*...1º maggio, la festa dei lavoratori: i sindacati unitari organizzano un concerto gratuito in piazza di Porta San Giovanni in Laterano, a cui assistono centinaia di migliaia di spettatori;...",
-                    "*...Azienda ospedaliera San Giovanni Addolorata (Laterano) ;...",
-                    "*...Nel 1028 Guido d'Arezzo fu invitato da papa Giovanni XIX a Roma, dove soggiornò al Laterano, per illustrare alla curia papale le novità che aveva introdotto in campo musicale...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.484475,
-                    41.891632
-                ]
-            },
-            "properties": {
-                "entity": "Foro Romano",
-                "name_location": "Foro Romano, Campitelli, Municipio Roma I, Roma, Lazio, 00184, Italia",
-                "class": "highway",
-                "type": "residential",
-                "snippet": [
-                    "*...Su suo ordine, inoltre, iniziarono gli scavi archeologici (in particolar modo al Foro Romano) guidati dal francese Quatremère de Quincy....",
-                    "...La culla della storia di Roma è il Palatino, sotto il quale si trovano il Foro Romano, i Fori Imperiali e i Mercati di Traiano, i centri della vita politica, economica, religiosa e sociale del mondo antico....",
-                    "...Letterature - Festival Internazionale di Roma, che si svolge d'estate presso la basilica di Massenzio al Foro Romano;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.482804,
-                    41.895621
-                ]
-            },
-            "properties": {
-                "entity": "Piazza Venezia",
-                "name_location": "Piazza Venezia, Trevi, Municipio Roma I, Roma, Lazio, 00186, Italia",
-                "class": "highway",
-                "type": "tertiary",
-                "snippet": [
-                    "*...A Roma il 2 Febbraio 1836 morì la madre di Napoleone Bonaparte, Maria Letizia Ramolino, nel palazzo di Piazza Venezia che ancora oggi prende il suo nome, Palazzo Bonaparte....",
-                    "...Tra le più celebri piazze romane, vi sono piazza di Spagna, piazza Navona, Piazza del Popolo, piazza della Repubblica, piazza Venezia, piazza Colonna, piazza Farnese, largo di Torre Argentina, Campo de' Fiori e piazza San Pietro....",
-                    "...Procedendo da piazza Venezia verso il Tevere si trovano la Crypta Balbi (parte dell'antico Teatro di Balbo), il Foro Boario, il Teatro di Marcello con i templi dell'area di Sant'Omobono e del Foro Olitorio, l'area sacra di largo di Torre Argentina (nei cui pressi fu ucciso Giulio Cesare)....",
-                    "...Festa della Repubblica, il 2 giugno; si svolge la tradizionale parata militare lungo via dei Fori Imperiali che termina a piazza Venezia, presso l'Altare della Patria;...",
-                    "*...Tra le più celebri piazze romane, vi sono piazza di Spagna, piazza Navona, Piazza del Popolo, piazza della Repubblica, piazza Venezia, piazza Colonna, piazza Farnese, largo di Torre Argentina, Campo de' Fiori e piazza San Pietro....",
-                    "*...Procedendo da piazza Venezia verso il Tevere si trovano la Crypta Balbi (parte dell'antico Teatro di Balbo), il Foro Boario, il Teatro di Marcello con i templi dell'area di Sant'Omobono e del Foro Olitorio, l'area sacra di largo di Torre Argentina (nei cui pressi fu ucciso Giulio Cesare)....",
-                    "*...Festa della Repubblica, il 2 giugno; si svolge la tradizionale parata militare lungo via dei Fori Imperiali che termina a piazza Venezia, presso l'Altare della Patria;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     12.481858,
                     41.896886
                 ]
@@ -798,27 +422,6 @@
                 "type": "yes",
                 "snippet": [
                     "*...La più celebre, la statua di Pasquino, un busto - forse dell'eroe greco Menelao - rinvenuto durante la costruzione di Palazzo Braschi, motteggiò con famosi versi detti \"pasquinate\" ...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.500993,
-                    41.909202
-                ]
-            },
-            "properties": {
-                "entity": "Porta Pia",
-                "name_location": "Porta Pia, Via Venti Settembre, Castro Pretorio, Municipio Roma I, Roma, Lazio, 00198, Italia",
-                "class": "historic",
-                "type": "monument",
-                "snippet": [
-                    "*...Il 20 settembre i bersaglieri comandati dal generale Raffaele Cadorna aprirono una breccia nella cerchia delle mura, nei pressi di Porta Pia, ed entrarono a Roma....",
-                    "...La svolta decisiva avvenne con la breccia di porta Pia, che consegnò Roma al Regno d'Italia:...",
-                    "*...La svolta decisiva avvenne con la breccia di porta Pia, che consegnò Roma al Regno d'Italia:..."
                 ]
             }
         },
@@ -878,7 +481,9 @@
                 "class": "highway",
                 "type": "tertiary",
                 "snippet": [
-                    "*...Il duce fece abbattere diversi edifici medievali e rinascimentali per permettere l'apertura di alcune grandi strade (via dei Fori Imperiali, via del Teatro di Marcello e via della Conciliazione) e l'isolamento di monumenti antichi (Mausoleo di Augusto, Campidoglio, Colosseo)...."
+                    "*...Il duce fece abbattere diversi edifici medievali e rinascimentali per permettere l'apertura di alcune grandi strade (via dei Fori Imperiali, via del Teatro di Marcello e via della Conciliazione) e l'isolamento di monumenti antichi (Mausoleo di Augusto, Campidoglio, Colosseo)....",
+                    "...Nel corso della sua plurisecolare storia, Roma è stata sede di centinaia di teatri (il più antico in muratura era il Teatro di Pompeo e si possono menzionare tra gli altri il Teatro di Marcello e quello di Ostia) ed altri edifici ludici, come i circhi (il più celebre dei quali è il Circo Massimo, capace di ospitare circa  spettatori) e gli anfiteatri (tra cui è degno di nota il Colosseo, divenuto simbolo della città e dell'anfiteatro stesso)....",
+                    "...Procedendo da piazza Venezia verso il Tevere si trovano la Crypta Balbi (parte dell'antico Teatro di Balbo), il Foro Boario, il Teatro di Marcello con i templi dell'area di Sant'Omobono e del Foro Olitorio, l'area sacra di largo di Torre Argentina (nei cui pressi fu ucciso Giulio Cesare)...."
                 ]
             }
         },
@@ -927,31 +532,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.390799,
-                    41.817947
-                ]
-            },
-            "properties": {
-                "entity": "EUR",
-                "name_location": "EUR, Grande Raccordo Anulare, Ponte Galeria, Municipio Roma XI, Roma, Lazio, 00127, Italia",
-                "class": "highway",
-                "type": "motorway_junction",
-                "snippet": [
-                    "...Nacquero, inoltre, nuovi quartieri (tra cui le borgate) e nuove strutture, come l'EUR (costruito in occasione dell'Esposizione Universale di Roma del 1942, ma mai inaugurato a causa dello scoppio della guerra), la città-Giardino Aniene, ossia l'attuale quartiere di Monte Sacro, la città universitaria, il foro Mussolini e gli studi di Cinecittà....",
-                    "*...Dall'arx Capitolina e le domus dell'antica Roma ai palazzi signorili dell'età medievale, dalle lussuose ville della Roma pontificia alle costruzioni moderne che caratterizzano l'EUR, come il Palazzo della Civiltà Italiana e i quartieri più recenti, fino alle opere dei più importanti architetti contemporanei realizzate negli ultimi due decenni....",
-                    "*...Ospedale Sant'Eugenio (EUR) ;...",
-                    "...La seconda metà del secolo è stata caratterizzata dalla creazione di nuovi quartieri, come l'EUR, in cui dominano l'arte e l'architettura moderna e contemporanea....",
-                    "*...La cerimonia di premiazione del Premio Strega, che avviene ogni anno il primo giovedì del mese di luglio, nel ninfeo di Villa Giulia; la fiera della piccola e media editoria, Più libri più liberi, presso il Nuovo Centro Congressi all'EUR;...",
-                    "*...Il più importante polo finanziario e terziario della Capitale è rappresentato dall'EUR....",
-                    "...E-Prix di Roma, campionato di Formula E, si disputa sul Circuito cittadino dell'EUR dal 2018;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     12.511776,
                     41.91495
                 ]
@@ -966,27 +546,6 @@
                     "*...Durante il ventennio fascista, Roma fu al centro di una drastica rivoluzione urbanistica voluta e attuata dallo stesso Mussolini:...",
                     "*...Nacquero, inoltre, nuovi quartieri (tra cui le borgate) e nuove strutture, come l'EUR (costruito in occasione dell'Esposizione Universale di Roma del 1942, ma mai inaugurato a causa dello scoppio della guerra), la città-Giardino Aniene, ossia l'attuale quartiere di Monte Sacro, la città universitaria, il foro Mussolini e gli studi di Cinecittà....",
                     "...Dopo l'arresto di Mussolini il 25 luglio e l'armistizio dell'8 settembre, Roma venne occupata dai nazisti, nonostante il tentativo di difesa presso Porta San Paolo e alla Montagnola e sebbene fosse stata dichiarata città aperta...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.481781,
-                    41.877832
-                ]
-            },
-            "properties": {
-                "entity": "Porta San Paolo",
-                "name_location": "Porta San Paolo, Viale della Piramide Cestia, San Saba, Municipio Roma I, Roma, Lazio, 00153, Italia",
-                "class": "highway",
-                "type": "bus_stop",
-                "snippet": [
-                    "*...Dopo l'arresto di Mussolini il 25 luglio e l'armistizio dell'8 settembre, Roma venne occupata dai nazisti, nonostante il tentativo di difesa presso Porta San Paolo e alla Montagnola e sebbene fosse stata dichiarata città aperta....",
-                    "...Tra le più imponenti ancora oggi, le attuali porta Maggiore, porta San Sebastiano e porta San Paolo....",
-                    "*...Tra le più imponenti ancora oggi, le attuali porta Maggiore, porta San Sebastiano e porta San Paolo...."
                 ]
             }
         },
@@ -1072,27 +631,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.480455,
-                    41.905121
-                ]
-            },
-            "properties": {
-                "entity": "Via dei Condotti",
-                "name_location": "Via dei Condotti, Campo Marzio, Municipio Roma I, Roma, Lazio, 00186, Italia",
-                "class": "highway",
-                "type": "residential",
-                "snippet": [
-                    "*...Nello stesso periodo diventa uno dei centri dell'alta moda italiana, con l'apertura delle boutique delle grandi firme su Via dei Condotti, via Borgognona e via Frattina....",
-                    "...Via dei Condotti, la principale via dello shopping;...",
-                    "*...Via dei Condotti, la principale via dello shopping;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     12.479106,
                     41.904142
                 ]
@@ -1103,7 +641,10 @@
                 "class": "highway",
                 "type": "pedestrian",
                 "snippet": [
-                    "*...Nello stesso periodo diventa uno dei centri dell'alta moda italiana, con l'apertura delle boutique delle grandi firme su Via dei Condotti, via Borgognona e via Frattina...."
+                    "*...Nello stesso periodo diventa uno dei centri dell'alta moda italiana, con l'apertura delle boutique delle grandi firme su Via dei Condotti, via Borgognona e via Frattina....",
+                    "*...Dopo le mura romulee, quelle serviane (poi ricostruite in epoca repubblicana), aureliane, leonine (medievali, intorno al Vaticano e a Borgo) e gianicolensi (seicentesche, intorno a Trastevere e al Gianicolo)....",
+                    "*...Ospedale di Santo Spirito in Sassia (rione Borgo) ;...",
+                    "*...22 rioni che compongono il centro storico, istituiti nel Medioevo sulla base delle 14 regioni augustee e ampliati alla fine del XIX secolo, tutti compresi entro le Mura aureliane tranne Borgo e Prati;..."
                 ]
             }
         },
@@ -1143,7 +684,9 @@
                 "snippet": [
                     "...Venne realizzata la nuova stazione Termini e furono costruite nuove infrastrutture (tra cui il primo tratto della rete metropolitana e il Grande Raccordo Anulare) e gli impianti sportivi per i giochi olimpici che Roma ospitò nel 1960....",
                     "...A Roma è presente una forte realtà industriale, che si è sviluppata intorno ad alcuni poli di sviluppo, a cominciare dalla cosiddetta Tiburtina Valley, ovvero la zona a est intorno al Grande Raccordo Anulare lungo la via Tiburtina, dove sorge il Tecnopolo Tiburtino e sono presenti imprese del settore meccanico e aerospaziale (Telespazio, Vitrociset, ASTER, Thales Alenia Space, Selex), chimico-farmaceutico (Pfizer, Merck, Angelini, Takeda, Bristol-Myers Squibb), ingegneristico e infrastrutturale (Webuild, Cementir, Vianini, Pavimental, Condotte), automobilistico (Mercedes-Benz Italia, Renault Italia) e alimentare (Unilever-Algida, Centrale del Latte, Gentilini e Peroni), nonché i mercati agroalimentari nel territorio del comune di Guidonia e siti di estrazione e lavorazione degli inerti nelle cave nei pressi di Tivoli....",
-                    "...Lo spazio urbano, un tempo delimitato dalle mura, a partire dalla seconda metà del XX secolo è definito dall'anello esterno di raccordo tra le vie di penetrazione, il Grande Raccordo Anulare, che rappresenta la congiunzione principale del trasporto su Strada tra Roma e il resto d'Italia...."
+                    "...Lo spazio urbano, un tempo delimitato dalle mura, a partire dalla seconda metà del XX secolo è definito dall'anello esterno di raccordo tra le vie di penetrazione, il Grande Raccordo Anulare, che rappresenta la congiunzione principale del trasporto su Strada tra Roma e il resto d'Italia....",
+                    "*...Sul Raccordo convergono le quattro autostrade per Firenze (A1 diramazione Roma nord), Teramo e Pescara (A24/A25), Napoli (A1 diramazione Roma sud) e l'Aeroporto di Roma-Fiumicino (A91, da cui si dirama la A12 per Civitavecchia), oltre alle due superstrade Cassia Veientana (SS 2 bis) e Pontina (SS 148)....",
+                    "*...Altre importanti arterie della viabilità romana sono la Tangenziale Est (che scorre tra il centro e il Raccordo attraversando i quartieri est, nord e nord-ovest della Capitale), e la via Cristoforo Colombo che collega il centro col litorale di Ostia...."
                 ]
             }
         },
@@ -1162,29 +705,11 @@
                 "class": "amenity",
                 "type": "place_of_worship",
                 "snippet": [
-                    "...La cattedrale della diocesi romana è la basilica di San Giovanni in Laterano, una delle quattro basiliche papali maggiori insieme con la basilica di San Pietro in Vaticano, la basilica di San Paolo fuori le mura e la basilica di Santa Maria Maggiore...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.466557,
-                    41.90133
-                ]
-            },
-            "properties": {
-                "entity": "San Paolo",
-                "name_location": "San Paolo, Ponte Sant'Angelo, Ponte, Municipio Roma I, Roma, Lazio, 00193, Italia",
-                "class": "tourism",
-                "type": "artwork",
-                "snippet": [
-                    "...Dopo l'arresto di Mussolini il 25 luglio e l'armistizio dell'8 settembre, Roma venne occupata dai nazisti, nonostante il tentativo di difesa presso Porta San Paolo e alla Montagnola e sebbene fosse stata dichiarata città aperta....",
-                    "*...La cattedrale della diocesi romana è la basilica di San Giovanni in Laterano, una delle quattro basiliche papali maggiori insieme con la basilica di San Pietro in Vaticano, la basilica di San Paolo fuori le mura e la basilica di Santa Maria Maggiore....",
-                    "...Sebbene la città sia il centro della Chiesa cattolica non mancano esempi di luoghi di culto appartenenti ad altre confessioni religiose del cristianesimo come il Tempio valdese di piazza Cavour (valdismo), il Tempio di Roma Italia (Chiesa di Gesù Cristo dei Santi degli Ultimi Giorni), la Chiesa di San Teodoro al Palatino (ortodossa), la Chiesa di Santa Caterina Martire (ortodossa russa), la Chiesa di San Paolo dentro le Mura (anglicana)....",
-                    "...Tra le più imponenti ancora oggi, le attuali porta Maggiore, porta San Sebastiano e porta San Paolo...."
+                    "...La cattedrale della diocesi romana è la basilica di San Giovanni in Laterano, una delle quattro basiliche papali maggiori insieme con la basilica di San Pietro in Vaticano, la basilica di San Paolo fuori le mura e la basilica di Santa Maria Maggiore....",
+                    "*...Si spostò dal Laterano e concepì l'idea della costruzione della nuova basilica di San Pietro:...",
+                    "*...1º maggio, la festa dei lavoratori: i sindacati unitari organizzano un concerto gratuito in piazza di Porta San Giovanni in Laterano, a cui assistono centinaia di migliaia di spettatori;...",
+                    "*...Azienda ospedaliera San Giovanni Addolorata (Laterano) ;...",
+                    "*...Nel 1028 Guido d'Arezzo fu invitato da papa Giovanni XIX a Roma, dove soggiornò al Laterano, per illustrare alla curia papale le novità che aveva introdotto in campo musicale...."
                 ]
             }
         },
@@ -1212,27 +737,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.514852,
-                    41.896633
-                ]
-            },
-            "properties": {
-                "entity": "San Lorenzo",
-                "name_location": "San Lorenzo, 82, Via dei Sabelli, San Lorenzo, Municipio Roma II, Roma, Lazio, 00185, Italia",
-                "class": "amenity",
-                "type": "pharmacy",
-                "snippet": [
-                    "*...Nel 1940 l'Italia entrò nella seconda guerra mondiale, che non coinvolse direttamente Roma finché, a seguito dell'andamento sfavorevole all'Asse, il 19 luglio 1943 fu oggetto di un duro bombardamento ad opera di forze aeree alleate che causò la morte di oltre  persone nei quartieri San Lorenzo, Tiburtino, Prenestino, Casilino, Labicano, Tuscolano e Nomentano....",
-                    "*...La basilica di San Lorenzo fuori le mura, la basilica di Santa Croce in Gerusalemme e la basilica di San Sebastiano fuori le mura....",
-                    "...L'Altaroma Fashion Week curata dalla società Altaroma in sedi variabili (l'area dell'Ex Dogana allo Scalo San Lorenzo nel quartiere Tiburtino, l'ex Caserma in Via Guido Reni);..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     12.514827,
                     41.889052
                 ]
@@ -1244,26 +748,6 @@
                 "type": "bus_stop",
                 "snippet": [
                     "*...La basilica di San Lorenzo fuori le mura, la basilica di Santa Croce in Gerusalemme e la basilica di San Sebastiano fuori le mura...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.921733,
-                    41.772651
-                ]
-            },
-            "properties": {
-                "entity": "San Sebastiano",
-                "name_location": "San Sebastiano, Via Giuseppe Mazzini, Colle Piscarello, Villaggio Rinascita, Valmontone, Roma, Lazio, 00038, Italia",
-                "class": "amenity",
-                "type": "place_of_worship",
-                "snippet": [
-                    "*...La basilica di San Lorenzo fuori le mura, la basilica di Santa Croce in Gerusalemme e la basilica di San Sebastiano fuori le mura....",
-                    "...Tra le più imponenti ancora oggi, le attuali porta Maggiore, porta San Sebastiano e porta San Paolo...."
                 ]
             }
         },
@@ -1311,27 +795,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.48732,
-                    41.925949
-                ]
-            },
-            "properties": {
-                "entity": "Parioli",
-                "name_location": "Parioli, 76, Viale Parioli, Parioli, Municipio Roma II, Roma, Lazio, 00197, Italia",
-                "class": "amenity",
-                "type": "pharmacy",
-                "snippet": [
-                    "...Fuori dalle mura si estendono colline più alte, fra cui Monte Mario (che con i suoi 139 metri d'altezza è il rilievo più imponente di Roma, da cui si possono godere i più bei panorami della città), Monte Antenne, i Monti Parioli, Montesacro e Monteverde....",
-                    "*...Oltre al cristianesimo la città è un punto di riferimento anche per la comunità islamica, dopo la realizzazione nel quartiere Parioli della più grande moschea d'Europa, che occupa una superficie di  e per la comunità ebraica, grazie al Tempio Maggiore di Roma, completato nei primi anni del Novecento nel ghetto ebraico....",
-                    "*...Il 6 ottobre 1924 Ines Viviani Donarelli lesse l'annuncio iniziale della prima trasmissione radiofonica italiana della URI dallo studio romano di palazzo Corrodi (quartiere Parioli)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     12.477998,
                     41.891954
                 ]
@@ -1363,28 +826,6 @@
                 "type": "marketplace",
                 "snippet": [
                     "*...Le antiche catacombe di Roma, in particolar modo quelle cristiane di Priscilla e di San Callisto, i mausolei e le tombe monumentali, che adornavano anche le vie consolari, come ad esempio il mausoleo di Augusto nel Campo Marzio o i sepolcri della via Appia, gli ipogei privati delle grandi famiglie romane, le necropoli, concentrate in particolar modo fuori città, e anche rari esempi di piramidi, come la piramide Cestia...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.751459,
-                    41.689364
-                ]
-            },
-            "properties": {
-                "entity": "via Appia",
-                "name_location": "Via Appia Nord, Velletri, Roma, Lazio, 00049, Italia",
-                "class": "highway",
-                "type": "primary",
-                "snippet": [
-                    "*...Le antiche catacombe di Roma, in particolar modo quelle cristiane di Priscilla e di San Callisto, i mausolei e le tombe monumentali, che adornavano anche le vie consolari, come ad esempio il mausoleo di Augusto nel Campo Marzio o i sepolcri della via Appia, gli ipogei privati delle grandi famiglie romane, le necropoli, concentrate in particolar modo fuori città, e anche rari esempi di piramidi, come la piramide Cestia....",
-                    "...Le prime aree occupate da questi uccelli sono state le zone verdi di palazzo Venezia, di villa Torlonia e piazza Cavour, seguite nel 1970 da villa Ada, villa Doria Pamphilj, via Venti Settembre, viale di Trastevere e via Appia Nuova....",
-                    "...Le linee verso il meridione (Roma-Formia-Napoli, lungo la via Appia, e Roma-Cassino-Napoli, lungo la via Casilina)....",
-                    "...L'Aeroporto di Roma-Ciampino \"Giovan Battista Pastine\", situato ancora nel territorio di Roma ai confini con il comune da cui prende il nome; è un Aeroporto sia civile che militare, situato lungo la via Appia; riceve un grande numero di voli di compagnie a basso costo. Collegato alla città con collegamenti ferroviari (FL4 e FL6) e collegamenti bus, è il 14° Aeroporto italiano per traffico passeggeri, con 3.475.902  passeggeri trasportati nel 2022...."
                 ]
             }
         },
@@ -1507,28 +948,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.466343,
-                    41.903118
-                ]
-            },
-            "properties": {
-                "entity": "Castel Sant'Angelo",
-                "name_location": "Castel Sant’Angelo, Lungotevere Vaticano, Borgo, Municipio Roma I, Roma, Lazio, 00193, Italia",
-                "class": "tourism",
-                "type": "museum",
-                "snippet": [
-                    "*...Non mancano inoltre esempi di sintesi, ossia casi in cui edifici di epoche precedenti sono stati integrati o trasformati nelle epoche successive, come ad esempio accaduto al Tabularium o a Castel Sant'Angelo....",
-                    "*...Tra i castelli rimangono invece Castel Sant'Angelo, costruito dai papi a controllo della città sulla riva destra del Tevere, il castrum Caetani sull'Appia antica, la Rocca di Ostia a Ostia Antica, il castello della Cecchignola, il castello della Magliana, il castello di Isola Farnese, il castello di Corcolle, il casal de' Pazzi, il castello di Lunghezza, il castello di Porcareccia, il castello di Torrenova....",
-                    "...Dai musei Vaticani (circa sei milioni di visitatori nel 2015), ai musei Capitolini (il più antico Museo pubblico al mondo), dalla galleria Borghese al Museo Nazionale di Castel Sant'Angelo, e ancora:...",
-                    "*...Il porto di Ripetta, costruito nel 1704 a monte di Castel Sant'Angelo ma distrutto nel 1893;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     12.482938,
                     41.893321
                 ]
@@ -1539,7 +958,12 @@
                 "class": "highway",
                 "type": "pedestrian",
                 "snippet": [
-                    "*...Il complesso di piazza del Campidoglio, formato da palazzo Senatorio, municipio e sede di Roma Capitale, palazzo dei Conservatori e palazzo Nuovo, entrambi adibiti a sede dei Musei Capitolini, oltre che le residenze storiche delle grandi famiglie nobiliari nonché di papi e cardinali come palazzo Venezia, palazzo Farnese, palazzo Colonna e palazzo Barberini...."
+                    "*...Il complesso di piazza del Campidoglio, formato da palazzo Senatorio, municipio e sede di Roma Capitale, palazzo dei Conservatori e palazzo Nuovo, entrambi adibiti a sede dei Musei Capitolini, oltre che le residenze storiche delle grandi famiglie nobiliari nonché di papi e cardinali come palazzo Venezia, palazzo Farnese, palazzo Colonna e palazzo Barberini....",
+                    "*...Palatino, Aventino, Campidoglio, Quirinale, Viminale, Esquilino e Celio....",
+                    "...Romolo sul Campidoglio, Remo sull'Aventino avrebbero contato i volatili di passaggio....",
+                    "*...Intorno alla metà del XII secolo i cittadini romani instaurarono il Comune Consolare (che si insediò sul Campidoglio), rivale dell'autorità papale e dell'autonomia dei nobili;...",
+                    "*...Il duce fece abbattere diversi edifici medievali e rinascimentali per permettere l'apertura di alcune grandi strade (via dei Fori Imperiali, via del Teatro di Marcello e via della Conciliazione) e l'isolamento di monumenti antichi (Mausoleo di Augusto, Campidoglio, Colosseo)....",
+                    "*...Gli spazi pubblici dedicati alle rappresentazioni teatrali, tuttavia, iniziarono a comparire solo nel Seicento (secolo influenzato dalla presenza in Roma della mecenatica Cristina di Svezia), anche se il primo fu eretto sul Campidoglio per volere di papa Leone X nel 1513...."
                 ]
             }
         },
@@ -1597,27 +1021,6 @@
                 "type": "yes",
                 "snippet": [
                     "*...Il complesso di piazza del Campidoglio, formato da palazzo Senatorio, municipio e sede di Roma Capitale, palazzo dei Conservatori e palazzo Nuovo, entrambi adibiti a sede dei Musei Capitolini, oltre che le residenze storiche delle grandi famiglie nobiliari nonché di papi e cardinali come palazzo Venezia, palazzo Farnese, palazzo Colonna e palazzo Barberini...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.482201,
-                    41.892666
-                ]
-            },
-            "properties": {
-                "entity": "Musei Capitolini",
-                "name_location": "Musei Capitolini, Clivus Capitolinus, Campitelli, Municipio Roma I, Roma, Lazio, 00184, Italia",
-                "class": "tourism",
-                "type": "museum",
-                "snippet": [
-                    "...Il complesso di piazza del Campidoglio, formato da palazzo Senatorio, municipio e sede di Roma Capitale, palazzo dei Conservatori e palazzo Nuovo, entrambi adibiti a sede dei Musei Capitolini, oltre che le residenze storiche delle grandi famiglie nobiliari nonché di papi e cardinali come palazzo Venezia, palazzo Farnese, palazzo Colonna e palazzo Barberini....",
-                    "...Dai musei Vaticani (circa sei milioni di visitatori nel 2015), ai musei Capitolini (il più antico Museo pubblico al mondo), dalla galleria Borghese al Museo Nazionale di Castel Sant'Angelo, e ancora:...",
-                    "*...Dai musei Vaticani (circa sei milioni di visitatori nel 2015), ai musei Capitolini (il più antico Museo pubblico al mondo), dalla galleria Borghese al Museo Nazionale di Castel Sant'Angelo, e ancora:..."
                 ]
             }
         },
@@ -1695,27 +1098,6 @@
                 "type": "museum",
                 "snippet": [
                     "*...Il complesso di piazza del Campidoglio, formato da palazzo Senatorio, municipio e sede di Roma Capitale, palazzo dei Conservatori e palazzo Nuovo, entrambi adibiti a sede dei Musei Capitolini, oltre che le residenze storiche delle grandi famiglie nobiliari nonché di papi e cardinali come palazzo Venezia, palazzo Farnese, palazzo Colonna e palazzo Barberini...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.486547,
-                    41.897302
-                ]
-            },
-            "properties": {
-                "entity": "Quirinale",
-                "name_location": "Chiesa di San Silvestro al Quirinale, Via Ventiquattro Maggio, Trevi, Municipio Roma I, Roma, Lazio, 00184, Italia",
-                "class": "amenity",
-                "type": "place_of_worship",
-                "snippet": [
-                    "*...Palatino, Aventino, Campidoglio, Quirinale, Viminale, Esquilino e Celio....",
-                    "*...Il palazzo del Quirinale, sede della Presidenza della Repubblica, palazzo Madama, sede del Senato della Repubblica, palazzo Montecitorio, sede della Camera dei deputati, palazzo Chigi, sede del Governo italiano, palazzo Koch, sede della Banca d'Italia, palazzo Spada, sede del Consiglio di Stato, il palazzo di Giustizia, noto anche come Palazzaccio e sede della Corte suprema di cassazione e il palazzo della Consulta, sede della Corte costituzionale....",
-                    "...Sul fronte artistico, in città si svolgono la Quadriennale di Roma, solitamente presso il Palazzo delle Esposizioni, l'Esposizione triennale di arti visive (dal 2011), oltre a numerose mostre di rilevanza internazionale presso gli spazi espositivi delle Scuderie del Quirinale, dei vari musei e delle numerose gallerie private...."
                 ]
             }
         },
@@ -1955,27 +1337,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.47976,
-                    41.891945
-                ]
-            },
-            "properties": {
-                "entity": "Teatro di Marcello",
-                "name_location": "Teatro di Marcello, Via del Foro Piscario, Sant'Angelo, Municipio Roma I, Roma, Lazio, 00186, Italia",
-                "class": "tourism",
-                "type": "attraction",
-                "snippet": [
-                    "...Il duce fece abbattere diversi edifici medievali e rinascimentali per permettere l'apertura di alcune grandi strade (via dei Fori Imperiali, via del Teatro di Marcello e via della Conciliazione) e l'isolamento di monumenti antichi (Mausoleo di Augusto, Campidoglio, Colosseo)....",
-                    "...Nel corso della sua plurisecolare storia, Roma è stata sede di centinaia di teatri (il più antico in muratura era il Teatro di Pompeo e si possono menzionare tra gli altri il Teatro di Marcello e quello di Ostia) ed altri edifici ludici, come i circhi (il più celebre dei quali è il Circo Massimo, capace di ospitare circa  spettatori) e gli anfiteatri (tra cui è degno di nota il Colosseo, divenuto simbolo della città e dell'anfiteatro stesso)....",
-                    "...Procedendo da piazza Venezia verso il Tevere si trovano la Crypta Balbi (parte dell'antico Teatro di Balbo), il Foro Boario, il Teatro di Marcello con i templi dell'area di Sant'Omobono e del Foro Olitorio, l'area sacra di largo di Torre Argentina (nei cui pressi fu ucciso Giulio Cesare)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     12.485309,
                     41.886158
                 ]
@@ -2111,26 +1472,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.47302,
-                    41.899797
-                ]
-            },
-            "properties": {
-                "entity": "Nettuno",
-                "name_location": "Nettuno, Piazza Navona, Parione, Municipio Roma I, Roma, Lazio, 00186, Italia",
-                "class": "tourism",
-                "type": "artwork",
-                "snippet": [
-                    "*...Tra le fontane monumentali, la maggior parte delle quali sono state fatte costruire dai papi all'inizio dell'età moderna, vi sono la fontana di Trevi, la fontana dell'Acqua Felice (o del Mosè), le Quattro Fontane, la fontana della Barcaccia, le tre fontane di piazza Navona (Quattro Fiumi, Moro e Nettuno), la fontana delle Tartarughe, la fontana del Tritone, la fontana dell'Acqua Paola e la fontana delle Naiadi....",
-                    "...Il porto Marina di Nettuno, con funzioni prevalentemente turistiche...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     12.477578,
                     41.893801
                 ]
@@ -2160,7 +1501,8 @@
                 "class": "tourism",
                 "type": "attraction",
                 "snippet": [
-                    "...Tra le fontane monumentali, la maggior parte delle quali sono state fatte costruire dai papi all'inizio dell'età moderna, vi sono la fontana di Trevi, la fontana dell'Acqua Felice (o del Mosè), le Quattro Fontane, la fontana della Barcaccia, le tre fontane di piazza Navona (Quattro Fiumi, Moro e Nettuno), la fontana delle Tartarughe, la fontana del Tritone, la fontana dell'Acqua Paola e la fontana delle Naiadi...."
+                    "...Tra le fontane monumentali, la maggior parte delle quali sono state fatte costruire dai papi all'inizio dell'età moderna, vi sono la fontana di Trevi, la fontana dell'Acqua Felice (o del Mosè), le Quattro Fontane, la fontana della Barcaccia, le tre fontane di piazza Navona (Quattro Fiumi, Moro e Nettuno), la fontana delle Tartarughe, la fontana del Tritone, la fontana dell'Acqua Paola e la fontana delle Naiadi....",
+                    "...I principali acquedotti di Roma sono: l'acquedotto Felice, l'acquedotto dell'Acqua Paola, l'Acqua Pia Antica Marcia, l'acquedotto del Peschiera-Capore e l'acquedotto Appio-Alessandrino...."
                 ]
             }
         },
@@ -2207,26 +1549,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.185083,
-                    42.140069
-                ]
-            },
-            "properties": {
-                "entity": "Acqua Paola",
-                "name_location": "Acqua Paola, Piazza San Lorenzo, Pisciarelli, Bracciano, Roma, Lazio, 00066, Italia",
-                "class": "historic",
-                "type": "aqueduct",
-                "snippet": [
-                    "...Tra le fontane monumentali, la maggior parte delle quali sono state fatte costruire dai papi all'inizio dell'età moderna, vi sono la fontana di Trevi, la fontana dell'Acqua Felice (o del Mosè), le Quattro Fontane, la fontana della Barcaccia, le tre fontane di piazza Navona (Quattro Fiumi, Moro e Nettuno), la fontana delle Tartarughe, la fontana del Tritone, la fontana dell'Acqua Paola e la fontana delle Naiadi....",
-                    "...I principali acquedotti di Roma sono: l'acquedotto Felice, l'acquedotto dell'Acqua Paola, l'Acqua Pia Antica Marcia, l'acquedotto del Peschiera-Capore e l'acquedotto Appio-Alessandrino...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     12.484736,
                     41.892831
                 ]
@@ -2257,27 +1579,6 @@
                 "type": "attraction",
                 "snippet": [
                     "*...Caratterizzano il centro cittadino anche alcuni archi trionfali antichi (arco di Tito, arco di Settimio Severo, arco di Costantino) e i resti di diverse terme, uno dei principali luoghi di ritrovo durante l'antichità (tra cui le terme di Caracalla, le terme di Diocleziano e le terme di Tito)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.493414,
-                    41.881542
-                ]
-            },
-            "properties": {
-                "entity": "Caracalla",
-                "name_location": "Viale delle Terme di Caracalla, San Saba, Municipio Roma I, Roma, Lazio, 00184, Italia",
-                "class": "highway",
-                "type": "secondary",
-                "snippet": [
-                    "*...Caratterizzano il centro cittadino anche alcuni archi trionfali antichi (arco di Tito, arco di Settimio Severo, arco di Costantino) e i resti di diverse terme, uno dei principali luoghi di ritrovo durante l'antichità (tra cui le terme di Caracalla, le terme di Diocleziano e le terme di Tito)....",
-                    "*...Altri siti archeologici presenti in città sono la basilica sotterranea di Porta Maggiore, le terme di Caracalla, le terme di Diocleziano, le terme di Tito, il mitreo di San Clemente, l'auditorium di Mecenate, lo stadio di Domiziano, i resti del Ludus Magnus, l'ateneo di Adriano e le case romane del Celio (sottostanti la Basilica dei Santi Giovanni e Paolo)....",
-                    "...Centro sportivo Terme di Caracalla;..."
                 ]
             }
         },
@@ -2492,7 +1793,29 @@
                 "class": "historic",
                 "type": "city_gate",
                 "snippet": [
-                    "*...Tra le più imponenti ancora oggi, le attuali porta Maggiore, porta San Sebastiano e porta San Paolo...."
+                    "*...Tra le più imponenti ancora oggi, le attuali porta Maggiore, porta San Sebastiano e porta San Paolo....",
+                    "*...La basilica di San Lorenzo fuori le mura, la basilica di Santa Croce in Gerusalemme e la basilica di San Sebastiano fuori le mura...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.481781,
+                    41.877832
+                ]
+            },
+            "properties": {
+                "entity": "porta San Paolo",
+                "name_location": "Porta San Paolo, Viale della Piramide Cestia, San Saba, Municipio Roma I, Roma, Lazio, 00153, Italia",
+                "class": "highway",
+                "type": "bus_stop",
+                "snippet": [
+                    "...Dopo l'arresto di Mussolini il 25 luglio e l'armistizio dell'8 settembre, Roma venne occupata dai nazisti, nonostante il tentativo di difesa presso Porta San Paolo e alla Montagnola e sebbene fosse stata dichiarata città aperta....",
+                    "*...Tra le più imponenti ancora oggi, le attuali porta Maggiore, porta San Sebastiano e porta San Paolo....",
+                    "*...Dopo l'arresto di Mussolini il 25 luglio e l'armistizio dell'8 settembre, Roma venne occupata dai nazisti, nonostante il tentativo di difesa presso Porta San Paolo e alla Montagnola e sebbene fosse stata dichiarata città aperta...."
                 ]
             }
         },
@@ -2748,27 +2071,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.476789,
-                    41.910368
-                ]
-            },
-            "properties": {
-                "entity": "Piazza del Popolo",
-                "name_location": "Piazza del Popolo, Campo Marzio, Municipio Roma I, Roma, Lazio, 00186, Italia",
-                "class": "highway",
-                "type": "pedestrian",
-                "snippet": [
-                    "*...Tra le più celebri piazze romane, vi sono piazza di Spagna, piazza Navona, Piazza del Popolo, piazza della Repubblica, piazza Venezia, piazza Colonna, piazza Farnese, largo di Torre Argentina, Campo de' Fiori e piazza San Pietro....",
-                    "...Ad esempio, piazza del Popolo (Nell'anno del Signore di Luigi Magni), via Vittorio Veneto e la fontana di Trevi (La dolce vita di Federico Fellini), la Chiesa della Trinità dei Monti e via Margutta (Vacanze romane di William Wyler), Testaccio (Accattone di Pier Paolo Pasolini), la fontana di Trevi (Totòtruffa 62, con Totò e Nino Taranto)....",
-                    "*...Ad esempio, piazza del Popolo (Nell'anno del Signore di Luigi Magni), via Vittorio Veneto e la fontana di Trevi (La dolce vita di Federico Fellini), la Chiesa della Trinità dei Monti e via Margutta (Vacanze romane di William Wyler), Testaccio (Accattone di Pier Paolo Pasolini), la fontana di Trevi (Totòtruffa 62, con Totò e Nino Taranto)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     12.495628,
                     41.902232
                 ]
@@ -2780,6 +2082,29 @@
                 "type": "unclassified",
                 "snippet": [
                     "*...Tra le più celebri piazze romane, vi sono piazza di Spagna, piazza Navona, Piazza del Popolo, piazza della Repubblica, piazza Venezia, piazza Colonna, piazza Farnese, largo di Torre Argentina, Campo de' Fiori e piazza San Pietro...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.482804,
+                    41.895621
+                ]
+            },
+            "properties": {
+                "entity": "piazza Venezia",
+                "name_location": "Piazza Venezia, Trevi, Municipio Roma I, Roma, Lazio, 00186, Italia",
+                "class": "highway",
+                "type": "tertiary",
+                "snippet": [
+                    "...A Roma il 2 Febbraio 1836 morì la madre di Napoleone Bonaparte, Maria Letizia Ramolino, nel palazzo di Piazza Venezia che ancora oggi prende il suo nome, Palazzo Bonaparte....",
+                    "*...Tra le più celebri piazze romane, vi sono piazza di Spagna, piazza Navona, Piazza del Popolo, piazza della Repubblica, piazza Venezia, piazza Colonna, piazza Farnese, largo di Torre Argentina, Campo de' Fiori e piazza San Pietro....",
+                    "*...Procedendo da piazza Venezia verso il Tevere si trovano la Crypta Balbi (parte dell'antico Teatro di Balbo), il Foro Boario, il Teatro di Marcello con i templi dell'area di Sant'Omobono e del Foro Olitorio, l'area sacra di largo di Torre Argentina (nei cui pressi fu ucciso Giulio Cesare)....",
+                    "*...Festa della Repubblica, il 2 giugno; si svolge la tradizionale parata militare lungo via dei Fori Imperiali che termina a piazza Venezia, presso l'Altare della Patria;...",
+                    "*...A Roma il 2 Febbraio 1836 morì la madre di Napoleone Bonaparte, Maria Letizia Ramolino, nel palazzo di Piazza Venezia che ancora oggi prende il suo nome, Palazzo Bonaparte...."
                 ]
             }
         },
@@ -2962,6 +2287,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    12.480455,
+                    41.905121
+                ]
+            },
+            "properties": {
+                "entity": "via dei Condotti",
+                "name_location": "Via dei Condotti, Campo Marzio, Municipio Roma I, Roma, Lazio, 00186, Italia",
+                "class": "highway",
+                "type": "residential",
+                "snippet": [
+                    "...Nello stesso periodo diventa uno dei centri dell'alta moda italiana, con l'apertura delle boutique delle grandi firme su Via dei Condotti, via Borgognona e via Frattina....",
+                    "*...Via dei Condotti, la principale via dello shopping;...",
+                    "*...Nello stesso periodo diventa uno dei centri dell'alta moda italiana, con l'apertura delle boutique delle grandi firme su Via dei Condotti, via Borgognona e via Frattina...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     12.47918,
                     41.908941
                 ]
@@ -3031,30 +2377,6 @@
                 "type": "residential",
                 "snippet": [
                     "*...Tra le 14 ancora esistenti vi sono la colonna di Marco Aurelio e la colonna Traiana...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.486235,
-                    41.893809
-                ]
-            },
-            "properties": {
-                "entity": "Fori Imperiali",
-                "name_location": "Fori Imperiali, Via dei Fori Imperiali, Monti, Municipio Roma I, Roma, Lazio, 00184, Italia",
-                "class": "highway",
-                "type": "bus_stop",
-                "snippet": [
-                    "...Il duce fece abbattere diversi edifici medievali e rinascimentali per permettere l'apertura di alcune grandi strade (via dei Fori Imperiali, via del Teatro di Marcello e via della Conciliazione) e l'isolamento di monumenti antichi (Mausoleo di Augusto, Campidoglio, Colosseo)....",
-                    "...Via dei Fori Imperiali, già via dell'Impero;...",
-                    "...La culla della storia di Roma è il Palatino, sotto il quale si trovano il Foro Romano, i Fori Imperiali e i Mercati di Traiano, i centri della vita politica, economica, religiosa e sociale del mondo antico....",
-                    "...Festa della Repubblica, il 2 giugno; si svolge la tradizionale parata militare lungo via dei Fori Imperiali che termina a piazza Venezia, presso l'Altare della Patria;...",
-                    "...Galleria Colonna, Galleria Doria Pamphilj e Galleria nazionale d'arte antica, il Museo Nazionale Romano, il Museo Nazionale Etrusco di Villa Giulia, il Palazzo delle Esposizioni, il Museo di Roma, il Museo di Roma in Trastevere, il Museo storico della Liberazione, il Museo centrale del Risorgimento, il Museo dei Fori Imperiali (che assieme ad altri fa parte del sistema dei Musei in Comune), il Museo Barracco, il Museo nazionale d'arte orientale Giuseppe Tucci, il Museo napoleonico di Roma, il Museo nazionale preistorico etnografico Luigi Pigorini, la Galleria nazionale d'arte moderna e contemporanea nonché i moderni MACRO e MAXXI e i musei scientifici (Museo civico di zoologia di Roma, Planetario e Museo Astronomico)....",
-                    "...Maratona di Roma, organizzata in primavera con partenza e arrivo in via dei Fori Imperiali...."
                 ]
             }
         },
@@ -3294,28 +2616,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.502073,
-                    41.870817
-                ]
-            },
-            "properties": {
-                "entity": "Appia Antica",
-                "name_location": "Appia Antica, Via Appia Antica, Municipio Roma VII, Roma, Lazio, 00183, Italia",
-                "class": "railway",
-                "type": "proposed",
-                "snippet": [
-                    "...Tra i castelli rimangono invece Castel Sant'Angelo, costruito dai papi a controllo della città sulla riva destra del Tevere, il castrum Caetani sull'Appia antica, la Rocca di Ostia a Ostia Antica, il castello della Cecchignola, il castello della Magliana, il castello di Isola Farnese, il castello di Corcolle, il casal de' Pazzi, il castello di Lunghezza, il castello di Porcareccia, il castello di Torrenova....",
-                    "*...Il mausoleo di Cecilia Metella, l'adiacente villa di Massenzio, il Castrum Caetani, il sepolcro degli Scipioni e la villa dei Quintili sull'Appia Antica;...",
-                    "...Le aree protette sono una realtà recente, cominciata con l'istituzione del Parco regionale urbano del Pineto nel 1987 e di quello del Parco regionale Appia antica l'anno successivo;...",
-                    "...Tra i parchi regionali e le riserve naturali ricadenti all'interno del territorio comunale di Roma da ricordare, oltre al Parco dell'Appia Antica, la riserva naturale della Marcigliana, la riserva naturale di Decima-Malafede, la Riserva naturale statale Litorale Romano, la riserva naturale Valle dell'Aniene, la riserva naturale dell'Insugherata e la riserva naturale di Monte Mario, ai quali si aggiungono i parchi all'interno delle ville di Roma e i vari parchi urbani (es. Parco degli Acquedotti)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     12.502363,
                     41.868426
                 ]
@@ -3364,7 +2664,12 @@
                 "class": "highway",
                 "type": "residential",
                 "snippet": [
-                    "*...Tra i parchi regionali e le riserve naturali ricadenti all'interno del territorio comunale di Roma da ricordare, oltre al Parco dell'Appia Antica, la riserva naturale della Marcigliana, la riserva naturale di Decima-Malafede, la Riserva naturale statale Litorale Romano, la riserva naturale Valle dell'Aniene, la riserva naturale dell'Insugherata e la riserva naturale di Monte Mario, ai quali si aggiungono i parchi all'interno delle ville di Roma e i vari parchi urbani (es. Parco degli Acquedotti)...."
+                    "*...Tra i parchi regionali e le riserve naturali ricadenti all'interno del territorio comunale di Roma da ricordare, oltre al Parco dell'Appia Antica, la riserva naturale della Marcigliana, la riserva naturale di Decima-Malafede, la Riserva naturale statale Litorale Romano, la riserva naturale Valle dell'Aniene, la riserva naturale dell'Insugherata e la riserva naturale di Monte Mario, ai quali si aggiungono i parchi all'interno delle ville di Roma e i vari parchi urbani (es. Parco degli Acquedotti)....",
+                    "*...Successivamente, l'attività fluviale del Tevere e dell'Aniene contribuì all'erosione dei rilievi e alla sedimentazione, caratterizzando il territorio attuale....",
+                    "*...La città, oltre che dal Tevere, è attraversata anche dall'Aniene, suo affluente a nord dell'odierno territorio urbano, e da piccoli corsi d'acqua come l'Almone e i numerosi fossi o marrane dell'Agro romano....",
+                    "...Nacquero, inoltre, nuovi quartieri (tra cui le borgate) e nuove strutture, come l'EUR (costruito in occasione dell'Esposizione Universale di Roma del 1942, ma mai inaugurato a causa dello scoppio della guerra), la città-Giardino Aniene, ossia l'attuale quartiere di Monte Sacro, la città universitaria, il foro Mussolini e gli studi di Cinecittà....",
+                    "...Il Tevere e l'Aniene, i fiumi che attraversano la città, sono scavalcati da più di una trentina di ponti:...",
+                    "*...Nell'area urbana, 28 attraversano il Tevere (tra cui gli antichi ponte Milvio, ponte Sant'Angelo, ponte Sisto e ponte Fabricio), mentre 5 sono stati costruiti per l'attraversamento dell'Aniene, tra cui il ponte Nomentano...."
                 ]
             }
         },
@@ -3402,28 +2707,10 @@
                 "class": "leisure",
                 "type": "nature_reserve",
                 "snippet": [
-                    "...Lungo il Tevere è presente l'oasi urbana gestita dal WWF e presso la foce del fiume è presente il Centro Habitat Mediterraneo, altra oasi urbana gestita dalla LIPU...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.469922,
-                    41.905037
-                ]
-            },
-            "properties": {
-                "entity": "piazza Cavour",
-                "name_location": "Piazza Cavour, Prati, Municipio Roma I, Roma, Lazio, 00193, Italia",
-                "class": "highway",
-                "type": "pedestrian",
-                "snippet": [
-                    "...Sebbene la città sia il centro della Chiesa cattolica non mancano esempi di luoghi di culto appartenenti ad altre confessioni religiose del cristianesimo come il Tempio valdese di piazza Cavour (valdismo), il Tempio di Roma Italia (Chiesa di Gesù Cristo dei Santi degli Ultimi Giorni), la Chiesa di San Teodoro al Palatino (ortodossa), la Chiesa di Santa Caterina Martire (ortodossa russa), la Chiesa di San Paolo dentro le Mura (anglicana)....",
-                    "*...Le prime aree occupate da questi uccelli sono state le zone verdi di palazzo Venezia, di villa Torlonia e piazza Cavour, seguite nel 1970 da villa Ada, villa Doria Pamphilj, via Venti Settembre, viale di Trastevere e via Appia Nuova....",
-                    "*...In particolare è presente la Chiesa Evangelica Valdese con il tempio valdese di piazza Cavour, l'ortodossia con la Chiesa di Santa Caterina Martire e il mormonismo con il tempio di Roma Italia...."
+                    "...Lungo il Tevere è presente l'oasi urbana gestita dal WWF e presso la foce del fiume è presente il Centro Habitat Mediterraneo, altra oasi urbana gestita dalla LIPU....",
+                    "*...Luogo di origine della lingua latina, fu capitale dell'antico Stato romano, che estendeva il suo dominio su tutto il bacino del Mediterraneo e gran parte dell'Europa;...",
+                    "*...Il III e il II secolo a.C. furono caratterizzati dalla conquista romana del Mediterraneo e dell'Oriente, dovuta alle tre guerre puniche (264-146 a.C.) combattute contro la città di Cartagine e alle tre guerre macedoniche (212-168 a.C.) contro la Macedonia....",
+                    "*...Il porto di Civitavecchia, con funzioni commerciali, che collega Roma con le principali destinazioni del Mediterraneo, ed è il principale terminal nazionale per le navi da crociera;..."
                 ]
             }
         },
@@ -3480,7 +2767,10 @@
                 "class": "highway",
                 "type": "primary",
                 "snippet": [
-                    "*...Le prime aree occupate da questi uccelli sono state le zone verdi di palazzo Venezia, di villa Torlonia e piazza Cavour, seguite nel 1970 da villa Ada, villa Doria Pamphilj, via Venti Settembre, viale di Trastevere e via Appia Nuova...."
+                    "*...Le prime aree occupate da questi uccelli sono state le zone verdi di palazzo Venezia, di villa Torlonia e piazza Cavour, seguite nel 1970 da villa Ada, villa Doria Pamphilj, via Venti Settembre, viale di Trastevere e via Appia Nuova....",
+                    "*...Le antiche catacombe di Roma, in particolar modo quelle cristiane di Priscilla e di San Callisto, i mausolei e le tombe monumentali, che adornavano anche le vie consolari, come ad esempio il mausoleo di Augusto nel Campo Marzio o i sepolcri della via Appia, gli ipogei privati delle grandi famiglie romane, le necropoli, concentrate in particolar modo fuori città, e anche rari esempi di piramidi, come la piramide Cestia....",
+                    "...Le linee verso il meridione (Roma-Formia-Napoli, lungo la via Appia, e Roma-Cassino-Napoli, lungo la via Casilina)....",
+                    "...L'Aeroporto di Roma-Ciampino \"Giovan Battista Pastine\", situato ancora nel territorio di Roma ai confini con il comune da cui prende il nome; è un Aeroporto sia civile che militare, situato lungo la via Appia; riceve un grande numero di voli di compagnie a basso costo. Collegato alla città con collegamenti ferroviari (FL4 e FL6) e collegamenti bus, è il 14° Aeroporto italiano per traffico passeggeri, con 3.475.902  passeggeri trasportati nel 2022...."
                 ]
             }
         },
@@ -3584,78 +2874,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.585732,
-                    41.815717
+                    12.47598,
+                    41.877265
                 ]
             },
             "properties": {
-                "entity": "Roma Italia",
-                "name_location": "Rexel Italia – Roma Ciampino, Via Ranuccio Bianchi Bandinelli, Municipio Roma VII, Casal Morena, Roma, Lazio, 00173, Italia",
-                "class": "shop",
-                "type": "hardware",
+                "entity": "monte Testaccio",
+                "name_location": "Monte Testaccio, Rampa Heinrich Dressel, Testaccio, Municipio Roma I, Roma, Lazio, 00153, Italia",
+                "class": "tourism",
+                "type": "information",
                 "snippet": [
-                    "...Sebbene la città sia il centro della Chiesa cattolica non mancano esempi di luoghi di culto appartenenti ad altre confessioni religiose del cristianesimo come il Tempio valdese di piazza Cavour (valdismo), il Tempio di Roma Italia (Chiesa di Gesù Cristo dei Santi degli Ultimi Giorni), la Chiesa di San Teodoro al Palatino (ortodossa), la Chiesa di Santa Caterina Martire (ortodossa russa), la Chiesa di San Paolo dentro le Mura (anglicana)....",
-                    "*...In particolare è presente la Chiesa Evangelica Valdese con il tempio valdese di piazza Cavour, l'ortodossia con la Chiesa di Santa Caterina Martire e il mormonismo con il tempio di Roma Italia...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.483247,
-                    41.846006
-                ]
-            },
-            "properties": {
-                "entity": "Islam",
-                "name_location": "Filip di Islam, 15, Via Fonte Buono, Municipio Roma VIII, Roma, Lazio, 00142, Italia",
-                "class": "shop",
-                "type": "greengrocer",
-                "snippet": [
-                    "...Oltre al cattolicesimo, a Roma sono diffusi l'islam ed altri culti cristiani;...",
-                    "*...L'Islam ha, come principale sede cittadina, la moschea di Roma (la più grande moschea dell'Occidente) in zona Acqua Acetosa...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.487244,
-                    41.931599
-                ]
-            },
-            "properties": {
-                "entity": "Acqua Acetosa",
-                "name_location": "Acqua Acetosa, Piazzale Stazione dell'Acqua Acetosa, Parioli, Municipio Roma II, Roma, Lazio, 00197, Italia",
-                "class": "railway",
-                "type": "station",
-                "snippet": [
-                    "*...L'Islam ha, come principale sede cittadina, la moschea di Roma (la più grande moschea dell'Occidente) in zona Acqua Acetosa....",
-                    "...Centro sportivo Giulio Onesti dell'Acqua Acetosa;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.477998,
-                    41.891954
-                ]
-            },
-            "properties": {
-                "entity": "tempio Maggiore",
-                "name_location": "Tempio Maggiore di Roma, Via Catalana, Sant'Angelo, Municipio Roma I, Roma, Lazio, 00186, Italia",
-                "class": "amenity",
-                "type": "place_of_worship",
-                "snippet": [
-                    "...Oltre al cristianesimo la città è un punto di riferimento anche per la comunità islamica, dopo la realizzazione nel quartiere Parioli della più grande moschea d'Europa, che occupa una superficie di  e per la comunità ebraica, grazie al Tempio Maggiore di Roma, completato nei primi anni del Novecento nel ghetto ebraico....",
-                    "...L'ebraismo ha una delle più grandi sinagoghe d'Europa, il tempio Maggiore di Roma, nella zona del ghetto...."
+                    "...Il centro storico comprende anche i colli Gianicolo, Pincio e Vaticano, oltre ai rilievi artificiali di Monte Testaccio e Monte Giordano....",
+                    "*...I giochi carnascialeschi si svolsero dal X secolo sul monte Testaccio;...",
+                    "*...Il centro storico comprende anche i colli Gianicolo, Pincio e Vaticano, oltre ai rilievi artificiali di Monte Testaccio e Monte Giordano...."
                 ]
             }
         },
@@ -3675,33 +2906,6 @@
                 "type": "footway",
                 "snippet": [
                     "*...Qualche secolo dopo, papa Paolo III decise che il carnevale si svolgesse in via Lata, attuale via del Corso...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.47127,
-                    41.883765
-                ]
-            },
-            "properties": {
-                "entity": "Trastevere",
-                "name_location": "Trastevere, Viale delle Mura Portuensi, Municipio Roma XII, Roma, Lazio, 00153, Italia",
-                "class": "amenity",
-                "type": "parking",
-                "snippet": [
-                    "*...Dopo le mura romulee, quelle serviane (poi ricostruite in epoca repubblicana), aureliane, leonine (medievali, intorno al Vaticano e a Borgo) e gianicolensi (seicentesche, intorno a Trastevere e al Gianicolo)....",
-                    "...Le prime aree occupate da questi uccelli sono state le zone verdi di palazzo Venezia, di villa Torlonia e piazza Cavour, seguite nel 1970 da villa Ada, villa Doria Pamphilj, via Venti Settembre, viale di Trastevere e via Appia Nuova....",
-                    "*...Per le sue peculiari caratteristiche, una delle zone di Roma in cui è ancora possibile rintracciare frammenti e stimoli della cultura popolare è il pittoresco rione di Trastevere, con i suoi stretti vicoli, le trattorie, le chiese medievali e il colle Gianicolo;...",
-                    "*...È proprio a Trastevere che sorge il Museo del folklore e dei poeti romaneschi, che ospita documenti della vita quotidiana e delle tradizioni romane, tra cui gli acquerelli di Ettore Roesler Franz sulla Roma sparita....",
-                    "*...Festa de Noantri, si svolge a Trastevere. Si festeggia il primo sabato dopo il 16 luglio in occasione della ricorrenza della Madonna del Carmelo....",
-                    "*...Ospedale San Gallicano (Trastevere) ;...",
-                    "*...Ospedale pediatrico Bambino Gesù (Trastevere) ;...",
-                    "...Galleria Colonna, Galleria Doria Pamphilj e Galleria nazionale d'arte antica, il Museo Nazionale Romano, il Museo Nazionale Etrusco di Villa Giulia, il Palazzo delle Esposizioni, il Museo di Roma, il Museo di Roma in Trastevere, il Museo storico della Liberazione, il Museo centrale del Risorgimento, il Museo dei Fori Imperiali (che assieme ad altri fa parte del sistema dei Musei in Comune), il Museo Barracco, il Museo nazionale d'arte orientale Giuseppe Tucci, il Museo napoleonico di Roma, il Museo nazionale preistorico etnografico Luigi Pigorini, la Galleria nazionale d'arte moderna e contemporanea nonché i moderni MACRO e MAXXI e i musei scientifici (Museo civico di zoologia di Roma, Planetario e Museo Astronomico)....",
-                    "...Altre stazioni che svolgono un ruolo importante per i servizi ferroviari sono Roma San Pietro, Roma Trastevere, Roma Tuscolana e Roma Prenestina, mentre Roma Casilina, chiusa al pubblico dal 2003, viene usata come fermata straordinaria in condizioni di difficoltà...."
                 ]
             }
         },
@@ -3929,27 +3133,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.461201,
-                    41.905032
-                ]
-            },
-            "properties": {
-                "entity": "Borgo",
-                "name_location": "Borgo, Via Properzio, Borgo, Municipio Roma I, Roma, Lazio, 00193, Italia",
-                "class": "amenity",
-                "type": "car_sharing",
-                "snippet": [
-                    "*...Dopo le mura romulee, quelle serviane (poi ricostruite in epoca repubblicana), aureliane, leonine (medievali, intorno al Vaticano e a Borgo) e gianicolensi (seicentesche, intorno a Trastevere e al Gianicolo)....",
-                    "*...Ospedale di Santo Spirito in Sassia (rione Borgo) ;...",
-                    "*...22 rioni che compongono il centro storico, istituiti nel Medioevo sulla base delle 14 regioni augustee e ampliati alla fine del XIX secolo, tutti compresi entro le Mura aureliane tranne Borgo e Prati;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     12.452541,
                     41.865076
                 ]
@@ -4040,7 +3223,10 @@
                     "...L'abitato originario si sviluppò sulle colline che fronteggiano l'ansa nella quale sorge l'isola Tiberina, il solo guado naturale del fiume....",
                     "...Alcuni rilievi montuosi e colline (compresi gli storici sette colli), le zone pianeggianti, il fiume Tevere e i suoi affluenti, le marrane, i laghi di Bracciano e di Martignano e quelli artificiali, un'isola fluviale (l'isola Tiberina), la costa sabbiosa del lido di Ostia, il mar Tirreno....",
                     "*...Ospedale Fatebenefratelli (Isola Tiberina) ;...",
-                    "*...L'abitato originario si sviluppò sulle colline che fronteggiano l'ansa nella quale sorge l'isola Tiberina, il solo guado naturale del fiume...."
+                    "*...L'abitato originario si sviluppò sulle colline che fronteggiano l'ansa nella quale sorge l'isola Tiberina, il solo guado naturale del fiume....",
+                    "*...Questi, però, in pericolo di vita perché pericolosi eredi al trono, furono lasciati alle acque del Tiber (Tevere) in una cesta....",
+                    "*...Alcuni rilievi montuosi e colline (compresi gli storici sette colli), le zone pianeggianti, il fiume Tevere e i suoi affluenti, le marrane, i laghi di Bracciano e di Martignano e quelli artificiali, un'isola fluviale (l'isola Tiberina), la costa sabbiosa del lido di Ostia, il mar Tirreno....",
+                    "*...Le principali consolari che portavano nel resto d'Italia (Aurelia, Cassia, Flaminia, Salaria, Tiburtina, Appia, Casilina) e gli altri tracciati di importanza locale (Nomentana, Prenestina, Anagnina, Ardeatina, Laurentina, Ostiense, Tiberina cui nel medioevo si aggiunse la Tuscolana)...."
                 ]
             }
         },
@@ -4154,27 +3340,8 @@
                 "class": "amenity",
                 "type": "school",
                 "snippet": [
-                    "*...Presidio Ospedaliero Giovan Battista Grassi (Ostia) ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.467685,
-                    41.896253
-                ]
-            },
-            "properties": {
-                "entity": "Santo Spirito",
-                "name_location": "Chiesa dello Spirito Santo dei Napoletani, Via Giulia, Regola, Municipio Roma I, Roma, Lazio, 00193, Italia",
-                "class": "amenity",
-                "type": "place_of_worship",
-                "snippet": [
-                    "...Ospedale di Santo Spirito in Sassia (rione Borgo) ;...",
-                    "*...L'arcispedale di Santo Spirito in Saxia (fondato nel Medioevo, uno dei più antichi ospedali al mondo), l'Ospedale di San Giacomo degli Incurabili, l'Ospedale Carlo Forlanini, l'Ospedale Nuovo Regina Margherita, l'ex manicomio di Santa Maria della Pietà e l'ex lazzaretto di Roma...."
+                    "*...Presidio Ospedaliero Giovan Battista Grassi (Ostia) ;...",
+                    "*...53 zone scarsamente popolate a cavallo del GRA e fino ai confini comunali, che compongono l'Agro romano...."
                 ]
             }
         },
@@ -4240,6 +3407,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    12.482201,
+                    41.892666
+                ]
+            },
+            "properties": {
+                "entity": "musei Capitolini",
+                "name_location": "Musei Capitolini, Piazza del Campidoglio, Campitelli, Municipio Roma I, Roma, Lazio, 00186, Italia",
+                "class": "tourism",
+                "type": "museum",
+                "snippet": [
+                    "...Il complesso di piazza del Campidoglio, formato da palazzo Senatorio, municipio e sede di Roma Capitale, palazzo dei Conservatori e palazzo Nuovo, entrambi adibiti a sede dei Musei Capitolini, oltre che le residenze storiche delle grandi famiglie nobiliari nonché di papi e cardinali come palazzo Venezia, palazzo Farnese, palazzo Colonna e palazzo Barberini....",
+                    "*...Dai musei Vaticani (circa sei milioni di visitatori nel 2015), ai musei Capitolini (il più antico Museo pubblico al mondo), dalla galleria Borghese al Museo Nazionale di Castel Sant'Angelo, e ancora:..."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     12.49203,
                     41.914061
                 ]
@@ -4269,7 +3456,10 @@
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
-                    "*...Dai musei Vaticani (circa sei milioni di visitatori nel 2015), ai musei Capitolini (il più antico Museo pubblico al mondo), dalla galleria Borghese al Museo Nazionale di Castel Sant'Angelo, e ancora:..."
+                    "*...Dai musei Vaticani (circa sei milioni di visitatori nel 2015), ai musei Capitolini (il più antico Museo pubblico al mondo), dalla galleria Borghese al Museo Nazionale di Castel Sant'Angelo, e ancora:...",
+                    "*...Non mancano inoltre esempi di sintesi, ossia casi in cui edifici di epoche precedenti sono stati integrati o trasformati nelle epoche successive, come ad esempio accaduto al Tabularium o a Castel Sant'Angelo....",
+                    "*...Tra i castelli rimangono invece Castel Sant'Angelo, costruito dai papi a controllo della città sulla riva destra del Tevere, il castrum Caetani sull'Appia antica, la Rocca di Ostia a Ostia Antica, il castello della Cecchignola, il castello della Magliana, il castello di Isola Farnese, il castello di Corcolle, il casal de' Pazzi, il castello di Lunghezza, il castello di Porcareccia, il castello di Torrenova....",
+                    "*...Il porto di Ripetta, costruito nel 1704 a monte di Castel Sant'Angelo ma distrutto nel 1893;..."
                 ]
             }
         },
@@ -4364,7 +3554,10 @@
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
-                    "...Galleria Colonna, Galleria Doria Pamphilj e Galleria nazionale d'arte antica, il Museo Nazionale Romano, il Museo Nazionale Etrusco di Villa Giulia, il Palazzo delle Esposizioni, il Museo di Roma, il Museo di Roma in Trastevere, il Museo storico della Liberazione, il Museo centrale del Risorgimento, il Museo dei Fori Imperiali (che assieme ad altri fa parte del sistema dei Musei in Comune), il Museo Barracco, il Museo nazionale d'arte orientale Giuseppe Tucci, il Museo napoleonico di Roma, il Museo nazionale preistorico etnografico Luigi Pigorini, la Galleria nazionale d'arte moderna e contemporanea nonché i moderni MACRO e MAXXI e i musei scientifici (Museo civico di zoologia di Roma, Planetario e Museo Astronomico)...."
+                    "...Galleria Colonna, Galleria Doria Pamphilj e Galleria nazionale d'arte antica, il Museo Nazionale Romano, il Museo Nazionale Etrusco di Villa Giulia, il Palazzo delle Esposizioni, il Museo di Roma, il Museo di Roma in Trastevere, il Museo storico della Liberazione, il Museo centrale del Risorgimento, il Museo dei Fori Imperiali (che assieme ad altri fa parte del sistema dei Musei in Comune), il Museo Barracco, il Museo nazionale d'arte orientale Giuseppe Tucci, il Museo napoleonico di Roma, il Museo nazionale preistorico etnografico Luigi Pigorini, la Galleria nazionale d'arte moderna e contemporanea nonché i moderni MACRO e MAXXI e i musei scientifici (Museo civico di zoologia di Roma, Planetario e Museo Astronomico)....",
+                    "*...Numerose sono anche le ville e giardini, un tempo dimore nobiliari, a partire dagli horti urbani, di proprietà dei personaggi di spicco della Roma antica, fino alle grandi ville sorte in età moderna tra cui le principali sono: villa Doria Pamphilj, villa Borghese, villa Ada, villa Giulia, villa Chigi, villa Albani e villa Torlonia....",
+                    "...La cerimonia di premiazione del Premio Strega, che avviene ogni anno il primo giovedì del mese di luglio, nel ninfeo di Villa Giulia; la fiera della piccola e media editoria, Più libri più liberi, presso il Nuovo Centro Congressi all'EUR;...",
+                    "*...La cerimonia di premiazione del Premio Strega, che avviene ogni anno il primo giovedì del mese di luglio, nel ninfeo di Villa Giulia; la fiera della piccola e media editoria, Più libri più liberi, presso il Nuovo Centro Congressi all'EUR;..."
                 ]
             }
         },
@@ -4393,25 +3586,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.472777,
-                    41.897278
-                ]
-            },
-            "properties": {
-                "entity": "Museo di Roma",
-                "name_location": "Museo di Roma, 10, Piazza di San Pantaleo, Parione, Municipio Roma I, Roma, Lazio, 00186, Italia",
-                "class": "tourism",
-                "type": "museum",
-                "snippet": [
-                    "...Galleria Colonna, Galleria Doria Pamphilj e Galleria nazionale d'arte antica, il Museo Nazionale Romano, il Museo Nazionale Etrusco di Villa Giulia, il Palazzo delle Esposizioni, il Museo di Roma, il Museo di Roma in Trastevere, il Museo storico della Liberazione, il Museo centrale del Risorgimento, il Museo dei Fori Imperiali (che assieme ad altri fa parte del sistema dei Musei in Comune), il Museo Barracco, il Museo nazionale d'arte orientale Giuseppe Tucci, il Museo napoleonico di Roma, il Museo nazionale preistorico etnografico Luigi Pigorini, la Galleria nazionale d'arte moderna e contemporanea nonché i moderni MACRO e MAXXI e i musei scientifici (Museo civico di zoologia di Roma, Planetario e Museo Astronomico)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     12.469015,
                     41.889826
                 ]
@@ -4422,7 +3596,32 @@
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
-                    "...Galleria Colonna, Galleria Doria Pamphilj e Galleria nazionale d'arte antica, il Museo Nazionale Romano, il Museo Nazionale Etrusco di Villa Giulia, il Palazzo delle Esposizioni, il Museo di Roma, il Museo di Roma in Trastevere, il Museo storico della Liberazione, il Museo centrale del Risorgimento, il Museo dei Fori Imperiali (che assieme ad altri fa parte del sistema dei Musei in Comune), il Museo Barracco, il Museo nazionale d'arte orientale Giuseppe Tucci, il Museo napoleonico di Roma, il Museo nazionale preistorico etnografico Luigi Pigorini, la Galleria nazionale d'arte moderna e contemporanea nonché i moderni MACRO e MAXXI e i musei scientifici (Museo civico di zoologia di Roma, Planetario e Museo Astronomico)...."
+                    "...Galleria Colonna, Galleria Doria Pamphilj e Galleria nazionale d'arte antica, il Museo Nazionale Romano, il Museo Nazionale Etrusco di Villa Giulia, il Palazzo delle Esposizioni, il Museo di Roma, il Museo di Roma in Trastevere, il Museo storico della Liberazione, il Museo centrale del Risorgimento, il Museo dei Fori Imperiali (che assieme ad altri fa parte del sistema dei Musei in Comune), il Museo Barracco, il Museo nazionale d'arte orientale Giuseppe Tucci, il Museo napoleonico di Roma, il Museo nazionale preistorico etnografico Luigi Pigorini, la Galleria nazionale d'arte moderna e contemporanea nonché i moderni MACRO e MAXXI e i musei scientifici (Museo civico di zoologia di Roma, Planetario e Museo Astronomico)....",
+                    "*...Geograficamente nella valle del Tevere, Roma sorge sulle rive del fiume Tevere;...",
+                    "*...Successivamente, l'attività fluviale del Tevere e dell'Aniene contribuì all'erosione dei rilievi e alla sedimentazione, caratterizzando il territorio attuale....",
+                    "*...Alcuni rilievi montuosi e colline (compresi gli storici sette colli), le zone pianeggianti, il fiume Tevere e i suoi affluenti, le marrane, i laghi di Bracciano e di Martignano e quelli artificiali, un'isola fluviale (l'isola Tiberina), la costa sabbiosa del lido di Ostia, il mar Tirreno....",
+                    "*...La città, oltre che dal Tevere, è attraversata anche dall'Aniene, suo affluente a nord dell'odierno territorio urbano, e da piccoli corsi d'acqua come l'Almone e i numerosi fossi o marrane dell'Agro romano....",
+                    "...Rumon o Rumen, nome arcaico del Tevere, avente radice analoga a quella del verbo greco ῥέω (rhèo) e del verbo latino ruo, che significano \"scorrere\";...",
+                    "*...Ruma che in etrusco significa \"mammella\", e potrebbe quindi riferirsi al mito di Romolo e Remo, oppure anche alla conformazione della zona collinare del Palatino e dell'Aventino, o ancora all'ansa del Tevere di fronte ad essi;...",
+                    "*...Città dell'acqua o anche regina aquarum, per i suoi acquedotti e le sue fontane, per il simbiotico rapporto con il Tevere e per la grande disponibilità di acqua in generale;...",
+                    "*...Questi, però, in pericolo di vita perché pericolosi eredi al trono, furono lasciati alle acque del Tiber (Tevere) in una cesta....",
+                    "*...Il Tevere e l'Aniene, i fiumi che attraversano la città, sono scavalcati da più di una trentina di ponti:...",
+                    "*...Nell'area urbana, 28 attraversano il Tevere (tra cui gli antichi ponte Milvio, ponte Sant'Angelo, ponte Sisto e ponte Fabricio), mentre 5 sono stati costruiti per l'attraversamento dell'Aniene, tra cui il ponte Nomentano....",
+                    "*...Tra i castelli rimangono invece Castel Sant'Angelo, costruito dai papi a controllo della città sulla riva destra del Tevere, il castrum Caetani sull'Appia antica, la Rocca di Ostia a Ostia Antica, il castello della Cecchignola, il castello della Magliana, il castello di Isola Farnese, il castello di Corcolle, il casal de' Pazzi, il castello di Lunghezza, il castello di Porcareccia, il castello di Torrenova....",
+                    "...Procedendo da piazza Venezia verso il Tevere si trovano la Crypta Balbi (parte dell'antico Teatro di Balbo), il Foro Boario, il Teatro di Marcello con i templi dell'area di Sant'Omobono e del Foro Olitorio, l'area sacra di largo di Torre Argentina (nei cui pressi fu ucciso Giulio Cesare)....",
+                    "...Lungo il Tevere è presente l'oasi urbana gestita dal WWF e presso la foce del fiume è presente il Centro Habitat Mediterraneo, altra oasi urbana gestita dalla LIPU....",
+                    "*...In seguito hanno colonizzato i platani della riva destra del Tevere, tra ponte Matteotti e ponte Sant'Angelo, per arrivare infine ad entrambe le rive....",
+                    "...La linea verso nord inizialmente lungo la valle del Tevere (Roma-Firenze-Bologna);...",
+                    "*...Il primo porto romano si deve, secondo la tradizione, ad Anco Marzio che fece costruire alla foce del Tevere l'insediamento di Ostia, cui si aggiunsero in età imperiale sulla sponda opposta del fiume i due nuovi porti di Claudio e Traiano....",
+                    "*...Altri scali romani furono quelli fluviali, costruiti per l'approdo delle imbarcazioni che anticamente risalivano il Tevere per giungere in città:...",
+                    "*...Dopo le mura romulee, quelle serviane (poi ricostruite in epoca repubblicana), aureliane, leonine (medievali, intorno al Vaticano e a Borgo) e gianicolensi (seicentesche, intorno a Trastevere e al Gianicolo)....",
+                    "...Le prime aree occupate da questi uccelli sono state le zone verdi di palazzo Venezia, di villa Torlonia e piazza Cavour, seguite nel 1970 da villa Ada, villa Doria Pamphilj, via Venti Settembre, viale di Trastevere e via Appia Nuova....",
+                    "*...Per le sue peculiari caratteristiche, una delle zone di Roma in cui è ancora possibile rintracciare frammenti e stimoli della cultura popolare è il pittoresco rione di Trastevere, con i suoi stretti vicoli, le trattorie, le chiese medievali e il colle Gianicolo;...",
+                    "*...È proprio a Trastevere che sorge il Museo del folklore e dei poeti romaneschi, che ospita documenti della vita quotidiana e delle tradizioni romane, tra cui gli acquerelli di Ettore Roesler Franz sulla Roma sparita....",
+                    "*...Festa de Noantri, si svolge a Trastevere. Si festeggia il primo sabato dopo il 16 luglio in occasione della ricorrenza della Madonna del Carmelo....",
+                    "*...Ospedale San Gallicano (Trastevere) ;...",
+                    "*...Ospedale pediatrico Bambino Gesù (Trastevere) ;...",
+                    "...Altre stazioni che svolgono un ruolo importante per i servizi ferroviari sono Roma San Pietro, Roma Trastevere, Roma Tuscolana e Roma Prenestina, mentre Roma Casilina, chiusa al pubblico dal 2003, viene usata come fermata straordinaria in condizioni di difficoltà...."
                 ]
             }
         },
@@ -4479,7 +3678,12 @@
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
-                    "...Galleria Colonna, Galleria Doria Pamphilj e Galleria nazionale d'arte antica, il Museo Nazionale Romano, il Museo Nazionale Etrusco di Villa Giulia, il Palazzo delle Esposizioni, il Museo di Roma, il Museo di Roma in Trastevere, il Museo storico della Liberazione, il Museo centrale del Risorgimento, il Museo dei Fori Imperiali (che assieme ad altri fa parte del sistema dei Musei in Comune), il Museo Barracco, il Museo nazionale d'arte orientale Giuseppe Tucci, il Museo napoleonico di Roma, il Museo nazionale preistorico etnografico Luigi Pigorini, la Galleria nazionale d'arte moderna e contemporanea nonché i moderni MACRO e MAXXI e i musei scientifici (Museo civico di zoologia di Roma, Planetario e Museo Astronomico)...."
+                    "...Galleria Colonna, Galleria Doria Pamphilj e Galleria nazionale d'arte antica, il Museo Nazionale Romano, il Museo Nazionale Etrusco di Villa Giulia, il Palazzo delle Esposizioni, il Museo di Roma, il Museo di Roma in Trastevere, il Museo storico della Liberazione, il Museo centrale del Risorgimento, il Museo dei Fori Imperiali (che assieme ad altri fa parte del sistema dei Musei in Comune), il Museo Barracco, il Museo nazionale d'arte orientale Giuseppe Tucci, il Museo napoleonico di Roma, il Museo nazionale preistorico etnografico Luigi Pigorini, la Galleria nazionale d'arte moderna e contemporanea nonché i moderni MACRO e MAXXI e i musei scientifici (Museo civico di zoologia di Roma, Planetario e Museo Astronomico)....",
+                    "...Il duce fece abbattere diversi edifici medievali e rinascimentali per permettere l'apertura di alcune grandi strade (via dei Fori Imperiali, via del Teatro di Marcello e via della Conciliazione) e l'isolamento di monumenti antichi (Mausoleo di Augusto, Campidoglio, Colosseo)....",
+                    "...Via dei Fori Imperiali, già via dell'Impero;...",
+                    "...La culla della storia di Roma è il Palatino, sotto il quale si trovano il Foro Romano, i Fori Imperiali e i Mercati di Traiano, i centri della vita politica, economica, religiosa e sociale del mondo antico....",
+                    "...Festa della Repubblica, il 2 giugno; si svolge la tradizionale parata militare lungo via dei Fori Imperiali che termina a piazza Venezia, presso l'Altare della Patria;...",
+                    "...Maratona di Roma, organizzata in primavera con partenza e arrivo in via dei Fori Imperiali...."
                 ]
             }
         },
@@ -4622,29 +3826,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.518708,
-                    41.87827
-                ]
-            },
-            "properties": {
-                "entity": "Vittoria",
-                "name_location": "Vittoria, 287, Via Appia Nuova, Municipio Roma VII, Roma, Lazio, 00183, Italia",
-                "class": "shop",
-                "type": "clothes",
-                "snippet": [
-                    "...La sede legale, la presidenza e la direzione generale si trovano in viale Giuseppe Mazzini 14, nel quartiere Della Vittoria....",
-                    "...Altri sono siti in via Teulada (Della Vittoria), via Ettore Romagnoli (Monte Sacro Alto) e al Teatro delle Vittorie in via Col di Lana (Della Vittoria);...",
-                    "...Nel 240 a.C., infatti, gli edili affidarono a Livio Andronico la composizione di una fabula, in occasione dell'anniversario della vittoria di Roma su Cartagine (prima guerra punica)....",
-                    "...Nel 1919 alla Città fu dedicato un apposito inno composto da Puccini su testo di Fausto Salvatori, per celebrare la vittoria dell'Italia nella prima guerra mondiale....",
-                    "...Lo Studio 15 di Cinecittà ha ospitato l'Eurovision Song Contest 1991, dopo la vittoria nell'anno precedente di Toto Cutugno, e ha visto a sua volta la vittoria della Svezia con il brano Fångad av en stormvind di Carola Häggkvist...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     12.454516,
                     41.920163
                 ]
@@ -4676,7 +3857,9 @@
                 "snippet": [
                     "*...La sede legale, la presidenza e la direzione generale si trovano in viale Giuseppe Mazzini 14, nel quartiere Della Vittoria....",
                     "*...Altri sono siti in via Teulada (Della Vittoria), via Ettore Romagnoli (Monte Sacro Alto) e al Teatro delle Vittorie in via Col di Lana (Della Vittoria);...",
-                    "...Nel 240 a.C., infatti, gli edili affidarono a Livio Andronico la composizione di una fabula, in occasione dell'anniversario della vittoria di Roma su Cartagine (prima guerra punica)...."
+                    "...Nel 240 a.C., infatti, gli edili affidarono a Livio Andronico la composizione di una fabula, in occasione dell'anniversario della vittoria di Roma su Cartagine (prima guerra punica)....",
+                    "...Nel 1919 alla Città fu dedicato un apposito inno composto da Puccini su testo di Fausto Salvatori, per celebrare la vittoria dell'Italia nella prima guerra mondiale....",
+                    "...Lo Studio 15 di Cinecittà ha ospitato l'Eurovision Song Contest 1991, dopo la vittoria nell'anno precedente di Toto Cutugno, e ha visto a sua volta la vittoria della Svezia con il brano Fångad av en stormvind di Carola Häggkvist...."
                 ]
             }
         },
@@ -4743,49 +3926,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.456005,
-                    41.929178
-                ]
-            },
-            "properties": {
-                "entity": "Foro Italico",
-                "name_location": "Foro Italico, Viale delle Olimpiadi, Municipio Roma I, Roma, Lazio, 00196, Italia",
-                "class": "leisure",
-                "type": "sports_centre",
-                "snippet": [
-                    "...Università degli Studi di Roma \"Foro Italico\"....",
-                    "*...L'auditorium Rai si trova al Foro Italico....",
-                    "...Di seguito ne sono elencati i principali, alcuni dei quali caratterizzano l'area sportiva del Foro Italico:...",
-                    "...Complesso natatorio del Foro Italico;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.513627,
-                    41.988943
-                ]
-            },
-            "properties": {
-                "entity": "Salaria",
-                "name_location": "Salaria, Grande Raccordo Anulare, Marcigliana, Municipio Roma III, Saxa Rubra, Roma, Lazio, 00138, Italia",
-                "class": "highway",
-                "type": "motorway_junction",
-                "snippet": [
-                    "*...A Roma si trovano anche due centri di produzione Mediaset (il Centro Safa Palatino e il Centro Titanus Elios), una sede di Sky Italia (sulla Salaria) e la sede de LA7 e LA7d (via Pineta Sacchetti);...",
-                    "*...Le principali consolari che portavano nel resto d'Italia (Aurelia, Cassia, Flaminia, Salaria, Tiburtina, Appia, Casilina) e gli altri tracciati di importanza locale (Nomentana, Prenestina, Anagnina, Ardeatina, Laurentina, Ostiense, Tiberina cui nel medioevo si aggiunse la Tuscolana)....",
-                    "...L'Aeroporto di Roma-Urbe, situato sulla via Salaria a circa  dal centro; è utilizzato come scalo turistico ed è stato ristrutturato e destinato a eliporto...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     12.422773,
                     41.915121
                 ]
@@ -4836,6 +3976,27 @@
                 "type": "service",
                 "snippet": [
                     "*...Hanno sede, inoltre, varie aziende televisive (come LT Multimedia, Fox Italia, Telecom Italia Media, NBC Universal Global Networks Italia e sedi di rappresentanza di TV estere), TV2000 (la TV della Conferenza Episcopale Italiana, sulla via Aurelia) e Telepace (via del Mascherino) che ambedue collaborano con il Centro Televisivo Vaticano, nonché le varie reti televisive locali del Lazio...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.500993,
+                    41.909202
+                ]
+            },
+            "properties": {
+                "entity": "porta Pia",
+                "name_location": "Porta Pia, Via Venti Settembre, Castro Pretorio, Municipio Roma I, Roma, Lazio, 00198, Italia",
+                "class": "historic",
+                "type": "monument",
+                "snippet": [
+                    "...Il 20 settembre i bersaglieri comandati dal generale Raffaele Cadorna aprirono una breccia nella cerchia delle mura, nei pressi di Porta Pia, ed entrarono a Roma....",
+                    "*...La svolta decisiva avvenne con la breccia di porta Pia, che consegnò Roma al Regno d'Italia:...",
+                    "*...Il 20 settembre i bersaglieri comandati dal generale Raffaele Cadorna aprirono una breccia nella cerchia delle mura, nei pressi di Porta Pia, ed entrarono a Roma...."
                 ]
             }
         },
@@ -5130,6 +4291,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    12.476789,
+                    41.910368
+                ]
+            },
+            "properties": {
+                "entity": "piazza del Popolo",
+                "name_location": "Piazza del Popolo, Campo Marzio, Municipio Roma I, Roma, Lazio, 00186, Italia",
+                "class": "highway",
+                "type": "pedestrian",
+                "snippet": [
+                    "...Tra le più celebri piazze romane, vi sono piazza di Spagna, piazza Navona, Piazza del Popolo, piazza della Repubblica, piazza Venezia, piazza Colonna, piazza Farnese, largo di Torre Argentina, Campo de' Fiori e piazza San Pietro....",
+                    "*...Ad esempio, piazza del Popolo (Nell'anno del Signore di Luigi Magni), via Vittorio Veneto e la fontana di Trevi (La dolce vita di Federico Fellini), la Chiesa della Trinità dei Monti e via Margutta (Vacanze romane di William Wyler), Testaccio (Accattone di Pier Paolo Pasolini), la fontana di Trevi (Totòtruffa 62, con Totò e Nino Taranto)....",
+                    "*...Tra le più celebri piazze romane, vi sono piazza di Spagna, piazza Navona, Piazza del Popolo, piazza della Repubblica, piazza Venezia, piazza Colonna, piazza Farnese, largo di Torre Argentina, Campo de' Fiori e piazza San Pietro...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     12.483285,
                     41.900978
                 ]
@@ -5210,28 +4392,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.477887,
-                    41.918052
-                ]
-            },
-            "properties": {
-                "entity": "Villa Giulia",
-                "name_location": "Museo Nazionale Etrusco di Villa Giulia, 9, Piazzale di Villa Giulia, Pinciano, Municipio Roma II, Roma, Lazio, 00196, Italia",
-                "class": "tourism",
-                "type": "museum",
-                "snippet": [
-                    "...Numerose sono anche le ville e giardini, un tempo dimore nobiliari, a partire dagli horti urbani, di proprietà dei personaggi di spicco della Roma antica, fino alle grandi ville sorte in età moderna tra cui le principali sono: villa Doria Pamphilj, villa Borghese, villa Ada, villa Giulia, villa Chigi, villa Albani e villa Torlonia....",
-                    "...Galleria Colonna, Galleria Doria Pamphilj e Galleria nazionale d'arte antica, il Museo Nazionale Romano, il Museo Nazionale Etrusco di Villa Giulia, il Palazzo delle Esposizioni, il Museo di Roma, il Museo di Roma in Trastevere, il Museo storico della Liberazione, il Museo centrale del Risorgimento, il Museo dei Fori Imperiali (che assieme ad altri fa parte del sistema dei Musei in Comune), il Museo Barracco, il Museo nazionale d'arte orientale Giuseppe Tucci, il Museo napoleonico di Roma, il Museo nazionale preistorico etnografico Luigi Pigorini, la Galleria nazionale d'arte moderna e contemporanea nonché i moderni MACRO e MAXXI e i musei scientifici (Museo civico di zoologia di Roma, Planetario e Museo Astronomico)....",
-                    "*...La cerimonia di premiazione del Premio Strega, che avviene ogni anno il primo giovedì del mese di luglio, nel ninfeo di Villa Giulia; la fiera della piccola e media editoria, Più libri più liberi, presso il Nuovo Centro Congressi all'EUR;...",
-                    "*...Numerose sono anche le ville e giardini, un tempo dimore nobiliari, a partire dagli horti urbani, di proprietà dei personaggi di spicco della Roma antica, fino alle grandi ville sorte in età moderna tra cui le principali sono: villa Doria Pamphilj, villa Borghese, villa Ada, villa Giulia, villa Chigi, villa Albani e villa Torlonia...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     12.485958,
                     41.898654
                 ]
@@ -5242,28 +4402,9 @@
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
-                    "...Sul fronte artistico, in città si svolgono la Quadriennale di Roma, solitamente presso il Palazzo delle Esposizioni, l'Esposizione triennale di arti visive (dal 2011), oltre a numerose mostre di rilevanza internazionale presso gli spazi espositivi delle Scuderie del Quirinale, dei vari musei e delle numerose gallerie private...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.511305,
-                    41.896806
-                ]
-            },
-            "properties": {
-                "entity": "Tiburtino",
-                "name_location": "Piazzale Tiburtino, San Lorenzo, Tiburtino, Roma, Lazio, 00185, Italia",
-                "class": "highway",
-                "type": "secondary",
-                "snippet": [
-                    "*...Nel 1940 l'Italia entrò nella seconda guerra mondiale, che non coinvolse direttamente Roma finché, a seguito dell'andamento sfavorevole all'Asse, il 19 luglio 1943 fu oggetto di un duro bombardamento ad opera di forze aeree alleate che causò la morte di oltre  persone nei quartieri San Lorenzo, Tiburtino, Prenestino, Casilino, Labicano, Tuscolano e Nomentano....",
-                    "*...L'Altaroma Fashion Week curata dalla società Altaroma in sedi variabili (l'area dell'Ex Dogana allo Scalo San Lorenzo nel quartiere Tiburtino, l'ex Caserma in Via Guido Reni);...",
-                    "...A Roma è presente una forte realtà industriale, che si è sviluppata intorno ad alcuni poli di sviluppo, a cominciare dalla cosiddetta Tiburtina Valley, ovvero la zona a est intorno al Grande Raccordo Anulare lungo la via Tiburtina, dove sorge il Tecnopolo Tiburtino e sono presenti imprese del settore meccanico e aerospaziale (Telespazio, Vitrociset, ASTER, Thales Alenia Space, Selex), chimico-farmaceutico (Pfizer, Merck, Angelini, Takeda, Bristol-Myers Squibb), ingegneristico e infrastrutturale (Webuild, Cementir, Vianini, Pavimental, Condotte), automobilistico (Mercedes-Benz Italia, Renault Italia) e alimentare (Unilever-Algida, Centrale del Latte, Gentilini e Peroni), nonché i mercati agroalimentari nel territorio del comune di Guidonia e siti di estrazione e lavorazione degli inerti nelle cave nei pressi di Tivoli...."
+                    "...Sul fronte artistico, in città si svolgono la Quadriennale di Roma, solitamente presso il Palazzo delle Esposizioni, l'Esposizione triennale di arti visive (dal 2011), oltre a numerose mostre di rilevanza internazionale presso gli spazi espositivi delle Scuderie del Quirinale, dei vari musei e delle numerose gallerie private....",
+                    "*...Palatino, Aventino, Campidoglio, Quirinale, Viminale, Esquilino e Celio....",
+                    "*...Il palazzo del Quirinale, sede della Presidenza della Repubblica, palazzo Madama, sede del Senato della Repubblica, palazzo Montecitorio, sede della Camera dei deputati, palazzo Chigi, sede del Governo italiano, palazzo Koch, sede della Banca d'Italia, palazzo Spada, sede del Consiglio di Stato, il palazzo di Giustizia, noto anche come Palazzaccio e sede della Corte suprema di cassazione e il palazzo della Consulta, sede della Corte costituzionale...."
                 ]
             }
         },
@@ -5350,45 +4491,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.598217,
-                    41.856172
-                ]
-            },
-            "properties": {
-                "entity": "GRA",
-                "name_location": "Grande Raccordo Anulare, Torre Maura, Roma, Lazio, 00133, Italia",
-                "class": "highway",
-                "type": "motorway",
-                "snippet": [
-                    "*...53 zone scarsamente popolate a cavallo del GRA e fino ai confini comunali, che compongono l'Agro romano...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.636514,
-                    41.927501
-                ]
-            },
-            "properties": {
-                "entity": "Tecnopolo",
-                "name_location": "Viale del Tecnopolo, Settecamini, Municipio Roma IV, Roma, Lazio, 00115, Italia",
-                "class": "highway",
-                "type": "secondary",
-                "snippet": [
-                    "...A Roma è presente una forte realtà industriale, che si è sviluppata intorno ad alcuni poli di sviluppo, a cominciare dalla cosiddetta Tiburtina Valley, ovvero la zona a est intorno al Grande Raccordo Anulare lungo la via Tiburtina, dove sorge il Tecnopolo Tiburtino e sono presenti imprese del settore meccanico e aerospaziale (Telespazio, Vitrociset, ASTER, Thales Alenia Space, Selex), chimico-farmaceutico (Pfizer, Merck, Angelini, Takeda, Bristol-Myers Squibb), ingegneristico e infrastrutturale (Webuild, Cementir, Vianini, Pavimental, Condotte), automobilistico (Mercedes-Benz Italia, Renault Italia) e alimentare (Unilever-Algida, Centrale del Latte, Gentilini e Peroni), nonché i mercati agroalimentari nel territorio del comune di Guidonia e siti di estrazione e lavorazione degli inerti nelle cave nei pressi di Tivoli....",
-                    "*...Altri importanti poli industriali sono quelli di Castel Romano (dove sorge l'altro Tecnopolo), Parco de' Medici (dove sono presenti Toyota Motor Italia, Jaguar Land Rover Italia, Wind Tre, Esso Italiana, KT - Kinetics Technology) e Santa Palomba...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     12.398718,
                     41.811938
                 ]
@@ -5443,7 +4545,16 @@
                     "...Dal 1962 al 1965, nella basilica di San Pietro si svolse il Concilio Vaticano II....",
                     "...Il Cupolone, la cupola della basilica di San Pietro in Vaticano, che domina tutta la città e simboleggia il mondo cristiano....",
                     "...La cattedrale della diocesi romana è la basilica di San Giovanni in Laterano, una delle quattro basiliche papali maggiori insieme con la basilica di San Pietro in Vaticano, la basilica di San Paolo fuori le mura e la basilica di Santa Maria Maggiore....",
-                    "...In particolare la Basilica di San Pietro e il Colosseo sono rispettivamente il 2º e il 5º tra i monumenti più visitati al mondo...."
+                    "...In particolare la Basilica di San Pietro e il Colosseo sono rispettivamente il 2º e il 5º tra i monumenti più visitati al mondo....",
+                    "*...La notte di Natale dell'800 papa Leone III incoronò imperatore Carlo Magno nell'antica basilica di San Pietro in Vaticano, istituendo così l'Impero carolingio/Sacro Romano Impero:...",
+                    "*...Si spostò dal Laterano e concepì l'idea della costruzione della nuova basilica di San Pietro:...",
+                    "*...Nel 1626 fu inaugurata la nuova basilica di San Pietro in Vaticano, emblema del dominio papale....",
+                    "*...Dal 1962 al 1965, nella basilica di San Pietro si svolse il Concilio Vaticano II....",
+                    "*...Il Cupolone, la cupola della basilica di San Pietro in Vaticano, che domina tutta la città e simboleggia il mondo cristiano....",
+                    "*...La cattedrale della diocesi romana è la basilica di San Giovanni in Laterano, una delle quattro basiliche papali maggiori insieme con la basilica di San Pietro in Vaticano, la basilica di San Paolo fuori le mura e la basilica di Santa Maria Maggiore....",
+                    "...Tra le più celebri piazze romane, vi sono piazza di Spagna, piazza Navona, Piazza del Popolo, piazza della Repubblica, piazza Venezia, piazza Colonna, piazza Farnese, largo di Torre Argentina, Campo de' Fiori e piazza San Pietro....",
+                    "...SS. Pietro e Paolo, patroni della città, il 29 giugno. La festa di San Pietro e Paolo è stata istituita con decreto dello Stato Pontificio il 29 aprile 1818;...",
+                    "...Altre stazioni che svolgono un ruolo importante per i servizi ferroviari sono Roma San Pietro, Roma Trastevere, Roma Tuscolana e Roma Prenestina, mentre Roma Casilina, chiusa al pubblico dal 2003, viene usata come fermata straordinaria in condizioni di difficoltà...."
                 ]
             }
         },
@@ -5452,59 +4563,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.539936,
-                    41.89922
+                    12.572282,
+                    41.907456
                 ]
             },
             "properties": {
                 "entity": "Strada",
-                "name_location": "Strada dei Parchi, Collatino, Roma, Lazio, 00159, Italia",
+                "name_location": "Strada dei Parchi, Tor Cervara, Collatino, Roma, Lazio, 00155, Italia",
                 "class": "highway",
                 "type": "motorway",
                 "snippet": [
                     "*...Lo spazio urbano, un tempo delimitato dalle mura, a partire dalla seconda metà del XX secolo è definito dall'anello esterno di raccordo tra le vie di penetrazione, il Grande Raccordo Anulare, che rappresenta la congiunzione principale del trasporto su Strada tra Roma e il resto d'Italia...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.598217,
-                    41.856172
-                ]
-            },
-            "properties": {
-                "entity": "Raccordo",
-                "name_location": "Grande Raccordo Anulare, Torre Maura, Roma, Lazio, 00133, Italia",
-                "class": "highway",
-                "type": "motorway",
-                "snippet": [
-                    "...Venne realizzata la nuova stazione Termini e furono costruite nuove infrastrutture (tra cui il primo tratto della rete metropolitana e il Grande Raccordo Anulare) e gli impianti sportivi per i giochi olimpici che Roma ospitò nel 1960....",
-                    "...A Roma è presente una forte realtà industriale, che si è sviluppata intorno ad alcuni poli di sviluppo, a cominciare dalla cosiddetta Tiburtina Valley, ovvero la zona a est intorno al Grande Raccordo Anulare lungo la via Tiburtina, dove sorge il Tecnopolo Tiburtino e sono presenti imprese del settore meccanico e aerospaziale (Telespazio, Vitrociset, ASTER, Thales Alenia Space, Selex), chimico-farmaceutico (Pfizer, Merck, Angelini, Takeda, Bristol-Myers Squibb), ingegneristico e infrastrutturale (Webuild, Cementir, Vianini, Pavimental, Condotte), automobilistico (Mercedes-Benz Italia, Renault Italia) e alimentare (Unilever-Algida, Centrale del Latte, Gentilini e Peroni), nonché i mercati agroalimentari nel territorio del comune di Guidonia e siti di estrazione e lavorazione degli inerti nelle cave nei pressi di Tivoli....",
-                    "...Lo spazio urbano, un tempo delimitato dalle mura, a partire dalla seconda metà del XX secolo è definito dall'anello esterno di raccordo tra le vie di penetrazione, il Grande Raccordo Anulare, che rappresenta la congiunzione principale del trasporto su Strada tra Roma e il resto d'Italia....",
-                    "*...Sul Raccordo convergono le quattro autostrade per Firenze (A1 diramazione Roma nord), Teramo e Pescara (A24/A25), Napoli (A1 diramazione Roma sud) e l'Aeroporto di Roma-Fiumicino (A91, da cui si dirama la A12 per Civitavecchia), oltre alle due superstrade Cassia Veientana (SS 2 bis) e Pontina (SS 148)....",
-                    "*...Altre importanti arterie della viabilità romana sono la Tangenziale Est (che scorre tra il centro e il Raccordo attraversando i quartieri est, nord e nord-ovest della Capitale), e la via Cristoforo Colombo che collega il centro col litorale di Ostia...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.73577,
-                    41.934194
-                ]
-            },
-            "properties": {
-                "entity": "A1",
-                "name_location": "Autostrada del Sole, San Vittorino, Municipio Roma VI, Tivoli Terme, Tivoli, Roma, Lazio, 00011, Italia",
-                "class": "highway",
-                "type": "motorway",
-                "snippet": [
-                    "*...Sul Raccordo convergono le quattro autostrade per Firenze (A1 diramazione Roma nord), Teramo e Pescara (A24/A25), Napoli (A1 diramazione Roma sud) e l'Aeroporto di Roma-Fiumicino (A91, da cui si dirama la A12 per Civitavecchia), oltre alle due superstrade Cassia Veientana (SS 2 bis) e Pontina (SS 148)...."
                 ]
             }
         },
@@ -5524,28 +4593,6 @@
                 "type": "motorway",
                 "snippet": [
                     "*...Sul Raccordo convergono le quattro autostrade per Firenze (A1 diramazione Roma nord), Teramo e Pescara (A24/A25), Napoli (A1 diramazione Roma sud) e l'Aeroporto di Roma-Fiumicino (A91, da cui si dirama la A12 per Civitavecchia), oltre alle due superstrade Cassia Veientana (SS 2 bis) e Pontina (SS 148)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.226901,
-                    41.814431
-                ]
-            },
-            "properties": {
-                "entity": "Aeroporto di Roma-Fiumicino",
-                "name_location": "Aeroporto di Roma-Fiumicino, Via Leonardo da Vinci, Fiumicino, Roma, Lazio, 00054, Italia",
-                "class": "aeroway",
-                "type": "aerodrome",
-                "snippet": [
-                    "...Sul Raccordo convergono le quattro autostrade per Firenze (A1 diramazione Roma nord), Teramo e Pescara (A24/A25), Napoli (A1 diramazione Roma sud) e l'Aeroporto di Roma-Fiumicino (A91, da cui si dirama la A12 per Civitavecchia), oltre alle due superstrade Cassia Veientana (SS 2 bis) e Pontina (SS 148)....",
-                    "...Tra le ferrovie che servono Roma rientrano anche i servizi suburbani gestiti da Trenitalia e denominati Ferrovie Laziali (o FL) per un totale di otto ferrovie, a cui si aggiungono il Leonardo Express (treno diretto tra Roma Termini e l'Aeroporto di Roma-Fiumicino) e le tre ferrovie ex-concesse, proprietà della regione, gestite dall'ATAC:...",
-                    "...La città di Roma è servita da due aeroporti internazionali, l' Aeroporto di Roma-Fiumicino \"Leonardo da Vinci\"  e l'Aeroporto di Roma-Ciampino \"G. B. Pastine\", entrambi gestiti dalla società Aeroporti di Roma, che con quasi 33 milioni di passeggeri nell'anno 2022 costituiscono il secondo sistema aeroportuale più grande d'Italia, e da altri tre a uso minore:...",
-                    "...L'Aeroporto di Roma-Fiumicino è il principale Aeroporto italiano passeggeri con un traffico di 29.360.613 nel 2022 e con 140.603 tonnellate di merci nel 2022 è il secondo per traffico merci dopo Milano Malpensa (721.254 tonnellate). È uno degli aeroporti più importanti d'Europa. Per il secondo anno consecutivo, Il \"Leonardo da Vinci\" tramite ACI (Airport Council International), ha conseguito dai passeggeri il riconoscimento \"Airport Service Quality Award\" come miglior Aeroporto d'Europa per il 2018. Distante circa  dal centro Roma è collegato alla città dal servizio ferroviario continuativoLeonardo Express, con 110 collegamenti da e verso Roma Termini, dalla linea ferroviaria suburbana FL1 e varie linee bus pubbliche (Cotral) e private...."
                 ]
             }
         },
@@ -5583,7 +4630,8 @@
                 "class": "highway",
                 "type": "motorway",
                 "snippet": [
-                    "...Sul Raccordo convergono le quattro autostrade per Firenze (A1 diramazione Roma nord), Teramo e Pescara (A24/A25), Napoli (A1 diramazione Roma sud) e l'Aeroporto di Roma-Fiumicino (A91, da cui si dirama la A12 per Civitavecchia), oltre alle due superstrade Cassia Veientana (SS 2 bis) e Pontina (SS 148)...."
+                    "...Sul Raccordo convergono le quattro autostrade per Firenze (A1 diramazione Roma nord), Teramo e Pescara (A24/A25), Napoli (A1 diramazione Roma sud) e l'Aeroporto di Roma-Fiumicino (A91, da cui si dirama la A12 per Civitavecchia), oltre alle due superstrade Cassia Veientana (SS 2 bis) e Pontina (SS 148)....",
+                    "*...Sul Raccordo convergono le quattro autostrade per Firenze (A1 diramazione Roma nord), Teramo e Pescara (A24/A25), Napoli (A1 diramazione Roma sud) e l'Aeroporto di Roma-Fiumicino (A91, da cui si dirama la A12 per Civitavecchia), oltre alle due superstrade Cassia Veientana (SS 2 bis) e Pontina (SS 148)...."
                 ]
             }
         },
@@ -5968,28 +5016,8 @@
                 "class": "craft",
                 "type": "boatbuilder",
                 "snippet": [
-                    "*...Il porto Marina di Nettuno, con funzioni prevalentemente turistiche...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.480874,
-                    41.858823
-                ]
-            },
-            "properties": {
-                "entity": "Leonardo da Vinci",
-                "name_location": "Viale Leonardo da Vinci, San Paolo, Ostiense, Roma, Lazio, 00145, Italia",
-                "class": "highway",
-                "type": "tertiary",
-                "snippet": [
-                    "...Libera Università Leonardo da Vinci - LULV;...",
-                    "...La città di Roma è servita da due aeroporti internazionali, l' Aeroporto di Roma-Fiumicino \"Leonardo da Vinci\"  e l'Aeroporto di Roma-Ciampino \"G. B. Pastine\", entrambi gestiti dalla società Aeroporti di Roma, che con quasi 33 milioni di passeggeri nell'anno 2022 costituiscono il secondo sistema aeroportuale più grande d'Italia, e da altri tre a uso minore:...",
-                    "...L'Aeroporto di Roma-Fiumicino è il principale Aeroporto italiano passeggeri con un traffico di 29.360.613 nel 2022 e con 140.603 tonnellate di merci nel 2022 è il secondo per traffico merci dopo Milano Malpensa (721.254 tonnellate). È uno degli aeroporti più importanti d'Europa. Per il secondo anno consecutivo, Il \"Leonardo da Vinci\" tramite ACI (Airport Council International), ha conseguito dai passeggeri il riconoscimento \"Airport Service Quality Award\" come miglior Aeroporto d'Europa per il 2018. Distante circa  dal centro Roma è collegato alla città dal servizio ferroviario continuativoLeonardo Express, con 110 collegamenti da e verso Roma Termini, dalla linea ferroviaria suburbana FL1 e varie linee bus pubbliche (Cotral) e private...."
+                    "*...Il porto Marina di Nettuno, con funzioni prevalentemente turistiche....",
+                    "*...Tra le fontane monumentali, la maggior parte delle quali sono state fatte costruire dai papi all'inizio dell'età moderna, vi sono la fontana di Trevi, la fontana dell'Acqua Felice (o del Mosè), le Quattro Fontane, la fontana della Barcaccia, le tre fontane di piazza Navona (Quattro Fiumi, Moro e Nettuno), la fontana delle Tartarughe, la fontana del Tritone, la fontana dell'Acqua Paola e la fontana delle Naiadi...."
                 ]
             }
         },
@@ -6047,7 +5075,15 @@
                 "class": "aeroway",
                 "type": "aerodrome",
                 "snippet": [
-                    "...L'Aeroporto di Roma-Urbe, situato sulla via Salaria a circa  dal centro; è utilizzato come scalo turistico ed è stato ristrutturato e destinato a eliporto...."
+                    "...L'Aeroporto di Roma-Urbe, situato sulla via Salaria a circa  dal centro; è utilizzato come scalo turistico ed è stato ristrutturato e destinato a eliporto....",
+                    "...Per antonomasia, è definita l'Urbe, Caput mundi e Città eterna....",
+                    "...A titolo di esempio vengono riportati i dati relativi alla stazione meteorologica di Roma Urbe (periodo 1971-2000)....",
+                    "*...Oltre a Urbe, le più importanti stazioni meteorologiche ufficiali di Roma sono:...",
+                    "...Urbs/Urbe (dal latino: \"Città\"), perché già anticamente la parola Urbs indicava Roma, che era considerata la città per antonomasia;...",
+                    "...Urbs Aeterna (dal latino: \"Città Eterna\"), che deriva invece da una frase nel Libro delle elegie di Albio Tibullo: «Romulus aeternae nondum formaverat urbis / moenia.» («Né ancora aveva Romolo innalzato le mura dell'Eterna Urbe»)....",
+                    "*...Le architetture militari di Roma risalgono alle origini mitiche della città, quando Romolo avrebbe innalzato le mura della Roma quadrata, per segnare il confine sacro dell'urbs, ribattezzato pomerio, e ricoprirono un ruolo rilevante nell'intero arco della storia dell'Urbe, determinandone lo sviluppo e la difesa....",
+                    "...Dapprima parlato solamente nell'Urbe e nel Latium vetus (con poche varianti dialettali, ad esempio a Falerii e Preneste), subì l'influsso dell'etrusco e soprattutto del greco....",
+                    "...Egli morì a Roma come Paolo di Tarso, l'apostolo dei Gentili giunto nell'Urbe per la predicazione intorno al 60:..."
                 ]
             }
         },
@@ -6066,7 +5102,9 @@
                 "class": "highway",
                 "type": "secondary",
                 "snippet": [
-                    "*...L'Aeroporto di Roma-Urbe, situato sulla via Salaria a circa  dal centro; è utilizzato come scalo turistico ed è stato ristrutturato e destinato a eliporto...."
+                    "*...L'Aeroporto di Roma-Urbe, situato sulla via Salaria a circa  dal centro; è utilizzato come scalo turistico ed è stato ristrutturato e destinato a eliporto....",
+                    "*...A Roma si trovano anche due centri di produzione Mediaset (il Centro Safa Palatino e il Centro Titanus Elios), una sede di Sky Italia (sulla Salaria) e la sede de LA7 e LA7d (via Pineta Sacchetti);...",
+                    "*...Le principali consolari che portavano nel resto d'Italia (Aurelia, Cassia, Flaminia, Salaria, Tiburtina, Appia, Casilina) e gli altri tracciati di importanza locale (Nomentana, Prenestina, Anagnina, Ardeatina, Laurentina, Ostiense, Tiberina cui nel medioevo si aggiunse la Tuscolana)...."
                 ]
             }
         },
@@ -6085,7 +5123,8 @@
                 "class": "aeroway",
                 "type": "aerodrome",
                 "snippet": [
-                    "...L'Aeroporto militare Mario de Bernardi, conosciuto meglio come Aeroporto di Pratica di Mare, sito presso l'omonima frazione del comune di Pomezia, confinante col territorio comunale di Roma a sud della capitale...."
+                    "...L'Aeroporto militare Mario de Bernardi, conosciuto meglio come Aeroporto di Pratica di Mare, sito presso l'omonima frazione del comune di Pomezia, confinante col territorio comunale di Roma a sud della capitale....",
+                    "*...L'Aeroporto di Guidonia \"Alfredo Barbieri\", Aeroporto militare intitolato al colonnello Alfredo Barbieri, sede della scuola di aerocooperazione e del Centro di selezione Aeronautica Militare...."
                 ]
             }
         },
@@ -6124,26 +5163,6 @@
                 "type": "aerodrome",
                 "snippet": [
                     "...L'Aeroporto di Guidonia \"Alfredo Barbieri\", Aeroporto militare intitolato al colonnello Alfredo Barbieri, sede della scuola di aerocooperazione e del Centro di selezione Aeronautica Militare...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.441371,
-                    41.662158
-                ]
-            },
-            "properties": {
-                "entity": "Aeroporto militare",
-                "name_location": "Aeroporto Militare Mario De Bernardi, Via di Pratica, Villaggio Azzurro, Pomezia, Roma, Lazio, 00071, Italia",
-                "class": "aeroway",
-                "type": "aerodrome",
-                "snippet": [
-                    "...L'Aeroporto militare Mario de Bernardi, conosciuto meglio come Aeroporto di Pratica di Mare, sito presso l'omonima frazione del comune di Pomezia, confinante col territorio comunale di Roma a sud della capitale....",
-                    "*...L'Aeroporto di Guidonia \"Alfredo Barbieri\", Aeroporto militare intitolato al colonnello Alfredo Barbieri, sede della scuola di aerocooperazione e del Centro di selezione Aeronautica Militare...."
                 ]
             }
         },
@@ -6373,7 +5392,10 @@
                 "class": "leisure",
                 "type": "sports_centre",
                 "snippet": [
-                    "*...Complesso natatorio del Foro Italico;..."
+                    "*...Complesso natatorio del Foro Italico;...",
+                    "...Università degli Studi di Roma \"Foro Italico\"....",
+                    "*...L'auditorium Rai si trova al Foro Italico....",
+                    "...Di seguito ne sono elencati i principali, alcuni dei quali caratterizzano l'area sportiva del Foro Italico:..."
                 ]
             }
         },

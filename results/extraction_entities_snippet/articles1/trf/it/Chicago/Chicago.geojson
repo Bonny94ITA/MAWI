@@ -6,32 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -87.624949,
-                    41.879915
-                ]
-            },
-            "properties": {
-                "entity": "Michigan",
-                "name_location": "122 South Michigan, 122, South Michigan Avenue, Printer's Row, Loop, Chicago, Cook County, Illinois, 60603, Stati Uniti d'America",
-                "class": "building",
-                "type": "office",
-                "snippet": [
-                    "*...La sua area metropolitana (detta Chicagoland) conta 9 618 502 abitanti distribuiti in un'ampia area pianeggiante situata lungo le rive del lago Michigan....",
-                    "*...La città si estende per  sul lago Michigan da nord a sud....",
-                    "...Nel 1674 padre Jacques Marquette fondò una missione sulle rive del Lago Michigan che divenne in seguito la città di Chicago....",
-                    "...Il Chicago Portage diventa un centro nevralgico per il trasporto dall'est all'ovest degli Stati Uniti, viene costruita la prima ferrovia, la Galena and Chicago Union Railroad, e nel 1848 viene costruito l'Illinois and Michigan Canal che permetteva alle imbarcazioni che navigavano nei Grandi Laghi di raggiungere il Mississippi....",
-                    "...Ma mentre si miglioravano le condizioni sanitarie in città, i rifiuti e i liquami industriali venivano versati nel fiume Chicago e di conseguenza nel Lago Michigan inquinando la principale fonte idrica cittadina....",
-                    "...Nel 1900, per risolvere i ripetitivi problemi di inquinamento delle acque del Lago Michigan, la città intraprese una seconda innovativa impresa ingegneristica:...",
-                    "...900 N. Michigan Ave....",
-                    "...Inoltre, l'apertura dell'Illinois and Michigan Canal agevolò i traffici verso sud, lungo il corso del Mississippi...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -87.625915,
                     41.881955
                 ]
@@ -122,50 +96,6 @@
                 "type": "memorial",
                 "snippet": [
                     "*...Fort Dearborn fu eretto nel 1803 ma fu distrutto durante la guerra del 1812 per poi essere ricostruito nel 1816 e definitivamente demolito nel 1871...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.622862,
-                    41.867933
-                ]
-            },
-            "properties": {
-                "entity": "Mississippi",
-                "name_location": "The Blues Trail: Mississippi to Chicago, East Roosevelt Road, Printer's Row, Loop, Chicago, Cook County, Illinois, 60605, Stati Uniti d'America",
-                "class": "historic",
-                "type": "memorial",
-                "snippet": [
-                    "*...I Potawatomi furono forzatamente rimossi dalle zone nel 1833 dopo il Trattato di Chicago e costretti a migrare a ovest del fiume Mississippi durante la deportazione degli indiani....",
-                    "*...Il Chicago Portage diventa un centro nevralgico per il trasporto dall'est all'ovest degli Stati Uniti, viene costruita la prima ferrovia, la Galena and Chicago Union Railroad, e nel 1848 viene costruito l'Illinois and Michigan Canal che permetteva alle imbarcazioni che navigavano nei Grandi Laghi di raggiungere il Mississippi....",
-                    "...Fu proprio il blues, caratteristica intrinseca dei musicisti neri del delta del Mississippi, ad essere importato in questa grande metropoli industriale creando, con il passare degli anni, un proprio Chicago-style, caratterizzato da innovative sonorità elettriche....",
-                    "*...Inoltre, l'apertura dell'Illinois and Michigan Canal agevolò i traffici verso sud, lungo il corso del Mississippi....",
-                    "*...Negli anni quaranta dell'Ottocento, Chicago divenne il principale porto del mondo per il commercio dei cereali, che dal bacino granario del Mississippi, una delle principali regioni agricole del mondo, venivano esportati via mare attraverso i Grandi Laghi...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.639195,
-                    41.932492
-                ]
-            },
-            "properties": {
-                "entity": "Lincoln Park",
-                "name_location": "Lincoln Park, North Lakeview Avenue, Lincoln Park, Chicago, Lake View Township, Cook County, Illinois, 60614, Stati Uniti d'America",
-                "class": "tourism",
-                "type": "information",
-                "snippet": [
-                    "...Egli creò il Lincoln Park chiudendo un Cimitero pieno di tombe poco profonde e, nel 1867, in risposta allo scoppio di un'epidemia di colera contribuì a creare un nuovo Consiglio di salute di Chicago....",
-                    "*...Alcuni discorsi vennero tenuti a Lincoln Park, e John Jonson disse che:...",
-                    "...Lincoln Park Zoo ;..."
                 ]
             }
         },
@@ -269,50 +199,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -87.656262,
-                    41.999558
-                ]
-            },
-            "properties": {
-                "entity": "Strada",
-                "name_location": "Madonna Della Strada Chapel, 6453, North Kenmore Avenue, Edgewater Glen, Edgewater, Rogers Park, Chicago, Rogers Park Township, Cook County, Illinois, 60626, Stati Uniti d'America",
-                "class": "amenity",
-                "type": "place_of_worship",
-                "snippet": [
-                    "...Il termine \"a metà Strada\" per una fiera o un carnevale si riferiva originariamente a Midway Plaisance, una striscia di terra del Parco che ancora attraversa l'Università di Chicago e collega i parchi Washington e Jackson....",
-                    "*...Nei giorni precedenti le manifestazioni, gli appartenenti alla fazione dei Weatherman avevano diffuso volantini in tutte le sedi universitarie della città di Chicago, invitando gli studenti a scendere in Strada e a protestare contro la guerra....",
-                    "*...«Nonostante oggi potremmo perdere qualcuno di noi (riferendosi evidentemente a possibili scontri con la polizia), il solo fatto che siamo qui in Strada e siamo pronti a fare opposizione è già per noi una vittoria politica....",
-                    "*...La folla si mosse immediatamente nel tentativo di raggiungere il Drake Hotel, ma a metà Strada incontrò le barricate erette dalla polizia di Chicago, che non appena visti i manifestanti (molti dei quali a volto coperto ed armati di bastone) irruppe in diverse cariche col chiaro tentativo di disunire la massa di manifestanti....",
-                    "...Solo un piccolo gruppo riuscì a raggiungere la Strada del Drake Hotel, le cui finestre andarono in frantumi dopo essere state raggiunte da una sassaiola...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.623403,
-                    41.900417
-                ]
-            },
-            "properties": {
-                "entity": "Drake Hotel",
-                "name_location": "Drake Hotel, 140, East Walton Place, Magnificent Mile, Near North Side, Chicago, Cook County, Illinois, 60611, Stati Uniti d'America",
-                "class": "tourism",
-                "type": "hotel",
-                "snippet": [
-                    "...Raggiungere il Drake Hotel, residenza del giudice Julius Hoffman, che qualche mese prima aveva condannato vari appartenenti al gruppo antagonista dei Chicago 7....",
-                    "...La folla si mosse immediatamente nel tentativo di raggiungere il Drake Hotel, ma a metà Strada incontrò le barricate erette dalla polizia di Chicago, che non appena visti i manifestanti (molti dei quali a volto coperto ed armati di bastone) irruppe in diverse cariche col chiaro tentativo di disunire la massa di manifestanti....",
-                    "...Solo un piccolo gruppo riuscì a raggiungere la Strada del Drake Hotel, le cui finestre andarono in frantumi dopo essere state raggiunte da una sassaiola...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -87.624312,
                     41.877488
                 ]
@@ -362,7 +248,9 @@
                 "class": "tourism",
                 "type": "zoo",
                 "snippet": [
-                    "*...Lincoln Park Zoo ;..."
+                    "*...Lincoln Park Zoo ;...",
+                    "...Egli creò il Lincoln Park chiudendo un Cimitero pieno di tombe poco profonde e, nel 1867, in risposta allo scoppio di un'epidemia di colera contribuì a creare un nuovo Consiglio di salute di Chicago....",
+                    "*...Alcuni discorsi vennero tenuti a Lincoln Park, e John Jonson disse che:..."
                 ]
             }
         },
@@ -553,26 +441,6 @@
                 "type": "office",
                 "snippet": [
                     "*...Chase Tower ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.625316,
-                    41.897076
-                ]
-            },
-            "properties": {
-                "entity": "Park Tower",
-                "name_location": "Park Tower, 800, North Michigan Avenue, Magnificent Mile, Near North Side, Chicago, Cook County, Illinois, 60611, Stati Uniti d'America",
-                "class": "building",
-                "type": "apartments",
-                "snippet": [
-                    "...Questo tipo architettonico è nato proprio a Chicago che, se da tempo ha dovuto cedere a New York il primato di città con più grattacieli nel paese, vanta ancora oggi il terzo grattacielo più alto statunitense (dopo il nuovo World Trade Center e la Central Park Tower)....",
-                    "*...Park Tower ;..."
                 ]
             }
         },

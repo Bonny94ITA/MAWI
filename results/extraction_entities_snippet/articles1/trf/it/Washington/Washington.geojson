@@ -28,37 +28,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.009021,
-                    38.889813
-                ]
-            },
-            "properties": {
-                "entity": "Campidoglio",
-                "name_location": "Campidoglio degli Stati Uniti d'America, West Terraces and Steps, Washington, District of Columbia, 20534, Stati Uniti d'America",
-                "class": "tourism",
-                "type": "attraction",
-                "snippet": [
-                    "*...Il Campidoglio, la sede del Tesoro e la Casa Bianca furono bruciati durante l'attacco....",
-                    "*...Tuttavia, il Campidoglio era ancora per la maggior parte in costruzione, e non è stato completato fino al 1868....",
-                    "...Questi lavori inclusero il Parco del Campidoglio e il centro commerciale, la costruzione di nuovi edifici federali e monumenti, la demolizione delle baraccopoli, e l'istituzione di un sistema di parchi in tutta la città....",
-                    "...Nonostante la credenza popolare, nessuna legge ha mai limitato gli edifici all'altezza del Campidoglio degli Stati Uniti o del Monumento a Washington, che rimane la struttura più alta del distretto....",
-                    "*...Gli assi che delimitano i quadranti si incrociano presso l'edificio del Campidoglio....",
-                    "*...Tutti i nomi delle strade includono l'abbreviazione del quadrante per indicare la loro posizione e i numeri civici sono assegnati in base al numero approssimativo di isolati dal Campidoglio....",
-                    "...Alcune strade sono particolarmente degne di nota, come la Pennsylvania Avenue, che collega la Casa Bianca al Campidoglio degli Stati Uniti e la K Street, che ospita gli uffici di molti gruppi lobbistici....",
-                    "...La Casa Bianca, la Washington National Cathedral, il Jefferson Memorial, il Campidoglio degli Stati Uniti, il Lincoln Memorial e il Vietnam Veterans Memorial....",
-                    "*...Nei pressi del Campidoglio si trova la Biblioteca del Congresso, la più grande biblioteca del mondo con una collezione di più di 147 milioni di libri, manoscritti e altri materiali....",
-                    "*...Il National Mall è un grande Parco situato nel centro di Washington tra il Lincoln Memorial e il Campidoglio....",
-                    "*...Il Palazzo della Corte Suprema degli Stati Uniti d'America è stato realizzato nel 1935, prima di allora la corte si riuniva in alcune stanze del Campidoglio....",
-                    "*...La National Gallery of Art, sul National Mall vicino al Campidoglio, presenta opere d'arte americana ed europea....",
-                    "*...La sede dei Marine vicino al Campidoglio ospita la United States Marine Band, fondata nel 1798 e che è la più antica del paese...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -77.036553,
                     38.8977
                 ]
@@ -141,27 +110,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.005441,
-                    38.900164
-                ]
-            },
-            "properties": {
-                "entity": "H Street",
-                "name_location": "H Street Northeast, NoMa, Near Northeast, Washington, District of Columbia, 20549, Stati Uniti d'America",
-                "class": "highway",
-                "type": "primary",
-                "snippet": [
-                    "*...Dopo l'assassinio del leader dei diritti civili Martin Luther King, il 4 aprile 1968, scoppiarono violenti disordini nella città, soprattutto in U Street, 14th Street, 7th Street e H Street, nei centri residenziali abitati da afroamericani e nelle aree commerciali...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.025984,
-                    38.883588
+                    -77.026091,
+                    38.884213
                 ]
             },
             "properties": {
@@ -243,7 +193,17 @@
                 "snippet": [
                     "*...Nonostante la credenza popolare, nessuna legge ha mai limitato gli edifici all'altezza del Campidoglio degli Stati Uniti o del Monumento a Washington, che rimane la struttura più alta del distretto....",
                     "*...Alcune strade sono particolarmente degne di nota, come la Pennsylvania Avenue, che collega la Casa Bianca al Campidoglio degli Stati Uniti e la K Street, che ospita gli uffici di molti gruppi lobbistici....",
-                    "...La Casa Bianca, la Washington National Cathedral, il Jefferson Memorial, il Campidoglio degli Stati Uniti, il Lincoln Memorial e il Vietnam Veterans Memorial...."
+                    "...La Casa Bianca, la Washington National Cathedral, il Jefferson Memorial, il Campidoglio degli Stati Uniti, il Lincoln Memorial e il Vietnam Veterans Memorial....",
+                    "*...Il Campidoglio, la sede del Tesoro e la Casa Bianca furono bruciati durante l'attacco....",
+                    "*...Tuttavia, il Campidoglio era ancora per la maggior parte in costruzione, e non è stato completato fino al 1868....",
+                    "...Questi lavori inclusero il Parco del Campidoglio e il centro commerciale, la costruzione di nuovi edifici federali e monumenti, la demolizione delle baraccopoli, e l'istituzione di un sistema di parchi in tutta la città....",
+                    "*...Gli assi che delimitano i quadranti si incrociano presso l'edificio del Campidoglio....",
+                    "*...Tutti i nomi delle strade includono l'abbreviazione del quadrante per indicare la loro posizione e i numeri civici sono assegnati in base al numero approssimativo di isolati dal Campidoglio....",
+                    "*...Nei pressi del Campidoglio si trova la Biblioteca del Congresso, la più grande biblioteca del mondo con una collezione di più di 147 milioni di libri, manoscritti e altri materiali....",
+                    "*...Il National Mall è un grande Parco situato nel centro di Washington tra il Lincoln Memorial e il Campidoglio....",
+                    "*...Il Palazzo della Corte Suprema degli Stati Uniti d'America è stato realizzato nel 1935, prima di allora la corte si riuniva in alcune stanze del Campidoglio....",
+                    "*...La National Gallery of Art, sul National Mall vicino al Campidoglio, presenta opere d'arte americana ed europea....",
+                    "*...La sede dei Marine vicino al Campidoglio ospita la United States Marine Band, fondata nel 1798 e che è la più antica del paese...."
                 ]
             }
         },
@@ -301,26 +261,6 @@
                 "type": "secondary",
                 "snippet": [
                     "*...La città di Washington è stata delimitata da Boundary Street a nord (rinominato Florida Avenue nel 1890), Rock Creek a ovest, e dal fiume Anacostia a est...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.052953,
-                    38.891473
-                ]
-            },
-            "properties": {
-                "entity": "Rock Creek",
-                "name_location": "Rock Creek and Potomac Parkway Northwest, Washington, District of Columbia, 20522, Stati Uniti d'America",
-                "class": "highway",
-                "type": "primary",
-                "snippet": [
-                    "*...La città di Washington è stata delimitata da Boundary Street a nord (rinominato Florida Avenue nel 1890), Rock Creek a ovest, e dal fiume Anacostia a est....",
-                    "...Il William H.G. FitzGerald Tennis Center a Rock Creek Park ospita il Legg Mason Tennis Classic...."
                 ]
             }
         },
@@ -388,15 +328,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.058178,
-                    38.917653
+                    -77.030108,
+                    38.90498
                 ]
             },
             "properties": {
                 "entity": "Massachusetts Avenue",
-                "name_location": "Charles C. Glover Memorial Bridge (Massachusetts Avenue Bridge), Rock Creek and Potomac Parkway NW, Kalorama Heights, Washington, District of Columbia, 20008, Stati Uniti d'America",
-                "class": "man_made",
-                "type": "bridge",
+                "name_location": "Massachusetts Avenue Northwest, Washington, District of Columbia, 20005, Stati Uniti d'America",
+                "class": "highway",
+                "type": "primary",
                 "snippet": [
                     "*...Washington ospita 297 ambasciate straniere e edifici correlati, molte delle quali si collocano su un tratto di Massachusetts Avenue informalmente noto come Embassy Row...."
                 ]
@@ -722,7 +662,7 @@
             },
             "properties": {
                 "entity": "National Zoo",
-                "name_location": "National Zoological Park, 3001, Connecticut Avenue Northwest, Washington, District of Columbia, 20015, Stati Uniti d'America",
+                "name_location": "National Zoological Park, 3001, Connecticut Avenue Northwest, Northwest, Cleveland Park, Washington, District of Columbia, 20015, Stati Uniti d'America",
                 "class": "tourism",
                 "type": "zoo",
                 "snippet": [
@@ -741,7 +681,7 @@
             },
             "properties": {
                 "entity": "Woodley Park",
-                "name_location": "Woodley Park, Connecticut Avenue Northwest, Washington, District of Columbia, 20015, Stati Uniti d'America",
+                "name_location": "Woodley Park, Connecticut Avenue Northwest, Woodley Park, Washington, District of Columbia, 20015, Stati Uniti d'America",
                 "class": "railway",
                 "type": "station",
                 "snippet": [
@@ -916,11 +856,12 @@
             },
             "properties": {
                 "entity": "Rock Creek Park",
-                "name_location": "Park Headquarters - Rock Creek Park, Williamsburg Lane NW, Northwest, Washington, District of Columbia, 20008, Stati Uniti d'America",
+                "name_location": "Park Headquarters - Rock Creek Park, 3545, Williamsburg Lane NW, Northwest, Washington, District of Columbia, 20008, Stati Uniti d'America",
                 "class": "office",
                 "type": "forestry",
                 "snippet": [
-                    "*...Il William H.G. FitzGerald Tennis Center a Rock Creek Park ospita il Legg Mason Tennis Classic...."
+                    "*...Il William H.G. FitzGerald Tennis Center a Rock Creek Park ospita il Legg Mason Tennis Classic....",
+                    "*...La città di Washington è stata delimitata da Boundary Street a nord (rinominato Florida Avenue nel 1890), Rock Creek a ovest, e dal fiume Anacostia a est...."
                 ]
             }
         },

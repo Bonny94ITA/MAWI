@@ -199,26 +199,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -2.245915,
-                    53.479715
-                ]
-            },
-            "properties": {
-                "entity": "Haçienda",
-                "name_location": "Bridgfords, The Hacienda, 21, Albion Street, Petersfield, City Centre, Manchester, Grande Manchester, Inghilterra, M1 5DA, Regno Unito",
-                "class": "office",
-                "type": "estate_agent",
-                "snippet": [
-                    "...Questi ultimi gruppi furono raggruppati dai media nella dicitura \"scena Madchester\", incentrata sul noto locale notturno The Haçienda, fondato da Tony Wilson dell'etichetta Factory Records....",
-                    "...Molto famoso a cavallo degli anni ottanta e primi anni novanta, fu il club locale The Haçienda, dove si sono esibiti alcuni tra i più importanti artisti inglesi e internazionali del tempo (uno su tutti, i Joy Division, gruppo originario di Salford, comune a pochi km...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -2.247823,
                     53.474319
                 ]
@@ -320,52 +300,12 @@
                 ]
             },
             "properties": {
-                "entity": "Motorway M60",
-                "name_location": "Manchester - Preston Motorway, Horwich, Blackrod, Bolton, Grande Manchester, Inghilterra, BL6 5GU, Regno Unito",
-                "class": "highway",
-                "type": "motorway",
-                "snippet": [
-                    "...L'autostrada più importante per la città è la Motorway M60 che è la tangenziale di Manchester...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.569831,
-                    53.595501
-                ]
-            },
-            "properties": {
                 "entity": "Motorway M56",
                 "name_location": "Manchester - Preston Motorway, Horwich, Blackrod, Bolton, Grande Manchester, Inghilterra, BL6 5GU, Regno Unito",
                 "class": "highway",
                 "type": "motorway",
                 "snippet": [
                     "*...Motorway M56: collega a Chester e alla Motorway M6 direzione sud ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.65055,
-                    53.486657
-                ]
-            },
-            "properties": {
-                "entity": "Motorway M6",
-                "name_location": "Liverpool Road/M6 Motorway, Liverpool Road, Ashton-in-Makerfield, Wigan, Grande Manchester, Inghilterra, WN4 9LT, Regno Unito",
-                "class": "highway",
-                "type": "bus_stop",
-                "snippet": [
-                    "*...Motorway M56: collega a Chester e alla Motorway M6 direzione sud ;...",
-                    "*...Motorway M61: collega a Preston e alla Motorway M6 direzione nord ;...",
-                    "*...Motorway M62: collega a Liverpool e Leeds e alla Motorway M6 ;..."
                 ]
             }
         },
@@ -403,7 +343,8 @@
                 "class": "highway",
                 "type": "motorway",
                 "snippet": [
-                    "*...Motorway M62: collega a Liverpool e Leeds e alla Motorway M6 ;..."
+                    "*...Motorway M62: collega a Liverpool e Leeds e alla Motorway M6 ;...",
+                    "*...Motorway M602: collega il centro di Manchester alla tangenziale M60 e la M62 ;..."
                 ]
             }
         },
@@ -442,46 +383,6 @@
                 "type": "motorway",
                 "snippet": [
                     "*...Motorway M67: collega a Hyde e il Peak District ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.192484,
-                    53.531153
-                ]
-            },
-            "properties": {
-                "entity": "M60",
-                "name_location": "M60, Charlestown, Manchester, Grande Manchester, Inghilterra, M24 1NS, Regno Unito",
-                "class": "highway",
-                "type": "motorway",
-                "snippet": [
-                    "...L'autostrada più importante per la città è la Motorway M60 che è la tangenziale di Manchester....",
-                    "*...Motorway M602: collega il centro di Manchester alla tangenziale M60 e la M62 ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.324728,
-                    53.439205
-                ]
-            },
-            "properties": {
-                "entity": "M62",
-                "name_location": "M60, Ashton upon Mersey, Stretford, Trafford, Grande Manchester, Inghilterra, M32 8AL, Regno Unito",
-                "class": "highway",
-                "type": "motorway",
-                "snippet": [
-                    "...Motorway M62: collega a Liverpool e Leeds e alla Motorway M6 ;...",
-                    "*...Motorway M602: collega il centro di Manchester alla tangenziale M60 e la M62 ;..."
                 ]
             }
         },

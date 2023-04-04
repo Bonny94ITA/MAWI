@@ -6,13 +6,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -79.38404,
-                    43.656016
+                    -79.382439,
+                    43.64884
                 ]
             },
             "properties": {
                 "entity": "PATH",
-                "name_location": "PATH, Discovery District, University—Rosedale, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5G 1M6, Canada",
+                "name_location": "PATH, Financial District, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5X 1C7, Canada",
                 "class": "highway",
                 "type": "footway",
                 "snippet": [
@@ -160,13 +160,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -79.379248,
-                    43.64555
+                    -79.380958,
+                    43.64541
                 ]
             },
             "properties": {
                 "entity": "the Ward",
-                "name_location": "The Moat, South Core, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5J 2L5, Canada",
+                "name_location": "The Moat, South Core, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5J 1E3, Canada",
                 "class": "highway",
                 "type": "footway",
                 "snippet": [
@@ -179,39 +179,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -79.381276,
-                    43.65111
+                    -79.382823,
+                    43.65347
                 ]
             },
             "properties": {
                 "entity": "Bay Street",
-                "name_location": "Bay Street, Little Tokyo, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5H 2W9, Canada",
+                "name_location": "Bay Street, Little Tokyo, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5H 2N2, Canada",
                 "class": "highway",
                 "type": "secondary",
                 "snippet": [
                     "*...Come gli irlandesi prima di loro, molti furono costretti a vivere in abitazioni modeste sovraffollate, nel \"the Ward\", posto vicino a Bay Street, ora il cuore finanziario del Paese...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.414323,
-                    43.639273
-                ]
-            },
-            "properties": {
-                "entity": "Europa",
-                "name_location": "Ciao Europa, 80, Western Battery Road, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6K 3R9, Canada",
-                "class": "amenity",
-                "type": "restaurant",
-                "snippet": [
-                    "...La città ricevette un nuovo flusso di immigrazione sul finire del XIX secolo e l'inizio del XX, in particolare tedeschi, italiani e ebrei provenienti da varie parti dell'Europa occidentale....",
-                    "...Furono presto seguiti da cinesi, russi, polacchi e immigrati di altre nazioni dell'Europa orientale....",
-                    "*...In seguito alla seconda guerra mondiale si assistette a un nuovo flusso migratorio proveniente da Europa e Cina....",
-                    "*...Il Royal Ontario Museum (chiamato ROM) è un Museo recentemente ampliato dall'architetto Daniel Libeskind composto da due sezioni principali: quelle di Storia Naturale e quella delle Culture del Mondo, dove sono conservate collezioni provenienti dall'Africa, dall'Asia e dall'Europa. L'opera di ampliamento consiste prevalentemente nell'aggiunta del nuovo padiglione chiamato \"Michael Lee-Chin Crystal\" oltre alla ristrutturazione degli ambienti preesistenti...."
                 ]
             }
         },
@@ -234,35 +212,6 @@
                     "...La CN Tower fu costruita tra il 1973 e il 1976 per ordine della più importante compagnia televisiva canadese, la CBC, che necessitava di una nuova torre per le trasmissioni....",
                     "*...Per questo motivo è nota al mondo con il nome di CN Tower....",
                     "*...Esso è posto non lontano dalle sponde del lago Ontario, ai piedi della mastodontica CN Tower...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.377936,
-                    43.650823
-                ]
-            },
-            "properties": {
-                "entity": "Ontario",
-                "name_location": "Ontario Heritage Centre, 10, Adelaide Street East, King East, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5C 2T6, Canada",
-                "class": "historic",
-                "type": "building",
-                "snippet": [
-                    "*...Oppure , ) è una città dell'estremo Sud-Est del Canada, capoluogo della provincia dell'Ontario e centro più popoloso del Canada con i suoi 2 794 356 abitanti (6 202 225 nell'area metropolitana)....",
-                    "...La metropoli si affaccia per circa  sul Lago Ontario e copre un'area di , arrivando a una distanza tra confine nord e confine sud di  e tra est e ovest di ....",
-                    "...Durante la guerra d'indipendenza americana, la regione vide l'afflusso di coloni britannici lealisti fuggiti nelle terre a nord del Lago Ontario....",
-                    "*...Come lo fu per l'Alto Canada nel 1793 Toronto divenne la capitale della provincia dell'Ontario (dopo la sua creazione) nel 1867 ed è rimasta tale da allora....",
-                    "*...L'imponente edificio di forma slanciata verso il cielo ha diverse piattaforme panoramiche per l'osservazione della città e del lago Ontario raggruppate in due settori \"abitabili\" dell'edificio....",
-                    "*...Esso è posto non lontano dalle sponde del lago Ontario, ai piedi della mastodontica CN Tower....",
-                    "...Il Royal Ontario Museum (chiamato ROM) è un Museo recentemente ampliato dall'architetto Daniel Libeskind composto da due sezioni principali: quelle di Storia Naturale e quella delle Culture del Mondo, dove sono conservate collezioni provenienti dall'Africa, dall'Asia e dall'Europa. L'opera di ampliamento consiste prevalentemente nell'aggiunta del nuovo padiglione chiamato \"Michael Lee-Chin Crystal\" oltre alla ristrutturazione degli ambienti preesistenti....",
-                    "...L'Ontario Science Museum....",
-                    "...L'Art Gallery of Ontario (chiamata AGO) è una galleria d'arte recentemente ristrutturata e ampliata dall'architetto nato a Toronto Frank Gehry che raccoglie tra le numerosissime opere, la più vasta collezione di sculture di Henry Moore al mondo. Uno degli elementi più caratteristici del recente ampliamento è la grande Galleria Italia che si affaccia per tutta la sua lunghezza su Dundas Street e ospita collezioni di artisti italiani. Si possono apprezzare inoltre, sia all'interno che all'esterno dell'edificio, le due ardite scale elicoidali che salgono sospese nel vuoto per raggiungere i vari livelli della nuova torre espositiva rivestita di zinco-titanio blu....",
-                    "...L'Ontario College of Art & Design, il cui ultimo ampliamento fu progettato dall'architetto Will Alsop della Alsop Architects in collaborazione con Robbie/Young + Wright Architects....",
-                    "...TFO (abbreviazione di Télé-Française d'Ontario) fu lanciata nel 1987 come La Chaîne Française, e fu rinominata \"TFO\" nel 1994. È una televisione pubblica della Provincia dell'Ontario che trasmette programmi educativi...."
                 ]
             }
         },
@@ -392,7 +341,7 @@
             },
             "properties": {
                 "entity": "Brookfield Place",
-                "name_location": "Brookfield Place, Wellington Street West, Financial District, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5L 1A0, Canada",
+                "name_location": "Brookfield Place, PATH, Financial District, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5J 2T3, Canada",
                 "class": "building",
                 "type": "office",
                 "snippet": [
@@ -468,7 +417,7 @@
             },
             "properties": {
                 "entity": "Toronto Eaton Centre",
-                "name_location": "CF Toronto Eaton Centre Shipping / Receiving, Bay Street, Little Tokyo, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5H 2N2, Canada",
+                "name_location": "CF Toronto Eaton Centre Shipping / Receiving, 483, Bay Street, Little Tokyo, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5H 2N2, Canada",
                 "class": "amenity",
                 "type": "loading_dock",
                 "snippet": [
@@ -521,26 +470,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -79.387251,
-                    43.653347
-                ]
-            },
-            "properties": {
-                "entity": "Asia",
-                "name_location": "Asia Pacific Foundation of Canada, 375, University Avenue, Queen West, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5G 2J5, Canada",
-                "class": "office",
-                "type": "foundation",
-                "snippet": [
-                    "*...Il Royal Ontario Museum (chiamato ROM) è un Museo recentemente ampliato dall'architetto Daniel Libeskind composto da due sezioni principali: quelle di Storia Naturale e quella delle Culture del Mondo, dove sono conservate collezioni provenienti dall'Africa, dall'Asia e dall'Europa. L'opera di ampliamento consiste prevalentemente nell'aggiunta del nuovo padiglione chiamato \"Michael Lee-Chin Crystal\" oltre alla ristrutturazione degli ambienti preesistenti....",
-                    "...Omni Television appartiene al gruppo \"Rogers Communications\" e iniziò a trasmettere nel 1979. Trasmette in italiano, portoghese, cantonese, cinese, inglese (per l'edizione del Sud dell'Asia), punjabi, coreano, tagalog...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -79.39505,
                     43.668185
                 ]
@@ -585,7 +514,7 @@
             },
             "properties": {
                 "entity": "Yonge Dundas Square",
-                "name_location": "Yonge-Dundas Square, Dundas Street East, Downtown Yonge, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5B 2G9, Canada",
+                "name_location": "Yonge-Dundas Square, Dundas Square, Downtown Yonge, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5B 1V8, Canada",
                 "class": "tourism",
                 "type": "attraction",
                 "snippet": [
