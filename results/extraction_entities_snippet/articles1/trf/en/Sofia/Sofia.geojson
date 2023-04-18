@@ -6,83 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    23.316268,
-                    42.658178
-                ]
-            },
-            "properties": {
-                "entity": "Vitosha",
-                "name_location": "Vitosha, bul. Cherni vrah, кв. Хладилника, Triadica, Sofia, Sofia City, Sofia-City, 1407, Bulgaria",
-                "class": "railway",
-                "type": "station",
-                "snippet": [
-                    "*...It is situated in the Sofia Valley at the foot of the Vitosha mountain in the western parts of the country....",
-                    "*...It is surrounded by mountainsides, such as Vitosha by the southern side, Lyulin by the western side, and the Balkan Mountains by the north, which makes it the third highest European capital after Andorra la Vella and Madrid....",
-                    "...The earliest works where this latest name is registered are the duplicate of the Gospel of Serdica, in a dialogue between two salesmen from Dubrovnik around 1359, in the 14th-century Vitosha Charter of Bulgarian tsar Ivan Shishman and in a Ragusan merchant's notes of 1376....",
-                    "...It is situated in western Bulgaria, at the northern foot of the Vitosha mountain, in the Sofia Valley that is surrounded by the Balkan mountains to the north....",
-                    "*...Three mountain passes lead to the city, which have been key roads since antiquity, Vitosha being the watershed between Black and Aegean Seas....",
-                    "...The Vitosha Nature Park (the oldest national park in the Balkans) includes most of Vitosha mountain and covers an area of 266 square kilometres (103 sq mi), with roughly half of it lying within the municipality of Sofia....",
-                    "...Vitosha mountain is a popular hiking destination due to its proximity and ease of access via car and public transport....",
-                    "...Vitosha Boulevard, also called Vitoshka, is a pedestrian zone with numerous cafés, restaurants, fashion boutiques, and luxury goods stores....",
-                    "...Sofia's geographic location, in the foothills of the weekend retreat Vitosha mountain, further adds to the city's specific atmosphere....",
-                    "...In July 2016 the Vitosha Metro Station was opened on the M2 main line...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.325778,
-                    42.699483
-                ]
-            },
-            "properties": {
-                "entity": "Iskar",
-                "name_location": "Iskar, Oborishte, Sofia, Sofia City, Sofia-City, 1377, Bulgaria",
-                "class": "highway",
-                "type": "residential",
-                "snippet": [
-                    "*...The city is built west of the Iskar river, and has many mineral springs, such as the Sofia Central Mineral Baths....",
-                    "...The Iskar River in its upper course flows near eastern Sofia....",
-                    "*...The Iskar flows north toward the Balkan Mountains, passing between the eastern city suburbs, next to the main building and below the runways of Sofia Airport, and flows out of the Sofia Valley at the town of Novi Iskar, where the scenic Iskar Gorge begins...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.359438,
-                    42.748092
-                ]
-            },
-            "properties": {
-                "entity": "Europe",
-                "name_location": "Europe Motorway, Serdika, Kremikovci, Sofia City, Sofia-City, 1278, Bulgaria",
-                "class": "highway",
-                "type": "motorway",
-                "snippet": [
-                    "*...From 1530 to 1836, Sofia was the regional capital of Rumelia Eyalet, the Ottoman Empire's key province in Europe....",
-                    "*...It was Europe's most affordable capital to visit in 2013....",
-                    "...With its cultural significance in Southeast Europe, Sofia is home to the National Opera and Ballet of Bulgaria, the National Palace of Culture, the Vasil Levski National Stadium, the Ivan Vazov National Theatre, the National Archaeological Museum, and the Serdica Amphitheatre....",
-                    "*...Sofia is the second highest capital of the European Union (after Madrid) and the third highest capital of Europe (after Andorra la Vella and Madrid)....",
-                    "*...As a result, air pollution levels in Sofia are some of the highest in Europe....",
-                    "*...It became the capital of the beylerbeylik of Rumelia (Rumelia Eyalet), the province that administered the Ottoman lands in Europe (the Balkans), one of the two together with the beylerbeylik of Anatolia....",
-                    "...The decision was announced in November 2014 by the Evaluation Committee of ACES Europe, on the grounds that \"the city is a good example of sport for all, as means to improve healthy lifestyle, integration and education, which are the basis of the initiative.\"...",
-                    "...In 2015, Sofia was ranked 30th out of 300 global cities in terms of combined growth in employment and real gross domestic product (GDP) per capita, the highest one amongst cities in Southeast Europe....",
-                    "...The city's GDP (PPS) per capita stood at €29,600 ($33,760) in 2015, one of the highest in Southeast Europe and well above other cities in the country....",
-                    "*...Sofia is a regional IT hub, ranking second among the Top 10 fastest growing tech centers in Europe in terms of annual growth of active members...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     23.266195,
                     42.644624
                 ]
@@ -109,31 +32,11 @@
             },
             "properties": {
                 "entity": "Serdica Amphitheatre",
-                "name_location": "Amphitheatre of Serdica, 2-4, Budapest, Oborishte, Sofia, Sofia City, Sofia-City, 1000, Bulgaria",
+                "name_location": "Amphitheatre of Serdica, Budapest, Oborishte, Sofia, Sofia City, Sofia-City, 1000, Bulgaria",
                 "class": "tourism",
                 "type": "attraction",
                 "snippet": [
                     "...With its cultural significance in Southeast Europe, Sofia is home to the National Opera and Ballet of Bulgaria, the National Palace of Culture, the Vasil Levski National Stadium, the Ivan Vazov National Theatre, the National Archaeological Museum, and the Serdica Amphitheatre...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.317269,
-                    42.697545
-                ]
-            },
-            "properties": {
-                "entity": "Black",
-                "name_location": "The Black Lodge, 34, bul. Aleksandar Stamboliyski, Zona B-5-3, Vazrajdane, Sofia, Sofia City, Sofia-City, 1301, Bulgaria",
-                "class": "amenity",
-                "type": "bar",
-                "snippet": [
-                    "...Being in the centre of the Balkans, it is midway between the Black Sea and the Adriatic Sea, and closest to the Aegean Sea....",
-                    "*...Three mountain passes lead to the city, which have been key roads since antiquity, Vitosha being the watershed between Black and Aegean Seas...."
                 ]
             }
         },
@@ -202,27 +105,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    23.321404,
-                    42.697961
-                ]
-            },
-            "properties": {
-                "entity": "Saint Sofia",
-                "name_location": "Saint Sophia, bul. Todor Aleksandrov, Zona B-5-3, Vazrajdane, Sofia, Sofia City, Sofia-City, 1000, Bulgaria",
-                "class": "tourism",
-                "type": "artwork",
-                "snippet": [
-                    "...The name Sofia comes from the Saint Sofia Church, as opposed to the prevailing Slavic origin of Bulgarian cities and towns....",
-                    "...During the initial stages of the Crusade of Varna in 1443, it was occupied by Hungarian forces for a short time in 1443, and the Bulgarian population celebrated a mass Saint Sofia Church....",
-                    "*...Most prominent churches such as Saint Sofia and Saint George were converted into mosques, and a number of new ones were constructed, including Banya Bashi Mosque built by the renowned Ottoman architect Mimar Sinan...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     23.322888,
                     42.696909
                 ]
@@ -262,16 +144,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    23.322257,
-                    42.69809
+                    23.328222,
+                    42.697473
                 ]
             },
             "properties": {
-                "entity": "Serdica",
-                "name_location": "Ancient Serdica, Nezavisimost Sq., Oborishte, Sofia, Sofia City, Sofia-City, 1000, Bulgaria",
-                "class": "railway",
-                "type": "subway_entrance",
+                "entity": "Amphitheatre of Serdica",
+                "name_location": "Amphitheatre of Serdica, Budapest, Oborishte, Sofia, Sofia City, Sofia-City, 1000, Bulgaria",
+                "class": "tourism",
+                "type": "attraction",
                 "snippet": [
+                    "*...These include the 4th century Rotunda of St. George, the walls of the Serdica fortress and the partially preserved Amphitheatre of Serdica....",
+                    "...The city center contains many remains of ancient Serdica that have been excavated and are on public display, including Complex Ancient Serdica, eastern gate,  western gate, city walls, thermal baths, 4th c. church of St. George Rotunda, amphitheatre of Serdica, the tombs and basilicas under the basilica of St. Sophia....",
                     "*...Known as Serdica in Antiquity and Sredets in the Middle Ages, Sofia has been an area of human habitation since at least 7000 BC....",
                     "*...The recorded history of the city begins with the attestation of the conquest of Serdica by the Roman Republic in 29 BC from the Celtic tribe Serdi....",
                     "*...In 809, Serdica was incorporated into the Bulgarian Empire by Khan Krum and became known as Sredets....",
@@ -291,29 +175,8 @@
                     "*...For Constantine the Great it was 'Sardica mea Roma est' (Serdica is my Rome)....",
                     "*...He considered making Serdica the capital of the Byzantine Empire instead of Constantinople. which was already not dissimilar to a tetrarchic capital of the Roman Empire....",
                     "*...Serdica became part of the First Bulgarian Empire during the reign of Khan Krum in 809, after a long siege....",
-                    "*...These include the 4th century Rotunda of St. George, the walls of the Serdica fortress and the partially preserved Amphitheatre of Serdica....",
                     "*...The city center contains many remains of ancient Serdica that have been excavated and are on public display, including Complex Ancient Serdica, eastern gate,  western gate, city walls, thermal baths, 4th c. church of St. George Rotunda, amphitheatre of Serdica, the tombs and basilicas under the basilica of St. Sophia....",
                     "...Serdica Peak on Livingston Island in the South Shetland Islands, Antarctica is named after Serdica...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.328222,
-                    42.697473
-                ]
-            },
-            "properties": {
-                "entity": "Amphitheatre of Serdica",
-                "name_location": "Amphitheatre of Serdica, 2-4, Budapest, Oborishte, Sofia, Sofia City, Sofia-City, 1000, Bulgaria",
-                "class": "tourism",
-                "type": "attraction",
-                "snippet": [
-                    "*...These include the 4th century Rotunda of St. George, the walls of the Serdica fortress and the partially preserved Amphitheatre of Serdica....",
-                    "...The city center contains many remains of ancient Serdica that have been excavated and are on public display, including Complex Ancient Serdica, eastern gate,  western gate, city walls, thermal baths, 4th c. church of St. George Rotunda, amphitheatre of Serdica, the tombs and basilicas under the basilica of St. Sophia...."
                 ]
             }
         },
@@ -328,7 +191,7 @@
             },
             "properties": {
                 "entity": "Largo",
-                "name_location": "Ларгото, Oborishte, Sofia, Sofia City, Sofia-City, Bulgaria",
+                "name_location": "Ларгото, Oborishte, Sofia, Sofia City, Sofia-City, 1000, Bulgaria",
                 "class": "highway",
                 "type": "pedestrian",
                 "snippet": [
@@ -463,11 +326,20 @@
             },
             "properties": {
                 "entity": "Vitosha Boulevard",
-                "name_location": "Vitosha Boulevard, Alabin, Triadica, Sofia, Sofia City, Sofia-City, 1301, Bulgaria",
+                "name_location": "Vitosha Boulevard, Alabin, Triadica, Sofia, Sofia City, Sofia-City, 1000, Bulgaria",
                 "class": "railway",
                 "type": "tram_stop",
                 "snippet": [
-                    "*...Vitosha Boulevard, also called Vitoshka, is a pedestrian zone with numerous cafés, restaurants, fashion boutiques, and luxury goods stores...."
+                    "*...Vitosha Boulevard, also called Vitoshka, is a pedestrian zone with numerous cafés, restaurants, fashion boutiques, and luxury goods stores....",
+                    "*...It is situated in the Sofia Valley at the foot of the Vitosha mountain in the western parts of the country....",
+                    "*...It is surrounded by mountainsides, such as Vitosha by the southern side, Lyulin by the western side, and the Balkan Mountains by the north, which makes it the third highest European capital after Andorra la Vella and Madrid....",
+                    "...The earliest works where this latest name is registered are the duplicate of the Gospel of Serdica, in a dialogue between two salesmen from Dubrovnik around 1359, in the 14th-century Vitosha Charter of Bulgarian tsar Ivan Shishman and in a Ragusan merchant's notes of 1376....",
+                    "...It is situated in western Bulgaria, at the northern foot of the Vitosha mountain, in the Sofia Valley that is surrounded by the Balkan mountains to the north....",
+                    "*...Three mountain passes lead to the city, which have been key roads since antiquity, Vitosha being the watershed between Black and Aegean Seas....",
+                    "...The Vitosha Nature Park (the oldest national park in the Balkans) includes most of Vitosha mountain and covers an area of 266 square kilometres (103 sq mi), with roughly half of it lying within the municipality of Sofia....",
+                    "...Vitosha mountain is a popular hiking destination due to its proximity and ease of access via car and public transport....",
+                    "...Sofia's geographic location, in the foothills of the weekend retreat Vitosha mountain, further adds to the city's specific atmosphere....",
+                    "...In July 2016 the Vitosha Metro Station was opened on the M2 main line...."
                 ]
             }
         },
@@ -578,31 +450,11 @@
             },
             "properties": {
                 "entity": "St George",
-                "name_location": "St. George, 64, Knyaz Boris Ⅰ, Triadica, Sofia, Sofia City, Sofia-City, 1463, Bulgaria",
+                "name_location": "St. George, 64, Knyaz Boris Ⅰ, Triadica, Sofia, Sofia City, Sofia-City, 1000, Bulgaria",
                 "class": "tourism",
                 "type": "hotel",
                 "snippet": [
                     "*...There are two golf courses just to the east of Sofia — in Elin Pelin (St Sofia club) and in Ihtiman (Air Sofia club), and a horseriding club (St George club)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.395813,
-                    42.646504
-                ]
-            },
-            "properties": {
-                "entity": "Capital Fort",
-                "name_location": "Capital Fort Business Center, 90, Tsarigradsko Shose blvd., 7-ми 11-ти километър, Mladost, Sofia, Sofia City, Sofia-City, 1784, Bulgaria",
-                "class": "building",
-                "type": "yes",
-                "snippet": [
-                    "...The 126-metre (413 ft) Capital Fort Business Centre is the first skyscraper in Bulgaria, with its 36 floors....",
-                    "*...Several office and tech clusters have been established across the city, including Business Park Sofia, Sofia Tech Park, Capital Fort and others...."
                 ]
             }
         },

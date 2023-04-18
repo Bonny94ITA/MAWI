@@ -6,39 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.572707,
-                    45.500957
-                ]
-            },
-            "properties": {
-                "entity": "Mount Royal",
-                "name_location": "Place Mount-Royal, Ville-Marie, René-Lévesque, Ville-Marie, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H3A 1P2, Canada",
-                "class": "highway",
-                "type": "unclassified",
-                "snippet": [
-                    "*...Founded in 1642 as Ville-Marie, or \"City of Mary\", it is named after Mount Royal, the triple-peaked hill around which the early city of Ville-Marie is built....",
-                    "*...The current form of the name, Montréal, is generally thought to be derived from Mount Royal (Mont Royal in French), the triple-peaked hill in the heart of the city....",
-                    "*...Venetian geographer Giovanni Battista Ramusio used the name Monte Real to designate Mount Royal in his 1556 map of the region....",
-                    "*...The Saint Lawrence Iroquoians, an ethnically and culturally distinct group from the Iroquois nations of the Haudenosaunee (then based in present-day New York), established the village of Hochelaga at the foot of Mount Royal two centuries before the French arrived....",
-                    "*...The city is named after the most prominent geographical feature on the island, a three-head hill called Mount Royal, topped at 232 m (761 ft) above sea level....",
-                    "...The anglophone enclaves of Westmount, Montreal West, Hampstead, Côte Saint-Luc, the Town of Mount Royal and the francophone enclave Montreal East are all surrounded by Montreal....",
-                    "...The boroughs are:\nCôte-des-Neiges–Notre-Dame-de-Grace, The Plateau Mount Royal, Outremont and Ville Marie in the centre; Mercier–Hochelaga-Maisonneuve, Rosemont–La Petite-Patrie and Villeray–Saint-Michel–Parc-Extension in the east; Anjou, Montréal-Nord, Rivière-des-Prairies–Pointe-aux-Trembles and Saint-Leonard in the northeast; Ahuntsic-Cartierville, L'Île-Bizard–Sainte-Geneviève, Pierrefonds-Roxboro and Saint-Laurent in the northwest; and Lachine, LaSalle, The South West and Verdun in the south.[citation needed]...",
-                    "*...Other neighbourhoods of interest in the borough include the affluent Golden Square Mile neighbourhood at the foot of Mount Royal and the Shaughnessy Village/Concordia U area home to thousands of students at Concordia University....",
-                    "...The borough also comprises most of Mount Royal Park, Saint Helen's Island, and Notre-Dame Island.[citation needed]...",
-                    "...The Plateau Mount Royal borough was a working class francophone area....",
-                    "...The mountain is the site of Mount Royal Park, one of Montreal's largest greenspaces....",
-                    "*...The mountain is home to two major cemeteries, Notre-Dame-des-Neiges (founded in 1854) and Mount Royal (1852)....",
-                    "*...Mount Royal Cemetery is a 165 acres (67 ha) terraced cemetery on the north slope of Mount Royal in the borough of Outremont....",
-                    "...Mount Royal Cemetery contains more than 162,000 graves and is the final resting place for a number of notable Canadians....",
-                    "...In 1901, the Mount Royal Cemetery Company established the first crematorium in Canada...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -73.86929,
                     45.519475
                 ]
@@ -79,98 +46,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.728793,
-                    45.485161
-                ]
-            },
-            "properties": {
-                "entity": "Montréal",
-                "name_location": "A-40;Ottawa-Gatineau;Montréal;Québec, Autoroute Chomedey, Bois-Francs, Saint-Laurent, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H4S 1Z1, Canada",
-                "class": "highway",
-                "type": "motorway_junction",
-                "snippet": [
-                    "*...Montreal ( MUN-tree-AWL; French: Montréal  ) is the second most populous city in Canada and the most populous city in the province of Quebec....",
-                    "...The city hosts the Canadian Grand Prix of Formula One; the Montreal International Jazz Festival, the largest jazz festival in the world; the Just for Laughs festival, the largest comedy festival in the world; and Les Francos de Montréal, the largest French-language music festival in the world....",
-                    "*...The current form of the name, Montréal, is generally thought to be derived from Mount Royal (Mont Royal in French), the triple-peaked hill in the heart of the city....",
-                    "*...There are multiple explanations for how Mont Royal became Montréal....",
-                    "*...In 16th century French, the forms réal and royal were used interchangeably, so Montréal could simply be a variant of Mont Royal....",
-                    "...Historiographer François de Belleforest was the first to use the form Montréal with reference to the entire region in 1575....",
-                    "...The construction of new residential skyscrapers, two super-hospitals (the Centre hospitalier de l'Université de Montréal and McGill University Health Centre), the creation of the Quartier des Spectacles, reconstruction of the Turcot Interchange, reconfiguration of the Decarie and Dorval interchanges, construction of the new Réseau électrique métropolitain, gentrification of Griffintown, subway line extensions and the purchase of new subway cars, the complete revitalization and expansion of Trudeau International Airport, the completion of Quebec Autoroute 30, the reconstruction of the Champlain Bridge and the construction of a new toll bridge to Laval are helping Montreal continue to grow.[citation needed]...",
-                    "...Saint Joseph's Oratory, completed in 1967, Ernest Cormier's Art Deco Université de Montréal main building, the landmark Place Ville Marie office tower, the controversial Olympic Stadium and surrounding structures, are but a few notable examples of the city's 20th-century architecture....",
-                    "...The boroughs are:\nCôte-des-Neiges–Notre-Dame-de-Grace, The Plateau Mount Royal, Outremont and Ville Marie in the centre; Mercier–Hochelaga-Maisonneuve, Rosemont–La Petite-Patrie and Villeray–Saint-Michel–Parc-Extension in the east; Anjou, Montréal-Nord, Rivière-des-Prairies–Pointe-aux-Trembles and Saint-Leonard in the northeast; Ahuntsic-Cartierville, L'Île-Bizard–Sainte-Geneviève, Pierrefonds-Roxboro and Saint-Laurent in the northwest; and Lachine, LaSalle, The South West and Verdun in the south.[citation needed]...",
-                    "...Other notable neighbourhoods include the multicultural areas of Notre-Dame-de-Grâce and Côte-des-Neiges in the Côte-des-Neiges–Notre-Dame-de-Grace borough, and Little Italy in the borough of Rosemont–La Petite-Patrie and Hochelaga-Maisonneuve, home of the Olympic Stadium in the borough of Mercier–Hochelaga-Maisonneuve.[citation needed]\nOld Montreal is a historic area southeast of downtown containing many attractions such as the Old Port of Montreal, Place Jacques-Cartier, Montreal City Hall, the Bonsecours Market, Place d'Armes, Pointe-à-Callière Museum, the Notre-Dame de Montréal Basilica, and the Montreal Science Centre.[citation needed]\nArchitecture and cobbled streets in Old Montreal have been maintained or restored....",
-                    "*...In the 2021 Census of Population conducted by Statistics Canada, Montréal had a population of  living in  of its  total private dwellings, a change of 3.4% from its 2016 population of ....",
-                    "...Other popular events include the Just for Laughs (largest comedy festival in the world), Montreal World Film Festival, Les FrancoFolies de Montréal, Nuits d'Afrique [fr], Pop Montreal, Divers/Cité, Fierté Montréal and the Montreal Fireworks Festival, Igloofest, Piknic Electronik, Montréal en Lumiere, Osheaga, Heavy Montreal, Mode + Design, Montréal complètement cirque, MUTEK, Black and Blue, and many smaller festivals....",
-                    "...The Orchestre Métropolitain du Grand Montréal and the chamber orchestra I Musici de Montréal are two other well-regarded Montreal orchestras....",
-                    "...Also performing at Place des Arts are the Opéra de Montréal and the city's chief ballet company Les Grands Ballets Canadiens....",
-                    "...The McGill Redbirds, Concordia Stingers, and Université de Montréal Carabins play in the U Sports football league....",
-                    "...CF Montréal (formerly known as the Montreal Impact) are the city's professional soccer team....",
-                    "...The Circuit Gilles Villeneuve also hosted a round of the Champ Car World Series from 2002 to 2007, and was home to the NAPA Auto Parts 200, a NASCAR Nationwide Series race, and the Montréal 200, a Grand Am Rolex Sports Car Series race....",
-                    "...Montreal has three daily newspapers, the English-language Montreal Gazette and the French-language Le Journal de Montréal, and Le Devoir; another French-language daily, La Presse, became an online daily in 2018....",
-                    "...The city is only one component of the larger Montreal Metropolitan Community (Communauté Métropolitaine de Montréal, CMM), which is in charge of planning, coordinating, and financing economic development, public transportation, garbage collection and waste management, etc., across the metropolitan area....",
-                    "...Law enforcement on the island itself is provided by the Service de Police de la Ville de Montréal, or the SPVM for short....",
-                    "...French-language elementary and secondary public schools in Montreal are operated by the Centre de services scolaire de Montréal (CSDM), Centre de services scolaire Marguerite-Bourgeoys and the Centre de services scolaire de la Pointe-de-l'Île....",
-                    "...Université de Montréal (UdeM) is the second largest research university in Canada and ranked as one of the top universities in Canada. Two separate institutions are affiliated to the university: the École Polytechnique de Montréal (School of Engineering) and HEC Montréal (School of Business). HEC Montreal was founded in 1907 and is considered one of the best business schools in Canada....",
-                    "...Université du Québec à Montréal (UQAM) is the Montreal campus of Université du Québec. UQAM generally specializes in liberal-arts, although many programs related to the sciences are available....",
-                    "*...The Université du Québec network also has three separately run schools in Montréal, notably the École de technologie supérieure (ETS), the École nationale d'administration publique (ÉNAP) and the Institut national de la recherche scientifique (INRS)....",
-                    "...L'Institut de formation théologique de Montréal des Prêtres de Saint-Sulpice (IFTM) specializes in theology and philosophy....",
-                    "...Conservatoire de musique du Québec à Montréal offers both a Bachelor and a Master program in classical music....",
-                    "...The subway and bus system are operated by the Société de transport de Montréal (STM, Montreal Transit Society)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.554181,
-                    45.502631
-                ]
-            },
-            "properties": {
-                "entity": "Pointe-à-Callière",
-                "name_location": "Pointe-à-Callière, 350, Place Royale, Old Montreal, Ville-Marie, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H2Y 3Y5, Canada",
-                "class": "tourism",
-                "type": "museum",
-                "snippet": [
-                    "*...At the confluence of Petite Riviere and St. Lawrence River, it is where present-day Pointe-à-Callière stands....",
-                    "...Other notable neighbourhoods include the multicultural areas of Notre-Dame-de-Grâce and Côte-des-Neiges in the Côte-des-Neiges–Notre-Dame-de-Grace borough, and Little Italy in the borough of Rosemont–La Petite-Patrie and Hochelaga-Maisonneuve, home of the Olympic Stadium in the borough of Mercier–Hochelaga-Maisonneuve.[citation needed]\nOld Montreal is a historic area southeast of downtown containing many attractions such as the Old Port of Montreal, Place Jacques-Cartier, Montreal City Hall, the Bonsecours Market, Place d'Armes, Pointe-à-Callière Museum, the Notre-Dame de Montréal Basilica, and the Montreal Science Centre.[citation needed]\nArchitecture and cobbled streets in Old Montreal have been maintained or restored...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.568627,
-                    45.501603
-                ]
-            },
-            "properties": {
-                "entity": "Ville-Marie",
-                "name_location": "Place Ville-Marie, Place Monseigneur-Charbonneau, Ville-Marie, René-Lévesque, Ville-Marie, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H3B 2E3, Canada",
-                "class": "building",
-                "type": "office",
-                "snippet": [
-                    "*...Founded in 1642 as Ville-Marie, or \"City of Mary\", it is named after Mount Royal, the triple-peaked hill around which the early city of Ville-Marie is built....",
-                    "...Evidence of earlier occupation of the island, such as those uncovered in 1642 during the construction of Fort Ville-Marie, have effectively been removed....",
-                    "*...On May 17, 1642, Ville-Marie was founded on the southern shore of Montreal island, with Maisonneuve as its first governor....",
-                    "*...By 1643, Ville-Marie had come under Iroquois raids....",
-                    "*...By 1685, Ville-Marie was home to some 600 colonists, most of them living in modest wooden houses....",
-                    "*...Ville-Marie became a centre for the fur trade and a base for further exploration....",
-                    "*...To encourage French settlement, it wanted the Mohawk to move away from the fur trading post at Ville-Marie....",
-                    "*...Ville-Marie was the name for the settlement that appeared in all official documents until 1705, when Montreal appeared for the first time, although people referred to the \"Island of Montreal\" long before then....",
-                    "...The island of Montreal is a hub for the Quebec Autoroute system, and is served by Quebec Autoroutes A-10 (known as the Bonaventure Expressway on the island of Montreal), A-15 (aka the Decarie Expressway south of the A-40 and the Laurentian Autoroute to the north of it), A-13 (aka Chomedey Autoroute), A-20, A-25, A-40 (part of the Trans-Canada Highway system, and known as \"The Metropolitan\" or simply \"The Met\" in its elevated mid-town section), A-520 and R-136 (aka the Ville-Marie Autoroute)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -73.97428,
                     45.425858
                 ]
@@ -190,8 +65,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.561333,
-                    45.488597
+                    -73.561328,
+                    45.488592
                 ]
             },
             "properties": {
@@ -228,53 +103,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.584207,
-                    45.597744
-                ]
-            },
-            "properties": {
-                "entity": "North America",
-                "name_location": "Canada Metal North America, 8271, Rue Lafrenaie, Grande-Prairie, Saint-Léonard, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H1P 2B1, Canada",
-                "class": "office",
-                "type": "company",
-                "snippet": [
-                    "*...By 1860, it was the largest municipality in British North America and the undisputed economic and cultural centre of Canada....",
-                    "*...Historically Montreal has been a centre of Catholicism in North America with its numerous seminaries and churches, including the Notre-Dame Basilica, the Cathédrale Marie-Reine-du-Monde, and Saint Joseph's Oratory....",
-                    "*...In 2002, Montreal was the fourth-largest centre in North America in terms of aerospace jobs....",
-                    "...They joined North America's biggest soccer league, Major League Soccer, in 2012....",
-                    "*...The education system in Quebec is different from other systems in North America....",
-                    "*...With four universities, ten other degree-awarding institutions, and 12 CEGEPs in an 8 km (5.0 mi) radius, Montreal has the highest concentration of post-secondary students of all major cities in North America (4.38 students per 100 residents, followed by Boston at 4.37 students per 100 residents)....",
-                    "*...The STM won the award of Outstanding Public Transit System in North America by the APTA in 2010....",
-                    "*...Airlines servicing Trudeau offer year-round non-stop flights to five continents, namely Africa, Asia, Europe, North America and South America....",
-                    "*...It carried an average of 79,000 daily passengers in 2014, making it the seventh busiest in North America following New York, Chicago, Toronto, Boston, Philadelphia, and Mexico City...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.625668,
-                    45.432386
-                ]
-            },
-            "properties": {
-                "entity": "St. Lawrence",
-                "name_location": "Académie Saint Lawrence, 8340, Rue David-Boyer, Cecil-P.-Newman, LaSalle, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H8N 1P2, Canada",
-                "class": "amenity",
-                "type": "school",
-                "snippet": [
-                    "...At the confluence of Petite Riviere and St. Lawrence River, it is where present-day Pointe-à-Callière stands....",
-                    "...In the mid-1840s, the City of Montreal installed a water system that would pump water from the St. Lawrence and into cisterns...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -73.551646,
                     45.557798
                 ]
@@ -299,88 +127,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.509358,
-                    45.67408
-                ]
-            },
-            "properties": {
-                "entity": "Pointe-aux-Trembles",
-                "name_location": "Pointe-aux-Trembles, Rue Prince Arthur, Pointe-aux-Trembles, Rivière-des-Prairies–Pointe-aux-Trembles, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H1A 5J4, Canada",
-                "class": "railway",
-                "type": "stop",
-                "snippet": [
-                    "*...After Arnold withdrew from Quebec City to Pointe-aux-Trembles on November 19, Montgomery's forces left Montreal on December 1 and arrived there on December 3 to plot to attack Quebec City, with Montgomery leaving David Wooster in charge of the city....",
-                    "*...Montreal annexed 27 other cities, towns and villages beginning with Hochelaga in 1883, with the last prior to 2002 being Pointe-aux-Trembles in 1982....",
-                    "...The boroughs are:\nCôte-des-Neiges–Notre-Dame-de-Grace, The Plateau Mount Royal, Outremont and Ville Marie in the centre; Mercier–Hochelaga-Maisonneuve, Rosemont–La Petite-Patrie and Villeray–Saint-Michel–Parc-Extension in the east; Anjou, Montréal-Nord, Rivière-des-Prairies–Pointe-aux-Trembles and Saint-Leonard in the northeast; Ahuntsic-Cartierville, L'Île-Bizard–Sainte-Geneviève, Pierrefonds-Roxboro and Saint-Laurent in the northwest; and Lachine, LaSalle, The South West and Verdun in the south.[citation needed]..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.601338,
-                    45.470932
-                ]
-            },
-            "properties": {
-                "entity": "Decarie",
-                "name_location": "Boulevard Décarie, Upper Lachine, Côte-des-Neiges–Notre-Dame-de-Grâce, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H4A 0A9, Canada",
-                "class": "highway",
-                "type": "secondary",
-                "snippet": [
-                    "*...The construction of new residential skyscrapers, two super-hospitals (the Centre hospitalier de l'Université de Montréal and McGill University Health Centre), the creation of the Quartier des Spectacles, reconstruction of the Turcot Interchange, reconfiguration of the Decarie and Dorval interchanges, construction of the new Réseau électrique métropolitain, gentrification of Griffintown, subway line extensions and the purchase of new subway cars, the complete revitalization and expansion of Trudeau International Airport, the completion of Quebec Autoroute 30, the reconstruction of the Champlain Bridge and the construction of a new toll bridge to Laval are helping Montreal continue to grow.[citation needed]...",
-                    "...The island of Montreal is a hub for the Quebec Autoroute system, and is served by Quebec Autoroutes A-10 (known as the Bonaventure Expressway on the island of Montreal), A-15 (aka the Decarie Expressway south of the A-40 and the Laurentian Autoroute to the north of it), A-13 (aka Chomedey Autoroute), A-20, A-25, A-40 (part of the Trans-Canada Highway system, and known as \"The Metropolitan\" or simply \"The Met\" in its elevated mid-town section), A-520 and R-136 (aka the Ville-Marie Autoroute)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.739101,
-                    45.448869
-                ]
-            },
-            "properties": {
-                "entity": "Dorval",
-                "name_location": "Dorval, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H9P 1C5, Canada",
-                "class": "railway",
-                "type": "stop",
-                "snippet": [
-                    "*...The construction of new residential skyscrapers, two super-hospitals (the Centre hospitalier de l'Université de Montréal and McGill University Health Centre), the creation of the Quartier des Spectacles, reconstruction of the Turcot Interchange, reconfiguration of the Decarie and Dorval interchanges, construction of the new Réseau électrique métropolitain, gentrification of Griffintown, subway line extensions and the purchase of new subway cars, the complete revitalization and expansion of Trudeau International Airport, the completion of Quebec Autoroute 30, the reconstruction of the Champlain Bridge and the construction of a new toll bridge to Laval are helping Montreal continue to grow.[citation needed]...",
-                    "...The lowest temperature in Environment Canada's books was −37.8 °C (−36 °F) on January 15, 1957, and the highest temperature was 37.6 °C (99.7 °F) on August 1, 1975, both at Dorval International Airport.\nBefore modern weather record keeping (which dates back to 1871 for McGill), a minimum temperature almost 5 degrees lower was recorded at 7 a.m. on January 10, 1859, where it registered at −42 °C (−44 °F).\nAnnual precipitation is around 1,000 mm (39 in), including an average of about 210 cm (83 in) of snowfall, which occurs from November through March....",
-                    "...Pierre Elliott Trudeau International Airport (also known as Dorval Airport) in the City of Dorval serves all commercial passenger traffic and is the headquarters of Air Canada and Air Transat...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.742497,
-                    45.468729
-                ]
-            },
-            "properties": {
-                "entity": "Trudeau International Airport",
-                "name_location": "Montréal–Pierre Elliott Trudeau International Airport, Boulevard Hymus, Bois-Francs, Saint-Laurent, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H4S 2G1, Canada",
-                "class": "aeroway",
-                "type": "aerodrome",
-                "snippet": [
-                    "*...The construction of new residential skyscrapers, two super-hospitals (the Centre hospitalier de l'Université de Montréal and McGill University Health Centre), the creation of the Quartier des Spectacles, reconstruction of the Turcot Interchange, reconfiguration of the Decarie and Dorval interchanges, construction of the new Réseau électrique métropolitain, gentrification of Griffintown, subway line extensions and the purchase of new subway cars, the complete revitalization and expansion of Trudeau International Airport, the completion of Quebec Autoroute 30, the reconstruction of the Champlain Bridge and the construction of a new toll bridge to Laval are helping Montreal continue to grow.[citation needed]...",
-                    "...Pierre Elliott Trudeau International Airport (also known as Dorval Airport) in the City of Dorval serves all commercial passenger traffic and is the headquarters of Air Canada and Air Transat...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -73.53389,
                     45.466727
                 ]
@@ -392,30 +138,6 @@
                 "type": "cycleway",
                 "snippet": [
                     "...The construction of new residential skyscrapers, two super-hospitals (the Centre hospitalier de l'Université de Montréal and McGill University Health Centre), the creation of the Quartier des Spectacles, reconstruction of the Turcot Interchange, reconfiguration of the Decarie and Dorval interchanges, construction of the new Réseau électrique métropolitain, gentrification of Griffintown, subway line extensions and the purchase of new subway cars, the complete revitalization and expansion of Trudeau International Airport, the completion of Quebec Autoroute 30, the reconstruction of the Champlain Bridge and the construction of a new toll bridge to Laval are helping Montreal continue to grow.[citation needed]..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.625668,
-                    45.432386
-                ]
-            },
-            "properties": {
-                "entity": "Saint Lawrence",
-                "name_location": "Académie Saint Lawrence, 8340, Rue David-Boyer, Cecil-P.-Newman, LaSalle, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H8N 1P2, Canada",
-                "class": "amenity",
-                "type": "school",
-                "snippet": [
-                    "...The Saint Lawrence Iroquoians, an ethnically and culturally distinct group from the Iroquois nations of the Haudenosaunee (then based in present-day New York), established the village of Hochelaga at the foot of Mount Royal two centuries before the French arrived....",
-                    "...The Saint Lawrence Seaway opened in 1959, allowing vessels to bypass Montreal....",
-                    "*...The city covers most of the Island of Montreal at the confluence of the Saint Lawrence and Ottawa Rivers....",
-                    "...The port of Montreal lies at one end of the Saint Lawrence Seaway, the river gateway that stretches from the Great Lakes to the Atlantic....",
-                    "*...Montreal is defined by its location between the Saint Lawrence river to its south and the Rivière des Prairies to its north....",
-                    "...The width of the Saint Lawrence River has made the construction of fixed links to the south shore expensive and difficult...."
                 ]
             }
         },
@@ -475,28 +197,6 @@
                 "snippet": [
                     "*...Montreal is at the centre of the Montreal Metropolitan Community, and is bordered by the city of Laval to the north; Longueuil, Saint-Lambert, Brossard, and other municipalities to the south; Repentigny to the east and the West Island municipalities to the west....",
                     "...Commuting traffic from the cities and towns in the West Island (such as Dollard-des-Ormeaux and Pointe-Claire) is compounded by commuters entering the city that use twenty-four road crossings from numerous off-island suburbs on the North and South Shores...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.547824,
-                    45.50946
-                ]
-            },
-            "properties": {
-                "entity": "Old Port",
-                "name_location": "Playground at the Old Port, Rue du Quai-de-l'Horloge, Old Montreal, Ville-Marie, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H2Y 1H2, Canada",
-                "class": "leisure",
-                "type": "playground",
-                "snippet": [
-                    "*...This legacy has left a variety of buildings including factories, elevators, warehouses, mills, and refineries, that today provide an invaluable insight into the city's history, especially in the downtown area and the Old Port area....",
-                    "...Other notable neighbourhoods include the multicultural areas of Notre-Dame-de-Grâce and Côte-des-Neiges in the Côte-des-Neiges–Notre-Dame-de-Grace borough, and Little Italy in the borough of Rosemont–La Petite-Patrie and Hochelaga-Maisonneuve, home of the Olympic Stadium in the borough of Mercier–Hochelaga-Maisonneuve.[citation needed]\nOld Montreal is a historic area southeast of downtown containing many attractions such as the Old Port of Montreal, Place Jacques-Cartier, Montreal City Hall, the Bonsecours Market, Place d'Armes, Pointe-à-Callière Museum, the Notre-Dame de Montréal Basilica, and the Montreal Science Centre.[citation needed]\nArchitecture and cobbled streets in Old Montreal have been maintained or restored....",
-                    "...The riverside area adjacent to Old Montreal is known as the Old Port....",
-                    "...The Old Port was the site of the Port of Montreal, but its shipping operations have been moved to a larger site downstream, leaving the former location as a recreational and historical area maintained by Parks Canada...."
                 ]
             }
         },
@@ -620,13 +320,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.56306,
-                    45.498587
+                    -73.564237,
+                    45.497363
                 ]
             },
             "properties": {
                 "entity": "Rue Saint Jacques",
-                "name_location": "Rue Saint-Jacques, Old Montreal, Ville-Marie, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H3C 3Z7, Canada",
+                "name_location": "Rue Saint-Jacques, Old Montreal, Ville-Marie, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H3C 1G8, Canada",
                 "class": "highway",
                 "type": "secondary",
                 "snippet": [
@@ -651,7 +351,8 @@
                 "snippet": [
                     "*...Saint Joseph's Oratory, completed in 1967, Ernest Cormier's Art Deco Université de Montréal main building, the landmark Place Ville Marie office tower, the controversial Olympic Stadium and surrounding structures, are but a few notable examples of the city's 20th-century architecture....",
                     "*...Historically Montreal has been a centre of Catholicism in North America with its numerous seminaries and churches, including the Notre-Dame Basilica, the Cathédrale Marie-Reine-du-Monde, and Saint Joseph's Oratory....",
-                    "*...The city has four Roman Catholic basilicas: Mary, Queen of the World Cathedral, Notre-Dame Basilica, St Patrick's Basilica, and Saint Joseph's Oratory...."
+                    "*...The city has four Roman Catholic basilicas: Mary, Queen of the World Cathedral, Notre-Dame Basilica, St Patrick's Basilica, and Saint Joseph's Oratory....",
+                    "*...The Oratory is the largest church in Canada, with the second largest copper dome in the world, after Saint Peter's Basilica in Rome...."
                 ]
             }
         },
@@ -670,7 +371,10 @@
                 "class": "building",
                 "type": "office",
                 "snippet": [
-                    "*...Saint Joseph's Oratory, completed in 1967, Ernest Cormier's Art Deco Université de Montréal main building, the landmark Place Ville Marie office tower, the controversial Olympic Stadium and surrounding structures, are but a few notable examples of the city's 20th-century architecture...."
+                    "*...Saint Joseph's Oratory, completed in 1967, Ernest Cormier's Art Deco Université de Montréal main building, the landmark Place Ville Marie office tower, the controversial Olympic Stadium and surrounding structures, are but a few notable examples of the city's 20th-century architecture....",
+                    "*...French settlers from La Flèche in the Loire valley first named their new town, founded in 1642, Ville Marie (\"City of Mary\"), named for the Virgin Mary....",
+                    "*...The boroughs are:\nCôte-des-Neiges–Notre-Dame-de-Grace, The Plateau Mount Royal, Outremont and Ville Marie in the centre; Mercier–Hochelaga-Maisonneuve, Rosemont–La Petite-Patrie and Villeray–Saint-Michel–Parc-Extension in the east; Anjou, Montréal-Nord, Rivière-des-Prairies–Pointe-aux-Trembles and Saint-Leonard in the northeast; Ahuntsic-Cartierville, L'Île-Bizard–Sainte-Geneviève, Pierrefonds-Roxboro and Saint-Laurent in the northwest; and Lachine, LaSalle, The South West and Verdun in the south.[citation needed]...",
+                    "*...The borough with the most neighbourhoods is Ville Marie, which includes downtown, the historical district of Old Montreal, Chinatown, the Gay Village, the Latin Quarter, the gentrified Quartier international and Cité Multimédia as well as the Quartier des Spectacles which is under development...."
                 ]
             }
         },
@@ -737,28 +441,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.568627,
-                    45.501603
-                ]
-            },
-            "properties": {
-                "entity": "Ville Marie",
-                "name_location": "Place Ville-Marie, Place Monseigneur-Charbonneau, Ville-Marie, René-Lévesque, Ville-Marie, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H3B 2E3, Canada",
-                "class": "building",
-                "type": "office",
-                "snippet": [
-                    "*...French settlers from La Flèche in the Loire valley first named their new town, founded in 1642, Ville Marie (\"City of Mary\"), named for the Virgin Mary....",
-                    "...Saint Joseph's Oratory, completed in 1967, Ernest Cormier's Art Deco Université de Montréal main building, the landmark Place Ville Marie office tower, the controversial Olympic Stadium and surrounding structures, are but a few notable examples of the city's 20th-century architecture....",
-                    "*...The boroughs are:\nCôte-des-Neiges–Notre-Dame-de-Grace, The Plateau Mount Royal, Outremont and Ville Marie in the centre; Mercier–Hochelaga-Maisonneuve, Rosemont–La Petite-Patrie and Villeray–Saint-Michel–Parc-Extension in the east; Anjou, Montréal-Nord, Rivière-des-Prairies–Pointe-aux-Trembles and Saint-Leonard in the northeast; Ahuntsic-Cartierville, L'Île-Bizard–Sainte-Geneviève, Pierrefonds-Roxboro and Saint-Laurent in the northwest; and Lachine, LaSalle, The South West and Verdun in the south.[citation needed]...",
-                    "*...The borough with the most neighbourhoods is Ville Marie, which includes downtown, the historical district of Old Montreal, Chinatown, the Gay Village, the Latin Quarter, the gentrified Quartier international and Cité Multimédia as well as the Quartier des Spectacles which is under development...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -73.590845,
                     45.550268
                 ]
@@ -789,7 +471,33 @@
                 "class": "railway",
                 "type": "stop",
                 "snippet": [
-                    "*...The boroughs are:\nCôte-des-Neiges–Notre-Dame-de-Grace, The Plateau Mount Royal, Outremont and Ville Marie in the centre; Mercier–Hochelaga-Maisonneuve, Rosemont–La Petite-Patrie and Villeray–Saint-Michel–Parc-Extension in the east; Anjou, Montréal-Nord, Rivière-des-Prairies–Pointe-aux-Trembles and Saint-Leonard in the northeast; Ahuntsic-Cartierville, L'Île-Bizard–Sainte-Geneviève, Pierrefonds-Roxboro and Saint-Laurent in the northwest; and Lachine, LaSalle, The South West and Verdun in the south.[citation needed]..."
+                    "*...The boroughs are:\nCôte-des-Neiges–Notre-Dame-de-Grace, The Plateau Mount Royal, Outremont and Ville Marie in the centre; Mercier–Hochelaga-Maisonneuve, Rosemont–La Petite-Patrie and Villeray–Saint-Michel–Parc-Extension in the east; Anjou, Montréal-Nord, Rivière-des-Prairies–Pointe-aux-Trembles and Saint-Leonard in the northeast; Ahuntsic-Cartierville, L'Île-Bizard–Sainte-Geneviève, Pierrefonds-Roxboro and Saint-Laurent in the northwest; and Lachine, LaSalle, The South West and Verdun in the south.[citation needed]...",
+                    "*...Montreal ( MUN-tree-AWL; French: Montréal  ) is the second most populous city in Canada and the most populous city in the province of Quebec....",
+                    "...The city hosts the Canadian Grand Prix of Formula One; the Montreal International Jazz Festival, the largest jazz festival in the world; the Just for Laughs festival, the largest comedy festival in the world; and Les Francos de Montréal, the largest French-language music festival in the world....",
+                    "*...The current form of the name, Montréal, is generally thought to be derived from Mount Royal (Mont Royal in French), the triple-peaked hill in the heart of the city....",
+                    "*...There are multiple explanations for how Mont Royal became Montréal....",
+                    "*...In 16th century French, the forms réal and royal were used interchangeably, so Montréal could simply be a variant of Mont Royal....",
+                    "...Historiographer François de Belleforest was the first to use the form Montréal with reference to the entire region in 1575....",
+                    "...The construction of new residential skyscrapers, two super-hospitals (the Centre hospitalier de l'Université de Montréal and McGill University Health Centre), the creation of the Quartier des Spectacles, reconstruction of the Turcot Interchange, reconfiguration of the Decarie and Dorval interchanges, construction of the new Réseau électrique métropolitain, gentrification of Griffintown, subway line extensions and the purchase of new subway cars, the complete revitalization and expansion of Trudeau International Airport, the completion of Quebec Autoroute 30, the reconstruction of the Champlain Bridge and the construction of a new toll bridge to Laval are helping Montreal continue to grow.[citation needed]...",
+                    "...Saint Joseph's Oratory, completed in 1967, Ernest Cormier's Art Deco Université de Montréal main building, the landmark Place Ville Marie office tower, the controversial Olympic Stadium and surrounding structures, are but a few notable examples of the city's 20th-century architecture....",
+                    "...Other notable neighbourhoods include the multicultural areas of Notre-Dame-de-Grâce and Côte-des-Neiges in the Côte-des-Neiges–Notre-Dame-de-Grace borough, and Little Italy in the borough of Rosemont–La Petite-Patrie and Hochelaga-Maisonneuve, home of the Olympic Stadium in the borough of Mercier–Hochelaga-Maisonneuve.[citation needed]\nOld Montreal is a historic area southeast of downtown containing many attractions such as the Old Port of Montreal, Place Jacques-Cartier, Montreal City Hall, the Bonsecours Market, Place d'Armes, Pointe-à-Callière Museum, the Notre-Dame de Montréal Basilica, and the Montreal Science Centre.[citation needed]\nArchitecture and cobbled streets in Old Montreal have been maintained or restored....",
+                    "*...In the 2021 Census of Population conducted by Statistics Canada, Montréal had a population of  living in  of its  total private dwellings, a change of 3.4% from its 2016 population of ....",
+                    "...Other popular events include the Just for Laughs (largest comedy festival in the world), Montreal World Film Festival, Les FrancoFolies de Montréal, Nuits d'Afrique [fr], Pop Montreal, Divers/Cité, Fierté Montréal and the Montreal Fireworks Festival, Igloofest, Piknic Electronik, Montréal en Lumiere, Osheaga, Heavy Montreal, Mode + Design, Montréal complètement cirque, MUTEK, Black and Blue, and many smaller festivals....",
+                    "...The Orchestre Métropolitain du Grand Montréal and the chamber orchestra I Musici de Montréal are two other well-regarded Montreal orchestras....",
+                    "...Also performing at Place des Arts are the Opéra de Montréal and the city's chief ballet company Les Grands Ballets Canadiens....",
+                    "...The McGill Redbirds, Concordia Stingers, and Université de Montréal Carabins play in the U Sports football league....",
+                    "...CF Montréal (formerly known as the Montreal Impact) are the city's professional soccer team....",
+                    "...The Circuit Gilles Villeneuve also hosted a round of the Champ Car World Series from 2002 to 2007, and was home to the NAPA Auto Parts 200, a NASCAR Nationwide Series race, and the Montréal 200, a Grand Am Rolex Sports Car Series race....",
+                    "...Montreal has three daily newspapers, the English-language Montreal Gazette and the French-language Le Journal de Montréal, and Le Devoir; another French-language daily, La Presse, became an online daily in 2018....",
+                    "...The city is only one component of the larger Montreal Metropolitan Community (Communauté Métropolitaine de Montréal, CMM), which is in charge of planning, coordinating, and financing economic development, public transportation, garbage collection and waste management, etc., across the metropolitan area....",
+                    "...Law enforcement on the island itself is provided by the Service de Police de la Ville de Montréal, or the SPVM for short....",
+                    "...French-language elementary and secondary public schools in Montreal are operated by the Centre de services scolaire de Montréal (CSDM), Centre de services scolaire Marguerite-Bourgeoys and the Centre de services scolaire de la Pointe-de-l'Île....",
+                    "...Université de Montréal (UdeM) is the second largest research university in Canada and ranked as one of the top universities in Canada. Two separate institutions are affiliated to the university: the École Polytechnique de Montréal (School of Engineering) and HEC Montréal (School of Business). HEC Montreal was founded in 1907 and is considered one of the best business schools in Canada....",
+                    "...Université du Québec à Montréal (UQAM) is the Montreal campus of Université du Québec. UQAM generally specializes in liberal-arts, although many programs related to the sciences are available....",
+                    "*...The Université du Québec network also has three separately run schools in Montréal, notably the École de technologie supérieure (ETS), the École nationale d'administration publique (ÉNAP) and the Institut national de la recherche scientifique (INRS)....",
+                    "...L'Institut de formation théologique de Montréal des Prêtres de Saint-Sulpice (IFTM) specializes in theology and philosophy....",
+                    "...Conservatoire de musique du Québec à Montréal offers both a Bachelor and a Master program in classical music....",
+                    "...The subway and bus system are operated by the Société de transport de Montréal (STM, Montreal Transit Society)...."
                 ]
             }
         },
@@ -808,7 +516,13 @@
                 "class": "amenity",
                 "type": "townhall",
                 "snippet": [
-                    "*...The boroughs are:\nCôte-des-Neiges–Notre-Dame-de-Grace, The Plateau Mount Royal, Outremont and Ville Marie in the centre; Mercier–Hochelaga-Maisonneuve, Rosemont–La Petite-Patrie and Villeray–Saint-Michel–Parc-Extension in the east; Anjou, Montréal-Nord, Rivière-des-Prairies–Pointe-aux-Trembles and Saint-Leonard in the northeast; Ahuntsic-Cartierville, L'Île-Bizard–Sainte-Geneviève, Pierrefonds-Roxboro and Saint-Laurent in the northwest; and Lachine, LaSalle, The South West and Verdun in the south.[citation needed]..."
+                    "*...The boroughs are:\nCôte-des-Neiges–Notre-Dame-de-Grace, The Plateau Mount Royal, Outremont and Ville Marie in the centre; Mercier–Hochelaga-Maisonneuve, Rosemont–La Petite-Patrie and Villeray–Saint-Michel–Parc-Extension in the east; Anjou, Montréal-Nord, Rivière-des-Prairies–Pointe-aux-Trembles and Saint-Leonard in the northeast; Ahuntsic-Cartierville, L'Île-Bizard–Sainte-Geneviève, Pierrefonds-Roxboro and Saint-Laurent in the northwest; and Lachine, LaSalle, The South West and Verdun in the south.[citation needed]...",
+                    "*...After Arnold withdrew from Quebec City to Pointe-aux-Trembles on November 19, Montgomery's forces left Montreal on December 1 and arrived there on December 3 to plot to attack Quebec City, with Montgomery leaving David Wooster in charge of the city....",
+                    "*...Montreal annexed 27 other cities, towns and villages beginning with Hochelaga in 1883, with the last prior to 2002 being Pointe-aux-Trembles in 1982....",
+                    "...On April 22, 2016, the forthcoming automated rapid transit system, the Réseau express métropolitain (REM), was unveiled....",
+                    "*...To be opened in three phases as of 2022, the REM will be completed by mid-2024, becoming the fourth largest automated rapid transit network after the Dubai Metro, the Singapore Mass Rapid Transit, and the Vancouver SkyTrain....",
+                    "...On December 15, 2020, CDPQ Infra announced another network, the REM de l'Est....",
+                    "...And by January 18, 2021, North Shore mayors of municipalities north of the Rivière des Mille Îles announced their desires to erect yet another REM network paralleling the river to link their North Shore communities between Oka and L'Assomption, a distance of roughly 70 kilometres (43 mi)...."
                 ]
             }
         },
@@ -874,27 +588,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.590313,
-                    45.517388
-                ]
-            },
-            "properties": {
-                "entity": "Plateau",
-                "name_location": "Hotel Plateau Royale, 4555, Park Avenue, Mile End, Outremont, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H2V 4E4, Canada",
-                "class": "tourism",
-                "type": "hotel",
-                "snippet": [
-                    "...The boroughs are:\nCôte-des-Neiges–Notre-Dame-de-Grace, The Plateau Mount Royal, Outremont and Ville Marie in the centre; Mercier–Hochelaga-Maisonneuve, Rosemont–La Petite-Patrie and Villeray–Saint-Michel–Parc-Extension in the east; Anjou, Montréal-Nord, Rivière-des-Prairies–Pointe-aux-Trembles and Saint-Leonard in the northeast; Ahuntsic-Cartierville, L'Île-Bizard–Sainte-Geneviève, Pierrefonds-Roxboro and Saint-Laurent in the northwest; and Lachine, LaSalle, The South West and Verdun in the south.[citation needed]...",
-                    "...The Plateau Mount Royal borough was a working class francophone area....",
-                    "*...The largest neighbourhood is the Plateau (not to be confused with the whole borough), which is undergoing considerable gentrification, and a 2001 study deemed it as Canada's most creative neighbourhood because artists comprise 8% of its labour force...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -73.59136,
                     45.523493
                 ]
@@ -943,26 +636,6 @@
                 "class": "amenity",
                 "type": "place_of_worship",
                 "snippet": [
-                    "*...Other notable neighbourhoods include the multicultural areas of Notre-Dame-de-Grâce and Côte-des-Neiges in the Côte-des-Neiges–Notre-Dame-de-Grace borough, and Little Italy in the borough of Rosemont–La Petite-Patrie and Hochelaga-Maisonneuve, home of the Olympic Stadium in the borough of Mercier–Hochelaga-Maisonneuve.[citation needed]\nOld Montreal is a historic area southeast of downtown containing many attractions such as the Old Port of Montreal, Place Jacques-Cartier, Montreal City Hall, the Bonsecours Market, Place d'Armes, Pointe-à-Callière Museum, the Notre-Dame de Montréal Basilica, and the Montreal Science Centre.[citation needed]\nArchitecture and cobbled streets in Old Montreal have been maintained or restored...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.545659,
-                    45.543402
-                ]
-            },
-            "properties": {
-                "entity": "Hochelaga-Maisonneuve",
-                "name_location": "Carrefour Jeunesse-Emploi Hochelaga-Maisonneuve, 3440, Rue Ontario Est, Promenade Ontario, Mercier–Hochelaga-Maisonneuve, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H2C 2A9, Canada",
-                "class": "amenity",
-                "type": "social_facility",
-                "snippet": [
-                    "...The boroughs are:\nCôte-des-Neiges–Notre-Dame-de-Grace, The Plateau Mount Royal, Outremont and Ville Marie in the centre; Mercier–Hochelaga-Maisonneuve, Rosemont–La Petite-Patrie and Villeray–Saint-Michel–Parc-Extension in the east; Anjou, Montréal-Nord, Rivière-des-Prairies–Pointe-aux-Trembles and Saint-Leonard in the northeast; Ahuntsic-Cartierville, L'Île-Bizard–Sainte-Geneviève, Pierrefonds-Roxboro and Saint-Laurent in the northwest; and Lachine, LaSalle, The South West and Verdun in the south.[citation needed]...",
                     "*...Other notable neighbourhoods include the multicultural areas of Notre-Dame-de-Grâce and Côte-des-Neiges in the Côte-des-Neiges–Notre-Dame-de-Grace borough, and Little Italy in the borough of Rosemont–La Petite-Patrie and Hochelaga-Maisonneuve, home of the Olympic Stadium in the borough of Mercier–Hochelaga-Maisonneuve.[citation needed]\nOld Montreal is a historic area southeast of downtown containing many attractions such as the Old Port of Montreal, Place Jacques-Cartier, Montreal City Hall, the Bonsecours Market, Place d'Armes, Pointe-à-Callière Museum, the Notre-Dame de Montréal Basilica, and the Montreal Science Centre.[citation needed]\nArchitecture and cobbled streets in Old Montreal have been maintained or restored...."
                 ]
             }
@@ -1192,28 +865,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.616672,
-                    45.492072
-                ]
-            },
-            "properties": {
-                "entity": "Oratory",
-                "name_location": "Saint Joseph's Oratory, 3800, Chemin Queen Mary, Côte-des-Neiges, Édouard-Montpetit, Côte-des-Neiges–Notre-Dame-de-Grâce, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H3V 1H6, Canada",
-                "class": "amenity",
-                "type": "place_of_worship",
-                "snippet": [
-                    "...Saint Joseph's Oratory, completed in 1967, Ernest Cormier's Art Deco Université de Montréal main building, the landmark Place Ville Marie office tower, the controversial Olympic Stadium and surrounding structures, are but a few notable examples of the city's 20th-century architecture....",
-                    "...Historically Montreal has been a centre of Catholicism in North America with its numerous seminaries and churches, including the Notre-Dame Basilica, the Cathédrale Marie-Reine-du-Monde, and Saint Joseph's Oratory....",
-                    "...The city has four Roman Catholic basilicas: Mary, Queen of the World Cathedral, Notre-Dame Basilica, St Patrick's Basilica, and Saint Joseph's Oratory....",
-                    "*...The Oratory is the largest church in Canada, with the second largest copper dome in the world, after Saint Peter's Basilica in Rome...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -73.569225,
                     45.49606
                 ]
@@ -1367,13 +1018,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.587151,
-                    45.464972
+                    -73.615491,
+                    45.475356
                 ]
             },
             "properties": {
                 "entity": "A-15",
-                "name_location": "Autoroute 15, Côte-Saint-Paul, Le Sud-Ouest, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H4E 4H9, Canada",
+                "name_location": "Autoroute Décarie, Côte-Saint-Antoine, Côte-des-Neiges–Notre-Dame-de-Grâce, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H4A 1P9, Canada",
                 "class": "highway",
                 "type": "motorway",
                 "snippet": [
@@ -1481,51 +1132,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.603281,
-                    45.474255
-                ]
-            },
-            "properties": {
-                "entity": "Metropolitan",
-                "name_location": "Metropolitan ticket office, 5160, Boulevard De Maisonneuve Ouest, Upper Lachine, Côte-des-Neiges–Notre-Dame-de-Grâce, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H4A 3S9, Canada",
-                "class": "shop",
-                "type": "ticket",
-                "snippet": [
-                    "...The city is 196 km (122 mi) east of the national capital Ottawa, and 258 km (160 mi) southwest of the provincial capital, Quebec City.\nAs of 2021,[update] the city had a population of 1,762,949, and a metropolitan  population of 4,291,732, making it the second-largest city, and second-largest metropolitan area in Canada....",
-                    "...In 2021, it was spoken at home by 59.1% of the population and 69.2% in the Montreal Census Metropolitan Area....",
-                    "...Overall, 85.7% of the population of the city of Montreal considered themselves fluent in French while 90.2% could speak it in the metropolitan area....",
-                    "...Montreal is at the centre of the Montreal Metropolitan Community, and is bordered by the city of Laval to the north; Longueuil, Saint-Lambert, Brossard, and other municipalities to the south; Repentigny to the east and the West Island municipalities to the west....",
-                    "...A total of 4,098,927 lived in the Montreal Census Metropolitan Area (CMA) at the same 2016 census, up from 3,934,078 at the 2011 census (within 2011 CMA boundaries), which is a population growth of 4.19% from 2011 to 2016....",
-                    "...In 2019, Metropolitan Montreal was responsible for CA$234.0 billion of Quebec's CA$425.3 billion GDP....",
-                    "...The city is only one component of the larger Montreal Metropolitan Community (Communauté Métropolitaine de Montréal, CMM), which is in charge of planning, coordinating, and financing economic development, public transportation, garbage collection and waste management, etc., across the metropolitan area....",
-                    "*...The island of Montreal is a hub for the Quebec Autoroute system, and is served by Quebec Autoroutes A-10 (known as the Bonaventure Expressway on the island of Montreal), A-15 (aka the Decarie Expressway south of the A-40 and the Laurentian Autoroute to the north of it), A-13 (aka Chomedey Autoroute), A-20, A-25, A-40 (part of the Trans-Canada Highway system, and known as \"The Metropolitan\" or simply \"The Met\" in its elevated mid-town section), A-520 and R-136 (aka the Ville-Marie Autoroute)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.614744,
-                    45.476739
-                ]
-            },
-            "properties": {
-                "entity": "Met",
-                "name_location": "Métro, Boulevard Décarie, Côte-Saint-Antoine, Côte-des-Neiges–Notre-Dame-de-Grâce, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H4A 3J6, Canada",
-                "class": "shop",
-                "type": "supermarket",
-                "snippet": [
-                    "*...The island of Montreal is a hub for the Quebec Autoroute system, and is served by Quebec Autoroutes A-10 (known as the Bonaventure Expressway on the island of Montreal), A-15 (aka the Decarie Expressway south of the A-40 and the Laurentian Autoroute to the north of it), A-13 (aka Chomedey Autoroute), A-20, A-25, A-40 (part of the Trans-Canada Highway system, and known as \"The Metropolitan\" or simply \"The Met\" in its elevated mid-town section), A-520 and R-136 (aka the Ville-Marie Autoroute)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -73.545372,
                     45.494153
                 ]
@@ -1583,67 +1189,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.574997,
-                    45.510411
-                ]
-            },
-            "properties": {
-                "entity": "Metro",
-                "name_location": "Metro, Avenue du Parc, Milton Parc, Le Plateau-Mont-Royal, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H3Y 1P9, Canada",
-                "class": "shop",
-                "type": "supermarket",
-                "snippet": [
-                    "...During the 1960s, there was continued growth as Canada's tallest skyscrapers, new expressways and the subway system known as the Montreal Metro were finished during this time....",
-                    "...The Montreal Metro has public artwork by some of the biggest names in Quebec culture....",
-                    "*...Old Montreal is accessible from the downtown core via the underground city and is served by several STM bus routes and Metro stations, ferries to the South Shore and a network of bicycle paths.[citation needed]...",
-                    "...Standard Life, Hydro-Québec, AbitibiBowater, Pratt and Whitney Canada, Molson, Tembec, Canada Steamship Lines, Fednav, Alimentation Couche-Tard, SNC-Lavalin, MEGA Brands, Aeroplan, Agropur, Metro Inc., Laurentian Bank of Canada, National Bank of Canada, Transat A.T., Via Rail, GardaWorld, Novacam Technologies, SOLABS, Dollarama, Rona and the Caisse de dépôt et placement du Québec....",
-                    "*...There are presently four road bridges (including two of the country's busiest) along with one bridge-tunnel, two railway bridges, and a Metro line....",
-                    "*...The far narrower Rivière des Prairies to the city's north, separating Montreal from Laval, is spanned by nine road bridges (seven to the city of Laval and two that span directly to the north shore) and a Metro line....",
-                    "*...The Metro was inaugurated in 1966 and has 68 stations on four lines....",
-                    "*...The Metro system has long had a station on the South Shore in Longueuil, and in 2007 was extended to the city of Laval, north of Montreal, with three new stations....",
-                    "...The metro has recently been modernizing its trains, purchasing new Azur models with inter-connected wagons....",
-                    "...To be opened in three phases as of 2022, the REM will be completed by mid-2024, becoming the fourth largest automated rapid transit network after the Dubai Metro, the Singapore Mass Rapid Transit, and the Vancouver SkyTrain...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -73.742497,
                     45.468729
                 ]
             },
             "properties": {
                 "entity": "Pierre Elliott Trudeau International Airport",
-                "name_location": "Montréal–Pierre Elliott Trudeau International Airport, Boulevard Hymus, Bois-Francs, Saint-Laurent, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H4S 2G1, Canada",
+                "name_location": "Montréal–Pierre Elliott Trudeau International Airport, Autoroute Chomedey, Bois-Francs, Saint-Laurent, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H4S 1Z1, Canada",
                 "class": "aeroway",
                 "type": "aerodrome",
                 "snippet": [
-                    "*...Pierre Elliott Trudeau International Airport (also known as Dorval Airport) in the City of Dorval serves all commercial passenger traffic and is the headquarters of Air Canada and Air Transat...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.66317,
-                    45.514534
-                ]
-            },
-            "properties": {
-                "entity": "Trudeau",
-                "name_location": "Rue Trudeau, Du Collège/Hodge, Saint-Laurent, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H4N 3C2, Canada",
-                "class": "highway",
-                "type": "residential",
-                "snippet": [
+                    "*...Pierre Elliott Trudeau International Airport (also known as Dorval Airport) in the City of Dorval serves all commercial passenger traffic and is the headquarters of Air Canada and Air Transat....",
                     "...The construction of new residential skyscrapers, two super-hospitals (the Centre hospitalier de l'Université de Montréal and McGill University Health Centre), the creation of the Quartier des Spectacles, reconstruction of the Turcot Interchange, reconfiguration of the Decarie and Dorval interchanges, construction of the new Réseau électrique métropolitain, gentrification of Griffintown, subway line extensions and the purchase of new subway cars, the complete revitalization and expansion of Trudeau International Airport, the completion of Quebec Autoroute 30, the reconstruction of the Champlain Bridge and the construction of a new toll bridge to Laval are helping Montreal continue to grow.[citation needed]...",
-                    "...Pierre Elliott Trudeau International Airport (also known as Dorval Airport) in the City of Dorval serves all commercial passenger traffic and is the headquarters of Air Canada and Air Transat....",
                     "*...In 2018, Trudeau was the third busiest airport in Canada by passenger traffic and aircraft movements, handling 19.42 million passengers, and 240,159 aircraft movements....",
-                    "*...Airlines servicing Trudeau offer year-round non-stop flights to five continents, namely Africa, Asia, Europe, North America and South America...."
+                    "*...Airlines servicing Trudeau offer year-round non-stop flights to five continents, namely Africa, Asia, Europe, North America and South America....",
+                    "*...The construction of new residential skyscrapers, two super-hospitals (the Centre hospitalier de l'Université de Montréal and McGill University Health Centre), the creation of the Quartier des Spectacles, reconstruction of the Turcot Interchange, reconfiguration of the Decarie and Dorval interchanges, construction of the new Réseau électrique métropolitain, gentrification of Griffintown, subway line extensions and the purchase of new subway cars, the complete revitalization and expansion of Trudeau International Airport, the completion of Quebec Autoroute 30, the reconstruction of the Champlain Bridge and the construction of a new toll bridge to Laval are helping Montreal continue to grow.[citation needed]..."
                 ]
             }
         },
@@ -1741,28 +1301,6 @@
                 "snippet": [
                     "*...Its corporate headquarters occupied Windsor Station at 910 Peel Street until 1995....",
                     "*...The CPR's flagship train, The Canadian, ran daily from Windsor Station to Vancouver, but in 1978 all passenger services were transferred to Via...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.56107,
-                    45.497364
-                ]
-            },
-            "properties": {
-                "entity": "REM",
-                "name_location": "REM, Rue Saint-Paul Ouest, Petite-Bourgogne, Le Sud-Ouest, Montreal, Urban agglomeration of Montreal, Montreal (administrative region), Quebec, H3C 0K3, Canada",
-                "class": "railway",
-                "type": "construction",
-                "snippet": [
-                    "...On April 22, 2016, the forthcoming automated rapid transit system, the Réseau express métropolitain (REM), was unveiled....",
-                    "*...To be opened in three phases as of 2022, the REM will be completed by mid-2024, becoming the fourth largest automated rapid transit network after the Dubai Metro, the Singapore Mass Rapid Transit, and the Vancouver SkyTrain....",
-                    "...On December 15, 2020, CDPQ Infra announced another network, the REM de l'Est....",
-                    "...And by January 18, 2021, North Shore mayors of municipalities north of the Rivière des Mille Îles announced their desires to erect yet another REM network paralleling the river to link their North Shore communities between Oka and L'Assomption, a distance of roughly 70 kilometres (43 mi)...."
                 ]
             }
         }

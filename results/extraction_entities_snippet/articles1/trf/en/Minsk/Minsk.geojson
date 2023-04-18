@@ -6,27 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    27.556941,
-                    53.902629
-                ]
-            },
-            "properties": {
-                "entity": "Europe",
-                "name_location": "Europa, 28, Інтэрнацыянальная вуліца, Ciomnyja Kramy, Tsentralny District, Minsk, 220030, Belarus",
-                "class": "tourism",
-                "type": "hotel",
-                "snippet": [
-                    "*...As of January 2021, its population was 2 million, making Minsk the 11th most populous city in Europe....",
-                    "...Unlike many other cities in the CIS and Eastern Europe, Minsk was not heavily de-industrialised in the 1990s....",
-                    "*...It is an international airport with flights to Europe and the Middle East...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     27.541921,
                     53.905685
                 ]
@@ -57,26 +36,6 @@
                 "type": "tertiary",
                 "snippet": [
                     "*...Minsk is located on the southeastern slope of the Minsk Hills, a region of rolling hills running from the southwest (upper reaches of the river Nioman) to the northeast– that is, to Lukomskaye Lake in northwestern Belarus...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    27.582241,
-                    53.928934
-                ]
-            },
-            "properties": {
-                "entity": "Atlantic",
-                "name_location": "Atlantic, вуліца Сурганава, Sielhaspasiolak, Savyetski District, Minsk, 220100, Belarus",
-                "class": "shop",
-                "type": "clothes",
-                "snippet": [
-                    "...Minsk has a warm summer humid continental climate (Köppen Dfb) though unpredictable many a times, owing to its location between the strong influence of the moist air of the Atlantic Ocean and the dry air of the Eurasian landmass....",
-                    "*...Throughout the year, most winds are westerly and northwesterly, bringing cool and moist air from the Atlantic...."
                 ]
             }
         },

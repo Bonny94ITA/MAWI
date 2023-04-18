@@ -28,34 +28,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.747335,
-                    59.913858
-                ]
-            },
-            "properties": {
-                "entity": "Europe",
-                "name_location": "Boys of Europe, Torggata, Regjeringskvartalet, St. Hanshaugen, Oslo, 0155, Norway",
-                "class": "shop",
-                "type": "clothes",
-                "snippet": [
-                    "*...It is an important centre for maritime industries and maritime trade in Europe....",
-                    "...Oslo is a pilot city of the Council of Europe and the European Commission intercultural cities programme....",
-                    "*...Oslo's population was increasing at record rates during the early 2000s, making it the fastest growing major city in Europe at the time....",
-                    "*...The Black Death came to Norway in 1349 and, like other cities in Europe, the city suffered greatly....",
-                    "*...Oslo is an important centre of maritime knowledge in Europe and is home to approximately 1980 companies and 8,500 employees within the maritime sector....",
-                    "*...Within the ranking of Europe's largest cities ordered by their number of companies Oslo is in fifth position....",
-                    "*...Nearly half of those with education at tertiary level in Norway live in the Oslo region, placing it among Europe's top three regions in relation to education....",
-                    "*...Oslo is commonly regarded as one of the safest capitals in Europe....",
-                    "*...It acts as the main international gateway to Norway, and is, as of 2021, ranked as the 23rd busiest airport in Europe....",
-                    "...Oslo is a pilot city of the Council of Europe and the European Commission's Intercultural cities programme, along with a number of other European cities...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     10.771616,
                     59.919103
                 ]
@@ -163,7 +135,8 @@
                     "...Many landmarks were built in the 19th century, including the Royal Palace (1825–1848), Storting building (the Parliament) (1861–1866), the University, National Theatre and the Stock Exchange....",
                     "...Several important buildings were erected – The Bank of Norway (1828), the Royal Palace (1848), and the Storting (1866)....",
                     "...The first major undertaking was the Royal Palace, designed by Hans Linstow and built between 1824 and 1848....",
-                    "...The National Theatre is the largest theatre in Norway and is situated between the royal palace and the parliament building, Stortinget...."
+                    "...The National Theatre is the largest theatre in Norway and is situated between the royal palace and the parliament building, Stortinget....",
+                    "*...Linstow also planned Karl Johans gate, the avenue connecting the Palace and the city, with a monumental square halfway to be surrounded by buildings for University, the Parliament (Storting) and other institutions...."
                 ]
             }
         },
@@ -270,28 +243,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.835276,
-                    59.932417
-                ]
-            },
-            "properties": {
-                "entity": "Alna",
-                "name_location": "Alna, Alf Bjerckes vei, Alna, Bjerke, Oslo, 0582, Norway",
-                "class": "railway",
-                "type": "halt",
-                "snippet": [
-                    "...Erroneously, it was once assumed that Oslo meant \"the mouth of the Lo river\", a supposed previous name for the river Alna....",
-                    "*...Instead Oslo has two smaller rivers: Akerselva (draining Maridalsvannet, which flows into the fjord in Bjørvika), and Alna....",
-                    "...River Alna flows through Groruddalen, Oslo's major suburb and industrial area....",
-                    "*...The suburbs with the highest proportions of people of immigrant origin were Søndre Nordstrand, Stovner and Alna, where they formed around 50 percent of the population...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     10.674629,
                     59.925635
                 ]
@@ -332,27 +283,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.698368,
-                    59.902267
-                ]
-            },
-            "properties": {
-                "entity": "Bygdøy",
-                "name_location": "Bygdøy, Bygdøynesveien, Skarpsno, Frogner, Oslo, 0286, Norway",
-                "class": "man_made",
-                "type": "monitoring_station",
-                "snippet": [
-                    "*...Bygdøy is a large green area, commonly called the Museum Peninsula of Oslo. The area is surrounded by the sea and is one of the most expensive districts in Norway....",
-                    "*...Bygdøy, outside the city centre is the centre for history and the Norwegian Vikings' history....",
-                    "...Folkemuseet is located on the Bygdøy peninsula and is dedicated to Folk art, Folk Dress, Sami culture and the viking culture...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     10.743538,
                     59.929778
                 ]
@@ -372,27 +302,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.739447,
-                    59.923356
-                ]
-            },
-            "properties": {
-                "entity": "St. Hanshaugen",
-                "name_location": "St. Hanshaugen (C), Waldemar Thranes gate, Meyerløkka, St. Hanshaugen, Oslo, 0170, Norway",
-                "class": "highway",
-                "type": "bus_stop",
-                "snippet": [
-                    "*...As defined in January 2004 by the city council\nIn addition is Marka (1,610 residents, 301.1 km2), that is administered by several boroughs; and Sentrum (1,471 residents, 1.8 km2) that is partially administered by St. Hanshaugen, and in part directly by the city council....",
-                    "*...St. Hanshaugen Park is an old public park on a high hill in central Oslo. \"St. Hanshaugen\" is also the name of the surrounding neighbourhood as well as the larger administrative district (borough) that includes major parts of central Oslo....",
-                    "...Grønland, the central areas around Youngstorget and Torggata, Karl Johans gate (the main pedestrian thoroughfare), Aker Brygge and Tjuvholmen, Sørenga, and the boroughs of Frogner, Majorstuen, St. Hanshaugen / Bislett, and Grünerløkka all have a high concentration of cafes and restaurants...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     10.777041,
                     59.923798
                 ]
@@ -404,26 +313,6 @@
                 "type": "residential",
                 "snippet": [
                     "*...Tøyen Park stretches out behind the old Munch Museum, and is a vast, grassy expanse. In the north, there is a lookout point known as Ola Narr. The Tøyen area also includes the Botanical Garden and Museum belonging to the University of Oslo...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.764353,
-                    59.914784
-                ]
-            },
-            "properties": {
-                "entity": "Tøyen",
-                "name_location": "Urtegata, Tøyen, Urtegata, Grønland, Gamle Oslo, Oslo, 0187, Norway",
-                "class": "amenity",
-                "type": "charging_station",
-                "snippet": [
-                    "*...Tøyen Park stretches out behind the old Munch Museum, and is a vast, grassy expanse. In the north, there is a lookout point known as Ola Narr. The Tøyen area also includes the Botanical Garden and Museum belonging to the University of Oslo....",
-                    "...It draws about 60,000 people to the Tøyen Park east in Oslo and lasts for four days...."
                 ]
             }
         },
@@ -461,7 +350,9 @@
                 "class": "amenity",
                 "type": "school",
                 "snippet": [
-                    "*...There are two major forests bordering the city: Østmarka (literally \"Eastern Forest\", on the eastern perimeter of the city), and the very large Nordmarka (literally \"Northern Forest\", stretching from the northern perimeter of the city deep into the hinterland)...."
+                    "*...There are two major forests bordering the city: Østmarka (literally \"Eastern Forest\", on the eastern perimeter of the city), and the very large Nordmarka (literally \"Northern Forest\", stretching from the northern perimeter of the city deep into the hinterland)....",
+                    "*...To the north and east, wide forested hills (Marka) rise above the city giving the location the shape of a giant amphitheatre....",
+                    "*...As defined in January 2004 by the city council\nIn addition is Marka (1,610 residents, 301.1 km2), that is administered by several boroughs; and Sentrum (1,471 residents, 1.8 km2) that is partially administered by St. Hanshaugen, and in part directly by the city council...."
                 ]
             }
         },
@@ -609,29 +500,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.727633,
-                    59.917199
-                ]
-            },
-            "properties": {
-                "entity": "Palace",
-                "name_location": "Royal Palace, Slottsplassen, Vika, Sentrum, Oslo, 0010, Norway",
-                "class": "tourism",
-                "type": "attraction",
-                "snippet": [
-                    "...Many landmarks were built in the 19th century, including the Royal Palace (1825–1848), Storting building (the Parliament) (1861–1866), the University, National Theatre and the Stock Exchange....",
-                    "...Several important buildings were erected – The Bank of Norway (1828), the Royal Palace (1848), and the Storting (1866)....",
-                    "...The first major undertaking was the Royal Palace, designed by Hans Linstow and built between 1824 and 1848....",
-                    "*...Linstow also planned Karl Johans gate, the avenue connecting the Palace and the city, with a monumental square halfway to be surrounded by buildings for University, the Parliament (Storting) and other institutions....",
-                    "...The National Theatre is the largest theatre in Norway and is situated between the royal palace and the parliament building, Stortinget...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     10.745173,
                     59.916785
                 ]
@@ -651,26 +519,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.777273,
-                    59.896348
-                ]
-            },
-            "properties": {
-                "entity": "Ekeberg",
-                "name_location": "Ekeberg, campingplassen, Ekebergveien, Ekeberg, Nordstrand, Oslo, 1181, Norway",
-                "class": "amenity",
-                "type": "parking",
-                "snippet": [
-                    "*...Ekebergparken Sculpture Park is a sculpture park and a national heritage park with a panoramic view of the city at Ekeberg in the southeast of the city....",
-                    "*...Backer also designed the restaurant at Ekeberg, which opened in 1929...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     10.743061,
                     59.915738
                 ]
@@ -682,30 +530,6 @@
                 "type": "office",
                 "snippet": [
                     "*...Most government offices, including that of the Prime Minister, are gathered at Regjeringskvartalet, a cluster of buildings close to the national Parliament, the Storting...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.74006,
-                    59.913012
-                ]
-            },
-            "properties": {
-                "entity": "Storting",
-                "name_location": "The Parliament (Stortinget), Stortings plass, Kvadraturen, Sentrum, Oslo, 0026, Norway",
-                "class": "office",
-                "type": "government",
-                "snippet": [
-                    "...Many landmarks were built in the 19th century, including the Royal Palace (1825–1848), Storting building (the Parliament) (1861–1866), the University, National Theatre and the Stock Exchange....",
-                    "...Several important buildings were erected – The Bank of Norway (1828), the Royal Palace (1848), and the Storting (1866)....",
-                    "*...Linstow also planned Karl Johans gate, the avenue connecting the Palace and the city, with a monumental square halfway to be surrounded by buildings for University, the Parliament (Storting) and other institutions....",
-                    "*...Most government offices, including that of the Prime Minister, are gathered at Regjeringskvartalet, a cluster of buildings close to the national Parliament, the Storting....",
-                    "*...Constituting both a municipality and a county of Norway, the city of Oslo is represented in the Storting by nineteen members of parliament....",
-                    "*...This used to be the most powerful political position in Oslo, but following the implementation of parliamentarism, the mayor has had more of a ceremonial role, similar to that of the President of the Storting at the national level...."
                 ]
             }
         },
@@ -771,31 +595,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.753038,
-                    59.910242
-                ]
-            },
-            "properties": {
-                "entity": "Opera",
-                "name_location": "Exit towards Opera house, Sjøtomta, Sentrum, Oslo, 0050, Norway",
-                "class": "highway",
-                "type": "footway",
-                "snippet": [
-                    "...In 2008, an exhibition was held in London presenting the award-winning Oslo Opera House, the urban regeneration scheme of Oslo's seafront, Munch/Stenersen and the new Deichman Library....",
-                    "...This theatre represents the actors and play-writers of the country but the songwriters, singers and dancers are represented in the form of a newly opened Oslo Opera House, situated in Bjørvika....",
-                    "*...The Opera was opened in 2008 and is a national landmark, designed by the Norwegian architectural firm, Snøhetta....",
-                    "...The building cost 500 million euro to build and took five years to build and is known for being the first Opera House in the world to let people walk on the roof of the building....",
-                    "...Lona Gyldenkrone (1848–1934), opera singer ;...",
-                    "...Fritz Arlberg (1830-1896) a Swedish baritone, teacher, composer and opera singer ;...",
-                    "...Magna Lykseth-Skogman (1874–1949), opera singer ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     10.752773,
                     59.910307
                 ]
@@ -808,7 +607,11 @@
                 "snippet": [
                     "...In 2008, an exhibition was held in London presenting the award-winning Oslo Opera House, the urban regeneration scheme of Oslo's seafront, Munch/Stenersen and the new Deichman Library....",
                     "...This theatre represents the actors and play-writers of the country but the songwriters, singers and dancers are represented in the form of a newly opened Oslo Opera House, situated in Bjørvika....",
-                    "*...The building cost 500 million euro to build and took five years to build and is known for being the first Opera House in the world to let people walk on the roof of the building...."
+                    "*...The building cost 500 million euro to build and took five years to build and is known for being the first Opera House in the world to let people walk on the roof of the building....",
+                    "*...The Opera was opened in 2008 and is a national landmark, designed by the Norwegian architectural firm, Snøhetta....",
+                    "...Lona Gyldenkrone (1848–1934), opera singer ;...",
+                    "...Fritz Arlberg (1830-1896) a Swedish baritone, teacher, composer and opera singer ;...",
+                    "...Magna Lykseth-Skogman (1874–1949), opera singer ;..."
                 ]
             }
         },

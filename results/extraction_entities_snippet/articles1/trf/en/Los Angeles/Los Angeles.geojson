@@ -46,7 +46,15 @@
                     "...The majority of the city proper lies in a basin in Southern California adjacent to the Pacific Ocean in the west and extending partly through the Santa Monica Mountains and north into the San Fernando Valley, with the city bordering the San Gabriel Valley to its east....",
                     "...The eastern end of the Santa Monica Mountains stretches from Downtown to the Pacific Ocean and separates the Los Angeles Basin from the San Fernando Valley....",
                     "...The river begins in the Canoga Park district of the city, flows east from the San Fernando Valley along the north edge of the Santa Monica Mountains, and turns south through the city center, flowing to its mouth in the Port of Long Beach at the Pacific Ocean....",
-                    "...In 2016, the E Line was extended to the Pacific Ocean at Santa Monica...."
+                    "...In 2016, the E Line was extended to the Pacific Ocean at Santa Monica....",
+                    "*...Maritime explorer Juan Rodríguez Cabrillo claimed the area of southern California for the Spanish Empire in 1542 while on an official military exploring expedition moving northward along the Pacific coast from earlier colonizing bases of New Spain in Central and South America....",
+                    "...Railroads arrived with the completion of the transcontinental Southern Pacific line from New Orleans to Los Angeles in 1876 and the Santa Fe Railroad in 1885....",
+                    "...Los Angeles is subject to earthquakes because of its location on the Pacific Ring of Fire....",
+                    "...The strike-slip San Andreas Fault system, which sits at the boundary between the Pacific Plate and the North American Plate, passes through the Los Angeles metropolitan area....",
+                    "*...Wet years are usually associated with warm water El Niño conditions in the Pacific, dry years with cooler water La Niña episodes....",
+                    "...According to the 2010 census, the racial makeup of Los Angeles included: 1,888,158 Whites (49.8%), 365,118 African Americans (9.6%), 28,215 Native Americans (0.7%), 426,959 Asians (11.3%), 5,577 Pacific Islanders (0.1%), 902,959 from other races (23.8%), and 175,635 (4.6%) from two or more races....",
+                    "*...The majority of the Non-Hispanic White population is living in areas along the Pacific coast as well as in neighborhoods near and on the Santa Monica Mountains from the Pacific Palisades to Los Feliz....",
+                    "...The contiguous ports of Los Angeles and Long Beach together comprise the busiest port in the United States by some measures and the fifth-busiest port in the world, vital to trade within the Pacific Rim...."
                 ]
             }
         },
@@ -97,26 +105,6 @@
                     "...The Los Angeles Basin and the San Fernando Valley are susceptible to atmospheric inversion, which holds in the exhausts from road vehicles, airplanes, locomotives, shipping, manufacturing, and other sources....",
                     "...Many of Los Angeles's Jews now live on the Westside and in the San Fernando Valley, though Boyle Heights once had a large Jewish population prior to World War II due to restrictive housing covenants....",
                     "...There are also a number of smaller regional newspapers, alternative weeklies and magazines, including the Los Angeles Register, Los Angeles Community News, (which focuses on coverage of the greater Los Angeles area), Los Angeles Daily News (which focuses coverage on the San Fernando Valley), LA Weekly, L.A. Record (which focuses coverage on the music scene in the Greater Los Angeles Area), Los Angeles Magazine, the Los Angeles Business Journal, the Los Angeles Daily Journal (legal industry paper), The Hollywood Reporter, Variety (both entertainment industry papers), and Los Angeles Downtown News...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -118.118889,
-                    34.090833
-                ]
-            },
-            "properties": {
-                "entity": "San Gabriel Valley",
-                "name_location": "West San Gabriel Valley YMCA, Corto Street, Alhambra, Los Angeles County, California, 91802, United States",
-                "class": "leisure",
-                "type": "sports_centre",
-                "snippet": [
-                    "...The majority of the city proper lies in a basin in Southern California adjacent to the Pacific Ocean in the west and extending partly through the Santa Monica Mountains and north into the San Fernando Valley, with the city bordering the San Gabriel Valley to its east....",
-                    "...Chinese people, which make up 1.8% of Los Angeles's population, reside mostly outside of Los Angeles city limits and rather in the San Gabriel Valley of eastern Los Angeles County, but make a sizable presence in the city, notably in Chinatown...."
                 ]
             }
         },
@@ -317,27 +305,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -118.243877,
-                    33.94642
-                ]
-            },
-            "properties": {
-                "entity": "Watts",
-                "name_location": "Watts Senior Citizen Center, 1657, East Century Boulevard, Watts, Los Angeles, Los Angeles County, California, 90002, United States",
-                "class": "amenity",
-                "type": "community_centre",
-                "snippet": [
-                    "*...Racial tensions led to the Watts riots in 1965, resulting in 34 deaths and over 1,000 injuries....",
-                    "*...The neighborhoods of South Los Angeles with highest concentration of African Americans include Crenshaw, Baldwin Hills, Leimert Park, Hyde Park, Gramercy Park, Manchester Square and Watts....",
-                    "...Important landmarks in Los Angeles include the Hollywood Sign, Walt Disney Concert Hall, Capitol Records Building, the Cathedral of Our Lady of the Angels, Angels Flight, Grauman's Chinese Theatre, Dolby Theatre, Griffith Observatory, Getty Center, Getty Villa, Stahl House, the Los Angeles Memorial Coliseum, L.A. Live, the Los Angeles County Museum of Art, the Venice Canal Historic District and boardwalk, Theme Building, Bradbury Building, U.S. Bank Tower, Wilshire Grand Center, Hollywood Boulevard, Los Angeles City Hall, Hollywood Bowl, battleship USS Iowa, Watts Towers, Staples Center, Dodger Stadium, and Olvera Street...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -118.25645,
                     33.984314
                 ]
@@ -389,42 +356,6 @@
                 "type": "bus_stop",
                 "snippet": [
                     "*...The century ended with the Rampart scandal, one of the most extensive documented cases of police misconduct in American history...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -118.582901,
-                    34.500314
-                ]
-            },
-            "properties": {
-                "entity": "Downtown",
-                "name_location": "Downtown, Los Angeles County, California, 91310, United States",
-                "class": "highway",
-                "type": "path",
-                "snippet": [
-                    "*...The eastern end of the Santa Monica Mountains stretches from Downtown to the Pacific Ocean and separates the Los Angeles Basin from the San Fernando Valley....",
-                    "*...Other hilly parts of Los Angeles include the Mt. Washington area north of Downtown, eastern parts such as Boyle Heights, the Crenshaw district around the Baldwin Hills, and the San Pedro district....",
-                    "...Further afield, the highest point in southern California is San Gorgonio Mountain, 81 miles (130 km) east of downtown Los Angeles, with a height of 11,503 feet (3,506 m)....",
-                    "*...Outside of a few centers such as Downtown, Warner Center, Century City, Koreatown, Miracle Mile, Hollywood, and Westwood, skyscrapers and high-rise buildings are not common in Los Angeles....",
-                    "...That being said Downtown Los Angeles itself has many buildings over 30 stories, with fourteen over 50 stories, and two over 70 stories, the tallest of which is the Wilshire Grand Center....",
-                    "...Los Angeles has a two-season Mediterranean climate of dry summer and very mild winter (Köppen Csb on the coast and most of downtown, Csa near the metropolitan region to the west), but it receives less annual precipitation than most other Mediterranean climates, so it is near the boundary of a semi-arid climate (BSh), though narrowly missing it....",
-                    "...Downtown Los Angeles averages 14.67 in (373 mm) of precipitation annually, mainly occurring between November and March, generally in the form of moderate rain showers, but sometimes as heavy rainfall during winter storms....",
-                    "...Both freezing temperatures and snowfall are extremely rare in the city basin and along the coast, with the last occurrence of a 32 °F (0 °C) reading at the downtown station being January 29, 1979; freezing temperatures occur nearly every year in valley locations while the mountains within city limits typically receive snowfall every winter....",
-                    "...The greatest snowfall recorded in downtown Los Angeles was 2.0 inches (5 cm) on January 15, 1932....",
-                    "...At the official downtown station, the highest recorded temperature is 113 °F (45 °C) on September 27, 2010, while the lowest is 28 °F (−2 °C), on January 4, 1949....",
-                    "*...It is most heavily concentrated in regions around Downtown as East Los Angeles, Northeast Los Angeles and Westlake....",
-                    "...The Japanese comprise 0.9% of LA's population and have an established Little Tokyo in the city's downtown, and another significant community of Japanese Americans is in the Sawtelle district of West Los Angeles....",
-                    "...Cardinal Roger Mahony, as the archbishop, oversaw construction of the Cathedral of Our Lady of the Angels, which opened in September 2002 in Downtown Los Angeles....",
-                    "...A significant number of art galleries are on Gallery Row, and tens of thousands attend the monthly Downtown Art Walk there....",
-                    "...There are also a number of smaller regional newspapers, alternative weeklies and magazines, including the Los Angeles Register, Los Angeles Community News, (which focuses on coverage of the greater Los Angeles area), Los Angeles Daily News (which focuses coverage on the San Fernando Valley), LA Weekly, L.A. Record (which focuses coverage on the music scene in the Greater Los Angeles Area), Los Angeles Magazine, the Los Angeles Business Journal, the Los Angeles Daily Journal (legal industry paper), The Hollywood Reporter, Variety (both entertainment industry papers), and Los Angeles Downtown News....",
-                    "*...The main rail station in the city is Union Station just north of Downtown....",
-                    "...(IATA: BUR, ICAO: KBUR) Hollywood Burbank Airport, jointly owned by the cities of Burbank, Glendale, and Pasadena. Formerly known as Bob Hope Airport and Burbank Airport, the closest airport to Downtown Los Angeles serves the San Fernando, San Gabriel, and Antelope Valleys....",
-                    "*...The Port of Los Angeles is in San Pedro Bay in the San Pedro neighborhood, approximately 20 miles (32 km) south of Downtown...."
                 ]
             }
         },
@@ -580,7 +511,9 @@
                 "snippet": [
                     "...The river begins in the Canoga Park district of the city, flows east from the San Fernando Valley along the north edge of the Santa Monica Mountains, and turns south through the city center, flowing to its mouth in the Port of Long Beach at the Pacific Ocean....",
                     "...It adjoins the separate Port of Long Beach....",
-                    "...The sea ports of the Port of Los Angeles and Port of Long Beach together make up the Los Angeles/Long Beach Harbor...."
+                    "...The sea ports of the Port of Los Angeles and Port of Long Beach together make up the Los Angeles/Long Beach Harbor....",
+                    "*...It adjoins the separate Port of Long Beach....",
+                    "*...The sea ports of the Port of Los Angeles and Port of Long Beach together make up the Los Angeles/Long Beach Harbor...."
                 ]
             }
         },
@@ -760,15 +693,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -118.230114,
-                    33.96553
+                    -118.236879,
+                    34.053759
                 ]
             },
             "properties": {
                 "entity": "Santa Ana",
-                "name_location": "Santa Ana Street, Walnut Park, South Gate, Los Angeles County, California, 90201, United States",
+                "name_location": "Santa Ana Freeway, Little Tokyo Historic District, Chinatown, Los Angeles, Los Angeles County, California, 90012, United States",
                 "class": "highway",
-                "type": "residential",
+                "type": "motorway",
                 "snippet": [
                     "*...During autumn and winter, Santa Ana winds sometimes bring much warmer and drier conditions to Los Angeles, and raise wildfire risk....",
                     "*...KTBN (Channel 40) is the flagship station of the religious Trinity Broadcasting Network, based out of Santa Ana...."
@@ -791,27 +724,6 @@
                 "type": "trunk",
                 "snippet": [
                     "...The majority of the Non-Hispanic White population is living in areas along the Pacific coast as well as in neighborhoods near and on the Santa Monica Mountains from the Pacific Palisades to Los Feliz...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -118.184373,
-                    34.02316
-                ]
-            },
-            "properties": {
-                "entity": "East Los Angeles",
-                "name_location": "East Los Angeles Doctors Hospital, 4060, Whittier Boulevard, East Los Angeles, Los Angeles County, California, 90023, United States",
-                "class": "amenity",
-                "type": "hospital",
-                "snippet": [
-                    "*...It is most heavily concentrated in regions around Downtown as East Los Angeles, Northeast Los Angeles and Westlake....",
-                    "*...The Breed Street Shul in East Los Angeles, built in 1923, was the largest synagogue west of Chicago in its early decades; it is no longer in daily use as a synagogue and is being converted to a museum and community center....",
-                    "...East Los Angeles College (ELAC) ;..."
                 ]
             }
         },
@@ -1027,8 +939,8 @@
             "properties": {
                 "entity": "Cathedral of Our Lady of the Angels",
                 "name_location": "Cathedral of Our Lady of the Angels, 555, West Temple Street, Civic Center, Chinatown, Los Angeles, Los Angeles County, California, 90012, United States",
-                "class": "building",
-                "type": "cathedral",
+                "class": "amenity",
+                "type": "place_of_worship",
                 "snippet": [
                     "...Cardinal Roger Mahony, as the archbishop, oversaw construction of the Cathedral of Our Lady of the Angels, which opened in September 2002 in Downtown Los Angeles....",
                     "...Important landmarks in Los Angeles include the Hollywood Sign, Walt Disney Concert Hall, Capitol Records Building, the Cathedral of Our Lady of the Angels, Angels Flight, Grauman's Chinese Theatre, Dolby Theatre, Griffith Observatory, Getty Center, Getty Villa, Stahl House, the Los Angeles Memorial Coliseum, L.A. Live, the Los Angeles County Museum of Art, the Venice Canal Historic District and boardwalk, Theme Building, Bradbury Building, U.S. Bank Tower, Wilshire Grand Center, Hollywood Boulevard, Los Angeles City Hall, Hollywood Bowl, battleship USS Iowa, Watts Towers, Staples Center, Dodger Stadium, and Olvera Street...."
@@ -1055,7 +967,19 @@
                     "...Downtown Los Angeles averages 14.67 in (373 mm) of precipitation annually, mainly occurring between November and March, generally in the form of moderate rain showers, but sometimes as heavy rainfall during winter storms....",
                     "...The greatest snowfall recorded in downtown Los Angeles was 2.0 inches (5 cm) on January 15, 1932....",
                     "*...Cardinal Roger Mahony, as the archbishop, oversaw construction of the Cathedral of Our Lady of the Angels, which opened in September 2002 in Downtown Los Angeles....",
-                    "...(IATA: BUR, ICAO: KBUR) Hollywood Burbank Airport, jointly owned by the cities of Burbank, Glendale, and Pasadena. Formerly known as Bob Hope Airport and Burbank Airport, the closest airport to Downtown Los Angeles serves the San Fernando, San Gabriel, and Antelope Valleys...."
+                    "...(IATA: BUR, ICAO: KBUR) Hollywood Burbank Airport, jointly owned by the cities of Burbank, Glendale, and Pasadena. Formerly known as Bob Hope Airport and Burbank Airport, the closest airport to Downtown Los Angeles serves the San Fernando, San Gabriel, and Antelope Valleys....",
+                    "*...The eastern end of the Santa Monica Mountains stretches from Downtown to the Pacific Ocean and separates the Los Angeles Basin from the San Fernando Valley....",
+                    "*...Other hilly parts of Los Angeles include the Mt. Washington area north of Downtown, eastern parts such as Boyle Heights, the Crenshaw district around the Baldwin Hills, and the San Pedro district....",
+                    "*...Outside of a few centers such as Downtown, Warner Center, Century City, Koreatown, Miracle Mile, Hollywood, and Westwood, skyscrapers and high-rise buildings are not common in Los Angeles....",
+                    "...Los Angeles has a two-season Mediterranean climate of dry summer and very mild winter (Köppen Csb on the coast and most of downtown, Csa near the metropolitan region to the west), but it receives less annual precipitation than most other Mediterranean climates, so it is near the boundary of a semi-arid climate (BSh), though narrowly missing it....",
+                    "...Both freezing temperatures and snowfall are extremely rare in the city basin and along the coast, with the last occurrence of a 32 °F (0 °C) reading at the downtown station being January 29, 1979; freezing temperatures occur nearly every year in valley locations while the mountains within city limits typically receive snowfall every winter....",
+                    "...At the official downtown station, the highest recorded temperature is 113 °F (45 °C) on September 27, 2010, while the lowest is 28 °F (−2 °C), on January 4, 1949....",
+                    "*...It is most heavily concentrated in regions around Downtown as East Los Angeles, Northeast Los Angeles and Westlake....",
+                    "...The Japanese comprise 0.9% of LA's population and have an established Little Tokyo in the city's downtown, and another significant community of Japanese Americans is in the Sawtelle district of West Los Angeles....",
+                    "...A significant number of art galleries are on Gallery Row, and tens of thousands attend the monthly Downtown Art Walk there....",
+                    "...There are also a number of smaller regional newspapers, alternative weeklies and magazines, including the Los Angeles Register, Los Angeles Community News, (which focuses on coverage of the greater Los Angeles area), Los Angeles Daily News (which focuses coverage on the San Fernando Valley), LA Weekly, L.A. Record (which focuses coverage on the music scene in the Greater Los Angeles Area), Los Angeles Magazine, the Los Angeles Business Journal, the Los Angeles Daily Journal (legal industry paper), The Hollywood Reporter, Variety (both entertainment industry papers), and Los Angeles Downtown News....",
+                    "*...The main rail station in the city is Union Station just north of Downtown....",
+                    "*...The Port of Los Angeles is in San Pedro Bay in the San Pedro neighborhood, approximately 20 miles (32 km) south of Downtown...."
                 ]
             }
         },
@@ -1411,8 +1335,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -118.326172,
-                    34.101635
+                    -118.328816,
+                    34.101613
                 ]
             },
             "properties": {
@@ -1459,7 +1383,9 @@
                 "class": "man_made",
                 "type": "tower",
                 "snippet": [
-                    "*...Important landmarks in Los Angeles include the Hollywood Sign, Walt Disney Concert Hall, Capitol Records Building, the Cathedral of Our Lady of the Angels, Angels Flight, Grauman's Chinese Theatre, Dolby Theatre, Griffith Observatory, Getty Center, Getty Villa, Stahl House, the Los Angeles Memorial Coliseum, L.A. Live, the Los Angeles County Museum of Art, the Venice Canal Historic District and boardwalk, Theme Building, Bradbury Building, U.S. Bank Tower, Wilshire Grand Center, Hollywood Boulevard, Los Angeles City Hall, Hollywood Bowl, battleship USS Iowa, Watts Towers, Staples Center, Dodger Stadium, and Olvera Street...."
+                    "*...Important landmarks in Los Angeles include the Hollywood Sign, Walt Disney Concert Hall, Capitol Records Building, the Cathedral of Our Lady of the Angels, Angels Flight, Grauman's Chinese Theatre, Dolby Theatre, Griffith Observatory, Getty Center, Getty Villa, Stahl House, the Los Angeles Memorial Coliseum, L.A. Live, the Los Angeles County Museum of Art, the Venice Canal Historic District and boardwalk, Theme Building, Bradbury Building, U.S. Bank Tower, Wilshire Grand Center, Hollywood Boulevard, Los Angeles City Hall, Hollywood Bowl, battleship USS Iowa, Watts Towers, Staples Center, Dodger Stadium, and Olvera Street....",
+                    "*...Racial tensions led to the Watts riots in 1965, resulting in 34 deaths and over 1,000 injuries....",
+                    "*...The neighborhoods of South Los Angeles with highest concentration of African Americans include Crenshaw, Baldwin Hills, Leimert Park, Hyde Park, Gramercy Park, Manchester Square and Watts...."
                 ]
             }
         },
@@ -1519,29 +1445,8 @@
                 "snippet": [
                     "...Important landmarks in Los Angeles include the Hollywood Sign, Walt Disney Concert Hall, Capitol Records Building, the Cathedral of Our Lady of the Angels, Angels Flight, Grauman's Chinese Theatre, Dolby Theatre, Griffith Observatory, Getty Center, Getty Villa, Stahl House, the Los Angeles Memorial Coliseum, L.A. Live, the Los Angeles County Museum of Art, the Venice Canal Historic District and boardwalk, Theme Building, Bradbury Building, U.S. Bank Tower, Wilshire Grand Center, Hollywood Boulevard, Los Angeles City Hall, Hollywood Bowl, battleship USS Iowa, Watts Towers, Staples Center, Dodger Stadium, and Olvera Street....",
                     "...After 21 seasons in St. Louis, on January 12, 2016, the NFL announced the Rams would be moving back to Los Angeles for the 2016 NFL season with its home games played at the Los Angeles Memorial Coliseum for four seasons....",
-                    "...Los Angeles boasts a number of sports venues, including Dodger Stadium, the Los Angeles Memorial Coliseum, BMO Stadium and the Crypto.com Arena...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -118.283519,
-                    34.013695
-                ]
-            },
-            "properties": {
-                "entity": "Coliseum",
-                "name_location": "South Coliseum Drive, Exposition Park, Los Angeles, Los Angeles County, California, 90037, United States",
-                "class": "highway",
-                "type": "service",
-                "snippet": [
-                    "...Important landmarks in Los Angeles include the Hollywood Sign, Walt Disney Concert Hall, Capitol Records Building, the Cathedral of Our Lady of the Angels, Angels Flight, Grauman's Chinese Theatre, Dolby Theatre, Griffith Observatory, Getty Center, Getty Villa, Stahl House, the Los Angeles Memorial Coliseum, L.A. Live, the Los Angeles County Museum of Art, the Venice Canal Historic District and boardwalk, Theme Building, Bradbury Building, U.S. Bank Tower, Wilshire Grand Center, Hollywood Boulevard, Los Angeles City Hall, Hollywood Bowl, battleship USS Iowa, Watts Towers, Staples Center, Dodger Stadium, and Olvera Street....",
-                    "...After 21 seasons in St. Louis, on January 12, 2016, the NFL announced the Rams would be moving back to Los Angeles for the 2016 NFL season with its home games played at the Los Angeles Memorial Coliseum for four seasons....",
-                    "*...Prior to 1995, the Rams played their home games in the Coliseum from 1946 to 1979 which made them the first professional sports team to play in Los Angeles, and then moved to Anaheim Stadium from 1980 until 1994....",
                     "...Los Angeles boasts a number of sports venues, including Dodger Stadium, the Los Angeles Memorial Coliseum, BMO Stadium and the Crypto.com Arena....",
+                    "*...Prior to 1995, the Rams played their home games in the Coliseum from 1946 to 1979 which made them the first professional sports team to play in Los Angeles, and then moved to Anaheim Stadium from 1980 until 1994....",
                     "...8 NFL Super Bowls were also held in the city and its surrounding areas- 2 at the Memorial Coliseum (the first Super Bowl, I and VII), 5 at the Rose Bowl in suburban Pasadena (XI, XIV, XVII, XXI, and XXVII), and 1 at the suburban Inglewood (LVI) ...."
                 ]
             }
@@ -1563,28 +1468,6 @@
                 "snippet": [
                     "*...The San Diego Chargers announced on January 12, 2017, that they would also relocate back to Los Angeles (the first since its inaugural season in 1960) and become the Los Angeles Chargers beginning in the 2017 NFL season and played at Dignity Health Sports Park in Carson, California for three seasons....",
                     "*...The Forum, SoFi Stadium, Dignity Health Sports Park, the Rose Bowl, Angel Stadium, and the Honda Center are also in adjacent cities and cities in Los Angeles's metropolitan area...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -118.33901,
-                    33.953407
-                ]
-            },
-            "properties": {
-                "entity": "SoFi Stadium",
-                "name_location": "SoFi Stadium, 1001, Champion Drive, Hollywood Park, Inglewood, Los Angeles County, California, 90301, United States",
-                "class": "leisure",
-                "type": "stadium",
-                "snippet": [
-                    "*...The Rams and the Chargers would soon move to the newly built SoFi Stadium, located in nearby Inglewood during the 2020 season....",
-                    "*...The Forum, SoFi Stadium, Dignity Health Sports Park, the Rose Bowl, Angel Stadium, and the Honda Center are also in adjacent cities and cities in Los Angeles's metropolitan area....",
-                    "*...Los Angeles will be one of eleven US host cities for the 2026 FIFA World Cup with matches set to be held at SoFi Stadium....",
-                    "...It is located on the Westside of Los Angeles near the Sofi Stadium in Inglewood...."
                 ]
             }
         },
@@ -1711,60 +1594,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -118.173016,
-                    34.018926
+                    -118.115073,
+                    34.007649
                 ]
             },
             "properties": {
                 "entity": "Olympic Blvd",
-                "name_location": "Olympic Boulevard, East Los Angeles, Los Angeles County, California, 90022, United States",
+                "name_location": "Olympic Boulevard, Montebello, Los Angeles County, California, 90640, United States",
                 "class": "highway",
                 "type": "secondary",
                 "snippet": [
                     "*...When the tenth Olympic Games were hosted in 1932, the former 10th Street was renamed Olympic Blvd...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -118.288029,
-                    34.013992
-                ]
-            },
-            "properties": {
-                "entity": "Memorial Coliseum",
-                "name_location": "Los Angeles Memorial Coliseum, Olympic Gateway, Exposition Park, Los Angeles, Los Angeles County, California, 90037, United States",
-                "class": "leisure",
-                "type": "stadium",
-                "snippet": [
-                    "...Important landmarks in Los Angeles include the Hollywood Sign, Walt Disney Concert Hall, Capitol Records Building, the Cathedral of Our Lady of the Angels, Angels Flight, Grauman's Chinese Theatre, Dolby Theatre, Griffith Observatory, Getty Center, Getty Villa, Stahl House, the Los Angeles Memorial Coliseum, L.A. Live, the Los Angeles County Museum of Art, the Venice Canal Historic District and boardwalk, Theme Building, Bradbury Building, U.S. Bank Tower, Wilshire Grand Center, Hollywood Boulevard, Los Angeles City Hall, Hollywood Bowl, battleship USS Iowa, Watts Towers, Staples Center, Dodger Stadium, and Olvera Street....",
-                    "...After 21 seasons in St. Louis, on January 12, 2016, the NFL announced the Rams would be moving back to Los Angeles for the 2016 NFL season with its home games played at the Los Angeles Memorial Coliseum for four seasons....",
-                    "...Los Angeles boasts a number of sports venues, including Dodger Stadium, the Los Angeles Memorial Coliseum, BMO Stadium and the Crypto.com Arena....",
-                    "...8 NFL Super Bowls were also held in the city and its surrounding areas- 2 at the Memorial Coliseum (the first Super Bowl, I and VII), 5 at the Rose Bowl in suburban Pasadena (XI, XIV, XVII, XXI, and XXVII), and 1 at the suburban Inglewood (LVI) ...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -118.320558,
-                    34.003934
-                ]
-            },
-            "properties": {
-                "entity": "Greater Los Angeles",
-                "name_location": "YWCA Greater Los Angeles, 2501, West Vernon Avenue, Los Angeles, Los Angeles County, California, 90008, United States",
-                "class": "amenity",
-                "type": "community_centre",
-                "snippet": [
-                    "...Many varieties of Judaism are represented in the greater Los Angeles area, including Reform, Conservative, Orthodox, and Reconstructionist....",
-                    "*...There are numerous additional colleges and universities outside the city limits in the Greater Los Angeles area, including the Claremont Colleges consortium, which includes the most selective liberal arts colleges in the U.S., and the California Institute of Technology (Caltech), one of the top STEM-focused research institutions in the world.\nLos Angeles Unified School District serves almost all of the city of Los Angeles, as well as several surrounding communities, with a student population around 800,000....",
-                    "...There are also a number of smaller regional newspapers, alternative weeklies and magazines, including the Los Angeles Register, Los Angeles Community News, (which focuses on coverage of the greater Los Angeles area), Los Angeles Daily News (which focuses coverage on the San Fernando Valley), LA Weekly, L.A. Record (which focuses coverage on the music scene in the Greater Los Angeles Area), Los Angeles Magazine, the Los Angeles Business Journal, the Los Angeles Daily Journal (legal industry paper), The Hollywood Reporter, Variety (both entertainment industry papers), and Los Angeles Downtown News...."
                 ]
             }
         },
@@ -1841,26 +1681,6 @@
                 "class": "highway",
                 "type": "residential",
                 "snippet": [
-                    "*...The major highways that connect LA to the rest of the nation include Interstate 5, which runs south through San Diego to Tijuana in Mexico and north through Sacramento, Portland, and Seattle to the Canada–US border; Interstate 10, the southernmost east–west, coast-to-coast Interstate Highway in the United States, going to Jacksonville, Florida; and U.S. Route 101, which heads to the California Central Coast, San Francisco, the Redwood Empire, and the Oregon and Washington coasts...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -117.715928,
-                    34.699103
-                ]
-            },
-            "properties": {
-                "entity": "Interstate Highway",
-                "name_location": "East Avenue Interstate Highway 6, Los Angeles County, California, United States",
-                "class": "highway",
-                "type": "residential",
-                "snippet": [
-                    "...The expansion of the Interstate Highway System during the 1950s and 1960s helped propel suburban growth and signaled the demise of the city's electrified rail system, once the world's largest....",
                     "*...The major highways that connect LA to the rest of the nation include Interstate 5, which runs south through San Diego to Tijuana in Mexico and north through Sacramento, Portland, and Seattle to the Canada–US border; Interstate 10, the southernmost east–west, coast-to-coast Interstate Highway in the United States, going to Jacksonville, Florida; and U.S. Route 101, which heads to the California Central Coast, San Francisco, the Redwood Empire, and the Oregon and Washington coasts...."
                 ]
             }
@@ -1969,6 +1789,31 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -118.33901,
+                    33.953407
+                ]
+            },
+            "properties": {
+                "entity": "Sofi Stadium",
+                "name_location": "SoFi Stadium, 1001, Champion Drive, Hollywood Park, Inglewood, Los Angeles County, California, 90301, United States",
+                "class": "leisure",
+                "type": "stadium",
+                "snippet": [
+                    "...The Rams and the Chargers would soon move to the newly built SoFi Stadium, located in nearby Inglewood during the 2020 season....",
+                    "...The Forum, SoFi Stadium, Dignity Health Sports Park, the Rose Bowl, Angel Stadium, and the Honda Center are also in adjacent cities and cities in Los Angeles's metropolitan area....",
+                    "...Los Angeles will be one of eleven US host cities for the 2026 FIFA World Cup with matches set to be held at SoFi Stadium....",
+                    "...It is located on the Westside of Los Angeles near the Sofi Stadium in Inglewood....",
+                    "*...The Rams and the Chargers would soon move to the newly built SoFi Stadium, located in nearby Inglewood during the 2020 season....",
+                    "*...The Forum, SoFi Stadium, Dignity Health Sports Park, the Rose Bowl, Angel Stadium, and the Honda Center are also in adjacent cities and cities in Los Angeles's metropolitan area....",
+                    "*...Los Angeles will be one of eleven US host cities for the 2026 FIFA World Cup with matches set to be held at SoFi Stadium...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -118.351523,
                     34.192475
                 ]
@@ -1994,61 +1839,11 @@
             },
             "properties": {
                 "entity": "Bob Hope Airport",
-                "name_location": "Hollywood Burbank Airport, Burbank Airport, Burbank, Los Angeles County, California, 91504, United States",
+                "name_location": "Hollywood Burbank Airport, Craner Avenue, Los Angeles, Los Angeles County, California, 91606, United States",
                 "class": "aeroway",
                 "type": "aerodrome",
                 "snippet": [
                     "*...(IATA: BUR, ICAO: KBUR) Hollywood Burbank Airport, jointly owned by the cities of Burbank, Glendale, and Pasadena. Formerly known as Bob Hope Airport and Burbank Airport, the closest airport to Downtown Los Angeles serves the San Fernando, San Gabriel, and Antelope Valleys...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -118.354169,
-                    34.193903
-                ]
-            },
-            "properties": {
-                "entity": "Burbank Airport",
-                "name_location": "Burbank Airport, Burbank, Los Angeles County, California, 91515, United States",
-                "class": "highway",
-                "type": "service",
-                "snippet": [
-                    "*...(IATA: BUR, ICAO: KBUR) Hollywood Burbank Airport, jointly owned by the cities of Burbank, Glendale, and Pasadena. Formerly known as Bob Hope Airport and Burbank Airport, the closest airport to Downtown Los Angeles serves the San Fernando, San Gabriel, and Antelope Valleys...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -118.247113,
-                    34.047727
-                ]
-            },
-            "properties": {
-                "entity": "San Fernando",
-                "name_location": "The San Fernando Building, 400, South Main Street, Toy District, Downtown, Los Angeles, Los Angeles County, California, 90013, United States",
-                "class": "building",
-                "type": "apartments",
-                "snippet": [
-                    "...The majority of the city proper lies in a basin in Southern California adjacent to the Pacific Ocean in the west and extending partly through the Santa Monica Mountains and north into the San Fernando Valley, with the city bordering the San Gabriel Valley to its east....",
-                    "...After the end of World War II Los Angeles grew more rapidly than ever, sprawling into the San Fernando Valley....",
-                    "...In 2002, Mayor James Hahn led the campaign against secession, resulting in voters defeating efforts by the San Fernando Valley and Hollywood to secede from the city....",
-                    "...The highest point in the city proper is Mount Lukens at 5,074 ft (1,547 m), located at the northeastern end of the San Fernando Valley....",
-                    "...The eastern end of the Santa Monica Mountains stretches from Downtown to the Pacific Ocean and separates the Los Angeles Basin from the San Fernando Valley....",
-                    "...The river begins in the Canoga Park district of the city, flows east from the San Fernando Valley along the north edge of the Santa Monica Mountains, and turns south through the city center, flowing to its mouth in the Port of Long Beach at the Pacific Ocean....",
-                    "*...Major earthquakes that have hit the Los Angeles area include the 1933 Long Beach, 1971 San Fernando, 1987 Whittier Narrows, and the 1994 Northridge events....",
-                    "...Temperatures in the San Fernando and San Gabriel Valleys are considerably warmer....",
-                    "...Within the City of Los Angeles, the highest temperature ever officially recorded is 121 °F (49 °C), on September 6, 2020, at the weather station at Pierce College in the San Fernando Valley neighborhood of Woodland Hills....",
-                    "...The Los Angeles Basin and the San Fernando Valley are susceptible to atmospheric inversion, which holds in the exhausts from road vehicles, airplanes, locomotives, shipping, manufacturing, and other sources....",
-                    "...Many of Los Angeles's Jews now live on the Westside and in the San Fernando Valley, though Boyle Heights once had a large Jewish population prior to World War II due to restrictive housing covenants....",
-                    "...There are also a number of smaller regional newspapers, alternative weeklies and magazines, including the Los Angeles Register, Los Angeles Community News, (which focuses on coverage of the greater Los Angeles area), Los Angeles Daily News (which focuses coverage on the San Fernando Valley), LA Weekly, L.A. Record (which focuses coverage on the music scene in the Greater Los Angeles Area), Los Angeles Magazine, the Los Angeles Business Journal, the Los Angeles Daily Journal (legal industry paper), The Hollywood Reporter, Variety (both entertainment industry papers), and Los Angeles Downtown News....",
-                    "...(IATA: BUR, ICAO: KBUR) Hollywood Burbank Airport, jointly owned by the cities of Burbank, Glendale, and Pasadena. Formerly known as Bob Hope Airport and Burbank Airport, the closest airport to Downtown Los Angeles serves the San Fernando, San Gabriel, and Antelope Valleys...."
                 ]
             }
         },
@@ -2095,27 +1890,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -118.280026,
-                    33.727972
-                ]
-            },
-            "properties": {
-                "entity": "Port of Los Angeles",
-                "name_location": "CRAFTED at the Port of Los Angeles, 112, Miner Street, Port of Los Angeles, San Pedro, Los Angeles, Los Angeles County, California, 90731, United States",
-                "class": "building",
-                "type": "warehouse",
-                "snippet": [
-                    "...The Port of Los Angeles is in San Pedro Bay in the San Pedro neighborhood, approximately 20 miles (32 km) south of Downtown....",
-                    "...The sea ports of the Port of Los Angeles and Port of Long Beach together make up the Los Angeles/Long Beach Harbor....",
-                    "...Singly, the Port of Los Angeles is the busiest container port in the United States and the largest cruise ship center on the West Coast of the United States – The Port of Los Angeles's World Cruise Center served about 590,000 passengers in 2014...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -118.446217,
                     33.970444
                 ]
@@ -2128,27 +1902,6 @@
                 "snippet": [
                     "...Los Angeles Harbor College ;...",
                     "*...Also called Los Angeles Harbor and WORLDPORT LA, the port complex occupies 7,500 acres (30 km2) of land and water along 43 miles (69 km) of waterfront...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -118.136499,
-                    33.810644
-                ]
-            },
-            "properties": {
-                "entity": "Port of Long",
-                "name_location": "Port of Long Beach, 4801, Airport Plaza Drive, Long Beach, Los Angeles County, California, 90815, United States",
-                "class": "building",
-                "type": "commercial",
-                "snippet": [
-                    "...The river begins in the Canoga Park district of the city, flows east from the San Fernando Valley along the north edge of the Santa Monica Mountains, and turns south through the city center, flowing to its mouth in the Port of Long Beach at the Pacific Ocean....",
-                    "*...It adjoins the separate Port of Long Beach....",
-                    "*...The sea ports of the Port of Los Angeles and Port of Long Beach together make up the Los Angeles/Long Beach Harbor...."
                 ]
             }
         },

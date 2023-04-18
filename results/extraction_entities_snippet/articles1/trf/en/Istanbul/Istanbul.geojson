@@ -6,98 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    29.057759,
-                    41.091027
-                ]
-            },
-            "properties": {
-                "entity": "Bosporus",
-                "name_location": "Fatih Sultan Mehmet Bridge, Rumelihisarı Mahallesi, Sarıyer, Istanbul, Marmara Region, 34470, Turkey",
-                "class": "highway",
-                "type": "motorway",
-                "snippet": [
-                    "*...The city straddles the Bosporus strait, lying in both Europe and Asia, and has a population of over 15 million residents, comprising 19% of the population of Turkey....",
-                    "*...The history of the city proper begins around 660 BCE, when Greek settlers from Megara established Byzantium on the European side of the Bosporus....",
-                    "...Istanbul is located in north-western Turkey and straddles the Bosporus Strait, which provides the only passage from the Black Sea to the Mediterranean via the Sea of Marmara....",
-                    "*...Historically, the city has been ideally situated for trade and defense: The confluence of the Sea of Marmara, the Bosporus, and the Golden Horn provide both ideal defense against enemy attack and a natural toll-gate....",
-                    "*...Dolmabahçe Palace, the seat of government during the late Ottoman period, is in the Beşiktaş district on the European shore of the Bosporus strait, to the north of Beyoğlu....",
-                    "*...The former village of Ortaköy is within Beşiktaş and gives its name to the Ortaköy Mosque on the Bosporus, near the Bosporus Bridge....",
-                    "*...Lining both the European and Asian shores of the Bosporus are the historic yalıs, luxurious chalet mansions built by Ottoman aristocrats and elites as summer homes....",
-                    "*...Much of the Asian side of the Bosporus functions as a suburb of the economic and commercial centers in European Istanbul, accounting for a third of the city's population but only a quarter of its employment....",
-                    "*...The Neolithic settlement in the Yenikapı quarter on the European side, which dates back to c. 6500 BCE and predates the formation of the Bosporus strait by approximately a millennium (when the Sea of Marmara was still a lake) was discovered during the construction of the Marmaray railway tunnel....",
-                    "*...Istanbul, which straddles the Bosporus strait, houses international ports that link Europe and Asia....",
-                    "*...The Bosporus, providing the only passage from the Black Sea to the Mediterranean, is the world's busiest and narrowest strait used for international navigation, with more than  tons of oil passing through it each year....",
-                    "*...Istanbul has three major shipping ports – the Port of Haydarpaşa, the Port of Ambarlı, and the Port of Zeytinburnu – as well as several smaller ports and oil terminals along the Bosporus and the Sea of Marmara....",
-                    "*...Haydarpaşa, at the southeastern end of the Bosporus, was Istanbul's largest port until the early 2000s....",
-                    "*...Many of the city's most popular and upscale seafood restaurants line the shores of the Bosporus (particularly in neighborhoods like Ortaköy, Bebek, Arnavutköy, Yeniköy, Beylerbeyi and Çengelköy)....",
-                    "*...Istanbul was occasionally a venue of the F1 Powerboat World Championship, with the last race on the Bosporus strait on 12–13 August 2000.[unreliable source?]...",
-                    "*...The last race of the Powerboat P1 World Championship on the Bosporus took place on 19–21 June 2009....",
-                    "*...The suspension bridges on the Bosporus strait\nIstanbul's motorways network are the O-1, O-2, O-3, O-4 and O-7....",
-                    "*...The natural vegetation cover of the Bosporus region is made up of temperate broadleaf and mixed forests and pseudo-maquis....",
-                    "*...Bosporus hosts pelagic, demersal and semipelagic fish species and more than 130 different taxa have been documented in the strait....",
-                    "*...Common bottlenose dolphin (Turkish: afalina), short-beaked common dolphin (Turkish: tırtak) and harbor porpoise (Turkish: mutur) make up the marine mammals presently found in the Bosporus and surrounding waters, though since the 1950s the number of dolphin observations has become increasingly rare....",
-                    "*...Mediterranean monk seals were present in Bosporus, and Princes' Islands and Tuzla shores were seal breeding areas during summer, but they have not been observed in Istanbul since the 1960s and thought to be extinct in the region....",
-                    "*...Algal blooms and red tides were reported in Sea of Marmara and Bosporus (especially in Golden Horn), and regularly happen in urban lakes such as Lake Büyükçekmece and Küçükçekmece...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    28.966395,
-                    41.016124
-                ]
-            },
-            "properties": {
-                "entity": "Europe",
-                "name_location": "Sahmat Europe Hookah lounge, 20, Siyavuş Paşa Sokağı, Süleymaniye Mahallesi, Istanbul, Fatih, Istanbul, Marmara Region, 34116, Turkey",
-                "class": "amenity",
-                "type": "cafe",
-                "snippet": [
-                    "*...The city straddles the Bosporus strait, lying in both Europe and Asia, and has a population of over 15 million residents, comprising 19% of the population of Turkey....",
-                    "*...That early settlement, important in the spread of the Neolithic Revolution from the Near East to Europe, lasted for almost a millennium before being inundated by rising water levels....",
-                    "*...Constantinople's location also ensured its existence would stand the test of time; for many centuries, its walls and seafront protected Europe against invaders from the east and the advance of Islam....",
-                    "*...He also invited people from all over Europe to his capital, creating a cosmopolitan society that persisted through much of the Ottoman period....",
-                    "*...Another park, Fethi Paşa Korusu, is on a hillside adjacent to the Bosphorus Bridge in Anatolia, opposite Yıldız Palace in Europe....",
-                    "*...It never returned to being the world's largest, but remained the largest city in Europe from 1500 to 1750, when it was surpassed by London....",
-                    "*...Istanbul ranks as the seventh-largest city proper in the world, and the second-largest urban agglomeration in Europe, after Moscow....",
-                    "*...In marked contrast to Jews in Europe, Ottoman Jews were allowed to work in any profession....",
-                    "*...Istanbul, which straddles the Bosporus strait, houses international ports that link Europe and Asia....",
-                    "*...The new national government established programs that served to orient Turks toward musical traditions, especially those originating in Europe, but musical institutions and visits by foreign classical artists were primarily centered in the new capital....",
-                    "*...Akmerkez was awarded the titles of \"Europe's best\" and \"World's best\" shopping mall by the International Council of Shopping Centers in 1995 and 1996; Istanbul Cevahir has been one of the continent's largest since opening in 2005; and Kanyon won the Cityscape Architectural Review Award in the Commercial Built category in 2006....",
-                    "*...The Sinan Erdem Dome, among the largest indoor arenas in Europe, hosted the final of the 2010 FIBA World Championship, the 2012 IAAF World Indoor Championships, as well as the 2011–12 Euroleague and 2016–17 EuroLeague Final Fours....",
-                    "*...Istanbul's main bus station is the largest in Europe, with a daily capacity of  and , serving destinations as distant as Frankfurt....",
-                    "*...It handled  passengers in 2015, which made it the third-busiest airport in Europe and the 18th-busiest in the world in that year...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    29.057738,
-                    41.073848
-                ]
-            },
-            "properties": {
-                "entity": "Asia",
-                "name_location": "İoki Asia, Kandilli Caddesi, Kandilli Mahallesi, Üsküdar, Istanbul, Marmara Region, 34684, Turkey",
-                "class": "amenity",
-                "type": "restaurant",
-                "snippet": [
-                    "*...The city straddles the Bosporus strait, lying in both Europe and Asia, and has a population of over 15 million residents, comprising 19% of the population of Turkey....",
-                    "*...Istanbul, which straddles the Bosporus strait, houses international ports that link Europe and Asia...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     28.976592,
                     41.012971
                 ]
@@ -420,7 +328,29 @@
                 "class": "highway",
                 "type": "motorway",
                 "snippet": [
-                    "...The former village of Ortaköy is within Beşiktaş and gives its name to the Ortaköy Mosque on the Bosporus, near the Bosporus Bridge...."
+                    "...The former village of Ortaköy is within Beşiktaş and gives its name to the Ortaköy Mosque on the Bosporus, near the Bosporus Bridge....",
+                    "*...The city straddles the Bosporus strait, lying in both Europe and Asia, and has a population of over 15 million residents, comprising 19% of the population of Turkey....",
+                    "*...The history of the city proper begins around 660 BCE, when Greek settlers from Megara established Byzantium on the European side of the Bosporus....",
+                    "...Istanbul is located in north-western Turkey and straddles the Bosporus Strait, which provides the only passage from the Black Sea to the Mediterranean via the Sea of Marmara....",
+                    "*...Historically, the city has been ideally situated for trade and defense: The confluence of the Sea of Marmara, the Bosporus, and the Golden Horn provide both ideal defense against enemy attack and a natural toll-gate....",
+                    "*...Dolmabahçe Palace, the seat of government during the late Ottoman period, is in the Beşiktaş district on the European shore of the Bosporus strait, to the north of Beyoğlu....",
+                    "*...The former village of Ortaköy is within Beşiktaş and gives its name to the Ortaköy Mosque on the Bosporus, near the Bosporus Bridge....",
+                    "*...Lining both the European and Asian shores of the Bosporus are the historic yalıs, luxurious chalet mansions built by Ottoman aristocrats and elites as summer homes....",
+                    "*...Much of the Asian side of the Bosporus functions as a suburb of the economic and commercial centers in European Istanbul, accounting for a third of the city's population but only a quarter of its employment....",
+                    "*...The Neolithic settlement in the Yenikapı quarter on the European side, which dates back to c. 6500 BCE and predates the formation of the Bosporus strait by approximately a millennium (when the Sea of Marmara was still a lake) was discovered during the construction of the Marmaray railway tunnel....",
+                    "*...Istanbul, which straddles the Bosporus strait, houses international ports that link Europe and Asia....",
+                    "*...The Bosporus, providing the only passage from the Black Sea to the Mediterranean, is the world's busiest and narrowest strait used for international navigation, with more than  tons of oil passing through it each year....",
+                    "*...Istanbul has three major shipping ports – the Port of Haydarpaşa, the Port of Ambarlı, and the Port of Zeytinburnu – as well as several smaller ports and oil terminals along the Bosporus and the Sea of Marmara....",
+                    "*...Haydarpaşa, at the southeastern end of the Bosporus, was Istanbul's largest port until the early 2000s....",
+                    "*...Many of the city's most popular and upscale seafood restaurants line the shores of the Bosporus (particularly in neighborhoods like Ortaköy, Bebek, Arnavutköy, Yeniköy, Beylerbeyi and Çengelköy)....",
+                    "*...Istanbul was occasionally a venue of the F1 Powerboat World Championship, with the last race on the Bosporus strait on 12–13 August 2000.[unreliable source?]...",
+                    "*...The last race of the Powerboat P1 World Championship on the Bosporus took place on 19–21 June 2009....",
+                    "*...The suspension bridges on the Bosporus strait\nIstanbul's motorways network are the O-1, O-2, O-3, O-4 and O-7....",
+                    "*...The natural vegetation cover of the Bosporus region is made up of temperate broadleaf and mixed forests and pseudo-maquis....",
+                    "*...Bosporus hosts pelagic, demersal and semipelagic fish species and more than 130 different taxa have been documented in the strait....",
+                    "*...Common bottlenose dolphin (Turkish: afalina), short-beaked common dolphin (Turkish: tırtak) and harbor porpoise (Turkish: mutur) make up the marine mammals presently found in the Bosporus and surrounding waters, though since the 1950s the number of dolphin observations has become increasingly rare....",
+                    "*...Mediterranean monk seals were present in Bosporus, and Princes' Islands and Tuzla shores were seal breeding areas during summer, but they have not been observed in Istanbul since the 1960s and thought to be extinct in the region....",
+                    "*...Algal blooms and red tides were reported in Sea of Marmara and Bosporus (especially in Golden Horn), and regularly happen in urban lakes such as Lake Büyükçekmece and Küçükçekmece...."
                 ]
             }
         },
@@ -459,29 +389,6 @@
                 "type": "brewery",
                 "snippet": [
                     "*...Maslak, Levent, and Bomonti are important nodes within the CBD...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    28.825102,
-                    40.977983
-                ]
-            },
-            "properties": {
-                "entity": "Atatürk Airport",
-                "name_location": "Istanbul Atatürk Airport, Yenibosna Kavşağı, Fevzi Çakmak Mahallesi, Bahçelievler, Istanbul, Marmara Region, 34196, Turkey",
-                "class": "aeroway",
-                "type": "aerodrome",
-                "snippet": [
-                    "*...The Atatürk Airport corridor is another such edge city-style business, residential and shopping corridor with over 900,000 m2 (9,700,000 sq ft) of class-A office space....",
-                    "...The O-7 motorway from Kinali Gişeleri to Istanbul Park Service has 139.2 km, with 8 lanes (4x4), and from Odayeri-K10 to Istanbul Atatürk Airport has 30.4 km....",
-                    "...The O-7 motorway connects Istanbul Atatürk Airport with Istanbul Airport....",
-                    "...All scheduled commercial passenger flights were transferred from Istanbul Atatürk Airport to Istanbul Airport on 6 April 2019, following the closure of Istanbul Atatürk Airport for scheduled passenger flights....",
-                    "...Istanbul Atatürk Airport, located 24 kilometers (15 mi) west of the city center, on the European side, near the Marmara Sea coast, was formerly the city's largest airport...."
                 ]
             }
         },
@@ -598,53 +505,12 @@
                 ]
             },
             "properties": {
-                "entity": "Bosphorus Bridge",
-                "name_location": "Fatih Sultan Mehmet Bridge, Rumelihisarı Mahallesi, Sarıyer, Istanbul, Marmara Region, 34470, Turkey",
-                "class": "highway",
-                "type": "motorway",
-                "snippet": [
-                    "...Another park, Fethi Paşa Korusu, is on a hillside adjacent to the Bosphorus Bridge in Anatolia, opposite Yıldız Palace in Europe....",
-                    "...The Metrobus, a form of bus rapid transit, crosses the Bosphorus Bridge, with dedicated lanes leading to its termini...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    29.057759,
-                    41.091027
-                ]
-            },
-            "properties": {
                 "entity": "Fatih Sultan Mehmet Bridge",
                 "name_location": "Fatih Sultan Mehmet Bridge, Rumelihisarı Mahallesi, Sarıyer, Istanbul, Marmara Region, 34470, Turkey",
                 "class": "highway",
                 "type": "motorway",
                 "snippet": [
                     "...Along the European side, and close to the Fatih Sultan Mehmet Bridge, is Emirgan Park, which was known as the Kyparades (Cypress Forest) during the Byzantine period...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    29.056252,
-                    41.103023
-                ]
-            },
-            "properties": {
-                "entity": "Emirgan",
-                "name_location": "Emirgan, Sakıp Sabancı Caddesi, Boyacıköy, Emirgan Mahallesi, Sarıyer, Istanbul, Marmara Region, 34467, Turkey",
-                "class": "amenity",
-                "type": "ferry_terminal",
-                "snippet": [
-                    "...Along the European side, and close to the Fatih Sultan Mehmet Bridge, is Emirgan Park, which was known as the Kyparades (Cypress Forest) during the Byzantine period....",
-                    "*...In the Ottoman period, it was first granted to Nişancı Feridun Ahmed Bey in the 16th century, before being granted by Sultan Murad IV to the Safavid Emir Gûne Han in the 17th century, hence the name Emirgan....",
-                    "...Emirgan Park is known for its diversity of plants and an annual tulip festival is held there since 2005...."
                 ]
             }
         },
@@ -748,31 +614,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.975977,
-                    41.006516
-                ]
-            },
-            "properties": {
-                "entity": "Hippodrome",
-                "name_location": "Sultan Ahmet Square, Binbirdirek Mahallesi, Istanbul, Fatih, Istanbul, Marmara Region, 34122, Turkey",
-                "class": "highway",
-                "type": "pedestrian",
-                "snippet": [
-                    "...Constantine also undertook a major renovation and expansion of the Hippodrome of Constantinople; accommodating tens of thousands of spectators, the hippodrome became central to civic life and, in the 5th and 6th centuries, the center of episodes of unrest, including the Nika riots....",
-                    "...The obelisk that would become the Obelisk of Theodosius remained in Alexandria until 390 CE, when Theodosius I (r. 379–395 CE) had it transported to Constantinople and put up on the spina of the Hippodrome there....",
-                    "...-erected at the Hippodrome of Constantinople, the obelisk was mounted on a decorative base, with reliefs that depict Theodosius I and his courtiers....",
-                    "...The lower part of the obelisk was damaged in antiquity, probably during its transport to Alexandria in 357 CE or during its re-erection at the Hippodrome of Constantinople in 390 CE....",
-                    "...It was brought from Delphi in 324 CE, during the reign of Constantine the Great, and also erected at the spina of the Hippodrome....",
-                    "*...Built in porphyry and erected at the center of the Forum of Constantine in 330 CE to mark the founding of the new Roman capital, the Column of Constantine was originally adorned with a sculpture of the Roman emperor Constantine the Great depicted as the solar god Apollo on its top, which fell in 1106 and was later replaced by a cross during the reign of Byzantine emperor Manuel Komnenos (r. 1143–1180).\nThere are traces of the Byzantine era throughout the city, from ancient churches that were built over early Christian meeting places like the Hagia Irene, the Chora Church, the Monastery of Stoudios, the Church of Sts. Sergius and Bacchus, the Church of Theotokos Pammakaristos, the Monastery of the Pantocrator, the Monastery of Christ Pantepoptes, the Hagia Theodosia, the Church of Theotokos Kyriotissa, the Monastery of Constantine Lips, the Church of Myrelaion, the Hagios Theodoros, etc.; to palaces like the Great Palace of Constantinople and its Mosaic Museum, the Palace of the Porphyrogenitus, Boukoleon Palace and Palace of Blachernae; and other public places and buildings like the Hippodrome, the Augustaion, the Basilica Cistern, Theodosius Cistern, Cistern of Philoxenos and Cistern of the Hebdomon, the Aqueduct of Valens, the Prison of Anemas, the Walls of Constantinople and the Porta Aurea (Golden Gate), among numerous others....",
-                    "...The Sultan Ahmed Mosque (Blue Mosque), another landmark of the city, faces the Hagia Sophia at Sultanahmet Square (Hippodrome of Constantinople). The Süleymaniye Mosque, built by Suleiman the Magnificent, was designed by his chief architect Mimar Sinan, the most illustrious of all Ottoman architects, who designed many of the city's renowned mosques and other types of public buildings and monuments...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     28.977922,
                     41.008402
                 ]
@@ -817,36 +658,11 @@
             },
             "properties": {
                 "entity": "Prison of Anemas",
-                "name_location": "Prison of Anemas, Avcıbaşı Sokağı, Ayvansaray Mahallesi, Istanbul, Fatih, Istanbul, Marmara Region, 34050, Turkey",
+                "name_location": "Prison of Anemas, Avcıbaşı Sokağı, Ayvansaray Mahallesi, Istanbul, Fatih, Istanbul, Marmara Region, 34087, Turkey",
                 "class": "tourism",
                 "type": "attraction",
                 "snippet": [
                     "...Built in porphyry and erected at the center of the Forum of Constantine in 330 CE to mark the founding of the new Roman capital, the Column of Constantine was originally adorned with a sculpture of the Roman emperor Constantine the Great depicted as the solar god Apollo on its top, which fell in 1106 and was later replaced by a cross during the reign of Byzantine emperor Manuel Komnenos (r. 1143–1180).\nThere are traces of the Byzantine era throughout the city, from ancient churches that were built over early Christian meeting places like the Hagia Irene, the Chora Church, the Monastery of Stoudios, the Church of Sts. Sergius and Bacchus, the Church of Theotokos Pammakaristos, the Monastery of the Pantocrator, the Monastery of Christ Pantepoptes, the Hagia Theodosia, the Church of Theotokos Kyriotissa, the Monastery of Constantine Lips, the Church of Myrelaion, the Hagios Theodoros, etc.; to palaces like the Great Palace of Constantinople and its Mosaic Museum, the Palace of the Porphyrogenitus, Boukoleon Palace and Palace of Blachernae; and other public places and buildings like the Hippodrome, the Augustaion, the Basilica Cistern, Theodosius Cistern, Cistern of Philoxenos and Cistern of the Hebdomon, the Aqueduct of Valens, the Prison of Anemas, the Walls of Constantinople and the Porta Aurea (Golden Gate), among numerous others...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    28.97584,
-                    41.013326
-                ]
-            },
-            "properties": {
-                "entity": "Marmaray",
-                "name_location": "Marmaray Sirkeci Metro İstasyonu, Ebussuud Caddesi, Hocapaşa Mahallesi, Istanbul, Fatih, Istanbul, Marmara Region, 34110, Turkey",
-                "class": "office",
-                "type": "government",
-                "snippet": [
-                    "*...The Neolithic settlement in the Yenikapı quarter on the European side, which dates back to c. 6500 BCE and predates the formation of the Bosporus strait by approximately a millennium (when the Sea of Marmara was still a lake) was discovered during the construction of the Marmaray railway tunnel....",
-                    "*...The 4th century Harbor of Theodosius in Yenikapı, once the busiest port in Constantinople, was among the numerous archeological discoveries that took place during the excavations of the Marmaray tunnel....",
-                    "...The two sides of Istanbul's metro are connected under the Bosphorus by the Marmaray Tunnel, inaugurated in 2013 as the first rail connection between Thrace and Anatolia, having 13.5 km length....",
-                    "*...The Marmaray tunnel together with the suburban railways lines along the Sea of Marmara, form the intercontinental commuter rail line in Istanbul, named officially B1, from Halkalı on the European side to Gebze on the Asian side....",
-                    "*...Regular service to Bucharest and Thessaloniki continued until the early 2010s, when the former was interrupted for Marmaray construction but started running again in 2019 and the latter was halted due to economic problems in Greece....",
-                    "*...Service to Ankara and other points across Turkey is normally offered by Turkish State Railways, but the construction of Marmaray and the Ankara-Istanbul high-speed line forced the station to close in 2012....",
-                    "*...New stations to replace both the Haydarpaşa and Sirkeci terminals, and connect the city's disjointed railway networks, now the Marmaray second phase opened to the public...."
                 ]
             }
         },
@@ -1068,64 +884,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.95656,
-                    41.009391
-                ]
-            },
-            "properties": {
-                "entity": "Black",
-                "name_location": "Black Lion, Ordu Avenue, Mesihpaşa Mahallesi, Istanbul, Fatih, Istanbul, Marmara Region, 34130, Turkey",
-                "class": "shop",
-                "type": "clothes",
-                "snippet": [
-                    "...Istanbul is located in north-western Turkey and straddles the Bosporus Strait, which provides the only passage from the Black Sea to the Mediterranean via the Sea of Marmara....",
-                    "...According to 2020 TÜİK data around 2.1 million people in a population of over 15.4 million have been registered in Istanbul, meanwhile the vast majority of the residents ultimately originate from Anatolian provinces, especially those in the Black Sea, Central and Eastern Anatolia regions due to internal migration since the 1950s....",
-                    "...The Bosporus, providing the only passage from the Black Sea to the Mediterranean, is the world's busiest and narrowest strait used for international navigation, with more than  tons of oil passing through it each year....",
-                    "*...International conventions guarantee passage between the Black and the Mediterranean seas, even when tankers carry oil, LNG/LPG, chemicals, and other flammable or explosive materials as cargo....",
-                    "*...In 2011, as a workaround solution, the then Prime Minister Erdoğan presented Canal Istanbul, a project to open a new strait between the Black and Marmara seas....",
-                    "...İDO (Istanbul Seabuses) runs a combination of all-passenger ferries and car-and-passenger ferries to ports on both sides of the Bosphorus, as far north as the Black Sea....",
-                    "...The largest is the new Istanbul Airport, opened in 2018 in the Arnavutköy district to the northwest of the city center, on the European side, near the Black Sea coast....",
-                    "...Turkish Straits and Sea of Marmara play a vital role for migrating fish and other marine animals between Mediterranean, Marmara and Black Sea...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    28.975321,
-                    41.011953
-                ]
-            },
-            "properties": {
-                "entity": "Marmara",
-                "name_location": "Marmara, Ankara Caddesi, Sirkeci, Hobyar Mahallesi, Istanbul, Fatih, Istanbul, Marmara Region, 34112, Turkey",
-                "class": "amenity",
-                "type": "restaurant",
-                "snippet": [
-                    "...Istanbul is located in north-western Turkey and straddles the Bosporus Strait, which provides the only passage from the Black Sea to the Mediterranean via the Sea of Marmara....",
-                    "...Historically, the city has been ideally situated for trade and defense: The confluence of the Sea of Marmara, the Bosporus, and the Golden Horn provide both ideal defense against enemy attack and a natural toll-gate....",
-                    "...The Neolithic settlement in the Yenikapı quarter on the European side, which dates back to c. 6500 BCE and predates the formation of the Bosporus strait by approximately a millennium (when the Sea of Marmara was still a lake) was discovered during the construction of the Marmaray railway tunnel....",
-                    "*...In 2011, as a workaround solution, the then Prime Minister Erdoğan presented Canal Istanbul, a project to open a new strait between the Black and Marmara seas....",
-                    "...Istanbul has three major shipping ports – the Port of Haydarpaşa, the Port of Ambarlı, and the Port of Zeytinburnu – as well as several smaller ports and oil terminals along the Bosporus and the Sea of Marmara....",
-                    "...Kumkapı along the Sea of Marmara has a pedestrian zone that hosts around fifty fish restaurants....",
-                    "*...Istanbul also has long-running Armenian language newspapers, notably the dailies Marmara and Jamanak and the bilingual weekly Agos in Armenian and Turkish....",
-                    "...The O-7 or Kuzey Marmara Otoyolu, is a motorway that bypass Istanbul to the north....",
-                    "...The Marmaray tunnel together with the suburban railways lines along the Sea of Marmara, form the intercontinental commuter rail line in Istanbul, named officially B1, from Halkalı on the European side to Gebze on the Asian side....",
-                    "...With additional destinations around the Sea of Marmara, İDO runs the largest municipal ferry operation in the world....",
-                    "...Istanbul Atatürk Airport, located 24 kilometers (15 mi) west of the city center, on the European side, near the Marmara Sea coast, was formerly the city's largest airport....",
-                    "*...Turkish Straits and Sea of Marmara play a vital role for migrating fish and other marine animals between Mediterranean, Marmara and Black Sea....",
-                    "...Algal blooms and red tides were reported in Sea of Marmara and Bosporus (especially in Golden Horn), and regularly happen in urban lakes such as Lake Büyükçekmece and Küçükçekmece....",
-                    "...In June 2021 a marine mucilage wave allegedly caused by water pollution spread to Sea of Marmara...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     28.975009,
                     41.023559
                 ]
@@ -1137,26 +895,6 @@
                 "type": "tertiary",
                 "snippet": [
                     "*...In 1995, keeping up with the financial trends, Borsa Istanbul moved its headquarters (which was originally located on Bankalar Caddesi, the financial center of the Ottoman Empire, and later at the 4th Vakıf Han building in Sirkeci) to İstinye, in the vicinity of Maslak, which hosts the headquarters of numerous Turkish banks...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    28.979318,
-                    41.023197
-                ]
-            },
-            "properties": {
-                "entity": "Galataport",
-                "name_location": "Galataport, Kemankeş Caddesi, Karaköy, Kemankeş Karamustafa Paşa, Kemankeş Karamustafa Paşa Mahallesi, Beyoğlu, Istanbul, Marmara Region, 34425, Turkey",
-                "class": "amenity",
-                "type": "ferry_terminal",
-                "snippet": [
-                    "*...Istanbul expects 1 million tourists from cruise companies after the renovation of its cruise port, also known as Galataport in Karaköy district....",
-                    "...Abdi İpekçi Street in Nişantaşı, Galataport Shopping Area in Karaköy and Bağdat Avenue on the Anatolian side of the city have evolved into high-end shopping districts...."
                 ]
             }
         },
@@ -1320,7 +1058,7 @@
             },
             "properties": {
                 "entity": "Kanyon",
-                "name_location": "Kanyon Sokağı, Silahtarağa Mahallesi, Eyüpsultan, Istanbul, Marmara Region, 34240, Turkey",
+                "name_location": "Kanyon Sokağı, Silahtarağa Mahallesi, Eyüpsultan, Istanbul, Marmara Region, 34050, Turkey",
                 "class": "highway",
                 "type": "residential",
                 "snippet": [
@@ -1421,33 +1159,6 @@
                 "snippet": [
                     "...The Princes' Islands, 15 kilometers (9 mi) from the city center, are also popular for their seafood restaurants....",
                     "...Mediterranean monk seals were present in Bosporus, and Princes' Islands and Tuzla shores were seal breeding areas during summer, but they have not been observed in Istanbul since the 1960s and thought to be extinct in the region...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    28.975649,
-                    41.008155
-                ]
-            },
-            "properties": {
-                "entity": "Bosphorus",
-                "name_location": "Bosphorus Tours, Doktor Eminpaşa Sokağı, Alemdar Mahallesi, Istanbul, Fatih, Istanbul, Marmara Region, 34110, Turkey",
-                "class": "shop",
-                "type": "travel_agency",
-                "snippet": [
-                    "...Another park, Fethi Paşa Korusu, is on a hillside adjacent to the Bosphorus Bridge in Anatolia, opposite Yıldız Palace in Europe....",
-                    "*...Apart from the city's numerous stadiums, sports halls and concert halls, there are several open-air venues for concerts and festivals, such as the Cemil Topuzlu Open-Air Theatre in Harbiye, Paraf Kuruçeşme Open-Air on the Bosphorus shore in Kuruçeşme, and Parkorman in the forest of Maslak....",
-                    "...The O-1 forms the city's inner ring road, traversing the 15 July Martyrs (First Bosphorus) Bridge, and the O-2 is the city's outer ring road, crossing the Fatih Sultan Mehmet (Second Bosphorus) Bridge....",
-                    "*...In 2011, the first and second bridges on the Bosphorus carried  each day....",
-                    "...The completed section of highway crosses the Bosphorus Strait via the Yavuz Sultan Selim (Third Bosphorus) Bridge, entered service on 26 August 2016....",
-                    "*...Apart from the three Bosphorus Bridges, the dual-deck, 14.6-kilometer (9.1 mi) Eurasia Tunnel (which entered service on 20 December 2016) under the Bosphorus strait also provides road crossings for motor vehicles between the Asian and European sides of Turkey....",
-                    "*...The two sides of Istanbul's metro are connected under the Bosphorus by the Marmaray Tunnel, inaugurated in 2013 as the first rail connection between Thrace and Anatolia, having 13.5 km length....",
-                    "...The Metrobus, a form of bus rapid transit, crosses the Bosphorus Bridge, with dedicated lanes leading to its termini....",
-                    "*...İDO (Istanbul Seabuses) runs a combination of all-passenger ferries and car-and-passenger ferries to ports on both sides of the Bosphorus, as far north as the Black Sea...."
                 ]
             }
         },
@@ -1630,31 +1341,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    29.119136,
-                    41.199896
-                ]
-            },
-            "properties": {
-                "entity": "O-7",
-                "name_location": "Yavuz Sultan Selim Bridge, Poyrazköy Mahallesi, Beykoz, Istanbul, Marmara Region, 34825, Turkey",
-                "class": "highway",
-                "type": "motorway",
-                "snippet": [
-                    "*...The suspension bridges on the Bosporus strait\nIstanbul's motorways network are the O-1, O-2, O-3, O-4 and O-7....",
-                    "*...The O-7 or Kuzey Marmara Otoyolu, is a motorway that bypass Istanbul to the north....",
-                    "...The O-7 motorway from Kinali Gişeleri to Istanbul Park Service has 139.2 km, with 8 lanes (4x4), and from Odayeri-K10 to Istanbul Atatürk Airport has 30.4 km....",
-                    "*...The O-7 motorway connects Istanbul Atatürk Airport with Istanbul Airport....",
-                    "*...The transfer from the airport to the city is via the O-7, and it will eventually be linked by two lines of the Istanbul Metro...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    28.937449,
-                    41.038741
+                    28.935767,
+                    41.037326
                 ]
             },
             "properties": {
@@ -1673,13 +1361,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.949387,
-                    41.093787
+                    28.954355,
+                    41.09775
                 ]
             },
             "properties": {
                 "entity": "O-2",
-                "name_location": "2. Çevreyolu, 5. Levent Mahallesi, Eyüpsultan, Istanbul, Marmara Region, 34403, Turkey",
+                "name_location": "2. Çevreyolu, 5. Levent Mahallesi, Eyüpsultan, Istanbul, Marmara Region, 34060, Turkey",
                 "class": "highway",
                 "type": "motorway",
                 "snippet": [
@@ -1735,13 +1423,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.809696,
-                    41.061296
+                    28.920113,
+                    41.032945
                 ]
             },
             "properties": {
                 "entity": "O-3",
-                "name_location": "Avrupa Otoyolu, Ziya Gökalp Mahallesi, Başakşehir, Istanbul, Marmara Region, 34217, Turkey",
+                "name_location": "Avrupa Otoyolu, Orta Mahallesi, Bayrampaşa, Istanbul, Marmara Region, 34030, Turkey",
                 "class": "highway",
                 "type": "motorway",
                 "snippet": [
@@ -1784,7 +1472,20 @@
                 "class": "highway",
                 "type": "motorway",
                 "snippet": [
-                    "*...The O-7 or Kuzey Marmara Otoyolu, is a motorway that bypass Istanbul to the north...."
+                    "*...The O-7 or Kuzey Marmara Otoyolu, is a motorway that bypass Istanbul to the north....",
+                    "...Istanbul is located in north-western Turkey and straddles the Bosporus Strait, which provides the only passage from the Black Sea to the Mediterranean via the Sea of Marmara....",
+                    "...Historically, the city has been ideally situated for trade and defense: The confluence of the Sea of Marmara, the Bosporus, and the Golden Horn provide both ideal defense against enemy attack and a natural toll-gate....",
+                    "...The Neolithic settlement in the Yenikapı quarter on the European side, which dates back to c. 6500 BCE and predates the formation of the Bosporus strait by approximately a millennium (when the Sea of Marmara was still a lake) was discovered during the construction of the Marmaray railway tunnel....",
+                    "*...In 2011, as a workaround solution, the then Prime Minister Erdoğan presented Canal Istanbul, a project to open a new strait between the Black and Marmara seas....",
+                    "...Istanbul has three major shipping ports – the Port of Haydarpaşa, the Port of Ambarlı, and the Port of Zeytinburnu – as well as several smaller ports and oil terminals along the Bosporus and the Sea of Marmara....",
+                    "...Kumkapı along the Sea of Marmara has a pedestrian zone that hosts around fifty fish restaurants....",
+                    "*...Istanbul also has long-running Armenian language newspapers, notably the dailies Marmara and Jamanak and the bilingual weekly Agos in Armenian and Turkish....",
+                    "...The Marmaray tunnel together with the suburban railways lines along the Sea of Marmara, form the intercontinental commuter rail line in Istanbul, named officially B1, from Halkalı on the European side to Gebze on the Asian side....",
+                    "...With additional destinations around the Sea of Marmara, İDO runs the largest municipal ferry operation in the world....",
+                    "...Istanbul Atatürk Airport, located 24 kilometers (15 mi) west of the city center, on the European side, near the Marmara Sea coast, was formerly the city's largest airport....",
+                    "*...Turkish Straits and Sea of Marmara play a vital role for migrating fish and other marine animals between Mediterranean, Marmara and Black Sea....",
+                    "...Algal blooms and red tides were reported in Sea of Marmara and Bosporus (especially in Golden Horn), and regularly happen in urban lakes such as Lake Büyükçekmece and Küçükçekmece....",
+                    "...In June 2021 a marine mucilage wave allegedly caused by water pollution spread to Sea of Marmara...."
                 ]
             }
         },
@@ -1825,7 +1526,8 @@
                     "...The O-7 motorway from Kinali Gişeleri to Istanbul Park Service has 139.2 km, with 8 lanes (4x4), and from Odayeri-K10 to Istanbul Atatürk Airport has 30.4 km....",
                     "*...The O-7 motorway connects Istanbul Atatürk Airport with Istanbul Airport....",
                     "*...All scheduled commercial passenger flights were transferred from Istanbul Atatürk Airport to Istanbul Airport on 6 April 2019, following the closure of Istanbul Atatürk Airport for scheduled passenger flights....",
-                    "*...Istanbul Atatürk Airport, located 24 kilometers (15 mi) west of the city center, on the European side, near the Marmara Sea coast, was formerly the city's largest airport...."
+                    "*...Istanbul Atatürk Airport, located 24 kilometers (15 mi) west of the city center, on the European side, near the Marmara Sea coast, was formerly the city's largest airport....",
+                    "*...The Atatürk Airport corridor is another such edge city-style business, residential and shopping corridor with over 900,000 m2 (9,700,000 sq ft) of class-A office space...."
                 ]
             }
         },
@@ -1844,7 +1546,9 @@
                 "class": "man_made",
                 "type": "tunnel",
                 "snippet": [
-                    "*...Apart from the three Bosphorus Bridges, the dual-deck, 14.6-kilometer (9.1 mi) Eurasia Tunnel (which entered service on 20 December 2016) under the Bosphorus strait also provides road crossings for motor vehicles between the Asian and European sides of Turkey...."
+                    "*...Apart from the three Bosphorus Bridges, the dual-deck, 14.6-kilometer (9.1 mi) Eurasia Tunnel (which entered service on 20 December 2016) under the Bosphorus strait also provides road crossings for motor vehicles between the Asian and European sides of Turkey....",
+                    "*...The city straddles the Bosporus strait, lying in both Europe and Asia, and has a population of over 15 million residents, comprising 19% of the population of Turkey....",
+                    "*...Istanbul, which straddles the Bosporus strait, houses international ports that link Europe and Asia...."
                 ]
             }
         },
@@ -1872,61 +1576,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.975704,
-                    41.021627
-                ]
-            },
-            "properties": {
-                "entity": "Karaköy",
-                "name_location": "Karaköy, Rıhtım Caddesi, Karaköy, Kemankeş Karamustafa Paşa, Kemankeş Karamustafa Paşa Mahallesi, Beyoğlu, Istanbul, Marmara Region, 34425, Turkey",
-                "class": "amenity",
-                "type": "ferry_terminal",
-                "snippet": [
-                    "*...Galata (Karaköy) is today a quarter within the Beyoğlu (Pera) district, which forms Istanbul's commercial and entertainment center and includes İstiklal Avenue and Taksim Square....",
-                    "*...They continue to live in Istanbul (mostly in Karaköy, Beyoğlu and Nişantaşı), and Izmir (mostly in Karşıyaka, Bornova and Buca)....",
-                    "...Istanbul expects 1 million tourists from cruise companies after the renovation of its cruise port, also known as Galataport in Karaköy district....",
-                    "*...Abdi İpekçi Street in Nişantaşı, Galataport Shopping Area in Karaköy and Bağdat Avenue on the Anatolian side of the city have evolved into high-end shopping districts....",
-                    "*...It still carries passengers between Karaköy and İstiklal Avenue along a steep 573-meter (1,880 ft) track; a more modern funicular between Taksim Square and Kabataş began running in 2006....",
-                    "*...The city's main cruise ship terminal is the Port of Istanbul in Karaköy, with a capacity of 10,000 passengers per hour...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    28.974829,
-                    41.080893
+                    28.972974,
+                    41.082013
                 ]
             },
             "properties": {
                 "entity": "Istanbul Metro",
-                "name_location": "M11 İstanbul Havalimanı - Kağıthane Metro Hattı, Lale Sokağı, Merkez Mahallesi, Kâğıthane, Istanbul, Marmara Region, 34406, Turkey",
+                "name_location": "M11 İstanbul Havalimanı - Kağıthane Metro Hattı, Kemerburgaz Caddesi, Merkez Mahallesi, Kâğıthane, Istanbul, Marmara Region, 34406, Turkey",
                 "class": "railway",
                 "type": "subway",
                 "snippet": [
                     "...The Istanbul Metro comprises ten lines (the M1, M2, M3, M6, M7, M9 and M11 on the European side, and the M4, M5 and M8 on the Asian side) with several other lines (M12 and  M14) and extensions under construction....",
                     "...The transfer from the airport to the city is via the O-7, and it will eventually be linked by two lines of the Istanbul Metro...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    28.927117,
-                    41.027359
-                ]
-            },
-            "properties": {
-                "entity": "M1",
-                "name_location": "M1 Yenikapı - Atatürk Havalimanı/Kirazlı Metro Hattı, Avrupa Otoyolu, Topçular Mahallesi, Eyüpsultan, Istanbul, Marmara Region, 34091, Turkey",
-                "class": "railway",
-                "type": "subway",
-                "snippet": [
-                    "*...The Istanbul Metro comprises ten lines (the M1, M2, M3, M6, M7, M9 and M11 on the European side, and the M4, M5 and M8 on the Asian side) with several other lines (M12 and  M14) and extensions under construction...."
                 ]
             }
         },
@@ -1975,13 +1636,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    29.01444,
-                    41.075857
+                    29.014469,
+                    41.075798
                 ]
             },
             "properties": {
                 "entity": "M6",
-                "name_location": "M6, Çarşı Caddesi, Levent Mahallesi, Beşiktaş, Istanbul, Marmara Region, 34330, Turkey",
+                "name_location": "M6, Büyükdere Caddesi, Levent Mahallesi, Beşiktaş, Istanbul, Marmara Region, 34330, Turkey",
                 "class": "railway",
                 "type": "subway",
                 "snippet": [
@@ -2175,27 +1836,8 @@
                 "class": "railway",
                 "type": "station",
                 "snippet": [
-                    "*...Rail service from Istanbul launched in 1889, with a line between Bucharest and Istanbul's Sirkeci Terminal, which ultimately became famous as the eastern terminus of the Orient Express from Paris...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    28.975883,
-                    41.013392
-                ]
-            },
-            "properties": {
-                "entity": "Sirkeci",
-                "name_location": "Sirkeci, Ebussuud Caddesi, Hocapaşa Mahallesi, Istanbul, Fatih, Istanbul, Marmara Region, 34110, Turkey",
-                "class": "railway",
-                "type": "subway_entrance",
-                "snippet": [
+                    "*...Rail service from Istanbul launched in 1889, with a line between Bucharest and Istanbul's Sirkeci Terminal, which ultimately became famous as the eastern terminus of the Orient Express from Paris....",
                     "*...In 1995, keeping up with the financial trends, Borsa Istanbul moved its headquarters (which was originally located on Bankalar Caddesi, the financial center of the Ottoman Empire, and later at the 4th Vakıf Han building in Sirkeci) to İstinye, in the vicinity of Maslak, which hosts the headquarters of numerous Turkish banks....",
-                    "...Rail service from Istanbul launched in 1889, with a line between Bucharest and Istanbul's Sirkeci Terminal, which ultimately became famous as the eastern terminus of the Orient Express from Paris....",
                     "*...New stations to replace both the Haydarpaşa and Sirkeci terminals, and connect the city's disjointed railway networks, now the Marmaray second phase opened to the public...."
                 ]
             }
@@ -2235,26 +1877,6 @@
                 "type": "houseware",
                 "snippet": [
                     "*...In a study that examined urban flora in Kartal, a total of 576 plant taxa were recorded; of those 477 were natural and 99 were exotic and cultivated...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    28.979392,
-                    41.008015
-                ]
-            },
-            "properties": {
-                "entity": "Princes",
-                "name_location": "Mausoleum of Princes, Ayasofya Meydanı, Cankurtaran Mahallesi, Istanbul, Fatih, Istanbul, Marmara Region, 34122, Turkey",
-                "class": "historic",
-                "type": "tomb",
-                "snippet": [
-                    "...The Princes' Islands, 15 kilometers (9 mi) from the city center, are also popular for their seafood restaurants....",
-                    "...Mediterranean monk seals were present in Bosporus, and Princes' Islands and Tuzla shores were seal breeding areas during summer, but they have not been observed in Istanbul since the 1960s and thought to be extinct in the region...."
                 ]
             }
         },

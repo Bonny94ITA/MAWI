@@ -6,63 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -5.990184,
-                    37.383211
-                ]
-            },
-            "properties": {
-                "entity": "Alcázar",
-                "name_location": "Alcázar of Seville, Patio de Banderas, Santa Cruz, Casco Antiguo, Seville, Sevilla, Andalusia, 41004, Spain",
-                "class": "tourism",
-                "type": "attraction",
-                "snippet": [
-                    "*...Its old town, with an area of 4 square kilometres (2 sq mi), contains a UNESCO World Heritage Site comprising three buildings: the Alcázar palace complex, the Cathedral and the General Archive of the Indies....",
-                    "*...Legend states that the title was given by King Alfonso X, who was resident in the city's Alcázar and supported by the citizens when his son, later Sancho IV of Castile, tried to usurp the throne from him....",
-                    "...Archaeological excavations in 1999 found anthropic remains under the north wall of the Real Alcázar dating to the 8th–7th century BC....",
-                    "...The Moors' Palace became the Castilian royal residence, and during Pedro I's rule it was replaced by the Alcázar (the upper levels are still used by the Spanish royal family as the official Seville residence)....",
-                    "*...The Alcázar, the Cathedral, and the Archivo General de Indias (General Archive of the Indies) are UNESCO World Heritage Sites....",
-                    "...The Alcázar facing the cathedral was developed from a previous Moorish Palace which was developed from a Visigoth establishment which was itself developed from an existing Roman construction....",
-                    "*...Original Moorish buildings are the Patio del Yeso in the Alcázar, the city walls, and the main section of the Giralda, the bell tower of the Seville Cathedral....",
-                    "*...The Alcázar Gardens, within the grounds of the Alcázar palace, consist of several sectors developed in different historical styles....",
-                    "...The Gardens of Murillo and the Gardens of Catalina de Ribera, both along and outside the South wall of the Alcázar, lie next to the Santa Cruz quarter....",
-                    "*...The Alcázar and other sites appear in the television series Game of Thrones, in the cities of Dorne...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -5.99333,
-                    37.387264
-                ]
-            },
-            "properties": {
-                "entity": "Cathedral",
-                "name_location": "Great apt super close to the Cathedral and Giralda!, 2, Calle Rodríguez Zapata, Santa Cruz, Casco Antiguo, Seville, Sevilla, Andalusia, 41004, Spain",
-                "class": "tourism",
-                "type": "apartment",
-                "snippet": [
-                    "*...Its old town, with an area of 4 square kilometres (2 sq mi), contains a UNESCO World Heritage Site comprising three buildings: the Alcázar palace complex, the Cathedral and the General Archive of the Indies....",
-                    "...The emblem is present on Seville's municipal flag, and features on city property such as manhole covers, and Christopher Columbus's tomb in the cathedral....",
-                    "...Existing Roman features in Seville itself include the remains exposed in situ in the underground Antiquarium of the Metropol Parasol building, the remnants of an aqueduct, three pillars of a temple in Mármoles Street, the columns of La Alameda de Hércules and the remains in the Patio de Banderas square near the Seville Cathedral....",
-                    "...Public buildings were constructed including churches—many of which were built in the Mudéjar and Gothic styles—such as the Seville Cathedral, built during the 15th century with Gothic architecture....",
-                    "*...The Alcázar, the Cathedral, and the Archivo General de Indias (General Archive of the Indies) are UNESCO World Heritage Sites....",
-                    "...The St. Mary of the See Cathedral was built from 1401 to 1519 after the Reconquista on the former site of the city's mosque....",
-                    "*...La Giralda is a tower attached to the Cathedral that dates back to the twelfth century....",
-                    "...The Alcázar facing the cathedral was developed from a previous Moorish Palace which was developed from a Visigoth establishment which was itself developed from an existing Roman construction....",
-                    "...Original Moorish buildings are the Patio del Yeso in the Alcázar, the city walls, and the main section of the Giralda, the bell tower of the Seville Cathedral....",
-                    "...In the 2016 film Assassin's Creed, Master Assassins Aguilar de Nerha and Maria escape execution and are pursued by Templars through the city, eventually performing Leaps of Faith off of an unfinished Seville Cathedral to escape....",
-                    "...Kansas City, Missouri (United States), 1969. The relationship between Seville and Kansas City is due to a small replica of the Giralda tower, Sevilla's cathedral belltower, that exists in Kansas City...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -5.991189,
                     37.389812
                 ]
@@ -74,43 +17,6 @@
                 "type": "living_street",
                 "snippet": [
                     "*...The original core of the city, in the neighbourhood of the present-day street, Cuesta del Rosario, dates to the 8th century BC, when Seville was on an island in the Guadalquivir...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -5.928024,
-                    37.159046
-                ]
-            },
-            "properties": {
-                "entity": "Guadalquivir",
-                "name_location": "Guadalquivir, Cantarrana, Los Palacios y Villafranca, Sevilla, Andalusia, 41720, Spain",
-                "class": "amenity",
-                "type": "pub",
-                "snippet": [
-                    "...It is situated on the lower reaches of the River Guadalquivir, in the southwest of the Iberian Peninsula....",
-                    "*...Coinciding with the Baroque period, the 17th century in Seville represented the most brilliant flowering of the city's culture; then began a gradual economic and demographic decline as silting in the Guadalquivir forced the trade monopoly to relocate to the nearby port of Cádiz....",
-                    "*...The original core of the city, in the neighbourhood of the present-day street, Cuesta del Rosario, dates to the 8th century BC, when Seville was on an island in the Guadalquivir....",
-                    "...The town was called Hisbaal by the Phoenicians and by the Tartessians, the indigenous pre-Roman Iberian people of Tartessos, who controlled the Guadalquivir Valley at the time....",
-                    "...In the wider context of the Castilian–Leonese conquest of the Guadalquivir Valley that ensued in the 13th century, Ferdinand III laid siege on Seville in 1247....",
-                    "...Unlike other harbours, reaching the port of Seville required sailing about 80 kilometres (50 mi) up the River Guadalquivir....",
-                    "*...The choice of Seville was made in spite of the difficulties for navigation in the Guadalquivir stemming from the increasing tonnage of ships as a result of the relentless drive to make maritime transport cheaper during the late Middle Ages....",
-                    "...Compounded with these tribulations was the silting of the Guadalquivir river in the 1620s, which made Seville's harbors harder to use, and ceased upriver shipping....",
-                    "*...The Great Plague of Seville in 1649, exacerbated by excessive flooding of the Guadalquivir, reduced the population by almost half, and it would not recover until the early 19th century....",
-                    "...After the silting up of the harbour by the River Guadalquivir, upriver shipping ceased and the city went into relative economic decline.[citation needed]...",
-                    "*...Before the existence of wetlands regulation in the Guadalquivir basin, Seville suffered regular heavy flooding; perhaps worst of all were the floods that occurred in November 1961 when the River Tamarguillo, a tributary of the Guadalquivir, overflowed as a result of a prodigious downpour of rain, and Seville was consequently declared a disaster zone....",
-                    "*...The Alamillo Bridge and the Centenario Bridge, both crossing over the Guadalquivir, also were built for the occasion....",
-                    "...The city is situated in the fertile valley of the River Guadalquivir....",
-                    "...The annual average temperature is 25.4 °C (78 °F) during the day and 13.0 °C (55 °F) at night. Seville is located in the lower part of the Guadalquivir Valley, which is often referred to as \"the frying pan of Spain\", as it features the hottest cities in the country....",
-                    "...The neighbourhood of Triana, situated on the west bank of the River Guadalquivir, had an important role in the history of the city and constitutes by itself a folk, monumental and cultural centre....",
-                    "...The Naval Museum, housed in the golden Torre del Oro, next to the River Guadalquivir....",
-                    "*...The Parque del Alamillo y San Jerónimo, the largest park in Andalusia, was originally built for Seville Expo '92 to reproduce the Andalusian native flora. It lines both Guadalquivir shores around the San Jerónimo meander. The 32-metres-high bronze sculpture, The Birth of a New Man (popularly known as Columbus's Egg, el Huevo de Colón), by the Georgian sculptor Zurab Tsereteli, is located in its northwestern sector....",
-                    "...Seville has the only inland port in Spain, located 80 km (50 mi) from the mouth of the River Guadalquivir....",
-                    "...Seville's River Guadalquivir is one of only three FISA approved international training centres for rowing and the only one in Spain; the 2002 World Rowing Championships and the 2013 European Rowing Championships were held there...."
                 ]
             }
         },
@@ -212,7 +118,14 @@
                     "...Existing Roman features in Seville itself include the remains exposed in situ in the underground Antiquarium of the Metropol Parasol building, the remnants of an aqueduct, three pillars of a temple in Mármoles Street, the columns of La Alameda de Hércules and the remains in the Patio de Banderas square near the Seville Cathedral....",
                     "...Public buildings were constructed including churches—many of which were built in the Mudéjar and Gothic styles—such as the Seville Cathedral, built during the 15th century with Gothic architecture....",
                     "...Original Moorish buildings are the Patio del Yeso in the Alcázar, the city walls, and the main section of the Giralda, the bell tower of the Seville Cathedral....",
-                    "*...In the 2016 film Assassin's Creed, Master Assassins Aguilar de Nerha and Maria escape execution and are pursued by Templars through the city, eventually performing Leaps of Faith off of an unfinished Seville Cathedral to escape...."
+                    "*...In the 2016 film Assassin's Creed, Master Assassins Aguilar de Nerha and Maria escape execution and are pursued by Templars through the city, eventually performing Leaps of Faith off of an unfinished Seville Cathedral to escape....",
+                    "*...Its old town, with an area of 4 square kilometres (2 sq mi), contains a UNESCO World Heritage Site comprising three buildings: the Alcázar palace complex, the Cathedral and the General Archive of the Indies....",
+                    "...The emblem is present on Seville's municipal flag, and features on city property such as manhole covers, and Christopher Columbus's tomb in the cathedral....",
+                    "*...The Alcázar, the Cathedral, and the Archivo General de Indias (General Archive of the Indies) are UNESCO World Heritage Sites....",
+                    "...The St. Mary of the See Cathedral was built from 1401 to 1519 after the Reconquista on the former site of the city's mosque....",
+                    "*...La Giralda is a tower attached to the Cathedral that dates back to the twelfth century....",
+                    "...The Alcázar facing the cathedral was developed from a previous Moorish Palace which was developed from a Visigoth establishment which was itself developed from an existing Roman construction....",
+                    "...Kansas City, Missouri (United States), 1969. The relationship between Seville and Kansas City is due to a small replica of the Giralda tower, Sevilla's cathedral belltower, that exists in Kansas City...."
                 ]
             }
         },
@@ -259,29 +172,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -5.988456,
-                    37.385193
-                ]
-            },
-            "properties": {
-                "entity": "Santa Cruz",
-                "name_location": "Cruz de la Cerrajería, Plaza de Santa Cruz, Santa Cruz, Casco Antiguo, Seville, Sevilla, Andalusia, 41004, Spain",
-                "class": "tourism",
-                "type": "artwork",
-                "snippet": [
-                    "*...After the 1391 pogrom, believed to having been instigated by the Archdeacon Ferrant Martínez, all the synagogues in Seville were converted to churches (renamed Santa María la Blanca, San Bartolomé, Santa Cruz, and Convento Madre de Dios)....",
-                    "...The Jewish quarter's land and shops (which were located in modern-day Barrio Santa Cruz) were appropriated by the church....",
-                    "*...The Centro Velázquez (Velázquez Centre) located at the Old Priests Hospital in the touristic Santa Cruz neighbourhood....",
-                    "*...The Gardens of Murillo and the Gardens of Catalina de Ribera, both along and outside the South wall of the Alcázar, lie next to the Santa Cruz quarter....",
-                    "*...Aside from traditional neighbourhoods such as Santa Cruz, Triana and others, those further away from the centre, such as Nervión, Sevilla Este, and El Porvenir have seen recent economic growth...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -5.75985,
                     37.93289
                 ]
@@ -311,7 +201,11 @@
                 "class": "tourism",
                 "type": "attraction",
                 "snippet": [
-                    "*...The Jewish quarter's land and shops (which were located in modern-day Barrio Santa Cruz) were appropriated by the church...."
+                    "*...The Jewish quarter's land and shops (which were located in modern-day Barrio Santa Cruz) were appropriated by the church....",
+                    "*...After the 1391 pogrom, believed to having been instigated by the Archdeacon Ferrant Martínez, all the synagogues in Seville were converted to churches (renamed Santa María la Blanca, San Bartolomé, Santa Cruz, and Convento Madre de Dios)....",
+                    "*...The Centro Velázquez (Velázquez Centre) located at the Old Priests Hospital in the touristic Santa Cruz neighbourhood....",
+                    "*...The Gardens of Murillo and the Gardens of Catalina de Ribera, both along and outside the South wall of the Alcázar, lie next to the Santa Cruz quarter....",
+                    "*...Aside from traditional neighbourhoods such as Santa Cruz, Triana and others, those further away from the centre, such as Nervión, Sevilla Este, and El Porvenir have seen recent economic growth...."
                 ]
             }
         },
@@ -361,30 +255,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -6.049914,
-                    37.349978
-                ]
-            },
-            "properties": {
-                "entity": "Americas",
-                "name_location": "Avenida de las Américas, Mairena del Aljarafe, Sevilla, Andalusia, 41927, Spain",
-                "class": "highway",
-                "type": "tertiary",
-                "snippet": [
-                    "*...A 'golden age of development' commenced in Seville, due to its being the only port awarded the royal monopoly for trade with the growing Spanish colonies in the Americas and the influx of riches from them....",
-                    "*...Since only sailing ships leaving from and returning to the inland port of Seville could engage in trade with the Spanish Americas, merchants from Europe and other trade centres needed to go to Seville to acquire New World trade goods....",
-                    "*...His short story Rinconete y Cortadillo, since the 19th century one of his most-read pieces, includes much description of Sevillian society; it features two young vagabonds who come to Seville, attracted by the riches and disorder that the 16th-century commerce with the Americas had brought to the city....",
-                    "...In 1992, coinciding with the fifth centenary of the Discovery of the Americas, the Universal Exposition was held for six months in Seville, on the occasion of which the local communications network and urban infrastructure was greatly improved under a 1987 PGOU plan launched by Mayor Manuel del Valle: the SE-30 ring road around the city was completed and new highways were constructed; the new Seville-Santa Justa railway station had opened in 1991, while the Spanish High-Speed Rail system, the Alta Velocidad Española (AVE), began to operate between Madrid-Seville....",
-                    "*...The General Archive of the Indies, is the repository of extremely valuable archival documents illustrating the history of the Spanish Empire in the Americas and the Philippines....",
-                    "...The Plaza of the Americas also appeared in Lawrence, substituting for Jerusalem, and in Anthony Mann's El Cid. It also appears as the Palace of Vladek Sheybal's Bashaw in The Wind and the Lion (1975)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -5.389587,
                     37.78318
                 ]
@@ -406,27 +276,6 @@
                     "*...Seville had a vibrant rock music scene in the 1970s and 1980s with bands like Triana, Alameda and Smash, who fused Andalusia's traditional flamenco music with British-style progressive rock....",
                     "*...The Triana district in Seville is considered a birthplace of flamenco, where it found its beginning as an expression of the poor and marginalized....",
                     "*...Aside from traditional neighbourhoods such as Santa Cruz, Triana and others, those further away from the centre, such as Nervión, Sevilla Este, and El Porvenir have seen recent economic growth...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -5.075491,
-                    37.539954
-                ]
-            },
-            "properties": {
-                "entity": "Plaza de Armas",
-                "name_location": "Plaza de Armas, Calle Altozano, Écija, Sevilla, Andalusia, 41400, Spain",
-                "class": "historic",
-                "type": "archaeological_site",
-                "snippet": [
-                    "*...The Sevillana de Electricidad Company was created in 1894 to provide electric power throughout the municipality, and in 1901 the Plaza de Armas railway station was inaugurated....",
-                    "...Two bus stations serve transportation between surrounding areas and other cities: Plaza de Armas Station, with destinations north and west, and Prado de San Sebastián Station, covering routes to the south and east....",
-                    "*...Plaza de Armas station has direct bus lines to many Spanish cities as well as Lisbon, Portugal...."
                 ]
             }
         },
@@ -622,7 +471,9 @@
                 "type": "tower",
                 "snippet": [
                     "*...La Giralda is a tower attached to the Cathedral that dates back to the twelfth century....",
-                    "*...La Giralda gets its name from the weathervane attached to the very top of it, as \"gira\" means \"turning one\" in the Spanish language...."
+                    "*...La Giralda gets its name from the weathervane attached to the very top of it, as \"gira\" means \"turning one\" in the Spanish language....",
+                    "*...Original Moorish buildings are the Patio del Yeso in the Alcázar, the city walls, and the main section of the Giralda, the bell tower of the Seville Cathedral....",
+                    "*...Kansas City, Missouri (United States), 1969. The relationship between Seville and Kansas City is due to a small replica of the Giralda tower, Sevilla's cathedral belltower, that exists in Kansas City...."
                 ]
             }
         },
@@ -732,28 +583,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -5.992556,
-                    37.386207
-                ]
-            },
-            "properties": {
-                "entity": "Giralda",
-                "name_location": "La Giralda, Plaza Virgen de los Reyes, Santa Cruz, Casco Antiguo, Seville, Sevilla, Andalusia, 41004, Spain",
-                "class": "historic",
-                "type": "tower",
-                "snippet": [
-                    "...La Giralda is a tower attached to the Cathedral that dates back to the twelfth century....",
-                    "...La Giralda gets its name from the weathervane attached to the very top of it, as \"gira\" means \"turning one\" in the Spanish language....",
-                    "*...Original Moorish buildings are the Patio del Yeso in the Alcázar, the city walls, and the main section of the Giralda, the bell tower of the Seville Cathedral....",
-                    "*...Kansas City, Missouri (United States), 1969. The relationship between Seville and Kansas City is due to a small replica of the Giralda tower, Sevilla's cathedral belltower, that exists in Kansas City...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -6.077268,
                     37.387052
                 ]
@@ -766,7 +595,9 @@
                 "snippet": [
                     "*...On the other hand, La Macarena neighbourhood is located on the northern side of the city centre....",
                     "...It contains some important monuments and religious buildings, such as the Museum and Catholic Church of La Macarena or the Hospital de las Cinco Llagas....",
-                    "...The Museum and Treasure of La Macarena, where the collection of the Macarena brotherhood is exhibited. This exhibition gives visitors an accurate impression of Seville's Holy Week...."
+                    "...The Museum and Treasure of La Macarena, where the collection of the Macarena brotherhood is exhibited. This exhibition gives visitors an accurate impression of Seville's Holy Week....",
+                    "*...Macarena ;...",
+                    "*...The Museum and Treasure of La Macarena, where the collection of the Macarena brotherhood is exhibited. This exhibition gives visitors an accurate impression of Seville's Holy Week...."
                 ]
             }
         },
@@ -815,28 +646,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -5.989083,
-                    37.401827
-                ]
-            },
-            "properties": {
-                "entity": "Macarena",
-                "name_location": "Macarena, Calle Pozo, San Gil, Casco Antiguo, Seville, Sevilla, Andalusia, 41002, Spain",
-                "class": "tourism",
-                "type": "hotel",
-                "snippet": [
-                    "*...Macarena ;...",
-                    "...On the other hand, La Macarena neighbourhood is located on the northern side of the city centre....",
-                    "...It contains some important monuments and religious buildings, such as the Museum and Catholic Church of La Macarena or the Hospital de las Cinco Llagas....",
-                    "*...The Museum and Treasure of La Macarena, where the collection of the Macarena brotherhood is exhibited. This exhibition gives visitors an accurate impression of Seville's Holy Week...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -5.991161,
                     37.377599
                 ]
@@ -847,7 +656,8 @@
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
-                    "*...La Casa de la Ciencia (The House of Science), a science centre and museum opposite the María Luisa Park...."
+                    "*...La Casa de la Ciencia (The House of Science), a science centre and museum opposite the María Luisa Park....",
+                    "...In April 2008 the city council of Seville provided a grant to renovate the building to create the Casa de la Ciencia (Science Centre) to encourage popular interest in science...."
                 ]
             }
         },
@@ -867,25 +677,6 @@
                 "type": "museum",
                 "snippet": [
                     "*...Pabellon de la Navegación (Pavilion of Navigation)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -5.981452,
-                    37.433775
-                ]
-            },
-            "properties": {
-                "entity": "San Jerónimo",
-                "name_location": "San Jerónimo, Ronda Norte de Sevilla, Distrito Norte, Seville, Sevilla, Andalusia, 41015, Spain",
-                "class": "railway",
-                "type": "halt",
-                "snippet": [
-                    "*...The Parque del Alamillo y San Jerónimo, the largest park in Andalusia, was originally built for Seville Expo '92 to reproduce the Andalusian native flora. It lines both Guadalquivir shores around the San Jerónimo meander. The 32-metres-high bronze sculpture, The Birth of a New Man (popularly known as Columbus's Egg, el Huevo de Colón), by the Georgian sculptor Zurab Tsereteli, is located in its northwestern sector...."
                 ]
             }
         },
@@ -924,7 +715,12 @@
                 "class": "highway",
                 "type": "primary",
                 "snippet": [
-                    "*...The Teatro Lope de Vega is located on Avenida de María Luisa avenue (next to Parque de María Luisa)...."
+                    "*...The Teatro Lope de Vega is located on Avenida de María Luisa avenue (next to Parque de María Luisa)....",
+                    "*...In 1992, coinciding with the fifth centenary of the Discovery of the Americas, the Universal Exposition was held for six months in Seville, on the occasion of which the local communications network and urban infrastructure was greatly improved under a 1987 PGOU plan launched by Mayor Manuel del Valle: the SE-30 ring road around the city was completed and new highways were constructed; the new Seville-Santa Justa railway station had opened in 1991, while the Spanish High-Speed Rail system, the Alta Velocidad Española (AVE), began to operate between Madrid-Seville....",
+                    "*...This economic development of the city and its urban area is supported by good transportation links to other Spanish cities, including a high-speed AVE railway connection to Madrid, and a new international airport....",
+                    "...It is expected to be extended to Santa Justa AVE station, including four new stops: San Francisco Javier, Eduardo Dato, Luis de Morales, and Santa Justa....",
+                    "*...The Seville-Santa Justa railway station is served by the AVE high-speed rail system, operated by the Spanish state-owned rail company Renfe....",
+                    "...Seville is on the Red Ciudades AVE, a net created with Seville connected to 17 major cities of Spain with high-speed rail...."
                 ]
             }
         },
@@ -1009,50 +805,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -5.986497,
-                    37.391945
-                ]
-            },
-            "properties": {
-                "entity": "AVE",
-                "name_location": "Calle Ave María, Santa Catalina, Casco Antiguo, Seville, Sevilla, Andalusia, 41003, Spain",
-                "class": "highway",
-                "type": "living_street",
-                "snippet": [
-                    "*...In 1992, coinciding with the fifth centenary of the Discovery of the Americas, the Universal Exposition was held for six months in Seville, on the occasion of which the local communications network and urban infrastructure was greatly improved under a 1987 PGOU plan launched by Mayor Manuel del Valle: the SE-30 ring road around the city was completed and new highways were constructed; the new Seville-Santa Justa railway station had opened in 1991, while the Spanish High-Speed Rail system, the Alta Velocidad Española (AVE), began to operate between Madrid-Seville....",
-                    "*...This economic development of the city and its urban area is supported by good transportation links to other Spanish cities, including a high-speed AVE railway connection to Madrid, and a new international airport....",
-                    "...It is expected to be extended to Santa Justa AVE station, including four new stops: San Francisco Javier, Eduardo Dato, Luis de Morales, and Santa Justa....",
-                    "*...The Seville-Santa Justa railway station is served by the AVE high-speed rail system, operated by the Spanish state-owned rail company Renfe....",
-                    "...Seville is on the Red Ciudades AVE, a net created with Seville connected to 17 major cities of Spain with high-speed rail...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -6.003136,
-                    37.39543
-                ]
-            },
-            "properties": {
-                "entity": "Cartuja 93",
-                "name_location": "Pasarela de la Cartuja, San Vicente, Casco Antiguo, Seville, Sevilla, Andalusia, 41092, Spain",
-                "class": "highway",
-                "type": "cycleway",
-                "snippet": [
-                    "...Some of the installations remaining at the site after the exposition were converted into the Scientific and Technological Park Cartuja 93....",
-                    "*...Cartuja 93 is a research and development park, employing 15,000 persons....",
-                    "...The Parque Científico Tecnológico Cartuja 93 is a nexus of private and public investment in various fields of research...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -5.893802,
                     37.414289
                 ]
@@ -1072,26 +824,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -5.991161,
-                    37.377599
-                ]
-            },
-            "properties": {
-                "entity": "Casa de la Ciencia",
-                "name_location": "Casa de la Ciencia de Sevilla, Avenida de María Luisa, Santa Cruz, Casco Antiguo, Seville, Sevilla, Andalusia, 41011, Spain",
-                "class": "tourism",
-                "type": "museum",
-                "snippet": [
-                    "...La Casa de la Ciencia (The House of Science), a science centre and museum opposite the María Luisa Park....",
-                    "...In April 2008 the city council of Seville provided a grant to renovate the building to create the Casa de la Ciencia (Science Centre) to encourage popular interest in science...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -5.978152,
                     37.378781
                 ]
@@ -1102,26 +834,7 @@
                 "class": "railway",
                 "type": "subway",
                 "snippet": [
-                    "*...The Seville metro (\"Metro de Sevilla\" in Spanish) is a light metro network serving the city of Seville and its metropolitan area...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -5.978152,
-                    37.378781
-                ]
-            },
-            "properties": {
-                "entity": "Metro",
-                "name_location": "Metro de Sevilla - Línea 1, Avenida de El Cid, Santa Cruz, Casco Antiguo, Seville, Sevilla, Andalusia, 41004, Spain",
-                "class": "railway",
-                "type": "subway",
-                "snippet": [
-                    "...The Seville metro (\"Metro de Sevilla\" in Spanish) is a light metro network serving the city of Seville and its metropolitan area....",
+                    "*...The Seville metro (\"Metro de Sevilla\" in Spanish) is a light metro network serving the city of Seville and its metropolitan area....",
                     "*...It was the sixth Metro system to be built in Spain, after those in Madrid, Barcelona, Valencia, Bilbao and Palma de Mallorca....",
                     "*...Currently, it is the fifth-biggest Metro company in Spain by the number of passengers carried (more than 12,000,000 in 2009)....",
                     "...The metro of Sevilla has 1 line with 22 stations and is currently expanding, with 3 more different lines projected.[citation needed]\nMetroCentro is a surface tramway serving the centre of the city....",
@@ -1210,26 +923,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -5.986249,
-                    37.380384
-                ]
-            },
-            "properties": {
-                "entity": "Prado de San Sebastián",
-                "name_location": "Prado de San Sebastián (Carlos V), Avenida de Carlos V, El Prado-Parque de María Luisa, Distrito Sur, Seville, Sevilla, Andalusia, 41004, Spain",
-                "class": "highway",
-                "type": "bus_stop",
-                "snippet": [
-                    "...Two bus stations serve transportation between surrounding areas and other cities: Plaza de Armas Station, with destinations north and west, and Prado de San Sebastián Station, covering routes to the south and east....",
-                    "*...The service has just five stops: Plaza Nueva, Archivo de Indias, Puerta de Jerez, Prado de San Sebastián and San Bernardo, all as part of Phase I of the project...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -5.972743,
                     37.385656
                 ]
@@ -1241,28 +934,6 @@
                 "type": "bus_stop",
                 "snippet": [
                     "*...It is expected to be extended to Santa Justa AVE station, including four new stops: San Francisco Javier, Eduardo Dato, Luis de Morales, and Santa Justa...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -5.997428,
-                    37.390788
-                ]
-            },
-            "properties": {
-                "entity": "Santa Justa",
-                "name_location": "Calle Santa Justa, Alfalfa, Casco Antiguo, Seville, Sevilla, Andalusia, 41001, Spain",
-                "class": "highway",
-                "type": "pedestrian",
-                "snippet": [
-                    "...In 1992, coinciding with the fifth centenary of the Discovery of the Americas, the Universal Exposition was held for six months in Seville, on the occasion of which the local communications network and urban infrastructure was greatly improved under a 1987 PGOU plan launched by Mayor Manuel del Valle: the SE-30 ring road around the city was completed and new highways were constructed; the new Seville-Santa Justa railway station had opened in 1991, while the Spanish High-Speed Rail system, the Alta Velocidad Española (AVE), began to operate between Madrid-Seville....",
-                    "...San Pablo-Santa Justa ....",
-                    "*...It is expected to be extended to Santa Justa AVE station, including four new stops: San Francisco Javier, Eduardo Dato, Luis de Morales, and Santa Justa....",
-                    "*...The Seville-Santa Justa railway station is served by the AVE high-speed rail system, operated by the Spanish state-owned rail company Renfe...."
                 ]
             }
         },
@@ -1308,25 +979,6 @@
                 "type": "quay",
                 "snippet": [
                     "...On 21 August 2012, the Muelle de las Delicias, controlled by the Port Authority of Seville, hosted the cruise ship Azamara Journey for two days, the largest ship ever to visit the town...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -5.947855,
-                    37.40426
-                ]
-            },
-            "properties": {
-                "entity": "A-4",
-                "name_location": "SE-30; A-4, Santa Clara, Distrito San Pablo-Santa Justa, Seville, Sevilla, Andalusia, 41016, Spain",
-                "class": "highway",
-                "type": "motorway",
-                "snippet": [
-                    "...Seville has one ring road, the SE-30, which connects with the dual carriageway of the south, the A-4, that directly communicates the city with Cádiz, Cordoba and Madrid...."
                 ]
             }
         },
@@ -1392,31 +1044,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -6.007141,
-                    37.397064
-                ]
-            },
-            "properties": {
-                "entity": "La Cartuja",
-                "name_location": "La Cartuja, Camino de los Descubrimientos, Triana, Seville, Sevilla, Andalusia, 41092, Spain",
-                "class": "building",
-                "type": "yes",
-                "snippet": [
-                    "*...Industrial architecture surviving today from the first half of the 19th century includes the ceramics factory installed in the Carthusian monastery at La Cartuja in 1841 by the Pickman family, and now home to the El Centro Andaluz de Arte Contemporáneo (CAAC), which manages the collections of the Museo de Arte Contemporáneo de Sevilla....",
-                    "*...Most of the city is on the east side of the river, while Triana, La Cartuja and Los Remedios are on the west side....",
-                    "*...The administrative headquarters are in Torre Triana, in La Cartuja....",
-                    "*...The Andalusian Contemporary Art Centre, situated in the neighbourhood of La Cartuja....",
-                    "*...The American Garden, also completed for Expo '92, is in La Cartuja. It is a public botanical garden, with a representative collection of American plants donated by different countries on the occasion of the world exposition. Despite its extraordinary botanical value, it remains a mostly abandoned place....",
-                    "*...Also Sevilla's stadium hosted the 1986 European Cup Final and the multi-purpose stadium built in 1999 La Cartuja, was the venue for the 2003 UEFA Cup Final....",
-                    "...The city unsuccessfully bid for the 2004 and 2008 Summer Olympics, for which the 60,000-seat Estadio de La Cartuja was designed to stage...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -6.004613,
                     37.417235
                 ]
@@ -1427,182 +1054,13 @@
                 "class": "leisure",
                 "type": "stadium",
                 "snippet": [
-                    "*...The city unsuccessfully bid for the 2004 and 2008 Summer Olympics, for which the 60,000-seat Estadio de La Cartuja was designed to stage...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -5.992506,
-                    37.389474
-                ]
-            },
-            "properties": {
-                "entity": "Seville",
-                "name_location": "Seville, Calle Francos, Alfalfa, Casco Antiguo, Seville, Sevilla, Andalusia, 41004, Spain",
-                "class": "tourism",
-                "type": "guest_house",
-                "snippet": [
-                    "*...Seville ( sə-VIL; Spanish: Sevilla, pronounced  ) is the capital and largest city of the Spanish autonomous community of Andalusia and the province of Seville....",
-                    "*...Seville has a municipal population of about 685,000 as of 2021[update], and a metropolitan population of about 1.5 million, making it the largest city in Andalusia, the fourth-largest city in Spain and the 26th most populous municipality in the European Union....",
-                    "*...The Seville harbour, located about 80 kilometres (50 miles) from the Atlantic Ocean, is the only river port in Spain....",
-                    "*...Seville was founded as the Roman city of Hispalis....",
-                    "*...Known as Ishbiliyah after the Islamic conquest in 711, Seville became the centre of the independent Taifa of Seville following the collapse of the Caliphate of Córdoba in the early 11th century; later it was ruled by Almoravids and Almohads until being incorporated to the Crown of Castile in 1248....",
-                    "*...Owing to its role as gateway of the Spanish Empire's trans-atlantic trade, managed from the Casa de Contratación, Seville became one of the largest cities in Western Europe in the 16th century....",
-                    "*...Coinciding with the Baroque period, the 17th century in Seville represented the most brilliant flowering of the city's culture; then began a gradual economic and demographic decline as silting in the Guadalquivir forced the trade monopoly to relocate to the nearby port of Cádiz....",
-                    "*...The 20th century in Seville saw the tribulations of the Spanish Civil War, decisive cultural milestones such as the Ibero-American Exposition of 1929 and Expo '92, and the city's election as the capital of the Autonomous Community of Andalusia....",
-                    "*...Hisbaal is the oldest name for Seville....",
-                    "*...In the meantime, the city's official name had been changed to Ḥimṣ al-Andalus (حمص الأندلس), in reference to the city of Homs in modern Syria, the jund of which Seville had been assigned to upon the Umayyad conquest; \"Ḥimṣ al-Andalus\" remained a customary and affectionate name for the city during the whole period throughout the Muslim Arab world, being referred to for example in the encyclopedia of Yaqut al-Hamawi or in Abu al-Baqa ar-Rundi's Ritha' al-Andalus....",
-                    "*...NO8DO is the official motto of Seville, popularly believed to be a rebus signifying the Spanish No me ha dejado, meaning \"She [Seville] has not abandoned me\"....",
-                    "*...The emblem is present on Seville's municipal flag, and features on city property such as manhole covers, and Christopher Columbus's tomb in the cathedral....",
-                    "*...Seville is approximately 2,200 years old....",
-                    "*...The mythological founder of the city is Hercules (Heracles), commonly identified with the Phoenician god Melqart, who the myth says sailed through the Strait of Gibraltar to the Atlantic, and founded trading posts at the current sites of Cádiz and of Seville....",
-                    "*...The original core of the city, in the neighbourhood of the present-day street, Cuesta del Rosario, dates to the 8th century BC, when Seville was on an island in the Guadalquivir....",
-                    "*...Existing Roman features in Seville itself include the remains exposed in situ in the underground Antiquarium of the Metropol Parasol building, the remnants of an aqueduct, three pillars of a temple in Mármoles Street, the columns of La Alameda de Hércules and the remains in the Patio de Banderas square near the Seville Cathedral....",
-                    "*...In the wake of the Islamic conquest of the Iberian Peninsula, Seville (Spalis) was seemingly taken by Musa ibn Nusayr in the late summer of 712, while he was on his way to Mérida....",
-                    "*...Yet it had to be retaken in July 713 by troops led by his son Abd al-Aziz ibn Musa, as the Visigothic population who had fled to Beja had returned to Seville once Musa left for Mérida....",
-                    "*...Seville (Ishbīliya) was sacked by Vikings in the mid-9th century....",
-                    "*...After Vikings arrived by 25 September 844, Seville fell to invaders on 1 October, and they stood for 40 days before they fled from the city....",
-                    "*...A powerful taifa kingdom with capital in Seville emerged after 1023, in the wake of the fitna of al-Andalus....",
-                    "*...During the taifa period, Seville became an important scholarly and literary centre....",
-                    "*...After several months of siege, Seville was conquered by the Almoravids in 1091....",
-                    "*...After an informal Almohad settlement in Seville during the early stages of the Almohad presence in the Iberian Peninsula and then a brief relocation of the capital of al-Andalus to Córdoba in 1162 (which had dire consequences for Seville, reportedly depopulated and under starvation), Seville became the definitive seat of the Andalusi part of the Almohad Empire in 1163, a twin capital alongside Marrakech....",
-                    "*...In the wider context of the Castilian–Leonese conquest of the Guadalquivir Valley that ensued in the 13th century, Ferdinand III laid siege on Seville in 1247....",
-                    "*...The conditions of capitulation contemplated the eviction of the population, with contemporary sources seemingly confirming that a mass movement of people out of Seville indeed took place....",
-                    "...Public buildings were constructed including churches—many of which were built in the Mudéjar and Gothic styles—such as the Seville Cathedral, built during the 15th century with Gothic architecture....",
-                    "*...The Moors' Palace became the Castilian royal residence, and during Pedro I's rule it was replaced by the Alcázar (the upper levels are still used by the Spanish royal family as the official Seville residence)....",
-                    "*...After the 1391 pogrom, believed to having been instigated by the Archdeacon Ferrant Martínez, all the synagogues in Seville were converted to churches (renamed Santa María la Blanca, San Bartolomé, Santa Cruz, and Convento Madre de Dios)....",
-                    "*...The first tribunal of the Spanish Inquisition was instituted in Seville in 1478....",
-                    "*...At first, the activity of the Inquisition was limited to the dioceses of Seville and Córdoba, where the Dominican friar, Alonso de Ojeda, had detected converso activity....",
-                    "*...The first Auto de Fé took place in Seville on 6 February 1481, when six people were burned alive....",
-                    "*...Following the Columbian exploration of the New World, Seville was chosen as headquarters of the Casa de Contratación in 1503, which was the decisive development for Seville becoming the port and gateway to the Indies....",
-                    "*...Unlike other harbours, reaching the port of Seville required sailing about 80 kilometres (50 mi) up the River Guadalquivir....",
-                    "*...The choice of Seville was made in spite of the difficulties for navigation in the Guadalquivir stemming from the increasing tonnage of ships as a result of the relentless drive to make maritime transport cheaper during the late Middle Ages....",
-                    "*...Nevertheless, technical suitability issues notwithstanding, the choice was still reasonable in the sense that Seville had become the largest demographic, economic and financial centre of Christian Andalusia in the late Middle Ages....",
-                    "*...A 'golden age of development' commenced in Seville, due to its being the only port awarded the royal monopoly for trade with the growing Spanish colonies in the Americas and the influx of riches from them....",
-                    "*...Since only sailing ships leaving from and returning to the inland port of Seville could engage in trade with the Spanish Americas, merchants from Europe and other trade centres needed to go to Seville to acquire New World trade goods....",
-                    "*...Compounded with these tribulations was the silting of the Guadalquivir river in the 1620s, which made Seville's harbors harder to use, and ceased upriver shipping....",
-                    "*...The Great Plague of Seville in 1649, exacerbated by excessive flooding of the Guadalquivir, reduced the population by almost half, and it would not recover until the early 19th century....",
-                    "*...By the 18th century, Seville's international importance was in decline....",
-                    "*...The writer Miguel de Cervantes lived primarily in Seville between 1596 and 1600....",
-                    "...In 1597, discrepancies in his accounts of the three years previous landed him in the Royal Prison of Seville for a short time....",
-                    "*...His short story Rinconete y Cortadillo, since the 19th century one of his most-read pieces, includes much description of Sevillian society; it features two young vagabonds who come to Seville, attracted by the riches and disorder that the 16th-century commerce with the Americas had brought to the city....",
-                    "*...During the 18th century Charles III of Spain promoted Seville's industries....",
-                    "...Since the 1950s it has been the seat of the rectorate (administration) of the University of Seville, as well as its Schools of Law, Philology (language/letters), Geography, and History....",
-                    "*...More operas have been set in Seville than in any other city of Europe....",
-                    "*...In 2012, a study of experts concluded the total number of operas set in Seville is 153....",
-                    "...Among the composers who fell in love with the city are Beethoven (Fidelio), Mozart (The Marriage of Figaro and Don Giovanni), Rossini (The Barber of Seville), Donizetti (La favorite), and Bizet (Carmen)....",
-                    "*...The first newspaper in Spain outside of Madrid was Seville's Hebdomario útil de Seville, which began publication in 1758....",
-                    "*...Between 1825 and 1833, Melchor Cano acted as chief architect in Seville; most of the urban planning policy and architectural modifications of the city were made by him and his collaborator Jose Manuel Arjona y Cuba....",
-                    "*...By the second half of the 19th century, Seville had begun an expansion supported by railway construction and the demolition of part of its ancient walls, allowing the urban space of the city to grow eastward and southward....",
-                    "*...Seville fell very quickly at the beginning of the Spanish Civil War in 1936....",
-                    "...Radio Seville opposed the uprising and called for the peasants to come to the city for arms, while workers' groups established barricades....",
-                    "...Queipo then moved to capture Radio Seville, which he used to broadcast propaganda on behalf of the Francoist forces....",
-                    "*...Under Francisco Franco's rule Spain was officially neutral in World War II (although it did collaborate with the Axis powers), and like the rest of the country, Seville remained largely economically and culturally isolated from the outside world....",
-                    "*...In 1953 the shipyard of Seville was opened, eventually employing more than 2,000 workers in the 1970s....",
-                    "*...Before the existence of wetlands regulation in the Guadalquivir basin, Seville suffered regular heavy flooding; perhaps worst of all were the floods that occurred in November 1961 when the River Tamarguillo, a tributary of the Guadalquivir, overflowed as a result of a prodigious downpour of rain, and Seville was consequently declared a disaster zone....",
-                    "*...Trade unionism in Seville began during the 1960s with the underground organisational activities of the Workers' Commissions or Comisiones Obreras (CCOO), in factories such as Hytasa, the Astilleros shipyards, Hispano Aviación, etc....",
-                    "*...On 3 April 1979 Spain held its first democratic municipal elections after the end of Franco's dictatorship; councillors representing four different political parties were elected in Seville....",
-                    "*...On 5 November 1982, Pope John Paul II arrived in Seville to officiate at a Mass before more than half a million people at the fairgrounds....",
-                    "*...In 1992, coinciding with the fifth centenary of the Discovery of the Americas, the Universal Exposition was held for six months in Seville, on the occasion of which the local communications network and urban infrastructure was greatly improved under a 1987 PGOU plan launched by Mayor Manuel del Valle: the SE-30 ring road around the city was completed and new highways were constructed; the new Seville-Santa Justa railway station had opened in 1991, while the Spanish High-Speed Rail system, the Alta Velocidad Española (AVE), began to operate between Madrid-Seville....",
-                    "...The Seville Airport was expanded with a new terminal building designed by the architect Rafael Moneo, and various other improvements were made....",
-                    "*...Seville has an area of 141 km2 (54 sq mi), according to the National Topographic Map (Mapa Topográfico Nacional) series from the Instituto Geográfico Nacional – Centro Nacional de Información Geográfica, the country's civilian survey organisation (pages 984, 985 and 1002)....",
-                    "*...Seville is on the same parallel as United States west coast city San Jose in central California....",
-                    "*...Further east from Seville in the Mediterranean Basin, it is on the same latitude as Catania in Sicily, Italy and just south of Athens, the capital of Greece....",
-                    "*...Seville is located inland, not very far from the Andalusian coast, but still sees a much more continental climate than the nearest port cities, Cádiz and Huelva....",
-                    "*...Seville has a Mediterranean climate (Köppen climate classification Csa), featuring very hot, dry summers and mild winters with moderate rainfall....",
-                    "*...Seville has an annual average of 19.2 °C (67 °F)....",
-                    "*...The annual average temperature is 25.4 °C (78 °F) during the day and 13.0 °C (55 °F) at night. Seville is located in the lower part of the Guadalquivir Valley, which is often referred to as \"the frying pan of Spain\", as it features the hottest cities in the country....",
-                    "*...Seville...",
-                    "*...After the city of Córdoba (also in Andalusia), Seville has the hottest summer in continental Europe among all cities with a population over 100,000 people, with average daily highs of 36.0 °C (97 °F) in July....",
-                    "...The hottest temperature extreme of 46.6 °C (116 °F) was registered by the weather station at Seville Airport on 23 July 1995 while the coldest temperature extreme of −5.5 °C (22 °F) was also registered by the airport weather station on 12 February 1956....",
-                    "...There is an unaccredited record by the National Institute of Meteorology of 47.2 °C (117 °F) on 1 August during the 2003 heat wave, according to a weather station (83910 LEZL) located in the southern part of Seville Airport, near the former US San Pablo Air Force Base....",
-                    "*...The average sunshine hours in Seville are approximately 3000 per year....",
-                    "*...Since the year 1500, only 10 snowfalls have been recorded/reported in Seville....",
-                    "*...During the 20th century, Seville registered just 2 snowfalls, the last one on 2 February 1954....",
-                    "*...Seville is a municipality, the basic level of local government in Spain....",
-                    "*...Seville is the capital of the autonomous community of Andalusia, according to Article 4 of the Statute of Autonomy of Andalusia of 2007, and is the capital of the Province of Seville as well....",
-                    "*...Seville is a big tourist centre in Spain....",
-                    "*...The Church of Saint Louis of France, located in the historic district of Seville represents an example of Baroque architecture in the 18th century....",
-                    "*...The Moorish urban influences continued and are present in contemporary Seville, for instance in the custom of decorating with plants and small fountains in the courtyards of the houses....",
-                    "...Original Moorish buildings are the Patio del Yeso in the Alcázar, the city walls, and the main section of the Giralda, the bell tower of the Seville Cathedral....",
-                    "*...The most important art collection of Seville is the Museum of Fine Arts of Seville....",
-                    "*...Other museums in Seville are:...",
-                    "*...The Antiquarium in Metropol Parasol, an underground museum which is composed of the most important archaeological site of the ancient Roman stage of Seville and remains preserved....",
-                    "*...The Museum and Treasure of La Macarena, where the collection of the Macarena brotherhood is exhibited. This exhibition gives visitors an accurate impression of Seville's Holy Week....",
-                    "*...The Parque de María Luisa (María Luisa Park), is a monumental park built for the 1929 World's Fair held in Seville, the Exposición Ibero-Americana. The so-called Jardines de las Delicias (literally, Delighting Gardens), closer to the river, are part of the Parque de María Luisa....",
-                    "...The Parque del Alamillo y San Jerónimo, the largest park in Andalusia, was originally built for Seville Expo '92 to reproduce the Andalusian native flora. It lines both Guadalquivir shores around the San Jerónimo meander. The 32-metres-high bronze sculpture, The Birth of a New Man (popularly known as Columbus's Egg, el Huevo de Colón), by the Georgian sculptor Zurab Tsereteli, is located in its northwestern sector....",
-                    "*...Seville also has a corral de comedias theatre, which is the Corral del Coliseo, now used as a residential building....",
-                    "*...There are many entertainment options around the city of Seville and one of its biggest attractions is the numerous festivals that happen around the year....",
-                    "*...Semana Santa is celebrated all over Spain and Latin America, but the celebration in Seville is large and well known as a Fiesta of International Tourist Interest....",
-                    "*...Seville is home to the bi-annual flamenco festival La Bienal, which claims to be \"the biggest flamenco event worldwide\" and lasts for nearly a month....",
-                    "*...The April Fair (Feria de Abril) is a huge celebration that takes place in Seville about two weeks after the Holy Week....",
-                    "...The International Boat Show of Seville is an annual event that takes place in the only indoor maritime port of the country, which is one of the most important in Europe....",
-                    "*...Seville had a vibrant rock music scene in the 1970s and 1980s with bands like Triana, Alameda and Smash, who fused Andalusia's traditional flamenco music with British-style progressive rock....",
-                    "*...Seville's diverse music scene is reflected in the variety of its club-centred nightlife....",
-                    "*...In 2023, Seville will host the 24th Annual Latin Grammy Awards, making Seville the first city outside of the United States to host the Latin Grammy Awards....",
-                    "*...The Triana district in Seville is considered a birthplace of flamenco, where it found its beginning as an expression of the poor and marginalized....",
-                    "*...Seville's Gypsy population, known as Flamencos, were instrumental in the development of the art form....",
-                    "*...There are more flamenco artists in Seville than anywhere else in the country, supporting an entire industry surrounding it and drawing in a significant amount of tourism for the city....",
-                    "*...Typical desserts from Seville include pestiños, a honey-coated sweet fritter; torrijas, fried slices of bread with honey; roscos fritos, deep-fried sugar-coated ring doughnuts; magdalenas or fairy cakes; yemas de San Leandro,[citation needed] which provide the city's convents with a source of revenue; and tortas de aceite, a thin sugar-coated cake made with olive oil....",
-                    "*...Bitter Seville oranges grow on trees lining the city streets....",
-                    "*...According to legend, the Arabs brought the bitter orange to Seville from East Asia via Iraq around the 10th century to beautify and perfume their patios and gardens, as well as to provide shade....",
-                    "*...Seville is the most populated city in southern Spain, and has the largest GDP (gross domestic product) of any in Andalusia, accounting for one-quarter of its total GDP....",
-                    "*...All municipalities in the metropolitan area depend directly or indirectly on Seville's economy, while agriculture dominates the economy of the smaller villages, with some industrial activity localised in industrial parks....",
-                    "...The Diputación de Sevilla (Deputation of Seville), with provincial headquarters in the Antiguo Cuartel de Caballería (Old Cavalry Barracks) on Avenida Menendez Pelayo, provides public services to distant villages that they can not provide themselves....",
-                    "*...The economic activity of Seville cannot be detached from the geographical and urban context of the city; the capital of Andalusia is the centre of a growing metropolitan area....",
-                    "*...The 1990s saw massive growth in investment in infrastructure in Seville, largely due to its hosting of the Universal Exposition of Seville in 1992....",
-                    "*...Seville has the only inland port in Spain, located 80 km (50 mi) from the mouth of the River Guadalquivir....",
-                    "*...Outside of Seville are nine PS20 solar power towers which use the city's sunny weather to provide most of it with clean and renewable energy....",
-                    "*...Seville has conference facilities, including the Conference and Convention Centre....",
-                    "*...In April 2008 the city council of Seville provided a grant to renovate the building to create the Casa de la Ciencia (Science Centre) to encourage popular interest in science....",
-                    "*...The internationally recognised company Neocodex has its headquarters in Seville; it maintains the first and largest DNA bank in Spain and has made significant contributions to scientific research in genetics....",
-                    "*...Seville is also considered an important technological and research centre for renewable energy and the aeronautics industry....",
-                    "*...The output of the research centres in Sevillan universities working in tandem with city government, and the numerous local technology companies, have made Seville a leader among Spanish cities in technological research and development....",
-                    "*...Seville is served by the TUSSAM (Transportes Urbanos de Sevilla) bus network which runs buses throughout the city....",
-                    "*...The Consorcio de Transportes de Sevilla communicates by bus with all the satellite towns of Seville....",
-                    "*...The Seville metro (\"Metro de Sevilla\" in Spanish) is a light metro network serving the city of Seville and its metropolitan area....",
-                    "*...The Seville-Santa Justa railway station is served by the AVE high-speed rail system, operated by the Spanish state-owned rail company Renfe....",
-                    "*...Seville is on the Red Ciudades AVE, a net created with Seville connected to 17 major cities of Spain with high-speed rail....",
-                    "*...Although Seville is close to the Portuguese city of Faro, it is not possible to cross the border by train....",
-                    "*...The number of people using bicycles as a means of transport in Seville has increased substantially in recent years, multiplying tenfold from 2006 to 2011....",
-                    "...As of 2022, some companies in the e-bike community bicycle program industry such as Lime (transportation company) and Ridemovi started working in the city, thanks to the new parking spots made by the City Council of Seville...",
-                    "*...The San Pablo Airport is the main airport for Seville and is Andalusia's second busiest airport, after Málaga's, and first in cargo....",
-                    "...In addition, Ryanair opened its first aircraft maintenance facility in Spain at Seville Airport in 2019....",
-                    "*...Seville is the only commercial river port in Spain and the only inland city in the country where cruise ships can arrive in the historical centre....",
-                    "...On 21 August 2012, the Muelle de las Delicias, controlled by the Port Authority of Seville, hosted the cruise ship Azamara Journey for two days, the largest ship ever to visit the town....",
-                    "*...Seville has one ring road, the SE-30, which connects with the dual carriageway of the south, the A-4, that directly communicates the city with Cádiz, Cordoba and Madrid....",
-                    "*...The A-49 links Seville with Huelva and the Algarve in the south of Portugal....",
-                    "*...Seville is home to three public universities....",
-                    "...The University of Seville (US), founded in 1505; as of 2019, it had 72,000 students....",
-                    "*...Additionally, there is the School of Hispanic American Studies, founded in 1942, the Menéndez Pelayo International University, based in Santander, which operates branch campuses in Seville, and Loyola University Andalusia....",
-                    "*...Seville is also home to many international schools and colleges that cater to American students who come to study abroad....",
-                    "*...Seville is the hometown of two rival association football teams: Real Betis Balompié and Sevilla Fútbol Club; both teams play in La Liga....",
-                    "*...Seville has an ACB League basketball club, the Real Betis Baloncesto....",
-                    "*...Seville has hosted both indoor (1991) and outdoor (1999) World Championships in athletics, while housed the tennis Davis Cup final in 2004 and 2011....",
-                    "*...Seville's River Guadalquivir is one of only three FISA approved international training centres for rowing and the only one in Spain; the 2002 World Rowing Championships and the 2013 European Rowing Championships were held there....",
-                    "*...The picaresque novel Rinconete y Cortadillo by Miguel de Cervantes takes place in the city of Seville....",
-                    "*...The novel La Femme et le pantin (The Woman and the Puppet) (1898) by Pierre Louÿs, adapted for film several times, is set mainly in Seville....",
-                    "*...Seville is the setting for the legend of Don Juan (inspired by the real aristocrat Don Miguel de Mañara) on the Paseo Alcalde Marqués de Contadero....",
-                    "*...Seville is the primary setting of many operas, the best known of which are Bizet's Carmen (based on Mérimée's novella), Rossini's The Barber of Seville, Verdi's La forza del destino, Beethoven's Fidelio, Mozart's Don Giovanni and The Marriage of Figaro, and Prokofiev's Betrothal in a Monastery....",
-                    "*...Seville is the setting of the novel The Seville Communion by Arturo Pérez-Reverte....",
-                    "*...Seville is both the location and setting for much of the 1985 Doctor Who television serial \"The Two Doctors\"....",
-                    "*...Seville is also used as one of the locations in Dan Brown's Digital Fortress....",
-                    "*...Seville is one of the settings in Jostein Gaarder's book The Orange Girl (Appelsinpiken)....",
-                    "*...Seville is the hometown of the two main characters in the 2000 film The Road to El Dorado by DreamWorks. Miguel and Tulio are con artists that stow away on a ship bound for the New World and win a map for the fabled lost city of gold, El Dorado, and are invariably seen as gods by the locals....",
-                    "*...Arthur Koestler's book Spanish Testament is based on the writer's experiences while held in the Seville prison, under a sentence of death, during the Spanish Civil War....",
-                    "*...Robert Wilson's police novel The Hidden Assassins (2006) concerns a terrorist incident in Seville and the political context thereof, with much local colour....",
-                    "...In the 2016 film Assassin's Creed, Master Assassins Aguilar de Nerha and Maria escape execution and are pursued by Templars through the city, eventually performing Leaps of Faith off of an unfinished Seville Cathedral to escape....",
-                    "*...In Mission: Impossible 2, Ethan Hunt is sent to Seville to recruit Nyah Nordoff-Hall....",
-                    "...The Tomb in Seville by Norman Lewis....",
-                    "*...Seville is twinned with the following cities:...",
-                    "*...Kansas City, Missouri (United States), 1969. The relationship between Seville and Kansas City is due to a small replica of the Giralda tower, Sevilla's cathedral belltower, that exists in Kansas City....",
-                    "*...Seville has been given titles by Spanish monarchs and heads of state throughout its history....",
-                    "*...13th-century poet Ibn Sahl of Seville ;...",
-                    "*...Notable Costumbrista painter who liked to depict the 19th century society of Seville and its buildings José Jiménez Aranda ;..."
+                    "*...The city unsuccessfully bid for the 2004 and 2008 Summer Olympics, for which the 60,000-seat Estadio de La Cartuja was designed to stage....",
+                    "*...Industrial architecture surviving today from the first half of the 19th century includes the ceramics factory installed in the Carthusian monastery at La Cartuja in 1841 by the Pickman family, and now home to the El Centro Andaluz de Arte Contemporáneo (CAAC), which manages the collections of the Museo de Arte Contemporáneo de Sevilla....",
+                    "*...Most of the city is on the east side of the river, while Triana, La Cartuja and Los Remedios are on the west side....",
+                    "*...The administrative headquarters are in Torre Triana, in La Cartuja....",
+                    "*...The Andalusian Contemporary Art Centre, situated in the neighbourhood of La Cartuja....",
+                    "*...The American Garden, also completed for Expo '92, is in La Cartuja. It is a public botanical garden, with a representative collection of American plants donated by different countries on the occasion of the world exposition. Despite its extraordinary botanical value, it remains a mostly abandoned place....",
+                    "*...Also Sevilla's stadium hosted the 1986 European Cup Final and the multi-purpose stadium built in 1999 La Cartuja, was the venue for the 2003 UEFA Cup Final...."
                 ]
             }
         },

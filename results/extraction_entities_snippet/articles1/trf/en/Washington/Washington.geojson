@@ -12,7 +12,7 @@
             },
             "properties": {
                 "entity": "Mount Washington",
-                "name_location": "George Washington University at Mount Vernon College, Foxhall Road Northwest, Foxhall Village, Washington, District of Columbia, 20007, United States",
+                "name_location": "George Washington University at Mount Vernon College, Foxhall Road Northwest, Washington, District of Columbia, 20007, United States",
                 "class": "amenity",
                 "type": "university",
                 "snippet": [
@@ -74,27 +74,6 @@
                 "type": "hotel",
                 "snippet": [
                     "*...Washington Park (disambiguation) ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.040255,
-                    38.904001
-                ]
-            },
-            "properties": {
-                "entity": "Washington Square",
-                "name_location": "Washington Square, Connecticut Avenue Northwest, Golden Triangle, Washington, District of Columbia, 20015, United States",
-                "class": "building",
-                "type": "yes",
-                "snippet": [
-                    "*...Washington Square (disambiguation) ;...",
-                    "*...Washington Square (Philadelphia) ;...",
-                    "...Washington Square West, Philadelphia ...."
                 ]
             }
         },

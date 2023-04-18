@@ -6,36 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    24.741313,
-                    59.412413
-                ]
-            },
-            "properties": {
-                "entity": "Europe",
-                "name_location": "Antiikmööblipood Old Europe, 8b, Kiisa, Kitseküla, Kesklinna linnaosa, Tallinn, Harju maakond, 96086, Estonia",
-                "class": "shop",
-                "type": "furniture",
-                "snippet": [
-                    "*...The medieval indigenous population of what is now Tallinn and northern Estonia was one of the last \"pagan\" civilisations in Europe to adopt Christianity following the Papal-sanctioned Livonian Crusade in the 13th century....",
-                    "*...Tallinn Old Town is one of the best-preserved medieval cities in Europe and is listed as a UNESCO World Heritage Site....",
-                    "*...Tallinn has the highest number of startup companies per person among all capitals and larger cities in Europe and is the birthplace of many international high-technology companies, including Skype and Wise....",
-                    "*...As an important port on a major trade route between Novgorod and western Europe, it became a target for the expansion of the Teutonic Knights and the Kingdom of Denmark during the period of Northern Crusades in the beginning of the 13th century when Christianity was forcibly imposed on the local population....",
-                    "...In 1285, Tallinn, then known more widely as Reval, became the northernmost member of the Hanseatic League – a mercantile and military alliance of German-dominated cities in Northern Europe....",
-                    "*...Reval enjoyed a strategic position at the crossroads of trade between the rest of western Europe and Novgorod and Muscovy in the east....",
-                    "*...In recent years,[when?] Tallinn has gradually been becoming one of the main IT centres of Europe, with the Cooperative Cyber Defence Centre of Excellence (CCD COE) of NATO, eu-LISA, the EU Digital Agency and the IT development centres of large corporations, such as TeliaSonera and Kuehne + Nagel being based in the city....",
-                    "*...Most of the visitors come from Europe, though Tallinn has also become increasingly visited by tourists from the Asia-Pacific region....",
-                    "*...Estonia is ranked third in Europe in terms of shopping centre space per inhabitant, ahead of Sweden and being surpassed only by Norway and Luxembourg....",
-                    "*...Ericsson has one of its biggest production facilities in Europe located in Tallinn, focusing on the production of 4G communication devices....",
-                    "...With over 250 feature films screened each year and over 77500 attendances (2014), PÖFF is one of the largest film events of Northern Europe and cultural events in Estonia in the winter season....",
-                    "*...This area is one of the best preserved medieval towns in Europe and the authorities are continuing its rehabilitation...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     24.737375,
                     59.435744
                 ]
@@ -47,29 +17,6 @@
                 "type": "castle",
                 "snippet": [
                     "*...It has been widely considered a historical derivation of Taani-linna, meaning \"Danish-castle\" (Latin: Castrum Danorum), conceivably because the Danish invaders built the castle in place of the Estonian stronghold after the 1219 battle of Lyndanisse...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    24.73886,
-                    59.435483
-                ]
-            },
-            "properties": {
-                "entity": "Toompea",
-                "name_location": "Toompea, Kesklinna linnaosa, Tallinn, Harju maakond, 15165, Estonia",
-                "class": "highway",
-                "type": "living_street",
-                "snippet": [
-                    "*...Around 1050 AD, a fortress was built in what is now central Tallinn, on the hill of Toompea....",
-                    "*...It can be seen at Toompea, Lasnamäe, and Astangu....",
-                    "*...However, Toompea is not a part of the cliff, but a separate hill....",
-                    "...What can arguably be considered to be Tallinn's main attractions are located in the Tallinn Old Town (divided into a \"lower town\" and Toompea hill) which is easily explored on foot....",
-                    "...The major attractions are the medieval Toompea Castle (today housing the Estonian Parliament, the Riigikogu), the Lutheran St Mary's Cathedral, also known as the Dome Church (Estonian: Toomkirik), and the Russian Orthodox Alexander Nevsky Cathedral...."
                 ]
             }
         },
@@ -184,8 +131,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    24.758741,
-                    59.435311
+                    24.758763,
+                    59.435614
                 ]
             },
             "properties": {
@@ -253,53 +200,6 @@
                 "type": "tertiary",
                 "snippet": [
                     "*...It comprises three bigger peninsulas: Kopli, Paljassaare, and Kakumäe Peninsulas...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    24.744448,
-                    59.437004
-                ]
-            },
-            "properties": {
-                "entity": "Baltic",
-                "name_location": "Baltic Amber, 3, Dunkri, All-linn, Kesklinna linnaosa, Tallinn, Harju maakond, 10146, Estonia",
-                "class": "shop",
-                "type": "gift",
-                "snippet": [
-                    "...Situated on a bay in north Estonia, on the shore of the Gulf of Finland of the Baltic Sea, Tallinn has a population of about 454,000 (as of 2023) and administratively lies in the Harju maakond (county)....",
-                    "...Only the upper layer of Ordovician rocks protrudes from the cover of younger deposits, cropping out in the Baltic Klint at the coast and at a few places inland....",
-                    "...In addition to longtime functions as seaport and capital city, Tallinn has seen development of an information technology sector; in its 13 December 2005, edition, The New York Times characterised Estonia as \"a sort of Silicon Valley on the Baltic Sea\"....",
-                    "...Tallinn Passenger Port is one of the busiest cruise destinations on the Baltic Sea, it served more than 520,000 cruise passengers in 2013....",
-                    "...Tallinn is the financial centre of Estonia and also a strong economic centre in the Scandinavian-Baltic region....",
-                    "*...Port of Tallinn is one of the biggest ports in the Baltic sea region, whereas the largest cargo port of Estonia, the Port of Muuga, which is operated by the same business entity, is located in the neighboring town of Maardu....",
-                    "...Baltic Film and Media School ;...",
-                    "*...PÖFF is the only festival in the Nordic and Baltic region with a FIAPF (International Federation of Film Producers Association) accreditation for holding an international competition programme in the Nordic and Baltic region with 14 other non-specialised festivals, such as Cannes, Berlin, Venice....",
-                    "...Franz Anton Schiefner (1817–1879), a Baltic German linguist and tibetologist ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    24.799361,
-                    59.416368
-                ]
-            },
-            "properties": {
-                "entity": "Tallinn Airport",
-                "name_location": "Tallinn Airport Passenger terminal, 101, Tartu mnt, Ülemistejärve, Kesklinna linnaosa, Tallinn, Harju maakond, 11101, Estonia",
-                "class": "aeroway",
-                "type": "terminal",
-                "snippet": [
-                    "*...Air Maintenance Estonia and AS Panaviatic Maintenance, both based in Tallinn Airport, provide MRO services for aircraft, largely expanding their operations in recent years....",
-                    "...The Lennart Meri Tallinn Airport is about 4 kilometres (2 miles)  from Town Hall square (Raekoja plats)...."
                 ]
             }
         },
@@ -377,7 +277,12 @@
                 "snippet": [
                     "*...Those who are interested in Western European and Russian art may enjoy Kadriorg Art Museum collections, located in Kadriorg Palace, a beautiful Baroque building erected by Peter the Great....",
                     "*...The eastern parts of the city, notably Pirita (with Pirita Convent) and Kadriorg (with Kadriorg Palace) districts, are also popular destinations, and the Estonian Open Air Museum in Rocca al Mare, west of the city, preserves aspects of Estonian rural culture and architecture....",
-                    "*...Kadriorg Palace, the former palace of Peter the Great, built just after the Great Northern War, now houses the foreign art department of the Art Museum of Estonia, the presidential residence and the surrounding grounds include formal gardens and woodland...."
+                    "*...Kadriorg Palace, the former palace of Peter the Great, built just after the Great Northern War, now houses the foreign art department of the Art Museum of Estonia, the presidential residence and the surrounding grounds include formal gardens and woodland....",
+                    "...The Estonian Art Museum, the largest art museum in Estonia, consists of four branches – Kumu Art Museum, Kadriorg Art Museum, Mikkel Museum, and Niguliste Museum....",
+                    "...The Mikkel Museum, in Kadriorg Park, displays a collection of mainly Western art – ceramics and Chinese porcelain donated by Johannes Mikkel in 1994....",
+                    "*...Kadriorg is 2 kilometres (1.2 miles) east of the city centre and is served by buses and trams....",
+                    "*...The main building of the Art Museum of Estonia, Kumu (Estonian: Kunstimuuseum, Art Museum), was built in 2006 and lies in Kadriorg park....",
+                    "*...This coastal district is a further 2 kilometres north-east of Kadriorg...."
                 ]
             }
         },
@@ -396,7 +301,8 @@
                 "class": "amenity",
                 "type": "place_of_worship",
                 "snippet": [
-                    "*...The Niguliste Museum occupies former St. Nicholas' Church; it displays collections of historical ecclesiastical art spanning nearly seven centuries from the Middle Ages to post-Reformation art...."
+                    "*...The Niguliste Museum occupies former St. Nicholas' Church; it displays collections of historical ecclesiastical art spanning nearly seven centuries from the Middle Ages to post-Reformation art....",
+                    "...Major sights include the Town Hall square (Estonian: Raekoja plats), the city wall and towers (notably \"Fat Margaret\" and \"Kiek in de Kök\") as well as a number of medieval churches, including St Olaf's, St. Nicholas' and the Church of the Holy Ghost...."
                 ]
             }
         },
@@ -472,7 +378,11 @@
                 "class": "historic",
                 "type": "castle",
                 "snippet": [
-                    "*...The major attractions are the medieval Toompea Castle (today housing the Estonian Parliament, the Riigikogu), the Lutheran St Mary's Cathedral, also known as the Dome Church (Estonian: Toomkirik), and the Russian Orthodox Alexander Nevsky Cathedral...."
+                    "*...The major attractions are the medieval Toompea Castle (today housing the Estonian Parliament, the Riigikogu), the Lutheran St Mary's Cathedral, also known as the Dome Church (Estonian: Toomkirik), and the Russian Orthodox Alexander Nevsky Cathedral....",
+                    "*...Around 1050 AD, a fortress was built in what is now central Tallinn, on the hill of Toompea....",
+                    "*...It can be seen at Toompea, Lasnamäe, and Astangu....",
+                    "*...However, Toompea is not a part of the cliff, but a separate hill....",
+                    "...What can arguably be considered to be Tallinn's main attractions are located in the Tallinn Old Town (divided into a \"lower town\" and Toompea hill) which is easily explored on foot...."
                 ]
             }
         },
@@ -538,26 +448,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    24.742781,
-                    59.435918
-                ]
-            },
-            "properties": {
-                "entity": "St. Nicholas",
-                "name_location": "St. Nicholas Church, 3, Niguliste, All-linn, Kesklinna linnaosa, Tallinn, Harju maakond, 10146, Estonia",
-                "class": "amenity",
-                "type": "place_of_worship",
-                "snippet": [
-                    "...The Niguliste Museum occupies former St. Nicholas' Church; it displays collections of historical ecclesiastical art spanning nearly seven centuries from the Middle Ages to post-Reformation art....",
-                    "...Major sights include the Town Hall square (Estonian: Raekoja plats), the city wall and towers (notably \"Fat Margaret\" and \"Kiek in de Kök\") as well as a number of medieval churches, including St Olaf's, St. Nicholas' and the Church of the Holy Ghost...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     24.798151,
                     59.435316
                 ]
@@ -579,32 +469,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    24.784165,
-                    59.438669
-                ]
-            },
-            "properties": {
-                "entity": "Kadriorg",
-                "name_location": "Kadriorg, August Weizenbergi, Kadriorg, Kesklinna linnaosa, Tallinn, Harju maakond, 15170, Estonia",
-                "class": "railway",
-                "type": "tram_stop",
-                "snippet": [
-                    "...The Estonian Art Museum, the largest art museum in Estonia, consists of four branches – Kumu Art Museum, Kadriorg Art Museum, Mikkel Museum, and Niguliste Museum....",
-                    "...Those who are interested in Western European and Russian art may enjoy Kadriorg Art Museum collections, located in Kadriorg Palace, a beautiful Baroque building erected by Peter the Great....",
-                    "...The Mikkel Museum, in Kadriorg Park, displays a collection of mainly Western art – ceramics and Chinese porcelain donated by Johannes Mikkel in 1994....",
-                    "*...The eastern parts of the city, notably Pirita (with Pirita Convent) and Kadriorg (with Kadriorg Palace) districts, are also popular destinations, and the Estonian Open Air Museum in Rocca al Mare, west of the city, preserves aspects of Estonian rural culture and architecture....",
-                    "*...Kadriorg is 2 kilometres (1.2 miles) east of the city centre and is served by buses and trams....",
-                    "...Kadriorg Palace, the former palace of Peter the Great, built just after the Great Northern War, now houses the foreign art department of the Art Museum of Estonia, the presidential residence and the surrounding grounds include formal gardens and woodland....",
-                    "*...The main building of the Art Museum of Estonia, Kumu (Estonian: Kunstimuuseum, Art Museum), was built in 2006 and lies in Kadriorg park....",
-                    "*...This coastal district is a further 2 kilometres north-east of Kadriorg...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     24.801087,
                     59.41645
                 ]
@@ -615,28 +479,8 @@
                 "class": "aeroway",
                 "type": "terminal",
                 "snippet": [
-                    "...The Lennart Meri Tallinn Airport is about 4 kilometres (2 miles)  from Town Hall square (Raekoja plats)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    24.794989,
-                    59.423353
-                ]
-            },
-            "properties": {
-                "entity": "Ülemiste",
-                "name_location": "Ülemiste, Suur-Sõjamäe, Ülemiste, Lasnamäe linnaosa, Tallinn, Harju maakond, 96100, Estonia",
-                "class": "railway",
-                "type": "stop",
-                "snippet": [
-                    "...The largest lake in Tallinn is Lake Ülemiste (9.44 km2 (3.6 sq mi)), which serves as the main source of the city's drinking water....",
-                    "...Historically, a smaller river, called Härjapea, flowed from Lake Ülemiste through the town into the sea, but the river was diverted into underground sewerage system in the 1930s and has since completely disappeared from the cityscape....",
-                    "*...The nearest railway station Ülemiste is only 1.5 km (0.9 mi) from the airport...."
+                    "...The Lennart Meri Tallinn Airport is about 4 kilometres (2 miles)  from Town Hall square (Raekoja plats)....",
+                    "*...Air Maintenance Estonia and AS Panaviatic Maintenance, both based in Tallinn Airport, provide MRO services for aircraft, largely expanding their operations in recent years...."
                 ]
             }
         },

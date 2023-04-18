@@ -6,50 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    14.427615,
-                    50.077755
-                ]
-            },
-            "properties": {
-                "entity": "Europe",
-                "name_location": "Sojitz Europe, Krakovská, New Town, Praha 1, Prague, 121 32, Czechia",
-                "class": "office",
-                "type": "company",
-                "snippet": [
-                    "*...Prague is a political, cultural, and economic hub of central Europe, with a rich history and Romanesque, Gothic, Renaissance and Baroque architectures....",
-                    "*...Prague is home to a number of well-known cultural attractions, many of which survived the violence and destruction of 20th-century Europe....",
-                    "...It is home to a wide range of public and private schools, including Charles University in Prague, the oldest university in Central Europe....",
-                    "*...Nicknames for Prague have also included: the Golden City, the Mother of Cities and the Heart of Europe....",
-                    "*...Prague was an important seat for trading where merchants from across Europe settled, including many Jews, as recalled in 965 by the Hispano-Jewish merchant and traveler Abraham ben Jacob....",
-                    "...In 1347, he founded Charles University, which remains the oldest university in Central Europe....",
-                    "*...In 1400, Prague had 95,000 inhabitants, making it the third largest city in Europe (after Paris and Venice)....",
-                    "*...The revolutions in Europe in 1848 also touched Prague, but they were fiercely suppressed....",
-                    "*...In the late 1990s, Prague again became an important cultural center of Europe and was notably influenced by globalisation....",
-                    "*...The city is traditionally one of the cultural centres of Europe, hosting many cultural events....",
-                    "*...With the growth of low-cost airlines in Europe, Prague has become a weekend city destination allowing tourists to visit its museums and cultural sites as well as try its Czech beers and cuisine....",
-                    "...In 2008, the Allegro restaurant received the first Michelin star in the whole of the post-Communist part of Central Europe....",
-                    "...The modern economy of Prague is largely service and export-based and, in a 2010 survey, the city was named the best city in Central and Eastern Europe (CEE) for business....",
-                    "...In 2005, Prague was deemed among the three best cities in Central and Eastern Europe according to The Economist's livability rankings....",
-                    "*...In the Eurostat research, Prague ranked fifth among Europe's 271 regions in terms of gross domestic product per inhabitant, achieving 172 per cent of the EU average....",
-                    "...Radio Free Europe – Radio Liberty ;...",
-                    "*...Charles Square, the largest medieval square in Europe (now turned into a park) ;...",
-                    "...Charles University (UK) founded in 1348, the oldest university in Central Europe ;...",
-                    "*...It is also a seat of 10 public research institutes, four business incubators and large hospitals performing research and development activities such as the Motol University Hospital or Institute for Clinical and Experimental Medicine, which was the largest transplant center in Europe as of 2019....",
-                    "*...The Prague Metro system served 589.2 million passengers in 2012, making it the fifth busiest metro system in Europe and the most-patronised in the world on a per capita basis....",
-                    "*...The final station of the green line is Nemocnice Motol (Motol Hospital), giving people direct public transportation access to the largest medical facility in the Czech Republic and one of the largest in Europe....",
-                    "*...Inner Ring Road (The City Ring \"MO\"): surrounds central Prague. It is the longest city tunnel in Europe with a length of 5.5 km (3.4 mi) and five interchanges has been completed to relieve congestion in the north-western part of Prague. Called Blanka tunnel complex and part of the City Ring Road, it was estimated to eventually cost (after several increases) CZK 43 billion. Construction started in 2007 and, after repeated delays, the tunnel officially opened in September 2015. This tunnel complex completes a major part of the inner ring road....",
-                    "*...Is served by Václav Havel Airport Prague, the largest airport in the Czech Republic and one of the largest and busiest airports in central and eastern Europe....",
-                    "*...The airport is the hub of carriers Smartwings and Czech Airlines operating throughout Europe....",
-                    "*...O2 Arena – the second largest ice hockey arena in Europe. It hosted 2004 and 2015 Ice Hockey World Championship, NHL 2008 and 2010 Opening Game and Euroleague Final Four ;...",
-                    "...Gutovka – sport area with a large concrete skatepark, the highest outdoor climbing wall in Central Europe, four beach volleyball courts and children's playground, Central European Beach Volleyball Championship 2018 took place here...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     14.400522,
                     50.090811
                 ]
@@ -74,30 +30,6 @@
                     "*...Hitler ordered the German Army to enter Prague on 15 March 1939, and from Prague Castle proclaimed Bohemia and Moravia a German protectorate....",
                     "*...From 1939, when the country was occupied by Nazi Germany, Hitler took over Prague Castle....",
                     "*...Prague Castle with the St. Vitus Cathedral which stores the Czech Crown Jewels ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.413687,
-                    50.086163
-                ]
-            },
-            "properties": {
-                "entity": "Charles Bridge",
-                "name_location": "Charles Bridge, Old Town, Praha 1, Prague, 116 93, Czechia",
-                "class": "highway",
-                "type": "pedestrian",
-                "snippet": [
-                    "*...Main attractions include Prague Castle, Charles Bridge, Old Town Square with the Prague astronomical clock, the Jewish Quarter, Petřín hill and Vyšehrad....",
-                    "...It was rebuilt and named the Charles Bridge....",
-                    "...The Charles Bridge, replacing the Judith Bridge destroyed in the flood just prior to his reign, was erected to connect the east bank districts to the Malá Strana and castle area....",
-                    "...Also, the romantic music video \"Never Tear Us Apart\" by INXS, \"Diamonds from Sierra Leone\" by Kanye West was shot in the city, and features shots of the Charles Bridge and the Astronomical Clock, among other landmarks....",
-                    "...The picturesque Charles Bridge (Karlův most) ;...",
-                    "...Kampa Island, an island with a view of the Charles Bridge ;..."
                 ]
             }
         },
@@ -171,34 +103,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    14.417658,
-                    50.086716
-                ]
-            },
-            "properties": {
-                "entity": "Vltava",
-                "name_location": "Terezka, Mariánské náměstí, Old Town, Praha 1, Prague, 115 72, Czechia",
-                "class": "tourism",
-                "type": "artwork",
-                "snippet": [
-                    "...On the Vltava river, Prague is home to about 1.3 million people....",
-                    "...The Czech name Praha is derived from an old Slavic word, práh, which means \"ford\" or \"rapid\", referring to the city's origin at a crossing point of the Vltava river....",
-                    "*...Legend says that Libuše came out on a rocky cliff high above the Vltava and prophesied: \"I see a great city whose glory will touch the stars.\"...",
-                    "...At the site of the ford in the Vltava river, King Vladislaus I had the first bridge built in 1170, the Judith Bridge (Juditin most), named in honor of his wife Judith of Thuringia....",
-                    "...One of these banners was captured by Swedish troops during the Battle of Prague (1648), when they captured the western bank of the Vltava river and were repulsed from the eastern bank, they placed it in the Royal Military Museum in Stockholm; although this flag still exists, it is in very poor condition....",
-                    "*...Prague is situated on the Vltava river....",
-                    "*...The Berounka flows into the Vltava in the suburbs of Lahovice....",
-                    "*...The lowest point is the Vltava in Suchdol at the place where it leaves the city, at 172 m (564 ft)....",
-                    "...The National Theatre, a neo-Renaissance building with golden roof, alongside the banks of the Vltava river ;...",
-                    "...Since 2005 the Regional Organiser of Prague Integrated Transport (ROPID) has franchised operation of ferries on the Vltava river, which are also a part of the public transport system with common fares...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     14.41859,
                     50.090039
                 ]
@@ -252,33 +156,6 @@
                     "...Charles IV ordered the building of the New Town (Nové Město) adjacent to the Old Town and laid out the design himself....",
                     "...The neo-renaissance National Museum with large scientific and historical collections at the head of Wenceslas Square. It is the largest museum in the Czech Republic, covering disciplines from the natural sciences to specialized areas of the social sciences. The staircase of the building offers a nice view of the New Town....",
                     "*...The large Nusle Bridge, spans the Nusle Valley, linking New Town to Pankrác, with the Metro running underneath the road ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.421552,
-                    50.086959
-                ]
-            },
-            "properties": {
-                "entity": "Old Town",
-                "name_location": "Old Town Square Hotel, 20, Staroměstské náměstí, Old Town, Praha 1, Prague, 110 00, Czechia",
-                "class": "tourism",
-                "type": "hotel",
-                "snippet": [
-                    "...Main attractions include Prague Castle, Charles Bridge, Old Town Square with the Prague astronomical clock, the Jewish Quarter, Petřín hill and Vyšehrad....",
-                    "...At that time, the castle was surrounded by forests, covering the nine hills of the future city – the Old Town on the opposite side of the river, as well as the Lesser Town beneath the existing castle, appeared only later....",
-                    "...The new district was on the bank opposite of the Staré Město (\"Old Town\"), which had borough status and was bordered by a line of walls and fortifications....",
-                    "...Charles IV ordered the building of the New Town (Nové Město) adjacent to the Old Town and laid out the design himself....",
-                    "...This swallow-tailed banner is approximately 4 by 6 ft (1.2 by 1.8 m), with a red field sprinkled with small white fleurs-de-lis, and a silver old Town Coat-of-Arms in the center....",
-                    "...The earliest evidence indicates that a gonfalon with a municipal charge painted on it was used for the Old Town as early as 1419....",
-                    "...Following this in 1621 was an execution of 27 Czech Protestant leaders (involved in the uprising) in Old Town Square and the exiling of many others....",
-                    "...The Astronomical Clock (Orloj) on Old Town City Hall ;...",
-                    "...Old Town Square (Staroměstské náměstí) with gothic and baroque architectural styles ;..."
                 ]
             }
         },
@@ -540,26 +417,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    14.427764,
-                    50.087756
-                ]
-            },
-            "properties": {
-                "entity": "Municipal House",
-                "name_location": "Municipal House, 5, Republic Square, Old Town, Praha 1, Prague, 110 00, Czechia",
-                "class": "building",
-                "type": "civic",
-                "snippet": [
-                    "...Other major cultural institutions are the Rudolfinum which is home to the Czech Philharmonic Orchestra and the Municipal House which is home to the Prague Symphony Orchestra....",
-                    "...The art nouveau Municipal House, a major civic landmark and concert hall known for its Art Nouveau architectural style and political history in the Czech Republic...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     14.420707,
                     50.086994
                 ]
@@ -592,28 +449,6 @@
                 "type": "school",
                 "snippet": [
                     "*...Another six have been awarded Michelin's Bib Gourmand: Bistrøt 104, Divinis, Eska, Maso a Kobliha, Na Kopci and Sansho...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.438353,
-                    50.083771
-                ]
-            },
-            "properties": {
-                "entity": "Žižkov",
-                "name_location": "Teleport Žižkov, Vinohrady, Prague, 116 47, Czechia",
-                "class": "highway",
-                "type": "footway",
-                "snippet": [
-                    "*...In Malá Strana, Staré Město, Žižkov and Nusle there are hundreds of restaurants, bars and pubs, especially with Czech beer....",
-                    "*...National Monument in Vitkov with a large bronze equestrian statue of Jan Žižka in Vítkov Park, Žižkov – Prague 3 ;...",
-                    "...Žižkov Television Tower ;...",
-                    "...Viktoria Žižkov (Czech 2nd Football League) – football club ;..."
                 ]
             }
         },
@@ -767,7 +602,15 @@
                 "class": "tourism",
                 "type": "attraction",
                 "snippet": [
-                    "*...The Astronomical Clock (Orloj) on Old Town City Hall ;..."
+                    "*...The Astronomical Clock (Orloj) on Old Town City Hall ;...",
+                    "...Main attractions include Prague Castle, Charles Bridge, Old Town Square with the Prague astronomical clock, the Jewish Quarter, Petřín hill and Vyšehrad....",
+                    "...At that time, the castle was surrounded by forests, covering the nine hills of the future city – the Old Town on the opposite side of the river, as well as the Lesser Town beneath the existing castle, appeared only later....",
+                    "...The new district was on the bank opposite of the Staré Město (\"Old Town\"), which had borough status and was bordered by a line of walls and fortifications....",
+                    "...Charles IV ordered the building of the New Town (Nové Město) adjacent to the Old Town and laid out the design himself....",
+                    "...This swallow-tailed banner is approximately 4 by 6 ft (1.2 by 1.8 m), with a red field sprinkled with small white fleurs-de-lis, and a silver old Town Coat-of-Arms in the center....",
+                    "...The earliest evidence indicates that a gonfalon with a municipal charge painted on it was used for the Old Town as early as 1419....",
+                    "...Following this in 1621 was an execution of 27 Czech Protestant leaders (involved in the uprising) in Old Town Square and the exiling of many others....",
+                    "...Old Town Square (Staroměstské náměstí) with gothic and baroque architectural styles ;..."
                 ]
             }
         },
@@ -916,7 +759,7 @@
             },
             "properties": {
                 "entity": "National Theatre",
-                "name_location": "National Theatre, Masarykovo nábřeží, New Town, Praha 1, Prague, 116 65, Czechia",
+                "name_location": "National Theatre, Divadelní, Areál Národního divadla, New Town, Praha 1, Prague, 116 65, Czechia",
                 "class": "amenity",
                 "type": "theatre",
                 "snippet": [
@@ -979,7 +822,10 @@
                 "class": "tourism",
                 "type": "attraction",
                 "snippet": [
-                    "*...Žižkov Television Tower ;..."
+                    "*...Žižkov Television Tower ;...",
+                    "*...In Malá Strana, Staré Město, Žižkov and Nusle there are hundreds of restaurants, bars and pubs, especially with Czech beer....",
+                    "*...National Monument in Vitkov with a large bronze equestrian statue of Jan Žižka in Vítkov Park, Žižkov – Prague 3 ;...",
+                    "...Viktoria Žižkov (Czech 2nd Football League) – football club ;..."
                 ]
             }
         },
@@ -1017,7 +863,17 @@
                 "class": "tourism",
                 "type": "attraction",
                 "snippet": [
-                    "...The Prague Metronome at Letná Park, a giant, functional metronome that looms over the city ;..."
+                    "...The Prague Metronome at Letná Park, a giant, functional metronome that looms over the city ;...",
+                    "*...The public transport infrastructure consists of the heavily used Prague Integrated Transport (PID, Pražská integrovaná doprava) system, consisting of the Prague Metro (lines A, B, and C – its length is 65 km (40 mi) with 61 stations in total), Prague tram system, Prague buses, commuter trains, funiculars, and seven ferries....",
+                    "*...The Prague Metro system served 589.2 million passengers in 2012, making it the fifth busiest metro system in Europe and the most-patronised in the world on a per capita basis....",
+                    "...The first section of the Prague metro was put into operation in 1974....",
+                    "...The Prague metro is generally considered very safe....",
+                    "*...The large Nusle Bridge, spans the Nusle Valley, linking New Town to Pankrác, with the Metro running underneath the road ;...",
+                    "...All services (metro, tramways, city buses, funiculars and ferries) have a common ticketing system that operates on a proof-of-payment system....",
+                    "*...The Metro has three major lines extending throughout the city: A (green), B (yellow) and C (red)....",
+                    "*...A fourth Metro line D is under construction, which will connect the city centre to southern parts of the city (as of 2022, the completion is expected in 2028)....",
+                    "...In operation there are two kinds of units: \"81-71M\" which is modernized variant of the Soviet Metrovagonmash 81-71 (completely modernized between 1995 and 2003) and new \"Metro M1\" trains (since 2000), manufactured by consortium consisting of Siemens, ČKD Praha and ADtranz....",
+                    "...The Náměstí Míru metro station is the deepest station and is equipped with the longest escalator in European Union...."
                 ]
             }
         },
@@ -1036,7 +892,8 @@
                 "class": "tourism",
                 "type": "zoo",
                 "snippet": [
-                    "*...Prague Zoo in Troja, selected as the 7th best zoo in the world by Forbes magazine in 2007 and the 4th best by TripAdvisor in 2015 ;..."
+                    "*...Prague Zoo in Troja, selected as the 7th best zoo in the world by Forbes magazine in 2007 and the 4th best by TripAdvisor in 2015 ;...",
+                    "...There are also three funiculars, one on Petřín Hill, one on Mrázovka Hill and a third at the Zoo in Troja...."
                 ]
             }
         },
@@ -1083,34 +940,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    14.47468,
-                    50.103708
-                ]
-            },
-            "properties": {
-                "entity": "Metro",
-                "name_location": "Metro, Na Žertvách, Palmovka, Libeň, Prague, 186 76, Czechia",
-                "class": "amenity",
-                "type": "fast_food",
-                "snippet": [
-                    "*...The large Nusle Bridge, spans the Nusle Valley, linking New Town to Pankrác, with the Metro running underneath the road ;...",
-                    "...The public transport infrastructure consists of the heavily used Prague Integrated Transport (PID, Pražská integrovaná doprava) system, consisting of the Prague Metro (lines A, B, and C – its length is 65 km (40 mi) with 61 stations in total), Prague tram system, Prague buses, commuter trains, funiculars, and seven ferries....",
-                    "...All services (metro, tramways, city buses, funiculars and ferries) have a common ticketing system that operates on a proof-of-payment system....",
-                    "*...The Metro has three major lines extending throughout the city: A (green), B (yellow) and C (red)....",
-                    "*...A fourth Metro line D is under construction, which will connect the city centre to southern parts of the city (as of 2022, the completion is expected in 2028)....",
-                    "...The Prague Metro system served 589.2 million passengers in 2012, making it the fifth busiest metro system in Europe and the most-patronised in the world on a per capita basis....",
-                    "...The first section of the Prague metro was put into operation in 1974....",
-                    "...In operation there are two kinds of units: \"81-71M\" which is modernized variant of the Soviet Metrovagonmash 81-71 (completely modernized between 1995 and 2003) and new \"Metro M1\" trains (since 2000), manufactured by consortium consisting of Siemens, ČKD Praha and ADtranz....",
-                    "...The Náměstí Míru metro station is the deepest station and is equipped with the longest escalator in European Union....",
-                    "...The Prague metro is generally considered very safe...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     14.389069,
                     50.086258
                 ]
@@ -1123,26 +952,6 @@
                 "snippet": [
                     "...Prague is home to historical breweries Staropramen (Praha 5), U Fleků, U Medvídků, U Tří růží, Strahov Monastery Brewery (Praha 1) and Břevnov Monastery Brewery (Praha 6)....",
                     "*...Strahov Monastery, an old Czech premonstratensian abbey founded in 1149 and monastic library ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.402072,
-                    49.970446
-                ]
-            },
-            "properties": {
-                "entity": "Zoo",
-                "name_location": "Zoo, Lhota u Dolních Břežan, Dolní Břežany, okres Praha-západ, Central Bohemia, 156 00, Středočeský kraj",
-                "class": "highway",
-                "type": "path",
-                "snippet": [
-                    "...Prague Zoo in Troja, selected as the 7th best zoo in the world by Forbes magazine in 2007 and the 4th best by TripAdvisor in 2015 ;...",
-                    "...There are also three funiculars, one on Petřín Hill, one on Mrázovka Hill and a third at the Zoo in Troja...."
                 ]
             }
         },

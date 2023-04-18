@@ -60,7 +60,7 @@
             },
             "properties": {
                 "entity": "Palazzo Re Enzo",
-                "name_location": "Palazzo Re Enzo, Voltone del Podestà, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40121, Italy",
+                "name_location": "Palazzo Re Enzo, Piazza del Nettuno, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40121, Italy",
                 "class": "tourism",
                 "type": "attraction",
                 "snippet": [
@@ -188,33 +188,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.373125,
-                    44.55324
-                ]
-            },
-            "properties": {
-                "entity": "Metro",
-                "name_location": "METRO, Via Saliceto, Primo Maggio, Castel Maggiore, Unione Reno Galliera, Bologna, Emilia-Romagna, 40013, Italy",
-                "class": "shop",
-                "type": "wholesale",
-                "snippet": [
-                    "*...The new Metro municipalities, giving large urban areas the administrative powers of a province, are conceived for improving the performance of local administrations and to slash local spending by better co-ordinating the municipalities in providing basic services (including transport, school and social programs) and environment protection....",
-                    "*...In this policy framework, the Mayor of Bologna is designated to exercise the functions of Metropolitan mayor (Sindaco metropolitano), presiding over a Metropolitan Council formed by 18 mayors of municipalities within the Metro municipality...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.509568,
-                    44.43242
+                    11.40186,
+                    44.473131
                 ]
             },
             "properties": {
                 "entity": "Via Emilia",
-                "name_location": "Via Emilia, Osteria Grande, Castel San Pietro Terme, Nuovo Circondario Imolese, Bologna, Emilia-Romagna, 40024, Italy",
+                "name_location": "Via Emilia, Cicogna, San Lazzaro di Savena, Bologna, Emilia-Romagna, 40068, Italy",
                 "class": "highway",
                 "type": "primary",
                 "snippet": [
@@ -246,8 +226,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.345732,
-                    44.494301
+                    11.344818,
+                    44.494453
                 ]
             },
             "properties": {
@@ -352,7 +332,9 @@
                 "class": "highway",
                 "type": "footway",
                 "snippet": [
-                    "...The Portico di San Luca is possibly the world's longest...."
+                    "...The Portico di San Luca is possibly the world's longest....",
+                    "...It connects Porta Saragozza (one of the twelve gates of the ancient walls built in the Middle Ages, which circled a 7.5 km (4.7 mi) part of the city) with the Sanctuary of the Madonna di San Luca, a church begun in 1723 on the site of an 11th-century edifice which had already been enlarged in the 14th century, prominently located on a hill (289 metres (948 feet)) overlooking the town, which is one of Bologna's main landmarks....",
+                    "*...The windy 666 vault arcades, almost four kilometres (3,796 m or 12,454 ft) long, effectively links San Luca, as the church is commonly called, to the city centre...."
                 ]
             }
         },
@@ -399,34 +381,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.298139,
-                    44.479086
-                ]
-            },
-            "properties": {
-                "entity": "San Luca",
-                "name_location": "Sanctuary of the Madonna of San Luca, Portico di San Luca, Madonna di San Luca, Porto-Saragozza, Bologna, Emilia-Romagna, 40135, Italy",
-                "class": "amenity",
-                "type": "place_of_worship",
-                "snippet": [
-                    "...The Portico di San Luca is possibly the world's longest....",
-                    "...It connects Porta Saragozza (one of the twelve gates of the ancient walls built in the Middle Ages, which circled a 7.5 km (4.7 mi) part of the city) with the Sanctuary of the Madonna di San Luca, a church begun in 1723 on the site of an 11th-century edifice which had already been enlarged in the 14th century, prominently located on a hill (289 metres (948 feet)) overlooking the town, which is one of Bologna's main landmarks....",
-                    "*...The windy 666 vault arcades, almost four kilometres (3,796 m or 12,454 ft) long, effectively links San Luca, as the church is commonly called, to the city centre...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     11.343033,
                     44.492736
                 ]
             },
             "properties": {
                 "entity": "San Petronio Basilica",
-                "name_location": "Basilica di San Petronio, Via dell'Archiginnasio, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40124, Italy",
+                "name_location": "Basilica di San Petronio, Via de' Pignattari, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40124, Italy",
                 "class": "amenity",
                 "type": "place_of_worship",
                 "snippet": [
@@ -464,7 +425,7 @@
             },
             "properties": {
                 "entity": "San Giacomo Maggiore",
-                "name_location": "Chiesa di San Giacomo Maggiore, Via Benedetto XIV, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40126, Italy",
+                "name_location": "Chiesa di San Giacomo Maggiore, Via Zamboni, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40126, Italy",
                 "class": "amenity",
                 "type": "place_of_worship",
                 "snippet": [
@@ -483,31 +444,11 @@
             },
             "properties": {
                 "entity": "Bologna Centrale",
-                "name_location": "Bologna Centrale, Viale Pietro Pietramellara, Marconi, Porto-Saragozza, Bologna, Emilia-Romagna, 40100, Italy",
+                "name_location": "Bologna Centrale, Viale Pietro Pietramellara, Manifattura delle Arti, Porto-Saragozza, Bologna, Emilia-Romagna, 40100, Italy",
                 "class": "building",
                 "type": "train_station",
                 "snippet": [
                     "*...Bologna is home to the Guglielmo Marconi International Airport, the seventh busiest Italian airport for passenger traffic (8 million passengers handled in 2017).\nBologna Centrale railway station is one of Italy's most important train hubs thanks to the city's strategic location as a crossroad between north–south and east–west routes...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.413965,
-                    44.509167
-                ]
-            },
-            "properties": {
-                "entity": "Bologna San Donato",
-                "name_location": "Bologna San Donato, Via dello Smistamento, San Donato-San Vitale, Róveri, Bologna, Emilia-Romagna, 40055, Italy",
-                "class": "railway",
-                "type": "yard",
-                "snippet": [
-                    "*...Bologna San Donato classification yard, with 33 railway tracks, used to be the largest freight hub in Italy by size and traffic....",
-                    "...Since 2018, it has been repurposed as the Bologna San Donato railway test circuit...."
                 ]
             }
         },

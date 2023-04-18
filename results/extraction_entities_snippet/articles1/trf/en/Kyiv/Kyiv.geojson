@@ -6,93 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.527402,
-                    50.4521
-                ]
-            },
-            "properties": {
-                "entity": "Europe",
-                "name_location": "European Square, Го́род Володимира, Центр, Shevchenkivskyi district, Kyiv, 01008, Ukraine",
-                "class": "highway",
-                "type": "secondary",
-                "snippet": [
-                    "*...As of 1 January 2022, its population was 2,952,301, making Kyiv the seventh-most populous city in Europe....",
-                    "...Kyiv is an important industrial, scientific, educational, and cultural center in Eastern Europe....",
-                    "...During its history, Kyiv, one of the oldest cities in Eastern Europe, passed through several stages of prominence and obscurity....",
-                    "...In English, Kiev appeared in print as early as 1804 in John Cary's \"New map of Europe, from the latest authorities\", and in Mary Holderness's 1823 travelogue New Russia: Journey from Riga to the Crimea by way of Kiev....",
-                    "...Kyiv is a middle-income city, with prices comparable to many mid-size American cities (i.e., considerably lower than Western Europe)....",
-                    "*...Average prices of apartments are the highest in the country and among the highest in eastern Europe....",
-                    "*...The historic  tram system was the first electric tramway in the former Russian Empire and the third one in Europe after the Berlin Straßembahn and the Budapest tramway....",
-                    "...Ticket prices are regulated by the city government, and the cost of one ride is far lower than in Western Europe...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.603649,
-                    50.337702
-                ]
-            },
-            "properties": {
-                "entity": "Dnieper",
-                "name_location": "Dnieper Riviera, 58, Лютнева вулиця, Holosiivskyi District, Kyiv, 03131, Ukraine",
-                "class": "amenity",
-                "type": "restaurant",
-                "snippet": [
-                    "...It is in north-central Ukraine along the Dnieper River....",
-                    "*...In De Administrando Imperio, Constantine Porphyrogenitus mentions a caravan of small cargo boats which assembled annually, and writes, \"They come down the river Dnieper and assemble at the strong-point of Kyiv (Kioava), also called Sambatas\"....",
-                    "...During the Russian industrial revolution in the late 19th century, Kyiv became an important trade and transportation centre of the Russian Empire, specialising in sugar and grain export by railway and on the Dnieper river....",
-                    "*...Originally on the west bank, today Kyiv is on both sides of the Dnieper, which flows southwards through the city towards the Black Sea....",
-                    "*...Kyiv is a part of the larger Dnieper Upland adjoining the western bank of the Dnieper in its mid-flow, and which contributes to the city's elevation change....",
-                    "...Kyiv expanded into the Dnieper Lowland on the left bank (to the east) as late as the 20th century....",
-                    "*...The whole portion of Kyiv on the left bank of the Dnieper is generally referred to as the Left Bank (Лівий берег, Livyi bereh)....",
-                    "...Significant areas of the left bank Dnieper valley were artificially sand-deposited, and are protected by dams....",
-                    "...Within the city the Dnieper River forms a branching system of tributaries, isles, and harbors within the city limits....",
-                    "*...Both the Dnieper and Desna rivers are navigable at Kyiv, although regulated by the reservoir shipping locks and limited by winter freeze-over....",
-                    "*...In total, there are 448 bodies of open water within the boundaries of Kyiv, which include the Dnieper itself, its reservoirs, and several small rivers, dozens of lakes and artificially created ponds....",
-                    "...The Dnieper River naturally divides Kyiv into the Right Bank and the Left Bank areas....",
-                    "*...It is also prestigious to own a property in newly constructed buildings in the Kharkivskyi Raion or Obolon along the Dnieper....",
-                    "*...One of Kyiv's widely recognized modern landmarks is the highly visible giant Mother Motherland statue made of titanium standing at the National Museum of the History of Ukraine in the Second World War on the Right bank of the Dnieper....",
-                    "*...Among Kyiv's best-known monuments are Mikhail Mikeshin's statue of Bohdan Khmelnytsky astride his horse near St. Sophia Cathedral, the venerated Vladimir the Great (St. Vladimir), the baptizer of Rus', overlooking the river above Podil from Saint Vladimir Hill, the monument to Kyi, Shchek and Khoryv and Lybid, the legendary founders of the city at the Dnieper embankment....",
-                    "...The National Museum of the History of Ukraine in the Second World War is here, which offers both indoor and outdoor displays of military history and equipment surrounded by verdant hills overlooking the Dnieper river....",
-                    "*...The National Museum of the History of Ukraine in the Second World War is a memorial complex commemorating the Eastern Front of World War II in the hills on the right-bank of the Dnieper in Pechersk....",
-                    "...It connects the historic Uppertown, and the lower commercial neighborhood of Podil through the steep Saint Vladimir Hill overseeing the Dnieper River....",
-                    "*...There are eight Dnieper bridges and dozens of grade-separated intersections in the city....",
-                    "...Bridges over the Dnieper River are another problem restricting the development of city's railway system...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.527054,
-                    50.447146
-                ]
-            },
-            "properties": {
-                "entity": "Khreshchatyk",
-                "name_location": "Khreshchatyk, Arkhitektora Horodetskoho Street, Урядовий квартал, Садиба Мерінга, Клов, Pecherskyi district, Kyiv, 01024, Ukraine",
-                "class": "railway",
-                "type": "subway_entrance",
-                "snippet": [
-                    "*...Shortly after the Wehrmacht occupied the city, a team of NKVD officers who had remained hidden dynamited most of the buildings on the Khreshchatyk, the main street of the city, where German military and civil authorities had occupied most of the buildings; the buildings burned for days and 25,000 people were left homeless....",
-                    "...The city state administration and council is in the Kyiv City council building on Khreshchatyk Street....",
-                    "*...In the discussions that centered on how to create a showcase city center, the current city center of Khreshchatyk and Maidan Nezalezhnosti (Independence Square) were not the obvious choices....",
-                    "*...The most expensive properties are in the Pechersk and Khreshchatyk areas....",
-                    "*...The centre of Kyiv has been cleaned up and buildings have been restored and redecorated, especially Khreshchatyk and Maidan Nezalezhnosti...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     30.45756,
                     50.475742
                 ]
@@ -126,26 +39,6 @@
                 "type": "danger_area",
                 "snippet": [
                     "...The catastrophic accident at the Chernobyl Nuclear Power Plant in 1986 occurred only 100 km (62 mi) north of the city...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.591103,
-                    50.592045
-                ]
-            },
-            "properties": {
-                "entity": "Desna",
-                "name_location": "Десна, Гагаріна вулиця, Khotianivka, Pirnove Rural Hromada, Vyshhorod Raion, Kyiv Oblast, 07363, Ukraine",
-                "class": "leisure",
-                "type": "resort",
-                "snippet": [
-                    "...The city is close to the mouth of the Desna River and the Kyiv Reservoir in the north, and the Kaniv Reservoir in the south....",
-                    "*...Both the Dnieper and Desna rivers are navigable at Kyiv, although regulated by the reservoir shipping locks and limited by winter freeze-over...."
                 ]
             }
         },
@@ -203,7 +96,11 @@
                 "class": "highway",
                 "type": "primary",
                 "snippet": [
-                    "*...The city state administration and council is in the Kyiv City council building on Khreshchatyk Street...."
+                    "*...The city state administration and council is in the Kyiv City council building on Khreshchatyk Street....",
+                    "*...Shortly after the Wehrmacht occupied the city, a team of NKVD officers who had remained hidden dynamited most of the buildings on the Khreshchatyk, the main street of the city, where German military and civil authorities had occupied most of the buildings; the buildings burned for days and 25,000 people were left homeless....",
+                    "*...In the discussions that centered on how to create a showcase city center, the current city center of Khreshchatyk and Maidan Nezalezhnosti (Independence Square) were not the obvious choices....",
+                    "*...The most expensive properties are in the Pechersk and Khreshchatyk areas....",
+                    "*...The centre of Kyiv has been cleaned up and buildings have been restored and redecorated, especially Khreshchatyk and Maidan Nezalezhnosti...."
                 ]
             }
         },
@@ -270,32 +167,6 @@
                     "*...In the discussions that centered on how to create a showcase city center, the current city center of Khreshchatyk and Maidan Nezalezhnosti (Independence Square) were not the obvious choices....",
                     "*...On Independence Square in the city centre, two monuments elevate two of the city protectors; the historic protector of Kyiv Michael Archangel atop a reconstruction of one of the old city's gates and a modern invention, the goddess-protector Berehynia atop a tall column....",
                     "*...The centre of Kyiv (Independence Square and Khreschatyk Street) becomes a large outdoor party place at night during summer months, with thousands of people having a good time in nearby restaurants, clubs and outdoor cafes...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.537446,
-                    50.429976
-                ]
-            },
-            "properties": {
-                "entity": "Pechersk",
-                "name_location": "Theatre on Pechersk, Мала Шияновська вулиця, Собача Тропа, Pechersk, Pecherskyi district, Kyiv, 01011, Ukraine",
-                "class": "amenity",
-                "type": "theatre",
-                "snippet": [
-                    "...Kyiv's geographical relief contributed to its toponyms, such as Podil (\"lower\"), Pechersk (\"caves\"), and uzviz (a steep street, \"descent\")....",
-                    "*...The first known formal subdivision of Kyiv dates to 1810 when the city was subdivided into 4 parts: Pechersk, Starokyiv, and the first and the second parts of Podil....",
-                    "*...Some of the early, ultimately not materialised, ideas included a part of Pechersk, Lypky, European Square, and Mykhailivska Square....",
-                    "*...The most expensive properties are in the Pechersk and Khreshchatyk areas....",
-                    "...Kyiv's most famous historical architecture complexes are the St. Sophia Cathedral and the Kyiv Pechersk Lavra (Monastery of the Caves), which are recognized by UNESCO as a World Heritage Site....",
-                    "...Its sacred sites, which include the Kyiv Pechersk Lavra (the Monastery of the Caves) and the Saint Sophia Cathedral are probably the most famous, attracted pilgrims for centuries and now recognized as a UNESCO World Heritage Site remain the primary religious centres as well as the major tourist attraction....",
-                    "*...The National Museum of the History of Ukraine in the Second World War is a memorial complex commemorating the Eastern Front of World War II in the hills on the right-bank of the Dnieper in Pechersk....",
-                    "*...These structures (once a united complex) were built in the Pechersk and neighbourhoods by the Russian army...."
                 ]
             }
         },
@@ -394,7 +265,13 @@
                 "type": "monastery",
                 "snippet": [
                     "...Kyiv's most famous historical architecture complexes are the St. Sophia Cathedral and the Kyiv Pechersk Lavra (Monastery of the Caves), which are recognized by UNESCO as a World Heritage Site....",
-                    "...Its sacred sites, which include the Kyiv Pechersk Lavra (the Monastery of the Caves) and the Saint Sophia Cathedral are probably the most famous, attracted pilgrims for centuries and now recognized as a UNESCO World Heritage Site remain the primary religious centres as well as the major tourist attraction...."
+                    "...Its sacred sites, which include the Kyiv Pechersk Lavra (the Monastery of the Caves) and the Saint Sophia Cathedral are probably the most famous, attracted pilgrims for centuries and now recognized as a UNESCO World Heritage Site remain the primary religious centres as well as the major tourist attraction....",
+                    "...Kyiv's geographical relief contributed to its toponyms, such as Podil (\"lower\"), Pechersk (\"caves\"), and uzviz (a steep street, \"descent\")....",
+                    "*...The first known formal subdivision of Kyiv dates to 1810 when the city was subdivided into 4 parts: Pechersk, Starokyiv, and the first and the second parts of Podil....",
+                    "*...Some of the early, ultimately not materialised, ideas included a part of Pechersk, Lypky, European Square, and Mykhailivska Square....",
+                    "*...The most expensive properties are in the Pechersk and Khreshchatyk areas....",
+                    "*...The National Museum of the History of Ukraine in the Second World War is a memorial complex commemorating the Eastern Front of World War II in the hills on the right-bank of the Dnieper in Pechersk....",
+                    "*...These structures (once a united complex) were built in the Pechersk and neighbourhoods by the Russian army...."
                 ]
             }
         },
@@ -634,26 +511,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.519715,
-                    50.439627
-                ]
-            },
-            "properties": {
-                "entity": "Palace of Sports",
-                "name_location": "Palace of Sports, Rohnidynska Street, Левашовська Гора, Бессарабка, Клов, Pecherskyi district, Kyiv, 01044, Ukraine",
-                "class": "railway",
-                "type": "stop",
-                "snippet": [
-                    "...Both these teams play their home games at the Kyiv Palace of Sports....",
-                    "...Other notable sport stadiums/sport complexes in Kyiv include the Valeriy Lobanovskyi Dynamo Stadium, the Palace of Sports, among many others...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     30.523171,
                     50.438698
                 ]
@@ -698,7 +555,7 @@
             },
             "properties": {
                 "entity": "Dream Town",
-                "name_location": "ТРЦ \"Dream yellow\", 1б, Obolonskyi Avenue, Obolon, Obolonskyi district, Kyiv, 04205, Ukraine",
+                "name_location": "ТРЦ \"Dream yellow\", 1-Б, Obolonskyi Avenue, Obolon, Obolonskyi district, Kyiv, 04205, Ukraine",
                 "class": "shop",
                 "type": "mall",
                 "snippet": [
@@ -722,33 +579,6 @@
                 "type": "shoes",
                 "snippet": [
                     "*...Kyiv also ranks high in terms of commercial real estate and has Ukraine's tallest office buildings (such as Gulliver and Parus) and some of Ukraine's biggest shopping malls (such as Dream Town and Ocean Plaza)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.516946,
-                    50.486632
-                ]
-            },
-            "properties": {
-                "entity": "Metro",
-                "name_location": "METRO Cash&Carry, 26В, Stepana Bandery Avenue, Почайна, Obolonskyi district, Kyiv, 04073, Ukraine",
-                "class": "shop",
-                "type": "wholesale",
-                "snippet": [
-                    "...The city has an extensive system of public transport and infrastructure, including the Kyiv Metro....",
-                    "...It is accessible by metro or by car, and includes an amusement park, swimming beaches, boat rentals, and night clubs....",
-                    "...The name Zoloti Vorota is also used for a nearby theatre and a station of the Kyiv Metro....",
-                    "*...Local public transportation in Kyiv includes the Metro, buses and minibuses, trolleybuses, trams, taxi and funicular....",
-                    "...The publicly owned and operated Kyiv Metro is the fastest, the most convenient and affordable network that covers most, but not all, of the city....",
-                    "*...The Metro is expanding towards the city limits to meet growing demand, having three lines with a total length of 66.1 kilometres (41.1 miles) and 51 stations (some of which are renowned architectural landmarks)....",
-                    "*...The Metro carries around 1.422 million passengers daily accounting for 38% of the Kyiv's public transport load....",
-                    "...Digital ticket system is already established in Kyiv Metro, with plans for other transport modes....",
-                    "...Interchanges between the Kyiv Metro and Fast Tram exist at many of the urban train's station stops...."
                 ]
             }
         },

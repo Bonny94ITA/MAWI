@@ -6,58 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -9.214844,
-                    38.736746
-                ]
-            },
-            "properties": {
-                "entity": "Europe",
-                "name_location": "Yamaha Motor Europe, N.V., Sucursal em Portugal, Estrada de Alfragide, Alfragide, Amadora, Lisbon, 2720-016, Portugal",
-                "class": "building",
-                "type": "yes",
-                "snippet": [
-                    "*...It is mainland Europe's westernmost capital city and the only one along the Atlantic coast....",
-                    "...The westernmost portions of its metro area, the Portuguese Riviera, form the westernmost point of Continental Europe, culminating at Cabo da Roca....",
-                    "*...It is one of the major economic centres in Europe, with a growing financial sector and one of the largest container ports on Europe's Atlantic coast....",
-                    "*...Additionally, Humberto Delgado Airport served 31 million passengers in 2019, being the busiest airport in Portugal, the third busiest in the Iberian Peninsula and the 20th busiest in Europe....",
-                    "...The city is the ninth-most-visited city in Southern Europe, after Istanbul, Rome, Barcelona, Milan, Athens, Venice, Madrid and Florence with 3,539,400 tourists in 2018....",
-                    "*...Many of these ruins were first unearthed during the mid-18th century (when the recent discovery of Pompeii made Roman archaeology fashionable among Europe's upper classes)....",
-                    "*...By 1755, Lisbon was one of the largest cities in Europe; the catastrophic event shocked the whole of Europe and left a deep impression on its collective psyche....",
-                    "*...The westernmost part of Lisbon is occupied by the Monsanto Forest Park, a 10 km2 (4 sq mi) urban park, one of the largest in Europe, and occupying 10% of the municipality....",
-                    "*...Before Portugal's sovereign debt crisis and an EU-IMF rescue plan, for the decade of 2010 Lisbon was expecting to receive many state-funded investments, including building a new airport, a new bridge, an expansion of the Lisbon Metro 30 km (18.64 mi) underground, the construction of a mega-hospital (or central hospital), the creation of two lines of a TGV to join Madrid, Porto, Vigo and the rest of Europe, the restoration of the main part of the town (between the Marquês de Pombal roundabout and Terreiro do Paço), the creation of a large number of bike lanes, as well as modernization and renovation of various facilities.\nLisbon was the 7th most \"livable city\" in the world in 2021 according to lifestyle magazine Monocle....",
-                    "*...The 25 de Abril Bridge, inaugurated (as Ponte Salazar) on 6 August 1966, and later renamed after the date of the Carnation Revolution, was the longest suspension bridge in Europe....",
-                    "*...The Vasco da Gama Bridge, inaugurated in May 1998 is, at 17.2 km (10.7 mi), the longest bridge in Europe....",
-                    "*...The foundations for a third bridge across the Tagus have already been laid, but the overall project has been postponed due to the economic crisis in Portugal and all of Europe...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -9.144193,
-                    38.711202
-                ]
-            },
-            "properties": {
-                "entity": "Atlantic",
-                "name_location": "Atlantic Kebab, 15, Rua do Diário de Notícias, Bairro Alto, Misericórdia, Lisbon, 1200-145, Portugal",
-                "class": "amenity",
-                "type": "fast_food",
-                "snippet": [
-                    "*...It is mainland Europe's westernmost capital city and the only one along the Atlantic coast....",
-                    "...Lisbon lies in the western Iberian Peninsula on the Atlantic Ocean and the River Tagus....",
-                    "*...It is one of the major economic centres in Europe, with a growing financial sector and one of the largest container ports on Europe's Atlantic coast....",
-                    "...During World War II, Lisbon was one of the very few neutral, open European Atlantic ports, a major gateway for refugees to the U.S. and a haven for spies...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -9.131901,
                     38.780954
                 ]
@@ -136,43 +84,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -9.147174,
-                    38.724118
-                ]
-            },
-            "properties": {
-                "entity": "Tagus",
-                "name_location": "Tagus Palace, Rua Alexandre Herculano, Coração de Jesus, Santo António, Lisbon, 1150-005, Portugal",
-                "class": "tourism",
-                "type": "hotel",
-                "snippet": [
-                    "...Lisbon lies in the western Iberian Peninsula on the Atlantic Ocean and the River Tagus....",
-                    "...Lisbon's name may have been derived from Proto-Celtic or Celtic Olisippo, Lissoppo, or a similar name which other visiting peoples like the ancient Phoenicians, Greeks and Romans adapted accordingly, such as the pre-Roman appellation for the Tagus River, Lisso or Lucio....",
-                    "...The sheltered harbour in the Tagus River estuary was an ideal spot for an Iberian settlement and would have provided a secure harbour for unloading and provisioning Phoenician ships....",
-                    "*...The Tagus settlement was an important centre of commercial trade with the inland tribes, providing an outlet for the valuable metals, salt and salted-fish they collected, and for the sale of the Lusitanian horses renowned in antiquity....",
-                    "...The first, the central commercial district, is the traditional gathering place of the city and the location of the older cafés, theatres and restaurants; the second became the city's main access to the River Tagus and point of departure and arrival for seagoing vessels, adorned by a triumphal arch (1873) and a monument to King Joseph I....",
-                    "*...The development of industry and commerce determined the growth of the city, seeing the transformation of the Passeio Público, a Pombaline era park, into the Avenida da Liberdade, as the city grew farther from the Tagus....",
-                    "*...The inauguration of the bridge over the Tagus allowed a rapid connection between both sides of the river....",
-                    "*...In the 1990s, many of the districts were renovated and projects in the historic quarters were established to modernise those areas, for instance, architectural and patrimonial buildings were renovated, the northern margin of the Tagus was re-purposed for leisure and residential use, the Vasco da Gama Bridge was constructed and the eastern part of the municipality was re-purposed for Expo '98 to commemorate the 500th anniversary of Vasco da Gama's sea voyage to India, a voyage that would bring immense riches to Lisbon and cause many of Lisbon's landmarks to be built....",
-                    "...Lisbon is located at , situated at the mouth of the Tagus River and is the westernmost capital of a mainland European country....",
-                    "...The rest of the urbanised area of the Lisbon urban area, known generically as Greater Lisbon (Portuguese: Grande Lisboa) includes several administratively defined cities and municipalities, in the north bank of the Tagus River....",
-                    "...The oldest district of Lisbon, it spreads down the southern slope from the Castle of São Jorge to the River Tagus....",
-                    "*...It stood on a little island on the right side of the Tagus, surrounded by water....",
-                    "...The monument to Christ the King (Cristo-Rei) stands on the southern bank of the Tagus River, in Almada....",
-                    "...The Lisbon metropolitan area incorporates two NUTS III (European statistical subdivisions): Grande Lisboa (Greater Lisbon), along the northern bank of the Tagus River, and Península de Setúbal (Setúbal Peninsula), along the southern bank....",
-                    "...The Lisbon metropolitan area is heavily industrialized, especially the south bank of the Tagus river (Rio Tejo)....",
-                    "*...The lisbonite industry has very large sectors in oil, as refineries are found just across the Tagus, textile mills, shipyards and fishing....",
-                    "...There are four commuter train lines departing from Lisbon: the Sintra, Azambuja, Cascais and Sado lines (operated by CP – Comboios de Portugal), as well as a fifth line to Setúbal (operated by Fertagus), which crosses the Tagus river via the 25 de Abril Bridge....",
-                    "*...The city is connected to the far side of the Tagus by two important bridges:...",
-                    "*...The foundations for a third bridge across the Tagus have already been laid, but the overall project has been postponed due to the economic crisis in Portugal and all of Europe...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -9.13614,
                     38.70894
                 ]
@@ -236,27 +147,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -9.135117,
-                    38.710547
-                ]
-            },
-            "properties": {
-                "entity": "Africa",
-                "name_location": "Guest House Brazil-Africa, 8-2, Travessa das Pedras Negras, Sé, Alfama, Santa Maria Maior, Lisbon, 1100, Portugal",
-                "class": "tourism",
-                "type": "guest_house",
-                "snippet": [
-                    "...These conquerors, who were mostly Berbers and some Arabs from North Africa and the Middle East, built many mosques and houses, rebuilt the city wall (known as the Cerca Moura) and established administrative control, while permitting the diverse population (Muwallad, Mozarabs, Berbers, Arabs, Jews, and Saqaliba) to maintain their socio-cultural lifestyles....",
-                    "...Some of the Muslim residents converted to Roman Catholicism and most of those who did not convert fled to other parts of the Islamic world, primarily Muslim Spain and North Africa....",
-                    "*...The following years of the 16th century began Lisbon's golden era: the city was the European hub of commerce between Africa, India, the Far East and later, Brazil, and acquired great riches by exploiting the trade in spices, slaves, sugar, textiles and other goods...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -9.215917,
                     38.691613
                 ]
@@ -308,7 +198,8 @@
                 "class": "amenity",
                 "type": "hospital",
                 "snippet": [
-                    "...Among several important buildings of the city, the Ribeira Palace and the Hospital Real de Todos os Santos were lost...."
+                    "...Among several important buildings of the city, the Ribeira Palace and the Hospital Real de Todos os Santos were lost....",
+                    "*...Several expansion projects have been proposed, being the most recent the transformation of the Green Line into a circular line and the creation of two more stations (Santos and Estrela)...."
                 ]
             }
         },
@@ -327,7 +218,11 @@
                 "class": "amenity",
                 "type": "police",
                 "snippet": [
-                    "...After the 1755 earthquake, the city was rebuilt largely according to the plans of Prime Minister Sebastião José de Carvalho e Melo, the 1st Marquis of Pombal; the lower town began to be known as the Baixa Pombalina (Pombaline central district)...."
+                    "...After the 1755 earthquake, the city was rebuilt largely according to the plans of Prime Minister Sebastião José de Carvalho e Melo, the 1st Marquis of Pombal; the lower town began to be known as the Baixa Pombalina (Pombaline central district)....",
+                    "*...The principal areas were in the Baixa and along the Chiado district, where shops, tobacconists shops, cafés, bookstores, clubs and theatres proliferated....",
+                    "*...During the Islamic invasion of Iberia, the Alfama constituted the largest part of the city, extending west to the Baixa neighbourhood....",
+                    "*...The heart of the city is the Baixa or city centre; the Pombaline Baixa is an elegant district, primarily constructed after the 1755 Lisbon earthquake, taking its name from its benefactor, Sebastião José de Carvalho e Melo, 1st Marquis of Pombal, who was the minister of Joseph I of Portugal (1750–1777) and a key figure during the Portuguese Enlightenment....",
+                    "...As a result, the Pombaline Baixa is one of the first examples of earthquake-resistant construction...."
                 ]
             }
         },
@@ -346,7 +241,8 @@
                 "class": "highway",
                 "type": "secondary",
                 "snippet": [
-                    "...It was reconstructed in an open rectangular plan with two great squares: the Praça do Rossio and the Praça do Comércio...."
+                    "...It was reconstructed in an open rectangular plan with two great squares: the Praça do Rossio and the Praça do Comércio....",
+                    "*...The major railway stations are Santa Apolónia, Rossio, Gare do Oriente, Entrecampos, and Cais do Sodré...."
                 ]
             }
         },
@@ -472,7 +368,8 @@
                 "snippet": [
                     "...These communities have no clearly defined boundaries and represent distinctive quarters of the city that have in common a historical culture, similar living standards, and identifiable architectural landmarks, as exemplified by the Bairro Alto, Alfama, Chiado, and so forth....",
                     "*...Bairro Alto (literally the upper quarter in Portuguese) is an area of central Lisbon that functions as a residential, shopping and entertainment district; it is the center of the Portuguese capital's nightlife, attracting hipster youth and members of various music subcultures....",
-                    "...The crowds in the Bairro Alto are a multicultural mix of people representing a broad cross-section of modern Portuguese society, many of them being entertainment seekers and devotees of various music genres outside the mainstream, Fado, Portugal's national music, still survives in the midst of the new nightlife...."
+                    "...The crowds in the Bairro Alto are a multicultural mix of people representing a broad cross-section of modern Portuguese society, many of them being entertainment seekers and devotees of various music genres outside the mainstream, Fado, Portugal's national music, still survives in the midst of the new nightlife....",
+                    "*...Lisbon's punk, gay, metal, goth, hip hop and reggae scenes all find a home in the Bairro with its many clubs and bars that cater to them...."
                 ]
             }
         },
@@ -492,51 +389,6 @@
                 "type": "guest_house",
                 "snippet": [
                     "*...The Mouraria, or Moorish quarter, is one of the most traditional neighbourhoods of Lisbon, although most of its old buildings were demolished by the Estado Novo between the 1930s and the 1970s...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -9.168788,
-                    38.728714
-                ]
-            },
-            "properties": {
-                "entity": "Bairro",
-                "name_location": "Rua 12, Bairro da Calçada dos Mestres, Campolide, Lisbon, 1099-035, Portugal",
-                "class": "highway",
-                "type": "residential",
-                "snippet": [
-                    "...These communities have no clearly defined boundaries and represent distinctive quarters of the city that have in common a historical culture, similar living standards, and identifiable architectural landmarks, as exemplified by the Bairro Alto, Alfama, Chiado, and so forth....",
-                    "...Bairro Alto (literally the upper quarter in Portuguese) is an area of central Lisbon that functions as a residential, shopping and entertainment district; it is the center of the Portuguese capital's nightlife, attracting hipster youth and members of various music subcultures....",
-                    "*...Lisbon's punk, gay, metal, goth, hip hop and reggae scenes all find a home in the Bairro with its many clubs and bars that cater to them....",
-                    "...The crowds in the Bairro Alto are a multicultural mix of people representing a broad cross-section of modern Portuguese society, many of them being entertainment seekers and devotees of various music genres outside the mainstream, Fado, Portugal's national music, still survives in the midst of the new nightlife...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -9.139955,
-                    38.710616
-                ]
-            },
-            "properties": {
-                "entity": "Baixa",
-                "name_location": "BAIXA, Largo Luiz Francisco Rebello, Chiado, Santa Maria Maior, Lisbon, 1200-219, Portugal",
-                "class": "amenity",
-                "type": "community_centre",
-                "snippet": [
-                    "...After the 1755 earthquake, the city was rebuilt largely according to the plans of Prime Minister Sebastião José de Carvalho e Melo, the 1st Marquis of Pombal; the lower town began to be known as the Baixa Pombalina (Pombaline central district)....",
-                    "*...The principal areas were in the Baixa and along the Chiado district, where shops, tobacconists shops, cafés, bookstores, clubs and theatres proliferated....",
-                    "*...During the Islamic invasion of Iberia, the Alfama constituted the largest part of the city, extending west to the Baixa neighbourhood....",
-                    "*...The heart of the city is the Baixa or city centre; the Pombaline Baixa is an elegant district, primarily constructed after the 1755 Lisbon earthquake, taking its name from its benefactor, Sebastião José de Carvalho e Melo, 1st Marquis of Pombal, who was the minister of Joseph I of Portugal (1750–1777) and a key figure during the Portuguese Enlightenment....",
-                    "...As a result, the Pombaline Baixa is one of the first examples of earthquake-resistant construction...."
                 ]
             }
         },
@@ -750,7 +602,10 @@
                 "class": "railway",
                 "type": "tram_stop",
                 "snippet": [
-                    "*...The ornate, late 18th-century Estrela Basilica is the main attraction of this district...."
+                    "*...The ornate, late 18th-century Estrela Basilica is the main attraction of this district....",
+                    "...Estrela ;...",
+                    "...Also in this district is Estrela Park, a favorite with families....",
+                    "*...Several expansion projects have been proposed, being the most recent the transformation of the Green Line into a circular line and the creation of two more stations (Santos and Estrela)...."
                 ]
             }
         },
@@ -792,7 +647,9 @@
                 "type": "stop",
                 "snippet": [
                     "...Central in the area is the Gare do Oriente (Orient railway station), one of the main transport hubs of Lisbon for trains, buses, taxis, and the metro....",
-                    "*...The major railway stations are Santa Apolónia, Rossio, Gare do Oriente, Entrecampos, and Cais do Sodré...."
+                    "*...The major railway stations are Santa Apolónia, Rossio, Gare do Oriente, Entrecampos, and Cais do Sodré....",
+                    "*...Central in the area is the Gare do Oriente (Orient railway station), one of the main transport hubs of Lisbon for trains, buses, taxis, and the metro....",
+                    "...Prominent private museums and galleries include the Gulbenkian Museum (run by the Calouste Gulbenkian Foundation, one of the wealthiest foundations in the world), which houses one of the largest private collections of antiquaries and art in the world, the Berardo Collection Museum, which houses the private collection of Portuguese billionaire Joe Berardo, the Museum of Art, Architecture and Technology, and the Museum of the Orient...."
                 ]
             }
         },
@@ -1086,48 +943,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -9.154247,
-                    38.706522
-                ]
-            },
-            "properties": {
-                "entity": "Santos",
-                "name_location": "Santos, Avenida 24 de Julho, Santos-o-Velho, Estrela, Lisbon, 1200-808, Portugal",
-                "class": "highway",
-                "type": "bus_stop",
-                "snippet": [
-                    "...Among several important buildings of the city, the Ribeira Palace and the Hospital Real de Todos os Santos were lost....",
-                    "*...Several expansion projects have been proposed, being the most recent the transformation of the Green Line into a circular line and the creation of two more stations (Santos and Estrela)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -9.15916,
-                    38.71342
-                ]
-            },
-            "properties": {
-                "entity": "Estrela",
-                "name_location": "Estrela, Rua de João de Deus, Lapa, Estrela, Lisbon, 1200-667, Portugal",
-                "class": "railway",
-                "type": "station",
-                "snippet": [
-                    "...Estrela ;...",
-                    "...The ornate, late 18th-century Estrela Basilica is the main attraction of this district....",
-                    "...Also in this district is Estrela Park, a favorite with families....",
-                    "*...Several expansion projects have been proposed, being the most recent the transformation of the Green Line into a circular line and the creation of two more stations (Santos and Estrela)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -9.15654,
                     38.985102
                 ]
@@ -1185,26 +1000,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -9.417449,
-                    38.700967
-                ]
-            },
-            "properties": {
-                "entity": "Cascais",
-                "name_location": "Cascais, Alameda Duquesa de Palmela, Monte Estoril, Cascais, Cascais e Estoril, Cascais, Lisbon, 2750-340, Portugal",
-                "class": "railway",
-                "type": "platform",
-                "snippet": [
-                    "*...There are four commuter train lines departing from Lisbon: the Sintra, Azambuja, Cascais and Sado lines (operated by CP – Comboios de Portugal), as well as a fifth line to Setúbal (operated by Fertagus), which crosses the Tagus river via the 25 de Abril Bridge....",
-                    "*...Cascais Aerodrome, 20 km West of the city centre, in Cascais, offers commercial domestic flights...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -9.189165,
                     38.772575
                 ]
@@ -1234,26 +1029,6 @@
                 "class": "amenity",
                 "type": "taxi",
                 "snippet": [
-                    "*...The major railway stations are Santa Apolónia, Rossio, Gare do Oriente, Entrecampos, and Cais do Sodré...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -9.138829,
-                    38.713537
-                ]
-            },
-            "properties": {
-                "entity": "Rossio",
-                "name_location": "Rossio (Centro), Praça Dom Pedro IV, Santa Justa, Santa Maria Maior, Lisbon, 1100-202, Portugal",
-                "class": "highway",
-                "type": "bus_stop",
-                "snippet": [
-                    "...It was reconstructed in an open rectangular plan with two great squares: the Praça do Rossio and the Praça do Comércio....",
                     "*...The major railway stations are Santa Apolónia, Rossio, Gare do Oriente, Entrecampos, and Cais do Sodré...."
                 ]
             }

@@ -6,8 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    18.05104,
-                    59.338507
+                    18.051034,
+                    59.338521
                 ]
             },
             "properties": {
@@ -42,35 +42,9 @@
                 "snippet": [
                     "...The city stretches across fourteen islands where Lake Mälaren flows into the Baltic Sea....",
                     "...At the intersection of the Baltic Sea and lake Mälaren is an archipelago site where the Old Town of Stockholm was first built from about 1000 CE by Vikings....",
-                    "...Stockholm is located on Sweden's east coast, where the freshwater Lake Mälaren — Sweden's third-largest lake — flows out into the Baltic Sea...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.076048,
-                    59.330079
-                ]
-            },
-            "properties": {
-                "entity": "Europe",
-                "name_location": "Goldman Sachs, Blasieholmsgatan, Klara, Norrmalm, Norrmalms stadsdelsområde, Stockholm, Stockholms kommun, Stockholm County, 111 48, Sweden",
-                "class": "office",
-                "type": "bank",
-                "snippet": [
-                    "*...The Stockholm region alone accounts for over a third of the country's GDP, and is among the top 10 regions in Europe by GDP per capita....",
-                    "*...The city is home to some of Europe's top ranking universities, such as the Karolinska Institute, Stockholm School of Economics, KTH Royal Institute of Technology and Stockholm University....",
-                    "*...Stockholm's metropolitan area is one of the fastest-growing regions in Europe, and its population is expected to number 2.5 million by 2024....",
-                    "...With an average of 1900 hours of sunshine per year, it is also one of the sunniest cities in Northern Europe, receiving more sunshine than Paris, London and a few other major European cities of a more southerly latitude....",
-                    "*...Stockholm County is ranked as the 10th largest visitor destination in Europe, with over 10 million commercial overnight stays per year....",
-                    "*...Distinguished among Stockholm's many theatres are the Royal Dramatic Theatre (Kungliga Dramatiska Teatern), one of Europe's most renowned theatres, and the Royal Swedish Opera, inaugurated in 1773.\nOther notable theatres are the Stockholm City Theatre (Stockholms stadsteater), the Peoples Opera (Folkoperan), the Modern Theatre of Dance (Moderna dansteatern), the China Theatre, the Göta Lejon Theatre, the Mosebacke Theatre, and the Oscar Theatre....",
-                    "*...The city was granted the 2010 European Green Capital Award by the EU Commission; this was Europe's first \"green capital\"....",
-                    "*...In the 2006 European Innovation Scoreboard, prepared by the Maastricht Economic Research Institute on Innovation and Technology (MERIT) and the Joint Research Centre's Institute for the Protection and the Security of the Citizen of the European Commission, Stockholm was ranked as the most innovative city in Europe....",
-                    "...In the 2006 European Regional Growth Index (E-REGI), published by Jones Lang LaSalle, Stockholm was ranked fifth on the list of European cities with the strongest GDP growth forecast. Stockholm was ranked first in Scandinavia and second outside Central and Eastern Europe....",
-                    "*...In the 2007 European Cities Monitor, published by Cushman & Wakefield, Stockholm was ranked as the best Nordic city to locate a business. In the same report, Stockholm was ranked first in Europe in terms of freedom from pollution...."
+                    "...Stockholm is located on Sweden's east coast, where the freshwater Lake Mälaren — Sweden's third-largest lake — flows out into the Baltic Sea....",
+                    "*...The city originally rose to prominence as a result of the Baltic trade of the Hanseatic League....",
+                    "*...Positioned at the eastern end of the Central Swedish lowland, the city's location reflects the early orientation of Swedish trade toward the Baltic region...."
                 ]
             }
         },
@@ -193,54 +167,6 @@
                 "snippet": [
                     "*...Stockholm Palace is the official residence and principal workplace of the Swedish monarch, while Drottningholm Palace in neighboring Ekerö serves as the Royal Family's private residence....",
                     "...The Stockholm region is home to three of Sweden's World Heritage Sites – spots judged as invaluable places that belong to all of humanity: The Drottningholm Palace, Skogskyrkogården (The Woodland Cemetery) and Birka...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.070772,
-                    59.327582
-                ]
-            },
-            "properties": {
-                "entity": "North",
-                "name_location": "North Bridge, Gamla stan, Södermalms stadsdelsområde, Stockholm, Stockholms kommun, Stockholm County, 111 29, Sweden",
-                "class": "highway",
-                "type": "tertiary",
-                "snippet": [
-                    "...Sweden's national football arena is located north of the city centre, in Solna....",
-                    "*...Thousands of years later, as the ground thawed, the climate became tolerable and the lands became fertile, people began to migrate back to the North....",
-                    "...North of Stockholm Municipality: Järfälla, Solna, Täby, Sollentuna, Lidingö, Upplands Väsby, Österåker, Sigtuna, Sundbyberg, Danderyd, Vallentuna, Ekerö, Upplands-Bro, Vaxholm, and Norrtälje....",
-                    "...Despite its mild climate, Stockholm is located further north than parts of Canada that are above the Arctic tree line at sea level....",
-                    "...Stockholm's location just south of the 60th parallel north means that the number of daylight hours is relatively small during winter – about six hours – while in June and the first half of July, the nights are relatively short, with about 18 hours of daylight....",
-                    "...This is not to be confused with the midnight sun, which occurs north of the Arctic Circle, around 7 degrees farther north....",
-                    "...A half-completed motorway ring road exists on the south, west and north sides of the City Centre....",
-                    "...Stockholm Arlanda Airport (IATA: ARN, ICAO: ESSA) is the largest and busiest airport in Sweden with 27 million passengers in 2017. It is located about 40 km (25 mi) north of Stockholm and serves as a hub for Scandinavian Airlines...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.054437,
-                    59.326979
-                ]
-            },
-            "properties": {
-                "entity": "Mälaren",
-                "name_location": "Målaren, Stadshusträdgården, Kungsholmen, Kungsholmens stadsdelsområde, Stockholm, Stockholms kommun, Stockholm County, 104 22, Sweden",
-                "class": "tourism",
-                "type": "artwork",
-                "snippet": [
-                    "...The city stretches across fourteen islands where Lake Mälaren flows into the Baltic Sea....",
-                    "*...At the intersection of the Baltic Sea and lake Mälaren is an archipelago site where the Old Town of Stockholm was first built from about 1000 CE by Vikings....",
-                    "...According to the Eric Chronicles the city is said to have been founded by Birger Jarl to protect Sweden from sea invasions made by Karelians after the pillage of Sigtuna on Lake Mälaren in the summer of 1187....",
-                    "...Stockholm is located on Sweden's east coast, where the freshwater Lake Mälaren — Sweden's third-largest lake — flows out into the Baltic Sea...."
                 ]
             }
         },
@@ -773,7 +699,8 @@
                 "snippet": [
                     "...The Stockholm metro, opened in 1950, is well known for the decor of its stations; it has been called the longest art gallery in the world....",
                     "...In the 1950s, suburban development entered a new phase, that had already started in the early 1930s, with the introduction of the Stockholm metro....",
-                    "...It consists of the Stockholm Metro (Swedish: Tunnelbanan), which consist of three colour-coded main systems (green, red and blue) with seven lines (10, 11, 13, 14, 17, 18, 19); the Stockholm commuter rail (Swedish: Pendeltåget) which runs on the state-owned railroads on six lines (40, 41, 42, 43, 44, 48); four light rail/tramway lines (7, 12, 21, and 22); the 891 mm narrow-gauge railway Roslagsbanan, on three lines (27, 28, 29) in the northeastern part; the local railway Saltsjöbanan, on two lines (25, 26) in the southeastern part; a large number of bus lines, and the inner-city Djurgården ferry...."
+                    "...It consists of the Stockholm Metro (Swedish: Tunnelbanan), which consist of three colour-coded main systems (green, red and blue) with seven lines (10, 11, 13, 14, 17, 18, 19); the Stockholm commuter rail (Swedish: Pendeltåget) which runs on the state-owned railroads on six lines (40, 41, 42, 43, 44, 48); four light rail/tramway lines (7, 12, 21, and 22); the 891 mm narrow-gauge railway Roslagsbanan, on three lines (27, 28, 29) in the northeastern part; the local railway Saltsjöbanan, on two lines (25, 26) in the southeastern part; a large number of bus lines, and the inner-city Djurgården ferry....",
+                    "*...Since the 1990s, the operation and maintenance of the SL public transport services are contracted out to independent companies bidding for contracts, such as MTR, which operate the Metro...."
                 ]
             }
         },
@@ -812,28 +739,6 @@
                 "type": "disused",
                 "snippet": [
                     "*...It consists of the Stockholm Metro (Swedish: Tunnelbanan), which consist of three colour-coded main systems (green, red and blue) with seven lines (10, 11, 13, 14, 17, 18, 19); the Stockholm commuter rail (Swedish: Pendeltåget) which runs on the state-owned railroads on six lines (40, 41, 42, 43, 44, 48); four light rail/tramway lines (7, 12, 21, and 22); the 891 mm narrow-gauge railway Roslagsbanan, on three lines (27, 28, 29) in the northeastern part; the local railway Saltsjöbanan, on two lines (25, 26) in the southeastern part; a large number of bus lines, and the inner-city Djurgården ferry...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.022019,
-                    59.310103
-                ]
-            },
-            "properties": {
-                "entity": "Metro",
-                "name_location": "Di Metro, Liljeholmstorget, Nybohov, Liljeholmen, Hägersten-Älvsjö stadsdelsområde, Stockholm, Stockholms kommun, Stockholm County, 117 43, Sweden",
-                "class": "amenity",
-                "type": "fast_food",
-                "snippet": [
-                    "...The Stockholm metro, opened in 1950, is well known for the decor of its stations; it has been called the longest art gallery in the world....",
-                    "...In the 1950s, suburban development entered a new phase, that had already started in the early 1930s, with the introduction of the Stockholm metro....",
-                    "...It consists of the Stockholm Metro (Swedish: Tunnelbanan), which consist of three colour-coded main systems (green, red and blue) with seven lines (10, 11, 13, 14, 17, 18, 19); the Stockholm commuter rail (Swedish: Pendeltåget) which runs on the state-owned railroads on six lines (40, 41, 42, 43, 44, 48); four light rail/tramway lines (7, 12, 21, and 22); the 891 mm narrow-gauge railway Roslagsbanan, on three lines (27, 28, 29) in the northeastern part; the local railway Saltsjöbanan, on two lines (25, 26) in the southeastern part; a large number of bus lines, and the inner-city Djurgården ferry....",
-                    "*...Since the 1990s, the operation and maintenance of the SL public transport services are contracted out to independent companies bidding for contracts, such as MTR, which operate the Metro...."
                 ]
             }
         },
@@ -969,7 +874,8 @@
                 "class": "aeroway",
                 "type": "aerodrome",
                 "snippet": [
-                    "*...Stockholm Arlanda Airport (IATA: ARN, ICAO: ESSA) is the largest and busiest airport in Sweden with 27 million passengers in 2017. It is located about 40 km (25 mi) north of Stockholm and serves as a hub for Scandinavian Airlines...."
+                    "*...Stockholm Arlanda Airport (IATA: ARN, ICAO: ESSA) is the largest and busiest airport in Sweden with 27 million passengers in 2017. It is located about 40 km (25 mi) north of Stockholm and serves as a hub for Scandinavian Airlines....",
+                    "*...The Arlanda Express airport rail link runs between Arlanda Airport and Stockholm Central Station...."
                 ]
             }
         },
@@ -1007,26 +913,6 @@
                 "class": "shop",
                 "type": "ticket",
                 "snippet": [
-                    "*...The Arlanda Express airport rail link runs between Arlanda Airport and Stockholm Central Station...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.937044,
-                    59.646792
-                ]
-            },
-            "properties": {
-                "entity": "Arlanda Airport",
-                "name_location": "Stockholm-Arlanda Airport, 273, Sigtuna kommun, Stockholm County, 190 45, Sweden",
-                "class": "aeroway",
-                "type": "aerodrome",
-                "snippet": [
-                    "...Stockholm Arlanda Airport (IATA: ARN, ICAO: ESSA) is the largest and busiest airport in Sweden with 27 million passengers in 2017. It is located about 40 km (25 mi) north of Stockholm and serves as a hub for Scandinavian Airlines....",
                     "*...The Arlanda Express airport rail link runs between Arlanda Airport and Stockholm Central Station...."
                 ]
             }

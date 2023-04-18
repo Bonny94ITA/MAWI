@@ -6,39 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -79.423249,
-                    43.643418
-                ]
-            },
-            "properties": {
-                "entity": "North America",
-                "name_location": "Birds of North America, 1114, Queen Street West, Ossington, Little Portugal, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6J 1H9, Canada",
-                "class": "shop",
-                "type": "clothes",
-                "snippet": [
-                    "*...With a recorded population of 2,794,356 in 2021, it is the most populous city in Canada and the fourth most populous city in North America....",
-                    "*...Toronto is the third-largest tech hub in North America after Silicon Valley and New York City, and the fastest growing....",
-                    "*...During the late-19th century, Toronto became the largest alcohol distillation (in particular, spirits) centre in North America....",
-                    "*...The system now has the third-highest ridership of any city public transportation system in North America....",
-                    "*...A 2019 study by Toronto Metropolitan University (then known as Ryerson University) showed that Toronto was the fastest-growing city in North America....",
-                    "*...The Toronto metropolitan area was the second-fastest-growing metropolitan area in North America, adding 125,298 persons, compared with 131,767 in the Dallas–Fort Worth–Arlington metroplex in Texas....",
-                    "*...Many of Toronto's former industrial sites close to (or in) downtown have been redeveloped including parts of the Toronto waterfront, the rail yards west of downtown, and Liberty Village, the Massey-Harris district and large-scale development is underway in the West Don Lands.[citation needed]\nThe Gooderham & Worts Distillery produced spirits until 1990, and is preserved today as the \"Distillery District\", the largest and best-preserved collection of Victorian industrial architecture in North America....",
-                    "*...In addition to public parks managed by the municipal government, parts of Rouge National Urban Park, the largest urban park in North America, is in the eastern portion of Toronto....",
-                    "*...It is the third largest center for information and communications technology in North America, coming in behind New York City and Silicon Valley, with over 168,000 people and 15,000 companies working in the Toronto technology sector alone....",
-                    "*...Within North America, it also had the highest circulation and visitors when compared to other large urban systems....",
-                    "*...Toronto was named as one of 16 cities in North America (and one of two Canadian cities) to host matches for the 2026 FIFA World Cup....",
-                    "*...The historically low crime rate in Toronto has resulted in the city having a reputation as one of the safest major cities in North America....",
-                    "*...It is the busiest road in North America,\nand one of the busiest highways in the world....",
-                    "...The Queen Elizabeth Way (QEW), North America's first divided intercity highway, terminates at Toronto's western boundary and connects Toronto to Niagara Falls and Buffalo....",
-                    "*...Toronto's traffic congestion is one of the highest in North America, and is the second highest in Canada after Vancouver...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -79.448807,
                     43.636476
                 ]
@@ -160,28 +127,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -79.395323,
-                    43.651374
-                ]
-            },
-            "properties": {
-                "entity": "Huron",
-                "name_location": "Huron Street, Queen West, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5T 1A8, Canada",
-                "class": "highway",
-                "type": "residential",
-                "snippet": [
-                    "*...Taronto referred to \"The Narrows\", a channel of water through which Lake Simcoe discharges into Lake Couchiching where the Huron had planted tree saplings to corral fish....",
-                    "*...The word \"Toronto\", meaning \"plenty\" also appears in a 1632 French lexicon of the Huron language, which is also an Iroquoian language....",
-                    "...A portage route from Lake Ontario to Lake Huron running through this point, known as the Toronto Carrying-Place Trail, led to widespread use of the name....",
-                    "*...The site of Toronto lay at the entrance to one of the oldest routes to the northwest, a route known and used by the Huron, Iroquois, and Ojibwe, and was of strategic importance from the beginning of Ontario's recorded history...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -79.187085,
                     43.804979
                 ]
@@ -204,13 +149,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -79.481578,
-                    43.636457
+                    -79.472975,
+                    43.632368
                 ]
             },
             "properties": {
                 "entity": "Humber River",
-                "name_location": "Humber River Trail, Etobicoke—Lakeshore, Etobicoke, Toronto, Golden Horseshoe, Ontario, M6S 3P6, Canada",
+                "name_location": "Humber River Trail, Etobicoke—Lakeshore, Etobicoke, Toronto, Golden Horseshoe, Ontario, M6S 5B5, Canada",
                 "class": "highway",
                 "type": "cycleway",
                 "snippet": [
@@ -236,28 +181,6 @@
                 "type": "information",
                 "snippet": [
                     "*...French traders founded Fort Rouillé in 1750 (the current Exhibition grounds were later developed there), but abandoned it in 1759 during the Seven Years' War...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.417429,
-                    43.636344
-                ]
-            },
-            "properties": {
-                "entity": "Exhibition",
-                "name_location": "Exhibition, Gardiner Expressway, Fort York, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5V 0C8, Canada",
-                "class": "railway",
-                "type": "stop",
-                "snippet": [
-                    "*...French traders founded Fort Rouillé in 1750 (the current Exhibition grounds were later developed there), but abandoned it in 1759 during the Seven Years' War....",
-                    "...The Canadian National Exhibition (\"The Ex\") is held annually at Exhibition Place, and is the oldest annual fair in the world....",
-                    "...Toronto has hosted several National Football League (NFL) exhibition games at the Rogers Centre....",
-                    "...Toronto also hosts the annual Grand Prix of Toronto car race (officially named Honda Indy Toronto), part of the IndyCar Series schedule, held on a street circuit at Exhibition Place...."
                 ]
             }
         },
@@ -354,31 +277,6 @@
                 "type": "yes",
                 "snippet": [
                     "...The Grand Trunk Railway and the Northern Railway of Canada joined in the building of the first Union Station in downtown...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.379069,
-                    43.645667
-                ]
-            },
-            "properties": {
-                "entity": "Union Station",
-                "name_location": "Union Station, Bay Street, South Core, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5J 1C4, Canada",
-                "class": "railway",
-                "type": "platform",
-                "snippet": [
-                    "*...The Grand Trunk Railway and the Northern Railway of Canada joined in the building of the first Union Station in downtown....",
-                    "*...Toronto's century-old Union Station is also getting a major renovation and upgrade which would be able to accommodate more rail traffic from GO Transit, Via Rail, UP Express and Amtrak....",
-                    "...Construction on a new Union Station Bus Terminal is also in the works with an expected completion in 2020....",
-                    "*...GO Transit carries over 250,000 passengers every weekday (2013) and 57 million annually, with a majority of them travelling to or from Union Station....",
-                    "...Toronto Union Station serves as a hub for VIA Rail's intercity services in Central Canada and includes services to various parts of Ontario, Corridor services to Montreal and national capital Ottawa, and long-distance services to Vancouver and New York City....",
-                    "...GO Transit provides intercity bus services from the Union Station Bus Terminal and other bus terminals in the city to destinations within the greater Toronto area....",
-                    "*...The Union Pearson Express (UP Express) train service provides a direct link between Pearson International and Union Station...."
                 ]
             }
         },
@@ -486,7 +384,8 @@
                     "...South of downtown are two large parks on the waterfront: Tommy Thompson Park on the Leslie Street Spit, which has a nature preserve, is open on weekends; and the Toronto Islands, accessible from downtown by ferry....",
                     "...The Toronto Islands are close to downtown Toronto, and do not permit private motor vehicles beyond the airport....",
                     "...Other notable neighbourhoods and attractions in Toronto include The Beaches, the Toronto Islands, Kensington Market, Fort York, and the Hockey Hall of Fame....",
-                    "...Limited commercial and passenger service to nearby destinations in Canada and the USA is offered from the Billy Bishop Toronto City Airport (IATA: YTZ) on the Toronto Islands, southwest of downtown...."
+                    "...Limited commercial and passenger service to nearby destinations in Canada and the USA is offered from the Billy Bishop Toronto City Airport (IATA: YTZ) on the Toronto Islands, southwest of downtown....",
+                    "*...The peninsula was formed by longshore drift taking the sediments deposited along the Scarborough Bluffs shore and transporting them to the Islands area...."
                 ]
             }
         },
@@ -516,8 +415,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -79.323871,
-                    43.646336
+                    -79.326239,
+                    43.647089
                 ]
             },
             "properties": {
@@ -680,26 +579,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -79.331024,
-                    43.665145
-                ]
-            },
-            "properties": {
-                "entity": "Leslie Street",
-                "name_location": "Leslie Street, East End, Toronto—Danforth, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4L 1C3, Canada",
-                "class": "highway",
-                "type": "residential",
-                "snippet": [
-                    "*...The width and depth of several of the ravines and valleys are such that several grid streets, such as Finch Avenue, Leslie Street, Lawrence Avenue, and St. Clair Avenue, terminate on one side of a ravine or valley and continue on the other side....",
-                    "...South of downtown are two large parks on the waterfront: Tommy Thompson Park on the Leslie Street Spit, which has a nature preserve, is open on weekends; and the Toronto Islands, accessible from downtown by ferry...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -79.442714,
                     43.712766
                 ]
@@ -711,26 +590,6 @@
                 "type": "motorway_junction",
                 "snippet": [
                     "*...The width and depth of several of the ravines and valleys are such that several grid streets, such as Finch Avenue, Leslie Street, Lawrence Avenue, and St. Clair Avenue, terminate on one side of a ravine or valley and continue on the other side...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.393914,
-                    43.687861
-                ]
-            },
-            "properties": {
-                "entity": "St. Clair Avenue",
-                "name_location": "St. Clair Avenue, Yonge Street, Deer Park, Toronto—St. Paul's, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4T 1Y7, Canada",
-                "class": "highway",
-                "type": "bus_stop",
-                "snippet": [
-                    "*...The width and depth of several of the ravines and valleys are such that several grid streets, such as Finch Avenue, Leslie Street, Lawrence Avenue, and St. Clair Avenue, terminate on one side of a ravine or valley and continue on the other side....",
-                    "...Other observable sections include the area near St. Clair Avenue West between Bathurst Street and the Don River, and north of Davenport Road from Caledonia to Spadina Road; the Casa Loma grounds sit above this escarpment...."
                 ]
             }
         },
@@ -846,7 +705,8 @@
                 "class": "highway",
                 "type": "secondary",
                 "snippet": [
-                    "*...Other observable sections include the area near St. Clair Avenue West between Bathurst Street and the Don River, and north of Davenport Road from Caledonia to Spadina Road; the Casa Loma grounds sit above this escarpment...."
+                    "*...Other observable sections include the area near St. Clair Avenue West between Bathurst Street and the Don River, and north of Davenport Road from Caledonia to Spadina Road; the Casa Loma grounds sit above this escarpment....",
+                    "*...The width and depth of several of the ravines and valleys are such that several grid streets, such as Finch Avenue, Leslie Street, Lawrence Avenue, and St. Clair Avenue, terminate on one side of a ravine or valley and continue on the other side...."
                 ]
             }
         },
@@ -955,31 +815,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -79.3783,
-                    43.621896
-                ]
-            },
-            "properties": {
-                "entity": "Islands",
-                "name_location": "Toronto Islands Information Kiosk, Entrance Line, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5J 2E9, Canada",
-                "class": "tourism",
-                "type": "information",
-                "snippet": [
-                    "...The Toronto Islands and Port Lands extend out into the lake, allowing for a somewhat sheltered Toronto Harbour south of the downtown core....",
-                    "...The Toronto Islands were a natural peninsula until a storm in 1858 severed their connection to the mainland, creating a channel to the harbour....",
-                    "*...The peninsula was formed by longshore drift taking the sediments deposited along the Scarborough Bluffs shore and transporting them to the Islands area....",
-                    "...South of downtown are two large parks on the waterfront: Tommy Thompson Park on the Leslie Street Spit, which has a nature preserve, is open on weekends; and the Toronto Islands, accessible from downtown by ferry....",
-                    "...The Toronto Islands are close to downtown Toronto, and do not permit private motor vehicles beyond the airport....",
-                    "...Other notable neighbourhoods and attractions in Toronto include The Beaches, the Toronto Islands, Kensington Market, Fort York, and the Hockey Hall of Fame....",
-                    "...Limited commercial and passenger service to nearby destinations in Canada and the USA is offered from the Billy Bishop Toronto City Airport (IATA: YTZ) on the Toronto Islands, southwest of downtown...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -79.353393,
                     43.647637
                 ]
@@ -1010,7 +845,9 @@
                 "type": "residential",
                 "snippet": [
                     "...Victorian and Edwardian-era residential buildings can be found in enclaves such as Rosedale, Cabbagetown, The Annex, and Yorkville....",
-                    "...Old Toronto is also home to many historically wealthy residential enclaves, such as Yorkville, Rosedale, The Annex, Forest Hill, Lawrence Park, Lytton Park, Deer Park, Moore Park, and Casa Loma, most stretching away from downtown to the north.[citation needed]..."
+                    "...Old Toronto is also home to many historically wealthy residential enclaves, such as Yorkville, Rosedale, The Annex, Forest Hill, Lawrence Park, Lytton Park, Deer Park, Moore Park, and Casa Loma, most stretching away from downtown to the north.[citation needed]...",
+                    "...The Canadian National Exhibition (\"The Ex\") is held annually at Exhibition Place, and is the oldest annual fair in the world....",
+                    "*...The Ex has an average attendance of 1.25 million...."
                 ]
             }
         },
@@ -1172,27 +1009,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -79.375174,
-                    43.647355
-                ]
-            },
-            "properties": {
-                "entity": "St. Lawrence",
-                "name_location": "St. Lawrence Centre for the Arts, 27, Front Street East, King East, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5E 1C9, Canada",
-                "class": "amenity",
-                "type": "theatre",
-                "snippet": [
-                    "*...This area includes, among others, the neighbourhoods of St. James Town, Garden District, St. Lawrence, Corktown, and Church and Wellesley....",
-                    "...Other commercial areas popular with tourists include the PATH network, which is the world's largest underground shopping complex, as well as Kensington Market and St. Lawrence Market....",
-                    "...City shopping areas include the Yorkville neighbourhood, Queen West, Harbourfront, the Entertainment District, the Financial District, and the St. Lawrence Market neighbourhood...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -79.398899,
                     43.654378
                 ]
@@ -1322,7 +1138,8 @@
                 "class": "highway",
                 "type": "residential",
                 "snippet": [
-                    "...Upscale neighbourhoods were built such as the Bridle Path in North York, the area surrounding the Scarborough Bluffs in Guildwood, and most of central Etobicoke, such as Humber Valley Village, and The Kingsway...."
+                    "...Upscale neighbourhoods were built such as the Bridle Path in North York, the area surrounding the Scarborough Bluffs in Guildwood, and most of central Etobicoke, such as Humber Valley Village, and The Kingsway....",
+                    "*...Other commercial areas popular with tourists include the PATH network, which is the world's largest underground shopping complex, as well as Kensington Market and St. Lawrence Market...."
                 ]
             }
         },
@@ -1350,15 +1167,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -79.47323,
-                    43.635345
+                    -79.499562,
+                    43.650288
                 ]
             },
             "properties": {
                 "entity": "Kingsway",
-                "name_location": "South Kingsway, Parkdale—High Park, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6S, Canada",
+                "name_location": "The Kingsway, Old Mill, Etobicoke—Lakeshore, Etobicoke, Toronto, Golden Horseshoe, Ontario, M8X 1A5, Canada",
                 "class": "highway",
-                "type": "secondary",
+                "type": "tertiary",
                 "snippet": [
                     "...Upscale neighbourhoods were built such as the Bridle Path in North York, the area surrounding the Scarborough Bluffs in Guildwood, and most of central Etobicoke, such as Humber Valley Village, and The Kingsway...."
                 ]
@@ -1379,7 +1196,22 @@
                 "class": "railway",
                 "type": "junction",
                 "snippet": [
-                    "*...One of largest and earliest \"planned communities\" was Don Mills, parts of which were first built in the 1950s...."
+                    "*...One of largest and earliest \"planned communities\" was Don Mills, parts of which were first built in the 1950s....",
+                    "...The flat land is interrupted by the Toronto ravine system, which is cut by numerous creeks and rivers of the Toronto waterway system, most notably the Humber River in the west end, the Don River east of downtown (these two rivers flanking and defining the Toronto Harbour), and the Rouge River at the city's eastern limits....",
+                    "...Other observable sections include the area near St. Clair Avenue West between Bathurst Street and the Don River, and north of Davenport Road from Caledonia to Spadina Road; the Casa Loma grounds sit above this escarpment....",
+                    "...The other source of sediment for the Port Lands wetland and the peninsula was the deposition of the Don River, which carved a wide valley through the sedimentary land of Toronto and deposited it in the shallow harbour....",
+                    "...The harbour and the channel of the Don River have been dredged numerous times for shipping....",
+                    "...The lower section of the Don River was straightened and channelled in the 19th century....",
+                    "...The former mouth drained into a wetland; today, the Don River drains into the harbour through a concrete waterway, the Keating Channel....",
+                    "...In the 1800s, a thriving industrial area developed around Toronto Harbour and lower Don River mouth, linked by rail and water to Canada and the United States....",
+                    "...Many of Toronto's former industrial sites close to (or in) downtown have been redeveloped including parts of the Toronto waterfront, the rail yards west of downtown, and Liberty Village, the Massey-Harris district and large-scale development is underway in the West Don Lands.[citation needed]\nThe Gooderham & Worts Distillery produced spirits until 1990, and is preserved today as the \"Distillery District\", the largest and best-preserved collection of Victorian industrial architecture in North America....",
+                    "*...The Waterfront Toronto agency has developed plans for a naturalized mouth to the Don River and to create a flood barrier around the Don, making more of the land on the harbour suitable for higher-value residential and commercial development....",
+                    "...A former chemicals plant site along the Don River is slated to become a large commercial complex and transportation hub....",
+                    "...The Don Valley Brick Works is a former industrial site that opened in 1889 and was partly restored as a park and heritage site in 1996, with further restoration being completed in stages since then....",
+                    "...Examples include the Pedestrian Committee, Waste Diversion Task Force 2010, and the Task Force to Bring Back the Don....",
+                    "...This arrangement is sometimes broken by geographical accidents, most notably the Don River ravines....",
+                    "...Other provincial highways include Highway 400 which connects the city with Northern Ontario and beyond and Highway 404, an extension of the Don Valley Parkway into the northern suburbs....",
+                    "...The main municipal expressways in Toronto include the Gardiner Expressway, the Don Valley Parkway, and to some extent, Allen Road...."
                 ]
             }
         },
@@ -1452,27 +1284,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -79.426236,
-                    43.681406
-                ]
-            },
-            "properties": {
-                "entity": "Stockyards",
-                "name_location": "The Stockyards, St. Clair Avenue West, Hillcrest Village, Toronto—St. Paul's, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6C 1B1, Canada",
-                "class": "amenity",
-                "type": "restaurant",
-                "snippet": [
-                    "...Examples included the Gooderham and Worts Distillery, Canadian Malting Company, the Toronto Rolling Mills, the Union Stockyards and the Davies pork processing facility (the inspiration for the \"Hogtown\" nickname)....",
-                    "*...Beginning in the late 19th century, industrial areas were set up on the outskirts, such as West Toronto/The Junction, where the Stockyards relocated in 1903....",
-                    "...In the west end of Old Toronto and York, the Weston/Mount Dennis and The Junction areas still contain factories, meat-packing facilities and rail yards close to medium-density residential, although the Junction's Union Stockyards moved out of Toronto in 1994...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -79.378029,
                     43.649268
                 ]
@@ -1499,7 +1310,7 @@
             },
             "properties": {
                 "entity": "Dufferin Street",
-                "name_location": "Dufferin Street, Brockton Village, Little Portugal, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6K 0B9, Canada",
+                "name_location": "Dufferin Street, Little Portugal, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6K 0B9, Canada",
                 "class": "highway",
                 "type": "secondary",
                 "snippet": [
@@ -1524,26 +1335,6 @@
                 "snippet": [
                     "*...Some of the companies moved west along King Street, some as far west as Dufferin Street; where the large Massey-Harris farm equipment manufacturing complex was located....",
                     "*...Many of Toronto's former industrial sites close to (or in) downtown have been redeveloped including parts of the Toronto waterfront, the rail yards west of downtown, and Liberty Village, the Massey-Harris district and large-scale development is underway in the West Don Lands.[citation needed]\nThe Gooderham & Worts Distillery produced spirits until 1990, and is preserved today as the \"Distillery District\", the largest and best-preserved collection of Victorian industrial architecture in North America...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.585913,
-                    43.700306
-                ]
-            },
-            "properties": {
-                "entity": "Pearson Airport",
-                "name_location": "Pearson Hotel and Conference Centre Toronto Airport, 240, Belfield Road, Etobicoke North, Etobicoke, Toronto, Golden Horseshoe, Ontario, M9W 5B1, Canada",
-                "class": "tourism",
-                "type": "hotel",
-                "snippet": [
-                    "*...This trend continues to this day, the largest factories and distribution warehouses are in the suburban environs of Peel and York Regions; but also within the current city: Etobicoke (concentrated around Pearson Airport), North York, and Scarborough.[citation needed]...",
-                    "...In 2019, the Government of Ontario released a transit plan for the Greater Toronto Area which includes a new 16-kilometres Ontario Line, Line 1 extension to Richmond Hill Centre and an extension for Line 5 Eglinton to Toronto Pearson Airport...."
                 ]
             }
         },
@@ -1592,26 +1383,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -79.454884,
-                    43.664824
-                ]
-            },
-            "properties": {
-                "entity": "Junction",
-                "name_location": "4Cats Arts Studio (The Junction), 1615, Dupont Street, Junction Triangle, Davenport, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6P 3S5, Canada",
-                "class": "shop",
-                "type": "art",
-                "snippet": [
-                    "...Beginning in the late 19th century, industrial areas were set up on the outskirts, such as West Toronto/The Junction, where the Stockyards relocated in 1903....",
-                    "*...In the west end of Old Toronto and York, the Weston/Mount Dennis and The Junction areas still contain factories, meat-packing facilities and rail yards close to medium-density residential, although the Junction's Union Stockyards moved out of Toronto in 1994...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -79.331199,
                     43.649526
                 ]
@@ -1623,40 +1394,6 @@
                 "type": "industrial",
                 "snippet": [
                     "*...It still contains numerous industrial uses, such as the Portlands Energy Centre power plant, some port facilities, some movie and TV production studios, a concrete processing facility and various low-density industrial facilities...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.35059,
-                    43.655135
-                ]
-            },
-            "properties": {
-                "entity": "Don",
-                "name_location": "Don Valley Parkway, Riverside District, Toronto—Danforth, Old Toronto, Toronto, Golden Horseshoe, Ontario, M4M 1G3, Canada",
-                "class": "highway",
-                "type": "motorway",
-                "snippet": [
-                    "...The flat land is interrupted by the Toronto ravine system, which is cut by numerous creeks and rivers of the Toronto waterway system, most notably the Humber River in the west end, the Don River east of downtown (these two rivers flanking and defining the Toronto Harbour), and the Rouge River at the city's eastern limits....",
-                    "...Other observable sections include the area near St. Clair Avenue West between Bathurst Street and the Don River, and north of Davenport Road from Caledonia to Spadina Road; the Casa Loma grounds sit above this escarpment....",
-                    "...The other source of sediment for the Port Lands wetland and the peninsula was the deposition of the Don River, which carved a wide valley through the sedimentary land of Toronto and deposited it in the shallow harbour....",
-                    "...The harbour and the channel of the Don River have been dredged numerous times for shipping....",
-                    "...The lower section of the Don River was straightened and channelled in the 19th century....",
-                    "...The former mouth drained into a wetland; today, the Don River drains into the harbour through a concrete waterway, the Keating Channel....",
-                    "...One of largest and earliest \"planned communities\" was Don Mills, parts of which were first built in the 1950s....",
-                    "...In the 1800s, a thriving industrial area developed around Toronto Harbour and lower Don River mouth, linked by rail and water to Canada and the United States....",
-                    "...Many of Toronto's former industrial sites close to (or in) downtown have been redeveloped including parts of the Toronto waterfront, the rail yards west of downtown, and Liberty Village, the Massey-Harris district and large-scale development is underway in the West Don Lands.[citation needed]\nThe Gooderham & Worts Distillery produced spirits until 1990, and is preserved today as the \"Distillery District\", the largest and best-preserved collection of Victorian industrial architecture in North America....",
-                    "*...The Waterfront Toronto agency has developed plans for a naturalized mouth to the Don River and to create a flood barrier around the Don, making more of the land on the harbour suitable for higher-value residential and commercial development....",
-                    "...A former chemicals plant site along the Don River is slated to become a large commercial complex and transportation hub....",
-                    "...The Don Valley Brick Works is a former industrial site that opened in 1889 and was partly restored as a park and heritage site in 1996, with further restoration being completed in stages since then....",
-                    "...Examples include the Pedestrian Committee, Waste Diversion Task Force 2010, and the Task Force to Bring Back the Don....",
-                    "...This arrangement is sometimes broken by geographical accidents, most notably the Don River ravines....",
-                    "...Other provincial highways include Highway 400 which connects the city with Northern Ontario and beyond and Highway 404, an extension of the Don Valley Parkway into the northern suburbs....",
-                    "...The main municipal expressways in Toronto include the Gardiner Expressway, the Don Valley Parkway, and to some extent, Allen Road...."
                 ]
             }
         },
@@ -1725,37 +1462,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -79.378743,
-                    43.768262
-                ]
-            },
-            "properties": {
-                "entity": "North York",
-                "name_location": "North York (Chinese) Baptist Church, Sheppard Avenue East, Concord Park Place, Don Valley North, North York, Toronto, Golden Horseshoe, Ontario, M2K 1C3, Canada",
-                "class": "amenity",
-                "type": "place_of_worship",
-                "snippet": [
-                    "*...In 1967, the seven smallest municipalities of Metropolitan Toronto were merged with larger neighbours, resulting in a six-municipality configuration that included the former city of Toronto and the surrounding municipalities of East York, Etobicoke, North York, Scarborough, and York....",
-                    "*...On January 1, 1998, Toronto was greatly enlarged, not through traditional annexations, but as an amalgamation of the Municipality of Metropolitan Toronto and its six lower-tier constituent municipalities: East York, Etobicoke, North York, Scarborough, York, and the original city itself....",
-                    "*...North York mayor Mel Lastman became the first \"megacity\" mayor, and the 62nd mayor of Toronto, with his electoral victory....",
-                    "*...Former municipalities include East York, Etobicoke, Forest Hill, Mimico, North York, Parkdale, Scarborough, Swansea, Weston and York....",
-                    "*...The outer suburbs comprising the former municipalities of Etobicoke (west), Scarborough (east) and North York (north) largely retain the grid plan laid before post-war development....",
-                    "*...Sections were long established and quickly growing towns before the suburban housing boom began and the emergence of metropolitan government, existing towns or villages such as Mimico, Islington and New Toronto in Etobicoke; Willowdale, Newtonbrook and Downsview in North York; Agincourt, Wexford and West Hill in Scarborough where suburban development boomed around or between these and other towns beginning in the late 1940s....",
-                    "*...Upscale neighbourhoods were built such as the Bridle Path in North York, the area surrounding the Scarborough Bluffs in Guildwood, and most of central Etobicoke, such as Humber Valley Village, and The Kingsway....",
-                    "...Over the late 20th century and early 21st century, North York City Centre, Etobicoke City Centre and Scarborough City Centre have emerged as secondary business districts outside Downtown Toronto....",
-                    "*...This trend continues to this day, the largest factories and distribution warehouses are in the suburban environs of Peel and York Regions; but also within the current city: Etobicoke (concentrated around Pearson Airport), North York, and Scarborough.[citation needed]...",
-                    "*...Other squares include Harbourfront Square, on the Toronto waterfront, and the civic squares at the former city halls of the defunct Metropolitan Toronto, most notably Mel Lastman Square in North York....",
-                    "*...In 1999, Downsview Park, a former military base in North York, initiated an international design competition to realize its vision of creating Canada's first urban park....",
-                    "*...York University is the only Toronto-based university not situated in downtown Toronto, operating a campus in the northwestern portion of North York, and a secondary campus in midtown Toronto....",
-                    "...Toronto is home to twenty public hospitals, including The Hospital for Sick Children, Mount Sinai Hospital, St. Michael's Hospital, North York General Hospital, Toronto General Hospital, Toronto Western Hospital, Etobicoke General Hospital, St. Joseph's Health Centre, Scarborough General Hospital, Birchmount Hospital, Centenary Hospital, Sunnybrook Health Sciences Centre, Centre for Addiction and Mental Health (CAMH), and Princess Margaret Cancer Centre, many of which are affiliated with the University of Toronto Faculty of Medicine...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -79.381142,
                     43.639821
                 ]
@@ -1767,7 +1473,9 @@
                 "type": "platform",
                 "snippet": [
                     "*...In recent years, Nathan Phillips Square has been refurbished with new facilities, and the central waterfront along Queen's Quay West has been updated recently with a new street architecture and a new square next to Harbourfront Centre....",
-                    "*...In the winter, Nathan Phillips Square, Harbourfront Centre, and Mel Lastman Square feature popular rinks for public ice-skating...."
+                    "*...In the winter, Nathan Phillips Square, Harbourfront Centre, and Mel Lastman Square feature popular rinks for public ice-skating....",
+                    "...Other squares include Harbourfront Square, on the Toronto waterfront, and the civic squares at the former city halls of the defunct Metropolitan Toronto, most notably Mel Lastman Square in North York....",
+                    "*...City shopping areas include the Yorkville neighbourhood, Queen West, Harbourfront, the Entertainment District, the Financial District, and the St. Lawrence Market neighbourhood...."
                 ]
             }
         },
@@ -1891,53 +1599,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -79.380003,
-                    43.653551
-                ]
-            },
-            "properties": {
-                "entity": "Queen",
-                "name_location": "Queen, 220, Yonge Street, Downtown Yonge, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5B 2H1, Canada",
-                "class": "railway",
-                "type": "subway_entrance",
-                "snippet": [
-                    "...The seat of government of the Ontario briefly returned to the same building that hosted the Third Parliament Building of Upper Canada, before moving to the Ontario Legislative Building at Queen's Park in 1893....",
-                    "...In recent years, Nathan Phillips Square has been refurbished with new facilities, and the central waterfront along Queen's Quay West has been updated recently with a new street architecture and a new square next to Harbourfront Centre....",
-                    "...There are many large downtown parks, which include Allan Gardens, Christie Pits, Grange Park, Little Norway Park, Moss Park, Queen's Park, Riverdale Park and Trinity Bellwoods Park....",
-                    "*...An almost hidden park is the compact Cloud Gardens, which has both open areas and a glassed-in greenhouse, near Queen and Yonge....",
-                    "...City shopping areas include the Yorkville neighbourhood, Queen West, Harbourfront, the Entertainment District, the Financial District, and the St. Lawrence Market neighbourhood....",
-                    "...The Queen Elizabeth Way (QEW), North America's first divided intercity highway, terminates at Toronto's western boundary and connects Toronto to Niagara Falls and Buffalo...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.379936,
-                    43.654021
-                ]
-            },
-            "properties": {
-                "entity": "Yonge",
-                "name_location": "Yonge Street, Downtown Yonge, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5B 1M4, Canada",
-                "class": "highway",
-                "type": "primary",
-                "snippet": [
-                    "...From that point, the Toronto skyline extends northward along Yonge Street.[citation needed]...",
-                    "...Yonge–Dundas Square, near City Hall, has also gained attention in recent years as one of the busiest gathering spots in the city....",
-                    "*...An almost hidden park is the compact Cloud Gardens, which has both open areas and a glassed-in greenhouse, near Queen and Yonge....",
-                    "...Other tourist attractions include the CN Tower, Casa Loma, Toronto's theaters and musicals, Yonge-Dundas Square, and Ripley's Aquarium of Canada....",
-                    "...Organizations include Crohn's and Colitis Canada, the Heart and Stroke Foundation of Canada, the Canadian Cancer Society, the Alzheimer Society of Canada, and Alzheimer Society of Ontario, all located in the same office at Yonge–Eglinton, the Leukemia & Lymphoma Society of Canada, the Canadian Breast Cancer Foundation, the Canadian Foundation for AIDS Research, Cystic Fibrosis Canada, the Canadian Mental Health Association, and the ALS Society of Canada...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -79.328019,
                     43.633784
                 ]
@@ -1967,7 +1628,8 @@
                 "class": "highway",
                 "type": "footway",
                 "snippet": [
-                    "...South of downtown are two large parks on the waterfront: Tommy Thompson Park on the Leslie Street Spit, which has a nature preserve, is open on weekends; and the Toronto Islands, accessible from downtown by ferry...."
+                    "...South of downtown are two large parks on the waterfront: Tommy Thompson Park on the Leslie Street Spit, which has a nature preserve, is open on weekends; and the Toronto Islands, accessible from downtown by ferry....",
+                    "*...The width and depth of several of the ravines and valleys are such that several grid streets, such as Finch Avenue, Leslie Street, Lawrence Avenue, and St. Clair Avenue, terminate on one side of a ravine or valley and continue on the other side...."
                 ]
             }
         },
@@ -2055,27 +1717,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -79.457654,
-                    43.637467
-                ]
-            },
-            "properties": {
-                "entity": "Great Lakes",
-                "name_location": "Great Lakes Waterfront Trail - Toronto Centre section, Martin Goodman Trail, Parkdale—High Park, Old Toronto, Toronto, Golden Horseshoe, Ontario, M6S, Canada",
-                "class": "tourism",
-                "type": "information",
-                "snippet": [
-                    "...Long-distance railway lines were constructed, including a route completed in 1854 linking Toronto with the Upper Great Lakes....",
-                    "*...The city's strategic position along the Quebec City–Windsor Corridor within the Great Lakes Megalopolis and its road and rail connections help support the nearby production of motor vehicles, iron, steel, food, machinery, chemicals and paper....",
-                    "...The completion of the Saint Lawrence Seaway in 1959 gave ships access to the Great Lakes from the Atlantic Ocean...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -79.382766,
                     43.653815
                 ]
@@ -2086,27 +1727,8 @@
                 "class": "amenity",
                 "type": "loading_dock",
                 "snippet": [
-                    "...The Toronto Eaton Centre receives over 47 million visitors per year...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.382439,
-                    43.64884
-                ]
-            },
-            "properties": {
-                "entity": "PATH",
-                "name_location": "PATH, Financial District, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5X 1C7, Canada",
-                "class": "highway",
-                "type": "footway",
-                "snippet": [
-                    "...Upscale neighbourhoods were built such as the Bridle Path in North York, the area surrounding the Scarborough Bluffs in Guildwood, and most of central Etobicoke, such as Humber Valley Village, and The Kingsway....",
-                    "*...Other commercial areas popular with tourists include the PATH network, which is the world's largest underground shopping complex, as well as Kensington Market and St. Lawrence Market...."
+                    "...The Toronto Eaton Centre receives over 47 million visitors per year....",
+                    "...The Eaton Centre is Toronto's most popular tourist attraction with over 52 million visitors annually...."
                 ]
             }
         },
@@ -2126,7 +1748,8 @@
                 "type": "information",
                 "snippet": [
                     "*...Other commercial areas popular with tourists include the PATH network, which is the world's largest underground shopping complex, as well as Kensington Market and St. Lawrence Market....",
-                    "*...City shopping areas include the Yorkville neighbourhood, Queen West, Harbourfront, the Entertainment District, the Financial District, and the St. Lawrence Market neighbourhood...."
+                    "*...City shopping areas include the Yorkville neighbourhood, Queen West, Harbourfront, the Entertainment District, the Financial District, and the St. Lawrence Market neighbourhood....",
+                    "*...This area includes, among others, the neighbourhoods of St. James Town, Garden District, St. Lawrence, Corktown, and Church and Wellesley...."
                 ]
             }
         },
@@ -2222,27 +1845,9 @@
                 "type": "platform",
                 "snippet": [
                     "*...The Canadian National Exhibition (\"The Ex\") is held annually at Exhibition Place, and is the oldest annual fair in the world....",
-                    "*...Toronto also hosts the annual Grand Prix of Toronto car race (officially named Honda Indy Toronto), part of the IndyCar Series schedule, held on a street circuit at Exhibition Place...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.355988,
-                    43.661278
-                ]
-            },
-            "properties": {
-                "entity": "Ex",
-                "name_location": "Bayview Avenue, West Don Lands, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5A 0E9, Canada",
-                "class": "highway",
-                "type": "residential",
-                "snippet": [
-                    "...The Canadian National Exhibition (\"The Ex\") is held annually at Exhibition Place, and is the oldest annual fair in the world....",
-                    "*...The Ex has an average attendance of 1.25 million...."
+                    "*...Toronto also hosts the annual Grand Prix of Toronto car race (officially named Honda Indy Toronto), part of the IndyCar Series schedule, held on a street circuit at Exhibition Place....",
+                    "*...French traders founded Fort Rouillé in 1750 (the current Exhibition grounds were later developed there), but abandoned it in 1759 during the Seven Years' War....",
+                    "...Toronto has hosted several National Football League (NFL) exhibition games at the Rogers Centre...."
                 ]
             }
         },
@@ -2270,50 +1875,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -79.380794,
-                    43.640523
-                ]
-            },
-            "properties": {
-                "entity": "Harbourfront",
-                "name_location": "Harbourfront Health & Wellness Centre, York Street, Harbourfront, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5J 2Y2, Canada",
-                "class": "amenity",
-                "type": "doctors",
-                "snippet": [
-                    "...Other squares include Harbourfront Square, on the Toronto waterfront, and the civic squares at the former city halls of the defunct Metropolitan Toronto, most notably Mel Lastman Square in North York....",
-                    "...In recent years, Nathan Phillips Square has been refurbished with new facilities, and the central waterfront along Queen's Quay West has been updated recently with a new street architecture and a new square next to Harbourfront Centre....",
-                    "...In the winter, Nathan Phillips Square, Harbourfront Centre, and Mel Lastman Square feature popular rinks for public ice-skating....",
-                    "*...City shopping areas include the Yorkville neighbourhood, Queen West, Harbourfront, the Entertainment District, the Financial District, and the St. Lawrence Market neighbourhood...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.380793,
-                    43.654146
-                ]
-            },
-            "properties": {
-                "entity": "Eaton Centre",
-                "name_location": "CF Toronto Eaton Centre, 220, Yonge Street, Downtown Yonge, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5B 2H1, Canada",
-                "class": "shop",
-                "type": "mall",
-                "snippet": [
-                    "...The Toronto Eaton Centre receives over 47 million visitors per year....",
-                    "...The Eaton Centre is Toronto's most popular tourist attraction with over 52 million visitors annually...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.322815,
-                    43.683768
+                    -79.322802,
+                    43.683747
                 ]
             },
             "properties": {
@@ -2375,32 +1938,13 @@
                 ]
             },
             "properties": {
-                "entity": "Discovery District",
-                "name_location": "MaRS Discovery District, College Street, Discovery District, University—Rosedale, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5S 1B2, Canada",
-                "class": "building",
-                "type": "office",
-                "snippet": [
-                    "*...Toronto's Discovery District is a centre of research in biomedicine....",
-                    "...It is also home to the MaRS Discovery District, which was created in 2000 to capitalize on the research and innovation strength of the Province of Ontario...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.388924,
-                    43.659751
-                ]
-            },
-            "properties": {
                 "entity": "MaRS Discovery District",
                 "name_location": "MaRS Discovery District, College Street, Discovery District, University—Rosedale, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5S 1B2, Canada",
                 "class": "building",
                 "type": "office",
                 "snippet": [
-                    "...It is also home to the MaRS Discovery District, which was created in 2000 to capitalize on the research and innovation strength of the Province of Ontario...."
+                    "...It is also home to the MaRS Discovery District, which was created in 2000 to capitalize on the research and innovation strength of the Province of Ontario....",
+                    "*...Toronto's Discovery District is a centre of research in biomedicine...."
                 ]
             }
         },
@@ -2705,27 +2249,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -79.37957,
-                    43.652962
-                ]
-            },
-            "properties": {
-                "entity": "Line 1",
-                "name_location": "Line 1 Southbound, Queen Street West, Downtown Yonge, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5C 3G7, Canada",
-                "class": "railway",
-                "type": "platform",
-                "snippet": [
-                    "*...The backbone of its public transport network is the Toronto subway system, which includes three heavy-rail rapid transit lines spanning the city, including the U-shaped Line 1 and east–west Line 2....",
-                    "...Since July 2011, the only subway-related work is the Line 1 extension north of Sheppard West station (formerly named Downsview) to Vaughan Metropolitan Centre in Vaughan, a suburb north of Toronto....",
-                    "...In 2019, the Government of Ontario released a transit plan for the Greater Toronto Area which includes a new 16-kilometres Ontario Line, Line 1 extension to Richmond Hill Centre and an extension for Line 5 Eglinton to Toronto Pearson Airport...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -79.370593,
                     43.672716
                 ]
@@ -2775,7 +2298,8 @@
                 "type": "subway",
                 "snippet": [
                     "*...Since July 2011, the only subway-related work is the Line 1 extension north of Sheppard West station (formerly named Downsview) to Vaughan Metropolitan Centre in Vaughan, a suburb north of Toronto....",
-                    "*...In 2019, the Government of Ontario released a transit plan for the Greater Toronto Area which includes a new 16-kilometres Ontario Line, Line 1 extension to Richmond Hill Centre and an extension for Line 5 Eglinton to Toronto Pearson Airport...."
+                    "*...In 2019, the Government of Ontario released a transit plan for the Greater Toronto Area which includes a new 16-kilometres Ontario Line, Line 1 extension to Richmond Hill Centre and an extension for Line 5 Eglinton to Toronto Pearson Airport....",
+                    "*...The backbone of its public transport network is the Toronto subway system, which includes three heavy-rail rapid transit lines spanning the city, including the U-shaped Line 1 and east–west Line 2...."
                 ]
             }
         },
@@ -2803,29 +2327,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -79.462248,
-                    43.749299
-                ]
-            },
-            "properties": {
-                "entity": "Downsview",
-                "name_location": "Sheppard West, Sheppard West Bus Terminal, York Centre, North York, Toronto, Golden Horseshoe, Ontario, M3H 5R2, Canada",
-                "class": "railway",
-                "type": "station",
-                "snippet": [
-                    "*...Sections were long established and quickly growing towns before the suburban housing boom began and the emergence of metropolitan government, existing towns or villages such as Mimico, Islington and New Toronto in Etobicoke; Willowdale, Newtonbrook and Downsview in North York; Agincourt, Wexford and West Hill in Scarborough where suburban development boomed around or between these and other towns beginning in the late 1940s....",
-                    "...Large parks in the outer areas managed by the city include High Park, Humber Bay Park, Centennial Park, Downsview Park, Guild Park and Gardens, Sunnybrook Park and Morningside Park....",
-                    "...In 1999, Downsview Park, a former military base in North York, initiated an international design competition to realize its vision of creating Canada's first urban park....",
-                    "*...Since July 2011, the only subway-related work is the Line 1 extension north of Sheppard West station (formerly named Downsview) to Vaughan Metropolitan Centre in Vaughan, a suburb north of Toronto....",
-                    "...Downsview Airport (IATA: YZD), near the city's north end, is owned by de Havilland Canada and serves the Bombardier Aviation aircraft factory...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -79.40847,
                     43.704646
                 ]
@@ -2837,28 +2338,8 @@
                 "type": "construction",
                 "snippet": [
                     "*...By November 2011, construction on Line 5 Eglinton began....",
-                    "*...In 2019, the Government of Ontario released a transit plan for the Greater Toronto Area which includes a new 16-kilometres Ontario Line, Line 1 extension to Richmond Hill Centre and an extension for Line 5 Eglinton to Toronto Pearson Airport...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.357296,
-                    43.631335
-                ]
-            },
-            "properties": {
-                "entity": "Line 5",
-                "name_location": "Ward's Island Dock Line, Ward's Island, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5J 1Z4, Canada",
-                "class": "highway",
-                "type": "service",
-                "snippet": [
-                    "...By November 2011, construction on Line 5 Eglinton began....",
-                    "*...Line 5 is scheduled to finish construction by 2022....",
-                    "...In 2019, the Government of Ontario released a transit plan for the Greater Toronto Area which includes a new 16-kilometres Ontario Line, Line 1 extension to Richmond Hill Centre and an extension for Line 5 Eglinton to Toronto Pearson Airport...."
+                    "*...In 2019, the Government of Ontario released a transit plan for the Greater Toronto Area which includes a new 16-kilometres Ontario Line, Line 1 extension to Richmond Hill Centre and an extension for Line 5 Eglinton to Toronto Pearson Airport....",
+                    "*...Line 5 is scheduled to finish construction by 2022...."
                 ]
             }
         },
@@ -2896,7 +2377,8 @@
                 "class": "tourism",
                 "type": "hotel",
                 "snippet": [
-                    "*...In 2019, the Government of Ontario released a transit plan for the Greater Toronto Area which includes a new 16-kilometres Ontario Line, Line 1 extension to Richmond Hill Centre and an extension for Line 5 Eglinton to Toronto Pearson Airport...."
+                    "*...In 2019, the Government of Ontario released a transit plan for the Greater Toronto Area which includes a new 16-kilometres Ontario Line, Line 1 extension to Richmond Hill Centre and an extension for Line 5 Eglinton to Toronto Pearson Airport....",
+                    "*...This trend continues to this day, the largest factories and distribution warehouses are in the suburban environs of Peel and York Regions; but also within the current city: Etobicoke (concentrated around Pearson Airport), North York, and Scarborough.[citation needed]..."
                 ]
             }
         },
@@ -2935,7 +2417,13 @@
                 "class": "railway",
                 "type": "stop",
                 "snippet": [
-                    "*...Toronto Union Station serves as a hub for VIA Rail's intercity services in Central Canada and includes services to various parts of Ontario, Corridor services to Montreal and national capital Ottawa, and long-distance services to Vancouver and New York City...."
+                    "*...Toronto Union Station serves as a hub for VIA Rail's intercity services in Central Canada and includes services to various parts of Ontario, Corridor services to Montreal and national capital Ottawa, and long-distance services to Vancouver and New York City....",
+                    "*...The Grand Trunk Railway and the Northern Railway of Canada joined in the building of the first Union Station in downtown....",
+                    "*...Toronto's century-old Union Station is also getting a major renovation and upgrade which would be able to accommodate more rail traffic from GO Transit, Via Rail, UP Express and Amtrak....",
+                    "...Construction on a new Union Station Bus Terminal is also in the works with an expected completion in 2020....",
+                    "*...GO Transit carries over 250,000 passengers every weekday (2013) and 57 million annually, with a majority of them travelling to or from Union Station....",
+                    "...GO Transit provides intercity bus services from the Union Station Bus Terminal and other bus terminals in the city to destinations within the greater Toronto area....",
+                    "*...The Union Pearson Express (UP Express) train service provides a direct link between Pearson International and Union Station...."
                 ]
             }
         },
@@ -3013,7 +2501,11 @@
                 "class": "aeroway",
                 "type": "aerodrome",
                 "snippet": [
-                    "*...Downsview Airport (IATA: YZD), near the city's north end, is owned by de Havilland Canada and serves the Bombardier Aviation aircraft factory...."
+                    "*...Downsview Airport (IATA: YZD), near the city's north end, is owned by de Havilland Canada and serves the Bombardier Aviation aircraft factory....",
+                    "*...Sections were long established and quickly growing towns before the suburban housing boom began and the emergence of metropolitan government, existing towns or villages such as Mimico, Islington and New Toronto in Etobicoke; Willowdale, Newtonbrook and Downsview in North York; Agincourt, Wexford and West Hill in Scarborough where suburban development boomed around or between these and other towns beginning in the late 1940s....",
+                    "...Large parks in the outer areas managed by the city include High Park, Humber Bay Park, Centennial Park, Downsview Park, Guild Park and Gardens, Sunnybrook Park and Morningside Park....",
+                    "...In 1999, Downsview Park, a former military base in North York, initiated an international design competition to realize its vision of creating Canada's first urban park....",
+                    "*...Since July 2011, the only subway-related work is the Line 1 extension north of Sheppard West station (formerly named Downsview) to Vaughan Metropolitan Centre in Vaughan, a suburb north of Toronto...."
                 ]
             }
         },
@@ -3128,7 +2620,12 @@
                 "class": "highway",
                 "type": "motorway",
                 "snippet": [
-                    "...The Queen Elizabeth Way (QEW), North America's first divided intercity highway, terminates at Toronto's western boundary and connects Toronto to Niagara Falls and Buffalo...."
+                    "...The Queen Elizabeth Way (QEW), North America's first divided intercity highway, terminates at Toronto's western boundary and connects Toronto to Niagara Falls and Buffalo....",
+                    "...The seat of government of the Ontario briefly returned to the same building that hosted the Third Parliament Building of Upper Canada, before moving to the Ontario Legislative Building at Queen's Park in 1893....",
+                    "...In recent years, Nathan Phillips Square has been refurbished with new facilities, and the central waterfront along Queen's Quay West has been updated recently with a new street architecture and a new square next to Harbourfront Centre....",
+                    "...There are many large downtown parks, which include Allan Gardens, Christie Pits, Grange Park, Little Norway Park, Moss Park, Queen's Park, Riverdale Park and Trinity Bellwoods Park....",
+                    "*...An almost hidden park is the compact Cloud Gardens, which has both open areas and a glassed-in greenhouse, near Queen and Yonge....",
+                    "...City shopping areas include the Yorkville neighbourhood, Queen West, Harbourfront, the Entertainment District, the Financial District, and the St. Lawrence Market neighbourhood...."
                 ]
             }
         },

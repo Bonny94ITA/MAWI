@@ -28,28 +28,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    24.945779,
-                    60.163861
-                ]
-            },
-            "properties": {
-                "entity": "Europe",
-                "name_location": "PI+Europe, 1a, Ratakatu, Kaartinkaupunki, Southern major district, Helsinki, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, 00120, Finland",
-                "class": "office",
-                "type": "company",
-                "snippet": [
-                    "*...The city is served by the international Helsinki Airport, located in the neighboring city of Vantaa, with frequent service to many destinations in Europe, North America and Asia....",
-                    "*...Finland's rapid urbanization in the 1970s, occurring late relative to the rest of Europe, tripled the population in the metropolitan area, and the Helsinki Metro subway system was built....",
-                    "...As an important port city on the Baltic Sea, Helsinki has long been known for its fish food, and it has recently started to become one of the leading fish food capitals in Northern Europe....",
-                    "*...The rail tunnel would connect Helsinki to the Estonian capital Tallinn, further linking Helsinki to the rest of continental Europe by Rail Baltica...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     24.928979,
                     60.178081
                 ]
@@ -80,27 +58,6 @@
                 "type": "hotel",
                 "snippet": [
                     "*...Also, together with Rovaniemi in the Lapland region, Helsinki is one of Finland's most significant tourist cities in terms of foreign tourism...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    24.928957,
-                    60.182211
-                ]
-            },
-            "properties": {
-                "entity": "Helsinge",
-                "name_location": "Helsinginkatu, Töölö, Southern major district, Helsinki, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, 00260, Finland",
-                "class": "highway",
-                "type": "primary",
-                "snippet": [
-                    "*...According to a theory presented in the 1630s, at the time of Swedish colonisation of coastal areas of Finland, colonists from Hälsingland in central Sweden had arrived at what is now known as the Vantaa River and called it Helsingå ('Helsinge River'), which gave rise to the names of Helsinge village and church in the 1300s....",
-                    "*...When a town was founded in Forsby village (later known as Koskela) in 1548, it was named Helsinge fors, 'Helsinge rapids'....",
-                    "*...The town was commonly known as Helsinge or Helsing, from which the contemporary Finnish name arose...."
                 ]
             }
         },
@@ -302,25 +259,6 @@
                 "snippet": [
                     "*...Major islands in Helsinki include Seurasaari, Vallisaari, Lauttasaari, and Korkeasaari – the latter being the site of Finland's largest zoo called Korkeasaari Zoo....",
                     "*...The city's first nature reserve, Tiiraluoto of Lauttasaari, was established in 1948...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    24.979207,
-                    60.175146
-                ]
-            },
-            "properties": {
-                "entity": "Korkeasaari",
-                "name_location": "Korkeasaari Zoo, Finkensilta, Sompasaari, Mustikkamaa-Korkeasaari, Southeastern major district, Helsinki, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, 00540, Finland",
-                "class": "amenity",
-                "type": "ferry_terminal",
-                "snippet": [
-                    "*...Major islands in Helsinki include Seurasaari, Vallisaari, Lauttasaari, and Korkeasaari – the latter being the site of Finland's largest zoo called Korkeasaari Zoo...."
                 ]
             }
         },
@@ -707,25 +645,6 @@
                 "class": "tourism",
                 "type": "museum",
                 "snippet": [
-                    "...Modern architecture is represented, for example, by the Museum of Contemporary Art Kiasma, which consists of two straight and curved-walled parts, though this style strongly divided the opinions from the citizens...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    24.937433,
-                    60.17131
-                ]
-            },
-            "properties": {
-                "entity": "Kiasma",
-                "name_location": "Kiasma, Mannerheimin aukio, City Centre, Kluuvi, Southern major district, Helsinki, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, 00100, Finland",
-                "class": "amenity",
-                "type": "bicycle_rental",
-                "snippet": [
                     "...Modern architecture is represented, for example, by the Museum of Contemporary Art Kiasma, which consists of two straight and curved-walled parts, though this style strongly divided the opinions from the citizens....",
                     "*...Next to Kiasma is the glass-walled Sanomatalo (1999)....",
                     "...The Finnish National Gallery consists of three museums: Ateneum Art Museum for classical Finnish art, Sinebrychoff Art Museum for classical European art, and Kiasma Art Museum for modern art, in a building by architect Steven Holl...."
@@ -1042,37 +961,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    24.900544,
-                    60.235559
+                    24.750523,
+                    60.182058
                 ]
             },
             "properties": {
-                "entity": "Ring I",
-                "name_location": "Kehä I, Maununneva, Kaarela, Western major district, Helsinki, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, 00400, Finland",
+                "entity": "Ring II",
+                "name_location": "Kehä II, Vanha-Mankkaa, Mankkaa, Suur-Tapiola, Espoo, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, 02250, Finland",
                 "class": "highway",
                 "type": "trunk",
                 "snippet": [
                     "*...The backbone of Helsinki's motorway network consists of three semicircular beltways, Ring I, Ring II, and Ring III, which connect expressways heading to other parts of Finland, and the western and eastern arteries of Länsiväylä and Itäväylä respectively....",
                     "...These include the Jokeri light rail (replacing the 550 bus line), roughly along Ring I around the city center, and a new tramway to the island of Laajasalo...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    24.746134,
-                    60.199334
-                ]
-            },
-            "properties": {
-                "entity": "Ring II",
-                "name_location": "Kehä II, Taavinkylä, Mankkaa, Suur-Tapiola, Espoo, Helsinki sub-region, Uusimaa, Southern Finland, Mainland Finland, 02250, Finland",
-                "class": "highway",
-                "type": "trunk",
-                "snippet": [
-                    "*...The backbone of Helsinki's motorway network consists of three semicircular beltways, Ring I, Ring II, and Ring III, which connect expressways heading to other parts of Finland, and the western and eastern arteries of Länsiväylä and Itäväylä respectively...."
                 ]
             }
         },
@@ -1139,8 +1039,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    24.867084,
-                    60.218309
+                    24.870319,
+                    60.217102
                 ]
             },
             "properties": {

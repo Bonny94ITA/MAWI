@@ -27,50 +27,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.517246,
-                    55.939548
-                ]
-            },
-            "properties": {
-                "entity": "Europe",
-                "name_location": "Europe, 56Б, Первомайская улица, Виноградовские Горки, Dolgoprudny, Moscow Oblast, Central Federal District, 141707, Russia",
-                "class": "amenity",
-                "type": "restaurant",
-                "snippet": [
-                    "*...Moscow is among the world's largest cities; being the most populous city entirely in Europe, the largest urban and metropolitan area in Europe, and the largest city by land area on the European continent....",
-                    "...The northernmost and coldest megacity in the world, Moscow is governed as a federal city, where it serves as the political, economic, cultural, and scientific center of Russia and Eastern Europe....",
-                    "*...The city is one of the fastest-growing tourist destinations in the world, and is one of Europe's most visited cities....",
-                    "*...The Moscow International Business Center is one of the largest financial centers in Europe and the world, and features the majority of Europe's tallest skyscrapers....",
-                    "*...Moscow is home to many Russian companies in numerous industries and is served by a comprehensive transit network, which includes four international airports, ten railway terminals, a tram system, a monorail system, and most notably the Moscow Metro, the busiest metro system in Europe, and one of the largest rapid transit systems in the world....",
-                    "*...The city has over 40 percent of its territory covered by greenery, making it one of the greenest cities in Europe and the world....",
-                    "...In a similar manner the Latin name Moscovia has been formed, later it became a colloquial name for Russia used in Western Europe in the 16th–17th centuries....",
-                    "...Some organizations, such as Moscow Architecture Preservation Society and Save Europe's Heritage, are trying to draw the international public attention to these problems....",
-                    "...Moscow is a very green city, if compared to other cities of comparable size in Western Europe and North America; this is partly due to a history of having green \"yards\" with trees and grass, between residential buildings....",
-                    "*...The Garden features the Green Theater, one of the largest open amphitheaters in Europe, able to hold up to 15 thousand people....",
-                    "*...Tsytsin Main Botanical Garden of Academy of Sciences, founded in 1945 is the largest in Europe....",
-                    "*...Moscow is home to 63 stadiums (besides eight football and eleven light athletics maneges), of which Luzhniki Stadium is the largest and the 4th biggest in Europe (it hosted the 1998–99 UEFA Cup, 2007–08 UEFA Champions League finals, the 1980 Summer Olympics, and the 2018 FIFA World Cup with 7 games total, including the final)....",
-                    "*...The most titled volleyball team in the Soviet Union and in Europe (CEV Champions League) is VC CSKA Moscow....",
-                    "*...MFK Dinamo Moskva is one of the major futsal clubs in Europe, having won the Futsal Champions League title once....",
-                    "*...It is the largest indoor theme park in Europe....",
-                    "*...Moscow has one of the largest municipal economies in Europe and it accounts more than one-fifth of Russia's gross domestic product (GDP)....",
-                    "*...Moscow is home to the third-highest number of billionaires of any city in the world, and has the highest number of billionaires of any city in Europe....",
-                    "*...It is one of the largest medical universities in Russia and Europe....",
-                    "*...Student exchange programs with numerous countries, specially with the rest of Europe, have also become widespread in Moscow's universities, while schools within the Russian capital also offer seminars, lectures, and courses for corporate employees and businessmen....",
-                    "*...The Kurchatov Institute, Russia's leading research and development institution in the fields of nuclear energy, where the first nuclear reactor in Europe was built, the Landau Institute for Theoretical Physics, Institute for Theoretical and Experimental Physics, Kapitza Institute for Physical Problems and Steklov Institute of Mathematics are all situated in Moscow....",
-                    "*...The Metro is one of the deepest subway systems in the world; for instance, the Park Pobedy station, completed in 2003, at 84 metres (276 ft) underground, has the longest escalators in Europe....",
-                    "*...The Moscow Metro is the busiest metro system in Europe, as well as one of the world's busiest metro systems, serving about ten million passengers daily (300,000,000 people every month)....",
-                    "*...Each station handles trains from different parts of Europe and Asia....",
-                    "*...In 2018 the mayor Sergey Sobyanin said Moscow's car sharing system has become the biggest in Europe in terms of vehicle fleet....",
-                    "...In 1992, the Moscow government began planning a projected new part of central Moscow, the Moscow International Business Center, with the goal of creating a zone, the first in Russia, and in all of Eastern Europe, that will combine business activity, living space and entertainment....",
-                    "*...The Federation Tower, completed in 2016, is the second-tallest building in Europe...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     37.623978,
                     55.751238
                 ]
@@ -159,66 +115,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.627564,
-                    55.743884
-                ]
-            },
-            "properties": {
-                "entity": "Kremlin",
-                "name_location": "Kremlin, Pyatnitskaya Street, Zamoskvorechye District, Moscow, Central Federal District, 115035, Russia",
-                "class": "tourism",
-                "type": "hostel",
-                "snippet": [
-                    "...The city is home to several UNESCO World Heritage Sites and is well known for its display of Russian architecture, particularly its historic Red Square, and buildings such as the Saint Basil's Cathedral and the Moscow Kremlin, of which the latter serves as the seat of power of the Government of Russia....",
-                    "*...On the right bank of the Moskva River, at a distance of eight kilometres (5 mi) from the Kremlin, not later than in 1282, Daniel founded the first monastery with the wooden church of St. Daniel-Stylite, which is now the Danilov Monastery....",
-                    "*...The original Moscow Kremlin was built in the 14th century....",
-                    "*...It was reconstructed by Ivan, who in the 1480s invited architects from Renaissance Italy, such as Petrus Antonius Solarius, who designed the new Kremlin wall and its towers, and Marco Ruffo who designed the new palace for the prince....",
-                    "*...The Kremlin walls as they now appear are those designed by Solarius, completed in 1495....",
-                    "*...The Kremlin's Great Bell Tower was built in 1505–08 and augmented to its present height in 1600....",
-                    "*...A trading settlement, or posad, grew up to the east of the Kremlin, in the area known as Zaradye (Зарядье)....",
-                    "*...However, in 1547, two fires destroyed much of the town, and in 1571 the Crimean Tatars captured Moscow, burning everything except the Kremlin....",
-                    "*...Three square gates existed on the eastern side of the Kremlin wall, which in the 17th century, were known as Konstantino-Eleninsky, Spassky, Nikolsky (owing their names to the icons of Constantine and Helen, the Saviour and St. Nicholas that hung over them)....",
-                    "*...In 1612, the people of Nizhny Novgorod and other Russian cities conducted by prince Dmitry Pozharsky and Kuzma Minin rose against the Polish occupants, besieged the Kremlin, and expelled them....",
-                    "...Among many buildings constructed or reconstructed at this time was the Grand Kremlin Palace and the Kremlin Armoury, the Moscow University, the Moscow Manege (Riding School), and the Bolshoi Theatre....",
-                    "*...In the early 19th century, the Arch of Konstantino-Elenensky gate was paved with bricks, but the Spassky Gate was the main front gate of the Kremlin and used for royal entrances....",
-                    "*...The Kremlin once again became the seat of power and the political centre of the new state....",
-                    "*...The first Kremlin was built in the middle of the 12th century....",
-                    "*...The Kremlin was rebuilt in the 15th century....",
-                    "*...Perhaps the most recognizable contributions of the Stalinist period are the so-called Seven Sisters, seven massive skyscrapers scattered throughout the city at about an equal distance from the Kremlin....",
-                    "...Some of the more famous attractions include the city's UNESCO World Heritage Site, Moscow Kremlin and Red Square, which was built between the 14th and 17th centuries....",
-                    "*...Moscow's road system is centered roughly on the Kremlin at the heart of the city....",
-                    "*...The Shchusev State Museum of Architecture is the national museum of Russian architecture by the name of the architect Alexey Shchusev near the Kremlin area....",
-                    "...Moscow hosts the annual Kremlin Cup, a popular tennis tournament on both the WTA and ATP tours....",
-                    "...In addition, the Moscow Kremlin is the official residence of the President of the Russian Federation....",
-                    "*...The president's working residence in the Kremlin is located in the Senate Palace....",
-                    "*...The following fortifications served as the city's circular defense boundaries at some point in history: the Kremlin walls, Zemlyanoy Gorod (Earthwork Town), the Kamer-Kollezhsky Rampart, the Garden Ring, and the small railway ring...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.63641,
-                    55.758716
-                ]
-            },
-            "properties": {
-                "entity": "Siberia",
-                "name_location": "Siberia, Armyanskiy Lane, Ivanovskaya Gorka, Basmanny District, Moscow, Central Federal District, 101000, Russia",
-                "class": "tourism",
-                "type": "hostel",
-                "snippet": [
-                    "*...In 1480, Ivan III had finally broken the Russians free from Tatar control, and Moscow became the capital of an empire that would eventually encompass all of Russia and Siberia, and parts of many other lands...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     37.61823,
                     55.750741
                 ]
@@ -288,27 +184,6 @@
                 "snippet": [
                     "...In 1380, prince Dmitry Donskoy of Moscow led a united Russian army to an important victory over the Mongols in the Battle of Kulikovo....",
                     "*...As an outermost line of defense, a chain of strongly fortified monasteries was established beyond the ramparts to the south and east, principally the Novodevichy Convent and Donskoy, Danilov, Simonov, Novospasskiy, and Andronikov monasteries, most of which now house museums...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.63109,
-                    55.711572
-                ]
-            },
-            "properties": {
-                "entity": "Danilov",
-                "name_location": "Свято-Данилов монастырь, Danilovskiy Val St, Danilovsky District, Moscow, Central Federal District, 113093, Russia",
-                "class": "railway",
-                "type": "tram_stop",
-                "snippet": [
-                    "...On the right bank of the Moskva River, at a distance of eight kilometres (5 mi) from the Kremlin, not later than in 1282, Daniel founded the first monastery with the wooden church of St. Daniel-Stylite, which is now the Danilov Monastery....",
-                    "*...As an outermost line of defense, a chain of strongly fortified monasteries was established beyond the ramparts to the south and east, principally the Novodevichy Convent and Donskoy, Danilov, Simonov, Novospasskiy, and Andronikov monasteries, most of which now house museums....",
-                    "...The Patriarch of Moscow serves as the head of the church and resides in the Danilov Monastery...."
                 ]
             }
         },
@@ -408,7 +283,34 @@
                 "class": "historic",
                 "type": "castle",
                 "snippet": [
-                    "...Among many buildings constructed or reconstructed at this time was the Grand Kremlin Palace and the Kremlin Armoury, the Moscow University, the Moscow Manege (Riding School), and the Bolshoi Theatre...."
+                    "...Among many buildings constructed or reconstructed at this time was the Grand Kremlin Palace and the Kremlin Armoury, the Moscow University, the Moscow Manege (Riding School), and the Bolshoi Theatre....",
+                    "...The city is home to several UNESCO World Heritage Sites and is well known for its display of Russian architecture, particularly its historic Red Square, and buildings such as the Saint Basil's Cathedral and the Moscow Kremlin, of which the latter serves as the seat of power of the Government of Russia....",
+                    "*...On the right bank of the Moskva River, at a distance of eight kilometres (5 mi) from the Kremlin, not later than in 1282, Daniel founded the first monastery with the wooden church of St. Daniel-Stylite, which is now the Danilov Monastery....",
+                    "*...The original Moscow Kremlin was built in the 14th century....",
+                    "*...It was reconstructed by Ivan, who in the 1480s invited architects from Renaissance Italy, such as Petrus Antonius Solarius, who designed the new Kremlin wall and its towers, and Marco Ruffo who designed the new palace for the prince....",
+                    "*...The Kremlin walls as they now appear are those designed by Solarius, completed in 1495....",
+                    "*...The Kremlin's Great Bell Tower was built in 1505–08 and augmented to its present height in 1600....",
+                    "*...A trading settlement, or posad, grew up to the east of the Kremlin, in the area known as Zaradye (Зарядье)....",
+                    "*...However, in 1547, two fires destroyed much of the town, and in 1571 the Crimean Tatars captured Moscow, burning everything except the Kremlin....",
+                    "*...Three square gates existed on the eastern side of the Kremlin wall, which in the 17th century, were known as Konstantino-Eleninsky, Spassky, Nikolsky (owing their names to the icons of Constantine and Helen, the Saviour and St. Nicholas that hung over them)....",
+                    "*...In 1612, the people of Nizhny Novgorod and other Russian cities conducted by prince Dmitry Pozharsky and Kuzma Minin rose against the Polish occupants, besieged the Kremlin, and expelled them....",
+                    "*...In the early 19th century, the Arch of Konstantino-Elenensky gate was paved with bricks, but the Spassky Gate was the main front gate of the Kremlin and used for royal entrances....",
+                    "*...The Kremlin once again became the seat of power and the political centre of the new state....",
+                    "*...The first Kremlin was built in the middle of the 12th century....",
+                    "*...The Kremlin was rebuilt in the 15th century....",
+                    "*...Perhaps the most recognizable contributions of the Stalinist period are the so-called Seven Sisters, seven massive skyscrapers scattered throughout the city at about an equal distance from the Kremlin....",
+                    "...Some of the more famous attractions include the city's UNESCO World Heritage Site, Moscow Kremlin and Red Square, which was built between the 14th and 17th centuries....",
+                    "*...Moscow's road system is centered roughly on the Kremlin at the heart of the city....",
+                    "*...The Shchusev State Museum of Architecture is the national museum of Russian architecture by the name of the architect Alexey Shchusev near the Kremlin area....",
+                    "...Moscow hosts the annual Kremlin Cup, a popular tennis tournament on both the WTA and ATP tours....",
+                    "...In addition, the Moscow Kremlin is the official residence of the President of the Russian Federation....",
+                    "*...The president's working residence in the Kremlin is located in the Senate Palace....",
+                    "*...The following fortifications served as the city's circular defense boundaries at some point in history: the Kremlin walls, Zemlyanoy Gorod (Earthwork Town), the Kamer-Kollezhsky Rampart, the Garden Ring, and the small railway ring....",
+                    "...Petrovsky Palace was built in 1776–1780 by Matvey Kazakov....",
+                    "...In the 1830s, general Alexander Bashilov planned the first regular grid of city streets north from Petrovsky Palace....",
+                    "...Ostankino Palace, Kuskovo, Uzkoye and other large estates just outside Moscow originally belong to nobles from the Tsarist era, and some convents, and monasteries, both inside and outside the city, are open to Muscovites and tourists....",
+                    "...The Irina Viner-Usmanova Gymnastics Palace is located in the Luzniki Olympic Complex....",
+                    "*...The investor of the Palace is the billionaire Alisher Usmanov, husband of the former gymnast and gymnastics coach Irina Viner-Usmanova...."
                 ]
             }
         },
@@ -474,47 +376,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.624901,
-                    55.76266
-                ]
-            },
-            "properties": {
-                "entity": "Tver",
-                "name_location": "Палаты тверского подворья, 17 с2, Kuznetskiy Most St, Meshchansky District, Moscow, Central Federal District, 107016, Russia",
-                "class": "tourism",
-                "type": "attraction",
-                "snippet": [
-                    "*...By 1304, Yury of Moscow contested with Mikhail of Tver for the throne of the principality of Vladimir....",
-                    "*...Ivan I eventually defeated Tver to become the sole collector of taxes for the Mongol rulers, making Moscow the capital of Vladimir-Suzdal....",
-                    "*...The road connecting Moscow with St. Petersburg, now the M10 highway, was completed in 1746, its Moscow end following the old Tver road, which had existed since the 16th century...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.600371,
-                    55.752293
-                ]
-            },
-            "properties": {
-                "entity": "Arbat Street",
-                "name_location": "Arbat Street, 36, Arbat District, Moscow, Central Federal District, 121069, Russia",
-                "class": "highway",
-                "type": "unclassified",
-                "snippet": [
-                    "...The Arbat Street had been in existence since at least the 15th century, but it was developed into a prestigious area during the 18th century....",
-                    "...The Old Arbat Street, a tourist street that was once the heart of a bohemian area, preserves most of its buildings from prior to the 20th century...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     37.581701,
                     55.776371
                 ]
@@ -526,7 +387,8 @@
                 "type": "attraction",
                 "snippet": [
                     "*...Smolensky Rail station (forerunner of present-day Belorussky Rail Terminal) was inaugurated in 1870....",
-                    "*...Belorussky Rail Terminal ;..."
+                    "*...Belorussky Rail Terminal ;...",
+                    "*...A connecting railway line on the North side of the town connects Belorussky terminal with other railway lines...."
                 ]
             }
         },
@@ -547,7 +409,8 @@
                 "snippet": [
                     "*...Sokolniki Park, in the 18th century the home of the tsar's falconers well outside Moscow, became contiguous with the expanding city in the later 19th century and was developed into a public municipal park in 1878....",
                     "*...Sokolniki Park, named after the falcon hunting that occurred there in the past, is one of the oldest parks in Moscow and has an area of 6 square kilometres (2.3 sq mi)....",
-                    "*...Losiny Ostrov National Park (\"Elk Island\" National Park), with a total area of more than 116 square kilometres (45 sq mi), borders Sokolniki Park and was Russia's first national park...."
+                    "*...Losiny Ostrov National Park (\"Elk Island\" National Park), with a total area of more than 116 square kilometres (45 sq mi), borders Sokolniki Park and was Russia's first national park....",
+                    "*...Several parks include a section known as a \"Park of Culture and Rest\", sometimes alongside a much wilder area (this includes parks such as Izmaylovsky, Fili and Sokolniki)...."
                 ]
             }
         },
@@ -617,7 +480,9 @@
                 "type": "primary",
                 "snippet": [
                     "...The Third Ring Road, intermediate between the early 19th-century Garden Ring and the Soviet-era outer ring road, was completed in 2004....",
-                    "...The Third Ring Road, was completed in 2003 as a high-speed freeway...."
+                    "...The Third Ring Road, was completed in 2003 as a high-speed freeway....",
+                    "...Situated in Presnensky District and located at the Third Ring, the Moscow City area is under intense development....",
+                    "...Major thoroughfares through MIBC are the Third Ring and Kutuzovsky Prospekt...."
                 ]
             }
         },
@@ -675,27 +540,11 @@
                 "class": "aeroway",
                 "type": "aerodrome",
                 "snippet": [
-                    "*...The highest temperature ever recorded was 38.2 °C (100.8 °F) at the VVC weather station and 39.0 °C (102.2 °F) in the center of Moscow and Domodedovo airport on July 29, 2010, during the unusual 2010 Northern Hemisphere summer heat waves...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.877413,
-                    55.661081
-                ]
-            },
-            "properties": {
-                "entity": "Atlantic",
-                "name_location": "ATLANTIC, 8, Новорязанское шоссе, 22-й км Новорязанского шоссе, Lyubertsy, Lyuberetsky District, Moscow Oblast, Central Federal District, 140053, Russia",
-                "class": "shop",
-                "type": "clothes",
-                "snippet": [
-                    "...More extreme continental climates at the same latitude- such as parts of Eastern Canada or Siberia- have much colder winters than Moscow, suggesting that there is still significant moderation from the Atlantic Ocean despite the fact that Moscow is far from the sea....",
-                    "*...In the winter, moist air from the Atlantic condenses in the cold continental interior, resulting in very overcast conditions...."
+                    "*...The highest temperature ever recorded was 38.2 °C (100.8 °F) at the VVC weather station and 39.0 °C (102.2 °F) in the center of Moscow and Domodedovo airport on July 29, 2010, during the unusual 2010 Northern Hemisphere summer heat waves....",
+                    "*...There are five primary commercial airports serving Moscow: Sheremetyevo (SVO), Domodedovo (DME), Vnukovo (VKO), Zhukovsky (ZIA), Ostafyevo (OSF).\nSheremetyevo International Airport is the most globally connected, handling 60% of all international flights....",
+                    "...Domodedovo International Airport is the leading airport in Russia in terms of passenger throughput and is the primary gateway to long-haul domestic and CIS destinations and its international traffic rivals Sheremetyevo....",
+                    "*...It is a hub for S7 airlines, and most of OneWorld and Star Alliance members use Domodedovo as their international hub....",
+                    "*...Moscow's airports vary in distances from the MKAD beltway: Domodedovo is the farthest at 22 km (14 mi); Vnukovo is 11 km (7 mi); Sheremetyevo is 10 km (6 mi); and Ostafievo, the nearest, is about 8 kilometres (5.0 mi) from MKAD.\nThere are a number of smaller airports close to Moscow (19 in Moscow Oblast) such as Myachkovo Airport, that are intended for private aircraft, helicopters and charters...."
                 ]
             }
         },
@@ -715,7 +564,8 @@
                 "type": "attraction",
                 "snippet": [
                     "...On the right bank of the Moskva River, at a distance of eight kilometres (5 mi) from the Kremlin, not later than in 1282, Daniel founded the first monastery with the wooden church of St. Daniel-Stylite, which is now the Danilov Monastery....",
-                    "...The Patriarch of Moscow serves as the head of the church and resides in the Danilov Monastery...."
+                    "...The Patriarch of Moscow serves as the head of the church and resides in the Danilov Monastery....",
+                    "*...As an outermost line of defense, a chain of strongly fortified monasteries was established beyond the ramparts to the south and east, principally the Novodevichy Convent and Donskoy, Danilov, Simonov, Novospasskiy, and Andronikov monasteries, most of which now house museums...."
                 ]
             }
         },
@@ -812,7 +662,10 @@
                 "snippet": [
                     "*...Many buildings found off the main streets of the inner city (behind the Stalinist façades of Tverskaya Street, for example) are also examples of bourgeois architecture typical of Tsarist times....",
                     "*...Tverskaya Street is also one of the busiest shopping streets in Moscow....",
-                    "*...The adjoining Tretyakovsky Proyezd, also south of Tverskaya Street, in Kitai-gorod, is host to upmarket boutique stores such as Bulgari, Tiffany & Co., Armani, Prada and Bentley...."
+                    "*...The adjoining Tretyakovsky Proyezd, also south of Tverskaya Street, in Kitai-gorod, is host to upmarket boutique stores such as Bulgari, Tiffany & Co., Armani, Prada and Bentley....",
+                    "*...By 1304, Yury of Moscow contested with Mikhail of Tver for the throne of the principality of Vladimir....",
+                    "*...Ivan I eventually defeated Tver to become the sole collector of taxes for the Mongol rulers, making Moscow the capital of Vladimir-Suzdal....",
+                    "*...The road connecting Moscow with St. Petersburg, now the M10 highway, was completed in 1746, its Moscow end following the old Tver road, which had existed since the 16th century...."
                 ]
             }
         },
@@ -840,28 +693,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.589367,
-                    55.746223
-                ]
-            },
-            "properties": {
-                "entity": "Arbat",
-                "name_location": "Арбат, 12, Plotnikov Lane, Плющиха, Khamovniki District, Moscow, Central Federal District, 119002, Russia",
-                "class": "tourism",
-                "type": "hotel",
-                "snippet": [
-                    "...The Arbat Street had been in existence since at least the 15th century, but it was developed into a prestigious area during the 18th century....",
-                    "...The Old Arbat Street, a tourist street that was once the heart of a bohemian area, preserves most of its buildings from prior to the 20th century....",
-                    "*...There are a few examples of notable, early Soviet avant-garde work too, such as the house of the architect Konstantin Melnikov in the Arbat area....",
-                    "...Later examples of interesting Soviet architecture are usually marked by their impressive size and the semi-Modernist styles employed, such as with the Novy Arbat project, familiarly known as \"false teeth of Moscow\" and notorious for the wide-scale disruption of a historic area in central Moscow involved in the project...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     37.603725,
                     55.731344
                 ]
@@ -873,90 +704,6 @@
                 "type": "museum",
                 "snippet": [
                     "*...Gorky Park (officially the Central Park of Culture and Rest named after Maxim Gorky), was founded in 1928...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.608913,
-                    55.762539
-                ]
-            },
-            "properties": {
-                "entity": "Moskva",
-                "name_location": "Moscow, 8 к1, Tverskaya Street, 50, Tverskoy District, Moscow, Central Federal District, 127238, Russia",
-                "class": "shop",
-                "type": "books",
-                "snippet": [
-                    "*...Moscow ( MOS-koh, US chiefly  MOS-kow; Russian: Москва, tr. Moskva, IPA:  ) is the capital and largest city of Russia....",
-                    "...The city stands on the Moskva River in Central Russia, with a population estimated at 13.0 million residents within the city limits, over 17 million residents in the urban area, and over 21.5 million residents in the metropolitan area....",
-                    "...The name of the city is thought to be derived from the name of the Moskva River....",
-                    "*...The most linguistically well-grounded and widely accepted is from the Proto-Balto-Slavic root *mŭzg-/muzg- from the Proto-Indo-European *- \"wet\", so the name Moskva might signify a river at a wetland or a marsh....",
-                    "...From the latter forms came to the modern Russian name Москва, Moskva, which is a result of morphological generalization with the numerous Slavic ā-stem nouns.\nHowever, the form Moskovĭ has left some traces in many other languages, including English: Moscow, German: Moskau, French: Moscou, Georgian: მოსკოვი, Latvian: Maskava, Bashkir: Мәскәү, Tatar: Mäskäw, Portuguese: Moscovo, Chuvash: Мускав, and Spanish: Moscú....",
-                    "...On the right bank of the Moskva River, at a distance of eight kilometres (5 mi) from the Kremlin, not later than in 1282, Daniel founded the first monastery with the wooden church of St. Daniel-Stylite, which is now the Danilov Monastery....",
-                    "*...In 1508–1516, the Italian architect Aleviz Fryazin (Novy) arranged for the construction of a moat in front of the eastern wall, which would connect the Moskva and Neglinnaya and be filled in with water from Neglinnaya....",
-                    "...Moscow is situated on the banks of the Moskva River, which flows for just over 500 km (311 mi) through the East European Plain in central Russia, not far from the natural border of the forest and forest-steppe zone....",
-                    "*...Other historical buildings, including such landmarks as the 1930 Moskva hotel and the 1913 department store Voyentorg, have been razed and reconstructed anew, with the inevitable loss of historical value....",
-                    "*...The main part (689,000 square metres or 170 acres) along the Moskva river contains estrades, children's attractions (including the Observation Wheel water ponds with boats and water bicycles), dancing, tennis courts and other sports facilities....",
-                    "...The Old Tretyakov gallery, the original gallery in the Tretyakovskaya area on the south bank of the Moskva River, houses works in the classic Russian tradition....",
-                    "...MFK Dinamo Moskva is one of the major futsal clubs in Europe, having won the Futsal Champions League title once....",
-                    "...On November 26, 2018, the mayor of Moscow Sergey Sobyanin took part in the ceremony to open the cable car above the Moskva River....",
-                    "*...Moscow has two passenger terminals, (South River Terminal and North River Terminal or Rechnoy vokzal), on the river and regular ship routes and cruises along the Moskva and Oka rivers, which are used mostly for entertainment...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.517903,
-                    55.792331
-                ]
-            },
-            "properties": {
-                "entity": "Garden",
-                "name_location": "Гарден, 3-я Песчаная улица, Khoroshyovsky District, Moscow, Central Federal District, 125252, Russia",
-                "class": "amenity",
-                "type": "restaurant",
-                "snippet": [
-                    "...The city's limits as marked by the ramparts built in 1592 are now marked by the Garden Ring....",
-                    "...The Third Ring Road, intermediate between the early 19th-century Garden Ring and the Soviet-era outer ring road, was completed in 2004....",
-                    "...It borders the Neskuchny Garden (408,000 square metres or 101 acres), the oldest park in Moscow and a former imperial residence, created as a result of the integration of three estates in the 18th century....",
-                    "*...The Garden features the Green Theater, one of the largest open amphitheaters in Europe, able to hold up to 15 thousand people....",
-                    "...Bauman  Garden, officially founded in 1920 and renamed in 1922 after the bolshevik Nikolay Bauman, is one of the oldest parks in Moscow....",
-                    "...It is standing on the site of the former Golitsyn estate and eighteenth-century public garden....",
-                    "...Tsytsin Main Botanical Garden of Academy of Sciences, founded in 1945 is the largest in Europe....",
-                    "...Near the new Tretyakov Gallery there is a sculpture garden, Museon, often called \"the graveyard of fallen monuments\" that displays statues of the former Soviet Union that were removed from their place after its dissolution....",
-                    "...Other attractions include the Moscow Zoo, a zoological garden in two sections (the valleys of two streams) linked by a bridge, with nearly a thousand species and more than 6,500 specimens....",
-                    "...The second primary ring, located outside the Boulevard Ring, is the Sadovoye Koltso (Garden Ring). Like the Boulevard Ring, the Garden Ring follows the path of a 16th-century wall that used to encompass part of Moscow.   ;...",
-                    "...The following fortifications served as the city's circular defense boundaries at some point in history: the Kremlin walls, Zemlyanoy Gorod (Earthwork Town), the Kamer-Kollezhsky Rampart, the Garden Ring, and the small railway ring....",
-                    "...Such is the case with the All-Russia Exhibition Centre, the Botanical Garden, large parks, and industrial zones....",
-                    "...In the Russian capital, there are over 21.5 thousand Wi-Fi access points, in student dormitories, in parks, cultural and sports institutions, and within the Garden Ring and the Third Transport Ring....",
-                    "...Almost all trolleybus wires inside Garden Ring (Sadovoe Koltso) were cut in 2016–2017 due to the reconstruction of central streets (\"Moya Ulitsa\")...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.748219,
-                    55.77661
-                ]
-            },
-            "properties": {
-                "entity": "Izmaylovsky",
-                "name_location": "Izmaylovsky Park, Московский проспект, Izmaylovo District, Moscow, Central Federal District, 105187, Russia",
-                "class": "highway",
-                "type": "bus_stop",
-                "snippet": [
-                    "*...Several parks include a section known as a \"Park of Culture and Rest\", sometimes alongside a much wilder area (this includes parks such as Izmaylovsky, Fili and Sokolniki)....",
-                    "...Izmaylovsky Park, created in 1931, is one of the largest urban parks in the world along with Richmond Park in London...."
                 ]
             }
         },
@@ -984,28 +731,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.664488,
-                    55.789873
-                ]
-            },
-            "properties": {
-                "entity": "Sokolniki",
-                "name_location": "Сокольники, Рыбинский переулок, Sokolniki, Sokolniki District, Moscow, Central Federal District, 107113, Russia",
-                "class": "tourism",
-                "type": "hostel",
-                "snippet": [
-                    "...Sokolniki Park, in the 18th century the home of the tsar's falconers well outside Moscow, became contiguous with the expanding city in the later 19th century and was developed into a public municipal park in 1878....",
-                    "*...Several parks include a section known as a \"Park of Culture and Rest\", sometimes alongside a much wilder area (this includes parks such as Izmaylovsky, Fili and Sokolniki)....",
-                    "...Sokolniki Park, named after the falcon hunting that occurred there in the past, is one of the oldest parks in Moscow and has an area of 6 square kilometres (2.3 sq mi)....",
-                    "...Losiny Ostrov National Park (\"Elk Island\" National Park), with a total area of more than 116 square kilometres (45 sq mi), borders Sokolniki Park and was Russia's first national park...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     37.748219,
                     55.77661
                 ]
@@ -1016,7 +741,8 @@
                 "class": "highway",
                 "type": "bus_stop",
                 "snippet": [
-                    "*...Izmaylovsky Park, created in 1931, is one of the largest urban parks in the world along with Richmond Park in London...."
+                    "*...Izmaylovsky Park, created in 1931, is one of the largest urban parks in the world along with Richmond Park in London....",
+                    "*...Several parks include a section known as a \"Park of Culture and Rest\", sometimes alongside a much wilder area (this includes parks such as Izmaylovsky, Fili and Sokolniki)...."
                 ]
             }
         },
@@ -1278,32 +1004,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.616745,
-                    55.750608
-                ]
-            },
-            "properties": {
-                "entity": "Palace",
-                "name_location": "Palace of the Facets, Cathedral Square, 18, 19, Tverskoy District, Moscow, Central Federal District, 103073, Russia",
-                "class": "tourism",
-                "type": "museum",
-                "snippet": [
-                    "...It was reconstructed by Ivan, who in the 1480s invited architects from Renaissance Italy, such as Petrus Antonius Solarius, who designed the new Kremlin wall and its towers, and Marco Ruffo who designed the new palace for the prince....",
-                    "...Among many buildings constructed or reconstructed at this time was the Grand Kremlin Palace and the Kremlin Armoury, the Moscow University, the Moscow Manege (Riding School), and the Bolshoi Theatre....",
-                    "...Petrovsky Palace was built in 1776–1780 by Matvey Kazakov....",
-                    "...In the 1830s, general Alexander Bashilov planned the first regular grid of city streets north from Petrovsky Palace....",
-                    "...Ostankino Palace, Kuskovo, Uzkoye and other large estates just outside Moscow originally belong to nobles from the Tsarist era, and some convents, and monasteries, both inside and outside the city, are open to Muscovites and tourists....",
-                    "...The Irina Viner-Usmanova Gymnastics Palace is located in the Luzniki Olympic Complex....",
-                    "*...The investor of the Palace is the billionaire Alisher Usmanov, husband of the former gymnast and gymnastics coach Irina Viner-Usmanova....",
-                    "...The president's working residence in the Kremlin is located in the Senate Palace...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     37.479229,
                     55.837272
                 ]
@@ -1335,27 +1035,6 @@
                 "type": "marina",
                 "snippet": [
                     "*...Dream Island is an amusement park in Moscow that opened on February 29, 2020...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.609613,
-                    55.754322
-                ]
-            },
-            "properties": {
-                "entity": "Cinema",
-                "name_location": "Romanov Cinema, Аллея Романов, 41, Arbat District, Moscow, Central Federal District, 121019, Russia",
-                "class": "amenity",
-                "type": "cinema",
-                "snippet": [
-                    "...Even though during the 1990s it was, and for some part still is, misused as a gigantic shopping center (most of the pavilions are rented out for small businesses), it still retains the bulk of its architectural landmarks, including two monumental fountains (Stone Flower and Friendship of Nations) and a 360 degrees panoramic Cinema....",
-                    "...Rare and historical films may be seen in the Salut Cinema, where films from the Museum of Cinema collection are shown regularly....",
-                    "*...The complex includes a landscaped park along with a concert hall, a Cinema, a hotel, a children's sailing school, restaurants, and shops...."
                 ]
             }
         },
@@ -1414,45 +1093,6 @@
                 "type": "attraction",
                 "snippet": [
                     "...Such is the case with the All-Russia Exhibition Centre, the Botanical Garden, large parks, and industrial zones...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.638398,
-                    55.844865
-                ]
-            },
-            "properties": {
-                "entity": "Botanical Garden",
-                "name_location": "Botanical Garden, 1-я улица Леонова, Rostokino, Moscow, Rostokino District, Moscow, Central Federal District, 127490, Russia",
-                "class": "railway",
-                "type": "stop",
-                "snippet": [
-                    "...Tsytsin Main Botanical Garden of Academy of Sciences, founded in 1945 is the largest in Europe....",
-                    "...Such is the case with the All-Russia Exhibition Centre, the Botanical Garden, large parks, and industrial zones...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.577811,
-                    55.754721
-                ]
-            },
-            "properties": {
-                "entity": "Mir",
-                "name_location": "Мир, 36/9, Novy Arbat Street, Arbat District, Moscow, Central Federal District, 103274, Russia",
-                "class": "tourism",
-                "type": "hotel",
-                "snippet": [
-                    "*...Khrunichev State Research and Production Space Center produces various space equipment, including modules for space stations Mir, Salyut and the ISS as well as Proton launch vehicles and military ICBMs...."
                 ]
             }
         },
@@ -1537,66 +1177,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.674635,
-                    55.723159
-                ]
-            },
-            "properties": {
-                "entity": "Metro",
-                "name_location": "Metro, 13А с1, 1-я Дубровская улица, Yuzhnoportovy District, Moscow, Central Federal District, 115088, Russia",
-                "class": "shop",
-                "type": "supermarket",
-                "snippet": [
-                    "...Moscow is home to many Russian companies in numerous industries and is served by a comprehensive transit network, which includes four international airports, ten railway terminals, a tram system, a monorail system, and most notably the Moscow Metro, the busiest metro system in Europe, and one of the largest rapid transit systems in the world....",
-                    "...In December 2002 Bulvar Dmitriya Donskogo became the first Moscow Metro station that opened beyond the limits of MKAD....",
-                    "...Some critics also wonder if the money used for the reconstruction of razed buildings could not be used for the renovation of decaying structures, which include many works by architect Konstantin Melnikov and Mayakovskaya metro station....",
-                    "...Aside from the aforementioned hierarchy, line 5 of Moscow Metro is a circle-shaped looped subway line (hence the name Koltsevaya Liniya, literally \"ring line\"), which is located between the Sadovoye Koltso and Third Transport Ring....",
-                    "...Two modern overlapping lines of Moscow Metro form \"two hearts\":...",
-                    "...Line 14. Since September 10, 2016, Moscow Central Circle renovated railroad (former Moskovskaya Okruzhnaya Zheleznaya Doroga) was introduced as Line 14 of Moscow Metro. The cone-shaped railroad initially opened in 1908 (freight-only railway from 1934 until the 2016 reopening)....",
-                    "...Line 11. Another circle metro line - Big Circle Line (Bolshaya Koltsevaya Liniya) is under construction and will be finished in 2023. Kakhovskaya-Savyolovskaya western half of the line was launched in late 2021....",
-                    "...And although districts are not designated by income, as with most cities, those areas that are closer to the city center, metro stations or green zones are considered more prestigious....",
-                    "...Automobile plants ZiL and AZLK, as well as the Voitovich Rail Vehicle plant, are situated in Moscow and Metrovagonmash metro wagon plant is located just outside the city limits....",
-                    "...The Moscow Metro system is famous for its art, murals, mosaics, and ornate chandeliers....",
-                    "...The metro was touted as the symbol of the new social order—a sort of Communist cathedral of engineering modernity....",
-                    "...Today, the Moscow Metro comprises twelve lines, mostly underground with a total of 203 stations....",
-                    "*...The Metro is one of the deepest subway systems in the world; for instance, the Park Pobedy station, completed in 2003, at 84 metres (276 ft) underground, has the longest escalators in Europe....",
-                    "...The Moscow Metro is the busiest metro system in Europe, as well as one of the world's busiest metro systems, serving about ten million passengers daily (300,000,000 people every month)....",
-                    "*...Facing serious transportation problems, Moscow has plans for expanding its Metro....",
-                    "...In 2016, the authorities launched a new circle metro railway that contributed to solving transportation issues, namely daily congestion at Koltsevaya Line....",
-                    "*...Due to the treatment of Metro stations as possible canvas for art, characterized by the fact that workers of Moscow would get to see them every day, many Stalin-era metro stations were built in different \"custom\" designs (where each station's design would be, initially, a massive installation on a certain theme....",
-                    "...For example, Elektrozavodskaya station was themed solely after nearby lightbulb factory and ceramic ribbed lightbulb sockets); the tradition of \"Grand Designs\" and, basically, decorating metro stations as single-themed installations, was restored in late 1979....",
-                    "...Moscow's metro is one of the world's busiest, handling 2.6 billion passengers in 2019....",
-                    "...The Moscow Metro operates a short monorail line (line 13)....",
-                    "...The line connects Timiryazevskaya metro station and Ulitsa Sergeya Eisensteina, passing close to VDNH (and Line 6 Metro station \"V.D.N.Kh.\")....",
-                    "...It accepts overgound interchanges, no additional fare is needed if a ride was spent at Moscow Metro within previous 90 minutes....",
-                    "*...As Metro stations outside the city center are far apart in comparison to other cities, up to 4 kilometres (2.5 mi), a bus network radiates from each station to the surrounding residential zones....",
-                    "*...Trams still remain important in some districts as feeders to Metro stations....",
-                    "...The trams also provide important cross-links between metro lines, for example between Universitet station of Sokolnicheskaya Line (...",
-                    "...In addition, tram advocates have suggested that the new rapid transit services (metro to City, Butovo light metro, Monorail) would be more effective as at-grade tram lines and that the problems with trams are only due to poor management and operation, not the technical properties of trams....",
-                    "...The terminals are located close to the city center, along with the metro ringline 5 or close to it, and connect to a metro line to the centre of town....",
-                    "...During the 2010s, the Little Ring of the Moscow Railway was converted to be used for frequent passenger service; it is fully integrated with Moscow Metro; the passenger service started on September 10, 2016....",
-                    "...The Moskovskaya Okruzhnaya Zheleznaya Doroga formed a ring around the now-downtown Moscow since 1903, but only served as a non-electrified, fueled locomotive-only railway prior to reconstruction into MCC in 2010's.\nThe Moscow Central Circle is a 54-kilometre-long (34 mi) urban-metro railway orbital line that encircles historical Moscow....",
-                    "...MOZD is integrated as \"Line 14 of Moscow Metro\", and, while using railway-sized trains, can be perceived as \"S-train-design circle line\"....",
-                    "...The line is operated by the Moscow Government owned company MKZD through the Moscow Metro, with the Federal Government owned Russian Railways selected as the operation subcontractor....",
-                    "...There is one zero-fee interchange for any ticket used on Moscow Metro station less than 90 minutes before entering an MCC station (and vice versa: a passenger of MCC gets 1 free interchange to Moscow Metro within 90 minutes after entering MCC station)...",
-                    "...The construction of four new metro stations in the territory has been completed, two of which have opened and two others are reserved for future metro lines crossing MIBC, some additional stations were planned....",
-                    "...Three metro stations were initially planned for the Filyovskaya Line....",
-                    "...Line 4 of Moscow Metro had the longest time intervals between train arrivals (approximately 8 minutes for Mezhdunarodnaya and Vystavochnaya branch of line 4) throughout the 2010s...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     37.518105,
                     55.736343
                 ]
             },
             "properties": {
                 "entity": "Park Pobedy",
-                "name_location": "Victory Park, площадь Победы, Dorogomilovo District, Moscow, Central Federal District, 121170, Russia",
+                "name_location": "Victory Park, Кутузовский проспект, Dorogomilovo District, Moscow, Central Federal District, 121170, Russia",
                 "class": "railway",
                 "type": "station",
                 "snippet": [
@@ -1609,40 +1196,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.641426,
-                    55.821114
+                    37.641221,
+                    55.821117
                 ]
             },
             "properties": {
                 "entity": "VDNH",
-                "name_location": "VDNKh, проспект Мира, Ostankinsky District, Moscow, Central Federal District, 129366, Russia",
+                "name_location": "ВДНХ, проспект Мира (дублёр), Ostankinsky District, Moscow, Central Federal District, 129366, Russia",
                 "class": "railway",
-                "type": "station",
+                "type": "stop",
                 "snippet": [
                     "*...The line connects Timiryazevskaya metro station and Ulitsa Sergeya Eisensteina, passing close to VDNH (and Line 6 Metro station \"V.D.N.Kh.\")...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.561311,
-                    55.720617
-                ]
-            },
-            "properties": {
-                "entity": "Luzhniki",
-                "name_location": "Luzhniki, Third Ring Road, Luzhniki, Khamovniki District, Moscow, Central Federal District, 119270, Russia",
-                "class": "railway",
-                "type": "halt",
-                "snippet": [
-                    "...Moscow is home to 63 stadiums (besides eight football and eleven light athletics maneges), of which Luzhniki Stadium is the largest and the 4th biggest in Europe (it hosted the 1998–99 UEFA Cup, 2007–08 UEFA Champions League finals, the 1980 Summer Olympics, and the 2018 FIFA World Cup with 7 games total, including the final)....",
-                    "...The Luzhniki Stadium also hosted the 2013 Rugby World Cup Sevens....",
-                    "...When Russia was selected to host the 2018 FIFA World Cup, the Luzhniki Stadium got an increased capacity, by almost 10,000 new seats, in addition to a further two stadiums that have been built: the Dynamo Stadium, and the Spartak Stadium, although the first one later was dismissed from having World Cup matches....",
-                    "*...The cable car will connect the Luzhniki sports complex with Sparrow Hills and Kosygin Street....",
-                    "...The journey from the well-known viewpoint on Vorobyovy Gory to Luzhniki Stadium will last for five minutes instead of 20 minutes that one would have to spend on the same journey by car...."
                 ]
             }
         },
@@ -1671,15 +1235,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.533124,
-                    55.692727
+                    37.53326,
+                    55.692646
                 ]
             },
             "properties": {
                 "entity": "Universitet",
                 "name_location": "Universitet, проспект Вернадского (дублёр), Ramenki District, Moscow, Central Federal District, 119311, Russia",
                 "class": "railway",
-                "type": "stop",
+                "type": "station",
                 "snippet": [
                     "*...The trams also provide important cross-links between metro lines, for example between Universitet station of Sokolnicheskaya Line (...",
                     "*...The Apakov depot services the south-western part from the Varshavsky lane – Simferopolsky boulevard in the east to the Universitet station in the west and Boulevard lane at the center. This network is connected only by the four-way Dubininskaya and Kozhevnicheskaya streets. A second connection by Vostochnaya (Eastern) street was withdrawn in 1987 due to a fire at the Dinamo plant and has not been recovered, and remains lost (Avtozavodsky bridge) at 1992. The network may be serviced anyway by another depot (now route 35, 38)...."
@@ -1864,47 +1428,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.629166,
-                    55.73751
-                ]
-            },
-            "properties": {
-                "entity": "Asia",
-                "name_location": "Asia Visa Center, Pyatnitskaya Street, Zamoskvorechye District, Moscow, Central Federal District, 115035, Russia",
-                "class": "office",
-                "type": "visa",
-                "snippet": [
-                    "...The number of Illegal immigrants, the vast majority originating from Central Asia, is estimated to be an additional 1 million people, giving a total population of about 14.3 million....",
-                    "*...Each station handles trains from different parts of Europe and Asia...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.580633,
-                    55.775177
-                ]
-            },
-            "properties": {
-                "entity": "Belorussky",
-                "name_location": "Moscow Belorussky railway station, улица Грузинский Вал, Tverskoy District, Moscow, Central Federal District, 123056, Russia",
-                "class": "railway",
-                "type": "stop",
-                "snippet": [
-                    "...Smolensky Rail station (forerunner of present-day Belorussky Rail Terminal) was inaugurated in 1870....",
-                    "...Belorussky Rail Terminal ;...",
-                    "*...A connecting railway line on the North side of the town connects Belorussky terminal with other railway lines...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     37.495954,
                     55.654797
                 ]
@@ -1919,27 +1442,6 @@
                     "*...The Moskovskaya Okruzhnaya Zheleznaya Doroga formed a ring around the now-downtown Moscow since 1903, but only served as a non-electrified, fueled locomotive-only railway prior to reconstruction into MCC in 2010's.\nThe Moscow Central Circle is a 54-kilometre-long (34 mi) urban-metro railway orbital line that encircles historical Moscow....",
                     "*...However, in S-bahn way, Moscow unified tickets \"Ediniiy\" and \"Troika\" are accepted by MCC stations....",
                     "*...There is one zero-fee interchange for any ticket used on Moscow Metro station less than 90 minutes before entering an MCC station (and vice versa: a passenger of MCC gets 1 free interchange to Moscow Metro within 90 minutes after entering MCC station)..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.641031,
-                    55.729095
-                ]
-            },
-            "properties": {
-                "entity": "Moscow Railway",
-                "name_location": "Moscow Paveletsky railway station, Кожевническая улица, Zamoskvorechye District, Moscow, Central Federal District, 117998, Russia",
-                "class": "railway",
-                "type": "station",
-                "snippet": [
-                    "...During the 2010s, the Little Ring of the Moscow Railway was converted to be used for frequent passenger service; it is fully integrated with Moscow Metro; the passenger service started on September 10, 2016....",
-                    "...It was built alongside Little Ring of the Moscow Railway, taking some of its tracks into itself as well....",
-                    "*...Another system, which forms \"genuine S-Bahn\" as in \"suburbia-city-suburbia\"-designed railway, is the Moscow Central Diameters, a pass-through railways system, created by constructing bypasses from \"vokzals\" final stations (e.g. by avoiding the central stations of already existing Moscow Railway, used for both intercity and urban-suburban travel before) and forming a train line across Moscow's centre...."
                 ]
             }
         },
@@ -2045,36 +1547,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.772738,
-                    55.440776
-                ]
-            },
-            "properties": {
-                "entity": "Domodedovo",
-                "name_location": "Domodedovo, улица Огнеупорный Завод, Domodedovo, Domodedovsky District, Moscow Oblast, Central Federal District, 142000, Russia",
-                "class": "railway",
-                "type": "stop",
-                "snippet": [
-                    "...The highest temperature ever recorded was 38.2 °C (100.8 °F) at the VVC weather station and 39.0 °C (102.2 °F) in the center of Moscow and Domodedovo airport on July 29, 2010, during the unusual 2010 Northern Hemisphere summer heat waves....",
-                    "*...There are five primary commercial airports serving Moscow: Sheremetyevo (SVO), Domodedovo (DME), Vnukovo (VKO), Zhukovsky (ZIA), Ostafyevo (OSF).\nSheremetyevo International Airport is the most globally connected, handling 60% of all international flights....",
-                    "...Domodedovo International Airport is the leading airport in Russia in terms of passenger throughput and is the primary gateway to long-haul domestic and CIS destinations and its international traffic rivals Sheremetyevo....",
-                    "*...It is a hub for S7 airlines, and most of OneWorld and Star Alliance members use Domodedovo as their international hub....",
-                    "*...Moscow's airports vary in distances from the MKAD beltway: Domodedovo is the farthest at 22 km (14 mi); Vnukovo is 11 km (7 mi); Sheremetyevo is 10 km (6 mi); and Ostafievo, the nearest, is about 8 kilometres (5.0 mi) from MKAD.\nThere are a number of smaller airports close to Moscow (19 in Moscow Oblast) such as Myachkovo Airport, that are intended for private aircraft, helicopters and charters...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     37.273575,
                     55.599528
                 ]
             },
             "properties": {
                 "entity": "Vnukovo International Airport",
-                "name_location": "Vnukovo International Airport, Киевское шоссе, поселение Филимонковское, Moscow, Central Federal District, 119027, Russia",
+                "name_location": "Vnukovo International Airport, 4-я линия, СНТ «Заря-50», Постниково, поселение Марушкинское, Moscow, Central Federal District, 143350, Russia",
                 "class": "aeroway",
                 "type": "aerodrome",
                 "snippet": [
@@ -2098,28 +1577,6 @@
                 "type": "station",
                 "snippet": [
                     "*...Moscow has two passenger terminals, (South River Terminal and North River Terminal or Rechnoy vokzal), on the river and regular ship routes and cruises along the Moskva and Oka rivers, which are used mostly for entertainment...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.575253,
-                    55.715244
-                ]
-            },
-            "properties": {
-                "entity": "Third Ring",
-                "name_location": "Third Ring Road, Khamovniki District, Moscow, Central Federal District, 119334, Russia",
-                "class": "highway",
-                "type": "primary",
-                "snippet": [
-                    "...The Third Ring Road, intermediate between the early 19th-century Garden Ring and the Soviet-era outer ring road, was completed in 2004....",
-                    "...The Third Ring Road, was completed in 2003 as a high-speed freeway....",
-                    "...Situated in Presnensky District and located at the Third Ring, the Moscow City area is under intense development....",
-                    "...Major thoroughfares through MIBC are the Third Ring and Kutuzovsky Prospekt...."
                 ]
             }
         },

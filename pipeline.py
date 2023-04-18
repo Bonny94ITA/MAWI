@@ -10,7 +10,7 @@ logging.basicConfig(format='%(asctime)s - %(message)s', datefmt='%d-%b-%y %H:%M:
 
 trf = True
 type = 1
-lang = "it"
+lang = "en"
 
 path_articles1_it = f'input/articles1/it/texts/'
 path_articles1_en = f'input/articles1/en/texts/'

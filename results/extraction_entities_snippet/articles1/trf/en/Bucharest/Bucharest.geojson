@@ -6,38 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    26.09996,
-                    44.439431
-                ]
-            },
-            "properties": {
-                "entity": "Europe",
-                "name_location": "Credit Europe Bank, 25, Bulevardul Nicolae Bălcescu, Sector 1, Bucharest, 010045, Romania",
-                "class": "amenity",
-                "type": "bank",
-                "snippet": [
-                    "...It is described as the cultural, financial, entertainment, and media center in the country with a significant influence in Eastern and Southeastern Europe as well....",
-                    "...It is also one of the most populated cities of the European Union (EU) within city limits and the most populated capital in Southeastern Europe....",
-                    "*...It is one of the fastest-growing high-tech cities in Europe, according to the Financial Times, CBRE, TechCrunch, and others....",
-                    "...Bucharest hosts the largest high tech summit in South-Eastern Europe,  Romania Blockchain Summit....",
-                    "*...By 2050, certain economic studies reveal the fact that Bucharest will emerge as Europe's richest city in terms of GDP per capita, followed by Luxembourg City and Groningen....",
-                    "*...Furthermore, a new report by Grosvenor, revealed that Bucharest will already be the 3rd richest city in Europe by 2040....",
-                    "*...One of its best known locations are Hard Rock Cafe Bucharest and Berăria H (one of the largest beer halls in Europe)....",
-                    "*...Bucharest's public transport system is the largest in Romania and one of the largest in Europe....",
-                    "*...The overpass took five years to build and is the longest cable-stayed bridge in Romania and the widest such bridge in Europe; upon completion, traffic on the Grant Bridge and in the Gara de Nord area became noticeably more fluid....",
-                    "...In 2005, Bucharest was the first city in Southeastern Europe to host the international CowParade, which resulted in dozens of decorated cow sculptures being placed across the city....",
-                    "*...In 2004, Bucharest imposed in the circle of important festivals in Eastern Europe with the Bucharest International Film Festival, an event widely acknowledged in Europe, having as guests of honour famous names from the world Cinema: Andrei Konchalovsky, Danis Tanović, Nikita Mikhalkov, Rutger Hauer, Jerzy Skolimowski, Jan Harlan, Radu Mihăileanu, and many others....",
-                    "...Arena Națională, a new stadium inaugurated on 6 September 2011, hosted the 2012 Europa League Final and has a 55,600-seat capacity, making it one of the largest stadiums in Southeastern Europe and one of the few with a roof....",
-                    "*...Since 2009, Bucharest has the largest Ferrari Shop in Eastern Europe and the 2nd largest in Europe after Milan shop....",
-                    "...Octavian Morariu (b. 1961), President of Rugby Europe ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     26.102062,
                     44.430101
                 ]
@@ -70,27 +38,6 @@
                 "snippet": [
                     "...The extravagant architecture and cosmopolitan high culture of this period won Bucharest the nickname of 'Paris of the East' (Parisul Estului), with the Calea Victoriei as its Champs-Élysées....",
                     "*...Palatul Telefoanelor ('The Telephone Palace') was the first major modernist building on Calea Victoriei in the city's centre, and the massive, unfinished communist-era Casa Radio looms over a park a block away from the Opera...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    26.079279,
-                    44.466919
-                ]
-            },
-            "properties": {
-                "entity": "Arcul de Triumf",
-                "name_location": "Arcul de Triumf, Bulevardul Mareșal Constantin Prezan, Sector 1, Bucharest, 011448, Romania",
-                "class": "highway",
-                "type": "bus_stop",
-                "snippet": [
-                    "*...Also, some of the city's main landmarks were built in this period, including Arcul de Triumf and Palatul Telefoanelor....",
-                    "*...Another landmark in Bucharest is Arcul de Triumf (The Triumphal Arch), built in its current form in 1935 and modelled after the Arc de Triomphe in Paris....",
-                    "...Rugby games are held in different locations, but the most modern stadium is Arcul de Triumf Stadium, which is also home to the Romanian national rugby team...."
                 ]
             }
         },
@@ -261,8 +208,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    26.1037,
-                    44.432626
+                    26.103245,
+                    44.432415
                 ]
             },
             "properties": {
@@ -293,26 +240,6 @@
                     "*...The main railway station is Gara de Nord ('North Station'), which provides connections to all major cities in Romania, as well as international destinations: Belgrade, Sofia, Varna, Chișinău, Kyiv, Chernivtsi, Lviv, Thessaloniki, Vienna, Budapest, Istanbul, Moscow etc....",
                     "*...The overpass took five years to build and is the longest cable-stayed bridge in Romania and the widest such bridge in Europe; upon completion, traffic on the Grant Bridge and in the Gara de Nord area became noticeably more fluid....",
                     "...Many large-scale constructions such as the Gara de Nord, the busiest railway station in the city, National Bank of Romania's headquarters, and the Telephones Company Building date from these times...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    26.069497,
-                    44.450753
-                ]
-            },
-            "properties": {
-                "entity": "Basarab",
-                "name_location": "Basarab (M4), Șoseaua Nicolae Titulescu, Grivița, Sector 1, Bucharest, 011146, Romania",
-                "class": "railway",
-                "type": "subway_entrance",
-                "snippet": [
-                    "*...The city has five other railway stations run by CFR, of which the most important are Basarab (adjacent to North Station), Obor, Băneasa, and Progresul....",
-                    "...On 17 June 2011, the Basarab Overpass was inaugurated and opened to traffic, thus completing the inner city traffic ring...."
                 ]
             }
         },
@@ -458,26 +385,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    25.977359,
-                    44.434317
-                ]
-            },
-            "properties": {
-                "entity": "Black Sea",
-                "name_location": "Black Sea Suppliers, 367-379, Bulevardul Iuliu Maniu, Militari, Sector 6, Bucharest, 061129, Romania",
-                "class": "building",
-                "type": "commercial",
-                "snippet": [
-                    "...The unfinished Danube-Bucharest Canal, which is 73 km (45 mi) long and around 70% completed, could link Bucharest to the Danube River, and via the Danube-Black Sea Canal, to the Black Sea....",
-                    "*...Unlike other parts of Romania, such as the Black Sea coast or Transylvania, Bucharest's cultural scene has no defined style, and instead incorporates elements of Romanian and international culture...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     26.077394,
                     44.460795
                 ]
@@ -516,6 +423,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    26.097301,
+                    44.441304
+                ]
+            },
+            "properties": {
+                "entity": "Athenaeum",
+                "name_location": "Toggle the table of contents Romanian Athenaeum, 1-3, Strada Benjamin Franklin, Sector 1, Bucharest, 010287, Romania",
+                "class": "amenity",
+                "type": "arts_centre",
+                "snippet": [
+                    "*...The Romanian Athenaeum building is considered a symbol of Romanian culture and since 2007 has been on the list of the Label of European Heritage sites....",
+                    "...One of the most prominent buildings is the neoclassical Romanian Athenaeum, which was founded in 1852, and hosts classical music concerts, the George Enescu Festival, and is home to the George Enescu Philharmonic Orchestra...."
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     26.071243,
                     44.480913
                 ]
@@ -537,36 +464,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    26.114984,
-                    44.416563
-                ]
-            },
-            "properties": {
-                "entity": "Eastern Europe",
-                "name_location": "Netcentric Eastern Europe S.R.L, 165, Splaiul Unirii, Dudeşti, Sector 3, Bucharest, 030133, Romania",
-                "class": "office",
-                "type": "it",
-                "snippet": [
-                    "...Bucharest hosts the largest high tech summit in South-Eastern Europe,  Romania Blockchain Summit....",
-                    "*...In 2004, Bucharest imposed in the circle of important festivals in Eastern Europe with the Bucharest International Film Festival, an event widely acknowledged in Europe, having as guests of honour famous names from the world Cinema: Andrei Konchalovsky, Danis Tanović, Nikita Mikhalkov, Rutger Hauer, Jerzy Skolimowski, Jan Harlan, Radu Mihăileanu, and many others....",
-                    "*...Since 2009, Bucharest has the largest Ferrari Shop in Eastern Europe and the 2nd largest in Europe after Milan shop...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    26.105001,
-                    44.432208
+                    26.102093,
+                    44.432073
                 ]
             },
             "properties": {
                 "entity": "Lipscani",
-                "name_location": "Strada Lipscani, Centrul Istoric, Sector 3, Bucharest, 030038, Romania",
-                "class": "highway",
-                "type": "residential",
+                "name_location": "Antichitati Exponentialantik butik lipscani, 63-65, Strada Hanul cu Tei, Old Town, Sector 3, Bucharest, 030061, Romania",
+                "class": "shop",
+                "type": "antiques",
                 "snippet": [
                     "*...Sector 3 (population 399,231): Vitan, Dudești, Titan, Centrul Civic, Dristor, Lipscani, Muncii, Unirii ;...",
                     "*...With no central nightlife strip, entertainment venues are dispersed throughout the city, with clusters in Lipscani and Regie....",
@@ -824,7 +730,9 @@
                 "class": "leisure",
                 "type": "stadium",
                 "snippet": [
-                    "*...Rugby games are held in different locations, but the most modern stadium is Arcul de Triumf Stadium, which is also home to the Romanian national rugby team...."
+                    "*...Rugby games are held in different locations, but the most modern stadium is Arcul de Triumf Stadium, which is also home to the Romanian national rugby team....",
+                    "*...Also, some of the city's main landmarks were built in this period, including Arcul de Triumf and Palatul Telefoanelor....",
+                    "*...Another landmark in Bucharest is Arcul de Triumf (The Triumphal Arch), built in its current form in 1935 and modelled after the Arc de Triomphe in Paris...."
                 ]
             }
         }

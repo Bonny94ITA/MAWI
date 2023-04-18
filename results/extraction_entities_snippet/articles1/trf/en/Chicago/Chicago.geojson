@@ -6,26 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -87.668372,
-                    41.858133
-                ]
-            },
-            "properties": {
-                "entity": "Midwest",
-                "name_location": "Midwest, 1715, South Paulina Street, Lower West Side, Chicago, Cook County, Illinois, 60608, United States",
-                "class": "shop",
-                "type": "convenience",
-                "snippet": [
-                    "*...With a population of 2,746,388 in the 2020 census, it is also the most populous city in the Midwest....",
-                    "*...Greyhound Lines provides inter-city bus service to and from the city, and Chicago is also the hub for the Midwest network of Megabus (North America)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -87.624662,
                     41.885102
                 ]
@@ -86,7 +66,7 @@
             },
             "properties": {
                 "entity": "O'Hare International Airport",
-                "name_location": "O'Hare International Airport, 10000, North Basin Road, O'Hare, Chicago, Jefferson Township, Cook County, Illinois, 60666, United States",
+                "name_location": "O'Hare International Airport, 10000, Express Center Drive, O'Hare, Chicago, Jefferson Township, Cook County, Illinois, 60666, United States",
                 "class": "aeroway",
                 "type": "aerodrome",
                 "snippet": [
@@ -187,32 +167,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -87.624312,
-                    41.877488
-                ]
-            },
-            "properties": {
-                "entity": "Grant Park",
-                "name_location": "Grant Park South Garage (Exit), Printer's Row, Loop, Chicago, Cook County, Illinois, 60604, United States",
-                "class": "highway",
-                "type": "service",
-                "snippet": [
-                    "*...Landmarks in the city include Millennium Park, Navy Pier, the Magnificent Mile, Art Institute of Chicago, Museum Campus, Willis (Sears) Tower, Grant Park, Museum of Science and Industry, and Lincoln Park Zoo....",
-                    "*...Some of the parks along the waterfront include Lincoln Park, Grant Park, Burnham Park, and Jackson Park....",
-                    "*...Downtown is the center of Chicago's financial, cultural, governmental and commercial institutions and the site of Grant Park and many of the city's skyscrapers....",
-                    "*...In the summer, many outdoor concerts are given in Grant Park and Millennium Park....",
-                    "*...Grant Park holds Millennium Park, Buckingham Fountain (1927), and the Art Institute of Chicago....",
-                    "...Frank Gehry's detailed, stainless steel band shell, the Jay Pritzker Pavilion, hosts the classical Grant Park Music Festival concert series....",
-                    "*...The Museum Campus joins the southern section of Grant Park, which includes the renowned Art Institute of Chicago....",
-                    "*...In addition to ongoing beautification and renewal projects for the existing parks, a number of new parks have been added in recent years, such as the Ping Tom Memorial Park in Chinatown, DuSable Park on the Near North Side, and most notably, Millennium Park, which is in the northwestern corner of one of Chicago's oldest parks, Grant Park in the Chicago Loop.[citation needed]..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -87.63377,
                     41.921265
                 ]
@@ -224,7 +178,17 @@
                 "type": "zoo",
                 "snippet": [
                     "*...Landmarks in the city include Millennium Park, Navy Pier, the Magnificent Mile, Art Institute of Chicago, Museum Campus, Willis (Sears) Tower, Grant Park, Museum of Science and Industry, and Lincoln Park Zoo....",
-                    "...Lincoln Park contains the Lincoln Park Zoo and the Lincoln Park Conservatory...."
+                    "...Lincoln Park contains the Lincoln Park Zoo and the Lincoln Park Conservatory....",
+                    "*...He created Lincoln Park by closing a cemetery filled with shallow graves, and in 1867, in response to an outbreak of cholera he helped establish a new Chicago Board of Health....",
+                    "*...Some of the parks along the waterfront include Lincoln Park, Grant Park, Burnham Park, and Jackson Park....",
+                    "*...Lincoln Park contains the Lincoln Park Zoo and the Lincoln Park Conservatory....",
+                    "*...Renowned Chicago theater companies include the Goodman Theatre in the Loop; the Steppenwolf Theatre Company and Victory Gardens Theater in Lincoln Park; and the Chicago Shakespeare Theater at Navy Pier....",
+                    "*...Lincoln Park, the largest of the city's parks, covers 1,200 acres (490 ha) and has over 20 million visitors each year, making it third in the number of visitors after Central Park in New York City, and the National Mall and Memorial Parks in Washington, D.C....",
+                    "*...Several private schools are completely secular, such as the Latin School of Chicago in the Near North Side neighborhood, the University of Chicago Laboratory Schools in Hyde Park, the British School of Chicago and the Francis W. Parker School in Lincoln Park, the Lycée Français de Chicago in Uptown, the Feltre School in River North and the Morgan Park Academy.[citation needed]...",
+                    "...These issues also helped propel another Illinoisan, Abraham Lincoln, to the national stage....",
+                    "*...Lincoln was nominated in Chicago for US president at the 1860 Republican National Convention, which was held in a purpose-built auditorium called, the Wigwam....",
+                    "*...A scattering of diagonal streets, many of them originally Native American trails, also cross the city (Elston, Milwaukee, Ogden, Lincoln, etc.)....",
+                    "...More representational and portrait statuary includes a number of works by Lorado Taft (Fountain of Time, The Crusader, Eternal Silence, and the Heald Square Monument completed by Crunelle), French's Statue of the Republic, Edward Kemys's Lions, Saint-Gaudens's Abraham Lincoln: The Man (a.k.a. Standing Lincoln) and Abraham Lincoln: The Head of State (a.k.a. Seated Lincoln), Brioschi's Christopher Columbus, Meštrović's The Bowman and The Spearman, Dallin's Signal of Peace, Fairbanks's The Chicago Lincoln, Boyle's The Alarm, Polasek's memorial to Masaryk, memorials along Solidarity Promenade to Kościuszko, Havliček and Copernicus by Chodzinski, Strachovský, and Thorvaldsen, a memorial to General Logan by Saint-Gaudens, and Kearney's Moose (W-02-03)...."
                 ]
             }
         },
@@ -248,46 +212,6 @@
                     "*...The South Side neighborhood of Hyde Park is the home of former US President Barack Obama....",
                     "*...With an estimated completion date of 2020, the Barack Obama Presidential Center will be housed at the University of Chicago in Hyde Park and include both the Obama presidential library and offices of the Obama Foundation....",
                     "*...Several private schools are completely secular, such as the Latin School of Chicago in the Near North Side neighborhood, the University of Chicago Laboratory Schools in Hyde Park, the British School of Chicago and the Francis W. Parker School in Lincoln Park, the Lycée Français de Chicago in Uptown, the Feltre School in River North and the Morgan Park Academy.[citation needed]..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.626127,
-                    41.844525
-                ]
-            },
-            "properties": {
-                "entity": "South Side",
-                "name_location": "South Side Elevated, East 21st Street, Near South Side, Chicago, Cook County, Illinois, 60616, United States",
-                "class": "railway",
-                "type": "subway",
-                "snippet": [
-                    "*...Chicago is also home to the Barack Obama Presidential Center being built in Hyde Park on the city's South Side....",
-                    "...The city grew significantly in size and population by incorporating many neighboring townships between 1851 and 1920, with the largest annexation happening in 1889, with five townships joining the city, including the Hyde Park Township, which now comprises most of the South Side of Chicago and the far southeast of Chicago, and the Jefferson Township, which now makes up most of Chicago's Northwest Side....",
-                    "*...The University of Chicago, formerly at another location, moved to the same South Side location in 1892....",
-                    "...Notably, industrial areas on the south side and neighborhoods lining both branches of the Chicago River were devastated; by 1933 over 50% of industrial jobs in the city had been lost, and unemployment rates amongst blacks and Mexicans in the city were over 40%....",
-                    "*...In addition to it lying beside Lake Michigan, two rivers—the Chicago River in downtown and the Calumet River in the industrial far South Side—flow either entirely or partially through the city....",
-                    "...While the Chicago River historically handled much of the region's waterborne cargo, today's huge lake freighters use the city's Lake Calumet Harbor on the South Side....",
-                    "...While measurements vary somewhat, the lowest points are along the lake shore at 578 ft (176.2 m), while the highest point, at 672 ft (205 m), is the morainal ridge of Blue Island in the city's far south side....",
-                    "...The South Side is the largest section of the city, encompassing roughly 60% of the city's land area....",
-                    "...The South Side contains most of the facilities of the Port of Chicago....",
-                    "...Industrial districts, such as some areas on the South Side, the areas along the Chicago Sanitary and Ship Canal, and the Northwest Indiana area are clustered....",
-                    "*...In the 1920s and 1930s, the great majority of African Americans moving to Chicago settled in a so‑called \"Black Belt\" on the city's South Side....",
-                    "*...Chicago's South Side emerged as United States second-largest urban black concentration, following New York's Harlem....",
-                    "*...In 1990, Chicago's South Side and the adjoining south suburbs constituted the largest black majority region in the entire United States....",
-                    "...The central area includes the Near North Side, the Near South Side, and the Near West Side, as well as the Loop....",
-                    "*...The South Side neighborhood of Hyde Park is the home of former US President Barack Obama....",
-                    "...The 6-mile (9.7 km) long Burnham Park stretches along the waterfront of the South Side....",
-                    "...The South Side hosts one of the city's largest parades, the annual African American Bud Billiken Parade and Picnic, which travels through Bronzeville to Washington Park....",
-                    "...Ford Motor Company has an automobile assembly plant on the South Side in Hegewisch, and most of the facilities of the Port of Chicago are also on the South Side.[citation needed]...",
-                    "...Chicago has the third most franchises in the four major North American sports leagues with five, behind the New York and Los Angeles Metropolitan Areas, and have six top-level professional sports clubs when including Chicago Fire FC of Major League Soccer (MLS).[citation needed]\nThe city has two Major League Baseball (MLB) teams: the Chicago Cubs of the National League play in Wrigley Field on the North Side; and the Chicago White Sox of the American League play in Guaranteed Rate Field on the South Side....",
-                    "...The White Sox have played on the South Side continuously since 1901, with all three of their home fields throughout the years being within blocks of one another....",
-                    "...The park is listed on the National Register of Historic Places listings in South Side Chicago.[citation needed]...",
-                    "...The Obamas' residence is located near the University of Chicago in Kenwood on the city's south side...."
                 ]
             }
         },
@@ -380,52 +304,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -87.639195,
-                    41.932492
-                ]
-            },
-            "properties": {
-                "entity": "Lincoln Park",
-                "name_location": "Lincoln Park, North Lakeview Avenue, Lincoln Park, Chicago, Lake View Township, Cook County, Illinois, 60614, United States",
-                "class": "tourism",
-                "type": "information",
-                "snippet": [
-                    "...Landmarks in the city include Millennium Park, Navy Pier, the Magnificent Mile, Art Institute of Chicago, Museum Campus, Willis (Sears) Tower, Grant Park, Museum of Science and Industry, and Lincoln Park Zoo....",
-                    "*...He created Lincoln Park by closing a cemetery filled with shallow graves, and in 1867, in response to an outbreak of cholera he helped establish a new Chicago Board of Health....",
-                    "*...Some of the parks along the waterfront include Lincoln Park, Grant Park, Burnham Park, and Jackson Park....",
-                    "*...Lincoln Park contains the Lincoln Park Zoo and the Lincoln Park Conservatory....",
-                    "*...Renowned Chicago theater companies include the Goodman Theatre in the Loop; the Steppenwolf Theatre Company and Victory Gardens Theater in Lincoln Park; and the Chicago Shakespeare Theater at Navy Pier....",
-                    "*...Lincoln Park, the largest of the city's parks, covers 1,200 acres (490 ha) and has over 20 million visitors each year, making it third in the number of visitors after Central Park in New York City, and the National Mall and Memorial Parks in Washington, D.C....",
-                    "*...Several private schools are completely secular, such as the Latin School of Chicago in the Near North Side neighborhood, the University of Chicago Laboratory Schools in Hyde Park, the British School of Chicago and the Francis W. Parker School in Lincoln Park, the Lycée Français de Chicago in Uptown, the Feltre School in River North and the Morgan Park Academy.[citation needed]..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.586794,
-                    41.787028
-                ]
-            },
-            "properties": {
-                "entity": "Jackson Park",
-                "name_location": "Jackson Park, South Stony Island Avenue, Hyde Park, Chicago, Hyde Park Township, Cook County, Illinois, 60649, United States",
-                "class": "tourism",
-                "type": "information",
-                "snippet": [
-                    "*...In 1893, Chicago hosted the World's Columbian Exposition on former marshland at the present location of Jackson Park....",
-                    "*...Some of the parks along the waterfront include Lincoln Park, Grant Park, Burnham Park, and Jackson Park....",
-                    "*...Two of the city's largest parks are also located on this side of the city: Jackson Park, bordering the waterfront, hosted the World's Columbian Exposition in 1893, and is the site of the aforementioned museum; and slightly west sits Washington Park...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -87.605873,
                     41.786882
                 ]
@@ -457,60 +335,6 @@
                 "type": "place_of_worship",
                 "snippet": [
                     "*...In the spring of 1937 Republic Steel Works witnessed the Memorial Day massacre of 1937 in the neighborhood of East Side...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.624949,
-                    41.879915
-                ]
-            },
-            "properties": {
-                "entity": "South",
-                "name_location": "122 South Michigan, 122, South Michigan Avenue, Printer's Row, Loop, Chicago, Cook County, Illinois, 60603, United States",
-                "class": "building",
-                "type": "office",
-                "snippet": [
-                    "...Chicago is also home to the Barack Obama Presidential Center being built in Hyde Park on the city's South Side....",
-                    "...The city grew significantly in size and population by incorporating many neighboring townships between 1851 and 1920, with the largest annexation happening in 1889, with five townships joining the city, including the Hyde Park Township, which now comprises most of the South Side of Chicago and the far southeast of Chicago, and the Jefferson Township, which now makes up most of Chicago's Northwest Side....",
-                    "...The University of Chicago, formerly at another location, moved to the same South Side location in 1892....",
-                    "...Notably, industrial areas on the south side and neighborhoods lining both branches of the Chicago River were devastated; by 1933 over 50% of industrial jobs in the city had been lost, and unemployment rates amongst blacks and Mexicans in the city were over 40%....",
-                    "*...The Great Migration, which had been on pause due to the Depression, resumed at an even faster pace in the second wave, as hundreds of thousands of blacks from the South arrived in the city to work in the steel mills, railroads, and shipping yards....",
-                    "...In addition to it lying beside Lake Michigan, two rivers—the Chicago River in downtown and the Calumet River in the industrial far South Side—flow either entirely or partially through the city....",
-                    "...While the Chicago River historically handled much of the region's waterborne cargo, today's huge lake freighters use the city's Lake Calumet Harbor on the South Side....",
-                    "...While measurements vary somewhat, the lowest points are along the lake shore at 578 ft (176.2 m), while the highest point, at 672 ft (205 m), is the morainal ridge of Blue Island in the city's far south side....",
-                    "*...Major sections of the city include the central business district, called The Loop, and the North, South, and West Sides....",
-                    "...The South Side is the largest section of the city, encompassing roughly 60% of the city's land area....",
-                    "...The South Side contains most of the facilities of the Port of Chicago....",
-                    "...Chicago's streets were laid out in a street grid that grew from the city's original townsite plot, which was bounded by Lake Michigan on the east, North Avenue on the north, Wood Street on the west, and 22nd Street on the south....",
-                    "...The Merchandise Mart, once first on the list of largest buildings in the world, currently listed as 44th-largest (as of 9 September 2013[update]), had its own zip code until 2008, and stands near the junction of the North and South branches of the Chicago River....",
-                    "...Industrial districts, such as some areas on the South Side, the areas along the Chicago Sanitary and Ship Canal, and the Northwest Indiana area are clustered....",
-                    "...Northeast winds from wintertime cyclones departing south of the region sometimes bring the city lake-effect snow....",
-                    "...To these ethnic groups, the basis of the city's industrial working class, were added an additional influx of African Americans from the American South—with Chicago's black population doubling between 1910 and 1920 and doubling again between 1920 and 1930....",
-                    "...In the 1920s and 1930s, the great majority of African Americans moving to Chicago settled in a so‑called \"Black Belt\" on the city's South Side....",
-                    "...Chicago's South Side emerged as United States second-largest urban black concentration, following New York's Harlem....",
-                    "...In 1990, Chicago's South Side and the adjoining south suburbs constituted the largest black majority region in the entire United States....",
-                    "...Moreover, the construction of the Illinois and Michigan Canal, which helped move goods from the Great Lakes south on the Mississippi River, and of the railroads in the 19th century made the city a major transportation center in the United States....",
-                    "...Over a third of the city population is concentrated in the lakefront neighborhoods from Rogers Park in the north to South Shore in the south....",
-                    "...These districts include the Mexican American neighborhoods, such as Pilsen along 18th street, and La Villita along 26th Street; the Puerto Rican enclave of Paseo Boricua in the Humboldt Park neighborhood; Greektown, along South Halsted Street, immediately west of downtown; Little Italy, along Taylor Street; Chinatown in Armour Square; Polish Patches in West Town; Little Seoul in Albany Park around Lawrence Avenue; Little Vietnam near Broadway in Uptown; and the Desi area, along Devon Avenue in West Ridge....",
-                    "...The central area includes the Near North Side, the Near South Side, and the Near West Side, as well as the Loop....",
-                    "...The South Side neighborhood of Hyde Park is the home of former US President Barack Obama....",
-                    "...The 6-mile (9.7 km) long Burnham Park stretches along the waterfront of the South Side....",
-                    "...The South Side hosts one of the city's largest parades, the annual African American Bud Billiken Parade and Picnic, which travels through Bronzeville to Washington Park....",
-                    "...Ford Motor Company has an automobile assembly plant on the South Side in Hegewisch, and most of the facilities of the Port of Chicago are also on the South Side.[citation needed]...",
-                    "...Most conventions are held at McCormick Place, just south of Soldier Field....",
-                    "...Chicago has the third most franchises in the four major North American sports leagues with five, behind the New York and Los Angeles Metropolitan Areas, and have six top-level professional sports clubs when including Chicago Fire FC of Major League Soccer (MLS).[citation needed]\nThe city has two Major League Baseball (MLB) teams: the Chicago Cubs of the National League play in Wrigley Field on the North Side; and the Chicago White Sox of the American League play in Guaranteed Rate Field on the South Side....",
-                    "...The White Sox have played on the South Side continuously since 1901, with all three of their home fields throughout the years being within blocks of one another....",
-                    "...The park is listed on the National Register of Historic Places listings in South Side Chicago.[citation needed]...",
-                    "...The Obamas' residence is located near the University of Chicago in Kenwood on the city's south side....",
-                    "...Metra, the nation's second-most used passenger regional rail network, operates an 11-line commuter rail service in Chicago and throughout the Chicago suburbs. The Metra Electric Line shares its trackage with Northern Indiana Commuter Transportation District's South Shore Line, which provides commuter service between South Bend and Chicago....",
-                    "...Their service territory borders Iroquois County to the south, the Wisconsin border to the north, the Iowa border to the west and the Indiana border to the east....",
-                    "...Durban (South Africa) 1997 ;...",
-                    "...Busan (South Korea) 2007 ;..."
                 ]
             }
         },
@@ -564,28 +388,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -87.612367,
-                    41.853342
-                ]
-            },
-            "properties": {
-                "entity": "McCormick Place",
-                "name_location": "McCormick Place, Freight Docks North, Near South Side, Chicago, Cook County, Illinois, 60616, United States",
-                "class": "amenity",
-                "type": "exhibition_centre",
-                "snippet": [
-                    "*...Major construction projects, including the Sears Tower (now known as the Willis Tower, which in 1974 became the world's tallest building), University of Illinois at Chicago, McCormick Place, and O'Hare International Airport, were undertaken during Richard J. Daley's tenure....",
-                    "...Landfill extends into portions of the lake providing space for Navy Pier, Northerly Island, the Museum Campus, and large portions of the McCormick Place Convention Center....",
-                    "*...The city's main convention center is McCormick Place....",
-                    "*...Most conventions are held at McCormick Place, just south of Soldier Field...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -87.639396,
                     41.889082
                 ]
@@ -605,56 +407,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -87.626431,
-                    41.877787
-                ]
-            },
-            "properties": {
-                "entity": "Loop",
-                "name_location": "DePaul University (the Loop Campus), East Jackson Boulevard, Printer's Row, Loop, Chicago, Cook County, Illinois, 60604, United States",
-                "class": "amenity",
-                "type": "university",
-                "snippet": [
-                    "*...In 1992, a construction accident near the Kinzie Street Bridge produced a breach connecting the Chicago River to a tunnel below, which was part of an abandoned freight tunnel system extending throughout the downtown Loop district....",
-                    "...While the Chicago Loop is the central business district, Chicago is also a city of neighborhoods....",
-                    "...Major sections of the city include the central business district, called The Loop, and the North, South, and West Sides....",
-                    "*...The Loop's historic buildings include the Chicago Board of Trade Building, the Fine Arts Building, 35 East Wacker, and the Chicago Building, 860-880 Lake Shore Drive Apartments by Mies van der Rohe....",
-                    "*...Finally, two fountains near the Loop also function as monumental works of art: Plensa's Crown Fountain as well as Burnham and Bennett's Buckingham Fountain.[citation needed]...",
-                    "...The city claims three Dow 30 companies: aerospace giant Boeing, which moved its headquarters from Seattle to the Chicago Loop in 2001, McDonald's and Walgreens Boots Alliance....",
-                    "*...In 2022, Kellogg's announced that the new spin-off of its snack business will move to the Chicago area, and Google announced a major real estate acquisition and expansion in the Loop....",
-                    "...Many of the city's financial institutions, such as the CBOT and the Federal Reserve Bank of Chicago, are located within a section of downtown called \"The Loop\", which is an eight-block by five-block area of city streets that is encircled by elevated rail tracks....",
-                    "...The term \"The Loop\" is largely used by locals to refer to the entire downtown area as well....",
-                    "*...The central area includes the Near North Side, the Near South Side, and the Near West Side, as well as the Loop....",
-                    "*...Renowned Chicago theater companies include the Goodman Theatre in the Loop; the Steppenwolf Theatre Company and Victory Gardens Theater in Lincoln Park; and the Chicago Shakespeare Theater at Navy Pier...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.543352,
-                    41.720149
-                ]
-            },
-            "properties": {
-                "entity": "Calumet River",
-                "name_location": "Calumet River Lift Bridge, Chicago Skyway, Vet's Park, South Deering, Chicago, Hyde Park Township, Cook County, Illinois, 60617, United States",
-                "class": "bridge",
-                "type": "movable",
-                "snippet": [
-                    "...In addition to it lying beside Lake Michigan, two rivers—the Chicago River in downtown and the Calumet River in the industrial far South Side—flow either entirely or partially through the city....",
-                    "...Iroquois Landing Lakefront Terminal: at the mouth of the Calumet River, it includes 100 acres (0.40 km2) of warehouses and facilities on Lake Michigan with over 780,000 square meters (8,400,000 square feet) of storage....",
-                    "...Lake Calumet terminal: located at the union of the Grand Calumet River and Little Calumet River 6 miles (9.7 km) inland from Lake Michigan. Includes three transit sheds totaling over 29,000 square meters (310,000 square feet) adjacent to over 900 linear meters (3,000 linear feet) of ship and barge berthing...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -87.654963,
                     41.865135
                 ]
@@ -666,46 +418,6 @@
                 "type": "tertiary",
                 "snippet": [
                     "*...While measurements vary somewhat, the lowest points are along the lake shore at 578 ft (176.2 m), while the highest point, at 672 ft (205 m), is the morainal ridge of Blue Island in the city's far south side...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.63025,
-                    41.879051
-                ]
-            },
-            "properties": {
-                "entity": "Chicago Loop",
-                "name_location": "Chicago Loop Post Office, 211, South Clark Street, Printer's Row, Loop, Chicago, Cook County, Illinois, 60604, United States",
-                "class": "amenity",
-                "type": "post_office",
-                "snippet": [
-                    "...While the Chicago Loop is the central business district, Chicago is also a city of neighborhoods....",
-                    "...The city claims three Dow 30 companies: aerospace giant Boeing, which moved its headquarters from Seattle to the Chicago Loop in 2001, McDonald's and Walgreens Boots Alliance...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.652704,
-                    41.983707
-                ]
-            },
-            "properties": {
-                "entity": "Lake Shore Drive",
-                "name_location": "North Jean Baptiste Point DuSable Lake Shore Drive, Edgewater, Chicago, Lake View Township, Cook County, Illinois, 60660, United States",
-                "class": "highway",
-                "type": "motorway",
-                "snippet": [
-                    "*...Lake Shore Drive runs adjacent to a large portion of Chicago's waterfront....",
-                    "...The Loop's historic buildings include the Chicago Board of Trade Building, the Fine Arts Building, 35 East Wacker, and the Chicago Building, 860-880 Lake Shore Drive Apartments by Mies van der Rohe...."
                 ]
             }
         },
@@ -785,69 +497,10 @@
                 "class": "amenity",
                 "type": "conference_centre",
                 "snippet": [
-                    "...Landfill extends into portions of the lake providing space for Navy Pier, Northerly Island, the Museum Campus, and large portions of the McCormick Place Convention Center...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.622967,
-                    41.883768
-                ]
-            },
-            "properties": {
-                "entity": "North",
-                "name_location": "Chase Promenade North, Loop, Chicago, Cook County, Illinois, United States",
-                "class": "highway",
-                "type": "pedestrian",
-                "snippet": [
-                    "...In 1883, Chicago's railway managers needed a general time convention, so they developed the standardized system of North American time zones....",
-                    "...Chicago was the location of the infamous St. Valentine's Day Massacre in 1929, when Al Capone sent men to gun down members of a rival gang, North Side, led by Bugs Moran....",
-                    "*...Major sections of the city include the central business district, called The Loop, and the North, South, and West Sides....",
-                    "...The North Side is the most-densely-populated residential section of the city, and many high-rises are located on this side of the city along the lakefront....",
-                    "...Chicago's streets were laid out in a street grid that grew from the city's original townsite plot, which was bounded by Lake Michigan on the east, North Avenue on the north, Wood Street on the west, and 22nd Street on the south....",
-                    "*...The Merchandise Mart, once first on the list of largest buildings in the world, currently listed as 44th-largest (as of 9 September 2013[update]), had its own zip code until 2008, and stands near the junction of the North and South branches of the Chicago River....",
-                    "...In addition to Boeing, which located its headquarters in Chicago in 2001, and United Airlines in 2011, GE Transportation moved its offices to the city in 2013 and GE Healthcare moved its HQ to the city in 2016, as did ThyssenKrupp North America, and agriculture giant Archer Daniels Midland....",
-                    "...Over a third of the city population is concentrated in the lakefront neighborhoods from Rogers Park in the north to South Shore in the south....",
-                    "...The central area includes the Near North Side, the Near South Side, and the Near West Side, as well as the Loop....",
-                    "...The River North Gallery District features the nation's largest concentration of contemporary art galleries outside of New York City.[citation needed]...",
-                    "...North Halsted Street is the main thoroughfare of Boystown....",
-                    "...Ravinia Festival, located 25 miles (40 km) north of Chicago, is the summer home of the CSO, and is a favorite destination for many Chicagoans....",
-                    "...Chicago has the third most franchises in the four major North American sports leagues with five, behind the New York and Los Angeles Metropolitan Areas, and have six top-level professional sports clubs when including Chicago Fire FC of Major League Soccer (MLS).[citation needed]\nThe city has two Major League Baseball (MLB) teams: the Chicago Cubs of the National League play in Wrigley Field on the North Side; and the Chicago White Sox of the American League play in Guaranteed Rate Field on the South Side....",
-                    "...In addition to ongoing beautification and renewal projects for the existing parks, a number of new parks have been added in recent years, such as the Ping Tom Memorial Park in Chinatown, DuSable Park on the Near North Side, and most notably, Millennium Park, which is in the northwestern corner of one of Chicago's oldest parks, Grant Park in the Chicago Loop.[citation needed]...",
-                    "...Several private schools are completely secular, such as the Latin School of Chicago in the Near North Side neighborhood, the University of Chicago Laboratory Schools in Hyde Park, the British School of Chicago and the Francis W. Parker School in Lincoln Park, the Lycée Français de Chicago in Uptown, the Feltre School in River North and the Morgan Park Academy.[citation needed]...",
-                    "...Other notable schools include: Chicago State University; the School of the Art Institute of Chicago; East–West University; National Louis University; North Park University; Northeastern Illinois University; Robert Morris University Illinois; Roosevelt University; Saint Xavier University; Rush University; and Shimer College....",
-                    "...The Chicago metropolitan area is the third-largest media market in North America, after New York City and Los Angeles and a major media hub....",
-                    "...Greyhound Lines provides inter-city bus service to and from the city, and Chicago is also the hub for the Midwest network of Megabus (North America)....",
-                    "...Their service territory borders Iroquois County to the south, the Wisconsin border to the north, the Iowa border to the west and the Indiana border to the east....",
-                    "...In addition, the Chicago Medical School and Loyola University Chicago's Stritch School of Medicine are located in the suburbs of North Chicago and Maywood, respectively...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.658584,
-                    41.972483
-                ]
-            },
-            "properties": {
-                "entity": "North Side",
-                "name_location": "North Side Main Line, West Ainslie Street, Asia on Argyle, Uptown, Chicago, Lake View Township, Cook County, Illinois, 60640, United States",
-                "class": "railway",
-                "type": "subway",
-                "snippet": [
-                    "*...Chicago was the location of the infamous St. Valentine's Day Massacre in 1929, when Al Capone sent men to gun down members of a rival gang, North Side, led by Bugs Moran....",
-                    "*...The North Side is the most-densely-populated residential section of the city, and many high-rises are located on this side of the city along the lakefront....",
-                    "...The central area includes the Near North Side, the Near South Side, and the Near West Side, as well as the Loop....",
-                    "...Chicago has the third most franchises in the four major North American sports leagues with five, behind the New York and Los Angeles Metropolitan Areas, and have six top-level professional sports clubs when including Chicago Fire FC of Major League Soccer (MLS).[citation needed]\nThe city has two Major League Baseball (MLB) teams: the Chicago Cubs of the National League play in Wrigley Field on the North Side; and the Chicago White Sox of the American League play in Guaranteed Rate Field on the South Side....",
-                    "...In addition to ongoing beautification and renewal projects for the existing parks, a number of new parks have been added in recent years, such as the Ping Tom Memorial Park in Chinatown, DuSable Park on the Near North Side, and most notably, Millennium Park, which is in the northwestern corner of one of Chicago's oldest parks, Grant Park in the Chicago Loop.[citation needed]...",
-                    "...Several private schools are completely secular, such as the Latin School of Chicago in the Near North Side neighborhood, the University of Chicago Laboratory Schools in Hyde Park, the British School of Chicago and the Francis W. Parker School in Lincoln Park, the Lycée Français de Chicago in Uptown, the Feltre School in River North and the Morgan Park Academy.[citation needed]..."
+                    "...Landfill extends into portions of the lake providing space for Navy Pier, Northerly Island, the Museum Campus, and large portions of the McCormick Place Convention Center....",
+                    "*...Major construction projects, including the Sears Tower (now known as the Willis Tower, which in 1974 became the world's tallest building), University of Illinois at Chicago, McCormick Place, and O'Hare International Airport, were undertaken during Richard J. Daley's tenure....",
+                    "*...The city's main convention center is McCormick Place....",
+                    "*...Most conventions are held at McCormick Place, just south of Soldier Field...."
                 ]
             }
         },
@@ -862,7 +515,7 @@
             },
             "properties": {
                 "entity": "North Avenue",
-                "name_location": "North Avenue, Austin, Elmwood Park, Leyden Township, Cook County, Illinois, 60305, United States",
+                "name_location": "North Avenue, Austin, Elmwood Park, Leyden Township, Cook County, Illinois, 60707, United States",
                 "class": "highway",
                 "type": "primary",
                 "snippet": [
@@ -894,13 +547,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -87.628218,
-                    41.495257
+                    -87.842025,
+                    42.319336
                 ]
             },
             "properties": {
                 "entity": "22nd Street",
-                "name_location": "22nd Street, Chicago Heights, Bloom Township, Cook County, Illinois, 60411, United States",
+                "name_location": "22nd Street, North Chicago, Lake County, Illinois, 60064, United States",
                 "class": "highway",
                 "type": "residential",
                 "snippet": [
@@ -913,8 +566,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -87.656557,
-                    41.897088
+                    -87.658503,
+                    41.903643
                 ]
             },
             "properties": {
@@ -924,55 +577,6 @@
                 "type": "secondary",
                 "snippet": [
                     "*...A scattering of diagonal streets, many of them originally Native American trails, also cross the city (Elston, Milwaukee, Ogden, Lincoln, etc.)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.629075,
-                    41.900257
-                ]
-            },
-            "properties": {
-                "entity": "Ogden",
-                "name_location": "Ogden Elementary School, 24, West Walton Street, Magnificent Mile, Near North Side, Chicago, Cook County, Illinois, 60610, United States",
-                "class": "amenity",
-                "type": "school",
-                "snippet": [
-                    "*...A scattering of diagonal streets, many of them originally Native American trails, also cross the city (Elston, Milwaukee, Ogden, Lincoln, etc.)....",
-                    "...Many additional diagonal streets were recommended in the Plan of Chicago, but only the extension of Ogden Avenue was ever constructed...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.680042,
-                    41.92762
-                ]
-            },
-            "properties": {
-                "entity": "Lincoln",
-                "name_location": "Fox Motors, 2501, North Elston Avenue, Logan Square, Chicago, Cook County, Illinois, 60647, United States",
-                "class": "shop",
-                "type": "car",
-                "snippet": [
-                    "...Landmarks in the city include Millennium Park, Navy Pier, the Magnificent Mile, Art Institute of Chicago, Museum Campus, Willis (Sears) Tower, Grant Park, Museum of Science and Industry, and Lincoln Park Zoo....",
-                    "...These issues also helped propel another Illinoisan, Abraham Lincoln, to the national stage....",
-                    "*...Lincoln was nominated in Chicago for US president at the 1860 Republican National Convention, which was held in a purpose-built auditorium called, the Wigwam....",
-                    "...He created Lincoln Park by closing a cemetery filled with shallow graves, and in 1867, in response to an outbreak of cholera he helped establish a new Chicago Board of Health....",
-                    "...Some of the parks along the waterfront include Lincoln Park, Grant Park, Burnham Park, and Jackson Park....",
-                    "*...A scattering of diagonal streets, many of them originally Native American trails, also cross the city (Elston, Milwaukee, Ogden, Lincoln, etc.)....",
-                    "...More representational and portrait statuary includes a number of works by Lorado Taft (Fountain of Time, The Crusader, Eternal Silence, and the Heald Square Monument completed by Crunelle), French's Statue of the Republic, Edward Kemys's Lions, Saint-Gaudens's Abraham Lincoln: The Man (a.k.a. Standing Lincoln) and Abraham Lincoln: The Head of State (a.k.a. Seated Lincoln), Brioschi's Christopher Columbus, Meštrović's The Bowman and The Spearman, Dallin's Signal of Peace, Fairbanks's The Chicago Lincoln, Boyle's The Alarm, Polasek's memorial to Masaryk, memorials along Solidarity Promenade to Kościuszko, Havliček and Copernicus by Chodzinski, Strachovský, and Thorvaldsen, a memorial to General Logan by Saint-Gaudens, and Kearney's Moose (W-02-03)....",
-                    "...Lincoln Park contains the Lincoln Park Zoo and the Lincoln Park Conservatory....",
-                    "...Renowned Chicago theater companies include the Goodman Theatre in the Loop; the Steppenwolf Theatre Company and Victory Gardens Theater in Lincoln Park; and the Chicago Shakespeare Theater at Navy Pier....",
-                    "...Lincoln Park, the largest of the city's parks, covers 1,200 acres (490 ha) and has over 20 million visitors each year, making it third in the number of visitors after Central Park in New York City, and the National Mall and Memorial Parks in Washington, D.C....",
-                    "...Several private schools are completely secular, such as the Latin School of Chicago in the Near North Side neighborhood, the University of Chicago Laboratory Schools in Hyde Park, the British School of Chicago and the Francis W. Parker School in Lincoln Park, the Lycée Français de Chicago in Uptown, the Feltre School in River North and the Morgan Park Academy.[citation needed]..."
                 ]
             }
         },
@@ -991,7 +595,8 @@
                 "class": "highway",
                 "type": "primary",
                 "snippet": [
-                    "*...Many additional diagonal streets were recommended in the Plan of Chicago, but only the extension of Ogden Avenue was ever constructed...."
+                    "*...Many additional diagonal streets were recommended in the Plan of Chicago, but only the extension of Ogden Avenue was ever constructed....",
+                    "*...A scattering of diagonal streets, many of them originally Native American trails, also cross the city (Elston, Milwaukee, Ogden, Lincoln, etc.)...."
                 ]
             }
         },
@@ -1058,8 +663,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -87.644079,
-                    41.900073
+                    -87.641906,
+                    41.900434
                 ]
             },
             "properties": {
@@ -1078,8 +683,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -87.625351,
-                    41.891
+                    -87.625373,
+                    41.891637
                 ]
             },
             "properties": {
@@ -1310,25 +915,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -87.674185,
-                    41.880683
-                ]
-            },
-            "properties": {
-                "entity": "United Center",
-                "name_location": "United Center, 1901, West Madison Street, Near West Side, Chicago, Cook County, Illinois, 60612, United States",
-                "class": "leisure",
-                "type": "stadium",
-                "snippet": [
-                    "...A number of statues also honor recent local heroes such as Michael Jordan (by Amrany and Rotblatt-Amrany), Stan Mikita, and Bobby Hull outside of the United Center; Harry Caray (by Amrany and Cella) outside Wrigley field, Jack Brickhouse (by McKenna) next to the WGN studios,[citation needed] and Irv Kupcinet at the Wabash Avenue Bridge...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -87.762406,
                     41.943191
                 ]
@@ -1358,51 +944,13 @@
                 "class": "amenity",
                 "type": "parking",
                 "snippet": [
-                    "*...Midway Airport reached 109 °F (43 °C) one day prior and recorded a heat index of 125 °F (52 °C) during the 1995 heatwave...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.88298,
-                    41.977717
-                ]
-            },
-            "properties": {
-                "entity": "O'Hare Airport",
-                "name_location": "O'Hare Airport Transit System, O'Hare Way, O'Hare, Chicago, Jefferson Township, Cook County, Illinois, 60666, United States",
-                "class": "railway",
-                "type": "light_rail",
-                "snippet": [
-                    "...In 1956, the city conducted its last major expansion when it annexed the land under O'Hare airport, including a small portion of DuPage County....",
-                    "*...The lowest official temperature of −27 °F (−33 °C) was recorded on January 20, 1985, at O'Hare Airport....",
-                    "*...In 1956, the city conducted its last major expansion when it annexed the land under O'Hare airport, including a small portion of DuPage County...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.675612,
-                    41.878478
-                ]
-            },
-            "properties": {
-                "entity": "West Side",
-                "name_location": "West Side Community Church, 1937, West Adams Street, Near West Side, Chicago, Cook County, Illinois, 60612, United States",
-                "class": "amenity",
-                "type": "place_of_worship",
-                "snippet": [
-                    "...A large number of blacks also settled on the West Side....",
-                    "...The central area includes the Near North Side, the Near South Side, and the Near West Side, as well as the Loop....",
-                    "...The West Side holds the Garfield Park Conservatory, one of the largest collections of tropical plants in any U.S. city....",
-                    "...The Near West Side holds the University of Illinois at Chicago and was once home to Oprah Winfrey's Harpo Studios, the site of which has been rebuilt as the global headquarters of McDonald's.[citation needed]...",
-                    "...The Illinois Medical District is on the Near West Side...."
+                    "*...Midway Airport reached 109 °F (43 °C) one day prior and recorded a heat index of 125 °F (52 °C) during the 1995 heatwave....",
+                    "...The term \"midway\" for a fair or carnival referred originally to the Midway Plaisance, a strip of park land that still runs through the University of Chicago campus and connects the Washington and Jackson Parks....",
+                    "...The two parks themselves are connected by a wide strip of parkland called the Midway Plaisance, running adjacent to the University of Chicago....",
+                    "*...The Chicago Transit Authority (CTA) handles public transportation in the City of Chicago and a few adjacent suburbs outside of the Chicago city limits. The CTA operates an extensive network of buses and a rapid transit elevated and subway system known as the Chicago \"L\" or just \"L\" (short for \"elevated\"), with lines designated by colors. These rapid transit lines also serve both Midway and O'Hare Airports. The CTA's rail lines consist of the Red, Blue, Green, Orange, Brown, Purple, Pink, and Yellow lines. Both the Red and Blue lines offer 24‑hour service which makes Chicago one of a handful of cities around the world (and one of two in the United States, the other being New York City) to offer rail service 24 hours a day, every day of the year, within the city's limits....",
+                    "...Chicago is served by O'Hare International Airport, the world's busiest airport measured by airline operations, on the far Northwest Side, and Midway International Airport on the Southwest Side....",
+                    "*...Both O'Hare and Midway are owned and operated by the City of Chicago....",
+                    "*...Gary/Chicago International Airport and Chicago Rockford International Airport, located in Gary, Indiana and Rockford, Illinois, respectively, can serve as alternative Chicago area airports, however they do not offer as many commercial flights as O'Hare and Midway...."
                 ]
             }
         },
@@ -1441,26 +989,6 @@
                 "type": "office",
                 "snippet": [
                     "*...Chase Bank has its commercial and retail banking headquarters in Chicago's Chase Tower...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.565641,
-                    41.765166
-                ]
-            },
-            "properties": {
-                "entity": "South Shore",
-                "name_location": "South Shore, South Yates Boulevard, Bryn Mawr East, South Shore, Chicago, Hyde Park Township, Cook County, Illinois, 60649, United States",
-                "class": "railway",
-                "type": "station",
-                "snippet": [
-                    "*...Over a third of the city population is concentrated in the lakefront neighborhoods from Rogers Park in the north to South Shore in the south....",
-                    "...Metra, the nation's second-most used passenger regional rail network, operates an 11-line commuter rail service in Chicago and throughout the Chicago suburbs. The Metra Electric Line shares its trackage with Northern Indiana Commuter Transportation District's South Shore Line, which provides commuter service between South Bend and Chicago...."
                 ]
             }
         },
@@ -1565,8 +1093,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -87.631419,
-                    41.869025
+                    -87.631632,
+                    41.869001
                 ]
             },
             "properties": {
@@ -1680,15 +1208,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -87.655236,
-                    41.965177
+                    -87.650248,
+                    41.962066
                 ]
             },
             "properties": {
                 "entity": "Uptown",
-                "name_location": "Uptown Baptist Church, 1011, West Wilson Avenue, Uptown, Chicago, Lake View Township, Cook County, Illinois, 60640, United States",
-                "class": "amenity",
-                "type": "place_of_worship",
+                "name_location": "XMarket Uptown, 804, West Montrose Avenue, Buena Park, Uptown, Chicago, Lake View Township, Cook County, Illinois, 60613, United States",
+                "class": "shop",
+                "type": "supermarket",
                 "snippet": [
                     "*...These districts include the Mexican American neighborhoods, such as Pilsen along 18th street, and La Villita along 26th Street; the Puerto Rican enclave of Paseo Boricua in the Humboldt Park neighborhood; Greektown, along South Halsted Street, immediately west of downtown; Little Italy, along Taylor Street; Chinatown in Armour Square; Polish Patches in West Town; Little Seoul in Albany Park around Lawrence Avenue; Little Vietnam near Broadway in Uptown; and the Desi area, along Devon Avenue in West Ridge....",
                     "*...Several private schools are completely secular, such as the Latin School of Chicago in the Near North Side neighborhood, the University of Chicago Laboratory Schools in Hyde Park, the British School of Chicago and the Francis W. Parker School in Lincoln Park, the Lycée Français de Chicago in Uptown, the Feltre School in River North and the Morgan Park Academy.[citation needed]..."
@@ -1868,30 +1396,6 @@
                 "snippet": [
                     "...The Joffrey Ballet and Chicago Festival Ballet perform in various venues, including the Harris Theater in Millennium Park....",
                     "...Behind the pavilion's stage is the Harris Theater for Music and Dance, an indoor venue for mid-sized performing arts companies, including the Chicago Opera Theater and Music of the Baroque.[citation needed]..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.616715,
-                    41.862451
-                ]
-            },
-            "properties": {
-                "entity": "Soldier Field",
-                "name_location": "Soldier Field, 425, East McFetridge Drive, South Loop, Near South Side, Chicago, Cook County, Illinois, 60605, United States",
-                "class": "leisure",
-                "type": "stadium",
-                "snippet": [
-                    "*...Most conventions are held at McCormick Place, just south of Soldier Field....",
-                    "*...The Bears play their home games at Soldier Field....",
-                    "*...Soldier Field re-opened in 2003 after an extensive renovation....",
-                    "*...Chicago Fire FC is a member of Major League Soccer (MLS) and plays at Soldier Field....",
-                    "*...After playing its first eight seasons at Soldier Field, the team moved to suburban Bridgeview to play at SeatGeek Stadium....",
-                    "*...In 2019, the team announced a move back to Soldier Field...."
                 ]
             }
         },
@@ -2096,26 +1600,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -87.6378,
-                    41.888531
-                ]
-            },
-            "properties": {
-                "entity": "River North",
-                "name_location": "River North Point, 350, North Orleans Street, River North, Near North Side, Chicago, Cook County, Illinois, 60654, United States",
-                "class": "building",
-                "type": "office",
-                "snippet": [
-                    "...The River North Gallery District features the nation's largest concentration of contemporary art galleries outside of New York City.[citation needed]...",
-                    "*...Several private schools are completely secular, such as the Latin School of Chicago in the Near North Side neighborhood, the University of Chicago Laboratory Schools in Hyde Park, the British School of Chicago and the Francis W. Parker School in Lincoln Park, the Lycée Français de Chicago in Uptown, the Feltre School in River North and the Morgan Park Academy.[citation needed]..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -87.637432,
                     41.883785
                 ]
@@ -2137,15 +1621,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -87.669733,
-                    42.019227
+                    -87.592124,
+                    41.810119
                 ]
             },
             "properties": {
                 "entity": "Caribbean",
-                "name_location": "Caribbean American Bakery, 1539, West Howard Street, Rogers Park, Chicago, Rogers Park Township, Cook County, Illinois, 60626, United States",
-                "class": "shop",
-                "type": "bakery",
+                "name_location": "Caribbean Jerk Joint, 1400, East 47th Street, Indian Village, Kenwood, Chicago, Hyde Park Township, Cook County, Illinois, 60615, United States",
+                "class": "amenity",
+                "type": "restaurant",
                 "snippet": [
                     "*...Former CW affiliate WGN-TV 9, which was owned from its inception by Tribune Broadcasting (now owned by the Nexstar Media Group since 2019), is carried with some programming differences, as \"WGN America\" on cable and satellite TV nationwide and in parts of the Caribbean...."
                 ]
@@ -2213,31 +1697,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -87.737919,
-                    41.786699
-                ]
-            },
-            "properties": {
-                "entity": "Midway",
-                "name_location": "Midway, 54B, 55A, 55N, 62H & N62, Garfield Ridge, Chicago, Lake Township, Cook County, Illinois, 60629, United States",
-                "class": "railway",
-                "type": "stop",
-                "snippet": [
-                    "...The term \"midway\" for a fair or carnival referred originally to the Midway Plaisance, a strip of park land that still runs through the University of Chicago campus and connects the Washington and Jackson Parks....",
-                    "...Midway Airport reached 109 °F (43 °C) one day prior and recorded a heat index of 125 °F (52 °C) during the 1995 heatwave....",
-                    "...The two parks themselves are connected by a wide strip of parkland called the Midway Plaisance, running adjacent to the University of Chicago....",
-                    "*...The Chicago Transit Authority (CTA) handles public transportation in the City of Chicago and a few adjacent suburbs outside of the Chicago city limits. The CTA operates an extensive network of buses and a rapid transit elevated and subway system known as the Chicago \"L\" or just \"L\" (short for \"elevated\"), with lines designated by colors. These rapid transit lines also serve both Midway and O'Hare Airports. The CTA's rail lines consist of the Red, Blue, Green, Orange, Brown, Purple, Pink, and Yellow lines. Both the Red and Blue lines offer 24‑hour service which makes Chicago one of a handful of cities around the world (and one of two in the United States, the other being New York City) to offer rail service 24 hours a day, every day of the year, within the city's limits....",
-                    "...Chicago is served by O'Hare International Airport, the world's busiest airport measured by airline operations, on the far Northwest Side, and Midway International Airport on the Southwest Side....",
-                    "*...Both O'Hare and Midway are owned and operated by the City of Chicago....",
-                    "*...Gary/Chicago International Airport and Chicago Rockford International Airport, located in Gary, Indiana and Rockford, Illinois, respectively, can serve as alternative Chicago area airports, however they do not offer as many commercial flights as O'Hare and Midway...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -87.623125,
                     41.877057
                 ]
@@ -2248,7 +1707,8 @@
                 "class": "amenity",
                 "type": "vending_machine",
                 "snippet": [
-                    "*...Metra, the nation's second-most used passenger regional rail network, operates an 11-line commuter rail service in Chicago and throughout the Chicago suburbs. The Metra Electric Line shares its trackage with Northern Indiana Commuter Transportation District's South Shore Line, which provides commuter service between South Bend and Chicago...."
+                    "*...Metra, the nation's second-most used passenger regional rail network, operates an 11-line commuter rail service in Chicago and throughout the Chicago suburbs. The Metra Electric Line shares its trackage with Northern Indiana Commuter Transportation District's South Shore Line, which provides commuter service between South Bend and Chicago....",
+                    "*...Over a third of the city population is concentrated in the lakefront neighborhoods from Rogers Park in the north to South Shore in the south...."
                 ]
             }
         },
@@ -2325,74 +1785,6 @@
                 "type": "aerodrome",
                 "snippet": [
                     "*...Chicago is served by O'Hare International Airport, the world's busiest airport measured by airline operations, on the far Northwest Side, and Midway International Airport on the Southwest Side...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.902963,
-                    41.978061
-                ]
-            },
-            "properties": {
-                "entity": "O'Hare",
-                "name_location": "O'Hare, 10000, O'Hare Arrivals Terminal 3, O'Hare, Chicago, Jefferson Township, Cook County, Illinois, 60666, United States",
-                "class": "railway",
-                "type": "stop",
-                "snippet": [
-                    "...O'Hare International Airport is routinely ranked among the world's top six busiest airports according to tracked data by the Airports Council International....",
-                    "...In 1956, the city conducted its last major expansion when it annexed the land under O'Hare airport, including a small portion of DuPage County....",
-                    "...Major construction projects, including the Sears Tower (now known as the Willis Tower, which in 1974 became the world's tallest building), University of Illinois at Chicago, McCormick Place, and O'Hare International Airport, were undertaken during Richard J. Daley's tenure....",
-                    "...The lowest official temperature of −27 °F (−33 °C) was recorded on January 20, 1985, at O'Hare Airport....",
-                    "...The Chicago Transit Authority (CTA) handles public transportation in the City of Chicago and a few adjacent suburbs outside of the Chicago city limits. The CTA operates an extensive network of buses and a rapid transit elevated and subway system known as the Chicago \"L\" or just \"L\" (short for \"elevated\"), with lines designated by colors. These rapid transit lines also serve both Midway and O'Hare Airports. The CTA's rail lines consist of the Red, Blue, Green, Orange, Brown, Purple, Pink, and Yellow lines. Both the Red and Blue lines offer 24‑hour service which makes Chicago one of a handful of cities around the world (and one of two in the United States, the other being New York City) to offer rail service 24 hours a day, every day of the year, within the city's limits....",
-                    "...Chicago is served by O'Hare International Airport, the world's busiest airport measured by airline operations, on the far Northwest Side, and Midway International Airport on the Southwest Side....",
-                    "*...In 2005, O'Hare was the world's busiest airport by aircraft movements and the second-busiest by total passenger traffic....",
-                    "*...Both O'Hare and Midway are owned and operated by the City of Chicago....",
-                    "*...Gary/Chicago International Airport and Chicago Rockford International Airport, located in Gary, Indiana and Rockford, Illinois, respectively, can serve as alternative Chicago area airports, however they do not offer as many commercial flights as O'Hare and Midway...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.525717,
-                    41.709406
-                ]
-            },
-            "properties": {
-                "entity": "Calumet Harbor",
-                "name_location": "Calumet Harbor, South Avenue G Drive, East Side, Chicago, Hyde Park Township, Cook County, Illinois, 60617, United States",
-                "class": "leisure",
-                "type": "marina",
-                "snippet": [
-                    "...While the Chicago River historically handled much of the region's waterborne cargo, today's huge lake freighters use the city's Lake Calumet Harbor on the South Side....",
-                    "*...The central element of the Port District, Calumet Harbor, is maintained by the U.S. Army Corps of Engineers...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.601285,
-                    41.647422
-                ]
-            },
-            "properties": {
-                "entity": "Lake Calumet",
-                "name_location": "Lake Calumet Marina Complex, 824, East 138th Street, Riverdale, Chicago, Hyde Park Township, Cook County, Illinois, 60827, United States",
-                "class": "building",
-                "type": "yes",
-                "snippet": [
-                    "...While the Chicago River historically handled much of the region's waterborne cargo, today's huge lake freighters use the city's Lake Calumet Harbor on the South Side....",
-                    "*...Lake Calumet terminal: located at the union of the Grand Calumet River and Little Calumet River 6 miles (9.7 km) inland from Lake Michigan. Includes three transit sheds totaling over 29,000 square meters (310,000 square feet) adjacent to over 900 linear meters (3,000 linear feet) of ship and barge berthing....",
-                    "*...Grain (14 million bushels) and bulk liquid (800,000 barrels) storage facilities along Lake Calumet...."
                 ]
             }
         },

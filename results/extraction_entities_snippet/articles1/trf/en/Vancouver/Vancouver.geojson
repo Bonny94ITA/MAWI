@@ -6,29 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -123.024286,
-                    49.223733
-                ]
-            },
-            "properties": {
-                "entity": "Lower Mainland",
-                "name_location": "Lower Mainland Control Centre, 6525, Boundary Road, Burnaby, Metro Vancouver Regional District, British Columbia, V5J 1M2, Canada",
-                "class": "building",
-                "type": "yes",
-                "snippet": [
-                    "*...Vancouver ( van-KOO-vər) is a major city in western Canada, located in the Lower Mainland region of British Columbia....",
-                    "...Greater Vancouver, along with the Fraser Valley, comprises the Lower Mainland with a regional population of over 3million....",
-                    "...Many plants and trees growing throughout Vancouver and the Lower Mainland were imported from other parts of the continent and from points across the Pacific....",
-                    "...The larger Lower Mainland-Southwest economic region (which includes also the Squamish-Lillooet, Fraser Valley, and Sunshine Coast Regional District) has a population of over 3.04million....",
-                    "...A number of other local and international papers serve other multicultural groups in the Lower Mainland...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -123.135369,
                     49.272632
                 ]
@@ -41,36 +18,6 @@
                 "snippet": [
                     "...Greater Vancouver, along with the Fraser Valley, comprises the Lower Mainland with a regional population of over 3million....",
                     "*...The larger Lower Mainland-Southwest economic region (which includes also the Squamish-Lillooet, Fraser Valley, and Sunshine Coast Regional District) has a population of over 3.04million...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -123.059449,
-                    49.242696
-                ]
-            },
-            "properties": {
-                "entity": "North America",
-                "name_location": "North America Pet Store, 2255, Kingsway, Kensington-Cedar Cottage, Vancouver, Metro Vancouver Regional District, British Columbia, V5N 2T6, Canada",
-                "class": "shop",
-                "type": "pet",
-                "snippet": [
-                    "*...Vancouver has the highest population density in Canada, with over 5,700 people per square kilometre, and fourth highest in North America (after New York City, San Francisco, and Mexico City)....",
-                    "*...As of 2016[update], the Port of Vancouver is the fourth-largest port by tonnage in the Americas, the busiest and largest in Canada, and the most diversified port in North America....",
-                    "*...Major film production studios in Vancouver and nearby Burnaby have turned Greater Vancouver and nearby areas into one of the largest film production centres in North America, earning it the nickname \"Hollywood North\"....",
-                    "*...Vancouver has one of the largest urban parks in North America, Stanley Park, which covers 404.9 ha (1,001 acres)....",
-                    "*...In the 1980s, an influx of immigrants from Hong Kong in anticipation of the transfer of sovereignty from the United Kingdom to China, combined with an increase in immigrants from mainland China and previous immigrants from Taiwan, established in Vancouver one of the highest concentrations of ethnic Chinese residents in North America....",
-                    "*...Vancouver hosts approximately 65 movies and 55 TV series annually and is the 3rd largest film & TV production centre in North America, supporting 20,000 jobs....",
-                    "...Subsequently, North America's only legal safe injection site at the time, Insite, was opened for the significant number of intravenous heroin users in the city....",
-                    "*...The Vancouver International Film Festival, which runs for two weeks each September, shows over 350 films and is one of the larger film festivals in North America....",
-                    "*...Vancouver currently has the second-largest trolleybus fleet in North America, after San Francisco....",
-                    "*...In 2012, Vancouver had the worst traffic congestion in Canada and the second-highest in North America, behind Los Angeles....",
-                    "*...As of 2013[update], Vancouver now has the worst traffic congestion in North America....",
-                    "*...Vancouver's airport is Canada's second-busiest airport, and the second-largest gateway on the west coast of North America for international passengers...."
                 ]
             }
         },
@@ -115,67 +62,6 @@
                     "*...Became acquainted with the area of the future Vancouver when José María Narváez of Spain explored the coast of present-day Point Grey and parts of Burrard Inlet in 1791—although one author contends that Francis Drake may have visited the area in 1579....",
                     "*...Located on the Burrard Peninsula, Vancouver lies between Burrard Inlet to the north and the Fraser River to the south....",
                     "*...Only in Elliott Bay, Seattle, did the size of trees rival those of Burrard Inlet and English Bay...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.489447,
-                    49.090852
-                ]
-            },
-            "properties": {
-                "entity": "Asia",
-                "name_location": "Asia, 5048, 264 Street, Gloucester, Township of Langley, Metro Vancouver Regional District, British Columbia, V4W 2V1, Canada",
-                "class": "tourism",
-                "type": "attraction",
-                "snippet": [
-                    "*...The city's large natural seaport on the Pacific Ocean became a vital link in the trade between Asia-Pacific, East Asia, Europe, and Eastern Canada....",
-                    "...Vancouver plays host to special events such as the Asia-Pacific Economic Cooperation conference, the Clinton-Yeltsin Summit, or the Symphony of Fire fireworks show that require significant policing...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -123.103347,
-                    49.283448
-                ]
-            },
-            "properties": {
-                "entity": "Europe",
-                "name_location": "Hotel Europe, 43, Powell Street, Gastown, Downtown, Vancouver, Metro Vancouver Regional District, British Columbia, V6B 1G7, Canada",
-                "class": "building",
-                "type": "yes",
-                "snippet": [
-                    "*...The city's large natural seaport on the Pacific Ocean became a vital link in the trade between Asia-Pacific, East Asia, Europe, and Eastern Canada....",
-                    "*...Some species imported from harsher climates in Eastern Canada or Europe have grown to immense sizes....",
-                    "...Eastern Europeans, including Russians, Czechs, Poles, Romanians and Hungarians began immigrating after the Soviet takeover of Eastern Europe after World War II...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -123.112006,
-                    49.276691
-                ]
-            },
-            "properties": {
-                "entity": "BC Place",
-                "name_location": "BC Place, 777, Pacific Boulevard, Yaletown, Downtown, Vancouver, Metro Vancouver Regional District, British Columbia, V6B 0J5, Canada",
-                "class": "leisure",
-                "type": "stadium",
-                "snippet": [
-                    "*...Vancouver has hosted many international conferences and events, including the 1954 Commonwealth Games, UN Habitat I, Expo 86, APEC Canada 1997, the World Police and Fire Games in 1989 and 2009; several matches of 2015 FIFA Women's World Cup including the finals at BC Place in Downtown Vancouver, and the 2010 Winter Olympics and Paralympics which were held in Vancouver and Whistler, a resort community 125 km (78 mi) north of the city....",
-                    "...Larger musical performances are usually held at venues such as Rogers Arena, Queen Elizabeth Theatre, BC Place Stadium or the Pacific Coliseum, while smaller acts are held at places such as the Commodore Ballroom, the Orpheum Theatre and the Vogue Theatre...."
                 ]
             }
         },
@@ -398,30 +284,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -123.121175,
-                    49.270889
-                ]
-            },
-            "properties": {
-                "entity": "False Creek",
-                "name_location": "Seaside - False Creek North, Yaletown, Downtown, Vancouver, Metro Vancouver Regional District, British Columbia, V6Z 2V4, Canada",
-                "class": "highway",
-                "type": "footway",
-                "snippet": [
-                    "*...They had villages in various parts of present-day Vancouver, such as Stanley Park, False Creek, Kitsilano, Point Grey and near the mouth of the Fraser River....",
-                    "*...The largest trees in Vancouver's old-growth forest were in the Gastown area, where the first logging occurred and on the southern slopes of False Creek and English Bay, especially around Jericho Beach....",
-                    "...The success of these dense but livable neighbourhoods led to the redevelopment of urban industrial sites, such as North False Creek and Coal Harbour, beginning in the mid-1980s....",
-                    "*...A more interactive museum is Science World at the head of False Creek....",
-                    "*...Small passenger ferries operating in False Creek provide commuter service to Granville Island, Downtown Vancouver and Kitsilano....",
-                    "*...The city has several large beaches, many adjacent to one another, extending from the shoreline of Stanley Park around False Creek to the south side of English Bay, from Kitsilano to the University Endowment Lands, (which also has beaches that are not part of the city proper)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -123.191435,
                     49.27166
                 ]
@@ -435,42 +297,6 @@
                     "*...The largest trees in Vancouver's old-growth forest were in the Gastown area, where the first logging occurred and on the southern slopes of False Creek and English Bay, especially around Jericho Beach....",
                     "*...Jericho Beach in Vancouver is the location of the headquarters of 39 Canadian Brigade Group of the Canadian Army....",
                     "...RCAF Station Jericho Beach, the first air base in Western Canada,..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -123.235331,
-                    49.253241
-                ]
-            },
-            "properties": {
-                "entity": "Pacific",
-                "name_location": "Pacific, Birney Avenue, Wesbrook Village, Electoral Area A, Metro Vancouver Regional District, British Columbia, V6S 0B5, Canada",
-                "class": "building",
-                "type": "apartments",
-                "snippet": [
-                    "...The city was renamed \"Vancouver\" in 1886, through a deal with the Canadian Pacific Railway....",
-                    "...The Canadian Pacific transcontinental railway was extended to the city by 1887....",
-                    "...The city's large natural seaport on the Pacific Ocean became a vital link in the trade between Asia-Pacific, East Asia, Europe, and Eastern Canada....",
-                    "...The mill's central role in the city waned after the arrival of the Canadian Pacific Railway (CPR) in the 1880s....",
-                    "...This site, with its natural harbour, was selected in 1884 as the terminus for the Canadian Pacific Railway, to the disappointment of Port Moody, New Westminster and Victoria, all of which had vied to be the railhead....",
-                    "...A railway was among the inducements for British Columbia to join the Confederation in 1871 but the Pacific Scandal and arguments over the use of Chinese labour delayed construction until the 1880s....",
-                    "...The Strait of Georgia, to the west, is shielded from the Pacific Ocean by Vancouver Island....",
-                    "...The city has an area of 115.18 km2 (44.47 sq mi), including both flat and hilly ground and is in the Pacific Time Zone (UTC−8) and the Pacific Maritime Ecozone.\nUntil the city's naming in 1885, \"Vancouver\" referred to Vancouver Island and it remains a common misconception that the city is located on the island....",
-                    "*...Many plants and trees growing throughout Vancouver and the Lower Mainland were imported from other parts of the continent and from points across the Pacific....",
-                    "...A prominent addition to the city's landscape is the giant tent-frame Canada Place (designed by Zeidler Roberts Partnership Partnership, MCMP & DA Architects), the former Canada Pavilion from the 1986 World Exposition, which includes part of the Convention Centre, the Pan-Pacific Hotel, and a cruise ship terminal....",
-                    "...With its location on the Pacific Rim and at the western terminus of Canada's transcontinental highway and rail routes, Vancouver is one of the nation's largest industrial centres....",
-                    "...Vancouver plays host to special events such as the Asia-Pacific Economic Cooperation conference, the Clinton-Yeltsin Summit, or the Symphony of Fire fireworks show that require significant policing....",
-                    "...The Cultch, The Firehall Arts Centre, United Players, Pacific and Metro Theatres, all run continuous theatre seasons....",
-                    "...The VIFF Centre venue, the Vancity Theatre, runs independent non-commercial films throughout the rest of the year, as do the Pacific Cinémathèque, and the Rio theatres....",
-                    "...The Museum of Anthropology at UBC is a leading museum of Pacific Northwest Coast First Nations culture....",
-                    "...Larger musical performances are usually held at venues such as Rogers Arena, Queen Elizabeth Theatre, BC Place Stadium or the Pacific Coliseum, while smaller acts are held at places such as the Commodore Ballroom, the Orpheum Theatre and the Vogue Theatre....",
-                    "...Another line (1902), the Vancouver and Lulu Island Railway, was leased by the Canadian Pacific Railway to the British Columbia Electric Railway in 1905 and ran from the Granville Street Bridge to Steveston via Kerrisdale, which encouraged residential neighbourhoods outside the central core to develop....",
-                    "...Inter-city passenger rail service is operated from Pacific Central Station by Via Rail to points east, Amtrak Cascades to Seattle and Portland, and Rocky Mountaineer rail tour routes...."
                 ]
             }
         },
@@ -498,13 +324,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -123.179994,
-                    49.192965
+                    -123.179234,
+                    49.192512
                 ]
             },
             "properties": {
                 "entity": "Vancouver International Airport",
-                "name_location": "Vancouver International Airport, Gilbert Road, Sea Island, Richmond, Metro Vancouver Regional District, British Columbia, V7C 0B3, Canada",
+                "name_location": "Vancouver International Airport, 3211, Grant McConachie Way, Sea Island, Richmond, Metro Vancouver Regional District, British Columbia, V7B 1W0, Canada",
                 "class": "aeroway",
                 "type": "aerodrome",
                 "snippet": [
@@ -533,36 +359,6 @@
                     "*...Annual precipitation as measured at Vancouver International Airport in Richmond averages 1,189 mm (46.8 in), compared with 1,588 mm (62.5 in) in the downtown area and 2,044 mm (80.5 in) in North Vancouver....",
                     "*...The other public universities in the metropolitan area around Vancouver are Capilano University in North Vancouver, Emily Carr University of Art and Design, and Kwantlen Polytechnic University whose four campuses are all outside the city proper....",
                     "*...Hiking trails include the Baden-Powell Trail, an arduous 42-kilometre-long (26 mi) hike from West Vancouver's Horseshoe Bay to Deep Cove in the District of North Vancouver...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -123.001156,
-                    49.225294
-                ]
-            },
-            "properties": {
-                "entity": "Metro Vancouver",
-                "name_location": "Metro Vancouver, 4730, Kingsway, Metrotown, Burnaby, Metro Vancouver Regional District, British Columbia, V5H 2B3, Canada",
-                "class": "amenity",
-                "type": "townhall",
-                "snippet": [
-                    "*...As part of the larger Metro Vancouver region, it is influenced by the policy direction of livability as illustrated in Metro Vancouver's Regional Growth Strategy....",
-                    "*...Approximately 75 percent of the people living in Metro Vancouver live outside Vancouver itself....",
-                    "...Port Metro Vancouver, Canada's largest and most diversified port, does more than $172billion in trade with over 160 different trading economies annually....",
-                    "*...Annually, tourism contributes approximately $4.8billion to the Metro Vancouver economy and supports over 70,000 jobs....",
-                    "*...Along with 20 other municipalities, one electoral area and one treaty First Nation, Vancouver is a member municipality of Metro Vancouver, the regional government whose seat is in Burnaby....",
-                    "*...While each member of Metro Vancouver has its own separate local governing body, Metro Vancouver oversees common services and planning functions within the area such as providing drinking water; operating sewage and solid waste handling; maintaining regional parks; overseeing air quality, greenhouse gases and ecological health; and providing a strategy for regional growth and land use....",
-                    "...In 2005, a new transit police force, the Greater Vancouver Transportation Authority Police Service (now the Metro Vancouver Transit Police), was established with full police powers....",
-                    "*...These are augmented by private and vocational institutions and other colleges in the surrounding areas of Metro Vancouver that provide career, trade, technical, and university-transfer programs, while the Vancouver Film School provides one-year programs in film production and video game design....",
-                    "*...TransLink is responsible for roads and public transportation within Metro Vancouver (in succession to BC Transit, which had taken over the transit functions of BC Hydro)....",
-                    "*...This race and the UBC Grand Prix are part of BC Superweek, an annual series of professional cycling races in Metro Vancouver....",
-                    "*...In 2009, Metro Vancouver hosted the World Police and Fire Games....",
-                    "*...The City of Vancouver is a member of Metro Vancouver, which provides sustainable regional services to the Greater Vancouver area...."
                 ]
             }
         },
@@ -620,7 +416,12 @@
                 "class": "highway",
                 "type": "footway",
                 "snippet": [
-                    "*...The success of these dense but livable neighbourhoods led to the redevelopment of urban industrial sites, such as North False Creek and Coal Harbour, beginning in the mid-1980s...."
+                    "*...The success of these dense but livable neighbourhoods led to the redevelopment of urban industrial sites, such as North False Creek and Coal Harbour, beginning in the mid-1980s....",
+                    "*...They had villages in various parts of present-day Vancouver, such as Stanley Park, False Creek, Kitsilano, Point Grey and near the mouth of the Fraser River....",
+                    "*...The largest trees in Vancouver's old-growth forest were in the Gastown area, where the first logging occurred and on the southern slopes of False Creek and English Bay, especially around Jericho Beach....",
+                    "*...A more interactive museum is Science World at the head of False Creek....",
+                    "*...Small passenger ferries operating in False Creek provide commuter service to Granville Island, Downtown Vancouver and Kitsilano....",
+                    "*...The city has several large beaches, many adjacent to one another, extending from the shoreline of Stanley Park around False Creek to the south side of English Bay, from Kitsilano to the University Endowment Lands, (which also has beaches that are not part of the city proper)...."
                 ]
             }
         },
@@ -878,26 +679,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -123.10846,
-                    49.281002
-                ]
-            },
-            "properties": {
-                "entity": "Sun Tower",
-                "name_location": "Sun Tower, 128, West Pender Street, Chinatown, Downtown, Vancouver, Metro Vancouver Regional District, British Columbia, V6B 1S5, Canada",
-                "class": "building",
-                "type": "yes",
-                "snippet": [
-                    "...These were, in succession, the Carter-Cotton Building (former home of The Province newspaper), the Dominion Building (1907) and the Sun Tower (1911), the former two at Cambie and Hastings Streets and the latter at Beatty and Pender Streets....",
-                    "...The Sun Tower's cupola was finally exceeded as the Empire's tallest commercial building by the elaborate Art Deco Marine Building in the 1920s...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -123.136762,
                     49.283683
                 ]
@@ -968,29 +749,6 @@
                 "type": "apartments",
                 "snippet": [
                     "...The fourth-tallest is One Wall Centre at 150 m (490 ft) and 48 storeys, followed closely by the Shaw Tower at 149 m (489 ft)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -123.112448,
-                    49.282857
-                ]
-            },
-            "properties": {
-                "entity": "Western Canada",
-                "name_location": "Western Canada Building, 416, West Pender Street, Chinatown, Downtown, Vancouver, Metro Vancouver Regional District, British Columbia, V6B 1T5, Canada",
-                "class": "building",
-                "type": "yes",
-                "snippet": [
-                    "...Vancouver ( van-KOO-vər) is a major city in western Canada, located in the Lower Mainland region of British Columbia....",
-                    "*...More specifically, Vancouver is the fourth-largest in Western Canada after Calgary, Edmonton and Winnipeg....",
-                    "*...At the census metropolitan area (CMA) level in the 2021 census, the metropolitan area referred to as Greater Vancouver had a population of 2,642,825 living in 1,043,319 of its 1,104,532 total private dwellings, a change of 7.3% from its 2016 population of 2,463,431, the third-most populous metropolitan area in the country and the most populous in Western Canada....",
-                    "...Vancouver was also the birthplace of 1-800-GOT-JUNK? and Western Canada's largest online-only publication, Daily Hive....",
-                    "*...RCAF Station Jericho Beach, the first air base in Western Canada,..."
                 ]
             }
         },
@@ -1195,31 +953,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -123.063384,
-                    49.260864
-                ]
-            },
-            "properties": {
-                "entity": "SkyTrain",
-                "name_location": "SkyTrain Millennium Line, East 8th Avenue, Grandview-Woodland, Vancouver, Metro Vancouver Regional District, British Columbia, V5N, Canada",
-                "class": "railway",
-                "type": "subway",
-                "snippet": [
-                    "*...Such development has clustered in the Yaletown and Coal Harbour districts and around many of the SkyTrain stations to the east of the downtown....",
-                    "*...Some still-standing Vancouver landmarks, including the SkyTrain public transit system and Canada Place, were built as part of the exposition....",
-                    "*...It provides bus service, including the RapidBus express service, a foot passenger and bicycle ferry service (known as SeaBus), an automated rapid transit service called SkyTrain, and West Coast Express commuter rail....",
-                    "*...Vancouver's SkyTrain system is currently running on three lines, the Millennium Line, the Expo Line and the Canada Line with a total of 53 stations as of 2017....",
-                    "*...The Canada Line, opened on August 17, 2009, connects Vancouver International Airport and the neighbouring city of Richmond with the existing SkyTrain system....",
-                    "*...The Evergreen Extension, which opened on December 2, 2016, links the cities of Coquitlam and Port Moody with the SkyTrain system....",
-                    "...As of January 2019, plans to extend the SkyTrain Millennium Line west to UBC as a subway under Broadway have been approved and there are plans for capacity upgrades and an extension to the Expo Line...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -123.077654,
                     49.265435
                 ]
@@ -1364,26 +1097,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -123.11558,
-                    49.279336
-                ]
-            },
-            "properties": {
-                "entity": "Library Square",
-                "name_location": "Library Square Pizza, Hamilton Street, Yaletown, Downtown, Vancouver, Metro Vancouver Regional District, British Columbia, V6B 6A1, Canada",
-                "class": "amenity",
-                "type": "fast_food",
-                "snippet": [
-                    "...There are several modern buildings in the downtown area, including the Harbour Centre, the Vancouver Law Courts and surrounding plaza known as Robson Square (designed by Arthur Erickson) and the Vancouver Library Square (designed by Moshe Safdie and DA Architects), reminiscent of the Colosseum in Rome, and the recently completed Woodward's building Redevelopment (designed by Henriquez Partners Architects)....",
-                    "*...Libraries in Vancouver include the Vancouver Public Library with its main branch at Library Square, designed by Moshe Safdie...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -123.108942,
                     49.277909
                 ]
@@ -1442,26 +1155,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -123.096957,
-                    49.260366
-                ]
-            },
-            "properties": {
-                "entity": "Kingsway",
-                "name_location": "Kingsway, Mount Pleasant, Vancouver, Metro Vancouver Regional District, British Columbia, V5T 0A9, Canada",
-                "class": "highway",
-                "type": "primary",
-                "snippet": [
-                    "...In the 2021 federal election, the Liberals retained three seats (Vancouver Quadra, Vancouver Centre, and Vancouver South) and gained one (Vancouver Granville), while the NDP held on to the two seats (Vancouver East and Vancouver Kingsway) they held at dissolution....",
-                    "*...Vancouver's streetcar system began on June 28, 1890, and ran from the (first) Granville Street Bridge to Westminster Avenue (now Main Street and Kingsway)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -123.176257,
                     49.133093
                 ]
@@ -1481,33 +1174,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -123.081785,
-                    49.266242
-                ]
-            },
-            "properties": {
-                "entity": "Millennium Line",
-                "name_location": "SkyTrain Millennium Line, Glen Drive, Strathcona, Vancouver, Metro Vancouver Regional District, British Columbia, V5T 0B1, Canada",
-                "class": "railway",
-                "type": "disused",
-                "snippet": [
-                    "...Vancouver's SkyTrain system is currently running on three lines, the Millennium Line, the Expo Line and the Canada Line with a total of 53 stations as of 2017....",
-                    "...As of January 2019, plans to extend the SkyTrain Millennium Line west to UBC as a subway under Broadway have been approved and there are plans for capacity upgrades and an extension to the Expo Line...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -123.102933,
-                    49.276898
+                    -123.10142,
+                    49.273282
                 ]
             },
             "properties": {
                 "entity": "Expo Line",
-                "name_location": "SkyTrain Expo Line, Georgia Viaduct, Downtown, Vancouver, Metro Vancouver Regional District, British Columbia, V6A 1T1, Canada",
+                "name_location": "SkyTrain Expo Line, Quebec Street, Downtown, Vancouver, Metro Vancouver Regional District, British Columbia, V6A 2W5, Canada",
                 "class": "railway",
                 "type": "subway",
                 "snippet": [
@@ -1521,13 +1194,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -123.120227,
-                    49.273241
+                    -123.115176,
+                    49.255842
                 ]
             },
             "properties": {
                 "entity": "Canada Line",
-                "name_location": "SkyTrain Canada Line, Cambie Street, Yaletown, Downtown, Vancouver, Metro Vancouver Regional District, British Columbia, V6B 2P2, Canada",
+                "name_location": "SkyTrain Canada Line, West 17th Avenue, South Cambie, Vancouver, Metro Vancouver Regional District, British Columbia, V5Z, Canada",
                 "class": "railway",
                 "type": "subway",
                 "snippet": [
@@ -1570,7 +1243,14 @@
                 "class": "railway",
                 "type": "disused",
                 "snippet": [
-                    "...As of January 2019, plans to extend the SkyTrain Millennium Line west to UBC as a subway under Broadway have been approved and there are plans for capacity upgrades and an extension to the Expo Line...."
+                    "...As of January 2019, plans to extend the SkyTrain Millennium Line west to UBC as a subway under Broadway have been approved and there are plans for capacity upgrades and an extension to the Expo Line....",
+                    "...Vancouver's SkyTrain system is currently running on three lines, the Millennium Line, the Expo Line and the Canada Line with a total of 53 stations as of 2017....",
+                    "*...Such development has clustered in the Yaletown and Coal Harbour districts and around many of the SkyTrain stations to the east of the downtown....",
+                    "*...Some still-standing Vancouver landmarks, including the SkyTrain public transit system and Canada Place, were built as part of the exposition....",
+                    "*...It provides bus service, including the RapidBus express service, a foot passenger and bicycle ferry service (known as SeaBus), an automated rapid transit service called SkyTrain, and West Coast Express commuter rail....",
+                    "*...Vancouver's SkyTrain system is currently running on three lines, the Millennium Line, the Expo Line and the Canada Line with a total of 53 stations as of 2017....",
+                    "*...The Canada Line, opened on August 17, 2009, connects Vancouver International Airport and the neighbouring city of Richmond with the existing SkyTrain system....",
+                    "*...The Evergreen Extension, which opened on December 2, 2016, links the cities of Coquitlam and Port Moody with the SkyTrain system...."
                 ]
             }
         },
@@ -1608,7 +1288,24 @@
                 "class": "building",
                 "type": "train_station",
                 "snippet": [
-                    "*...Inter-city passenger rail service is operated from Pacific Central Station by Via Rail to points east, Amtrak Cascades to Seattle and Portland, and Rocky Mountaineer rail tour routes...."
+                    "*...Inter-city passenger rail service is operated from Pacific Central Station by Via Rail to points east, Amtrak Cascades to Seattle and Portland, and Rocky Mountaineer rail tour routes....",
+                    "...The city was renamed \"Vancouver\" in 1886, through a deal with the Canadian Pacific Railway....",
+                    "...The Canadian Pacific transcontinental railway was extended to the city by 1887....",
+                    "...The city's large natural seaport on the Pacific Ocean became a vital link in the trade between Asia-Pacific, East Asia, Europe, and Eastern Canada....",
+                    "...The mill's central role in the city waned after the arrival of the Canadian Pacific Railway (CPR) in the 1880s....",
+                    "...This site, with its natural harbour, was selected in 1884 as the terminus for the Canadian Pacific Railway, to the disappointment of Port Moody, New Westminster and Victoria, all of which had vied to be the railhead....",
+                    "...A railway was among the inducements for British Columbia to join the Confederation in 1871 but the Pacific Scandal and arguments over the use of Chinese labour delayed construction until the 1880s....",
+                    "...The Strait of Georgia, to the west, is shielded from the Pacific Ocean by Vancouver Island....",
+                    "...The city has an area of 115.18 km2 (44.47 sq mi), including both flat and hilly ground and is in the Pacific Time Zone (UTC−8) and the Pacific Maritime Ecozone.\nUntil the city's naming in 1885, \"Vancouver\" referred to Vancouver Island and it remains a common misconception that the city is located on the island....",
+                    "*...Many plants and trees growing throughout Vancouver and the Lower Mainland were imported from other parts of the continent and from points across the Pacific....",
+                    "...A prominent addition to the city's landscape is the giant tent-frame Canada Place (designed by Zeidler Roberts Partnership Partnership, MCMP & DA Architects), the former Canada Pavilion from the 1986 World Exposition, which includes part of the Convention Centre, the Pan-Pacific Hotel, and a cruise ship terminal....",
+                    "...With its location on the Pacific Rim and at the western terminus of Canada's transcontinental highway and rail routes, Vancouver is one of the nation's largest industrial centres....",
+                    "...Vancouver plays host to special events such as the Asia-Pacific Economic Cooperation conference, the Clinton-Yeltsin Summit, or the Symphony of Fire fireworks show that require significant policing....",
+                    "...The Cultch, The Firehall Arts Centre, United Players, Pacific and Metro Theatres, all run continuous theatre seasons....",
+                    "...The VIFF Centre venue, the Vancity Theatre, runs independent non-commercial films throughout the rest of the year, as do the Pacific Cinémathèque, and the Rio theatres....",
+                    "...The Museum of Anthropology at UBC is a leading museum of Pacific Northwest Coast First Nations culture....",
+                    "...Larger musical performances are usually held at venues such as Rogers Arena, Queen Elizabeth Theatre, BC Place Stadium or the Pacific Coliseum, while smaller acts are held at places such as the Commodore Ballroom, the Orpheum Theatre and the Vogue Theatre....",
+                    "...Another line (1902), the Vancouver and Lulu Island Railway, was leased by the Canadian Pacific Railway to the British Columbia Electric Railway in 1905 and ran from the Granville Street Bridge to Steveston via Kerrisdale, which encouraged residential neighbourhoods outside the central core to develop...."
                 ]
             }
         },
@@ -1636,13 +1333,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -123.177651,
-                    49.196205
+                    -123.177677,
+                    49.196354
                 ]
             },
             "properties": {
                 "entity": "YVR",
-                "name_location": "Vancouver International Airport - International Terminal, 3211, Grant McConachie Way, Sea Island, Richmond, Metro Vancouver Regional District, British Columbia, V7B 1W0, Canada",
+                "name_location": "Vancouver International Airport - International Terminal, 3211, Grant McConachie Way, Sea Island, Richmond, Metro Vancouver Regional District, British Columbia, V7B 0A6, Canada",
                 "class": "aeroway",
                 "type": "terminal",
                 "snippet": [
@@ -1783,28 +1480,6 @@
                 "type": "secondary",
                 "snippet": [
                     "*...Within a 20- to 30-minute drive from downtown Vancouver are the North Shore Mountains, with three ski areas: Cypress Mountain, Grouse Mountain, and Mount Seymour...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -123.12359,
-                    49.316476
-                ]
-            },
-            "properties": {
-                "entity": "North Shore",
-                "name_location": "North Shore Paintball, Capilano Road, Park Royal, West Vancouver, Metro Vancouver Regional District, British Columbia, V7P, Canada",
-                "class": "leisure",
-                "type": "paintball",
-                "snippet": [
-                    "...The North Shore Mountains dominate the cityscape, and on a clear day, scenic vistas include the snow-capped volcano Mount Baker in the state of Washington to the southeast, Vancouver Island across the Strait of Georgia to the west and southwest, and Bowen Island to the northwest....",
-                    "...Within a 20- to 30-minute drive from downtown Vancouver are the North Shore Mountains, with three ski areas: Cypress Mountain, Grouse Mountain, and Mount Seymour....",
-                    "...Mountain bikers have created world-renowned trails across the North Shore....",
-                    "...The Capilano River, Lynn Creek and Seymour River, also on the North Shore, provide opportunities to whitewater enthusiasts during periods of rain and spring melt, though the canyons of those rivers are more utilized for hiking and swimming than whitewater...."
                 ]
             }
         },

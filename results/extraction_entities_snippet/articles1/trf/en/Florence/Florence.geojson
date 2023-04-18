@@ -6,37 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.264664,
-                    43.769658
-                ]
-            },
-            "properties": {
-                "entity": "Europe",
-                "name_location": "Biblioteca dell'Associazione Robert F. Kennedy of Europe Onlus, Via Ghibellina, San Niccolò, Quartiere 1, Florence, Tuscany, 50122, Italy",
-                "class": "amenity",
-                "type": "library",
-                "snippet": [
-                    "*...During this time, Florence rose to a position of enormous influence in Italy, Europe, and beyond....",
-                    "*...It was politically, economically, and culturally one of the most important cities in Europe and the world from the 14th to 16th centuries....",
-                    "*...Starting from the late Middle Ages, Florentine money—in the form of the gold florin—financed the development of industry all over Europe, from Britain to Bruges, to Lyon and Hungary....",
-                    "*...The Florentine merchant banking skills became recognised in Europe after they brought decisive financial innovation (e.g. bills of exchange, double-entry bookkeeping system) to medieval fairs....",
-                    "*...In the 15th century, Florence was among the largest cities in Europe, with a population of 60,000, and was considered rich and economically successful....",
-                    "*...In 2015, Condé Nast Travel readers voted Florence as the best city in Europe....",
-                    "*...Studies by Euromonitor International have concluded that cultural and history-oriented tourism is generating significantly increased spending throughout Europe....",
-                    "*...The project proposed by Brunelleschi in the 14th century was the largest ever built at the time, and the first major dome built in Europe since the two great domes of Roman times – the Pantheon in Rome, and Hagia Sophia in Constantinople....",
-                    "*...After the year 1600, Italian trends prevailed across Europe, by 1750 it was the primary musical language....",
-                    "*...Opera spread from Florence throughout Italy and eventually Europe....",
-                    "...The Stile Antico was more prevalent in Northern Europe and Stile Moderno was practiced more by the Italian Composers of the time....",
-                    "*...By the year 1300 Florence had become a centre of textile production in Europe....",
-                    "*...Trenitalia runs trains between the railway stations within the city, and to other destinations around Italy and Europe...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     11.222856,
                     43.719764
                 ]
@@ -48,36 +17,6 @@
                 "type": "primary",
                 "snippet": [
                     "...Situated along the Via Cassia, the main route between Rome and the north, and within the fertile valley of the Arno, the settlement quickly became an important commercial centre and in AD 285 became the capital of the Tuscia region...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.174141,
-                    43.812928
-                ]
-            },
-            "properties": {
-                "entity": "Arno",
-                "name_location": "Arno, Via Arno, Ponte a Giogoli, Sesto Fiorentino, Florence, Tuscany, 50145, Italy",
-                "class": "highway",
-                "type": "bus_stop",
-                "snippet": [
-                    "*...Situated along the Via Cassia, the main route between Rome and the north, and within the fertile valley of the Arno, the settlement quickly became an important commercial centre and in AD 285 became the capital of the Tuscia region....",
-                    "...The city's primary resource was the Arno river, providing power and access for the industry (mainly textile industry), and access to the Mediterranean sea for international trade, helping the growth of an industrious merchant community....",
-                    "...His ashes were dispersed in the Arno river....",
-                    "*...Florence was the prefecture of the French département of Arno from 1808 to the fall of Napoleon in 1814....",
-                    "*...In early August, the retreating Germans decided to demolish all the bridges along the Arno linking the district of Oltrarno to the rest of the city, making it difficult for troops of the 8th Army to cross....",
-                    "*...The Allied soldiers who died driving the Germans from Tuscany are buried in cemeteries outside the city (Americans about nine kilometres or  miles south of the city, British and Commonwealth soldiers a few kilometres east of the centre on the right bank of the Arno)....",
-                    "*...In November 1966, the Arno flooded parts of the centre, damaging many art treasures....",
-                    "*...The Arno river, three other minor rivers (Mugnone, Ema and Greve) and some streams flow through it....",
-                    "*...The river Arno, which cuts through the old part of the city, is as much a character in Florentine history as many of the people who lived there....",
-                    "*...Historically, the locals have had a love-hate relationship with the Arno – which alternated between nourishing the city with commerce, and destroying it by flood....",
-                    "*...The building acquired its current name when the Medici duke's residence was moved across the Arno to the Palazzo Pitti....",
-                    "*...Furthermore, there is the Piazza Santa Trinita, a square near the Arno that mark the end of the Via de' Tornabuoni street...."
                 ]
             }
         },
@@ -120,7 +59,8 @@
                 "class": "highway",
                 "type": "footway",
                 "snippet": [
-                    "*...The Piazza (first renamed Piazza Vittorio Emanuele II, then Piazza della Repubblica, the present name) was significantly widened and a large triumphal arch was constructed at the west end...."
+                    "*...The Piazza (first renamed Piazza Vittorio Emanuele II, then Piazza della Repubblica, the present name) was significantly widened and a large triumphal arch was constructed at the west end....",
+                    "*...The Arno river, three other minor rivers (Mugnone, Ema and Greve) and some streams flow through it...."
                 ]
             }
         },
@@ -231,25 +171,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.305229,
-                    43.707078
-                ]
-            },
-            "properties": {
-                "entity": "Ema",
-                "name_location": "Ema, Via di Tizzano, Capannuccia, Lappeggi, Grassina, Bagno a Ripoli, Florence, Tuscany, 50011, Italy",
-                "class": "highway",
-                "type": "bus_stop",
-                "snippet": [
-                    "*...The Arno river, three other minor rivers (Mugnone, Ema and Greve) and some streams flow through it...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     11.212676,
                     43.742738
                 ]
@@ -300,64 +221,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.259258,
-                    43.769259
-                ]
-            },
-            "properties": {
-                "entity": "Santa Croce",
-                "name_location": "Santa Croce, Via dei Bentaccordi, San Niccolò, Quartiere 1, Florence, Tuscany, 50122, Italy",
-                "class": "tourism",
-                "type": "hotel",
-                "snippet": [
-                    "*...Tickets to the Uffizi and Accademia museums are regularly sold out and large groups regularly fill the basilicas of Santa Croce and Santa Maria Novella, both of which charge for entry....",
-                    "*...Florence has large numbers of art-filled churches, such as San Miniato al Monte, San Lorenzo, Santa Maria Novella, Santa Trinita, Santa Maria del Carmine, Santa Croce, Santo Spirito, the Annunziata, Ognissanti and numerous others....",
-                    "...Other sights include the medieval city hall, the Palazzo della Signoria (also known as the Palazzo Vecchio), the Archeological Museum, the Museum of the History of Science, the Palazzo Davanzatti, the Stibbert Museum, St. Marks, the Medici Chapels, the Museum of the Works of Santa Croce, the Museum of the Cloister of Santa Maria Novella, the Zoological Museum (\"La Specola\"), the Bardini, and the Museo Horne....",
-                    "...The game is played in the Piazza di Santa Croce....",
-                    "...The Azzurri are from the quarter of Santa Croce, Bianchi from the quarter of Santo Spirito, Verdi are from San Giovanni and Rossi from Santa Maria Novella....",
-                    "...Other churches in Florence include the Basilica of Santa Maria Novella, located in Santa Maria Novella square (near the Firenze Santa Maria Novella railway station) which contains works by Masaccio, Paolo Uccello, Filippino Lippi and Domenico Ghirlandaio; the Basilica of Santa Croce, the principal Franciscan church in the city, which is situated on the Piazza di Santa Croce, about 800 metres (2,600 feet) southeast of the Duomo, and is the burial place of some of the most illustrious Italians, such as Michelangelo, Galileo, Machiavelli, Foscolo, Rossini, thus it is known also as the Temple of the Italian Glories (Tempio dell'Itale Glorie); the Basilica of San Lorenzo, which is one of the largest churches in the city, situated at the centre of Florence's main market district, and the burial place of all the principal members of the Medici family from Cosimo il Vecchio to Cosimo III; Santo Spirito, in the Oltrarno quarter, facing the square with the same name; Orsanmichele, whose building was constructed on the site of the kitchen garden of the monastery of San Michele, now demolished; Santissima Annunziata, a Roman Catholic basilica and the mother church of the Servite order; Ognissanti, which was founded by the lay order of the Umiliati, and is among the first examples of Baroque architecture built in the city; the Santa Maria del Carmine, in the Oltrarno district of Florence, which is the location of the Brancacci Chapel, housing outstanding Renaissance frescoes by Masaccio and Masolino da Panicale, later finished by Filippino Lippi; the Medici Chapel with statues by Michelangelo, in the San Lorenzo; as well as several others, including Santa Trinita, San Marco, Santa Felicita, Badia Fiorentina, San Gaetano, San Miniato al Monte, Florence Charterhouse, and Santa Maria del Carmine....",
-                    "...The Piazza Santa Croce is another; dominated by the Basilica of Santa Croce, it is a rectangular square in the centre of the city where the Calcio Fiorentino is played every year...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.250076,
-                    43.77336
-                ]
-            },
-            "properties": {
-                "entity": "Santa Maria Novella",
-                "name_location": "Santa Maria Novella, Piazza Santa Maria Novella, San Frediano, Quartiere 1, Florence, Tuscany, 50123, Italy",
-                "class": "tourism",
-                "type": "hotel",
-                "snippet": [
-                    "*...Tickets to the Uffizi and Accademia museums are regularly sold out and large groups regularly fill the basilicas of Santa Croce and Santa Maria Novella, both of which charge for entry....",
-                    "*...The Ponte Vecchio, The San Lorenzo Market and Santa Maria Novella are plagued by pickpockets....",
-                    "*...Florence has large numbers of art-filled churches, such as San Miniato al Monte, San Lorenzo, Santa Maria Novella, Santa Trinita, Santa Maria del Carmine, Santa Croce, Santo Spirito, the Annunziata, Ognissanti and numerous others....",
-                    "...Other sights include the medieval city hall, the Palazzo della Signoria (also known as the Palazzo Vecchio), the Archeological Museum, the Museum of the History of Science, the Palazzo Davanzatti, the Stibbert Museum, St. Marks, the Medici Chapels, the Museum of the Works of Santa Croce, the Museum of the Cloister of Santa Maria Novella, the Zoological Museum (\"La Specola\"), the Bardini, and the Museo Horne....",
-                    "*...The Azzurri are from the quarter of Santa Croce, Bianchi from the quarter of Santo Spirito, Verdi are from San Giovanni and Rossi from Santa Maria Novella....",
-                    "*...There are several other notable places, including the Palazzo Rucellai, designed by Leon Battista Alberti between 1446 and 1451 and executed, at least in part, by Bernardo Rossellino; the Palazzo Davanzati, which houses the museum of the Old Florentine House; the Palazzo delle Assicurazioni Generali, designed in the Neo-Renaissance style in 1871; the Palazzo Spini Feroni, in Piazza Santa Trinita, a historic 13th-century private palace, owned since the 1920s by shoe-designer Salvatore Ferragamo; as well as various others, including the Palazzo Borghese, the Palazzo di Bianca Cappello, the Palazzo Antinori, and the Royal building of Santa Maria Novella....",
-                    "...Other churches in Florence include the Basilica of Santa Maria Novella, located in Santa Maria Novella square (near the Firenze Santa Maria Novella railway station) which contains works by Masaccio, Paolo Uccello, Filippino Lippi and Domenico Ghirlandaio; the Basilica of Santa Croce, the principal Franciscan church in the city, which is situated on the Piazza di Santa Croce, about 800 metres (2,600 feet) southeast of the Duomo, and is the burial place of some of the most illustrious Italians, such as Michelangelo, Galileo, Machiavelli, Foscolo, Rossini, thus it is known also as the Temple of the Italian Glories (Tempio dell'Itale Glorie); the Basilica of San Lorenzo, which is one of the largest churches in the city, situated at the centre of Florence's main market district, and the burial place of all the principal members of the Medici family from Cosimo il Vecchio to Cosimo III; Santo Spirito, in the Oltrarno quarter, facing the square with the same name; Orsanmichele, whose building was constructed on the site of the kitchen garden of the monastery of San Michele, now demolished; Santissima Annunziata, a Roman Catholic basilica and the mother church of the Servite order; Ognissanti, which was founded by the lay order of the Umiliati, and is among the first examples of Baroque architecture built in the city; the Santa Maria del Carmine, in the Oltrarno district of Florence, which is the location of the Brancacci Chapel, housing outstanding Renaissance frescoes by Masaccio and Masolino da Panicale, later finished by Filippino Lippi; the Medici Chapel with statues by Michelangelo, in the San Lorenzo; as well as several others, including Santa Trinita, San Marco, Santa Felicita, Badia Fiorentina, San Gaetano, San Miniato al Monte, Florence Charterhouse, and Santa Maria del Carmine....",
-                    "...Other squares include the Piazza San Marco, the Piazza Santa Maria Novella, the Piazza Beccaria and the Piazza della Libertà....",
-                    "*...The first line began operation on 14 February 2010 and connects Florence's primary intercity railway station (Santa Maria Novella) with the southwestern suburb of Scandicci....",
-                    "*...A third line (from Santa Maria Novella to the Careggi area, where the most important hospitals of Florence are located) is also under construction.[circular reference]...",
-                    "...Firenze Santa Maria Novella railway station is the main national and international railway station in Florence and is used by 59 million people every year....",
-                    "...It is located in Piazza della Stazione, near the Fortezza da Basso, a masterpiece of the military Renaissance architecture, and the Viali di Circonvallazione, and in front of the Basilica of Santa Maria Novella's apse from which it takes its name....",
-                    "*...The main bus station is next to Santa Maria Novella railway station....",
-                    "*...The central railway station, Santa Maria Novella, is about 500 m (1,600 ft) northwest of the Piazza del Duomo....",
-                    "*...It is planned to be connected to Vespucci airport, Santa Maria Novella railway station, and to the city centre by the second line of Tramvia...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     11.253198,
                     43.776592
                 ]
@@ -390,27 +253,14 @@
                     "...To boost the sale of traditional foods, the mayor had introduced legislation (enacted in 2016) that requires restaurants to use typical Tuscan products and rejected McDonald's application to open a location in the Piazza del Duomo....",
                     "...During the day of Easter, a cart, which the Florentines call the Brindellone and which is led by four white oxen, is taken to the Piazza del Duomo between the Baptistery of St. John the Baptist (Battistero di San Giovanni) and the Florence Cathedral (Santa Maria del Fiore)....",
                     "*...Such include the Via Camillo Cavour, one of the main roads of the northern area of the historic centre; the Via Ghibellina, one of central Florence's longest streets; the Via dei Calzaiuoli, one of the most central streets of the historic centre which links Piazza del Duomo to Piazza della Signoria, winding parallel to via Roma and Piazza della Repubblica; the Via de' Tornabuoni, a luxurious street in the city centre that goes from Antinori square to ponte Santa Trinita, across Piazza Santa Trinita, characterised by the presence of fashion boutiques; the Viali di Circonvallazione, 6-lane boulevards surrounding the northern part of the historic centre; as well as others, such as Via Roma, Via degli Speziali, Via de' Cerretani, and the Viale dei Colli....",
-                    "...The central railway station, Santa Maria Novella, is about 500 m (1,600 ft) northwest of the Piazza del Duomo...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.216032,
-                    43.610344
-                ]
-            },
-            "properties": {
-                "entity": "Chianti",
-                "name_location": "Via del Chianti, Montefiridolfi, San Casciano in Val di Pesa, Florence, Tuscany, 50020, Italy",
-                "class": "highway",
-                "type": "residential",
-                "snippet": [
-                    "*...The Chianti region is just south of the city, and its Sangiovese grapes figure prominently not only in its Chianti Classico wines but also in many of the more recently developed Supertuscan blends....",
-                    "*...The celebrated Chianti Rufina district, geographically and historically separated from the main Chianti region, is also few kilometres east of Florence...."
+                    "...The central railway station, Santa Maria Novella, is about 500 m (1,600 ft) northwest of the Piazza del Duomo....",
+                    "...Their works, together with those of many other generations of artists, are gathered in the several museums of the town: the Uffizi Gallery, the Palatina gallery with the paintings of the \"Golden Ages\", the Bargello with the sculptures of the Renaissance, the museum of San Marco with Fra Angelico's works, the Academy, the chapels of the Medicis Buonarroti's house with the sculptures of Michelangelo, the following museums: Bardini, Horne, Stibbert, Romano, Corsini, The Gallery of Modern Art, the Museo dell'Opera del Duomo, the museum of Silverware and the museum of Precious Stones....",
+                    "...The originals are now housed in the Museum dell'Opera del Duomo, just to the east of the cathedral....",
+                    "...Two superb collections of sculpture are in the Bargello and the Museum of the Works of the Duomo....",
+                    "*...Near the cart there is a model of a dove, which, according to legend, is a symbol of good luck for the city: at the end of the Easter mass, the dove emerges from the nave of the Duomo and ignites the fireworks on the cart....",
+                    "*...The best-known site of Florence is the domed cathedral of the city, Santa Maria del Fiore, known as The Duomo, whose dome was built by Filippo Brunelleschi....",
+                    "*...The Palazzo Vecchio as well as the Duomo, or the city's Cathedral, are the two buildings which dominate Florence's skyline....",
+                    "*...Other churches in Florence include the Basilica of Santa Maria Novella, located in Santa Maria Novella square (near the Firenze Santa Maria Novella railway station) which contains works by Masaccio, Paolo Uccello, Filippino Lippi and Domenico Ghirlandaio; the Basilica of Santa Croce, the principal Franciscan church in the city, which is situated on the Piazza di Santa Croce, about 800 metres (2,600 feet) southeast of the Duomo, and is the burial place of some of the most illustrious Italians, such as Michelangelo, Galileo, Machiavelli, Foscolo, Rossini, thus it is known also as the Temple of the Italian Glories (Tempio dell'Itale Glorie); the Basilica of San Lorenzo, which is one of the largest churches in the city, situated at the centre of Florence's main market district, and the burial place of all the principal members of the Medici family from Cosimo il Vecchio to Cosimo III; Santo Spirito, in the Oltrarno quarter, facing the square with the same name; Orsanmichele, whose building was constructed on the site of the kitchen garden of the monastery of San Michele, now demolished; Santissima Annunziata, a Roman Catholic basilica and the mother church of the Servite order; Ognissanti, which was founded by the lay order of the Umiliati, and is among the first examples of Baroque architecture built in the city; the Santa Maria del Carmine, in the Oltrarno district of Florence, which is the location of the Brancacci Chapel, housing outstanding Renaissance frescoes by Masaccio and Masolino da Panicale, later finished by Filippino Lippi; the Medici Chapel with statues by Michelangelo, in the San Lorenzo; as well as several others, including Santa Trinita, San Marco, Santa Felicita, Badia Fiorentina, San Gaetano, San Miniato al Monte, Florence Charterhouse, and Santa Maria del Carmine...."
                 ]
             }
         },
@@ -566,52 +416,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.256575,
-                    43.773102
-                ]
-            },
-            "properties": {
-                "entity": "Santa Maria del Fiore",
-                "name_location": "Santa Maria del Fiore, Piazza del Duomo, Quartiere 1, Florence, Tuscany, 50122, Italy",
-                "class": "amenity",
-                "type": "place_of_worship",
-                "snippet": [
-                    "*...The dome of Santa Maria del Fiore remains the largest brick construction of its kind in the world....",
-                    "*...During the day of Easter, a cart, which the Florentines call the Brindellone and which is led by four white oxen, is taken to the Piazza del Duomo between the Baptistery of St. John the Baptist (Battistero di San Giovanni) and the Florence Cathedral (Santa Maria del Fiore)....",
-                    "*...The best-known site of Florence is the domed cathedral of the city, Santa Maria del Fiore, known as The Duomo, whose dome was built by Filippo Brunelleschi....",
-                    "*...The cathedral is Santa Maria del Fiore....",
-                    "...Florence Cathedral, formally the Cattedrale di Santa Maria del Fiore, is the cathedral of Florence, Italy...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.255031,
-                    43.773174
-                ]
-            },
-            "properties": {
-                "entity": "Baptistery",
-                "name_location": "Florence Baptistery of St. John, Piazza del Duomo, Quartiere 1, Florence, Tuscany, 50123, Italy",
-                "class": "amenity",
-                "type": "place_of_worship",
-                "snippet": [
-                    "...Several monuments are located in Florence: the Florence Baptistery with its mosaics; the cathedral with its sculptures, the medieval churches with bands of frescoes; public as well as private palaces: Palazzo Vecchio, Palazzo Pitti, Palazzo Medici Riccardi, Palazzo Davanzati; monasteries, cloisters, refectories; the \"Certosa\"....",
-                    "*...In front of it is the medieval Baptistery....",
-                    "...During the day of Easter, a cart, which the Florentines call the Brindellone and which is led by four white oxen, is taken to the Piazza del Duomo between the Baptistery of St. John the Baptist (Battistero di San Giovanni) and the Florence Cathedral (Santa Maria del Fiore)....",
-                    "*...The nearby Campanile (partly designed by Giotto) and the Baptistery buildings are also highlights....",
-                    "...The San Giovanni Baptistery located in front of the cathedral, is decorated by numerous artists, notably by Lorenzo Ghiberti with the Gates of Paradise...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     11.255813,
                     43.772604
                 ]
@@ -644,52 +448,6 @@
                 "snippet": [
                     "*...Florence has large numbers of art-filled churches, such as San Miniato al Monte, San Lorenzo, Santa Maria Novella, Santa Trinita, Santa Maria del Carmine, Santa Croce, Santo Spirito, the Annunziata, Ognissanti and numerous others....",
                     "*...Other churches in Florence include the Basilica of Santa Maria Novella, located in Santa Maria Novella square (near the Firenze Santa Maria Novella railway station) which contains works by Masaccio, Paolo Uccello, Filippino Lippi and Domenico Ghirlandaio; the Basilica of Santa Croce, the principal Franciscan church in the city, which is situated on the Piazza di Santa Croce, about 800 metres (2,600 feet) southeast of the Duomo, and is the burial place of some of the most illustrious Italians, such as Michelangelo, Galileo, Machiavelli, Foscolo, Rossini, thus it is known also as the Temple of the Italian Glories (Tempio dell'Itale Glorie); the Basilica of San Lorenzo, which is one of the largest churches in the city, situated at the centre of Florence's main market district, and the burial place of all the principal members of the Medici family from Cosimo il Vecchio to Cosimo III; Santo Spirito, in the Oltrarno quarter, facing the square with the same name; Orsanmichele, whose building was constructed on the site of the kitchen garden of the monastery of San Michele, now demolished; Santissima Annunziata, a Roman Catholic basilica and the mother church of the Servite order; Ognissanti, which was founded by the lay order of the Umiliati, and is among the first examples of Baroque architecture built in the city; the Santa Maria del Carmine, in the Oltrarno district of Florence, which is the location of the Brancacci Chapel, housing outstanding Renaissance frescoes by Masaccio and Masolino da Panicale, later finished by Filippino Lippi; the Medici Chapel with statues by Michelangelo, in the San Lorenzo; as well as several others, including Santa Trinita, San Marco, Santa Felicita, Badia Fiorentina, San Gaetano, San Miniato al Monte, Florence Charterhouse, and Santa Maria del Carmine...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.269537,
-                    43.706231
-                ]
-            },
-            "properties": {
-                "entity": "San Lorenzo",
-                "name_location": "San Lorenzo, Via San Lorenzo a Colline, Impruneta, Florence, Tuscany, 50023, Italy",
-                "class": "amenity",
-                "type": "place_of_worship",
-                "snippet": [
-                    "...The Ponte Vecchio, The San Lorenzo Market and Santa Maria Novella are plagued by pickpockets....",
-                    "*...Florence has large numbers of art-filled churches, such as San Miniato al Monte, San Lorenzo, Santa Maria Novella, Santa Trinita, Santa Maria del Carmine, Santa Croce, Santo Spirito, the Annunziata, Ognissanti and numerous others....",
-                    "*...The church of San Lorenzo contains the Medici Chapel, the mausoleum of the Medici family—the most powerful family in Florence from the 15th to the 18th century....",
-                    "...Other churches in Florence include the Basilica of Santa Maria Novella, located in Santa Maria Novella square (near the Firenze Santa Maria Novella railway station) which contains works by Masaccio, Paolo Uccello, Filippino Lippi and Domenico Ghirlandaio; the Basilica of Santa Croce, the principal Franciscan church in the city, which is situated on the Piazza di Santa Croce, about 800 metres (2,600 feet) southeast of the Duomo, and is the burial place of some of the most illustrious Italians, such as Michelangelo, Galileo, Machiavelli, Foscolo, Rossini, thus it is known also as the Temple of the Italian Glories (Tempio dell'Itale Glorie); the Basilica of San Lorenzo, which is one of the largest churches in the city, situated at the centre of Florence's main market district, and the burial place of all the principal members of the Medici family from Cosimo il Vecchio to Cosimo III; Santo Spirito, in the Oltrarno quarter, facing the square with the same name; Orsanmichele, whose building was constructed on the site of the kitchen garden of the monastery of San Michele, now demolished; Santissima Annunziata, a Roman Catholic basilica and the mother church of the Servite order; Ognissanti, which was founded by the lay order of the Umiliati, and is among the first examples of Baroque architecture built in the city; the Santa Maria del Carmine, in the Oltrarno district of Florence, which is the location of the Brancacci Chapel, housing outstanding Renaissance frescoes by Masaccio and Masolino da Panicale, later finished by Filippino Lippi; the Medici Chapel with statues by Michelangelo, in the San Lorenzo; as well as several others, including Santa Trinita, San Marco, Santa Felicita, Badia Fiorentina, San Gaetano, San Miniato al Monte, Florence Charterhouse, and Santa Maria del Carmine....",
-                    "...Other local railways connect Florence with Borgo San Lorenzo in the Mugello area (Faentina railway) and Siena...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.251247,
-                    43.77015
-                ]
-            },
-            "properties": {
-                "entity": "Santa Trinita",
-                "name_location": "Piazza Santa Trinita, Oltrarno, Quartiere 1, Florence, Tuscany, Italy",
-                "class": "highway",
-                "type": "pedestrian",
-                "snippet": [
-                    "*...Florence has large numbers of art-filled churches, such as San Miniato al Monte, San Lorenzo, Santa Maria Novella, Santa Trinita, Santa Maria del Carmine, Santa Croce, Santo Spirito, the Annunziata, Ognissanti and numerous others....",
-                    "...There are several other notable places, including the Palazzo Rucellai, designed by Leon Battista Alberti between 1446 and 1451 and executed, at least in part, by Bernardo Rossellino; the Palazzo Davanzati, which houses the museum of the Old Florentine House; the Palazzo delle Assicurazioni Generali, designed in the Neo-Renaissance style in 1871; the Palazzo Spini Feroni, in Piazza Santa Trinita, a historic 13th-century private palace, owned since the 1920s by shoe-designer Salvatore Ferragamo; as well as various others, including the Palazzo Borghese, the Palazzo di Bianca Cappello, the Palazzo Antinori, and the Royal building of Santa Maria Novella....",
-                    "*...Other churches in Florence include the Basilica of Santa Maria Novella, located in Santa Maria Novella square (near the Firenze Santa Maria Novella railway station) which contains works by Masaccio, Paolo Uccello, Filippino Lippi and Domenico Ghirlandaio; the Basilica of Santa Croce, the principal Franciscan church in the city, which is situated on the Piazza di Santa Croce, about 800 metres (2,600 feet) southeast of the Duomo, and is the burial place of some of the most illustrious Italians, such as Michelangelo, Galileo, Machiavelli, Foscolo, Rossini, thus it is known also as the Temple of the Italian Glories (Tempio dell'Itale Glorie); the Basilica of San Lorenzo, which is one of the largest churches in the city, situated at the centre of Florence's main market district, and the burial place of all the principal members of the Medici family from Cosimo il Vecchio to Cosimo III; Santo Spirito, in the Oltrarno quarter, facing the square with the same name; Orsanmichele, whose building was constructed on the site of the kitchen garden of the monastery of San Michele, now demolished; Santissima Annunziata, a Roman Catholic basilica and the mother church of the Servite order; Ognissanti, which was founded by the lay order of the Umiliati, and is among the first examples of Baroque architecture built in the city; the Santa Maria del Carmine, in the Oltrarno district of Florence, which is the location of the Brancacci Chapel, housing outstanding Renaissance frescoes by Masaccio and Masolino da Panicale, later finished by Filippino Lippi; the Medici Chapel with statues by Michelangelo, in the San Lorenzo; as well as several others, including Santa Trinita, San Marco, Santa Felicita, Badia Fiorentina, San Gaetano, San Miniato al Monte, Florence Charterhouse, and Santa Maria del Carmine....",
-                    "...Furthermore, there is the Piazza Santa Trinita, a square near the Arno that mark the end of the Via de' Tornabuoni street....",
-                    "...Such include the Via Camillo Cavour, one of the main roads of the northern area of the historic centre; the Via Ghibellina, one of central Florence's longest streets; the Via dei Calzaiuoli, one of the most central streets of the historic centre which links Piazza del Duomo to Piazza della Signoria, winding parallel to via Roma and Piazza della Repubblica; the Via de' Tornabuoni, a luxurious street in the city centre that goes from Antinori square to ponte Santa Trinita, across Piazza Santa Trinita, characterised by the presence of fashion boutiques; the Viali di Circonvallazione, 6-lane boulevards surrounding the northern part of the historic centre; as well as others, such as Via Roma, Via degli Speziali, Via de' Cerretani, and the Viale dei Colli...."
                 ]
             }
         },
@@ -749,26 +507,6 @@
                 "type": "hotel",
                 "snippet": [
                     "...The Strozzi Palace is the site of special exhibits...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.019373,
-                    43.728522
-                ]
-            },
-            "properties": {
-                "entity": "Africa",
-                "name_location": "Via Africa, Erta, Bobolino, Samminiatello, Montelupo Fiorentino, Florence, Tuscany, 50056, Italy",
-                "class": "highway",
-                "type": "residential",
-                "snippet": [
-                    "...The largest immigrant group came from other European countries (mostly Romanians and Albanians): 3.52%, East Asia (mostly Chinese and Filipino): 2.17%, the Americas: 1.41%, and North Africa (mostly Moroccan): 0.9%....",
-                    "*...Florentine bankers financed Henry the Navigator and the Portuguese explorers who pioneered the route around Africa to India and the Far East...."
                 ]
             }
         },
@@ -837,35 +575,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.256575,
-                    43.773102
-                ]
-            },
-            "properties": {
-                "entity": "Duomo",
-                "name_location": "Santa Maria del Fiore, Piazza del Duomo, Quartiere 1, Florence, Tuscany, 50122, Italy",
-                "class": "amenity",
-                "type": "place_of_worship",
-                "snippet": [
-                    "...To boost the sale of traditional foods, the mayor had introduced legislation (enacted in 2016) that requires restaurants to use typical Tuscan products and rejected McDonald's application to open a location in the Piazza del Duomo....",
-                    "...Their works, together with those of many other generations of artists, are gathered in the several museums of the town: the Uffizi Gallery, the Palatina gallery with the paintings of the \"Golden Ages\", the Bargello with the sculptures of the Renaissance, the museum of San Marco with Fra Angelico's works, the Academy, the chapels of the Medicis Buonarroti's house with the sculptures of Michelangelo, the following museums: Bardini, Horne, Stibbert, Romano, Corsini, The Gallery of Modern Art, the Museo dell'Opera del Duomo, the museum of Silverware and the museum of Precious Stones....",
-                    "...The originals are now housed in the Museum dell'Opera del Duomo, just to the east of the cathedral....",
-                    "...Two superb collections of sculpture are in the Bargello and the Museum of the Works of the Duomo....",
-                    "...During the day of Easter, a cart, which the Florentines call the Brindellone and which is led by four white oxen, is taken to the Piazza del Duomo between the Baptistery of St. John the Baptist (Battistero di San Giovanni) and the Florence Cathedral (Santa Maria del Fiore)....",
-                    "*...Near the cart there is a model of a dove, which, according to legend, is a symbol of good luck for the city: at the end of the Easter mass, the dove emerges from the nave of the Duomo and ignites the fireworks on the cart....",
-                    "*...The best-known site of Florence is the domed cathedral of the city, Santa Maria del Fiore, known as The Duomo, whose dome was built by Filippo Brunelleschi....",
-                    "*...The Palazzo Vecchio as well as the Duomo, or the city's Cathedral, are the two buildings which dominate Florence's skyline....",
-                    "*...Other churches in Florence include the Basilica of Santa Maria Novella, located in Santa Maria Novella square (near the Firenze Santa Maria Novella railway station) which contains works by Masaccio, Paolo Uccello, Filippino Lippi and Domenico Ghirlandaio; the Basilica of Santa Croce, the principal Franciscan church in the city, which is situated on the Piazza di Santa Croce, about 800 metres (2,600 feet) southeast of the Duomo, and is the burial place of some of the most illustrious Italians, such as Michelangelo, Galileo, Machiavelli, Foscolo, Rossini, thus it is known also as the Temple of the Italian Glories (Tempio dell'Itale Glorie); the Basilica of San Lorenzo, which is one of the largest churches in the city, situated at the centre of Florence's main market district, and the burial place of all the principal members of the Medici family from Cosimo il Vecchio to Cosimo III; Santo Spirito, in the Oltrarno quarter, facing the square with the same name; Orsanmichele, whose building was constructed on the site of the kitchen garden of the monastery of San Michele, now demolished; Santissima Annunziata, a Roman Catholic basilica and the mother church of the Servite order; Ognissanti, which was founded by the lay order of the Umiliati, and is among the first examples of Baroque architecture built in the city; the Santa Maria del Carmine, in the Oltrarno district of Florence, which is the location of the Brancacci Chapel, housing outstanding Renaissance frescoes by Masaccio and Masolino da Panicale, later finished by Filippino Lippi; the Medici Chapel with statues by Michelangelo, in the San Lorenzo; as well as several others, including Santa Trinita, San Marco, Santa Felicita, Badia Fiorentina, San Gaetano, San Miniato al Monte, Florence Charterhouse, and Santa Maria del Carmine....",
-                    "...Such include the Via Camillo Cavour, one of the main roads of the northern area of the historic centre; the Via Ghibellina, one of central Florence's longest streets; the Via dei Calzaiuoli, one of the most central streets of the historic centre which links Piazza del Duomo to Piazza della Signoria, winding parallel to via Roma and Piazza della Repubblica; the Via de' Tornabuoni, a luxurious street in the city centre that goes from Antinori square to ponte Santa Trinita, across Piazza Santa Trinita, characterised by the presence of fashion boutiques; the Viali di Circonvallazione, 6-lane boulevards surrounding the northern part of the historic centre; as well as others, such as Via Roma, Via degli Speziali, Via de' Cerretani, and the Viale dei Colli....",
-                    "...The central railway station, Santa Maria Novella, is about 500 m (1,600 ft) northwest of the Piazza del Duomo...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     11.260626,
                     43.769093
                 ]
@@ -878,76 +587,6 @@
                 "snippet": [
                     "...The game is played in the Piazza di Santa Croce....",
                     "...Other churches in Florence include the Basilica of Santa Maria Novella, located in Santa Maria Novella square (near the Firenze Santa Maria Novella railway station) which contains works by Masaccio, Paolo Uccello, Filippino Lippi and Domenico Ghirlandaio; the Basilica of Santa Croce, the principal Franciscan church in the city, which is situated on the Piazza di Santa Croce, about 800 metres (2,600 feet) southeast of the Duomo, and is the burial place of some of the most illustrious Italians, such as Michelangelo, Galileo, Machiavelli, Foscolo, Rossini, thus it is known also as the Temple of the Italian Glories (Tempio dell'Itale Glorie); the Basilica of San Lorenzo, which is one of the largest churches in the city, situated at the centre of Florence's main market district, and the burial place of all the principal members of the Medici family from Cosimo il Vecchio to Cosimo III; Santo Spirito, in the Oltrarno quarter, facing the square with the same name; Orsanmichele, whose building was constructed on the site of the kitchen garden of the monastery of San Michele, now demolished; Santissima Annunziata, a Roman Catholic basilica and the mother church of the Servite order; Ognissanti, which was founded by the lay order of the Umiliati, and is among the first examples of Baroque architecture built in the city; the Santa Maria del Carmine, in the Oltrarno district of Florence, which is the location of the Brancacci Chapel, housing outstanding Renaissance frescoes by Masaccio and Masolino da Panicale, later finished by Filippino Lippi; the Medici Chapel with statues by Michelangelo, in the San Lorenzo; as well as several others, including Santa Trinita, San Marco, Santa Felicita, Badia Fiorentina, San Gaetano, San Miniato al Monte, Florence Charterhouse, and Santa Maria del Carmine...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.247586,
-                    43.765423
-                ]
-            },
-            "properties": {
-                "entity": "Santo Spirito",
-                "name_location": "Santo Spirito, Via Mazzetta, Oltrarno, Quartiere 1, Florence, Tuscany, 50125, Italy",
-                "class": "highway",
-                "type": "bus_stop",
-                "snippet": [
-                    "*...Florence has large numbers of art-filled churches, such as San Miniato al Monte, San Lorenzo, Santa Maria Novella, Santa Trinita, Santa Maria del Carmine, Santa Croce, Santo Spirito, the Annunziata, Ognissanti and numerous others....",
-                    "*...The Azzurri are from the quarter of Santa Croce, Bianchi from the quarter of Santo Spirito, Verdi are from San Giovanni and Rossi from Santa Maria Novella....",
-                    "*...Other churches in Florence include the Basilica of Santa Maria Novella, located in Santa Maria Novella square (near the Firenze Santa Maria Novella railway station) which contains works by Masaccio, Paolo Uccello, Filippino Lippi and Domenico Ghirlandaio; the Basilica of Santa Croce, the principal Franciscan church in the city, which is situated on the Piazza di Santa Croce, about 800 metres (2,600 feet) southeast of the Duomo, and is the burial place of some of the most illustrious Italians, such as Michelangelo, Galileo, Machiavelli, Foscolo, Rossini, thus it is known also as the Temple of the Italian Glories (Tempio dell'Itale Glorie); the Basilica of San Lorenzo, which is one of the largest churches in the city, situated at the centre of Florence's main market district, and the burial place of all the principal members of the Medici family from Cosimo il Vecchio to Cosimo III; Santo Spirito, in the Oltrarno quarter, facing the square with the same name; Orsanmichele, whose building was constructed on the site of the kitchen garden of the monastery of San Michele, now demolished; Santissima Annunziata, a Roman Catholic basilica and the mother church of the Servite order; Ognissanti, which was founded by the lay order of the Umiliati, and is among the first examples of Baroque architecture built in the city; the Santa Maria del Carmine, in the Oltrarno district of Florence, which is the location of the Brancacci Chapel, housing outstanding Renaissance frescoes by Masaccio and Masolino da Panicale, later finished by Filippino Lippi; the Medici Chapel with statues by Michelangelo, in the San Lorenzo; as well as several others, including Santa Trinita, San Marco, Santa Felicita, Badia Fiorentina, San Gaetano, San Miniato al Monte, Florence Charterhouse, and Santa Maria del Carmine....",
-                    "...The private school, Centro Machiavelli which teaches Italian language and culture to foreigners, is located in Piazza Santo Spirito in Florence...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.254269,
-                    43.772675
-                ]
-            },
-            "properties": {
-                "entity": "San Giovanni",
-                "name_location": "San Giovanni, Via dei Pecori, Quartiere 1, Florence, Tuscany, 50123, Italy",
-                "class": "amenity",
-                "type": "taxi",
-                "snippet": [
-                    "...During the day of Easter, a cart, which the Florentines call the Brindellone and which is led by four white oxen, is taken to the Piazza del Duomo between the Baptistery of St. John the Baptist (Battistero di San Giovanni) and the Florence Cathedral (Santa Maria del Fiore)....",
-                    "*...The Azzurri are from the quarter of Santa Croce, Bianchi from the quarter of Santo Spirito, Verdi are from San Giovanni and Rossi from Santa Maria Novella....",
-                    "...The San Giovanni Baptistery located in front of the cathedral, is decorated by numerous artists, notably by Lorenzo Ghiberti with the Gates of Paradise...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.25478,
-                    43.772778
-                ]
-            },
-            "properties": {
-                "entity": "Cathedral",
-                "name_location": "Irish Pub J.J. Cathedral, Piazza San Giovanni, Quartiere 1, Florence, Tuscany, 50123, Italy",
-                "class": "amenity",
-                "type": "pub",
-                "snippet": [
-                    "...Several monuments are located in Florence: the Florence Baptistery with its mosaics; the cathedral with its sculptures, the medieval churches with bands of frescoes; public as well as private palaces: Palazzo Vecchio, Palazzo Pitti, Palazzo Medici Riccardi, Palazzo Davanzati; monasteries, cloisters, refectories; the \"Certosa\"....",
-                    "...The cathedral, topped by Brunelleschi's dome, dominates the Florentine skyline....",
-                    "...The originals are now housed in the Museum dell'Opera del Duomo, just to the east of the cathedral....",
-                    "...During the day of Easter, a cart, which the Florentines call the Brindellone and which is led by four white oxen, is taken to the Piazza del Duomo between the Baptistery of St. John the Baptist (Battistero di San Giovanni) and the Florence Cathedral (Santa Maria del Fiore)....",
-                    "...The best-known site of Florence is the domed cathedral of the city, Santa Maria del Fiore, known as The Duomo, whose dome was built by Filippo Brunelleschi....",
-                    "*...The Palazzo Vecchio as well as the Duomo, or the city's Cathedral, are the two buildings which dominate Florence's skyline....",
-                    "...The cathedral is Santa Maria del Fiore....",
-                    "...The San Giovanni Baptistery located in front of the cathedral, is decorated by numerous artists, notably by Lorenzo Ghiberti with the Gates of Paradise....",
-                    "...Florence Cathedral, formally the Cattedrale di Santa Maria del Fiore, is the cathedral of Florence, Italy...."
                 ]
             }
         },
@@ -969,27 +608,6 @@
                     "*...Both were generous patrons of the arts, commissioning works like Michelangelo's Laurentian Library and Medici Chapel in Florence, to name just two....",
                     "...The church of San Lorenzo contains the Medici Chapel, the mausoleum of the Medici family—the most powerful family in Florence from the 15th to the 18th century....",
                     "...Other churches in Florence include the Basilica of Santa Maria Novella, located in Santa Maria Novella square (near the Firenze Santa Maria Novella railway station) which contains works by Masaccio, Paolo Uccello, Filippino Lippi and Domenico Ghirlandaio; the Basilica of Santa Croce, the principal Franciscan church in the city, which is situated on the Piazza di Santa Croce, about 800 metres (2,600 feet) southeast of the Duomo, and is the burial place of some of the most illustrious Italians, such as Michelangelo, Galileo, Machiavelli, Foscolo, Rossini, thus it is known also as the Temple of the Italian Glories (Tempio dell'Itale Glorie); the Basilica of San Lorenzo, which is one of the largest churches in the city, situated at the centre of Florence's main market district, and the burial place of all the principal members of the Medici family from Cosimo il Vecchio to Cosimo III; Santo Spirito, in the Oltrarno quarter, facing the square with the same name; Orsanmichele, whose building was constructed on the site of the kitchen garden of the monastery of San Michele, now demolished; Santissima Annunziata, a Roman Catholic basilica and the mother church of the Servite order; Ognissanti, which was founded by the lay order of the Umiliati, and is among the first examples of Baroque architecture built in the city; the Santa Maria del Carmine, in the Oltrarno district of Florence, which is the location of the Brancacci Chapel, housing outstanding Renaissance frescoes by Masaccio and Masolino da Panicale, later finished by Filippino Lippi; the Medici Chapel with statues by Michelangelo, in the San Lorenzo; as well as several others, including Santa Trinita, San Marco, Santa Felicita, Badia Fiorentina, San Gaetano, San Miniato al Monte, Florence Charterhouse, and Santa Maria del Carmine...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.258758,
-                    43.776917
-                ]
-            },
-            "properties": {
-                "entity": "Galleria dell'Accademia",
-                "name_location": "Galleria dell'Accademia, 58/60, Via Ricasoli, Quartiere 1, Florence, Tuscany, 50122, Italy",
-                "class": "tourism",
-                "type": "museum",
-                "snippet": [
-                    "...The Galleria dell'Accademia has Michelangelo's David – perhaps the best-known work of art anywhere, plus the unfinished statues of the slaves Michelangelo created for the tomb of Pope Julius II....",
-                    "...In 1504, Michelangelo's David (now replaced by a replica, since the original was moved in 1873 to the Galleria dell'Accademia) was installed in front of the Palazzo della Signoria (also known as Palazzo Vecchio)....",
-                    "...The Galleria dell'Accademia houses a Michelangelo collection, including the David...."
                 ]
             }
         },
@@ -1125,7 +743,9 @@
                 "snippet": [
                     "*...There are several other notable places, including the Palazzo Rucellai, designed by Leon Battista Alberti between 1446 and 1451 and executed, at least in part, by Bernardo Rossellino; the Palazzo Davanzati, which houses the museum of the Old Florentine House; the Palazzo delle Assicurazioni Generali, designed in the Neo-Renaissance style in 1871; the Palazzo Spini Feroni, in Piazza Santa Trinita, a historic 13th-century private palace, owned since the 1920s by shoe-designer Salvatore Ferragamo; as well as various others, including the Palazzo Borghese, the Palazzo di Bianca Cappello, the Palazzo Antinori, and the Royal building of Santa Maria Novella....",
                     "...Furthermore, there is the Piazza Santa Trinita, a square near the Arno that mark the end of the Via de' Tornabuoni street....",
-                    "*...Such include the Via Camillo Cavour, one of the main roads of the northern area of the historic centre; the Via Ghibellina, one of central Florence's longest streets; the Via dei Calzaiuoli, one of the most central streets of the historic centre which links Piazza del Duomo to Piazza della Signoria, winding parallel to via Roma and Piazza della Repubblica; the Via de' Tornabuoni, a luxurious street in the city centre that goes from Antinori square to ponte Santa Trinita, across Piazza Santa Trinita, characterised by the presence of fashion boutiques; the Viali di Circonvallazione, 6-lane boulevards surrounding the northern part of the historic centre; as well as others, such as Via Roma, Via degli Speziali, Via de' Cerretani, and the Viale dei Colli...."
+                    "*...Such include the Via Camillo Cavour, one of the main roads of the northern area of the historic centre; the Via Ghibellina, one of central Florence's longest streets; the Via dei Calzaiuoli, one of the most central streets of the historic centre which links Piazza del Duomo to Piazza della Signoria, winding parallel to via Roma and Piazza della Repubblica; the Via de' Tornabuoni, a luxurious street in the city centre that goes from Antinori square to ponte Santa Trinita, across Piazza Santa Trinita, characterised by the presence of fashion boutiques; the Viali di Circonvallazione, 6-lane boulevards surrounding the northern part of the historic centre; as well as others, such as Via Roma, Via degli Speziali, Via de' Cerretani, and the Viale dei Colli....",
+                    "*...Florence has large numbers of art-filled churches, such as San Miniato al Monte, San Lorenzo, Santa Maria Novella, Santa Trinita, Santa Maria del Carmine, Santa Croce, Santo Spirito, the Annunziata, Ognissanti and numerous others....",
+                    "*...Other churches in Florence include the Basilica of Santa Maria Novella, located in Santa Maria Novella square (near the Firenze Santa Maria Novella railway station) which contains works by Masaccio, Paolo Uccello, Filippino Lippi and Domenico Ghirlandaio; the Basilica of Santa Croce, the principal Franciscan church in the city, which is situated on the Piazza di Santa Croce, about 800 metres (2,600 feet) southeast of the Duomo, and is the burial place of some of the most illustrious Italians, such as Michelangelo, Galileo, Machiavelli, Foscolo, Rossini, thus it is known also as the Temple of the Italian Glories (Tempio dell'Itale Glorie); the Basilica of San Lorenzo, which is one of the largest churches in the city, situated at the centre of Florence's main market district, and the burial place of all the principal members of the Medici family from Cosimo il Vecchio to Cosimo III; Santo Spirito, in the Oltrarno quarter, facing the square with the same name; Orsanmichele, whose building was constructed on the site of the kitchen garden of the monastery of San Michele, now demolished; Santissima Annunziata, a Roman Catholic basilica and the mother church of the Servite order; Ognissanti, which was founded by the lay order of the Umiliati, and is among the first examples of Baroque architecture built in the city; the Santa Maria del Carmine, in the Oltrarno district of Florence, which is the location of the Brancacci Chapel, housing outstanding Renaissance frescoes by Masaccio and Masolino da Panicale, later finished by Filippino Lippi; the Medici Chapel with statues by Michelangelo, in the San Lorenzo; as well as several others, including Santa Trinita, San Marco, Santa Felicita, Badia Fiorentina, San Gaetano, San Miniato al Monte, Florence Charterhouse, and Santa Maria del Carmine...."
                 ]
             }
         },
@@ -1240,7 +860,9 @@
                 "class": "amenity",
                 "type": "place_of_worship",
                 "snippet": [
-                    "...The San Giovanni Baptistery located in front of the cathedral, is decorated by numerous artists, notably by Lorenzo Ghiberti with the Gates of Paradise...."
+                    "...The San Giovanni Baptistery located in front of the cathedral, is decorated by numerous artists, notably by Lorenzo Ghiberti with the Gates of Paradise....",
+                    "...During the day of Easter, a cart, which the Florentines call the Brindellone and which is led by four white oxen, is taken to the Piazza del Duomo between the Baptistery of St. John the Baptist (Battistero di San Giovanni) and the Florence Cathedral (Santa Maria del Fiore)....",
+                    "*...The Azzurri are from the quarter of Santa Croce, Bianchi from the quarter of Santo Spirito, Verdi are from San Giovanni and Rossi from Santa Maria Novella...."
                 ]
             }
         },
@@ -1280,7 +902,12 @@
                 "type": "place_of_worship",
                 "snippet": [
                     "...Other churches in Florence include the Basilica of Santa Maria Novella, located in Santa Maria Novella square (near the Firenze Santa Maria Novella railway station) which contains works by Masaccio, Paolo Uccello, Filippino Lippi and Domenico Ghirlandaio; the Basilica of Santa Croce, the principal Franciscan church in the city, which is situated on the Piazza di Santa Croce, about 800 metres (2,600 feet) southeast of the Duomo, and is the burial place of some of the most illustrious Italians, such as Michelangelo, Galileo, Machiavelli, Foscolo, Rossini, thus it is known also as the Temple of the Italian Glories (Tempio dell'Itale Glorie); the Basilica of San Lorenzo, which is one of the largest churches in the city, situated at the centre of Florence's main market district, and the burial place of all the principal members of the Medici family from Cosimo il Vecchio to Cosimo III; Santo Spirito, in the Oltrarno quarter, facing the square with the same name; Orsanmichele, whose building was constructed on the site of the kitchen garden of the monastery of San Michele, now demolished; Santissima Annunziata, a Roman Catholic basilica and the mother church of the Servite order; Ognissanti, which was founded by the lay order of the Umiliati, and is among the first examples of Baroque architecture built in the city; the Santa Maria del Carmine, in the Oltrarno district of Florence, which is the location of the Brancacci Chapel, housing outstanding Renaissance frescoes by Masaccio and Masolino da Panicale, later finished by Filippino Lippi; the Medici Chapel with statues by Michelangelo, in the San Lorenzo; as well as several others, including Santa Trinita, San Marco, Santa Felicita, Badia Fiorentina, San Gaetano, San Miniato al Monte, Florence Charterhouse, and Santa Maria del Carmine....",
-                    "...The Piazza Santa Croce is another; dominated by the Basilica of Santa Croce, it is a rectangular square in the centre of the city where the Calcio Fiorentino is played every year...."
+                    "...The Piazza Santa Croce is another; dominated by the Basilica of Santa Croce, it is a rectangular square in the centre of the city where the Calcio Fiorentino is played every year....",
+                    "*...Tickets to the Uffizi and Accademia museums are regularly sold out and large groups regularly fill the basilicas of Santa Croce and Santa Maria Novella, both of which charge for entry....",
+                    "*...Florence has large numbers of art-filled churches, such as San Miniato al Monte, San Lorenzo, Santa Maria Novella, Santa Trinita, Santa Maria del Carmine, Santa Croce, Santo Spirito, the Annunziata, Ognissanti and numerous others....",
+                    "...Other sights include the medieval city hall, the Palazzo della Signoria (also known as the Palazzo Vecchio), the Archeological Museum, the Museum of the History of Science, the Palazzo Davanzatti, the Stibbert Museum, St. Marks, the Medici Chapels, the Museum of the Works of Santa Croce, the Museum of the Cloister of Santa Maria Novella, the Zoological Museum (\"La Specola\"), the Bardini, and the Museo Horne....",
+                    "...The game is played in the Piazza di Santa Croce....",
+                    "...The Azzurri are from the quarter of Santa Croce, Bianchi from the quarter of Santo Spirito, Verdi are from San Giovanni and Rossi from Santa Maria Novella...."
                 ]
             }
         },
@@ -1358,28 +985,6 @@
                 "type": "museum",
                 "snippet": [
                     "...Other churches in Florence include the Basilica of Santa Maria Novella, located in Santa Maria Novella square (near the Firenze Santa Maria Novella railway station) which contains works by Masaccio, Paolo Uccello, Filippino Lippi and Domenico Ghirlandaio; the Basilica of Santa Croce, the principal Franciscan church in the city, which is situated on the Piazza di Santa Croce, about 800 metres (2,600 feet) southeast of the Duomo, and is the burial place of some of the most illustrious Italians, such as Michelangelo, Galileo, Machiavelli, Foscolo, Rossini, thus it is known also as the Temple of the Italian Glories (Tempio dell'Itale Glorie); the Basilica of San Lorenzo, which is one of the largest churches in the city, situated at the centre of Florence's main market district, and the burial place of all the principal members of the Medici family from Cosimo il Vecchio to Cosimo III; Santo Spirito, in the Oltrarno quarter, facing the square with the same name; Orsanmichele, whose building was constructed on the site of the kitchen garden of the monastery of San Michele, now demolished; Santissima Annunziata, a Roman Catholic basilica and the mother church of the Servite order; Ognissanti, which was founded by the lay order of the Umiliati, and is among the first examples of Baroque architecture built in the city; the Santa Maria del Carmine, in the Oltrarno district of Florence, which is the location of the Brancacci Chapel, housing outstanding Renaissance frescoes by Masaccio and Masolino da Panicale, later finished by Filippino Lippi; the Medici Chapel with statues by Michelangelo, in the San Lorenzo; as well as several others, including Santa Trinita, San Marco, Santa Felicita, Badia Fiorentina, San Gaetano, San Miniato al Monte, Florence Charterhouse, and Santa Maria del Carmine...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.222437,
-                    43.791892
-                ]
-            },
-            "properties": {
-                "entity": "San Marco",
-                "name_location": "San Marco, Via Giacomo Carissimi, Quartiere 5, Florence, Tuscany, 50127, Italy",
-                "class": "amenity",
-                "type": "pharmacy",
-                "snippet": [
-                    "*...During this period, the Dominican friar Girolamo Savonarola had become prior of the San Marco monastery in 1490....",
-                    "...Their works, together with those of many other generations of artists, are gathered in the several museums of the town: the Uffizi Gallery, the Palatina gallery with the paintings of the \"Golden Ages\", the Bargello with the sculptures of the Renaissance, the museum of San Marco with Fra Angelico's works, the Academy, the chapels of the Medicis Buonarroti's house with the sculptures of Michelangelo, the following museums: Bardini, Horne, Stibbert, Romano, Corsini, The Gallery of Modern Art, the Museo dell'Opera del Duomo, the museum of Silverware and the museum of Precious Stones....",
-                    "*...Other churches in Florence include the Basilica of Santa Maria Novella, located in Santa Maria Novella square (near the Firenze Santa Maria Novella railway station) which contains works by Masaccio, Paolo Uccello, Filippino Lippi and Domenico Ghirlandaio; the Basilica of Santa Croce, the principal Franciscan church in the city, which is situated on the Piazza di Santa Croce, about 800 metres (2,600 feet) southeast of the Duomo, and is the burial place of some of the most illustrious Italians, such as Michelangelo, Galileo, Machiavelli, Foscolo, Rossini, thus it is known also as the Temple of the Italian Glories (Tempio dell'Itale Glorie); the Basilica of San Lorenzo, which is one of the largest churches in the city, situated at the centre of Florence's main market district, and the burial place of all the principal members of the Medici family from Cosimo il Vecchio to Cosimo III; Santo Spirito, in the Oltrarno quarter, facing the square with the same name; Orsanmichele, whose building was constructed on the site of the kitchen garden of the monastery of San Michele, now demolished; Santissima Annunziata, a Roman Catholic basilica and the mother church of the Servite order; Ognissanti, which was founded by the lay order of the Umiliati, and is among the first examples of Baroque architecture built in the city; the Santa Maria del Carmine, in the Oltrarno district of Florence, which is the location of the Brancacci Chapel, housing outstanding Renaissance frescoes by Masaccio and Masolino da Panicale, later finished by Filippino Lippi; the Medici Chapel with statues by Michelangelo, in the San Lorenzo; as well as several others, including Santa Trinita, San Marco, Santa Felicita, Badia Fiorentina, San Gaetano, San Miniato al Monte, Florence Charterhouse, and Santa Maria del Carmine....",
-                    "...Other squares include the Piazza San Marco, the Piazza Santa Maria Novella, the Piazza Beccaria and the Piazza della Libertà...."
                 ]
             }
         },
@@ -1475,7 +1080,11 @@
                 "class": "amenity",
                 "type": "place_of_worship",
                 "snippet": [
-                    "...Florence Cathedral, formally the Cattedrale di Santa Maria del Fiore, is the cathedral of Florence, Italy...."
+                    "...Florence Cathedral, formally the Cattedrale di Santa Maria del Fiore, is the cathedral of Florence, Italy....",
+                    "*...The dome of Santa Maria del Fiore remains the largest brick construction of its kind in the world....",
+                    "*...During the day of Easter, a cart, which the Florentines call the Brindellone and which is led by four white oxen, is taken to the Piazza del Duomo between the Baptistery of St. John the Baptist (Battistero di San Giovanni) and the Florence Cathedral (Santa Maria del Fiore)....",
+                    "*...The best-known site of Florence is the domed cathedral of the city, Santa Maria del Fiore, known as The Duomo, whose dome was built by Filippo Brunelleschi....",
+                    "*...The cathedral is Santa Maria del Fiore...."
                 ]
             }
         },
@@ -1513,7 +1122,10 @@
                 "class": "highway",
                 "type": "pedestrian",
                 "snippet": [
-                    "...Other squares include the Piazza San Marco, the Piazza Santa Maria Novella, the Piazza Beccaria and the Piazza della Libertà...."
+                    "...Other squares include the Piazza San Marco, the Piazza Santa Maria Novella, the Piazza Beccaria and the Piazza della Libertà....",
+                    "*...During this period, the Dominican friar Girolamo Savonarola had become prior of the San Marco monastery in 1490....",
+                    "...Their works, together with those of many other generations of artists, are gathered in the several museums of the town: the Uffizi Gallery, the Palatina gallery with the paintings of the \"Golden Ages\", the Bargello with the sculptures of the Renaissance, the museum of San Marco with Fra Angelico's works, the Academy, the chapels of the Medicis Buonarroti's house with the sculptures of Michelangelo, the following museums: Bardini, Horne, Stibbert, Romano, Corsini, The Gallery of Modern Art, the Museo dell'Opera del Duomo, the museum of Silverware and the museum of Precious Stones....",
+                    "*...Other churches in Florence include the Basilica of Santa Maria Novella, located in Santa Maria Novella square (near the Firenze Santa Maria Novella railway station) which contains works by Masaccio, Paolo Uccello, Filippino Lippi and Domenico Ghirlandaio; the Basilica of Santa Croce, the principal Franciscan church in the city, which is situated on the Piazza di Santa Croce, about 800 metres (2,600 feet) southeast of the Duomo, and is the burial place of some of the most illustrious Italians, such as Michelangelo, Galileo, Machiavelli, Foscolo, Rossini, thus it is known also as the Temple of the Italian Glories (Tempio dell'Itale Glorie); the Basilica of San Lorenzo, which is one of the largest churches in the city, situated at the centre of Florence's main market district, and the burial place of all the principal members of the Medici family from Cosimo il Vecchio to Cosimo III; Santo Spirito, in the Oltrarno quarter, facing the square with the same name; Orsanmichele, whose building was constructed on the site of the kitchen garden of the monastery of San Michele, now demolished; Santissima Annunziata, a Roman Catholic basilica and the mother church of the Servite order; Ognissanti, which was founded by the lay order of the Umiliati, and is among the first examples of Baroque architecture built in the city; the Santa Maria del Carmine, in the Oltrarno district of Florence, which is the location of the Brancacci Chapel, housing outstanding Renaissance frescoes by Masaccio and Masolino da Panicale, later finished by Filippino Lippi; the Medici Chapel with statues by Michelangelo, in the San Lorenzo; as well as several others, including Santa Trinita, San Marco, Santa Felicita, Badia Fiorentina, San Gaetano, San Miniato al Monte, Florence Charterhouse, and Santa Maria del Carmine...."
                 ]
             }
         },
@@ -1560,8 +1172,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.261063,
-                    43.783713
+                    11.261942,
+                    43.783441
                 ]
             },
             "properties": {
@@ -1790,8 +1402,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.249723,
-                    43.775184
+                    11.249946,
+                    43.775298
                 ]
             },
             "properties": {
@@ -1898,25 +1510,6 @@
                 "type": "manor",
                 "snippet": [
                     "*...The Harvard University Center for Italian Renaissance Studies is based in Villa I Tatti...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.247721,
-                    43.766734
-                ]
-            },
-            "properties": {
-                "entity": "Piazza Santo Spirito",
-                "name_location": "Piazza di Santo Spirito, Oltrarno, Quartiere 1, Florence, Tuscany, Italy",
-                "class": "highway",
-                "type": "pedestrian",
-                "snippet": [
-                    "*...The private school, Centro Machiavelli which teaches Italian language and culture to foreigners, is located in Piazza Santo Spirito in Florence...."
                 ]
             }
         }

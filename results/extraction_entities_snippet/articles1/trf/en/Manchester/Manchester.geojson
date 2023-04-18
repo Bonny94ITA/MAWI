@@ -6,52 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -2.248204,
-                    53.473084
-                ]
-            },
-            "properties": {
-                "entity": "Medlock",
-                "name_location": "Medlock Street, Petersfield, City Centre, Manchester, Greater Manchester, England, M15 4RL, United Kingdom",
-                "class": "highway",
-                "type": "primary",
-                "snippet": [
-                    "*...The history of Manchester began with the civilian settlement associated with the Roman fort (castra) of Mamucium or Mancunium, established in about AD 79 on a sandstone bluff near the confluence of the rivers Medlock and Irwell....",
-                    "...For example, casting and machining expertise at Beyer, Peacock & Company's locomotive works in Gorton was switched to bomb making; Dunlop's rubber works in Chorlton-on-Medlock made barrage balloons; and just outside the city in Trafford Park, engineers Metropolitan-Vickers made Avro Manchester and Avro Lancaster bombers and Ford built the Rolls-Royce Merlin engines to power them....",
-                    "...Manchester regained its borough status in 1838, and comprised the townships of Beswick, Cheetham Hill, Chorlton upon Medlock and Hulme....",
-                    "...The city centre is on the east bank of the River Irwell, near its confluences with the Rivers Medlock and Irk, and is relatively low-lying, being between 35 to 42 metres (115 to 138 feet) above sea level...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.255828,
-                    53.480568
-                ]
-            },
-            "properties": {
-                "entity": "Irwell",
-                "name_location": "Irwell Street, St. Johns, City Centre, Manchester, Greater Manchester, England, M60 9HL, United Kingdom",
-                "class": "highway",
-                "type": "primary",
-                "snippet": [
-                    "*...The history of Manchester began with the civilian settlement associated with the Roman fort (castra) of Mamucium or Mancunium, established in about AD 79 on a sandstone bluff near the confluence of the rivers Medlock and Irwell....",
-                    "...The Brigantes were the major Celtic tribe in what is now known as Northern England; they had a stronghold in the locality at a sandstone outcrop on which Manchester Cathedral now stands, opposite the bank of the  River Irwell....",
-                    "*...After the Roman withdrawal and Saxon conquest, the focus of settlement shifted to the confluence of the Irwell and Irk sometime before the arrival of the Normans after 1066....",
-                    "*...The Irwell and Mersey were made navigable by 1736, opening a route from Manchester to the sea docks on the Mersey....",
-                    "...The Manchester Ship Canal was built between 1888 and 1894, in some sections by canalisation of the Rivers Irwell and Mersey, running 36 miles (58 km) from Salford to Eastham Locks on the tidal Mersey....",
-                    "...The city centre is on the east bank of the River Irwell, near its confluences with the Rivers Medlock and Irk, and is relatively low-lying, being between 35 to 42 metres (115 to 138 feet) above sea level...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -2.275785,
                     53.423545
                 ]
@@ -65,7 +19,10 @@
                     "...Historically part of Lancashire, areas of Cheshire south of the River Mersey were incorporated into Manchester in the 20th century, including Wythenshawe in 1931....",
                     "...In 1931, the Cheshire civil parishes of Baguley, Northenden and Northen Etchells from the south of the River Mersey were added....",
                     "...The River Mersey flows through the south of Manchester....",
-                    "...Due to being already highly urban, the city contains limited portions of protected green-belt area within greenfield throughout the borough, with minimal development opportunities, at Clayton Vale, Heaton Park, Chorlton Water Park along with the Chorlton Ees & Ivy Green nature reserve and the floodplain surrounding the River Mersey, as well as the southern area around Manchester Airport...."
+                    "...Due to being already highly urban, the city contains limited portions of protected green-belt area within greenfield throughout the borough, with minimal development opportunities, at Clayton Vale, Heaton Park, Chorlton Water Park along with the Chorlton Ees & Ivy Green nature reserve and the floodplain surrounding the River Mersey, as well as the southern area around Manchester Airport....",
+                    "*...The Irwell and Mersey were made navigable by 1736, opening a route from Manchester to the sea docks on the Mersey....",
+                    "*...The canal was extended to the Mersey at Runcorn by 1776....",
+                    "*...The Manchester Ship Canal was built between 1888 and 1894, in some sections by canalisation of the Rivers Irwell and Mersey, running 36 miles (58 km) from Salford to Eastham Locks on the tidal Mersey...."
                 ]
             }
         },
@@ -106,7 +63,8 @@
                 "type": "disused_station",
                 "snippet": [
                     "*...Manchester Liverpool Road railway station was the world's first inter-city passenger railway station....",
-                    "*...Manchester Liverpool Road was the world's first purpose-built passenger and goods railway station and served as the Manchester terminus on the Liverpool & Manchester Railway – the world's first inter-city passenger railway...."
+                    "*...Manchester Liverpool Road was the world's first purpose-built passenger and goods railway station and served as the Manchester terminus on the Liverpool & Manchester Railway – the world's first inter-city passenger railway....",
+                    "*...The Science and Industry Museum, housed in the former Liverpool Road railway station, has a large collection of steam locomotives, industrial machinery, aircraft and a replica of the world's first stored computer program (known as the Manchester Baby)...."
                 ]
             }
         },
@@ -125,7 +83,12 @@
                 "class": "man_made",
                 "type": "bridge",
                 "snippet": [
-                    "...The Brigantes were the major Celtic tribe in what is now known as Northern England; they had a stronghold in the locality at a sandstone outcrop on which Manchester Cathedral now stands, opposite the bank of the  River Irwell...."
+                    "...The Brigantes were the major Celtic tribe in what is now known as Northern England; they had a stronghold in the locality at a sandstone outcrop on which Manchester Cathedral now stands, opposite the bank of the  River Irwell....",
+                    "*...The history of Manchester began with the civilian settlement associated with the Roman fort (castra) of Mamucium or Mancunium, established in about AD 79 on a sandstone bluff near the confluence of the rivers Medlock and Irwell....",
+                    "*...After the Roman withdrawal and Saxon conquest, the focus of settlement shifted to the confluence of the Irwell and Irk sometime before the arrival of the Normans after 1066....",
+                    "*...The Irwell and Mersey were made navigable by 1736, opening a route from Manchester to the sea docks on the Mersey....",
+                    "...The Manchester Ship Canal was built between 1888 and 1894, in some sections by canalisation of the Rivers Irwell and Mersey, running 36 miles (58 km) from Salford to Eastham Locks on the tidal Mersey....",
+                    "...The city centre is on the east bank of the River Irwell, near its confluences with the Rivers Medlock and Irk, and is relatively low-lying, being between 35 to 42 metres (115 to 138 feet) above sea level...."
                 ]
             }
         },
@@ -168,46 +131,6 @@
                 "snippet": [
                     "*...After the Roman withdrawal and Saxon conquest, the focus of settlement shifted to the confluence of the Irwell and Irk sometime before the arrival of the Normans after 1066....",
                     "*...The city centre is on the east bank of the River Irwell, near its confluences with the Rivers Medlock and Irk, and is relatively low-lying, being between 35 to 42 metres (115 to 138 feet) above sea level...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.289758,
-                    53.463969
-                ]
-            },
-            "properties": {
-                "entity": "North",
-                "name_location": "Sir Matt Busby Way, Wharfside, Gorse Hill, Trafford, Greater Manchester, England, M16 0SZ, United Kingdom",
-                "class": "highway",
-                "type": "unclassified",
-                "snippet": [
-                    "...It is bordered by the Cheshire Plain to the south, the Pennines to the north and east, and the neighbouring city of Salford to the west....",
-                    "*...Much of the wider area was laid waste in the subsequent Harrying of the North....",
-                    "...The great majority of cotton spinning took place in the towns of south Lancashire and north Cheshire, and Manchester was for a time the most productive centre of cotton processing....",
-                    "...At , 160 miles (260 km) northwest of London, Manchester lies in a bowl-shaped land area bordered to the north and east by the Pennines, an upland chain that runs the length of northern England, and to the south by the Cheshire Plain....",
-                    "...Manchester is 35.0 miles (56.3 km) north-east of Liverpool and 35.0 miles (56.3 km) north-west of Sheffield, making the city the halfway point between the two....",
-                    "...Snowfalls are not common in the city because of the urban warming effect but the West Pennine Moors to the north-west, South Pennines to the north-east and Peak District to the east receive more snow, which can close roads leading out of the city....",
-                    "...The award-winning Heaton Park in the north of the city borough is one of the largest municipal parks in Europe, covering 610 acres (250 ha) of parkland....",
-                    "...After deregulation in 1986, the bus system was taken over by GM Buses, which after privatisation was split into GM Buses North and GM Buses South....",
-                    "...Much of the First Greater Manchester business was sold to Diamond North West and Go North West in 2019....",
-                    "...Go North West operate a three-route zero-fare Manchester Metroshuttle, which carries 2.8 million commuters a year around Manchester's business districts....",
-                    "...Manchester Airport serves Manchester, Northern England and North Wales....",
-                    "...Services cover many destinations in Europe, North America, the Caribbean, Africa, the Middle East, and Asia (with more destinations from Manchester than any other airport in Britain)....",
-                    "...It also has a flight school, and both the Greater Manchester Police Air Support Unit and the North West Air Ambulance have helicopters based there....",
-                    "...Brass band music, a tradition in the north of England, is important to Manchester's musical heritage; some of the UK's leading bands, such as the CWS Manchester Band and the Fairey Band, are from Manchester and surrounding areas, and the Whit Friday brass-band contest takes place annually in the neighbouring areas of Saddleworth and Tameside.\nManchester has a thriving theatre, opera and dance scene, with a number of large performance venues, including Manchester Opera House, which feature large-scale touring shows and West End productions; the Palace Theatre; and the Royal Exchange Theatre in Manchester's former cotton exchange, which is the largest theatre in the round in the UK.\nSmaller venues include the Contact Theatre and Z-arts in Hulme....",
-                    "...Trafford Park in the neighbouring borough of Trafford is home to Imperial War Museum North....",
-                    "...The Metro North West is available free at Metrolink stops, rail stations and other busy locations....",
-                    "...An attempt to launch a Northern daily newspaper, the North West Times, employing journalists made redundant by other titles, closed in 1988....",
-                    "...Another attempt was made with the North West Enquirer, which hoped to provide a true \"regional\" newspaper for the North West, much in the same vein as the Yorkshire Post does for Yorkshire or The Northern Echo does for the North East; it folded in October 2006....",
-                    "...Granada produces Coronation Street, local news and programmes for North West England....",
-                    "...Manchester was the regional base for BBC One North West Region programmes before it relocated to MediaCityUK in nearby Salford Quays....",
-                    "...The city has the highest number of local radio stations outside London, including BBC Radio Manchester, Hits Radio Manchester, Capital Manchester and Lancashire, Greatest Hits Radio Manchester & The North West, Heart North West, Smooth North West, Gold, Radio X, NMFM (North Manchester FM) and XS Manchester....",
-                    "...Manchester hosts consular services for most of the north of England..."
                 ]
             }
         },
@@ -277,31 +200,6 @@
                     "*...A larger-than-life statue of Abraham Lincoln by George Gray Barnard in the eponymous Lincoln Square (having stood for many years in Platt Fields) was presented to the city by Mr and Mrs Charles Phelps Taft of Cincinnati, Ohio, to mark the part Lancashire played in the cotton famine and American Civil War of 1861–1865....",
                     "...Manchester United and Lancashire County Cricket Club, although commonly associated with Manchester, are based in the neighbouring metropolitan borough of Trafford....",
                     "...The city has the highest number of local radio stations outside London, including BBC Radio Manchester, Hits Radio Manchester, Capital Manchester and Lancashire, Greatest Hits Radio Manchester & The North West, Heart North West, Smooth North West, Gold, Radio X, NMFM (North Manchester FM) and XS Manchester...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.161427,
-                    53.473322
-                ]
-            },
-            "properties": {
-                "entity": "Mersey",
-                "name_location": "Mersey Street, Abbey Hey, Clayton, Manchester, Greater Manchester, England, M11 1JT, United Kingdom",
-                "class": "highway",
-                "type": "residential",
-                "snippet": [
-                    "...Historically part of Lancashire, areas of Cheshire south of the River Mersey were incorporated into Manchester in the 20th century, including Wythenshawe in 1931....",
-                    "*...The Irwell and Mersey were made navigable by 1736, opening a route from Manchester to the sea docks on the Mersey....",
-                    "*...The canal was extended to the Mersey at Runcorn by 1776....",
-                    "*...The Manchester Ship Canal was built between 1888 and 1894, in some sections by canalisation of the Rivers Irwell and Mersey, running 36 miles (58 km) from Salford to Eastham Locks on the tidal Mersey....",
-                    "...In 1931, the Cheshire civil parishes of Baguley, Northenden and Northen Etchells from the south of the River Mersey were added....",
-                    "...The River Mersey flows through the south of Manchester....",
-                    "...Due to being already highly urban, the city contains limited portions of protected green-belt area within greenfield throughout the borough, with minimal development opportunities, at Clayton Vale, Heaton Park, Chorlton Water Park along with the Chorlton Ees & Ivy Green nature reserve and the floodplain surrounding the River Mersey, as well as the southern area around Manchester Airport...."
                 ]
             }
         },
@@ -519,26 +417,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -2.251599,
-                    53.471949
-                ]
-            },
-            "properties": {
-                "entity": "South Tower",
-                "name_location": "South Tower, Great Jackson Street, St. Johns, City Centre, Manchester, Greater Manchester, England, M15 4AX, United Kingdom",
-                "class": "building",
-                "type": "apartments",
-                "snippet": [
-                    "*...It was surpassed in 2018 by the 659-foot (201 m) South Tower of the Deansgate Square project, also in Manchester....",
-                    "...The largest skyscraper is now Deansgate Square South Tower, at 201 metres (659 feet).The..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -2.284414,
                     53.371315
                 ]
@@ -553,26 +431,6 @@
                     "*...Due to being already highly urban, the city contains limited portions of protected green-belt area within greenfield throughout the borough, with minimal development opportunities, at Clayton Vale, Heaton Park, Chorlton Water Park along with the Chorlton Ees & Ivy Green nature reserve and the floodplain surrounding the River Mersey, as well as the southern area around Manchester Airport....",
                     "*...A Concorde is on display near Manchester Airport....",
                     "*...Manchester Airport serves Manchester, Northern England and North Wales...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.259457,
-                    53.477734
-                ]
-            },
-            "properties": {
-                "entity": "River Irwell",
-                "name_location": "River Irwell Railway Bridge, Water Street, Castlefield, City Centre, Manchester, Greater Manchester, England, M3 4JH, United Kingdom",
-                "class": "man_made",
-                "type": "bridge",
-                "snippet": [
-                    "...The Brigantes were the major Celtic tribe in what is now known as Northern England; they had a stronghold in the locality at a sandstone outcrop on which Manchester Cathedral now stands, opposite the bank of the  River Irwell....",
-                    "...The city centre is on the east bank of the River Irwell, near its confluences with the Rivers Medlock and Irk, and is relatively low-lying, being between 35 to 42 metres (115 to 138 feet) above sea level...."
                 ]
             }
         },
@@ -650,7 +508,14 @@
                 "class": "building",
                 "type": "train_station",
                 "snippet": [
-                    "*...Heavy rail lines enter the city from all directions, the principal destination being Manchester Piccadilly station...."
+                    "*...Heavy rail lines enter the city from all directions, the principal destination being Manchester Piccadilly station....",
+                    "*...Today, the city is well served by its rail network although it is now working to capacity, and is at the centre of an extensive county-wide railway network, including the West Coast Main Line, with two mainline stations: Manchester Piccadilly and Manchester Victoria....",
+                    "*...The Manchester station group – comprising Manchester Piccadilly, Manchester Victoria, Manchester Oxford Road and Deansgate – is the third busiest in the United Kingdom, with 44.9 million passengers recorded in 2017/2018....",
+                    "...Piccadilly Gardens has monuments dedicated to Queen Victoria, Robert Peel, James Watt and the Duke of Wellington....",
+                    "*...In addition, Manchester Mayfield station closed to passenger services in 1960; its buildings and platforms are still extant, next to Piccadilly station, but are due to be redeveloped in the 2020s....",
+                    "*...The High Speed 2 link to Birmingham and London is also planned, which if built will include a 12 km (7 mi) tunnel under Manchester on the final approach into an upgraded Piccadilly station....",
+                    "*...Recent improvements in Manchester as part of the Northern Hub in the 2010s have been numerous electrification schemes into and through Manchester, redevelopment of Victoria station and construction of the Ordsall Chord directly linking Victoria and Piccadilly....",
+                    "*...Work on two new through platforms at Piccadilly and an extensive upgrade at Oxford Road had not commenced as of 2019...."
                 ]
             }
         },
@@ -756,42 +621,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -2.384364,
-                    53.470494
-                ]
-            },
-            "properties": {
-                "entity": "South",
-                "name_location": "South, Liverpool Road, Peel Green, Irlam, Salford, Greater Manchester, England, M30 7WH, United Kingdom",
-                "class": "aeroway",
-                "type": "taxiway",
-                "snippet": [
-                    "...It is bordered by the Cheshire Plain to the south, the Pennines to the north and east, and the neighbouring city of Salford to the west....",
-                    "...Historically part of Lancashire, areas of Cheshire south of the River Mersey were incorporated into Manchester in the 20th century, including Wythenshawe in 1931....",
-                    "...The great majority of cotton spinning took place in the towns of south Lancashire and north Cheshire, and Manchester was for a time the most productive centre of cotton processing....",
-                    "...In Australia, New Zealand and South Africa, the term \"manchester\" is still used for household linen: sheets, pillow cases, towels, etc....",
-                    "...It was surpassed in 2018 by the 659-foot (201 m) South Tower of the Deansgate Square project, also in Manchester....",
-                    "...In 1931, the Cheshire civil parishes of Baguley, Northenden and Northen Etchells from the south of the River Mersey were added....",
-                    "...At , 160 miles (260 km) northwest of London, Manchester lies in a bowl-shaped land area bordered to the north and east by the Pennines, an upland chain that runs the length of northern England, and to the south by the Cheshire Plain....",
-                    "...The River Mersey flows through the south of Manchester....",
-                    "...Much of the inner city, especially in the south, is flat, offering extensive views from many highrise buildings in the city of the foothills and moors of the Pennines, which can often be capped with snow in the winter months....",
-                    "...The M60 and M56 motorways pass through Northenden and Wythenshawe respectively in the south of Manchester....",
-                    "...Snowfalls are not common in the city because of the urban warming effect but the West Pennine Moors to the north-west, South Pennines to the north-east and Peak District to the east receive more snow, which can close roads leading out of the city....",
-                    "...The Office for National Statistics does not produce economic data for the City of Manchester alone, but includes four other metropolitan boroughs, Salford, Stockport, Tameside, Trafford, in an area named Greater Manchester South, which had a GVA of £34.8 billion....",
-                    "*...The strong office market in Manchester has been partly attributed to \"northshoring\", (from offshoring) which entails the relocation or alternative creation of jobs away from the overheated South to areas where office space is possibly cheaper and the workforce market less saturated....",
-                    "...The largest skyscraper is now Deansgate Square South Tower, at 201 metres (659 feet).The...",
-                    "...After deregulation in 1986, the bus system was taken over by GM Buses, which after privatisation was split into GM Buses North and GM Buses South....",
-                    "...In the south of the city, the Whitworth Art Gallery displays modern art, sculpture and textiles and was voted Museum of the Year in 2015....",
-                    "...It gained university status in 1992, and in the same year absorbed Crewe and Alsager College of Higher Education in South Cheshire....",
-                    "...Established in 1515, as a free grammar school next to what is now the cathedral, it moved in 1931 to Old Hall Lane in Fallowfield, south Manchester, to accommodate the growing student body...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -2.244932,
                     53.47951
                 ]
@@ -841,7 +670,13 @@
                 "class": "tourism",
                 "type": "hotel",
                 "snippet": [
-                    "*...Manchester also has a number of skyscrapers built in the 1960s and 1970s, the tallest being the CIS Tower near Manchester Victoria station until the Beetham Tower was completed in 2006...."
+                    "*...Manchester also has a number of skyscrapers built in the 1960s and 1970s, the tallest being the CIS Tower near Manchester Victoria station until the Beetham Tower was completed in 2006....",
+                    "*...Today, the city is well served by its rail network although it is now working to capacity, and is at the centre of an extensive county-wide railway network, including the West Coast Main Line, with two mainline stations: Manchester Piccadilly and Manchester Victoria....",
+                    "*...The Manchester station group – comprising Manchester Piccadilly, Manchester Victoria, Manchester Oxford Road and Deansgate – is the third busiest in the United Kingdom, with 44.9 million passengers recorded in 2017/2018....",
+                    "...Piccadilly Gardens has monuments dedicated to Queen Victoria, Robert Peel, James Watt and the Duke of Wellington....",
+                    "*...Recent improvements in Manchester as part of the Northern Hub in the 2010s have been numerous electrification schemes into and through Manchester, redevelopment of Victoria station and construction of the Ordsall Chord directly linking Victoria and Piccadilly....",
+                    "...Other venues include Manchester Apollo, Albert Hall, Victoria Warehouse and the Manchester Academy....",
+                    "...The University of Manchester is the second largest full-time non-collegiate university in the United Kingdom, created in 2004 by the merger of Victoria University of Manchester, founded in 1904, and UMIST, founded in 1956, having developed from the Mechanics' Institute founded, as indicated in the university's logo, in 1824...."
                 ]
             }
         },
@@ -861,31 +696,6 @@
                 "type": "house",
                 "snippet": [
                     "*...Green Building, opposite Oxford Road station, is a pioneering eco-friendly housing project, while the recently completed One Angel Square, is one of the most sustainable large buildings in the world...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.240103,
-                    53.473468
-                ]
-            },
-            "properties": {
-                "entity": "Oxford Road",
-                "name_location": "Oxford Road, Petersfield, City Centre, Manchester, Greater Manchester, England, M1 5WH, United Kingdom",
-                "class": "highway",
-                "type": "secondary",
-                "snippet": [
-                    "*...Green Building, opposite Oxford Road station, is a pioneering eco-friendly housing project, while the recently completed One Angel Square, is one of the most sustainable large buildings in the world....",
-                    "...The Manchester station group – comprising Manchester Piccadilly, Manchester Victoria, Manchester Oxford Road and Deansgate – is the third busiest in the United Kingdom, with 44.9 million passengers recorded in 2017/2018....",
-                    "*...Work on two new through platforms at Piccadilly and an extensive upgrade at Oxford Road had not commenced as of 2019....",
-                    "*...Manchester city centre, specifically the Castlefield Corridor, suffers from constrained rail capacity that frequently leads to delays and cancellations – a 2018 report found that all three major Manchester stations are among the top ten worst stations in the United Kingdom for punctuality, with Oxford Road deemed the worst in the country....",
-                    "*...The Dancehouse on Oxford Road is dedicated to dance productions....",
-                    "*...The three universities are grouped around Oxford Road on the southern side of the city centre, which forms Europe's largest urban higher-education precinct....",
-                    "*...From 1975, BBC programmes including Mastermind, and Real Story, were made at New Broadcasting House on Oxford Road...."
                 ]
             }
         },
@@ -989,26 +799,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -2.221355,
-                    53.450709
-                ]
-            },
-            "properties": {
-                "entity": "Platt Fields",
-                "name_location": "Rusholme, Wilmslow Road / Platt Fields Park (Stop A), Wilmslow Road, Victoria Park, Rusholme, Manchester, Greater Manchester, England, M14 5LL, United Kingdom",
-                "class": "highway",
-                "type": "bus_stop",
-                "snippet": [
-                    "*...A larger-than-life statue of Abraham Lincoln by George Gray Barnard in the eponymous Lincoln Square (having stood for many years in Platt Fields) was presented to the city by Mr and Mrs Charles Phelps Taft of Cincinnati, Ohio, to mark the part Lancashire played in the cotton famine and American Civil War of 1861–1865....",
-                    "...Other exhibition spaces and museums in Manchester include Islington Mill in Salford, the National Football Museum at Urbis, Castlefield Gallery, the Manchester Costume Gallery at Platt Fields Park, the People's History Museum and the Manchester Jewish Museum...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -2.19744,
                     53.520222
                 ]
@@ -1066,74 +856,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -2.237614,
-                    53.481687
-                ]
-            },
-            "properties": {
-                "entity": "Piccadilly",
-                "name_location": "Piccadilly, City Centre, Manchester, Greater Manchester, England, M1 1LS, United Kingdom",
-                "class": "highway",
-                "type": "pedestrian",
-                "snippet": [
-                    "...Heavy rail lines enter the city from all directions, the principal destination being Manchester Piccadilly station....",
-                    "...Piccadilly Gardens has monuments dedicated to Queen Victoria, Robert Peel, James Watt and the Duke of Wellington....",
-                    "*...In addition, Manchester Mayfield station closed to passenger services in 1960; its buildings and platforms are still extant, next to Piccadilly station, but are due to be redeveloped in the 2020s....",
-                    "...Today, the city is well served by its rail network although it is now working to capacity, and is at the centre of an extensive county-wide railway network, including the West Coast Main Line, with two mainline stations: Manchester Piccadilly and Manchester Victoria....",
-                    "...The Manchester station group – comprising Manchester Piccadilly, Manchester Victoria, Manchester Oxford Road and Deansgate – is the third busiest in the United Kingdom, with 44.9 million passengers recorded in 2017/2018....",
-                    "*...The High Speed 2 link to Birmingham and London is also planned, which if built will include a 12 km (7 mi) tunnel under Manchester on the final approach into an upgraded Piccadilly station....",
-                    "*...Recent improvements in Manchester as part of the Northern Hub in the 2010s have been numerous electrification schemes into and through Manchester, redevelopment of Victoria station and construction of the Ordsall Chord directly linking Victoria and Piccadilly....",
-                    "*...Work on two new through platforms at Piccadilly and an extensive upgrade at Oxford Road had not commenced as of 2019...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.231343,
-                    53.477287
-                ]
-            },
-            "properties": {
-                "entity": "Manchester Piccadilly",
-                "name_location": "Manchester Piccadilly, London Road, Piccadilly, City Centre, Manchester, Greater Manchester, England, M1 2PH, United Kingdom",
-                "class": "shop",
-                "type": "mall",
-                "snippet": [
-                    "...Heavy rail lines enter the city from all directions, the principal destination being Manchester Piccadilly station....",
-                    "*...Today, the city is well served by its rail network although it is now working to capacity, and is at the centre of an extensive county-wide railway network, including the West Coast Main Line, with two mainline stations: Manchester Piccadilly and Manchester Victoria....",
-                    "*...The Manchester station group – comprising Manchester Piccadilly, Manchester Victoria, Manchester Oxford Road and Deansgate – is the third busiest in the United Kingdom, with 44.9 million passengers recorded in 2017/2018...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.242974,
-                    53.487902
-                ]
-            },
-            "properties": {
-                "entity": "Manchester Victoria",
-                "name_location": "Manchester Victoria, Hunts Bank, Medieval Quarter, City Centre, Manchester, Greater Manchester, England, M3 1DA, United Kingdom",
-                "class": "railway",
-                "type": "stop",
-                "snippet": [
-                    "...Manchester also has a number of skyscrapers built in the 1960s and 1970s, the tallest being the CIS Tower near Manchester Victoria station until the Beetham Tower was completed in 2006....",
-                    "*...Today, the city is well served by its rail network although it is now working to capacity, and is at the centre of an extensive county-wide railway network, including the West Coast Main Line, with two mainline stations: Manchester Piccadilly and Manchester Victoria....",
-                    "*...The Manchester station group – comprising Manchester Piccadilly, Manchester Victoria, Manchester Oxford Road and Deansgate – is the third busiest in the United Kingdom, with 44.9 million passengers recorded in 2017/2018...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -2.241808,
                     53.474294
                 ]
@@ -1144,53 +866,13 @@
                 "class": "railway",
                 "type": "stop",
                 "snippet": [
-                    "*...The Manchester station group – comprising Manchester Piccadilly, Manchester Victoria, Manchester Oxford Road and Deansgate – is the third busiest in the United Kingdom, with 44.9 million passengers recorded in 2017/2018...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.248434,
-                    53.4802
-                ]
-            },
-            "properties": {
-                "entity": "Deansgate",
-                "name_location": "Deansgate, Civic Quarter, City Centre, Manchester, Greater Manchester, England, M3 3WD, United Kingdom",
-                "class": "highway",
-                "type": "primary",
-                "snippet": [
-                    "...It was surpassed in 2018 by the 659-foot (201 m) South Tower of the Deansgate Square project, also in Manchester....",
-                    "...The largest skyscraper is now Deansgate Square South Tower, at 201 metres (659 feet).The...",
-                    "*...The Manchester station group – comprising Manchester Piccadilly, Manchester Victoria, Manchester Oxford Road and Deansgate – is the third busiest in the United Kingdom, with 44.9 million passengers recorded in 2017/2018...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.241613,
-                    53.48788
-                ]
-            },
-            "properties": {
-                "entity": "Victoria",
-                "name_location": "Victoria, Long Millgate, Medieval Quarter, City Centre, Manchester, Greater Manchester, England, M60 0AB, United Kingdom",
-                "class": "railway",
-                "type": "platform",
-                "snippet": [
-                    "...Manchester also has a number of skyscrapers built in the 1960s and 1970s, the tallest being the CIS Tower near Manchester Victoria station until the Beetham Tower was completed in 2006....",
-                    "...Piccadilly Gardens has monuments dedicated to Queen Victoria, Robert Peel, James Watt and the Duke of Wellington....",
-                    "...Today, the city is well served by its rail network although it is now working to capacity, and is at the centre of an extensive county-wide railway network, including the West Coast Main Line, with two mainline stations: Manchester Piccadilly and Manchester Victoria....",
-                    "...The Manchester station group – comprising Manchester Piccadilly, Manchester Victoria, Manchester Oxford Road and Deansgate – is the third busiest in the United Kingdom, with 44.9 million passengers recorded in 2017/2018....",
-                    "*...Recent improvements in Manchester as part of the Northern Hub in the 2010s have been numerous electrification schemes into and through Manchester, redevelopment of Victoria station and construction of the Ordsall Chord directly linking Victoria and Piccadilly....",
-                    "...Other venues include Manchester Apollo, Albert Hall, Victoria Warehouse and the Manchester Academy....",
-                    "...The University of Manchester is the second largest full-time non-collegiate university in the United Kingdom, created in 2004 by the merger of Victoria University of Manchester, founded in 1904, and UMIST, founded in 1956, having developed from the Mechanics' Institute founded, as indicated in the university's logo, in 1824...."
+                    "*...The Manchester station group – comprising Manchester Piccadilly, Manchester Victoria, Manchester Oxford Road and Deansgate – is the third busiest in the United Kingdom, with 44.9 million passengers recorded in 2017/2018....",
+                    "*...Green Building, opposite Oxford Road station, is a pioneering eco-friendly housing project, while the recently completed One Angel Square, is one of the most sustainable large buildings in the world....",
+                    "*...Work on two new through platforms at Piccadilly and an extensive upgrade at Oxford Road had not commenced as of 2019....",
+                    "*...Manchester city centre, specifically the Castlefield Corridor, suffers from constrained rail capacity that frequently leads to delays and cancellations – a 2018 report found that all three major Manchester stations are among the top ten worst stations in the United Kingdom for punctuality, with Oxford Road deemed the worst in the country....",
+                    "*...The Dancehouse on Oxford Road is dedicated to dance productions....",
+                    "*...The three universities are grouped around Oxford Road on the southern side of the city centre, which forms Europe's largest urban higher-education precinct....",
+                    "*...From 1975, BBC programmes including Mastermind, and Real Story, were made at New Broadcasting House on Oxford Road...."
                 ]
             }
         },
@@ -1449,27 +1131,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -2.25362,
-                    53.476353
-                ]
-            },
-            "properties": {
-                "entity": "Liverpool Road",
-                "name_location": "Liverpool Road, Castlefield, City Centre, Manchester, Greater Manchester, England, M3 4NQ, United Kingdom",
-                "class": "highway",
-                "type": "primary",
-                "snippet": [
-                    "...Manchester Liverpool Road railway station was the world's first inter-city passenger railway station....",
-                    "...Manchester Liverpool Road was the world's first purpose-built passenger and goods railway station and served as the Manchester terminus on the Liverpool & Manchester Railway – the world's first inter-city passenger railway....",
-                    "*...The Science and Industry Museum, housed in the former Liverpool Road railway station, has a large collection of steam locomotives, industrial machinery, aircraft and a replica of the world's first stored computer program (known as the Manchester Baby)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -2.240764,
                     53.479739
                 ]
@@ -1499,7 +1160,8 @@
                 "class": "highway",
                 "type": "bus_stop",
                 "snippet": [
-                    "*...Other exhibition spaces and museums in Manchester include Islington Mill in Salford, the National Football Museum at Urbis, Castlefield Gallery, the Manchester Costume Gallery at Platt Fields Park, the People's History Museum and the Manchester Jewish Museum...."
+                    "*...Other exhibition spaces and museums in Manchester include Islington Mill in Salford, the National Football Museum at Urbis, Castlefield Gallery, the Manchester Costume Gallery at Platt Fields Park, the People's History Museum and the Manchester Jewish Museum....",
+                    "*...A larger-than-life statue of Abraham Lincoln by George Gray Barnard in the eponymous Lincoln Square (having stood for many years in Platt Fields) was presented to the city by Mr and Mrs Charles Phelps Taft of Cincinnati, Ohio, to mark the part Lancashire played in the cotton famine and American Civil War of 1861–1865...."
                 ]
             }
         },
@@ -1636,33 +1298,6 @@
                 "type": "residential",
                 "snippet": [
                     "*...At its height, 1,500 journalists were employed, earning the city the nickname \"second Fleet Street\"...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.169268,
-                    53.408198
-                ]
-            },
-            "properties": {
-                "entity": "North West",
-                "name_location": "North West Towbar Centre, 215, Chestergate, Edgeley, Cheadle, Stockport, Greater Manchester, England, SK3 0AN, United Kingdom",
-                "class": "shop",
-                "type": "car_parts",
-                "snippet": [
-                    "...Much of the First Greater Manchester business was sold to Diamond North West and Go North West in 2019....",
-                    "...Go North West operate a three-route zero-fare Manchester Metroshuttle, which carries 2.8 million commuters a year around Manchester's business districts....",
-                    "...It also has a flight school, and both the Greater Manchester Police Air Support Unit and the North West Air Ambulance have helicopters based there....",
-                    "...The Metro North West is available free at Metrolink stops, rail stations and other busy locations....",
-                    "...An attempt to launch a Northern daily newspaper, the North West Times, employing journalists made redundant by other titles, closed in 1988....",
-                    "...Another attempt was made with the North West Enquirer, which hoped to provide a true \"regional\" newspaper for the North West, much in the same vein as the Yorkshire Post does for Yorkshire or The Northern Echo does for the North East; it folded in October 2006....",
-                    "...Granada produces Coronation Street, local news and programmes for North West England....",
-                    "...Manchester was the regional base for BBC One North West Region programmes before it relocated to MediaCityUK in nearby Salford Quays....",
-                    "...The city has the highest number of local radio stations outside London, including BBC Radio Manchester, Hits Radio Manchester, Capital Manchester and Lancashire, Greatest Hits Radio Manchester & The North West, Heart North West, Smooth North West, Gold, Radio X, NMFM (North Manchester FM) and XS Manchester...."
                 ]
             }
         },

@@ -6,72 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.485962,
-                    48.157682
-                ]
-            },
-            "properties": {
-                "entity": "Isar",
-                "name_location": "Isar, An der Schloßmauer, Nymphenburg, Neuhausen-Nymphenburg, Pasing-Obermenzing, Munich, Bavaria, Germany",
-                "class": "tourism",
-                "type": "artwork",
-                "snippet": [
-                    "...Straddling the banks of the River Isar (a tributary of the Danube) north of the Bavarian Alps, Munich is the seat of the Bavarian administrative region of Upper Bavaria, while being the most densely populated municipality in Germany with 4,500 people per km2....",
-                    "*...The river Isar was a prehistoric trade route and in the Bronze Age Munich was among the largest raft ports in Europe....",
-                    "...The ancient Roman road Via Julia, which connected Augsburg and Salzburg, crossed over the Isar River south of modern-day Munich, at the towns of Baierbrunn and Gauting....",
-                    "*...The first medieval bridges across the river Isar were located in current city areas of Munich and Landshut....",
-                    "*...The Duke of Saxony and Bavaria Henry the Lion founded the town of Munich in his territory to control the salt trade, after having burned town the town of Föhring and its bridges over the river Isar....",
-                    "*...This new toll bridge most likely crossed the Isar where the Museuminsel and the modern Ludwigsbrücke is now located....",
-                    "...The grand building projects of Ludwig I got Munich the endearment \"Isar-Athen\" and \"Monaco di Bavaria\"....",
-                    "*...In 2007 the ecological restoration of the river Isar in the urban area of Munich was awarded the Water Development Prize by the German Association for Water, Wastewater and Waste (known as DWA in German)....",
-                    "*...The renaturation of the Isar allows for the near natural development of the river bed and is part of Munich's flood protection....",
-                    "*...The local rivers are the Isar and the Würm....",
-                    "...Studies of adaptation to climate change and extreme events are carried out, one of them is the Isar Plan of the EU Adaptation Climate....",
-                    "*...After crossing the river Isar, the avenue circles the Maximilianeum, which houses the state parliament....",
-                    "*...The avenue crosses the Isar and circles the Friedensengel monument, then passing the Villa Stuck and Hitler's old apartment....",
-                    "*...Two further surf spots within the city are located along the river Isar, the wave in the Floßlände channel and a wave downstream of the Wittelsbacherbrücke bridge....",
-                    "...The Deutsches Museum or German Museum, located on an island in the River Isar, is the largest and one of the oldest science museums in the world....",
-                    "*...Another area for the arts next to the Kunstareal is the Lehel quarter between the old town and the river Isar: the Museum Five Continents in Maximilianstraße is the second largest collection in Germany of artefacts and objects from outside Europe, while the Bavarian National Museum and the adjoining Bavarian State Archaeological Collection in Prinzregentenstraße rank among Europe's major art and cultural history museums....",
-                    "...Isar Realschule München ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.598701,
-                    48.138412
-                ]
-            },
-            "properties": {
-                "entity": "Europe",
-                "name_location": "Fiba-europe e.V., 21, Ismaninger Straße, Maximilianeum, Au-Haidhausen, Munich, Bavaria, 81675, Germany",
-                "class": "office",
-                "type": "association",
-                "snippet": [
-                    "*...The river Isar was a prehistoric trade route and in the Bronze Age Munich was among the largest raft ports in Europe....",
-                    "*...Being at the centre of Europe, Munich is subject to many climatic influences, so that weather conditions there are more variable than in other European cities, especially those further west and south of the Alps....",
-                    "*...The large Residenz palace complex (begun in 1385) on the edge of Munich's Old Town, Germany's largest urban palace, ranks among Europe's most significant museums of interior decoration....",
-                    "*...Schloss Nymphenburg (Nymphenburg Palace), some 6 km (4 mi) north west of the city centre, is surrounded by an park and is considered[by whom?] to be one of Europe's most beautiful royal residences....",
-                    "*...Another area for the arts next to the Kunstareal is the Lehel quarter between the old town and the river Isar: the Museum Five Continents in Maximilianstraße is the second largest collection in Germany of artefacts and objects from outside Europe, while the Bavarian National Museum and the adjoining Bavarian State Archaeological Collection in Prinzregentenstraße rank among Europe's major art and cultural history museums....",
-                    "*...Its importance as a centre for both literature and the fine arts was second to none in Europe, with numerous German and non-German artists moving there....",
-                    "*...In 1919, the Bavaria Film Studios were founded, which developed into one of Europe's largest film studios....",
-                    "*...Auer Dult is Europe's largest jumble sale, with fairs of its kind dating back to the 14th century....",
-                    "*...The Circus Krone based in Munich is one of the largest circuses in Europe....",
-                    "...It was the first and still is one of only a few in Western Europe to also occupy a building of its own....",
-                    "*...Munich is the largest publishing city in Europe and home to the Süddeutsche Zeitung, one of Germany's biggest daily newspapers....",
-                    "*...They are one of Europe's biggest film production studios....",
-                    "*...Franz Josef Strauss International Airport (IATA: MUC, ICAO: EDDM) is the second-largest airport in Germany and seventh-largest in Europe after London Heathrow, Paris Charles de Gaulle, Frankfurt, Amsterdam, Madrid and Istanbul Atatürk...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     11.577059,
                     48.136817
                 ]
@@ -82,7 +16,12 @@
                 "class": "tourism",
                 "type": "attraction",
                 "snippet": [
-                    "...In the 15th century, Munich underwent a revival of Gothic arts: the Old Town Hall was enlarged, and Munich's largest Gothic church – the Frauenkirche – now a cathedral, was constructed in only 20 years, starting in 1468.\nWhen Bavaria was reunited in 1506 after a brief war against the Duchy of Landshut, Munich became its capital...."
+                    "...In the 15th century, Munich underwent a revival of Gothic arts: the Old Town Hall was enlarged, and Munich's largest Gothic church – the Frauenkirche – now a cathedral, was constructed in only 20 years, starting in 1468.\nWhen Bavaria was reunited in 1506 after a brief war against the Duchy of Landshut, Munich became its capital....",
+                    "...The city was heavily bombed during World War II, but has restored most of its old town....",
+                    "...Henry built a new toll bridge, customs house and a coin market closer to his home somewhat upstream at a settlement around the area of modern old town Munich....",
+                    "*...The large Residenz palace complex (begun in 1385) on the edge of Munich's Old Town, Germany's largest urban palace, ranks among Europe's most significant museums of interior decoration....",
+                    "...The neoclassical Brienner Straße, starting at Odeonsplatz on the northern fringe of the Old Town close to the Residenz, runs from east to west and opens into the Königsplatz, designed with the \"Doric\" Propyläen, the \"Ionic\" Glyptothek and the \"Corinthian\" State Museum of Classical Art, behind it St. Boniface's Abbey was erected....",
+                    "...Another area for the arts next to the Kunstareal is the Lehel quarter between the old town and the river Isar: the Museum Five Continents in Maximilianstraße is the second largest collection in Germany of artefacts and objects from outside Europe, while the Bavarian National Museum and the adjoining Bavarian State Archaeological Collection in Prinzregentenstraße rank among Europe's major art and cultural history museums...."
                 ]
             }
         },
@@ -293,28 +232,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.630603,
-                    48.118753
-                ]
-            },
-            "properties": {
-                "entity": "U-Bahn",
-                "name_location": "Michaelibad U-Bahn, 890045029268, Sankt-Michael-Straße, Berg am Laim Ost, Ramersdorf, Ramersdorf-Perlach, Munich, Bavaria, Germany",
-                "class": "emergency",
-                "type": "phone",
-                "snippet": [
-                    "...After winning the bid in 1966 the Mayor of Munich Hans-Jochen Vogel accelerated the construction of the U-Bahn subway and the S-Bahn metropolitan commuter railway....",
-                    "*...In May 1967 the construction work began for a new U-Bahn line connecting the city with the Olympic Park....",
-                    "...For its urban population of 2.6 million people, Munich and its closest suburbs have a comprehensive network of public transport incorporating the Munich U-Bahn (underground railway), the Munich S-Bahn (suburban trains), trams and buses....",
-                    "*...The subterranean S-Bahn with 2 platforms and U-Bahn stations with 6 platforms are through stations...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     11.546288,
                     48.169158
                 ]
@@ -367,33 +284,6 @@
                 "type": "attraction",
                 "snippet": [
                     "*...In 1970 the Munich city council released funds so that the iconic gothic facade and Glockenspiel of the New City Hall (Neues Rathaus) could be restored...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.573024,
-                    48.130758
-                ]
-            },
-            "properties": {
-                "entity": "Alps",
-                "name_location": "ALPS Biketours GmbH, 11a, Fraunhoferstraße, Isarvorstadt, Gärtnerplatz, Ludwigsvorstadt-Isarvorstadt, Munich, Bavaria, 80469, Germany",
-                "class": "office",
-                "type": "company",
-                "snippet": [
-                    "...Straddling the banks of the River Isar (a tributary of the Danube) north of the Bavarian Alps, Munich is the seat of the Bavarian administrative region of Upper Bavaria, while being the most densely populated municipality in Germany with 4,500 people per km2....",
-                    "*...Munich lies on the elevated plains of Upper Bavaria, about 50 km (31 mi) north of the northern edge of the Alps, at an altitude of about 520 m (1,706 ft) ASL....",
-                    "*...The northern part of this sandy plateau includes a highly fertile flint area which is no longer affected by the folding processes found in the Alps, while the southern part is covered with morainic hills....",
-                    "*...The proximity to the Alps brings higher volumes of rainfall and consequently greater susceptibility to flood problems....",
-                    "*...The higher elevation and proximity to the Alps cause the city to have more rain and snow than many other parts of Germany....",
-                    "*...The Alps affect the city's climate in other ways too; for example, the warm downhill wind from the Alps (föhn wind), which can raise temperatures sharply within a few hours even in the winter....",
-                    "*...Being at the centre of Europe, Munich is subject to many climatic influences, so that weather conditions there are more variable than in other European cities, especially those further west and south of the Alps....",
-                    "*...The nearby Michaelskirche is the largest renaissance church north of the Alps, while the Theatinerkirche is a basilica in Italianate high baroque, which had a major influence on Southern German baroque architecture....",
-                    "*...Especially in its suburbs, Munich features a wide and diverse array of modern architecture, although strict culturally sensitive height limitations for buildings have limited the construction of skyscrapers to avoid a loss of views to the distant Bavarian Alps...."
                 ]
             }
         },
@@ -524,26 +414,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.57603,
-                    48.136445
-                ]
-            },
-            "properties": {
-                "entity": "St. Peter",
-                "name_location": "St. Peter, 1, Petersplatz, Angerviertel, Altstadt-Lehel, Munich, Bavaria, 80331, Germany",
-                "class": "amenity",
-                "type": "place_of_worship",
-                "snippet": [
-                    "...The old St. Peter's Church near Marienplatz is also believed to predate the founding date of the town....",
-                    "*...Nearby St. Peter the Gothic hall-church Heiliggeistkirche (The Church of the Holy Spirit) was converted to baroque style from 1724 onwards and looks down upon the Viktualienmarkt...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     11.577012,
                     48.136421
                 ]
@@ -602,8 +472,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.577723,
-                    48.142518
+                    11.577836,
+                    48.142533
                 ]
             },
             "properties": {
@@ -672,58 +542,6 @@
                 "type": "place_of_worship",
                 "snippet": [
                     "*...The Asamkirche was endowed and built by the Brothers Asam, pioneering artists of the rococo period...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.579045,
-                    48.141161
-                ]
-            },
-            "properties": {
-                "entity": "Residenz",
-                "name_location": "Residenz, Alfons-Goppel-Straße, Graggenauerviertel, Graggenau, Altstadt-Lehel, Munich, Bavaria, 80539, Germany",
-                "class": "tourism",
-                "type": "attraction",
-                "snippet": [
-                    "...In 1568 Albrecht V built the Antiquarium to house the Wittelsbach collection of Greek and Roman antiquities in the Munich Residenz....",
-                    "*...The large Residenz palace complex (begun in 1385) on the edge of Munich's Old Town, Germany's largest urban palace, ranks among Europe's most significant museums of interior decoration....",
-                    "*...Next door to the Residenz the neo-classical opera, the National Theatre was erected....",
-                    "*...All mansions are situated close to the Residenz, same as the Alte Hof, a medieval castle and first residence of the Wittelsbach dukes in Munich....",
-                    "*...The neoclassical Brienner Straße, starting at Odeonsplatz on the northern fringe of the Old Town close to the Residenz, runs from east to west and opens into the Königsplatz, designed with the \"Doric\" Propyläen, the \"Ionic\" Glyptothek and the \"Corinthian\" State Museum of Classical Art, behind it St. Boniface's Abbey was erected....",
-                    "*...The neo-Gothic Maximilianstraße starts at Max-Joseph-Platz, where the Residenz and the National Theatre are situated, and runs from west to east....",
-                    "*...The city's oldest park is the Hofgarten, near the Residenz, dating back to the 16th century....",
-                    "...Next door, the modern Residenz Theatre was erected in the building that had housed the Cuvilliés Theatre before World War II....",
-                    "...Its primary concert venue is the Herkulessaal in the former city royal residence, the Munich Residenz....",
-                    "...Next to the Bavarian Staatsschauspiel in the Residenz Theatre (Residenztheater), the Munich Kammerspiele in the Schauspielhaus is one of the most important German-language theatres in the world...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.577059,
-                    48.136817
-                ]
-            },
-            "properties": {
-                "entity": "Old Town",
-                "name_location": "Old Town Hall, 15, Marienplatz, Graggenauerviertel, Graggenau, Altstadt-Lehel, Munich, Bavaria, 80331, Germany",
-                "class": "tourism",
-                "type": "attraction",
-                "snippet": [
-                    "...The city was heavily bombed during World War II, but has restored most of its old town....",
-                    "...Henry built a new toll bridge, customs house and a coin market closer to his home somewhat upstream at a settlement around the area of modern old town Munich....",
-                    "...In the 15th century, Munich underwent a revival of Gothic arts: the Old Town Hall was enlarged, and Munich's largest Gothic church – the Frauenkirche – now a cathedral, was constructed in only 20 years, starting in 1468.\nWhen Bavaria was reunited in 1506 after a brief war against the Duchy of Landshut, Munich became its capital....",
-                    "*...The large Residenz palace complex (begun in 1385) on the edge of Munich's Old Town, Germany's largest urban palace, ranks among Europe's most significant museums of interior decoration....",
-                    "...The neoclassical Brienner Straße, starting at Odeonsplatz on the northern fringe of the Old Town close to the Residenz, runs from east to west and opens into the Königsplatz, designed with the \"Doric\" Propyläen, the \"Ionic\" Glyptothek and the \"Corinthian\" State Museum of Classical Art, behind it St. Boniface's Abbey was erected....",
-                    "...Another area for the arts next to the Kunstareal is the Lehel quarter between the old town and the river Isar: the Museum Five Continents in Maximilianstraße is the second largest collection in Germany of artefacts and objects from outside Europe, while the Bavarian National Museum and the adjoining Bavarian State Archaeological Collection in Prinzregentenstraße rank among Europe's major art and cultural history museums...."
                 ]
             }
         },
@@ -829,50 +647,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.587726,
-                    48.139598
-                ]
-            },
-            "properties": {
-                "entity": "Lehel",
-                "name_location": "Lehel, 3, Gewürzmühlstraße, Lehel, Altstadt-Lehel, Munich, Bavaria, 80538, Germany",
-                "class": "railway",
-                "type": "stop",
-                "snippet": [
-                    "...Allach-Untermenzing (23), Altstadt-Lehel (1), Aubing-Lochhausen-Langwied (22), Au-Haidhausen (5), Berg am Laim (14), Bogenhausen (13), Feldmoching-Hasenbergl (24), Hadern (20), Laim (25), Ludwigsvorstadt-Isarvorstadt (2), Maxvorstadt (3), Milbertshofen-Am Hart (11), Moosach (10), Neuhausen-Nymphenburg (9), Obergiesing (17), Pasing-Obermenzing (21), Ramersdorf-Perlach (16), Schwabing-Freimann (12), Schwabing-West (4), Schwanthalerhöhe (8), Sendling (6), Sendling-Westpark (7), Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln (19), Trudering-Riem (15) and Untergiesing-Harlaching (18)....",
-                    "*...Lehel, a middle-class quarter east of the Altstadt, is characterised by numerous well-preserved townhouses....",
-                    "...The St. Anna im Lehel is the first rococo church in Bavaria....",
-                    "*...Another area for the arts next to the Kunstareal is the Lehel quarter between the old town and the river Isar: the Museum Five Continents in Maximilianstraße is the second largest collection in Germany of artefacts and objects from outside Europe, while the Bavarian National Museum and the adjoining Bavarian State Archaeological Collection in Prinzregentenstraße rank among Europe's major art and cultural history museums....",
-                    "...Between Sendlinger Tor and Maximiliansplatz, on the edge of the central Altstadt-Lehel district, there is also the so-called Feierbanane (party banana), a roughly banana-shaped unofficial party zone spanning 1.3 km (0.8 mi) along Sonnenstraße, characterized by a high concentration of clubs, bars and restaurants, which became the center of Munich's nightlife in the mid-2000s...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.570982,
-                    48.137054
-                ]
-            },
-            "properties": {
-                "entity": "Altstadt",
-                "name_location": "Hotel Mercure München Altstadt, 4, Hotterstraße, Hackenviertel, Altstadt-Lehel, Munich, Bavaria, 80331, Germany",
-                "class": "tourism",
-                "type": "hotel",
-                "snippet": [
-                    "...Allach-Untermenzing (23), Altstadt-Lehel (1), Aubing-Lochhausen-Langwied (22), Au-Haidhausen (5), Berg am Laim (14), Bogenhausen (13), Feldmoching-Hasenbergl (24), Hadern (20), Laim (25), Ludwigsvorstadt-Isarvorstadt (2), Maxvorstadt (3), Milbertshofen-Am Hart (11), Moosach (10), Neuhausen-Nymphenburg (9), Obergiesing (17), Pasing-Obermenzing (21), Ramersdorf-Perlach (16), Schwabing-Freimann (12), Schwabing-West (4), Schwanthalerhöhe (8), Sendling (6), Sendling-Westpark (7), Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln (19), Trudering-Riem (15) and Untergiesing-Harlaching (18)....",
-                    "*...Lehel, a middle-class quarter east of the Altstadt, is characterised by numerous well-preserved townhouses....",
-                    "...Between Sendlinger Tor and Maximiliansplatz, on the edge of the central Altstadt-Lehel district, there is also the so-called Feierbanane (party banana), a roughly banana-shaped unofficial party zone spanning 1.3 km (0.8 mi) along Sonnenstraße, characterized by a high concentration of clubs, bars and restaurants, which became the center of Munich's nightlife in the mid-2000s...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     11.587379,
                     48.135191
                 ]
@@ -892,8 +666,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.578618,
-                    48.14483
+                    11.57876,
+                    48.145097
                 ]
             },
             "properties": {
@@ -1024,27 +798,6 @@
                 "type": "attraction",
                 "snippet": [
                     "*...After crossing the river Isar, the avenue circles the Maximilianeum, which houses the state parliament...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.586546,
-                    48.143374
-                ]
-            },
-            "properties": {
-                "entity": "Prinzregentenstraße",
-                "name_location": "Prinzregentenstraße, Englischer Garten Süd, Altstadt-Lehel, Munich, Bavaria, 80538, Germany",
-                "class": "highway",
-                "type": "secondary_link",
-                "snippet": [
-                    "*...Prinzregentenstraße runs parallel to Maximilianstraße and begins at Prinz-Carl-Palais....",
-                    "...The wealthy district of Bogenhausen in the east of Munich is another little-known area (at least among tourists) rich in extravagant architecture, especially around Prinzregentenstraße....",
-                    "...Another area for the arts next to the Kunstareal is the Lehel quarter between the old town and the river Isar: the Museum Five Continents in Maximilianstraße is the second largest collection in Germany of artefacts and objects from outside Europe, while the Bavarian National Museum and the adjoining Bavarian State Archaeological Collection in Prinzregentenstraße rank among Europe's major art and cultural history museums...."
                 ]
             }
         },
@@ -1214,25 +967,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.541388,
-                    48.270493
-                ]
-            },
-            "properties": {
-                "entity": "Schloss Schleissheim",
-                "name_location": "Schloss Schleißheim, A 92, Lohhof, Riedmoos, Unterschleißheim, Landkreis München, Bavaria, 85716, Germany",
-                "class": "tourism",
-                "type": "information",
-                "snippet": [
-                    "*...The second large Baroque residence is Schloss Schleissheim (Schleissheim Palace), located in the suburb of Oberschleissheim, a palace complex encompassing three separate residences: Altes Schloss Schleissheim (the old palace), Neues Schloss Schleissheim (the new palace) and Schloss Lustheim (Lustheim Palace)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     11.559132,
                     48.248902
                 ]
@@ -1282,25 +1016,6 @@
                 "type": "museum",
                 "snippet": [
                     "*...The second large Baroque residence is Schloss Schleissheim (Schleissheim Palace), located in the suburb of Oberschleissheim, a palace complex encompassing three separate residences: Altes Schloss Schleissheim (the old palace), Neues Schloss Schleissheim (the new palace) and Schloss Lustheim (Lustheim Palace)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.55579,
-                    48.245271
-                ]
-            },
-            "properties": {
-                "entity": "Flugwerft Schleissheim",
-                "name_location": "Flugwerft Schleißheim, 18, Effnerstraße, Oberschleißheim, Landkreis München, Bavaria, 85764, Germany",
-                "class": "tourism",
-                "type": "museum",
-                "snippet": [
-                    "...Deutsches Museum's Flugwerft Schleissheim flight exhibition centre is located nearby, on the Schleissheim Special Landing Field...."
                 ]
             }
         },
@@ -1476,26 +1191,6 @@
                 "type": "office",
                 "snippet": [
                     "*...Most high-rise buildings are clustered at the northern edge of Munich in the skyline, like the Hypo-Haus, the Arabella High-Rise Building, the Highlight Towers, Uptown Munich, Münchner Tor and the BMW Headquarters next to the Olympic Park...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.587874,
-                    48.142994
-                ]
-            },
-            "properties": {
-                "entity": "Eisbach",
-                "name_location": "Casino am Eisbach, 24, Prinzregentenstraße, Englischer Garten Süd, Altstadt-Lehel, Munich, Bavaria, 80538, Germany",
-                "class": "amenity",
-                "type": "restaurant",
-                "snippet": [
-                    "*...It was designed and laid out by Benjamin Thompson, Count Rumford, both for pleasure and as a work area for the city's vagrants and homeless.[citation needed]\nNowadays the Englischer Garten a park, its southern half being dominated by wide-open areas, hills, monuments and beach-like stretches (along the streams Eisbach and Schwabinger Bach)....",
-                    "*...Munich has a reputation as a surfing hotspot, offering the world's best known river surfing spot, the Eisbach wave, which is located at the southern edge of the Englischer Garten park and used by surfers day and night and throughout the year...."
                 ]
             }
         },
@@ -1833,26 +1528,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.576184,
-                    48.150869
-                ]
-            },
-            "properties": {
-                "entity": "Simpl",
-                "name_location": "Alter Simpl, 57, Türkenstraße, Universität, Maxvorstadt, Munich, Bavaria, 80799, Germany",
-                "class": "amenity",
-                "type": "pub",
-                "snippet": [
-                    "...Central to Schwabing's bohemian scene (although they were actually often located in the nearby Maxvorstadt quarter) were Künstlerlokale (artist's cafés) like Café Stefanie or Kabarett Simpl, whose liberal ways differed fundamentally from Munich's more traditional localities....",
-                    "*...The Simpl, which survives to this day (although with little relevance to the city's contemporary art scene), was named after Munich's anti-authoritarian satirical magazine Simplicissimus, founded in 1896 by Albert Langen and Thomas Theodor Heine, which quickly became an important organ of the Schwabinger Bohème...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     11.583638,
                     48.1259
                 ]
@@ -2177,7 +1852,9 @@
                 "class": "building",
                 "type": "train_station",
                 "snippet": [
-                    "*...Since the mid-1990s, the Kunstpark Ost and its successor Kultfabrik, a former industrial complex that was converted to a large party area near München Ostbahnhof in Berg am Laim, hosted more than 30 clubs and was especially popular among younger people from the metropolitan area surrounding Munich and tourists...."
+                    "*...Since the mid-1990s, the Kunstpark Ost and its successor Kultfabrik, a former industrial complex that was converted to a large party area near München Ostbahnhof in Berg am Laim, hosted more than 30 clubs and was especially popular among younger people from the metropolitan area surrounding Munich and tourists....",
+                    "*...München Hauptbahnhof is the main railway station located in the city centre and is one of three long-distance stations in Munich, the others being München Ost (to the east) and München-Pasing (to the west)....",
+                    "*...It and München Ost are two of the 21 stations in Germany classified by Deutsche Bahn as a category 1 station...."
                 ]
             }
         },
@@ -2357,26 +2034,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.605519,
-                    48.127721
-                ]
-            },
-            "properties": {
-                "entity": "München Ost",
-                "name_location": "München Ost, Orleansplatz, Haidhausen-Süd, Haidhausen - Süd, Au-Haidhausen, Munich, Bavaria, 81667, Germany",
-                "class": "railway",
-                "type": "station",
-                "snippet": [
-                    "*...München Hauptbahnhof is the main railway station located in the city centre and is one of three long-distance stations in Munich, the others being München Ost (to the east) and München-Pasing (to the west)....",
-                    "*...It and München Ost are two of the 21 stations in Germany classified by Deutsche Bahn as a category 1 station...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     11.461845,
                     48.150245
                 ]
@@ -2388,29 +2045,6 @@
                 "type": "stop",
                 "snippet": [
                     "*...München Hauptbahnhof is the main railway station located in the city centre and is one of three long-distance stations in Munich, the others being München Ost (to the east) and München-Pasing (to the west)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.510281,
-                    48.043701
-                ]
-            },
-            "properties": {
-                "entity": "S-Bahn",
-                "name_location": "Zugspitzstr. 2, S-Bahn, 890007932824, Zugspitzstraße, Höllriegelskreuth, Pullach im Isartal, Landkreis München, Bavaria, 82049, Germany",
-                "class": "amenity",
-                "type": "telephone",
-                "snippet": [
-                    "...Archaeological excavations at Marienhof Square (near Marienplatz) in advance of the expansion of the S-Bahn (subway) in 2012 discovered shards of vessels from the 11th century, which prove again that the settlement of Munich must be older than the Augsburg Arbitration of 1158....",
-                    "*...After winning the bid in 1966 the Mayor of Munich Hans-Jochen Vogel accelerated the construction of the U-Bahn subway and the S-Bahn metropolitan commuter railway....",
-                    "...For its urban population of 2.6 million people, Munich and its closest suburbs have a comprehensive network of public transport incorporating the Munich U-Bahn (underground railway), the Munich S-Bahn (suburban trains), trams and buses....",
-                    "*...The subterranean S-Bahn with 2 platforms and U-Bahn stations with 6 platforms are through stations....",
-                    "*...South of Munich, there are numerous nearby freshwater lakes such as Lake Starnberg, Ammersee, Chiemsee, Walchensee, Kochelsee, Tegernsee, Schliersee, Simssee, Staffelsee, Wörthsee, Kirchsee and the Osterseen (Easter Lakes), which are popular among Munich residents for recreation, swimming and watersports and can be quickly reached by car and a few also by Munich's S-Bahn...."
                 ]
             }
         },

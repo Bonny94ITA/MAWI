@@ -124,28 +124,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    6.141951,
-                    49.617895
-                ]
-            },
-            "properties": {
-                "entity": "Europe",
-                "name_location": "Place de l'Europe, European District South, Kirchberg, Luxembourg, Canton Luxembourg, 2116, Luxembourg",
-                "class": "highway",
-                "type": "pedestrian",
-                "snippet": [
-                    "...Standing at the confluence of the Alzette and Pétrusse rivers in southern Luxembourg, the city lies at the heart of Western Europe, situated 213 km (132 mi) by road from Brussels, 372 km (231 mi) from Paris, and 209 km (130 mi) from Cologne....",
-                    "*...Luxembourg became part of the Burgundian, and later Spanish and Austrian empires (See Spanish Netherlands and Spanish Road) and under those Habsburg administrations Luxembourg Castle was repeatedly strengthened so that by the 16th century, Luxembourg itself was one of the strongest fortifications in Europe....",
-                    "...The ING Europe Marathon has been contested annually in the capital since June 2006....",
-                    "*...Luxembourg is situated in the heart of Europe in the Gold Triangle between Frankfurt, Paris, and Amsterdam...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     6.147666,
                     49.597176
                 ]
@@ -390,25 +368,6 @@
                 "type": "pedestrian",
                 "snippet": [
                     "...Places of interest include the Gothic Revival Cathedral of Notre Dame, the fortifications, Am Tunnel (an art gallery underground), the Grand Ducal Palace, the Gëlle Fra war memorial, the casemates, the Neumünster Abbey, the Place d'Armes, the Adolphe Bridge and the city hall...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.123881,
-                    49.58482
-                ]
-            },
-            "properties": {
-                "entity": "A1",
-                "name_location": "Bloc A1, Boulevard de Kockelscheuer, Gasperich, Luxembourg, Canton Luxembourg, 1821, Luxembourg",
-                "class": "building",
-                "type": "yes",
-                "snippet": [
-                    "*...A1 (E44): to Grevenmacher and Trier (Germany)...."
                 ]
             }
         },

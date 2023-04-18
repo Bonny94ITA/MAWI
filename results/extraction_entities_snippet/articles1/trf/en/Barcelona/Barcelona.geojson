@@ -6,49 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.006485,
-                    41.399937
-                ]
-            },
-            "properties": {
-                "entity": "Llobregat",
-                "name_location": "Llobregat, Carrer del Llobregat, Can Ros, Sant Vicenç dels Horts, Baix Llobregat, Barcelona, Catalonia, 08620, Spain",
-                "class": "highway",
-                "type": "bus_stop",
-                "snippet": [
-                    "*...It is one of the largest metropolises on the Mediterranean Sea, located on the coast between the mouths of the rivers Llobregat and Besòs, and bounded to the west by the Serra de Collserola mountain range....",
-                    "...Barcelona is located on the northeast coast of the Iberian Peninsula, facing the Mediterranean Sea, on a plain approximately 5 km (3 mi) wide limited by the mountain range of Collserola, the Llobregat river to the southwest and the Besòs river to the north....",
-                    "...The city borders on the municipalities of Santa Coloma de Gramenet and Sant Adrià de Besòs to the north; the Mediterranean Sea to the east; El Prat de Llobregat and L'Hospitalet de Llobregat to the south; and Sant Feliu de Llobregat, Sant Just Desvern, Esplugues de Llobregat, Sant Cugat del Vallès, and Montcada i Reixac to the west....",
-                    "...The port is undergoing an enlargement that will double its size thanks to diverting the mouth of the Llobregat river 2 kilometres (1 mile) to the south...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.209713,
-                    41.420369
-                ]
-            },
-            "properties": {
-                "entity": "Besòs",
-                "name_location": "Besòs, Gran Via de les Corts Catalanes, el Besòs i el Maresme, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",
-                "class": "railway",
-                "type": "station",
-                "snippet": [
-                    "*...It is one of the largest metropolises on the Mediterranean Sea, located on the coast between the mouths of the rivers Llobregat and Besòs, and bounded to the west by the Serra de Collserola mountain range....",
-                    "...Barcelona is located on the northeast coast of the Iberian Peninsula, facing the Mediterranean Sea, on a plain approximately 5 km (3 mi) wide limited by the mountain range of Collserola, the Llobregat river to the southwest and the Besòs river to the north....",
-                    "...The city borders on the municipalities of Santa Coloma de Gramenet and Sant Adrià de Besòs to the north; the Mediterranean Sea to the east; El Prat de Llobregat and L'Hospitalet de Llobregat to the south; and Sant Feliu de Llobregat, Sant Just Desvern, Esplugues de Llobregat, Sant Cugat del Vallès, and Montcada i Reixac to the west...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     2.116408,
                     41.434798
                 ]
@@ -217,38 +174,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.172315,
-                    41.394481
-                ]
-            },
-            "properties": {
-                "entity": "Mediterranean",
-                "name_location": "Mediterranean Youth Hostel, Carrer de la Diputació, la Dreta de l'Eixample, Eixample, Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",
-                "class": "tourism",
-                "type": "hostel",
-                "snippet": [
-                    "...It is one of the largest metropolises on the Mediterranean Sea, located on the coast between the mouths of the rivers Llobregat and Besòs, and bounded to the west by the Serra de Collserola mountain range....",
-                    "...The headquarters of the Union for the Mediterranean are located in Barcelona....",
-                    "...His territories were later to be known as the Crown of Aragon, which conquered many overseas possessions and ruled the western Mediterranean Sea with outlying territories in Naples and Sicily and as far as Athens in the 13th century....",
-                    "*...Madrid became the centre of political power whilst the colonisation of the Americas reduced the financial importance (at least in relative terms) of Mediterranean trade....",
-                    "...Barcelona is located on the northeast coast of the Iberian Peninsula, facing the Mediterranean Sea, on a plain approximately 5 km (3 mi) wide limited by the mountain range of Collserola, the Llobregat river to the southwest and the Besòs river to the north....",
-                    "...The city borders on the municipalities of Santa Coloma de Gramenet and Sant Adrià de Besòs to the north; the Mediterranean Sea to the east; El Prat de Llobregat and L'Hospitalet de Llobregat to the south; and Sant Feliu de Llobregat, Sant Just Desvern, Esplugues de Llobregat, Sant Cugat del Vallès, and Montcada i Reixac to the west....",
-                    "*...According to the Köppen climate classification, Barcelona has a hot summer Mediterranean climate (Csa), with mild winters and warm to hot summers, while the rainiest seasons are autumn and spring....",
-                    "*...The rainfall pattern is characterised by a short (3 months) dry season in summer, as well as less winter rainfall than in a typical Mediterranean climate....",
-                    "*...However, both June and August are wetter than February, which is unusual for the Mediterranean climate....",
-                    "...This subtype, labelled as \"Portuguese\" by the French geographer George Viers after the climate classification of Emmanuel de Martonne and found in the NW Mediterranean area (e.g. Marseille), can be seen as transitional to the humid subtropical climate (Cfa) found in inland areas....",
-                    "*...It became the first and most important industrial city in the Mediterranean basin....",
-                    "*...It is the second-largest airport in Spain, and the largest on the Mediterranean coast, which handled more than 50.17 million passengers in 2018, showing an annual upward trend....",
-                    "*...The Barcelona harbour is the leading European cruiser port and a very important Mediterranean turnaround base....",
-                    "*...Barcelona lies on three international routes, including European route E15 that follows the Mediterranean coast, European route E90 to Madrid and Lisbon, and European route E09 to Paris...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     2.185483,
                     41.427975
                 ]
@@ -281,53 +206,6 @@
                     "*...On 17 August 2017, a van was driven into pedestrians on La Rambla, killing 14 and injuring at least 100, one of whom later died....",
                     "*...The major thoroughfare of La Rambla is home to mime artists and street performers....",
                     "*...The famous boulevard of La Rambla, whilst no longer an important vehicular route, remains an important pedestrian route...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.170911,
-                    41.453355
-                ]
-            },
-            "properties": {
-                "entity": "Collserola",
-                "name_location": "Collserola, Carretera Antiga d'Horta a Cerdanyola, Torre Baró, Nou Barris, Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",
-                "class": "tourism",
-                "type": "information",
-                "snippet": [
-                    "...It is one of the largest metropolises on the Mediterranean Sea, located on the coast between the mouths of the rivers Llobregat and Besòs, and bounded to the west by the Serra de Collserola mountain range....",
-                    "*...Barcelona is located on the northeast coast of the Iberian Peninsula, facing the Mediterranean Sea, on a plain approximately 5 km (3 mi) wide limited by the mountain range of Collserola, the Llobregat river to the southwest and the Besòs river to the north....",
-                    "...Tibidabo, 512 m (1,680 ft) high, offers striking views over the city and is topped by the 288.4 m (946.2 ft) Torre de Collserola, a telecommunications tower that is visible from most of the city....",
-                    "*...Snow is also very infrequent in the city of Barcelona, but light snowfalls can occur yearly in the nearby Collserola mountains, such as in the Fabra Observatory located in a nearby mountain....",
-                    "*...There's also the Ultratrail Collserola which passes 85 kilometres (53 miles) through the Collserola forest....",
-                    "...A part of the Collserola Park is also within the city limits...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.119344,
-                    41.421563
-                ]
-            },
-            "properties": {
-                "entity": "Tibidabo",
-                "name_location": "Tibidabo, Camí del Cel del Tibidabo, el Tibidabo, Vallvidrera, el Tibidabo i les Planes, Sarrià - Sant Gervasi, Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",
-                "class": "tourism",
-                "type": "information",
-                "snippet": [
-                    "*...Tibidabo, 512 m (1,680 ft) high, offers striking views over the city and is topped by the 288.4 m (946.2 ft) Torre de Collserola, a telecommunications tower that is visible from most of the city....",
-                    "...A heritage tram line, the Tramvia Blau, also operates between the metro Line 7 and the Funicular del Tibidabo....",
-                    "*...FGC operates the Funicular de Tibidabo up the hill of Tibidabo and the Funicular de Vallvidrera (FGC), while TMB runs the Funicular de Montjuïc up Montjuïc....",
-                    "...Expiatory church of the Sacred Heart of Jesus on the summit of Tibidabo....",
-                    "...Also, within the city lies Tibidabo Amusement Park, a smaller amusement park in Plaza del Tibidabo, with the Muntanya Russa amusement ride...."
                 ]
             }
         },
@@ -375,37 +253,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.192945,
-                    41.386688
-                ]
-            },
-            "properties": {
-                "entity": "Ciutadella",
-                "name_location": "Ciutadella | Vila Olímpica, Carrer de Moscou, la Vila Olímpica del Poblenou, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",
-                "class": "railway",
-                "type": "stop",
-                "snippet": [
-                    "*...The escarpment of Montjuïc (173 metres or 568 feet), situated to the southeast, overlooks the harbour and is topped by Montjuïc Castle, a fortress built in the 17–18th centuries to control the city as a replacement for the Ciutadella....",
-                    "...It is followed by Parc de la Ciutadella (which occupies the site of the old military citadel and which houses the Parliament building, the Barcelona Zoo, and several museums); 31 ha or 76.6 acres including the zoo), the Guinardó Park (19 ha or 47.0 acres), Park Güell (designed by Antoni Gaudí; 17.2 ha or 42.5 acres), Oreneta Castle Park (also 17.2 ha or 42.5 acres), Diagonal Mar Park (13.3 ha or 32.9 acres, inaugurated in 2002), Nou Barris Central Park (13.2 ha or 32.6 acres), Can Dragó Sports Park and Poblenou Park (both 11.9 ha or 29.4 acres), the Labyrinth Park (9.10 ha or 22.5 acres), named after the garden maze it contains...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.095901,
-                    41.337306
+                    2.09591,
+                    41.337302
                 ]
             },
             "properties": {
                 "entity": "El Prat de Llobregat",
-                "name_location": "El Prat de Llobregat, Camí del Sorral, el Prat de Llobregat, Baix Llobregat, Barcelona, Catalonia, 08820, Spain",
+                "name_location": "el Prat de Llobregat, Camí del Sorral, el Prat de Llobregat, Baix Llobregat, Barcelona, Catalonia, 08820, Spain",
                 "class": "tourism",
                 "type": "information",
                 "snippet": [
-                    "*...The city borders on the municipalities of Santa Coloma de Gramenet and Sant Adrià de Besòs to the north; the Mediterranean Sea to the east; El Prat de Llobregat and L'Hospitalet de Llobregat to the south; and Sant Feliu de Llobregat, Sant Just Desvern, Esplugues de Llobregat, Sant Cugat del Vallès, and Montcada i Reixac to the west...."
+                    "*...The city borders on the municipalities of Santa Coloma de Gramenet and Sant Adrià de Besòs to the north; the Mediterranean Sea to the east; El Prat de Llobregat and L'Hospitalet de Llobregat to the south; and Sant Feliu de Llobregat, Sant Just Desvern, Esplugues de Llobregat, Sant Cugat del Vallès, and Montcada i Reixac to the west....",
+                    "*...It is one of the largest metropolises on the Mediterranean Sea, located on the coast between the mouths of the rivers Llobregat and Besòs, and bounded to the west by the Serra de Collserola mountain range....",
+                    "...Barcelona is located on the northeast coast of the Iberian Peninsula, facing the Mediterranean Sea, on a plain approximately 5 km (3 mi) wide limited by the mountain range of Collserola, the Llobregat river to the southwest and the Besòs river to the north....",
+                    "...The port is undergoing an enlargement that will double its size thanks to diverting the mouth of the Llobregat river 2 kilometres (1 mile) to the south...."
                 ]
             }
         },
@@ -420,7 +281,7 @@
             },
             "properties": {
                 "entity": "L'Hospitalet de Llobregat",
-                "name_location": "L'Hospitalet de Llobregat, Cornisa Verda, Can Serra, Districte V, l'Hospitalet de Llobregat, Barcelonès, Barcelona, Catalonia, 08801, Spain",
+                "name_location": "l'Hospitalet de Llobregat, Cornisa Verda, Can Serra, Districte V, l'Hospitalet de Llobregat, Barcelonès, Barcelona, Catalonia, 08801, Spain",
                 "class": "railway",
                 "type": "station",
                 "snippet": [
@@ -547,29 +408,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.171994,
-                    41.402898
-                ]
-            },
-            "properties": {
-                "entity": "Sagrada Família",
-                "name_location": "Sagrada Familia, 318, Carrer de Sicília, la Sagrada Família, Eixample, Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",
-                "class": "amenity",
-                "type": "ice_cream",
-                "snippet": [
-                    "...The city's highest density is found at and around the neighbourhood of la Sagrada Família where four of the city's most densely populated neighbourhoods are located side by side, all with a population density above 50,000 inhabitants per square kilometre....",
-                    "...Several road running competitions are organised year-round in Barcelona: the Barcelona Marathon every March with over 10,000 participants in 2010, the Cursa de Bombers in April, the Cursa de El Corte Inglés in May (with about 60,000 participants each year), the Cursa de la Mercè, the Cursa Jean Bouin, the Milla Sagrada Família and the San Silvestre....",
-                    "...His best-known work is the immense but still unfinished church of the Sagrada Família, which has been under construction since 1882 and is still financed by private donations....",
-                    "*...Minor basilica of Sagrada Família, the symbol of Barcelona....",
-                    "*...Works by Antoni Gaudí, including Park Güell, Palau Güell, Casa Milà (La Pedrera), Casa Vicens, Sagrada Família (Nativity façade and crypt), Casa Batlló, crypt in Church of Colònia Güell. The first three works were inscribed as a World Heritage Site in 1984. The other four were added as extensions to the site in 2005...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     2.166915,
                     41.386209
                 ]
@@ -609,26 +447,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.109068,
-                    41.392568
-                ]
-            },
-            "properties": {
-                "entity": "Pedralbes",
-                "name_location": "Pedralbes, Ronda de Dalt, Pedralbes, les Corts, Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",
-                "class": "highway",
-                "type": "motorway_junction",
-                "snippet": [
-                    "*...There is a Japanese community clustered in Bonanova, Les Tres Torres, Pedralbes, and other northern neighbourhoods, and a Japanese international school serves that community....",
-                    "...Monastery of Pedralbes (gothic) ;..."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     2.151788,
                     41.37194
                 ]
@@ -641,27 +459,6 @@
                 "snippet": [
                     "*...It also has several congress halls, notably Fira de Barcelona – the second largest trade fair and exhibition centre in Europe, that host a quickly growing number of national and international events each year (at present above 50)....",
                     "*...The total exhibition floor space of Fira de Barcelona venues is 405,000 m2 (41 ha), not counting Gran Via centre on the Plaza de Europa...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.18006,
-                    41.398619
-                ]
-            },
-            "properties": {
-                "entity": "Gran Via",
-                "name_location": "Bar Granvja, 731, Gran Via de les Corts Catalanes (lateral muntanya), el Fort Pienc, Eixample, Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",
-                "class": "amenity",
-                "type": "bar",
-                "snippet": [
-                    "*...The total exhibition floor space of Fira de Barcelona venues is 405,000 m2 (41 ha), not counting Gran Via centre on the Plaza de Europa....",
-                    "...The city is circled by three half ring roads or bypasses, Ronda de Dalt (B-20) (on the mountain side), Ronda del Litoral (B-10) (along the coast) and Ronda del Mig (separated into two parts: Travessera de Dalt in the north and the Gran Via de Carles III), two partially covered fast highways with several exits that bypass the city....",
-                    "...The city's main arteries include Diagonal Avenue, which crosses it diagonally, Meridiana Avenue which leads to Glòries and connects with Diagonal Avenue and Gran Via de les Corts Catalanes, which crosses the city from east to west, passing through its centre...."
                 ]
             }
         },
@@ -791,7 +588,7 @@
             },
             "properties": {
                 "entity": "Camp Nou",
-                "name_location": "Camp Municipal de Futbol Nou Sardenya - Europa, 42, Carrer de les Camèlies, el Camp d'en Grassot i Gràcia Nova, Gràcia, Barcelona, Barcelonès, Barcelona, Catalonia, 08024, Spain",
+                "name_location": "Camp Municipal de Futbol Nou Sardenya - Europa, 42, Carrer de les Camèlies, la Salut, Gràcia, Barcelona, Barcelonès, Barcelona, Catalonia, 08024, Spain",
                 "class": "leisure",
                 "type": "stadium",
                 "snippet": [
@@ -886,7 +683,7 @@
             },
             "properties": {
                 "entity": "Nou Sardenya",
-                "name_location": "Camp Municipal de Futbol Nou Sardenya - Europa, 42, Carrer de les Camèlies, el Camp d'en Grassot i Gràcia Nova, Gràcia, Barcelona, Barcelonès, Barcelona, Catalonia, 08024, Spain",
+                "name_location": "Camp Municipal de Futbol Nou Sardenya - Europa, 42, Carrer de les Camèlies, la Salut, Gràcia, Barcelona, Barcelonès, Barcelona, Catalonia, 08024, Spain",
                 "class": "leisure",
                 "type": "stadium",
                 "snippet": [
@@ -1032,28 +829,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.182982,
-                    41.376659
-                ]
-            },
-            "properties": {
-                "entity": "Port Vell",
-                "name_location": "Port Vell, Moll d'Espanya, Gothic Quarter, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",
-                "class": "highway",
-                "type": "platform",
-                "snippet": [
-                    "...An important business centre, the World Trade Center Barcelona, is located in Barcelona's Port Vell harbour....",
-                    "*...Its 10 km2 (4 sq mi) are divided into three zones: Port Vell (the old port), the commercial port and the logistics port (Barcelona Free Port)....",
-                    "*...The Port Vell area also houses the Maremagnum (a commercial mall), a multiplex Cinema, the IMAX Port Vell and one of Europe's largest aquariums – Aquarium Barcelona, containing 8,000 fish and 11 sharks contained in 22 basins filled with 4 million litres of sea water....",
-                    "...The city has two aerial cable cars: the Montjuïc Cable Car, which serves Montjuïc castle, and the Port Vell Aerial Tramway that runs via Torre Jaume I and Torre Sant Sebastià over the port...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     2.182381,
                     41.375723
                 ]
@@ -1132,25 +907,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.174743,
-                    41.382544
-                ]
-            },
-            "properties": {
-                "entity": "AVE",
-                "name_location": "Carrer de l'Ave Maria, Gothic Quarter, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",
-                "class": "highway",
-                "type": "pedestrian",
-                "snippet": [
-                    "*...RENFE's AVE high-speed rail system, which is designed for speeds of 310 km/h (193 mph), was extended from Madrid to Barcelona in 2008 in the form of the Madrid–Barcelona high-speed rail line...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     2.164045,
                     41.376026
                 ]
@@ -1162,50 +918,6 @@
                 "type": "bar",
                 "snippet": [
                     "*...Barcelona is served by an extensive local public transport network that includes a metro system, a bus network, a regional railway system, trams, funiculars, rack railways, a Gondola lift and aerial cable cars...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.168385,
-                    41.385666
-                ]
-            },
-            "properties": {
-                "entity": "Barcelona Metro",
-                "name_location": "S1-S2 Metro del Vallès i L6-L7 Metro de Barcelona, Carrer de Pelai, la Dreta de l'Eixample, Eixample, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",
-                "class": "railway",
-                "type": "subway",
-                "snippet": [
-                    "*...The Barcelona Metro network comprises twelve lines, identified by an \"L\" followed by the line number as well as by individual colours...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.163416,
-                    41.384034
-                ]
-            },
-            "properties": {
-                "entity": "Metro",
-                "name_location": "Metro, 185, Carrer de Sepúlveda, Sant Antoni, Eixample, Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",
-                "class": "amenity",
-                "type": "nightclub",
-                "snippet": [
-                    "...The airport is connected to the city by highway, metro (Airport T1 and Airport T2 stations), commuter train (Barcelona Airport railway station) and scheduled bus service....",
-                    "...Barcelona is served by an extensive local public transport network that includes a metro system, a bus network, a regional railway system, trams, funiculars, rack railways, a Gondola lift and aerial cable cars....",
-                    "...The Barcelona Metro network comprises twelve lines, identified by an \"L\" followed by the line number as well as by individual colours....",
-                    "*...The Metro largely runs underground; eight Metro lines are operated on dedicated track by the Transports Metropolitans de Barcelona (TMB), whilst four lines are operated by the Ferrocarrils de la Generalitat de Catalunya (FGC) and some of them share tracks with RENFE commuter lines....",
-                    "...In addition to the city Metro, several regional rail lines operated by RENFE's Rodalies de Catalunya run across the city, providing connections to outlying towns in the surrounding region....",
-                    "...A heritage tram line, the Tramvia Blau, also operates between the metro Line 7 and the Funicular del Tibidabo....",
-                    "...Barcelona's metro and rail system is supplemented by several aerial cable cars, funiculars and rack railways that provide connections to mountain-top stations...."
                 ]
             }
         },
@@ -1319,7 +1031,16 @@
                 "class": "railway",
                 "type": "funicular",
                 "snippet": [
-                    "...FGC operates the Funicular de Tibidabo up the hill of Tibidabo and the Funicular de Vallvidrera (FGC), while TMB runs the Funicular de Montjuïc up Montjuïc...."
+                    "...FGC operates the Funicular de Tibidabo up the hill of Tibidabo and the Funicular de Vallvidrera (FGC), while TMB runs the Funicular de Montjuïc up Montjuïc....",
+                    "*...Archeological evidence in the form of coins from the 3rd Century BC have been found on the hills at the foot of Montjuïc with the name Bárkeno written in an ancient script in the Iberian language....",
+                    "*...In the 18th century, a fortress was built at Montjuïc that overlooked the harbour....",
+                    "*...The escarpment of Montjuïc (173 metres or 568 feet), situated to the southeast, overlooks the harbour and is topped by Montjuïc Castle, a fortress built in the 17–18th centuries to control the city as a replacement for the Ciutadella....",
+                    "*...Today, the fortress is a museum and Montjuïc is home to several sporting and cultural venues, as well as Barcelona's biggest park and gardens....",
+                    "*...Is made up of the ten least densely populated neighbourhoods containing less than 10% of the city's population, the uninhabited Zona Franca industrial area and Montjuïc forest park....",
+                    "...Sants-Montjuïc ;...",
+                    "*...FGC operates the Funicular de Tibidabo up the hill of Tibidabo and the Funicular de Vallvidrera (FGC), while TMB runs the Funicular de Montjuïc up Montjuïc....",
+                    "*...The city has two aerial cable cars: the Montjuïc Cable Car, which serves Montjuïc castle, and the Port Vell Aerial Tramway that runs via Torre Jaume I and Torre Sant Sebastià over the port....",
+                    "*...Of Barcelona's parks, Montjuïc is the largest, with 203 ha located on the mountain of the same name...."
                 ]
             }
         },
@@ -1357,7 +1078,8 @@
                 "class": "aerialway",
                 "type": "station",
                 "snippet": [
-                    "*...The city has two aerial cable cars: the Montjuïc Cable Car, which serves Montjuïc castle, and the Port Vell Aerial Tramway that runs via Torre Jaume I and Torre Sant Sebastià over the port...."
+                    "*...The city has two aerial cable cars: the Montjuïc Cable Car, which serves Montjuïc castle, and the Port Vell Aerial Tramway that runs via Torre Jaume I and Torre Sant Sebastià over the port....",
+                    "*...Sant Sebastià, Barceloneta and Somorrostro beaches, both 1,100 m (3,610 ft) in length, are the largest, oldest and the most-frequented beaches in Barcelona...."
                 ]
             }
         },
@@ -1444,8 +1166,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.177,
-                    41.37314
+                    2.177282,
+                    41.373694
                 ]
             },
             "properties": {
@@ -1549,7 +1271,9 @@
                 "class": "highway",
                 "type": "primary_link",
                 "snippet": [
-                    "...The city is circled by three half ring roads or bypasses, Ronda de Dalt (B-20) (on the mountain side), Ronda del Litoral (B-10) (along the coast) and Ronda del Mig (separated into two parts: Travessera de Dalt in the north and the Gran Via de Carles III), two partially covered fast highways with several exits that bypass the city...."
+                    "...The city is circled by three half ring roads or bypasses, Ronda de Dalt (B-20) (on the mountain side), Ronda del Litoral (B-10) (along the coast) and Ronda del Mig (separated into two parts: Travessera de Dalt in the north and the Gran Via de Carles III), two partially covered fast highways with several exits that bypass the city....",
+                    "*...The total exhibition floor space of Fira de Barcelona venues is 405,000 m2 (41 ha), not counting Gran Via centre on the Plaza de Europa....",
+                    "...The city's main arteries include Diagonal Avenue, which crosses it diagonally, Meridiana Avenue which leads to Glòries and connects with Diagonal Avenue and Gran Via de les Corts Catalanes, which crosses the city from east to west, passing through its centre...."
                 ]
             }
         },
@@ -1864,33 +1588,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.004936,
-                    42.126907
-                ]
-            },
-            "properties": {
-                "entity": "Montjuïc",
-                "name_location": "Montjuïc, pont de Sant Joan, Borredà, Berguedà, Barcelona, Catalonia, 08619, Spain",
-                "class": "building",
-                "type": "yes",
-                "snippet": [
-                    "*...Archeological evidence in the form of coins from the 3rd Century BC have been found on the hills at the foot of Montjuïc with the name Bárkeno written in an ancient script in the Iberian language....",
-                    "*...In the 18th century, a fortress was built at Montjuïc that overlooked the harbour....",
-                    "*...The escarpment of Montjuïc (173 metres or 568 feet), situated to the southeast, overlooks the harbour and is topped by Montjuïc Castle, a fortress built in the 17–18th centuries to control the city as a replacement for the Ciutadella....",
-                    "*...Today, the fortress is a museum and Montjuïc is home to several sporting and cultural venues, as well as Barcelona's biggest park and gardens....",
-                    "*...Is made up of the ten least densely populated neighbourhoods containing less than 10% of the city's population, the uninhabited Zona Franca industrial area and Montjuïc forest park....",
-                    "...Sants-Montjuïc ;...",
-                    "*...FGC operates the Funicular de Tibidabo up the hill of Tibidabo and the Funicular de Vallvidrera (FGC), while TMB runs the Funicular de Montjuïc up Montjuïc....",
-                    "*...The city has two aerial cable cars: the Montjuïc Cable Car, which serves Montjuïc castle, and the Port Vell Aerial Tramway that runs via Torre Jaume I and Torre Sant Sebastià over the port....",
-                    "*...Of Barcelona's parks, Montjuïc is the largest, with 203 ha located on the mountain of the same name...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     2.185936,
                     41.385852
                 ]
@@ -1901,7 +1598,8 @@
                 "class": "tourism",
                 "type": "information",
                 "snippet": [
-                    "*...It is followed by Parc de la Ciutadella (which occupies the site of the old military citadel and which houses the Parliament building, the Barcelona Zoo, and several museums); 31 ha or 76.6 acres including the zoo), the Guinardó Park (19 ha or 47.0 acres), Park Güell (designed by Antoni Gaudí; 17.2 ha or 42.5 acres), Oreneta Castle Park (also 17.2 ha or 42.5 acres), Diagonal Mar Park (13.3 ha or 32.9 acres, inaugurated in 2002), Nou Barris Central Park (13.2 ha or 32.6 acres), Can Dragó Sports Park and Poblenou Park (both 11.9 ha or 29.4 acres), the Labyrinth Park (9.10 ha or 22.5 acres), named after the garden maze it contains...."
+                    "*...It is followed by Parc de la Ciutadella (which occupies the site of the old military citadel and which houses the Parliament building, the Barcelona Zoo, and several museums); 31 ha or 76.6 acres including the zoo), the Guinardó Park (19 ha or 47.0 acres), Park Güell (designed by Antoni Gaudí; 17.2 ha or 42.5 acres), Oreneta Castle Park (also 17.2 ha or 42.5 acres), Diagonal Mar Park (13.3 ha or 32.9 acres, inaugurated in 2002), Nou Barris Central Park (13.2 ha or 32.6 acres), Can Dragó Sports Park and Poblenou Park (both 11.9 ha or 29.4 acres), the Labyrinth Park (9.10 ha or 22.5 acres), named after the garden maze it contains....",
+                    "*...The escarpment of Montjuïc (173 metres or 568 feet), situated to the southeast, overlooks the harbour and is topped by Montjuïc Castle, a fortress built in the 17–18th centuries to control the city as a replacement for the Ciutadella...."
                 ]
             }
         },
@@ -1916,31 +1614,11 @@
             },
             "properties": {
                 "entity": "Parc de Les Aigües",
-                "name_location": "Parc de les aigües, Avinguda de la Ribera, Can Sant Joan, Montcada i Reixac, Vallès Occidental, Barcelona, Catalonia, 08110, Spain",
+                "name_location": "Parc de les Aigües, Avinguda de la Ribera, Can Sant Joan, Montcada i Reixac, Vallès Occidental, Barcelona, Catalonia, 08110, Spain",
                 "class": "tourism",
                 "type": "information",
                 "snippet": [
                     "...There are also several smaller parks, for example, the Parc de Les Aigües (2 ha or 4.9 acres)...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.249914,
-                    41.465753
-                ]
-            },
-            "properties": {
-                "entity": "Sant Sebastià",
-                "name_location": "Sant Sebastià, 4, Avinguda de Terrassa, Pomar, Districte 3, Badalona, Barcelonès, Barcelona, Catalonia, 08915, Spain",
-                "class": "amenity",
-                "type": "place_of_worship",
-                "snippet": [
-                    "...The city has two aerial cable cars: the Montjuïc Cable Car, which serves Montjuïc castle, and the Port Vell Aerial Tramway that runs via Torre Jaume I and Torre Sant Sebastià over the port....",
-                    "*...Sant Sebastià, Barceloneta and Somorrostro beaches, both 1,100 m (3,610 ft) in length, are the largest, oldest and the most-frequented beaches in Barcelona...."
                 ]
             }
         },
@@ -2015,25 +1693,6 @@
                 "name_location": "Bogatell, Carrer de Pujades, el Parc i la Llacuna del Poblenou, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",
                 "class": "railway",
                 "type": "station",
-                "snippet": [
-                    "*...The Olympic Harbour separates them from the other city beaches: Nova Icària, Bogatell, Mar Bella, Nova Mar Bella and Llevant...."
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.209283,
-                    41.396682
-                ]
-            },
-            "properties": {
-                "entity": "Mar Bella",
-                "name_location": "Passeig Marítim de la Mar Bella, el Poblenou, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalonia, 08001, Spain",
-                "class": "highway",
-                "type": "footway",
                 "snippet": [
                     "*...The Olympic Harbour separates them from the other city beaches: Nova Icària, Bogatell, Mar Bella, Nova Mar Bella and Llevant...."
                 ]
