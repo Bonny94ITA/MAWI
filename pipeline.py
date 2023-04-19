@@ -15,7 +15,7 @@ lang = "en"
 path_articles1_it = f'input/articles1/it/texts/'
 path_articles1_en = f'input/articles1/en/texts/'
 path_articles1_titles = f'input/articles1/articles1_title.txt'
-path_results = f'results/extraction_entities_snippet/'
+path_results = f'results/'
 
 titles_articles = read_titles(path_articles1_titles, lang) 
 model = create_model(lang, trf)
