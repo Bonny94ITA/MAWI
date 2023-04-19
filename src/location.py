@@ -109,7 +109,7 @@ def search_entities_geopy(searchable_entities: dict, geographic_scope: dict, pat
 
     # Save entities
 
-    results_file_path = path_results+"/entities_founded.txt"
+    results_file_path = path_results+"/entities_found.txt"
     delete_file(results_file_path)
     entities_final = df['entity'].to_list()
     #entities_final = merge_entities(features, entities_final)
