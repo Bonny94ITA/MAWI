@@ -1,4 +1,4 @@
-# PointOfInterest
+# MAWI: Mapping the Unmapped in Wikipedia Texts through Geographic Information Extraction
 
 ## SpaCy setup
 
