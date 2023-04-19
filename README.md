@@ -10,6 +10,8 @@
 
 `python -m spacy download en_core_web_sm`
 
+`python -m spacy download en_core_web_trf`
+
 
 # SpaCy utils
 
@@ -44,9 +46,9 @@ ORDINAL:     “first”, “second”, etc.
 CARDINAL:    Numerals that do not fall under another type.
 ```
 
-## Dataset Region/State
+## Italian NER - trf-based
 
-https://www.kaggle.com/datasets/max-mind/world-cities-database
+https://huggingface.co/bullmount/it_nerIta_trf
 
 ## BeautifulSoup setup and utils
 
@@ -63,4 +65,12 @@ https://pypi.org/project/geojson/
 
 http://geojson.io
 
-https://geocode.maps.co
+
+## Nominatim setup and utils -> geopy library
+
+https://github.com/geopy/geopy
+
+`pip install geopy`
+
+
+

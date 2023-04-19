@@ -63,7 +63,6 @@ def clean_html(soup: BeautifulSoup):
     #Delete all the parts that are not meaningful
 
     # References in the text 
-
     references = soup.find_all('sup', class_='reference') 
 
     for ref in references:
@@ -215,97 +214,3 @@ def fetch_article(title: str, lang: str, path_save_links: str, path_save_text: s
         with open(article_links, 'w', encoding='utf-8') as f: 
             for link in links: 
                 f.write(link + "\n")
-
-
-def get_geographic_scope(ents: list): 
-    # TODO: improve the function to get the geographic scope
-    pass
-
-def get_context(title: str, lang: str): # TODO: DELETE!
-    """ Get the context of the title page in wikipedia with MediaWiki API.
-
-    Args: 
-        title: str Wikipedia page title
-        lang: str Wikipedia language
-    
-    Returns:
-        context: dict Context of the page
-    """
-
-    session = requests.Session()
-    url_api = "https://"+lang+".wikipedia.org/w/api.php"
-    params_coord = {
-        "action": "query",
-        "prop": "coordinates",
-        "titles": title,
-        "formatversion": "2",
-        "format": "json"
-    }
-
-    response_coord = session.get(url=url_api, params=params_coord)
-    data_coord = response_coord.json()
-
-    print(data_coord)
-
-    coordinates = data_coord['query']['pages'][0]['coordinates']
-    location = {"name": title, 
-                "latitude": coordinates[0]['lat'], 
-                "longitude": coordinates[0]['lon'], 
-                "polygon": get_polygon(title)}
-
-    return location
-
-def wiki_content(title: str, context = False):
-    """ Search title page in wikipedia with MediaWiki API.
-
-    Args: 
-        title: str Wikipedia page title
-        context: boolean if true is searched also the location of the context
-    Returns:
-        Wikipedia page content cleaned  
-        Location of the context if context is True
-    """
-
-    file_content = f'results/wikiPageContent/{title}.txt'
-    session = requests.Session()
-    url_api = "https://it.wikipedia.org/w/api.php"
-    
-    if exists(file_content): 
-        with open(file_content, "r", encoding='utf-8') as f: 
-            cleaned_content = f.read()
-    else: 
-
-        params = {
-            "action": "parse",
-            "page": title,
-            "format": "json",
-            "prop": "text",
-            "formatversion": "2"
-        }
-
-        response = session.get(url=url_api, params=params)
-        data = response.json()
-        content = data['parse']['text']
-        soup = BeautifulSoup(content, features="lxml")
-
-        soup, white_list = clean_html(soup)
-
-        soup = add_punct_bullets(soup)
-
-        cleaned_content = "\n".join([string for string in soup.text.split('\n') if string != '' and string != ' '])
-
-        cleaned_content = substitute_whitelist(cleaned_content, white_list)
-        
-        cleaned_content = cleaned_content.replace("“", "\"").replace("”", "\"")
-
-        with open(file_content, 'w', encoding='utf-8') as f:
-            f.write(cleaned_content)
-
-    if context: 
-
-        location = get_context(title, "it")    
-        return cleaned_content, location
-    
-    else: 
-        return cleaned_content
-

@@ -131,7 +131,7 @@ def check_well_formed(ent: Span):
 
     if len(ent) > 0: 
         if ent.text.count("\"") == 1:
-            print("prima: ", ent)
+            #print("before: ", ent)
             nbor = ent[-1].nbor()
             doc = ent.doc 
             count = 5
@@ -160,10 +160,10 @@ def check_well_formed(ent: Span):
             new_ent = span.char_span(0, len(span.text), label=ent.label_)
             if len(ent.text) + 1 == len(new_ent.text) and new_ent.text[0] == '"' and new_ent.text[0] == new_ent.text[-1]: # well formed with one more character
                 new_ent = ent[1:]
-            print("dopo: ", new_ent)
+            #print("after: ", new_ent)
             return new_ent
         elif ent.text.count("(") == 1 and ent.text.count(")") == 0: 
-            print("prima: ", ent)
+            #print("before: ", ent)
             nbor = ent[0].nbor()
             doc = ent.doc 
             
@@ -178,7 +178,7 @@ def check_well_formed(ent: Span):
 
             span = doc[start_ent: end_ent]
             new_ent = span.char_span(0, len(span.text), label=ent.label_)
-            print("dopo: ", new_ent)
+            #print("after: ", new_ent)
             return new_ent
     
     return ent
@@ -242,7 +242,7 @@ def clean_entities_to_search(entities_to_search: dict, entities_to_search_pos: d
                     entities_to_search[entity_r].append(snippet)
             del entities_to_search[entity_w]
 
-    print("DA ELIMINARE: ", entities_to_delete)
+    #print("TO DELETE: ", entities_to_delete)
     entities_to_delete = []
     # delete entities that are nouns or adjectives
     for entity in entities_to_search:
@@ -254,7 +254,7 @@ def clean_entities_to_search(entities_to_search: dict, entities_to_search_pos: d
             if is_noun: 
                 entities_to_delete.append(entity)
 
-    print("DA ELIMINARE: ", entities_to_delete)
+    #print("TO DELETE: ", entities_to_delete)
     for entity in entities_to_delete:
         del entities_to_search[entity]
     

@@ -160,13 +160,9 @@ def get_location_names(list: list[tuple[str, str, str]]):
     df = pd.DataFrame(locations, columns=['entity', 'to_search', 'snippet'])
     df.head()
     df['address'] = df['to_search'].apply(partial(geocode, language='it', exactly_one=True))
-
     df = df[pd.notnull(df['address'])]
-
     df['coordinates'] = df['address'].apply(lambda loc: Point((loc.longitude, loc.latitude)) if loc else None)
-
     df['name_location'] = df['address'].apply(lambda loc: loc.address if loc else None)
-
     df[['class', 'type']] = df['address'].apply(lambda loc: pd.Series([loc.raw['class'], loc.raw['type']]) if loc else None)
 
     print(df)

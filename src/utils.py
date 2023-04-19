@@ -68,67 +68,7 @@ def save_results(features: list, path_results: str, title_page: str):
         json.dump(geojson, f, ensure_ascii=False, indent=4)
         print("The result complete has been saved as a file inside the response folder")
 
-    #features_cleaned, outliers = detection_outliers(features, context)
-
-    #features_cleaned.append(context['polygon'])
-    #outliers.append(context['polygon'])
-
-    #geojson_cleaned = FeatureCollection(features_cleaned)
-    #geojson_outliers = FeatureCollection(outliers)
-    
-    #with open(results_cleaned_path, 'w', encoding='utf-8') as f:
-    #    json.dump(geojson_cleaned, f, ensure_ascii=False, indent=4)
-    #    print("The result cleaned has been saved as a file inside the response folder")
-
-    #with open(results_outliers_path, 'w', encoding='utf-8') as f:
-    #    json.dump(geojson_outliers, f, ensure_ascii=False, indent=4)
-    #    print("The result outliers has been saved as a file inside the response folder")
-
-def get_polygon(name: str): # TODO: DELETE
-    """ Get the polygon of the location using wikidata API.
-
-    Args:
-        name: name of the location
-    
-    Returns:
-        polygon: polygon of the location
-    """
-
-    entity_id= get_entity_id(name)
-
-    client = Client()
-
-    client.request
-    entity = client.get(entity_id, load=True)
-
-    easternpoint_prop = client.get('P1334')
-    easternpoint = entity[easternpoint_prop]
-    e_coord = [easternpoint.longitude, easternpoint.latitude]
-
-    northernpoint_prop = client.get('P1332')
-    northernpoint = entity[northernpoint_prop]
-    n_coord = [northernpoint.longitude, northernpoint.latitude]
-
-    southernpoint_prop = client.get('P1333')
-    southernpoint = entity[southernpoint_prop] 
-    s_coord = [southernpoint.longitude, southernpoint.latitude]
-
-    westernpoint_prop = client.get('P1335')
-    westernpoint = entity[westernpoint_prop]
-    w_coord = [westernpoint.longitude, westernpoint.latitude]
-
-    city = {
-        "type": "Polygon", 
-        "coordinates": [
-                [e_coord, n_coord, w_coord, s_coord, e_coord]
-        ]
-    }
-
-    feature = Feature(geometry=city, properties={"name": "turin"})
-
-    return feature
-
-def get_entity_id(name: str, lang: str = "it"): # TODO: DELETE
+def get_entity_id(name: str, lang: str = "it"):
     """ Get the entity id of the location using wikidata API.
     
     Args:

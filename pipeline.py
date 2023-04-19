@@ -14,17 +14,11 @@ lang = "en"
 
 path_articles1_it = f'input/articles1/it/texts/'
 path_articles1_en = f'input/articles1/en/texts/'
-path_articles2 = f'input/articles2/it/texts/'
-
 path_articles1_titles = f'input/articles1/articles1_title.txt'
-path_articles2_titles = f'input/articles2/articles2_title.txt'
-
 path_results = f'results/extraction_entities_snippet/'
 
 titles_articles = read_titles(path_articles1_titles, lang) 
-
 model = create_model(lang, trf)
-
 geocoder = create_geocoder()
 
 for title in titles_articles:
@@ -51,10 +45,9 @@ for title in titles_articles:
 
     doc = nlp(text)
 
-    geographic_scope = get_geographic_scope(doc, lang, geocoder) # TODO: controllare che funzioni anche per gli articoli di tipo 2
+    geographic_scope = get_geographic_scope(doc, lang, geocoder) 
 
     # Get entities without duplicates
-
     searchable_entities, sentence_dict = get_entities_snippet(doc)
     logging.info('get_entities_snippet')
 
